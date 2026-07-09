@@ -1,0 +1,8 @@
+Coloque aqui as imagens de comunicados (cartazes prontos, tipo o da dedetizadora).
+
+Depois adicione no config.json, na lista "comunicados":
+
+    { "imagem": "comunicados/nome-do-arquivo.jpg" }
+
+A imagem aparece inteira na área de comunicados, alternando com os avisos de texto.
+Dica: imagens na vertical ou quadradas aproveitam melhor o espaço da tela.

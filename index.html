@@ -81,9 +81,13 @@
     font-size:2.1vh;font-weight:700;letter-spacing:.04em;display:flex;justify-content:space-between;gap:1vh;
   }
   .board .head span:last-child{font-weight:500;opacity:.85}
-  .notice{flex:1;min-height:0;overflow:hidden;border:1px solid var(--line);border-radius:1vh;padding:1.6vh 1.8vh;background:#fbfcfd}
+  .notice{flex:1;min-height:0;overflow:hidden;border:1px solid var(--line);border-radius:1vh;padding:1.6vh 1.8vh;background:#fbfcfd;position:relative}
   .notice h3{font-size:3vh;font-weight:700;margin-bottom:.8vh}
   .notice p{font-size:2.4vh;color:var(--ink-dim);line-height:1.45}
+  .notice img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#fff;display:none}
+  .notice.soimagem{padding:0}
+  .notice.soimagem img{display:block}
+  .notice.soimagem h3,.notice.soimagem p{display:none}
   .board .meta{display:flex;justify-content:space-between;align-items:center}
   .board .label{font-size:1.6vh;letter-spacing:.14em;text-transform:uppercase;color:var(--blue);font-weight:700}
   .status{display:flex;align-items:center;gap:.8vh;font-size:1.8vh;color:var(--ink-dim)}
@@ -124,9 +128,10 @@
 
   <div class="board">
     <div class="head"><span id="predio"></span><span>Comunicados</span></div>
-    <div class="notice">
+    <div class="notice" id="notice">
       <h3 id="nTitle"></h3>
       <p id="nBody"></p>
+      <img id="nImg" alt="">
     </div>
     <div class="meta">
       <span class="label" id="nCount"></span>
@@ -226,8 +231,17 @@
     const t = document.getElementById('nTitle'), b = document.getElementById('nBody'), c = document.getElementById('nCount');
     if (!ns.length) { t.textContent = 'Sem comunicados no momento'; b.textContent = ''; c.textContent = ''; return }
     let ni = 0;
+    const box = document.getElementById('notice'), img = document.getElementById('nImg');
     const mostrar = () => {
-      t.textContent = ns[ni].titulo; b.textContent = ns[ni].texto;
+      const n = ns[ni];
+      if (n.imagem) {
+        box.classList.add('soimagem');
+        img.src = n.imagem;
+      } else {
+        box.classList.remove('soimagem');
+        img.removeAttribute('src');
+        t.textContent = n.titulo; b.textContent = n.texto;
+      }
       c.textContent = 'Aviso ' + (ni + 1) + ' de ' + ns.length;
     };
     mostrar();
