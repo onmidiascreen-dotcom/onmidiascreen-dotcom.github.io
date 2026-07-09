@@ -4,6 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>OnScreen Player</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icone.svg" type="image/svg+xml">
+<meta name="theme-color" content="#111b2b">
 <style>
   :root{
     --bar:#111b2b; --bar-text:#f2f5fa;
@@ -147,6 +150,8 @@
 
 <script>
 (() => {
+  // grava o player na memória da tela (funciona mesmo ligando sem internet)
+  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
   // ---------- cache local: guarda o último dado bom de cada fonte ----------
   const save = (k, v) => { try { localStorage.setItem('os_' + k, JSON.stringify({ v, t: Date.now() })) } catch (e) {} };
   const load = (k) => { try { const d = JSON.parse(localStorage.getItem('os_' + k)); return d ? d.v : null } catch (e) { return null } };

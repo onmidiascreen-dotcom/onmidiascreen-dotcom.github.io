@@ -1,0 +1,12 @@
+{
+  "name": "OnScreen Player",
+  "short_name": "OnScreen",
+  "start_url": ".",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#111b2b",
+  "theme_color": "#111b2b",
+  "icons": [
+    { "src": "icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
