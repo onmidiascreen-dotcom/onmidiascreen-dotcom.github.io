@@ -1,6 +1,6 @@
 // Service Worker: grava o player na memória da tela.
 // A tela liga e abre o player mesmo sem internet; a rede só serve para atualizar.
-const CACHE = 'onscreen-v2';
+const CACHE = 'onscreen-v3';
 const SHELL = ['./', 'index.html', 'manifest.json'];
 
 self.addEventListener('install', (e) => {
@@ -31,12 +31,21 @@ self.addEventListener('fetch', (e) => {
     return;
   }
 
-  // aplicativo (html, imagens): usa a cópia salva na hora, atualiza por trás
+  // vídeos costumam vir em pedaços (Range/206); não dá para guardar pedaço no cache.
+  // Se já houver a cópia completa salva, serve ela; senão vai direto pra rede.
+  if (e.request.headers.has('range')) {
+    e.respondWith(caches.match(e.request.url, { ignoreSearch: true }).then((c) => c || fetch(e.request)));
+    return;
+  }
+
+  // aplicativo (html, imagens, vídeo completo): usa a cópia salva, atualiza por trás
   e.respondWith(
     caches.match(e.request, { ignoreSearch: true }).then((salvo) => {
       const rede = fetch(e.request).then((r) => {
-        const cp = r.clone();
-        caches.open(CACHE).then((c) => c.put(e.request, cp));
+        if (r.status === 200 && r.type === 'basic') {
+          const cp = r.clone();
+          caches.open(CACHE).then((c) => c.put(e.request, cp));
+        }
         return r;
       }).catch(() => salvo);
       return salvo || rede;

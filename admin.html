@@ -288,12 +288,13 @@
 
   function cardProp(a, i) {
     const c = document.createElement('div'); c.className = 'card';
-    const ehImg = a.tipo === 'imagem';
+    const t = a.tipo || 'texto';
     c.innerHTML =
       '<div class="foot" style="margin-top:0;margin-bottom:12px">' +
         '<div class="tipo">' +
-          '<button data-t="texto" class="' + (!ehImg ? 'on' : '') + '">Texto</button>' +
-          '<button data-t="imagem" class="' + (ehImg ? 'on' : '') + '">Imagem</button>' +
+          '<button data-t="texto" class="' + (t === 'texto' ? 'on' : '') + '">Texto</button>' +
+          '<button data-t="imagem" class="' + (t === 'imagem' ? 'on' : '') + '">Imagem</button>' +
+          '<button data-t="video" class="' + (t === 'video' ? 'on' : '') + '">Vídeo</button>' +
         '</div>' +
         '<button class="remove">Remover</button>' +
       '</div>' +
@@ -301,7 +302,17 @@
     const corpo = c.querySelector('.corpo');
 
     function desenhar() {
-      if (a.tipo === 'imagem') {
+      if (a.tipo === 'video') {
+        corpo.innerHTML =
+          '<div class="imgbox">' +
+            (a.url ? '<video src="' + a.url + '" muted playsinline style="max-height:150px;border:1px solid var(--line);border-radius:8px" controls></video>' : '<span style="color:var(--ink-dim)">Nenhum vídeo</span>') +
+            '<button class="up">Escolher vídeo</button><input type="file" accept="video/*">' +
+          '</div>' +
+          '<p style="font-size:.8rem;color:var(--ink-dim);margin-top:8px">Dica: vídeos curtos (15–30s) e leves (até 45 MB) funcionam melhor. O som fica desligado na tela.</p>';
+        const inp = corpo.querySelector('input[type=file]');
+        corpo.querySelector('.up').addEventListener('click', () => inp.click());
+        inp.addEventListener('change', () => enviarVideo(inp.files[0], 'anuncios', (url) => { a.url = url; desenhar(); marcarMudou(); }));
+      } else if (a.tipo === 'imagem') {
         corpo.innerHTML =
           '<div class="imgbox">' +
             (a.url ? '<img src="' + a.url + '" alt="">' : '<span style="color:var(--ink-dim)">Nenhuma imagem</span>') +
@@ -428,11 +439,17 @@
   $('cfgDurCom').addEventListener('input', (e) => { cfg.duracaoComunicadoSegundos = +e.target.value || 10; marcarMudou(); });
   $('cfgDurNot').addEventListener('input', (e) => { cfg.duracaoNoticiaSegundos = +e.target.value || 8; marcarMudou(); });
 
-  // ---------- upload de imagem ----------
-  async function enviarImagem(file, pasta, cb) {
+  // ---------- upload de arquivo (imagem ou vídeo) ----------
+  function enviarImagem(file, pasta, cb) { return enviarArquivo(file, pasta, 4, 'imagem', cb); }
+  function enviarVideo(file, pasta, cb) { return enviarArquivo(file, pasta, 45, 'vídeo', cb); }
+
+  async function enviarArquivo(file, pasta, maxMB, rotulo, cb) {
     if (!file) return;
-    if (file.size > 4 * 1024 * 1024) { toast('Imagem muito grande (máx 4 MB). Reduza e tente de novo.', true); return; }
-    toast('Enviando imagem…');
+    if (file.size > maxMB * 1024 * 1024) {
+      toast(rotulo + ' muito grande (máx ' + maxMB + ' MB). ' + (rotulo === 'vídeo' ? 'Reduza a duração ou a qualidade.' : 'Reduza e tente de novo.'), true);
+      return;
+    }
+    toast('Enviando ' + rotulo + '… (pode levar alguns segundos)');
     const nome = pasta + '/' + Date.now() + '-' + file.name.replace(/[^a-zA-Z0-9.\-]/g, '_');
     const b64 = await new Promise((res) => {
       const fr = new FileReader();
@@ -442,13 +459,13 @@
     try {
       const r = await api(nome, {
         method: 'PUT',
-        body: JSON.stringify({ message: 'painel: imagem ' + nome, content: b64 })
+        body: JSON.stringify({ message: 'painel: ' + rotulo + ' ' + nome, content: b64 })
       });
       if (!r.ok) throw new Error('erro ' + r.status);
       cb(nome); // caminho relativo que o player entende
-      toast('Imagem enviada!');
+      toast(rotulo.charAt(0).toUpperCase() + rotulo.slice(1) + ' enviado!');
     } catch (e) {
-      toast('Falha ao enviar a imagem (' + e.message + ')', true);
+      toast('Falha ao enviar o ' + rotulo + ' (' + e.message + ')', true);
     }
   }
 

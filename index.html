@@ -58,6 +58,8 @@
   .ad .cta{margin-top:2.2rem;font-size:2.1rem;font-weight:700}
   .ad.img{padding:0}
   .ad.img img{width:100%;height:100%;object-fit:cover}
+  .ad.video{padding:0;background:#000}
+  .ad.video video{width:100%;height:100%;object-fit:cover}
   .ad.verde{background:linear-gradient(160deg,#123d23,#1f7a45 60%,#2fa35d);color:#f0fff5}
   .ad.dourado{background:linear-gradient(160deg,#28180a,#7a4a12 60%,#b06f1c);color:#fdf4e2}
   .ad.azul{background:linear-gradient(160deg,#101c36,#1d3e7e 60%,#2f5cb4);color:#eef3ff}
@@ -222,17 +224,25 @@
 
   // ---------- configuração (anúncios + comunicados) ----------
   let cfg = null, adTimer = null, noticeTimer = null;
+  let ads = [], curAd = 0;
 
   function renderAnuncios() {
     const media = document.getElementById('media');
     const progress = document.getElementById('progress');
     media.querySelectorAll('.ad').forEach(el => el.remove());
-    const ads = (cfg.anuncios || []).map(a => {
+    ads = (cfg.anuncios || []).map(a => {
       const d = document.createElement('div');
-      if (a.tipo === 'imagem') {
+      let video = null;
+      if (a.tipo === 'video') {
+        d.className = 'ad video';
+        d.innerHTML = '<video muted playsinline preload="auto"></video>';
+        video = d.querySelector('video');
+        video.muted = true;
+        if (a.url) video.src = a.url;
+      } else if (a.tipo === 'imagem') {
         d.className = 'ad img';
         d.innerHTML = '<img alt="">';
-        d.querySelector('img').src = a.url;
+        if (a.url) d.querySelector('img').src = a.url;
       } else {
         d.className = 'ad ' + (a.cor || 'azul');
         d.innerHTML = '<div class="tag"></div><h2></h2><p></p><span class="cta"></span>';
@@ -242,21 +252,43 @@
         d.querySelector('.cta').textContent = a.rodape || '';
       }
       media.insertBefore(d, progress);
-      return d;
+      return { el: d, ad: a, video };
     });
+    clearTimeout(adTimer);
     if (!ads.length) return;
-    const DUR = (cfg.duracaoAnuncioSegundos || 8) * 1000;
-    progress.style.setProperty('--dur', DUR + 'ms');
-    let cur = 0;
-    ads[0].classList.add('on');
-    progress.classList.add('run');
-    clearInterval(adTimer);
-    adTimer = setInterval(() => {
-      ads[cur].classList.remove('on');
-      cur = (cur + 1) % ads.length;
-      ads[cur].classList.add('on');
+    curAd = 0;
+    mostrarAnuncio();
+  }
+
+  function mostrarAnuncio() {
+    clearTimeout(adTimer);
+    const progress = document.getElementById('progress');
+    ads.forEach(x => { x.el.classList.remove('on'); if (x.video) { x.video.onended = null; x.video.ontimeupdate = null; try { x.video.pause(); } catch (e) {} } });
+    const item = ads[curAd];
+    item.el.classList.add('on');
+
+    if (item.video && item.ad.url) {
+      // vídeo: toca do começo, a barra segue o tempo, e passa quando termina
+      progress.classList.remove('run'); progress.style.width = '0%';
+      try { item.video.currentTime = 0; } catch (e) {}
+      const p = item.video.play(); if (p && p.catch) p.catch(() => { adTimer = setTimeout(proximoAnuncio, 4000); });
+      item.video.ontimeupdate = () => { if (item.video.duration) progress.style.width = (item.video.currentTime / item.video.duration * 100) + '%'; };
+      item.video.onended = () => proximoAnuncio();
+      item.video.onerror = () => proximoAnuncio(); // ex.: sem internet e vídeo não cacheado — pula
+      adTimer = setTimeout(proximoAnuncio, 90000); // segurança se o vídeo travar
+    } else {
+      // texto ou imagem: tempo fixo
+      const DUR = (cfg.duracaoAnuncioSegundos || 8) * 1000;
+      progress.style.setProperty('--dur', DUR + 'ms');
       progress.classList.remove('run'); void progress.offsetWidth; progress.classList.add('run');
-    }, DUR);
+      adTimer = setTimeout(proximoAnuncio, DUR);
+    }
+  }
+
+  function proximoAnuncio() {
+    if (ads.length < 2) { if (ads.length === 1) mostrarAnuncio(); return; }
+    curAd = (curAd + 1) % ads.length;
+    mostrarAnuncio();
   }
 
   function renderComunicados() {
