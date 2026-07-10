@@ -96,7 +96,7 @@
   .notice{flex:1;min-height:0;overflow:hidden;border:1px solid var(--line);border-radius:1rem;padding:1.6rem 1.8rem;background:#fbfcfd;position:relative}
   .notice h3{font-size:3rem;font-weight:700;margin-bottom:.8rem}
   .notice p{font-size:2.4rem;color:var(--ink-dim);line-height:1.45}
-  .notice img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#fff;display:none}
+  .notice img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;background:#fff;display:none}
   .notice.soimagem{padding:0}
   .notice.soimagem img{display:block}
   .notice.soimagem h3,.notice.soimagem p{display:none}
@@ -295,7 +295,7 @@
   function renderComunicados() {
     const ns = cfg.comunicados || [];
     const t = document.getElementById('nTitle'), b = document.getElementById('nBody'), c = document.getElementById('nCount');
-    if (!ns.length) { t.textContent = 'Sem comunicados no momento'; b.textContent = ''; c.textContent = ''; return }
+    if (!ns.length) { clearTimeout(noticeTimer); t.textContent = 'Sem comunicados no momento'; b.textContent = ''; c.textContent = ''; return }
     let ni = 0;
     const box = document.getElementById('notice'), img = document.getElementById('nImg');
     const mostrar = () => {
@@ -309,10 +309,13 @@
         t.textContent = n.titulo; b.textContent = n.texto;
       }
       c.textContent = 'Aviso ' + (ni + 1) + ' de ' + ns.length;
+      clearTimeout(noticeTimer);
+      // cada comunicado pode ter seu próprio tempo; se não tiver, usa o padrão geral
+      const seg = (n.segundos && n.segundos > 0) ? n.segundos : (cfg.duracaoComunicadoSegundos || 10);
+      noticeTimer = setTimeout(() => { ni = (ni + 1) % ns.length; mostrar() }, seg * 1000);
     };
+    clearTimeout(noticeTimer);
     mostrar();
-    clearInterval(noticeTimer);
-    noticeTimer = setInterval(() => { ni = (ni + 1) % ns.length; mostrar() }, (cfg.duracaoComunicadoSegundos || 10) * 1000);
   }
 
   async function atualizarConfig() {

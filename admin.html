@@ -185,7 +185,7 @@
   const CORES_HEX = { verde:'#1f7a45', dourado:'#a06b1e', azul:'#1d3e7e', claro:'#e7ebf0' };
 
   let token = localStorage.getItem('onscreen_token') || '';
-  let cfg = null, sha = null, mudou = false, enviando = 0;
+  let cfg = null, sha = null, mudou = false, enviando = 0, paraApagar = [];
 
   const $ = (id) => document.getElementById(id);
   function toast(msg, erro) {
@@ -320,7 +320,7 @@
           '<p style="font-size:.8rem;color:var(--ink-dim);margin-top:8px">Dica: vídeos curtos (15–30s) e leves (até 24 MB) funcionam melhor. O som fica desligado na tela.</p>';
         const inp = corpo.querySelector('input[type=file]');
         corpo.querySelector('.up').addEventListener('click', () => inp.click());
-        inp.addEventListener('change', () => enviarVideo(inp.files[0], 'anuncios', (url) => { a.url = url; desenhar(); marcarMudou(); }));
+        inp.addEventListener('change', () => enviarVideo(inp.files[0], 'anuncios', (url) => { if (a.url && a.url !== url) agendarApagar(a.url); a.url = url; desenhar(); marcarMudou(); }));
       } else if (a.tipo === 'imagem') {
         corpo.innerHTML =
           '<div class="imgbox">' +
@@ -329,7 +329,7 @@
           '</div>';
         const inp = corpo.querySelector('input[type=file]');
         corpo.querySelector('.up').addEventListener('click', () => inp.click());
-        inp.addEventListener('change', () => enviarImagem(inp.files[0], 'anuncios', (url) => { a.url = url; desenhar(); marcarMudou(); }));
+        inp.addEventListener('change', () => enviarImagem(inp.files[0], 'anuncios', (url) => { if (a.url && a.url !== url) agendarApagar(a.url); a.url = url; desenhar(); marcarMudou(); }));
       } else {
         corpo.innerHTML =
           '<div class="row">' +
@@ -368,6 +368,7 @@
     }));
     c.querySelector('.remove').addEventListener('click', () => {
       if (!confirm('Remover esta propaganda?')) return;
+      if (a.url) agendarApagar(a.url);
       cfg.anuncios.splice(i, 1); renderProp(); marcarMudou();
     });
     return c;
@@ -389,8 +390,15 @@
           '<button data-t="imagem" class="' + (ehImg ? 'on' : '') + '">Imagem/Cartaz</button>' +
         '</div>' +
         '<button class="remove">Remover</button>' +
-      '</div><div class="corpo"></div>';
+      '</div><div class="corpo"></div>' +
+      '<div class="row" style="margin-top:12px"><div class="field" style="max-width:260px">' +
+        '<label>Tempo na tela (segundos)</label>' +
+        '<input class="f-seg" type="number" min="3" max="120" placeholder="padrão do sistema">' +
+      '</div></div>';
     const corpo = c.querySelector('.corpo');
+    const seg = c.querySelector('.f-seg');
+    seg.value = n.segundos || '';
+    seg.addEventListener('input', (e) => { const v = +e.target.value; if (v > 0) n.segundos = v; else delete n.segundos; marcarMudou(); });
     let modo = ehImg ? 'imagem' : 'texto';
 
     function desenhar() {
@@ -402,7 +410,7 @@
           '</div>';
         const inp = corpo.querySelector('input[type=file]');
         corpo.querySelector('.up').addEventListener('click', () => inp.click());
-        inp.addEventListener('change', () => enviarImagem(inp.files[0], 'comunicados', (url) => { n.imagem = url; delete n.titulo; delete n.texto; desenhar(); marcarMudou(); }));
+        inp.addEventListener('change', () => enviarImagem(inp.files[0], 'comunicados', (url) => { if (n.imagem && n.imagem !== url) agendarApagar(n.imagem); n.imagem = url; delete n.titulo; delete n.texto; desenhar(); marcarMudou(); }));
       } else {
         corpo.innerHTML =
           '<div class="row"><div class="field full"><label>Título do aviso</label><input class="f-titulo"></div></div>' +
@@ -423,6 +431,7 @@
     }));
     c.querySelector('.remove').addEventListener('click', () => {
       if (!confirm('Remover este comunicado?')) return;
+      if (n.imagem) agendarApagar(n.imagem);
       cfg.comunicados.splice(i, 1); renderCom(); marcarMudou();
     });
     return c;
@@ -493,6 +502,20 @@
     }
   }
 
+  // agenda um arquivo antigo para ser apagado do GitHub quando salvar
+  function agendarApagar(path) {
+    if (path && /^(anuncios|comunicados)\//.test(path) && !paraApagar.includes(path)) paraApagar.push(path);
+  }
+  // apaga de fato (precisa do sha do arquivo). É best-effort: se falhar, não trava o salvar.
+  async function apagarArquivo(path) {
+    try {
+      const g = await api(path);
+      if (!g.ok) return;
+      const j = await g.json();
+      await api(path, { method: 'DELETE', body: JSON.stringify({ message: 'painel: remove arquivo antigo ' + path, sha: j.sha }) });
+    } catch (e) {}
+  }
+
   // ---------- salvar ----------
   $('salvar').addEventListener('click', salvar);
   async function salvar() {
@@ -510,6 +533,8 @@
       const j = await r.json();
       sha = j.content.sha;
       marcarSalvo();
+      // config já salvo: agora é seguro apagar os arquivos antigos que ficaram para trás
+      if (paraApagar.length) { const lista = paraApagar.slice(); paraApagar = []; for (const p of lista) await apagarArquivo(p); }
       toast('Publicado! As telas atualizam em até 5 minutos.');
     } catch (e) {
       toast('Não consegui salvar (' + e.message + ')', true);
