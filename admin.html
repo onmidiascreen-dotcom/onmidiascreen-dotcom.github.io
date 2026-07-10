@@ -160,6 +160,15 @@
           </div>
         </div>
         <div class="row">
+          <div class="field"><label>Frase do rodapé</label><input id="cfgSlogan" placeholder="Sua marca onde seu público está"></div>
+          <div class="field"><label>Rótulo do comunicado</label><input id="cfgRotulo" placeholder="Comunicados"></div>
+        </div>
+        <div class="row">
+          <div class="field"><label>Cor de destaque</label>
+            <div class="cores" id="cfgCores"></div>
+          </div>
+        </div>
+        <div class="row">
           <div class="field"><label>Segundos por propaganda</label><input id="cfgDurAnuncio" type="number" min="3" max="60"></div>
           <div class="field"><label>Segundos por comunicado</label><input id="cfgDurCom" type="number" min="3" max="60"></div>
           <div class="field"><label>Segundos por notícia</label><input id="cfgDurNot" type="number" min="3" max="30"></div>
@@ -283,6 +292,9 @@
     renderCom();
     $('cfgPredio').value = cfg.predio || '';
     $('cfgContato').value = cfg.contato || '';
+    $('cfgSlogan').value = cfg.slogan || '';
+    $('cfgRotulo').value = cfg.rotuloComunicados || '';
+    renderCores();
     $('cfgFonte').value = cfg.fonteNoticias || 'uol';
     $('cfgDurAnuncio').value = cfg.duracaoAnuncioSegundos || 8;
     $('cfgDurCom').value = cfg.duracaoComunicadoSegundos || 10;
@@ -450,8 +462,28 @@
   });
 
   // ---------- config fields ----------
+  // paleta da cor de destaque (chip do comunicado, pontinhos, logo do rodapé)
+  const DESTAQUES = ['#1462c4','#0d7a5f','#b0341f','#7a3fb0','#c07a12','#1e2a3a'];
+  function renderCores() {
+    const cx = $('cfgCores'); cx.innerHTML = '';
+    const atual = (cfg.corDestaque || '#1462c4').toLowerCase();
+    DESTAQUES.forEach((cor) => {
+      const b = document.createElement('button');
+      b.style.background = cor; b.title = cor;
+      if (cor.toLowerCase() === atual) b.classList.add('on');
+      b.addEventListener('click', () => {
+        cfg.corDestaque = cor;
+        cx.querySelectorAll('button').forEach((x) => x.classList.remove('on'));
+        b.classList.add('on'); marcarMudou();
+      });
+      cx.appendChild(b);
+    });
+  }
+
   $('cfgPredio').addEventListener('input', (e) => { cfg.predio = e.target.value; marcarMudou(); });
   $('cfgContato').addEventListener('input', (e) => { cfg.contato = e.target.value; marcarMudou(); });
+  $('cfgSlogan').addEventListener('input', (e) => { cfg.slogan = e.target.value; marcarMudou(); });
+  $('cfgRotulo').addEventListener('input', (e) => { cfg.rotuloComunicados = e.target.value; marcarMudou(); });
   $('cfgFonte').addEventListener('change', (e) => { cfg.fonteNoticias = e.target.value; marcarMudou(); });
   $('cfgDurAnuncio').addEventListener('input', (e) => { cfg.duracaoAnuncioSegundos = +e.target.value || 8; marcarMudou(); });
   $('cfgDurCom').addEventListener('input', (e) => { cfg.duracaoComunicadoSegundos = +e.target.value || 10; marcarMudou(); });

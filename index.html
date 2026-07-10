@@ -13,6 +13,7 @@
     --blue:#1462c4; --blue-deep:#0d3f80;
     --ink:#182635; --ink-dim:#5b6b7c; --line:#dde3ea;
     --gold:#e0a63c; --ok:#2e9e6b; --warn:#c98a1f;
+    --accent:#1462c4; /* cor de destaque, editável pelo painel */
   }
   *{box-sizing:border-box;margin:0;padding:0}
   html{font-size:1vh} /* o JS recalcula; 1rem = 1% da altura útil da tela */
@@ -27,7 +28,7 @@
   .tv{
     width:100vw;height:100vh;background:#f7f8fa;
     display:grid;
-    grid-template-rows:5.5rem 55fr 45fr 4rem;
+    grid-template-rows:5.5rem 55fr 45fr 5rem;
     grid-template-areas:"topbar" "media" "board" "foot";
     cursor:none;
   }
@@ -89,10 +90,20 @@
   /* comunicado (45%) */
   .board{grid-area:board;background:#fff;padding:1.6rem 1.8rem 1.2rem;display:flex;flex-direction:column;gap:1.1rem;min-height:0}
   .board .head{
-    background:var(--blue-deep);color:#fff;border-radius:.8rem;padding:1rem 1.6rem;
-    font-size:2.1rem;font-weight:700;letter-spacing:.04em;display:flex;justify-content:space-between;gap:1rem;
+    background:var(--bar);color:#fff;border-radius:1rem;padding:1rem 1.4rem;
+    display:flex;align-items:center;gap:1.2rem;overflow:hidden;
   }
-  .board .head span:last-child{font-weight:500;opacity:.85}
+  .board .head .chip{
+    flex:none;background:var(--accent);color:#fff;
+    font-size:1.5rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;
+    padding:.45rem 1.1rem;border-radius:.5rem;
+  }
+  /* nome do prédio: encolhe com reticências em vez de vazar da barra */
+  .board .head .predio{
+    margin-left:auto;min-width:0;
+    font-size:2rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:#cfdcec;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+  }
   .notice{flex:1;min-height:0;overflow:hidden;border:1px solid var(--line);border-radius:1rem;padding:1.6rem 1.8rem;background:#fbfcfd;position:relative}
   .notice h3{font-size:3rem;font-weight:700;margin-bottom:.8rem}
   .notice p{font-size:2.4rem;color:var(--ink-dim);line-height:1.45}
@@ -104,21 +115,33 @@
   .board.imgcheio{padding:0;gap:0}
   .board.imgcheio .head,.board.imgcheio .meta{display:none}
   .board.imgcheio .notice{border:none;border-radius:0}
-  .board .meta{display:flex;justify-content:space-between;align-items:center}
-  .board .label{font-size:1.6rem;letter-spacing:.14em;text-transform:uppercase;color:var(--blue);font-weight:700}
-  .status{display:flex;align-items:center;gap:.8rem;font-size:1.8rem;color:var(--ink-dim)}
-  .dot{width:1rem;height:1rem;border-radius:50%;background:var(--ok);flex:none}
+  .board .meta{display:flex;justify-content:space-between;align-items:center;gap:1rem}
+  /* pontinhos indicando qual comunicado está na vez (no lugar de "Aviso 1 de 2") */
+  .board .dots{display:flex;align-items:center;gap:.6rem}
+  .board .dots i{width:1rem;height:1rem;border-radius:50%;background:#cfd8e3;flex:none;transition:width .35s ease,background .35s ease}
+  .board .dots i.on{width:2.8rem;border-radius:.5rem;background:var(--accent)}
+  .status{display:flex;align-items:center;gap:.7rem;font-size:1.5rem;color:var(--ink-dim);font-weight:600}
+  .dot{width:.9rem;height:.9rem;border-radius:50%;background:var(--ok);flex:none}
   .status.off .dot{background:var(--warn)}
   .status.off{color:var(--warn)}
 
-  /* rodapé com a marca */
+  /* rodapé escuro: emoldura a tela junto com a barra do topo */
   .foot{
-    grid-area:foot;background:#fff;border-top:1px solid var(--line);
-    display:flex;align-items:center;justify-content:space-between;padding:0 1.8rem;
+    grid-area:foot;background:var(--bar);color:#e8eef7;
+    display:flex;align-items:center;gap:1.6rem;padding:0 1.8rem;
   }
-  .foot .logo{font-size:2rem;font-weight:800;color:var(--blue)}
-  .foot .logo span{color:var(--ink)}
-  .foot .fone{font-size:1.8rem;color:var(--ink-dim);font-variant-numeric:tabular-nums}
+  .foot .logo{flex:none;display:flex;align-items:center;gap:.7rem;font-size:2.1rem;font-weight:800;color:var(--accent)}
+  .foot .logo .mark{width:1.4rem;height:1.4rem;border-radius:.3rem;background:var(--accent);flex:none}
+  .foot .logo b{color:#fff;font-weight:800}
+  .foot .slogan{
+    margin:0 auto;min-width:0;
+    font-size:1.5rem;letter-spacing:.16em;text-transform:uppercase;color:#8ea3bd;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+  }
+  .foot .fone{
+    flex:none;font-size:1.7rem;font-weight:800;color:#0f1826;background:var(--gold);
+    padding:.35rem 1.1rem;border-radius:.5rem;font-variant-numeric:tabular-nums;
+  }
 
   @media (prefers-reduced-motion:reduce){
     .progress.run{animation:none;width:100%}
@@ -143,20 +166,24 @@
   </div>
 
   <div class="board">
-    <div class="head"><span id="predio"></span><span>Comunicados</span></div>
+    <div class="head">
+      <span class="chip" id="rotuloCom">Comunicados</span>
+      <span class="predio" id="predio"></span>
+    </div>
     <div class="notice" id="notice">
       <h3 id="nTitle"></h3>
       <p id="nBody"></p>
       <img id="nImg" alt="">
     </div>
     <div class="meta">
-      <span class="label" id="nCount"></span>
+      <span class="dots" id="nDots"></span>
       <span class="status" id="status"><span class="dot"></span><span id="statusTxt">Iniciando…</span></span>
     </div>
   </div>
 
   <div class="foot">
-    <span class="logo">On<span>Screen</span></span>
+    <span class="logo"><i class="mark"></i>On<b>Screen</b></span>
+    <span class="slogan" id="slogan"></span>
     <span class="fone" id="fone"></span>
   </div>
 </div>
@@ -301,8 +328,8 @@
 
   function renderComunicados() {
     const ns = cfg.comunicados || [];
-    const t = document.getElementById('nTitle'), b = document.getElementById('nBody'), c = document.getElementById('nCount');
-    if (!ns.length) { clearTimeout(noticeTimer); t.textContent = 'Sem comunicados no momento'; b.textContent = ''; c.textContent = ''; return }
+    const t = document.getElementById('nTitle'), b = document.getElementById('nBody'), c = document.getElementById('nDots');
+    if (!ns.length) { clearTimeout(noticeTimer); t.textContent = 'Sem comunicados no momento'; b.textContent = ''; c.innerHTML = ''; return }
     let ni = 0;
     const box = document.getElementById('notice'), img = document.getElementById('nImg');
     const board = box.parentElement;
@@ -321,7 +348,9 @@
         img.removeAttribute('src');
         t.textContent = n.titulo; b.textContent = n.texto;
       }
-      c.textContent = 'Aviso ' + (ni + 1) + ' de ' + ns.length;
+      // pontinhos: um por comunicado, o da vez fica alongado e colorido
+      c.style.display = ns.length > 1 ? 'flex' : 'none';
+      c.innerHTML = ns.map((_, k) => '<i class="' + (k === ni ? 'on' : '') + '"></i>').join('');
       clearTimeout(noticeTimer);
       // cada comunicado pode ter seu próprio tempo; se não tiver, usa o padrão geral
       const seg = (n.segundos && n.segundos > 0) ? n.segundos : (cfg.duracaoComunicadoSegundos || 10);
@@ -336,10 +365,19 @@
     if (!novo) return;
     const mudou = JSON.stringify(novo) !== JSON.stringify(cfg);
     cfg = novo;
-    document.getElementById('predio').textContent = cfg.predio || '';
-    document.getElementById('fone').textContent = cfg.contato || '';
+    aplicarMarca();
     if (mudou) { renderAnuncios(); renderComunicados(); atualizarClima(); }
     precacheMidia(); // garante que vídeos/imagens fiquem salvos para rodar sem internet
+  }
+
+  // textos e cor que o dono edita pelo painel
+  function aplicarMarca() {
+    if (!cfg) return;
+    document.getElementById('predio').textContent = cfg.predio || '';
+    document.getElementById('fone').textContent = cfg.contato || '';
+    document.getElementById('rotuloCom').textContent = cfg.rotuloComunicados || 'Comunicados';
+    document.getElementById('slogan').textContent = cfg.slogan || 'Sua marca onde seu público está';
+    document.documentElement.style.setProperty('--accent', cfg.corDestaque || '#1462c4');
   }
 
   // baixa e guarda na memória todos os vídeos/imagens do conteúdo, para funcionarem offline
@@ -404,8 +442,7 @@
   (async () => {
     cfg = load('config');
     if (cfg) { // liga instantâneo com o que tem salvo
-      document.getElementById('predio').textContent = cfg.predio || '';
-      document.getElementById('fone').textContent = cfg.contato || '';
+      aplicarMarca();
       renderAnuncios(); renderComunicados();
     }
     await atualizarConfig();
