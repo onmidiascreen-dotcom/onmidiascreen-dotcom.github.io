@@ -213,7 +213,9 @@
 (() => {
   // grava o player na memória da tela (funciona mesmo ligando sem internet)
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('sw.js').catch(() => {});
+    navigator.serviceWorker.register('sw.js')
+      .then((reg) => { setInterval(() => reg.update(), 30 * 60 * 1000); })
+      .catch(() => {});
     // quando uma versão nova do player assume, recarrega uma vez para aplicá-la
     let recarregou = false;
     navigator.serviceWorker.addEventListener('controllerchange', () => {
@@ -221,6 +223,29 @@
       location.reload();
     });
   }
+
+  // ---------- auto-atualização: a tela pega melhorias sozinha ----------
+  // Compara a "impressão digital" do app no servidor com a que está rodando.
+  // O ?versao= faz o service worker deixar passar direto pra rede; sem isso ele
+  // devolveria a cópia guardada e nada seria detectado.
+  let assinaturaApp = null;
+  async function conferirVersaoApp() {
+    try {
+      const r = await fetch('index.html?versao=' + Date.now(), { cache: 'no-store' });
+      if (!r.ok) return;
+      const txt = await r.text();
+      let h = 0;
+      for (let i = 0; i < txt.length; i++) h = (h * 31 + txt.charCodeAt(i)) | 0;
+      if (assinaturaApp === null) { assinaturaApp = h; return; }
+      if (h === assinaturaApp) return;
+      const ultima = Number(sessionStorage.getItem('os_recarga')) || 0;
+      if (Date.now() - ultima < 10 * 60 * 1000) return; // trava contra laço de recarga
+      sessionStorage.setItem('os_recarga', String(Date.now()));
+      location.reload();
+    } catch (e) { /* offline: segue rodando da memória */ }
+  }
+  conferirVersaoApp();
+  setInterval(conferirVersaoApp, 20 * 60 * 1000);
 
   // ---------- orientação: gira 90° quando a tela está "deitada" ----------
   // padrão automático; força com ?girar=1 ou desliga com ?girar=0 no endereço

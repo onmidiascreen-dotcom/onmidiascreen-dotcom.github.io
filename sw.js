@@ -1,6 +1,6 @@
 // Service Worker: grava o player na memória da tela.
 // A tela liga e abre o player mesmo sem internet; a rede só serve para atualizar.
-const CACHE = 'onscreen-v5';
+const CACHE = 'onscreen-v6';
 const SHELL = ['./', 'index.html', 'manifest.json'];
 
 // o player pede para guardar vídeos/imagens na memória enquanto tem internet,
@@ -24,7 +24,15 @@ self.addEventListener('message', (e) => {
 });
 
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  // busca o app ignorando o cache do navegador (GitHub manda guardar por 10 min)
+  e.waitUntil((async () => {
+    const c = await caches.open(CACHE);
+    await Promise.all(SHELL.map(async (u) => {
+      const r = await fetch(u, { cache: 'no-store' });
+      if (r.ok) await c.put(u, r);
+    }));
+    await self.skipWaiting();
+  })());
 });
 
 self.addEventListener('activate', (e) => {
@@ -39,23 +47,36 @@ self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   if (url.origin !== location.origin) return; // clima/câmbio seguem direto pra rede
 
+  // a checagem de versão do player precisa ver a rede, nunca a cópia guardada
+  if (url.searchParams.has('versao')) { e.respondWith(fetch(e.request)); return; }
+
   // a página em si (o app): tenta rede primeiro para pegar novidades de visual,
   // e se estiver offline usa a cópia salva. Assim as atualizações aparecem na hora.
   if (e.request.mode === 'navigate') {
     e.respondWith((async () => {
       const salvo = () => caches.match('index.html').then((c) => c || caches.match('./'));
+
+      // uma única busca, sem passar pelo cache do navegador. Ela SEMPRE grava o
+      // resultado — mesmo que o timeout já tenha servido a cópia salva. Assim,
+      // numa rede lenta a proxima abertura ja pega a versao nova.
+      const rede = fetch(e.request.url, { cache: 'no-store' }).then((r) => {
+        if (r && r.ok) {
+          const cp = r.clone();
+          caches.open(CACHE).then((c) => c.put('index.html', cp));
+        }
+        return r;
+      });
+
       try {
-        // Wi-Fi "conectado mas sem internet" (caso do elevador) trava o fetch:
+        // Wi-Fi "conectado mas sem internet" (caso do elevador) trava a busca:
         // depois de 4s desiste e abre da memória. A tela nunca fica esperando.
-        const r = await Promise.race([
-          fetch(e.request),
+        return await Promise.race([
+          rede,
           new Promise((_, rej) => setTimeout(() => rej(new Error('rede lenta')), 4000))
         ]);
-        const cp = r.clone();
-        caches.open(CACHE).then((c) => c.put('index.html', cp));
-        return r;
       } catch (err) {
-        return (await salvo()) || fetch(e.request);
+        e.waitUntil(rede.catch(() => {})); // deixa a busca terminar e atualizar o cache
+        return (await salvo()) || rede;
       }
     })());
     return;
