@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OnScreen — Comunicados do Prédio</title>
+<link rel="icon" href="icone.svg" type="image/svg+xml">
+<style>
+  :root{
+    --bg:#eef1f5; --card:#fff; --ink:#182635; --ink-dim:#5b6b7c;
+    --line:#dce2ea; --blue:#1462c4; --blue-deep:#0d3f80;
+    --ok:#2e9e6b; --warn:#c98a1f; --danger:#c9443a;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:"Segoe UI",system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--ink);line-height:1.45}
+  button{font-family:inherit;cursor:pointer}
+  input,textarea{font-family:inherit;font-size:1rem}
+
+  header{background:var(--blue-deep);color:#fff;padding:14px 18px;display:flex;align-items:center;justify-content:space-between;gap:12px;position:sticky;top:0;z-index:10}
+  header .logo{font-size:1.15rem;font-weight:800}
+  header .logo span{color:#a9c9f0}
+  header .predio{font-size:.85rem;opacity:.85}
+  header button{background:rgba(255,255,255,.15);color:#fff;border:none;padding:8px 14px;border-radius:8px;font-size:.85rem}
+  header button:hover{background:rgba(255,255,255,.28)}
+
+  .wrap{max-width:720px;margin:0 auto;padding:18px 16px 120px}
+
+  .login{max-width:420px;margin:9vh auto;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:28px}
+  .login h1{font-size:1.35rem;margin-bottom:6px}
+  .login p{color:var(--ink-dim);font-size:.92rem;margin-bottom:14px}
+  .login label{display:block;font-weight:600;font-size:.9rem;margin:14px 0 6px}
+  .login input{width:100%;padding:12px 14px;border:1px solid var(--line);border-radius:10px}
+  .login .btn{width:100%;margin-top:20px;background:var(--blue);color:#fff;border:none;padding:14px;border-radius:10px;font-size:1rem;font-weight:700}
+  .login .btn:hover{background:var(--blue-deep)}
+  .login .erro{color:var(--danger);font-size:.9rem;margin-top:12px;font-weight:600;display:none}
+
+  .sechead{display:flex;align-items:center;justify-content:space-between;margin-bottom:6px}
+  .sechead h2{font-size:1.15rem}
+  .ajuda{color:var(--ink-dim);font-size:.9rem;margin-bottom:14px}
+  .add{background:var(--ok);color:#fff;border:none;padding:9px 15px;border-radius:9px;font-size:.9rem;font-weight:700}
+  .add:hover{filter:brightness(1.08)}
+
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:14px}
+  .card .topo{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;gap:10px}
+  .tipo{display:flex;gap:6px}
+  .tipo button{background:#eef2f7;border:1px solid var(--line);padding:6px 12px;border-radius:8px;font-size:.82rem;font-weight:600;color:var(--ink-dim)}
+  .tipo button.on{background:var(--blue);color:#fff;border-color:var(--blue)}
+  .remove{background:none;border:1px solid var(--danger);color:var(--danger);padding:7px 13px;border-radius:8px;font-size:.85rem;font-weight:600}
+  .remove:hover{background:var(--danger);color:#fff}
+  .row{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px}
+  .field{flex:1;min-width:150px}
+  .field.full{flex-basis:100%}
+  .field label{display:block;font-size:.78rem;font-weight:700;color:var(--ink-dim);text-transform:uppercase;letter-spacing:.03em;margin-bottom:5px}
+  .field input,.field textarea{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:9px}
+  .field textarea{resize:vertical;min-height:80px}
+  .imgbox{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+  .imgbox img{max-height:130px;max-width:100%;border:1px solid var(--line);border-radius:8px;background:#fff}
+  .imgbox .up{background:var(--blue);color:#fff;border:none;padding:9px 14px;border-radius:9px;font-size:.88rem;font-weight:600}
+  .imgbox input[type=file]{display:none}
+  .dica{font-size:.8rem;color:var(--ink-dim);margin-top:8px}
+
+  .savebar{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:1px solid var(--line);padding:12px 16px;display:flex;align-items:center;justify-content:space-between;gap:12px;z-index:20}
+  .savebar .est{font-size:.88rem;color:var(--ink-dim)}
+  .savebar .est.mud{color:var(--warn);font-weight:600}
+  .savebar .save{background:var(--ok);color:#fff;border:none;padding:13px 26px;border-radius:10px;font-size:1rem;font-weight:800}
+  .savebar .save:disabled{opacity:.5;cursor:default}
+
+  .hide{display:none!important}
+  .toast{position:fixed;left:50%;bottom:80px;transform:translateX(-50%);background:var(--ink);color:#fff;padding:12px 20px;border-radius:10px;font-size:.92rem;z-index:40;opacity:0;transition:opacity .3s;pointer-events:none}
+  .toast.on{opacity:1}
+  .toast.erro{background:var(--danger)}
+</style>
+</head>
+<body>
+
+<div id="login" class="login">
+  <h1>Comunicados do Prédio</h1>
+  <p>Entre para publicar avisos nas telas do elevador.</p>
+  <label for="usuario">Usuário</label>
+  <input id="usuario" autocomplete="username">
+  <label for="senha">Senha</label>
+  <input id="senha" type="password" autocomplete="current-password">
+  <button class="btn" id="entrar">Entrar</button>
+  <div class="erro" id="loginErro"></div>
+</div>
+
+<div id="app" class="hide">
+  <header>
+    <div>
+      <div class="logo">On<span>Screen</span></div>
+      <div class="predio" id="predio"></div>
+    </div>
+    <button id="sair">Sair</button>
+  </header>
+
+  <div class="wrap">
+    <div class="sechead"><h2>Avisos no ar</h2><button class="add" id="add">+ Novo aviso</button></div>
+    <p class="ajuda">Os avisos aparecem em rodízio na parte de baixo da tela. Depois de salvar, levam até 5 minutos para entrar no ar.</p>
+    <div id="lista"></div>
+  </div>
+
+  <div class="savebar">
+    <span class="est" id="estado">Tudo salvo</span>
+    <button class="save" id="salvar" disabled>Salvar e publicar</button>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+(() => {
+  // endereço do "porteiro" no Cloudflare (trocar depois de publicar o Worker)
+  const PORTEIRO = 'https://onscreen-sindico.SEU-USUARIO.workers.dev';
+
+  let cracha = sessionStorage.getItem('onscreen_sindico') || '';
+  let comunicados = [], mudou = false, enviando = 0;
+
+  const $ = (id) => document.getElementById(id);
+  function toast(msg, erro) {
+    const t = $('toast'); t.textContent = msg; t.className = 'toast on' + (erro ? ' erro' : '');
+    setTimeout(() => { t.className = 'toast' + (erro ? ' erro' : ''); }, 3200);
+  }
+  function travar() {
+    if (enviando > 0) { $('salvar').disabled = true; $('estado').textContent = 'Enviando cartaz… aguarde'; $('estado').classList.add('mud'); }
+    else if (mudou) { $('salvar').disabled = false; $('estado').textContent = 'Alterações não salvas'; }
+  }
+  function marcarMudou() { mudou = true; $('estado').textContent = 'Alterações não salvas'; $('estado').classList.add('mud'); $('salvar').disabled = enviando > 0; }
+  function marcarSalvo() { mudou = false; $('estado').textContent = 'Tudo salvo'; $('estado').classList.remove('mud'); $('salvar').disabled = true; }
+
+  async function api(rota, opts) {
+    const r = await fetch(PORTEIRO + rota, Object.assign({
+      headers: { 'Content-Type': 'application/json', Authorization: 'Bearer ' + cracha }
+    }, opts));
+    if (r.status === 401) { sair(); throw new Error('Sessão expirada. Entre novamente.'); }
+    const j = await r.json().catch(() => ({}));
+    if (!r.ok) throw new Error(j.erro || 'erro ' + r.status);
+    return j;
+  }
+
+  // ---------- login ----------
+  $('entrar').addEventListener('click', entrar);
+  $('senha').addEventListener('keydown', (e) => { if (e.key === 'Enter') entrar(); });
+  async function entrar() {
+    const usuario = $('usuario').value.trim(), senha = $('senha').value;
+    if (!usuario || !senha) return;
+    $('loginErro').style.display = 'none';
+    $('entrar').textContent = 'Entrando…';
+    try {
+      const r = await fetch(PORTEIRO + '/login', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ usuario, senha })
+      });
+      const j = await r.json();
+      if (!r.ok) throw new Error(j.erro || 'Não consegui entrar.');
+      cracha = j.cracha;
+      sessionStorage.setItem('onscreen_sindico', cracha);
+      await abrir();
+    } catch (e) {
+      $('loginErro').textContent = e.message;
+      $('loginErro').style.display = 'block';
+    }
+    $('entrar').textContent = 'Entrar';
+  }
+
+  function sair() {
+    sessionStorage.removeItem('onscreen_sindico');
+    cracha = '';
+    $('app').classList.add('hide');
+    $('login').classList.remove('hide');
+  }
+  $('sair').addEventListener('click', () => {
+    if (mudou && !confirm('Você tem alterações não salvas. Sair mesmo assim?')) return;
+    sair();
+  });
+
+  async function abrir() {
+    const dados = await api('/comunicados');
+    comunicados = dados.comunicados || [];
+    $('predio').textContent = dados.predio || '';
+    $('login').classList.add('hide');
+    $('app').classList.remove('hide');
+    render();
+    marcarSalvo();
+  }
+
+  // ---------- lista ----------
+  function render() {
+    const lista = $('lista'); lista.innerHTML = '';
+    comunicados.forEach((n, i) => lista.appendChild(cartao(n, i)));
+    if (!comunicados.length) lista.innerHTML = '<p style="color:var(--ink-dim)">Nenhum aviso no ar. Clique em “Novo aviso”.</p>';
+  }
+
+  function cartao(n, i) {
+    const c = document.createElement('div'); c.className = 'card';
+    const ehImg = !!n.imagem;
+    c.innerHTML =
+      '<div class="topo">' +
+        '<div class="tipo">' +
+          '<button data-t="texto" class="' + (!ehImg ? 'on' : '') + '">Texto</button>' +
+          '<button data-t="imagem" class="' + (ehImg ? 'on' : '') + '">Cartaz</button>' +
+        '</div>' +
+        '<button class="remove">Remover</button>' +
+      '</div><div class="corpo"></div>' +
+      '<div class="row" style="margin-top:12px"><div class="field" style="max-width:260px">' +
+        '<label>Tempo na tela (segundos)</label>' +
+        '<input class="f-seg" type="number" min="3" max="120" placeholder="padrão">' +
+      '</div></div>';
+
+    const corpo = c.querySelector('.corpo');
+    const seg = c.querySelector('.f-seg');
+    seg.value = n.segundos || '';
+    seg.addEventListener('input', (e) => { const v = +e.target.value; if (v > 0) n.segundos = v; else delete n.segundos; marcarMudou(); });
+
+    let modo = ehImg ? 'imagem' : 'texto';
+    function desenhar() {
+      if (modo === 'imagem') {
+        corpo.innerHTML =
+          '<div class="imgbox">' +
+            (n.imagem ? '<img src="' + n.imagem + '" alt="">' : '<span style="color:var(--ink-dim)">Nenhum cartaz</span>') +
+            '<button class="up">Escolher cartaz</button><input type="file" accept="image/*">' +
+          '</div>' +
+          '<p class="dica">Faça o cartaz deitado, em 1080 × 782 pixels (no Canva: Tamanho personalizado). Até 5 MB.</p>';
+        const inp = corpo.querySelector('input[type=file]');
+        corpo.querySelector('.up').addEventListener('click', () => inp.click());
+        inp.addEventListener('change', () => enviarCartaz(inp.files[0], (caminho) => {
+          n.imagem = caminho; delete n.titulo; delete n.texto; desenhar(); marcarMudou();
+        }));
+      } else {
+        corpo.innerHTML =
+          '<div class="row"><div class="field full"><label>Título do aviso</label><input class="f-titulo"></div></div>' +
+          '<div class="row"><div class="field full"><label>Mensagem</label><textarea class="f-texto"></textarea></div></div>';
+        corpo.querySelector('.f-titulo').value = n.titulo || '';
+        corpo.querySelector('.f-texto').value = n.texto || '';
+        corpo.querySelector('.f-titulo').addEventListener('input', (e) => { n.titulo = e.target.value; delete n.imagem; marcarMudou(); });
+        corpo.querySelector('.f-texto').addEventListener('input', (e) => { n.texto = e.target.value; delete n.imagem; marcarMudou(); });
+      }
+    }
+    desenhar();
+
+    c.querySelectorAll('.tipo button').forEach((b) => b.addEventListener('click', () => {
+      modo = b.dataset.t;
+      c.querySelectorAll('.tipo button').forEach((x) => x.classList.remove('on'));
+      b.classList.add('on'); desenhar();
+    }));
+    c.querySelector('.remove').addEventListener('click', () => {
+      if (!confirm('Remover este aviso?')) return;
+      comunicados.splice(i, 1); render(); marcarMudou();
+    });
+    return c;
+  }
+
+  $('add').addEventListener('click', () => {
+    comunicados.push({ titulo: 'Novo aviso', texto: '' });
+    render(); marcarMudou();
+    window.scrollTo(0, document.body.scrollHeight);
+  });
+
+  // ---------- envio de cartaz ----------
+  async function enviarCartaz(file, cb) {
+    if (!file) return;
+    if (file.size > 5 * 1024 * 1024) return toast('Cartaz muito grande (máx 5 MB).', true);
+    enviando++; travar();
+    toast('Enviando cartaz…');
+    try {
+      const b64 = await new Promise((res) => {
+        const fr = new FileReader();
+        fr.onload = () => res(fr.result.split(',')[1]);
+        fr.readAsDataURL(file);
+      });
+      const j = await api('/cartaz', { method: 'POST', body: JSON.stringify({ nome: file.name, conteudo: b64 }) });
+      cb(j.caminho);
+      toast('Cartaz enviado!');
+    } catch (e) {
+      toast('Falha ao enviar: ' + e.message, true);
+    } finally { enviando--; travar(); }
+  }
+
+  // ---------- salvar ----------
+  $('salvar').addEventListener('click', async () => {
+    $('salvar').disabled = true; $('salvar').textContent = 'Salvando…';
+    try {
+      await api('/comunicados', { method: 'PUT', body: JSON.stringify({ comunicados }) });
+      marcarSalvo();
+      toast('Publicado! As telas atualizam em até 5 minutos.');
+    } catch (e) {
+      toast('Não consegui salvar: ' + e.message, true);
+      $('salvar').disabled = false;
+    }
+    $('salvar').textContent = 'Salvar e publicar';
+  });
+
+  window.addEventListener('beforeunload', (e) => { if (mudou) { e.preventDefault(); e.returnValue = ''; } });
+
+  if (cracha) abrir().catch(sair);
+})();
+</script>
+</body>
+</html>
