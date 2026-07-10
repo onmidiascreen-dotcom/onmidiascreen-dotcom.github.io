@@ -12,21 +12,13 @@
   "duracaoComunicadoSegundos": 20,
   "anuncios": [
     {
-      "tipo": "texto",
-      "url": "anuncios/1783642989025-Anuncio_Exemplo_2.mp4",
-      "tag": "Valeverde Imobiliária",
-      "titulo": "Desde 1989, levamos o seu patrimônio a sério",
-      "texto": "Compra, venda e locação de imóveis em Arapongas e região. Fale com nossos corretores.",
-      "rodape": "Rua Eurilemos, 972 · Centro · (43) 3252-0403",
-      "cor": "verde"
-    },
-    {
-      "tipo": "texto",
+      "tipo": "video",
       "tag": "Espaço disponível",
       "titulo": "Anuncie aqui",
       "texto": "Onde seu público está, sua marca ganha vida",
       "rodape": "OnScreen · (43) 98874-1575",
-      "cor": "claro"
+      "cor": "claro",
+      "url": "anuncios/1783643315707-Anuncio_Exemplo_2.mp4"
     }
   ],
   "comunicados": [
