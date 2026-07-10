@@ -21,25 +21,7 @@
       "texto": "",
       "rodape": "",
       "cor": "azul",
-      "url": "anuncios/1783696056592-Anuncie_sua_marca_aqui.mp4"
-    },
-    {
-      "tipo": "video",
-      "tag": "",
-      "titulo": "Novo anúncio",
-      "texto": "",
-      "rodape": "",
-      "cor": "azul",
-      "url": "anuncios/1783696080437-Teste_LJ_im_veis_10__1_.mp4"
-    },
-    {
-      "tipo": "video",
-      "tag": "",
-      "titulo": "Novo anúncio",
-      "texto": "",
-      "rodape": "",
-      "cor": "azul",
-      "url": "anuncios/1783696095924-Modelo_1.mp4"
+      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1783722078/lcxvrzyordeaxjrjcwet.mp4"
     }
   ],
   "comunicados": [
