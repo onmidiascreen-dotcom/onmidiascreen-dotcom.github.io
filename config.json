@@ -7,12 +7,12 @@
   },
   "contato": "(43) 98874-1575",
   "fonteNoticias": "uol",
-  "duracaoAnuncioSegundos": 8,
-  "duracaoNoticiaSegundos": 8,
-  "duracaoComunicadoSegundos": 10,
+  "duracaoAnuncioSegundos": 12,
+  "duracaoNoticiaSegundos": 12,
+  "duracaoComunicadoSegundos": 20,
   "anuncios": [
     {
-      "tipo": "video",
+      "tipo": "texto",
       "url": "anuncios/1783642989025-Anuncio_Exemplo_2.mp4",
       "tag": "Valeverde Imobiliária",
       "titulo": "Desde 1989, levamos o seu patrimônio a sério",
