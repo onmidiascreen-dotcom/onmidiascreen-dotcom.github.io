@@ -197,7 +197,7 @@
   </div>
 
   <div class="foot">
-    <span class="logo"><i class="mark"></i>On<b>Screen</b></span>
+    <span class="logo"><i class="mark"></i><span class="nome">On<b>Screen</b></span></span>
     <span class="fone" id="fone"></span>
     <span class="slogan" id="slogan"></span>
     <div class="info">
@@ -478,14 +478,16 @@
   }
   setInterval(girarInfo, 6000);
 
-  // o recorte diagonal da faixa começa logo depois da palavra "Notícias"
+  // O recorte diagonal da faixa começa logo depois da palavra "Notícias".
+  // Usa offsetLeft/offsetTop (coordenadas do layout) e NÃO getBoundingClientRect:
+  // na tela girada 90° o rect vem no eixo da tela física e a medida sai trocada,
+  // cortando a manchete no meio.
   function ajustarFaixaNoticias() {
     const band = document.getElementById('newsband'), chip = document.getElementById('nbchip');
     if (!band || !chip) return;
     const rem = parseFloat(getComputedStyle(document.documentElement).fontSize) || 10;
-    const b = band.getBoundingClientRect(), c = chip.getBoundingClientRect();
-    band.style.setProperty('--cx', (c.right - b.left + rem * 0.9) + 'px');
-    band.style.setProperty('--cy', (c.bottom - b.top + rem * 0.35) + 'px');
+    band.style.setProperty('--cx', (chip.offsetLeft + chip.offsetWidth + rem * 0.9) + 'px');
+    band.style.setProperty('--cy', (chip.offsetTop + chip.offsetHeight + rem * 0.35) + 'px');
   }
   window.addEventListener('resize', ajustarFaixaNoticias);
 
