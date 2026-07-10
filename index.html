@@ -154,7 +154,7 @@
     opacity:0;transform:translateY(1.1rem);transition:opacity .55s ease,transform .55s ease;
   }
   .slot.on{opacity:1;transform:none}
-  .slot .lbl{font-size:1.15rem;letter-spacing:.3em;text-transform:uppercase;color:var(--neon);font-weight:700}
+  .slot .lbl{font-size:1.15rem;letter-spacing:.22em;text-transform:uppercase;color:var(--neon);font-weight:700;white-space:nowrap}
   .slot .val{
     font-size:2.9rem;font-weight:800;color:#fff;line-height:1;
     font-variant-numeric:tabular-nums;display:flex;align-items:center;gap:.6rem;
@@ -293,7 +293,8 @@
   function tick() {
     const n = new Date();
     timeEl.textContent = n.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-    document.getElementById('wd').textContent = n.toLocaleDateString('pt-BR', { weekday: 'short' }).replace('.', '');
+    // dia por extenso: "sexta-feira". O relógio vem do aparelho, não da internet.
+    document.getElementById('wd').textContent = n.toLocaleDateString('pt-BR', { weekday: 'long' });
   }
   tick(); setInterval(tick, 1000);
 
