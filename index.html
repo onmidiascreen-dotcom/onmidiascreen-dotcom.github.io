@@ -49,6 +49,10 @@
   .ad.img img{width:100%;height:100%;object-fit:cover}
   .ad.video{padding:0;background:#000}
   .ad.video video{width:100%;height:100%;object-fit:cover}
+  /* o Chrome desenha um botão de transmitir (Chromecast) sobre o vídeo. Fora com ele. */
+  .ad.video video::-webkit-media-controls{display:none!important}
+  .ad.video video::-webkit-media-controls-overlay-play-button{display:none!important}
+  .ad.video video::-internal-media-controls-overlay-cast-button{display:none!important}
   .ad.verde{background:linear-gradient(160deg,#123d23,#1f7a45 60%,#2fa35d);color:#f0fff5}
   .ad.dourado{background:linear-gradient(160deg,#28180a,#7a4a12 60%,#b06f1c);color:#fdf4e2}
   .ad.azul{background:linear-gradient(160deg,#101c36,#1d3e7e 60%,#2f5cb4);color:#eef3ff}
@@ -143,11 +147,6 @@
     flex:none;font-size:1.65rem;font-weight:700;color:#93a9c0;font-variant-numeric:tabular-nums;
     padding-left:1.6rem;border-left:.1rem solid rgba(255,255,255,.13);
   }
-  .foot .slogan{
-    min-width:0;font-size:1.35rem;letter-spacing:.18em;text-transform:uppercase;color:#5d738c;
-    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
-  }
-
   /* painel rotativo: hora -> tempo -> dólar -> euro */
   .info{margin-left:auto;position:relative;flex:none;width:21rem;height:100%}
   .slot{
@@ -199,7 +198,6 @@
   <div class="foot">
     <span class="logo"><i class="mark"></i><span class="nome">On<b>Screen</b></span></span>
     <span class="fone" id="fone"></span>
-    <span class="slogan" id="slogan"></span>
     <div class="info">
       <div class="slot on"><span class="lbl" id="wd">hoje</span><span class="val" id="time">--:--</span></div>
       <div class="slot vazio"><span class="lbl">Tempo</span><span class="val"><span id="wxIcon">☁️</span> <span id="wx">--°/--°</span></span></div>
@@ -313,9 +311,12 @@
       let video = null;
       if (a.tipo === 'video') {
         d.className = 'ad video';
-        d.innerHTML = '<video muted playsinline preload="auto"></video>';
+        // disableremoteplayback tira o botão de transmitir (Chromecast) que o Chrome
+        // desenha sozinho sobre o vídeo quando enxerga um dispositivo na rede
+        d.innerHTML = '<video muted playsinline preload="auto" disableremoteplayback x-webkit-airplay="deny"></video>';
         video = d.querySelector('video');
         video.muted = true;
+        video.disableRemotePlayback = true;
         if (a.url) video.src = a.url;
       } else if (a.tipo === 'imagem') {
         d.className = 'ad img';
@@ -422,7 +423,6 @@
     document.getElementById('predio').textContent = cfg.predio || '';
     document.getElementById('fone').textContent = cfg.contato || '';
     document.getElementById('rotuloCom').textContent = cfg.rotuloComunicados || 'Comunicados';
-    document.getElementById('slogan').textContent = cfg.slogan || 'Sua marca onde seu público está';
     document.documentElement.style.setProperty('--accent', cfg.corDestaque || '#1462c4');
   }
 

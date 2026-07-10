@@ -160,7 +160,6 @@
           </div>
         </div>
         <div class="row">
-          <div class="field"><label>Frase do rodapé</label><input id="cfgSlogan" placeholder="Sua marca onde seu público está"></div>
           <div class="field"><label>Rótulo do comunicado</label><input id="cfgRotulo" placeholder="Comunicados"></div>
         </div>
         <div class="row">
@@ -292,7 +291,6 @@
     renderCom();
     $('cfgPredio').value = cfg.predio || '';
     $('cfgContato').value = cfg.contato || '';
-    $('cfgSlogan').value = cfg.slogan || '';
     $('cfgRotulo').value = cfg.rotuloComunicados || '';
     renderCores();
     $('cfgFonte').value = cfg.fonteNoticias || 'uol';
@@ -483,7 +481,6 @@
 
   $('cfgPredio').addEventListener('input', (e) => { cfg.predio = e.target.value; marcarMudou(); });
   $('cfgContato').addEventListener('input', (e) => { cfg.contato = e.target.value; marcarMudou(); });
-  $('cfgSlogan').addEventListener('input', (e) => { cfg.slogan = e.target.value; marcarMudou(); });
   $('cfgRotulo').addEventListener('input', (e) => { cfg.rotuloComunicados = e.target.value; marcarMudou(); });
   $('cfgFonte').addEventListener('change', (e) => { cfg.fonteNoticias = e.target.value; marcarMudou(); });
   $('cfgDurAnuncio').addEventListener('input', (e) => { cfg.duracaoAnuncioSegundos = +e.target.value || 8; marcarMudou(); });
