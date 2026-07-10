@@ -189,6 +189,9 @@
   const OWNER = 'onmidiascreen-dotcom';
   const REPO = 'onmidiascreen-dotcom.github.io';
   const API = 'https://api.github.com/repos/' + OWNER + '/' + REPO + '/contents/';
+  // vídeos vão para o Cloudinary (não entopem o GitHub). preset "onscreen" é sem assinatura.
+  const CLOUD_NAME = 'tblvjjkt';
+  const UPLOAD_PRESET = 'onscreen';
   const CORES = ['verde','dourado','azul','claro'];
   const CORES_HEX = { verde:'#1f7a45', dourado:'#a06b1e', azul:'#1d3e7e', claro:'#e7ebf0' };
 
@@ -489,7 +492,33 @@
 
   // ---------- upload de arquivo (imagem ou vídeo) ----------
   function enviarImagem(file, pasta, cb) { return enviarArquivo(file, pasta, 4, 'imagem', cb); }
-  function enviarVideo(file, pasta, cb) { return enviarArquivo(file, pasta, 24, 'vídeo', cb); }
+
+  // vídeo vai para o Cloudinary e o painel guarda só o link (o GitHub não engorda mais).
+  // cb recebe a URL completa (https://res.cloudinary.com/...), que o player toca direto.
+  async function enviarVideo(file, pasta, cb) {
+    if (!file) return;
+    const maxMB = 80;
+    if (file.size > maxMB * 1024 * 1024) {
+      toast('Vídeo muito grande (máx ' + maxMB + ' MB). Reduza a duração ou a qualidade.', true);
+      return;
+    }
+    enviando++; travarSalvar();
+    toast('Enviando vídeo… (pode levar alguns segundos)');
+    try {
+      const fd = new FormData();
+      fd.append('file', file);
+      fd.append('upload_preset', UPLOAD_PRESET);
+      const r = await fetch('https://api.cloudinary.com/v1_1/' + CLOUD_NAME + '/video/upload', { method: 'POST', body: fd });
+      const j = await r.json().catch(() => ({}));
+      if (!r.ok || !j.secure_url) throw new Error((j.error && j.error.message) || ('erro ' + r.status));
+      cb(j.secure_url);
+      toast('Vídeo enviado!');
+    } catch (e) {
+      toast('Falha ao enviar o vídeo: ' + e.message, true);
+    } finally {
+      enviando--; travarSalvar();
+    }
+  }
 
   async function enviarArquivo(file, pasta, maxMB, rotulo, cb) {
     if (!file) return;

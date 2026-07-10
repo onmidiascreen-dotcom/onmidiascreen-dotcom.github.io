@@ -1,6 +1,6 @@
 // Service Worker: grava o player na memória da tela.
 // A tela liga e abre o player mesmo sem internet; a rede só serve para atualizar.
-const CACHE = 'onscreen-v6';
+const CACHE = 'onscreen-v7';
 const SHELL = ['./', 'index.html', 'manifest.json'];
 
 // o player pede para guardar vídeos/imagens na memória enquanto tem internet,
@@ -15,10 +15,12 @@ self.addEventListener('message', (e) => {
       const existe = await c.match(u, { ignoreSearch: true });
       if (!existe) await c.add(u).catch(() => {});
     }
-    // e joga fora vídeos/imagens que saíram do conteúdo (senão a memória só cresce)
+    // e joga fora vídeos/imagens que saíram do conteúdo (senão a memória só cresce).
+    // inclui vídeos do Cloudinary (res.cloudinary.com) além das pastas do próprio site.
     const manter = new Set(d.urls.map((u) => new URL(u, self.location.href).href));
+    const ehMidiaGerenciada = (u) => /\/(anuncios|comunicados)\//.test(u) || /res\.cloudinary\.com\//.test(u);
     for (const req of await c.keys()) {
-      if (/\/(anuncios|comunicados)\//.test(req.url) && !manter.has(req.url)) await c.delete(req);
+      if (ehMidiaGerenciada(req.url) && !manter.has(req.url)) await c.delete(req);
     }
   })());
 });
@@ -45,7 +47,10 @@ self.addEventListener('activate', (e) => {
 
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
-  if (url.origin !== location.origin) return; // clima/câmbio seguem direto pra rede
+  // mídia de fora (vídeos no Cloudinary) precisa ser guardada para rodar offline;
+  // já clima/câmbio (respostas de dados) seguem sempre direto pra rede.
+  const ehMidia = e.request.destination === 'video' || e.request.destination === 'image';
+  if (url.origin !== location.origin && !ehMidia) return;
 
   // a checagem de versão do player precisa ver a rede, nunca a cópia guardada
   if (url.searchParams.has('versao')) { e.respondWith(fetch(e.request)); return; }
@@ -105,7 +110,8 @@ self.addEventListener('fetch', (e) => {
   e.respondWith(
     caches.match(e.request, { ignoreSearch: true }).then((salvo) => {
       const rede = fetch(e.request).then((r) => {
-        if (r.status === 200 && r.type === 'basic') {
+        // 'basic' = do próprio site; 'cors' = mídia do Cloudinary (permite guardar offline)
+        if (r.status === 200 && (r.type === 'basic' || r.type === 'cors')) {
           const cp = r.clone();
           caches.open(CACHE).then((c) => c.put(e.request, cp));
         }
