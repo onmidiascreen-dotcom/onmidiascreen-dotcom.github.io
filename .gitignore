@@ -1,0 +1,6 @@
+
+CONFIGURAR-SEGREDOS.cmd
+node_modules/
+.wrangler/
+TROCAR-CONTA.cmd
+MOSTRAR-ENDERECO.cmd
