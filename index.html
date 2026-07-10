@@ -76,8 +76,8 @@
   /* faixa de notícia translúcida sobre a parte de baixo da propaganda */
   .newsband{
     position:absolute;left:0;right:0;bottom:0;z-index:1;
-    background:rgba(30,36,45,.6);
-    -webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);
+    background:rgba(24,30,39,.42);
+    -webkit-backdrop-filter:blur(3px);backdrop-filter:blur(3px);
     color:#fff;display:flex;flex-direction:column;justify-content:center;gap:.7rem;
     padding:1.2rem 1.8rem 1.5rem;min-height:8.5rem;
   }
@@ -386,7 +386,8 @@
     const urls = [];
     (cfg.anuncios || []).forEach(a => { if ((a.tipo === 'video' || a.tipo === 'imagem') && a.url) urls.push(a.url); });
     (cfg.comunicados || []).forEach(n => { if (n.imagem) urls.push(n.imagem); });
-    if (urls.length) navigator.serviceWorker.controller.postMessage({ tipo: 'guardar', urls });
+    // manda sempre (mesmo vazio): o SW aproveita para apagar mídias que saíram do ar
+    navigator.serviceWorker.controller.postMessage({ tipo: 'guardar', urls });
   }
 
   // ---------- clima (Open-Meteo, gratuito, sem chave) ----------

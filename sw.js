@@ -8,11 +8,19 @@ const SHELL = ['./', 'index.html', 'manifest.json'];
 self.addEventListener('message', (e) => {
   const d = e.data;
   if (!d || d.tipo !== 'guardar' || !Array.isArray(d.urls)) return;
-  e.waitUntil(caches.open(CACHE).then((c) =>
-    Promise.all(d.urls.map((u) =>
-      c.match(u, { ignoreSearch: true }).then((existe) => existe || c.add(u).catch(() => {}))
-    ))
-  ));
+  e.waitUntil((async () => {
+    const c = await caches.open(CACHE);
+    // guarda o que está no ar hoje
+    for (const u of d.urls) {
+      const existe = await c.match(u, { ignoreSearch: true });
+      if (!existe) await c.add(u).catch(() => {});
+    }
+    // e joga fora vídeos/imagens que saíram do conteúdo (senão a memória só cresce)
+    const manter = new Set(d.urls.map((u) => new URL(u, self.location.href).href));
+    for (const req of await c.keys()) {
+      if (/\/(anuncios|comunicados)\//.test(req.url) && !manter.has(req.url)) await c.delete(req);
+    }
+  })());
 });
 
 self.addEventListener('install', (e) => {
@@ -34,13 +42,22 @@ self.addEventListener('fetch', (e) => {
   // a página em si (o app): tenta rede primeiro para pegar novidades de visual,
   // e se estiver offline usa a cópia salva. Assim as atualizações aparecem na hora.
   if (e.request.mode === 'navigate') {
-    e.respondWith(
-      fetch(e.request).then((r) => {
+    e.respondWith((async () => {
+      const salvo = () => caches.match('index.html').then((c) => c || caches.match('./'));
+      try {
+        // Wi-Fi "conectado mas sem internet" (caso do elevador) trava o fetch:
+        // depois de 4s desiste e abre da memória. A tela nunca fica esperando.
+        const r = await Promise.race([
+          fetch(e.request),
+          new Promise((_, rej) => setTimeout(() => rej(new Error('rede lenta')), 4000))
+        ]);
         const cp = r.clone();
         caches.open(CACHE).then((c) => c.put('index.html', cp));
         return r;
-      }).catch(() => caches.match('index.html').then((c) => c || caches.match('./')))
-    );
+      } catch (err) {
+        return (await salvo()) || fetch(e.request);
+      }
+    })());
     return;
   }
 
