@@ -1,7 +1,19 @@
 // Service Worker: grava o player na memória da tela.
 // A tela liga e abre o player mesmo sem internet; a rede só serve para atualizar.
-const CACHE = 'onscreen-v3';
+const CACHE = 'onscreen-v4';
 const SHELL = ['./', 'index.html', 'manifest.json'];
+
+// o player pede para guardar vídeos/imagens na memória enquanto tem internet,
+// para que rodem mesmo depois que a internet cair
+self.addEventListener('message', (e) => {
+  const d = e.data;
+  if (!d || d.tipo !== 'guardar' || !Array.isArray(d.urls)) return;
+  e.waitUntil(caches.open(CACHE).then((c) =>
+    Promise.all(d.urls.map((u) =>
+      c.match(u, { ignoreSearch: true }).then((existe) => existe || c.add(u).catch(() => {}))
+    ))
+  ));
+});
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));

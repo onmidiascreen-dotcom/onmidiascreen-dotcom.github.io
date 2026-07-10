@@ -243,7 +243,10 @@
       } else if (a.tipo === 'imagem') {
         d.className = 'ad img';
         d.innerHTML = '<img alt="">';
-        if (a.url) d.querySelector('img').src = a.url;
+        const im = d.querySelector('img');
+        // se a imagem falhar (ex.: offline e não guardada), pula esse anúncio em vez de ficar branco
+        im.onerror = () => { if (d.classList.contains('on')) proximoAnuncio(); };
+        if (a.url) im.src = a.url;
       } else {
         d.className = 'ad ' + (a.cor || 'azul');
         d.innerHTML = '<div class="tag"></div><h2></h2><p></p><span class="cta"></span>';
@@ -302,8 +305,11 @@
       const n = ns[ni];
       if (n.imagem) {
         box.classList.add('soimagem');
+        // se a imagem não estiver na memória (offline) evita tela branca: mostra o nome do prédio
+        img.onerror = () => { box.classList.remove('soimagem'); t.textContent = cfg.predio || 'OnScreen'; b.textContent = ''; };
         img.src = n.imagem;
       } else {
+        img.onerror = null;
         box.classList.remove('soimagem');
         img.removeAttribute('src');
         t.textContent = n.titulo; b.textContent = n.texto;
@@ -326,6 +332,16 @@
     document.getElementById('predio').textContent = cfg.predio || '';
     document.getElementById('fone').textContent = cfg.contato || '';
     if (mudou) { renderAnuncios(); renderComunicados(); atualizarClima(); }
+    precacheMidia(); // garante que vídeos/imagens fiquem salvos para rodar sem internet
+  }
+
+  // baixa e guarda na memória todos os vídeos/imagens do conteúdo, para funcionarem offline
+  function precacheMidia() {
+    if (!cfg || !('serviceWorker' in navigator) || !navigator.serviceWorker.controller) return;
+    const urls = [];
+    (cfg.anuncios || []).forEach(a => { if ((a.tipo === 'video' || a.tipo === 'imagem') && a.url) urls.push(a.url); });
+    (cfg.comunicados || []).forEach(n => { if (n.imagem) urls.push(n.imagem); });
+    if (urls.length) navigator.serviceWorker.controller.postMessage({ tipo: 'guardar', urls });
   }
 
   // ---------- clima (Open-Meteo, gratuito, sem chave) ----------
