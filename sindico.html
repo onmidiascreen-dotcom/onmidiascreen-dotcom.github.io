@@ -219,7 +219,7 @@
             (n.imagem ? '<img src="' + n.imagem + '" alt="">' : '<span style="color:var(--ink-dim)">Nenhum cartaz</span>') +
             '<button class="up">Escolher cartaz</button><input type="file" accept="image/*">' +
           '</div>' +
-          '<p class="dica">Faça o cartaz deitado, em 1080 × 782 pixels (no Canva: Tamanho personalizado). Até 5 MB.</p>';
+          '<p class="dica">Faça o cartaz deitado, em 1080 × 720 pixels (no Canva: Tamanho personalizado). Até 5 MB.</p>';
         const inp = corpo.querySelector('input[type=file]');
         corpo.querySelector('.up').addEventListener('click', () => inp.click());
         inp.addEventListener('change', () => enviarCartaz(inp.files[0], (caminho) => {

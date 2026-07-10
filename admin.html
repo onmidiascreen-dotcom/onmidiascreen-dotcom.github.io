@@ -419,7 +419,8 @@
           '<div class="imgbox">' +
             (n.imagem ? '<img src="' + n.imagem + '" alt="">' : '<span style="color:var(--ink-dim)">Nenhum cartaz</span>') +
             '<button class="up">Escolher cartaz</button><input type="file" accept="image/*">' +
-          '</div>';
+          '</div>' +
+          '<p style="font-size:.8rem;color:var(--ink-dim);margin-top:8px">Dica: cartaz deitado em 1080 × 720 px (no Canva: Tamanho personalizado) preenche o quadro certinho.</p>';
         const inp = corpo.querySelector('input[type=file]');
         corpo.querySelector('.up').addEventListener('click', () => inp.click());
         inp.addEventListener('change', () => enviarImagem(inp.files[0], 'comunicados', (url) => { if (n.imagem && n.imagem !== url) agendarApagar(n.imagem); n.imagem = url; delete n.titulo; delete n.texto; desenhar(); marcarMudou(); }));
