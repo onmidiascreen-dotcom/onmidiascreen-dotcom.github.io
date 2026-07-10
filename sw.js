@@ -1,6 +1,6 @@
 // Service Worker: grava o player na memória da tela.
 // A tela liga e abre o player mesmo sem internet; a rede só serve para atualizar.
-const CACHE = 'onscreen-v4';
+const CACHE = 'onscreen-v5';
 const SHELL = ['./', 'index.html', 'manifest.json'];
 
 // o player pede para guardar vídeos/imagens na memória enquanto tem internet,
@@ -30,6 +30,19 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   if (url.origin !== location.origin) return; // clima/câmbio seguem direto pra rede
+
+  // a página em si (o app): tenta rede primeiro para pegar novidades de visual,
+  // e se estiver offline usa a cópia salva. Assim as atualizações aparecem na hora.
+  if (e.request.mode === 'navigate') {
+    e.respondWith(
+      fetch(e.request).then((r) => {
+        const cp = r.clone();
+        caches.open(CACHE).then((c) => c.put('index.html', cp));
+        return r;
+      }).catch(() => caches.match('index.html').then((c) => c || caches.match('./')))
+    );
+    return;
+  }
 
   // dados (config/notícias): tenta rede, senão usa a cópia salva
   if (url.pathname.endsWith('config.json') || url.pathname.endsWith('noticias.json')) {
