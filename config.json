@@ -13,12 +13,12 @@
   "anuncios": [
     {
       "tipo": "video",
-      "tag": "Espaço disponível",
-      "titulo": "Anuncie aqui",
-      "texto": "Onde seu público está, sua marca ganha vida",
-      "rodape": "OnScreen · (43) 98874-1575",
-      "cor": "claro",
-      "url": "anuncios/1783643315707-Anuncio_Exemplo_2.mp4"
+      "tag": "",
+      "titulo": "Novo anúncio",
+      "texto": "",
+      "rodape": "",
+      "cor": "azul",
+      "url": "anuncios/1783649688690-Teste_LJ_im_veis_10_-_2.mp4"
     }
   ],
   "comunicados": [
