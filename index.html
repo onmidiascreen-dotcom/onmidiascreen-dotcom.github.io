@@ -96,10 +96,14 @@
   .notice{flex:1;min-height:0;overflow:hidden;border:1px solid var(--line);border-radius:1rem;padding:1.6rem 1.8rem;background:#fbfcfd;position:relative}
   .notice h3{font-size:3rem;font-weight:700;margin-bottom:.8rem}
   .notice p{font-size:2.4rem;color:var(--ink-dim);line-height:1.45}
-  .notice img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;background:#fff;display:none}
+  .notice img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#fff;display:none}
   .notice.soimagem{padding:0}
   .notice.soimagem img{display:block}
   .notice.soimagem h3,.notice.soimagem p{display:none}
+  /* comunicado em imagem: ocupa o quadro inteiro (esconde cabeçalho e contador) para a imagem ficar grande e sem cortar */
+  .board.imgcheio{padding:0;gap:0}
+  .board.imgcheio .head,.board.imgcheio .meta{display:none}
+  .board.imgcheio .notice{border:none;border-radius:0}
   .board .meta{display:flex;justify-content:space-between;align-items:center}
   .board .label{font-size:1.6rem;letter-spacing:.14em;text-transform:uppercase;color:var(--blue);font-weight:700}
   .status{display:flex;align-items:center;gap:.8rem;font-size:1.8rem;color:var(--ink-dim)}
@@ -301,16 +305,19 @@
     if (!ns.length) { clearTimeout(noticeTimer); t.textContent = 'Sem comunicados no momento'; b.textContent = ''; c.textContent = ''; return }
     let ni = 0;
     const box = document.getElementById('notice'), img = document.getElementById('nImg');
+    const board = box.parentElement;
     const mostrar = () => {
       const n = ns[ni];
       if (n.imagem) {
         box.classList.add('soimagem');
+        board.classList.add('imgcheio'); // imagem ocupa o quadro inteiro (grande, sem cortar)
         // se a imagem não estiver na memória (offline) evita tela branca: mostra o nome do prédio
-        img.onerror = () => { box.classList.remove('soimagem'); t.textContent = cfg.predio || 'OnScreen'; b.textContent = ''; };
+        img.onerror = () => { box.classList.remove('soimagem'); board.classList.remove('imgcheio'); t.textContent = cfg.predio || 'OnScreen'; b.textContent = ''; };
         img.src = n.imagem;
       } else {
         img.onerror = null;
         box.classList.remove('soimagem');
+        board.classList.remove('imgcheio');
         img.removeAttribute('src');
         t.textContent = n.titulo; b.textContent = n.texto;
       }
