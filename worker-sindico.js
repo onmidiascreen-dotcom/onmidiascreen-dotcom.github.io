@@ -11,7 +11,17 @@
 
 const REPO = 'onmidiascreen-dotcom/onmidiascreen-dotcom.github.io';
 const GH = 'https://api.github.com/repos/' + REPO + '/contents/';
-const ORIGEM = 'https://onmidiascreen-dotcom.github.io';
+// endereços autorizados a falar com o porteiro (o antigo do GitHub e o domínio próprio).
+// Mantemos os dois para a migração de domínio não derrubar o painel do síndico.
+const ORIGENS = [
+  'https://onmidiascreen-dotcom.github.io',
+  'https://onscreenmidia.com.br',
+  'https://www.onscreenmidia.com.br',
+];
+const origemPermitida = (req) => {
+  const o = req.headers.get('Origin') || '';
+  return ORIGENS.includes(o) ? o : ORIGENS[0];
+};
 const HORAS_DE_ACESSO = 12;
 const MAX_IMAGEM_MB = 5;
 
@@ -20,15 +30,17 @@ const enc = new TextEncoder();
 const utf8ToB64 = (s) => { let bin = ''; enc.encode(s).forEach((b) => bin += String.fromCharCode(b)); return btoa(bin); };
 const b64ToUtf8 = (b) => new TextDecoder().decode(Uint8Array.from(atob(b.replace(/\n/g, '')), (c) => c.charCodeAt(0)));
 
-function cors(resp) {
-  resp.headers.set('Access-Control-Allow-Origin', ORIGEM);
+function cors(resp, origem) {
+  resp.headers.set('Access-Control-Allow-Origin', origem);
+  resp.headers.set('Vary', 'Origin');
   resp.headers.set('Access-Control-Allow-Headers', 'Content-Type, Authorization');
   resp.headers.set('Access-Control-Allow-Methods', 'GET, POST, PUT, OPTIONS');
   return resp;
 }
-const json = (obj, status = 200) => cors(new Response(JSON.stringify(obj), {
+// o CORS é aplicado uma vez só, no fim da requisição (assim json() não precisa saber da origem)
+const json = (obj, status = 200) => new Response(JSON.stringify(obj), {
   status, headers: { 'Content-Type': 'application/json' }
-}));
+});
 
 // compara sem vazar tempo (evita adivinhação de senha por cronômetro)
 function igual(a, b) {
@@ -142,7 +154,13 @@ async function limparCartazesOrfaos(env, usados) {
 // ---------- rotas ----------
 export default {
   async fetch(req, env) {
-    if (req.method === 'OPTIONS') return cors(new Response(null, { status: 204 }));
+    // qualquer resposta sai com o CORS do endereço que pediu (se for um dos autorizados)
+    return cors(await tratar(req, env), origemPermitida(req));
+  }
+};
+
+async function tratar(req, env) {
+    if (req.method === 'OPTIONS') return new Response(null, { status: 204 });
     const rota = new URL(req.url).pathname.replace(/\/+$/, '');
 
     try {
@@ -205,5 +223,4 @@ export default {
     } catch (e) {
       return json({ erro: e.message || 'Erro inesperado.' }, 400);
     }
-  }
-};
+}

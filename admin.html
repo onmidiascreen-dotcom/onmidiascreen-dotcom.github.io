@@ -346,7 +346,9 @@
   }
 
   // ---------- prédios e telas ----------
-  const BASE_TELA = 'https://' + OWNER + '.github.io/?tela=';
+  // usa o endereço de onde o painel foi aberto — assim os links já saem certos
+  // no domínio próprio (onscreenmidia.com.br) sem precisar mexer no código.
+  const BASE_TELA = location.origin + '/?tela=';
 
   function renderPredios() {
     const lista = $('listaPredio'); lista.innerHTML = '';
