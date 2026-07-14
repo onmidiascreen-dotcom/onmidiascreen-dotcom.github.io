@@ -49,6 +49,11 @@
   .btn-ghost:hover{border-color:#fff;background:rgba(255,255,255,.08)}
   .btn-out{border-color:var(--line);color:var(--ink)}
   .btn-out:hover{border-color:var(--blue);color:var(--blue)}
+  /* entrada do síndico: discreta, mas sempre visível (inclusive no celular) */
+  .btn-login{border-color:var(--line);background:#fff;color:var(--body);font-weight:700;padding:.7rem 1.1rem}
+  .btn-login svg{width:17px;height:17px;fill:currentColor;flex:none}
+  .btn-login:hover{border-color:var(--blue);color:var(--blue)}
+  @media(max-width:620px){.btn-login .txt{display:none} .btn-login{padding:.7rem .8rem}}
 
   /* ---------- topo ---------- */
   header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.86);
@@ -226,6 +231,10 @@
       <a href="#anuncio">Seu anúncio</a>
       <a href="#planos">Planos</a>
     </nav>
+    <a class="btn btn-login" href="https://onmidiascreen-dotcom.github.io/sindico.html">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17 9V7a5 5 0 0 0-10 0v2H5v12h14V9h-2zm-8 0V7a3 3 0 0 1 6 0v2H9zm3 4a2 2 0 0 1 1 3.7V19h-2v-2.3A2 2 0 0 1 12 13z"/></svg>
+      <span class="txt">Área do Síndico</span>
+    </a>
     <a class="btn btn-blue" href="https://wa.me/5543988741575?text=Ol%C3%A1!%20Quero%20saber%20mais%20sobre%20a%20OnScreen." target="_blank" rel="noopener">Anunciar</a>
   </div>
 </header>
@@ -347,6 +356,9 @@
           <li>Valoriza o condomínio com tecnologia</li>
         </ul>
         <a class="btn btn-out" href="https://wa.me/5543988741575?text=Sou%20s%C3%ADndico%20e%20quero%20a%20OnScreen%20no%20meu%20pr%C3%A9dio." target="_blank" rel="noopener">Quero no meu prédio</a>
+        <p style="margin-top:14px;font-size:.92rem;color:var(--dim)">
+          Já é parceiro? <a href="https://onmidiascreen-dotcom.github.io/sindico.html" style="color:var(--blue);font-weight:700;text-decoration:underline">Entrar na Área do Síndico →</a>
+        </p>
       </div>
     </div>
   </div>
@@ -488,6 +500,7 @@
         <a href="#anunciantes">Para anunciantes</a>
         <a href="#sindicos">Para síndicos</a>
         <a href="#planos">Planos</a>
+        <a href="https://onmidiascreen-dotcom.github.io/sindico.html">🔒 Área do Síndico</a>
       </div>
     </div>
     <div class="bot">© <span id="ano">2026</span> OnScreen · Arapongas-PR e região</div>
