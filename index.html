@@ -492,21 +492,66 @@
   }
   window.addEventListener('resize', ajustarFaixaNoticias);
 
-  // ---------- notícias: faixa fixa com manchete + foto ----------
-  let noticiasLista = [], nIdx = 0, newsTimer = null;
+  // ---------- banco de curiosidades: roda offline pra sempre e nunca envelhece ----------
+  // (vem junto no app, então funciona mesmo sem internet; a etiqueta vira "Você sabia?")
+  const CURIOSIDADES = [
+    'Os polvos têm três corações e sangue azulado.',
+    'O mel praticamente não estraga: potes com milhares de anos já foram achados ainda bons.',
+    'Um relâmpago pode ser cinco vezes mais quente que a superfície do Sol.',
+    'As abelhas conseguem reconhecer rostos humanos.',
+    'A Amazônia é a maior floresta tropical do planeta.',
+    'A Torre Eiffel fica alguns centímetros mais alta no verão, por causa do calor.',
+    'Os golfinhos dão "nomes" uns aos outros usando assobios.',
+    'Os flamingos nascem acinzentados e ficam rosa por causa da alimentação.',
+    'Um único dia em Vênus dura mais que um ano inteiro lá.',
+    'A Grande Muralha da China tem mais de 21 mil quilômetros.',
+    'Os gatos passam cerca de dois terços da vida dormindo.',
+    'Os elefantes são os únicos mamíferos que não conseguem pular.',
+    'Existem mais estrelas no universo do que grãos de areia na Terra.',
+    'As girafas dormem, em média, só cerca de duas horas por dia.',
+    'O som viaja mais rápido na água do que no ar.',
+    'Os pinguins conseguem beber água do mar e eliminar o sal.',
+    'Os tubarões já existiam muito antes das primeiras árvores.',
+    'O coração de um camarão fica dentro da cabeça.',
+    'A banana é levemente radioativa por causa do potássio.',
+    'A Lua se afasta da Terra alguns centímetros a cada ano.',
+    'Vênus é o planeta mais quente, mesmo não sendo o mais perto do Sol.',
+    'O olfato de um cão é milhares de vezes mais apurado que o nosso.',
+    'A baleia-azul é o maior animal que já existiu, maior que qualquer dinossauro.',
+    'Cerca de 70% da superfície da Terra é coberta por água.',
+    'Marte tem cor avermelhada por causa do ferro enferrujado no solo.',
+    'Os polvos mudam de cor em segundos para se camuflar.',
+    'O corpo humano tem cerca de 37 trilhões de células.',
+    'As formigas conseguem carregar muitas vezes o próprio peso.',
+  ].map((t) => ({ titulo: t, rotulo: 'Você sabia?' }));
+
+  // ---------- notícias + curiosidades: faixa fixa com manchete ----------
+  let noticiasLista = [], rotacao = [], nIdx = 0, newsTimer = null;
+  // mistura notícias e curiosidades de forma espalhada (proporcional), pra sempre ter variedade —
+  // e se estiver offline sem notícia guardada, roda só as curiosidades (nunca fica "parado/velho")
+  function montarRotacao() {
+    const news = noticiasLista, cur = CURIOSIDADES;
+    if (!news.length) { rotacao = cur.slice(); return; }
+    if (!cur.length) { rotacao = news.slice(); return; }
+    const out = []; let ni = 0, ci = 0;
+    while (ni < news.length || ci < cur.length) {
+      if (ni < news.length && (ci >= cur.length || ni * cur.length <= ci * news.length)) out.push(news[ni++]);
+      else out.push(cur[ci++]);
+    }
+    rotacao = out;
+  }
   function girarNoticia() {
-    if (!noticiasLista.length) return;
-    const n = noticiasLista[nIdx % noticiasLista.length]; nIdx++;
+    if (!rotacao.length) return;
+    const n = rotacao[nIdx % rotacao.length]; nIdx++;
+    document.getElementById('nbchip').textContent = n.rotulo || 'Notícias';
     document.getElementById('nbTitle').textContent = n.titulo;
+    ajustarFaixaNoticias(); // a etiqueta muda de largura (Notícias/Você sabia?), recalcula o corte diagonal
   }
   async function atualizarNoticias() {
     const v = await buscar('noticias', 'noticias.json?v=' + Date.now(), (j) => j.noticias);
-    // só as principais rodam na tela (os portais já mandam as mais relevantes primeiro)
-    noticiasLista = (v || []).map(n => typeof n === 'string' ? { titulo: n } : n).slice(0, 8);
-    if (!noticiasLista.length) {
-      document.getElementById('nbTitle').textContent = 'Notícias indisponíveis no momento';
-      return;
-    }
+    noticiasLista = (v || []).map((n) => (typeof n === 'string' ? { titulo: n } : n))
+      .map((n) => ({ ...n, rotulo: 'Notícias' })).slice(0, 24);
+    montarRotacao();
     if (!newsTimer) {
       girarNoticia();
       newsTimer = setInterval(girarNoticia, ((cfg && cfg.duracaoNoticiaSegundos) || 8) * 1000);

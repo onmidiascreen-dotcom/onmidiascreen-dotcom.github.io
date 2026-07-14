@@ -32,7 +32,7 @@ async function main() {
       return t ? { titulo: t[1].trim(), imagem: img ? img[1] : null } : null;
     })
     .filter(Boolean)
-    .slice(0, 12);
+    .slice(0, 30); // guarda mais manchetes: mais variedade girando, inclusive offline
 
   if (!noticias.length) throw new Error('nenhuma noticia extraida');
 
