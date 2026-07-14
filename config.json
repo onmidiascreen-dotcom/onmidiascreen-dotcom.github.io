@@ -1,18 +1,48 @@
 {
-  "predio": "EDIFÍCIO INFINITY RESIDENCE",
-  "cidade": {
-    "nome": "Arapongas",
-    "lat": -23.42,
-    "lon": -51.42
-  },
   "contato": "(43) 98874-1575",
-  "slogan": "Sua marca onde seu público está",
   "rotuloComunicados": "Comunicados",
   "corDestaque": "#1f7ae0",
   "fonteNoticias": "uol",
   "duracaoAnuncioSegundos": 12,
   "duracaoNoticiaSegundos": 12,
   "duracaoComunicadoSegundos": 20,
+  "predios": [
+    {
+      "id": "infinity",
+      "nome": "EDIFÍCIO INFINITY RESIDENCE",
+      "cidade": {
+        "nome": "Arapongas",
+        "lat": -23.42,
+        "lon": -51.42
+      },
+      "telas": [
+        { "id": "infinity-1", "nome": "Elevador 1" },
+        { "id": "infinity-2", "nome": "Elevador 2" }
+      ],
+      "comunicados": [
+        {
+          "titulo": "Assembleia geral — 15/07, 19h",
+          "texto": "No salão de festas. Pauta: reajuste do fundo de reserva e pintura da fachada."
+        },
+        {
+          "imagem": "comunicados/1783642936620-Aviso_Controle_Pragas_1080x740.jpg",
+          "segundos": 10
+        },
+        {
+          "imagem": "comunicados/1783644023718-2.png",
+          "segundos": 10
+        },
+        {
+          "imagem": "comunicados/1783644033416-3.png",
+          "segundos": 10
+        },
+        {
+          "imagem": "comunicados/1783644044323-5.png",
+          "segundos": 10
+        }
+      ]
+    }
+  ],
   "anuncios": [
     {
       "tipo": "video",
@@ -21,29 +51,8 @@
       "texto": "",
       "rodape": "",
       "cor": "azul",
-      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1783722078/lcxvrzyordeaxjrjcwet.mp4"
-    }
-  ],
-  "comunicados": [
-    {
-      "titulo": "Assembleia geral — 15/07, 19h",
-      "texto": "No salão de festas. Pauta: reajuste do fundo de reserva e pintura da fachada."
-    },
-    {
-      "imagem": "comunicados/1783642936620-Aviso_Controle_Pragas_1080x740.jpg",
-      "segundos": 10
-    },
-    {
-      "imagem": "comunicados/1783644023718-2.png",
-      "segundos": 10
-    },
-    {
-      "imagem": "comunicados/1783644033416-3.png",
-      "segundos": 10
-    },
-    {
-      "imagem": "comunicados/1783644044323-5.png",
-      "segundos": 10
+      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1783722078/lcxvrzyordeaxjrjcwet.mp4",
+      "predios": []
     }
   ]
 }

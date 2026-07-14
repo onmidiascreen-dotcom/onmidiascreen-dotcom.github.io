@@ -298,16 +298,53 @@
   }
   tick(); setInterval(tick, 1000);
 
-  // ---------- configuração (anúncios + comunicados) ----------
+  // ---------- configuração (prédios + telas + anúncios + comunicados) ----------
   let cfg = null, adTimer = null, noticeTimer = null;
   let ads = [], curAd = 0;
+
+  // Cada aparelho abre com ?tela=<id> (ex.: ?tela=infinity-1). Sem parâmetro, usa o 1º prédio —
+  // é o que mantém as telas já instaladas funcionando sem precisar mexer nelas.
+  const QS = new URLSearchParams(location.search);
+  const TELA_ID = QS.get('tela') || '';
+  const PREDIO_ID = QS.get('predio') || '';
+
+  // formato antigo (prédio único na raiz do config) continua funcionando: converte na hora.
+  // Importante porque uma tela offline pode ter o config velho guardado com o app novo.
+  function normalizarCfg(c) {
+    if (!c || Array.isArray(c.predios)) return c;
+    c.predios = [{
+      id: 'principal',
+      nome: c.predio || 'OnScreen',
+      cidade: c.cidade || null,
+      telas: [],
+      comunicados: c.comunicados || [],
+    }];
+    return c;
+  }
+
+  function predioAtual() {
+    const ps = (cfg && cfg.predios) || [];
+    if (!ps.length) return null;
+    if (PREDIO_ID) { const p = ps.find((x) => x.id === PREDIO_ID); if (p) return p; }
+    if (TELA_ID) { const p = ps.find((x) => (x.telas || []).some((t) => t.id === TELA_ID)); if (p) return p; }
+    return ps[0]; // padrão: primeiro prédio
+  }
+
+  // um anúncio sem lista de prédios (ou com lista vazia) aparece em TODOS os prédios
+  function anuncioNesteP(a, pid) {
+    if (!a.predios || !a.predios.length) return true;
+    return a.predios.includes(pid);
+  }
 
   function renderAnuncios() {
     const media = document.getElementById('media');
     const progress = document.getElementById('progress');
     media.querySelectorAll('.ad').forEach(el => el.remove());
-    // ignora anúncio de vídeo/imagem que ficou sem arquivo (senão a tela trava em branco)
-    ads = (cfg.anuncios || []).filter(a => !((a.tipo === 'video' || a.tipo === 'imagem') && !a.url)).map(a => {
+    // só os anúncios vendidos para ESTE prédio; e ignora vídeo/imagem sem arquivo (senão trava em branco)
+    const pid = (predioAtual() || {}).id;
+    ads = (cfg.anuncios || [])
+      .filter(a => anuncioNesteP(a, pid))
+      .filter(a => !((a.tipo === 'video' || a.tipo === 'imagem') && !a.url)).map(a => {
       const d = document.createElement('div');
       let video = null;
       if (a.tipo === 'video') {
@@ -375,7 +412,8 @@
   }
 
   function renderComunicados() {
-    const ns = cfg.comunicados || [];
+    const p = predioAtual() || {};
+    const ns = p.comunicados || []; // comunicados são do prédio desta tela
     const t = document.getElementById('nTitle'), b = document.getElementById('nBody'), c = document.getElementById('nDots');
     if (!ns.length) { clearTimeout(noticeTimer); t.textContent = 'Sem comunicados no momento'; b.textContent = ''; c.innerHTML = ''; return }
     let ni = 0;
@@ -387,7 +425,7 @@
         box.classList.add('soimagem');
         board.classList.add('imgcheio'); // imagem ocupa o quadro inteiro (grande, sem cortar)
         // se a imagem não estiver na memória (offline) evita tela branca: mostra o nome do prédio
-        img.onerror = () => { box.classList.remove('soimagem'); board.classList.remove('imgcheio'); t.textContent = cfg.predio || 'OnScreen'; b.textContent = ''; };
+        img.onerror = () => { box.classList.remove('soimagem'); board.classList.remove('imgcheio'); t.textContent = p.nome || 'OnScreen'; b.textContent = ''; };
         img.src = n.imagem;
       } else {
         img.onerror = null;
@@ -409,7 +447,7 @@
   }
 
   async function atualizarConfig() {
-    const novo = await buscar('config', 'config.json?v=' + Date.now());
+    const novo = normalizarCfg(await buscar('config', 'config.json?v=' + Date.now()));
     if (!novo) return;
     const mudou = JSON.stringify(novo) !== JSON.stringify(cfg);
     cfg = novo;
@@ -421,7 +459,7 @@
   // textos e cor que o dono edita pelo painel
   function aplicarMarca() {
     if (!cfg) return;
-    document.getElementById('predio').textContent = cfg.predio || '';
+    document.getElementById('predio').textContent = (predioAtual() || {}).nome || '';
     document.getElementById('fone').textContent = cfg.contato || '';
     document.getElementById('rotuloCom').textContent = cfg.rotuloComunicados || 'Comunicados';
     document.documentElement.style.setProperty('--accent', cfg.corDestaque || '#1f7ae0');
@@ -430,9 +468,14 @@
   // baixa e guarda na memória todos os vídeos/imagens do conteúdo, para funcionarem offline
   function precacheMidia() {
     if (!cfg || !('serviceWorker' in navigator) || !navigator.serviceWorker.controller) return;
+    // guarda só a mídia DESTA tela (anúncios vendidos para este prédio + comunicados do prédio).
+    // Assim uma tela não baixa o conteúdo dos outros prédios.
+    const p = predioAtual() || {};
     const urls = [];
-    (cfg.anuncios || []).forEach(a => { if ((a.tipo === 'video' || a.tipo === 'imagem') && a.url) urls.push(a.url); });
-    (cfg.comunicados || []).forEach(n => { if (n.imagem) urls.push(n.imagem); });
+    (cfg.anuncios || []).forEach(a => {
+      if ((a.tipo === 'video' || a.tipo === 'imagem') && a.url && anuncioNesteP(a, p.id)) urls.push(a.url);
+    });
+    (p.comunicados || []).forEach(n => { if (n.imagem) urls.push(n.imagem); });
     // manda sempre (mesmo vazio): o SW aproveita para apagar mídias que saíram do ar
     navigator.serviceWorker.controller.postMessage({ tipo: 'guardar', urls });
   }
@@ -440,8 +483,9 @@
   // ---------- clima (Open-Meteo, gratuito, sem chave) ----------
   const ICONES = { 0:'☀️',1:'🌤️',2:'⛅',3:'☁️',45:'🌫️',48:'🌫️',51:'🌦️',53:'🌦️',55:'🌧️',61:'🌧️',63:'🌧️',65:'🌧️',80:'🌦️',81:'🌧️',82:'⛈️',95:'⛈️',96:'⛈️',99:'⛈️' };
   async function atualizarClima() {
-    if (!cfg || !cfg.cidade) return;
-    const { lat, lon } = cfg.cidade;
+    const cid = (predioAtual() || {}).cidade; // clima da cidade do prédio desta tela
+    if (!cfg || !cid) return;
+    const { lat, lon } = cid;
     const v = await buscar('clima',
       'https://api.open-meteo.com/v1/forecast?latitude=' + lat + '&longitude=' + lon + '&daily=temperature_2m_min,temperature_2m_max,weather_code&timezone=America/Sao_Paulo&forecast_days=1',
       (j) => ({ min: Math.round(j.daily.temperature_2m_min[0]), max: Math.round(j.daily.temperature_2m_max[0]), code: j.daily.weather_code[0] }));
@@ -586,7 +630,7 @@
 
   // ---------- inicialização e ciclos de atualização ----------
   (async () => {
-    cfg = load('config');
+    cfg = normalizarCfg(load('config'));
     if (cfg) { // liga instantâneo com o que tem salvo
       aplicarMarca();
       renderAnuncios(); renderComunicados();

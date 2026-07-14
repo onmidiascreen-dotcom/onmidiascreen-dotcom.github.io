@@ -72,6 +72,41 @@ async function lerConfig(env) {
   return { cfg: JSON.parse(b64ToUtf8(j.content)), sha: j.sha };
 }
 
+// estrutura nova: cada prédio tem suas telas e seus comunicados.
+// Converte o formato antigo (prédio único na raiz), por segurança.
+function normalizarCfg(cfg) {
+  if (!Array.isArray(cfg.predios)) {
+    cfg.predios = [{
+      id: 'principal',
+      nome: cfg.predio || 'OnScreen',
+      cidade: cfg.cidade || null,
+      telas: [],
+      comunicados: cfg.comunicados || []
+    }];
+    delete cfg.predio; delete cfg.cidade; delete cfg.comunicados;
+  }
+  cfg.predios.forEach((p) => { p.comunicados = p.comunicados || []; });
+  return cfg;
+}
+
+// qual prédio este síndico administra: o id no segredo SINDICO_PREDIO, ou o primeiro da lista.
+// (com mais prédios, cada síndico ganha o seu worker/segredo apontando para o prédio dele)
+function indicePredio(cfg, env) {
+  const alvo = (env.SINDICO_PREDIO || '').trim();
+  if (alvo) {
+    const i = cfg.predios.findIndex((p) => p.id === alvo);
+    if (i >= 0) return i;
+  }
+  return 0;
+}
+
+// cartazes em uso em TODOS os prédios — senão o síndico de um prédio apagaria o cartaz de outro
+function cartazesEmUso(cfg) {
+  const usados = new Set();
+  cfg.predios.forEach((p) => (p.comunicados || []).forEach((n) => { if (n.imagem) usados.add(n.imagem); }));
+  return usados;
+}
+
 // só deixa passar o que é comunicado de verdade — nada de campo estranho
 function limparComunicados(lista) {
   if (!Array.isArray(lista)) throw new Error('formato invalido');
@@ -89,8 +124,7 @@ function limparComunicados(lista) {
 }
 
 // apaga cartazes que ninguém usa mais (a memória não cresce à toa)
-async function limparCartazesOrfaos(env, comunicados) {
-  const usados = new Set(comunicados.map((n) => n.imagem).filter(Boolean));
+async function limparCartazesOrfaos(env, usados) {
   const r = await fetch(GH + 'comunicados', { headers: ghHeaders(env) });
   if (!r.ok) return;
   const arquivos = await r.json();
@@ -125,24 +159,30 @@ export default {
 
       if (rota === '/comunicados' && req.method === 'GET') {
         const { cfg } = await lerConfig(env);
-        return json({ predio: cfg.predio || '', comunicados: cfg.comunicados || [] });
+        normalizarCfg(cfg);
+        const p = cfg.predios[indicePredio(cfg, env)] || { nome: '', comunicados: [] };
+        return json({ predio: p.nome || '', comunicados: p.comunicados || [] });
       }
 
       if (rota === '/comunicados' && req.method === 'PUT') {
         const body = await req.json();
         const comunicados = limparComunicados(body.comunicados);
         const { cfg, sha } = await lerConfig(env);
-        cfg.comunicados = comunicados; // só isto muda. Propagandas ficam como estão.
+        normalizarCfg(cfg);
+        const i = indicePredio(cfg, env);
+        if (!cfg.predios[i]) return json({ erro: 'Prédio não encontrado.' }, 400);
+        // só os comunicados DESTE prédio mudam. Propagandas e os outros prédios ficam intactos.
+        cfg.predios[i].comunicados = comunicados;
         const r = await fetch(GH + 'config.json', {
           method: 'PUT', headers: ghHeaders(env),
           body: JSON.stringify({
-            message: 'sindico: atualiza comunicados',
+            message: 'sindico: atualiza comunicados de ' + (cfg.predios[i].nome || cfg.predios[i].id),
             content: utf8ToB64(JSON.stringify(cfg, null, 2)),
             sha
           })
         });
         if (!r.ok) return json({ erro: 'Não consegui publicar (' + r.status + ').' }, 502);
-        await limparCartazesOrfaos(env, comunicados);
+        await limparCartazesOrfaos(env, cartazesEmUso(cfg)); // usa os cartazes de TODOS os prédios
         return json({ ok: true });
       }
 

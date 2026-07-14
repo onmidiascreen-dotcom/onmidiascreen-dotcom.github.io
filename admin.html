@@ -134,6 +134,7 @@
     <div class="tabs">
       <button data-tab="prop" class="on">📺 Propagandas</button>
       <button data-tab="com">📢 Comunicados</button>
+      <button data-tab="pred">🏢 Prédios e Telas</button>
       <button data-tab="cfg">⚙️ Configurações</button>
     </div>
 
@@ -143,16 +144,25 @@
     </section>
 
     <section id="com">
-      <div class="sechead"><h2>Comunicados do prédio</h2><button class="add" id="addCom">+ Novo comunicado</button></div>
+      <div class="sechead"><h2>Comunicados</h2><button class="add" id="addCom">+ Novo comunicado</button></div>
+      <div class="card" style="margin-bottom:14px">
+        <div class="row"><div class="field full">
+          <label>De qual prédio?</label>
+          <select id="comPredio"></select>
+        </div></div>
+      </div>
       <div id="listaCom"></div>
+    </section>
+
+    <section id="pred">
+      <div class="sechead"><h2>Prédios e Telas</h2><button class="add" id="addPredio">+ Novo prédio</button></div>
+      <div id="listaPredio"></div>
     </section>
 
     <section id="cfg">
       <div class="sechead"><h2>Configurações</h2></div>
       <div class="card">
-        <div class="row">
-          <div class="field full"><label>Nome do prédio</label><input id="cfgPredio"></div>
-        </div>
+        <p style="color:var(--ink-dim);font-size:.9rem;margin-bottom:14px">Estas configurações valem para <b>todas as telas</b>. O nome e a cidade de cada prédio ficam na aba <b>Prédios e Telas</b>.</p>
         <div class="row">
           <div class="field"><label>Telefone (rodapé)</label><input id="cfgContato"></div>
           <div class="field"><label>Fonte das notícias</label>
@@ -197,6 +207,7 @@
 
   let token = localStorage.getItem('onscreen_token') || '';
   let cfg = null, sha = null, mudou = false, enviando = 0, paraApagar = [];
+  let predioSel = 0; // qual prédio está selecionado na aba Comunicados
 
   const $ = (id) => document.getElementById(id);
   function toast(msg, erro) {
@@ -264,11 +275,42 @@
   function abrirApp() {
     $('login').classList.add('hide');
     $('app').classList.remove('hide');
-    // garante campos
-    cfg.anuncios = cfg.anuncios || [];
-    cfg.comunicados = cfg.comunicados || [];
+    normalizar();
     render();
     marcarSalvo();
+  }
+
+  // Garante a estrutura de prédios. Converte o formato antigo (um prédio solto na raiz do
+  // config) para a lista de prédios, sem perder nada.
+  function normalizar() {
+    cfg.anuncios = cfg.anuncios || [];
+    if (!Array.isArray(cfg.predios)) {
+      cfg.predios = [{
+        id: 'principal',
+        nome: cfg.predio || 'Meu prédio',
+        cidade: cfg.cidade || { nome: '', lat: 0, lon: 0 },
+        telas: [],
+        comunicados: cfg.comunicados || [],
+      }];
+    }
+    cfg.predios.forEach((p) => {
+      p.telas = p.telas || [];
+      p.comunicados = p.comunicados || [];
+      p.cidade = p.cidade || { nome: '', lat: 0, lon: 0 };
+    });
+    delete cfg.predio; delete cfg.cidade; delete cfg.comunicados; delete cfg.slogan;
+    if (predioSel >= cfg.predios.length) predioSel = 0;
+  }
+
+  // transforma "Edifício Sol Nascente" em "edificio-sol-nascente" (usado como id)
+  function apelido(txt) {
+    return (txt || 'predio').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
+      .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 24) || 'predio';
+  }
+  function idUnico(base, usados) {
+    let id = base, n = 2;
+    while (usados.includes(id)) { id = base + '-' + n; n++; }
+    return id;
   }
 
   $('sair').addEventListener('click', () => {
@@ -290,9 +332,10 @@
 
   // ---------- render ----------
   function render() {
+    renderPredios();
+    renderComSelect();
     renderProp();
     renderCom();
-    $('cfgPredio').value = cfg.predio || '';
     $('cfgContato').value = cfg.contato || '';
     $('cfgRotulo').value = cfg.rotuloComunicados || '';
     renderCores();
@@ -301,6 +344,97 @@
     $('cfgDurCom').value = cfg.duracaoComunicadoSegundos || 10;
     $('cfgDurNot').value = cfg.duracaoNoticiaSegundos || 8;
   }
+
+  // ---------- prédios e telas ----------
+  const BASE_TELA = 'https://' + OWNER + '.github.io/?tela=';
+
+  function renderPredios() {
+    const lista = $('listaPredio'); lista.innerHTML = '';
+    cfg.predios.forEach((p, i) => lista.appendChild(cardPredio(p, i)));
+    if (!cfg.predios.length) lista.innerHTML = '<p style="color:var(--ink-dim)">Nenhum prédio ainda. Clique em “Novo prédio”.</p>';
+  }
+
+  function cardPredio(p, i) {
+    const c = document.createElement('div'); c.className = 'card';
+    c.innerHTML =
+      '<div class="foot" style="margin-top:0;margin-bottom:12px">' +
+        '<b style="font-size:1.05rem">🏢 ' + (p.nome || 'Prédio') + '</b>' +
+        '<button class="remove">Remover prédio</button>' +
+      '</div>' +
+      '<div class="row"><div class="field full"><label>Nome do prédio (aparece na tela)</label><input class="f-nome"></div></div>' +
+      '<div class="row">' +
+        '<div class="field"><label>Cidade (para o clima)</label><input class="f-cid" placeholder="Arapongas"></div>' +
+        '<div class="field"><label>Latitude</label><input class="f-lat" type="number" step="0.01" placeholder="-23.42"></div>' +
+        '<div class="field"><label>Longitude</label><input class="f-lon" type="number" step="0.01" placeholder="-51.42"></div>' +
+      '</div>' +
+      '<div style="margin-top:16px;padding-top:14px;border-top:1px solid var(--line)">' +
+        '<div class="foot" style="margin:0 0 10px"><b>📺 Telas deste prédio</b><button class="addtela">+ Nova tela</button></div>' +
+        '<div class="telas"></div>' +
+      '</div>';
+
+    c.querySelector('.f-nome').value = p.nome || '';
+    c.querySelector('.f-cid').value = (p.cidade && p.cidade.nome) || '';
+    c.querySelector('.f-lat').value = (p.cidade && p.cidade.lat) || '';
+    c.querySelector('.f-lon').value = (p.cidade && p.cidade.lon) || '';
+    c.querySelector('.f-nome').addEventListener('input', (e) => { p.nome = e.target.value; marcarMudou(); renderComSelect(); renderProp(); });
+    c.querySelector('.f-cid').addEventListener('input', (e) => { p.cidade.nome = e.target.value; marcarMudou(); });
+    c.querySelector('.f-lat').addEventListener('input', (e) => { p.cidade.lat = +e.target.value; marcarMudou(); });
+    c.querySelector('.f-lon').addEventListener('input', (e) => { p.cidade.lon = +e.target.value; marcarMudou(); });
+
+    const box = c.querySelector('.telas');
+    function desenharTelas() {
+      box.innerHTML = '';
+      if (!p.telas.length) box.innerHTML = '<p style="color:var(--ink-dim);font-size:.9rem">Nenhuma tela. Clique em “Nova tela” para gerar o link que você vai colar no Fully Kiosk.</p>';
+      p.telas.forEach((t, k) => {
+        const link = BASE_TELA + t.id;
+        const el = document.createElement('div');
+        el.style.cssText = 'display:flex;gap:10px;align-items:flex-end;margin-bottom:10px;flex-wrap:wrap';
+        el.innerHTML =
+          '<div class="field" style="max-width:200px;margin:0"><label>Nome da tela</label><input class="t-nome"></div>' +
+          '<div class="field" style="flex:1;min-width:260px;margin:0"><label>Link para colar no Fully</label><input class="t-link" readonly></div>' +
+          '<button class="copiar">Copiar link</button>' +
+          '<button class="remove tremove">Remover</button>';
+        el.querySelector('.t-nome').value = t.nome || '';
+        el.querySelector('.t-link').value = link;
+        el.querySelector('.t-nome').addEventListener('input', (e) => { t.nome = e.target.value; marcarMudou(); });
+        el.querySelector('.copiar').addEventListener('click', () => {
+          navigator.clipboard.writeText(link).then(() => toast('Link copiado! Cole no Start URL do Fully.'))
+            .catch(() => toast('Copie na mão: ' + link, true));
+        });
+        el.querySelector('.tremove').addEventListener('click', () => {
+          if (!confirm('Remover esta tela?')) return;
+          p.telas.splice(k, 1); desenharTelas(); marcarMudou();
+        });
+        box.appendChild(el);
+      });
+    }
+    desenharTelas();
+
+    c.querySelector('.addtela').addEventListener('click', () => {
+      const usados = cfg.predios.flatMap((x) => x.telas.map((t) => t.id));
+      const id = idUnico(apelido(p.nome) + '-' + (p.telas.length + 1), usados);
+      p.telas.push({ id, nome: 'Elevador ' + (p.telas.length + 1) });
+      desenharTelas(); marcarMudou();
+    });
+
+    c.querySelector('.remove').addEventListener('click', () => {
+      if (cfg.predios.length === 1) { toast('Você precisa ter pelo menos um prédio.', true); return; }
+      if (!confirm('Remover o prédio “' + (p.nome || '') + '” e todos os comunicados dele?')) return;
+      (p.comunicados || []).forEach((n) => { if (n.imagem) agendarApagar(n.imagem); });
+      cfg.predios.splice(i, 1);
+      if (predioSel >= cfg.predios.length) predioSel = 0;
+      render(); marcarMudou();
+    });
+    return c;
+  }
+
+  // seletor de prédio na aba Comunicados
+  function renderComSelect() {
+    const s = $('comPredio');
+    s.innerHTML = cfg.predios.map((p, i) => '<option value="' + i + '">' + (p.nome || 'Prédio ' + (i + 1)) + '</option>').join('');
+    s.value = String(predioSel);
+  }
+  $('comPredio').addEventListener('change', (e) => { predioSel = +e.target.value; renderCom(); });
 
   function renderProp() {
     const lista = $('listaProp'); lista.innerHTML = '';
@@ -320,8 +454,37 @@
         '</div>' +
         '<button class="remove">Remover</button>' +
       '</div>' +
-      '<div class="corpo"></div>';
+      '<div class="corpo"></div>' +
+      '<div class="alvos" style="margin-top:16px;padding-top:14px;border-top:1px solid var(--line)"></div>';
     const corpo = c.querySelector('.corpo');
+
+    // em quais prédios este anúncio aparece (é assim que você vende pacote parcial).
+    // lista vazia = aparece em TODOS os prédios.
+    const alvos = c.querySelector('.alvos');
+    function desenharAlvos() {
+      const todos = !a.predios || !a.predios.length;
+      alvos.innerHTML =
+        '<label style="display:block;margin-bottom:10px;font-size:.78rem;color:var(--ink-dim);text-transform:uppercase;letter-spacing:.06em;font-weight:700">Aparece em quais prédios?</label>' +
+        '<label style="display:inline-flex;gap:6px;align-items:center;margin:0 18px 8px 0;font-weight:700">' +
+          '<input type="checkbox" class="todos"' + (todos ? ' checked' : '') + '> Todos os prédios</label>' +
+        cfg.predios.map((p) =>
+          '<label style="display:inline-flex;gap:6px;align-items:center;margin:0 18px 8px 0">' +
+            '<input type="checkbox" class="pv" data-id="' + p.id + '"' +
+            ((!todos && a.predios.includes(p.id)) ? ' checked' : '') + (todos ? ' disabled' : '') + '> ' +
+            (p.nome || p.id) +
+          '</label>').join('');
+
+      alvos.querySelector('.todos').addEventListener('change', (e) => {
+        a.predios = e.target.checked ? [] : cfg.predios.map((p) => p.id);
+        desenharAlvos(); marcarMudou();
+      });
+      alvos.querySelectorAll('.pv').forEach((chk) => chk.addEventListener('change', () => {
+        a.predios = Array.from(alvos.querySelectorAll('.pv')).filter((x) => x.checked).map((x) => x.dataset.id);
+        if (!a.predios.length) desenharAlvos(); // nenhum marcado = todos (reflete na tela)
+        marcarMudou();
+      }));
+    }
+    desenharAlvos();
 
     function desenhar() {
       if (a.tipo === 'video') {
@@ -387,10 +550,16 @@
     return c;
   }
 
+  // comunicados são do prédio selecionado no seletor
+  function comsDoPredio() {
+    const p = cfg.predios[predioSel];
+    return (p && p.comunicados) || [];
+  }
   function renderCom() {
     const lista = $('listaCom'); lista.innerHTML = '';
-    cfg.comunicados.forEach((n, i) => lista.appendChild(cardCom(n, i)));
-    if (!cfg.comunicados.length) lista.innerHTML = '<p style="color:var(--ink-dim)">Nenhum comunicado ativo.</p>';
+    const ns = comsDoPredio();
+    ns.forEach((n, i) => lista.appendChild(cardCom(n, i)));
+    if (!ns.length) lista.innerHTML = '<p style="color:var(--ink-dim)">Nenhum comunicado neste prédio.</p>';
   }
 
   function cardCom(n, i) {
@@ -446,20 +615,33 @@
     c.querySelector('.remove').addEventListener('click', () => {
       if (!confirm('Remover este comunicado?')) return;
       if (n.imagem) agendarApagar(n.imagem);
-      cfg.comunicados.splice(i, 1); renderCom(); marcarMudou();
+      comsDoPredio().splice(i, 1); renderCom(); marcarMudou();
     });
     return c;
   }
 
   // ---------- adicionar ----------
   $('addProp').addEventListener('click', () => {
-    cfg.anuncios.push({ tipo: 'texto', tag: '', titulo: 'Novo anúncio', texto: '', rodape: '', cor: 'azul' });
+    cfg.anuncios.push({ tipo: 'texto', tag: '', titulo: 'Novo anúncio', texto: '', rodape: '', cor: 'azul', predios: [] });
     renderProp(); marcarMudou();
     window.scrollTo(0, document.body.scrollHeight);
   });
   $('addCom').addEventListener('click', () => {
-    cfg.comunicados.push({ titulo: 'Novo comunicado', texto: '' });
+    comsDoPredio().push({ titulo: 'Novo comunicado', texto: '' });
     renderCom(); marcarMudou();
+    window.scrollTo(0, document.body.scrollHeight);
+  });
+  $('addPredio').addEventListener('click', () => {
+    const usados = cfg.predios.map((p) => p.id);
+    const id = idUnico(apelido('predio-' + (cfg.predios.length + 1)), usados);
+    cfg.predios.push({
+      id,
+      nome: 'Novo prédio',
+      cidade: { nome: 'Arapongas', lat: -23.42, lon: -51.42 },
+      telas: [{ id: id + '-1', nome: 'Elevador 1' }],
+      comunicados: [],
+    });
+    render(); marcarMudou();
     window.scrollTo(0, document.body.scrollHeight);
   });
 
