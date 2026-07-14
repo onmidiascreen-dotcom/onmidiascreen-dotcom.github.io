@@ -1,7 +1,8 @@
 // Service Worker: grava o player na memória da tela.
 // A tela liga e abre o player mesmo sem internet; a rede só serve para atualizar.
-const CACHE = 'onscreen-v7';
-const SHELL = ['./', 'index.html', 'manifest.json'];
+// O player mora em /tela/. A landing (raiz), o painel e o síndico NÃO passam por aqui.
+const CACHE = 'onscreen-v8';
+const SHELL = ['/tela/', '/tela/index.html', '/manifest.json'];
 
 // o player pede para guardar vídeos/imagens na memória enquanto tem internet,
 // para que rodem mesmo depois que a internet cair
@@ -52,6 +53,16 @@ self.addEventListener('fetch', (e) => {
   const ehMidia = e.request.destination === 'video' || e.request.destination === 'image';
   if (url.origin !== location.origin && !ehMidia) return;
 
+  // só o que é do player passa por aqui. A landing (raiz), o admin e o síndico
+  // vão direto pra rede — não podem ser servidos do cache do player.
+  const doPlayer = ehMidia
+    || url.pathname.startsWith('/tela/')
+    || url.pathname === '/config.json'
+    || url.pathname === '/noticias.json'
+    || url.pathname === '/manifest.json'
+    || /^\/(anuncios|comunicados)\//.test(url.pathname);
+  if (!doPlayer) return;
+
   // a checagem de versão do player precisa ver a rede, nunca a cópia guardada
   if (url.searchParams.has('versao')) { e.respondWith(fetch(e.request)); return; }
 
@@ -59,7 +70,7 @@ self.addEventListener('fetch', (e) => {
   // e se estiver offline usa a cópia salva. Assim as atualizações aparecem na hora.
   if (e.request.mode === 'navigate') {
     e.respondWith((async () => {
-      const salvo = () => caches.match('index.html').then((c) => c || caches.match('./'));
+      const salvo = () => caches.match('/tela/index.html').then((c) => c || caches.match('/tela/'));
 
       // uma única busca, sem passar pelo cache do navegador. Ela SEMPRE grava o
       // resultado — mesmo que o timeout já tenha servido a cópia salva. Assim,
@@ -67,7 +78,7 @@ self.addEventListener('fetch', (e) => {
       const rede = fetch(e.request.url, { cache: 'no-store' }).then((r) => {
         if (r && r.ok) {
           const cp = r.clone();
-          caches.open(CACHE).then((c) => c.put('index.html', cp));
+          caches.open(CACHE).then((c) => c.put('/tela/index.html', cp));
         }
         return r;
       });

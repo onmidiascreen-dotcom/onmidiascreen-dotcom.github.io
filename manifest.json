@@ -1,7 +1,7 @@
 {
   "name": "OnScreen Player",
   "short_name": "OnScreen",
-  "start_url": ".",
+  "start_url": "/tela/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#111b2b",

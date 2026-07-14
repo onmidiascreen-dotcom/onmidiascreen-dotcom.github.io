@@ -1,0 +1,655 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<!-- o player mora em /tela/, mas o conteúdo (config, notícias, vídeos, cartazes) e o
+     service worker ficam na raiz. Este <base> faz todos os caminhos relativos apontarem pra lá. -->
+<base href="/">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OnScreen Player</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icone.svg" type="image/svg+xml">
+<meta name="theme-color" content="#111b2b">
+<style>
+  :root{
+    --bar:#111b2b; --bar-text:#f2f5fa;
+    --blue:#1f7ae0; --blue-deep:#0d3f80;
+    --ink:#182635; --ink-dim:#5b6b7c; --line:#dde3ea;
+    --gold:#e0a63c; --ok:#2e9e6b; --warn:#c98a1f;
+    --accent:#1f7ae0; /* cor de destaque, editável pelo painel */
+    --neon:#1f7ae0;   /* azul da marca na barra da base (mesma da landing) */
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{font-size:1vh} /* o JS recalcula; 1rem = 1% da altura útil da tela */
+  html,body{height:100%;overflow:hidden}
+  body{font-family:"Segoe UI",system-ui,-apple-system,sans-serif;background:#000;color:var(--ink)}
+  /* tela deitada (TV horizontal com monitor montado em pé): gira o conteúdo 90° */
+  body.girar .tv{
+    width:100vh;height:100vw;
+    transform:rotate(90deg) translateY(-100%);
+    transform-origin:top left;
+  }
+  .tv{
+    width:100vw;height:100vh;background:#f7f8fa;
+    display:grid;
+    grid-template-rows:60fr 40fr 6.5rem;
+    grid-template-areas:"media" "board" "foot";
+    cursor:none;
+  }
+
+  /* propaganda (55%) */
+  .media{grid-area:media;position:relative;overflow:hidden;background:#eceff3}
+  .ad{
+    position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;
+    text-align:center;padding:8% 9%;opacity:0;transition:opacity .8s ease;
+  }
+  .ad.on{opacity:1}
+  .ad .tag{font-size:1.7rem;letter-spacing:.2em;text-transform:uppercase;margin-bottom:1.6rem;opacity:.85}
+  .ad h2{font-size:4.6rem;line-height:1.12;font-weight:800;text-wrap:balance;margin-bottom:1.4rem}
+  .ad p{font-size:2.3rem;line-height:1.5;max-width:24em;opacity:.92}
+  .ad .cta{margin-top:2.2rem;font-size:2.1rem;font-weight:700}
+  .ad.img{padding:0}
+  .ad.img img{width:100%;height:100%;object-fit:cover}
+  .ad.video{padding:0;background:#000}
+  .ad.video video{width:100%;height:100%;object-fit:cover}
+  /* o Chrome desenha um botão de transmitir (Chromecast) sobre o vídeo. Fora com ele. */
+  .ad.video video::-webkit-media-controls{display:none!important}
+  .ad.video video::-webkit-media-controls-overlay-play-button{display:none!important}
+  .ad.video video::-internal-media-controls-overlay-cast-button{display:none!important}
+  .ad.verde{background:linear-gradient(160deg,#123d23,#1f7a45 60%,#2fa35d);color:#f0fff5}
+  .ad.dourado{background:linear-gradient(160deg,#28180a,#7a4a12 60%,#b06f1c);color:#fdf4e2}
+  .ad.azul{background:linear-gradient(160deg,#101c36,#1d3e7e 60%,#2f5cb4);color:#eef3ff}
+  .ad.claro{background:#f4f5f6;color:#1c2530}
+  .ad.claro .tag{color:var(--ink-dim)}
+  .ad.claro h2{letter-spacing:.04em;text-transform:uppercase}
+  .ad.claro p{color:var(--ink-dim);text-transform:uppercase;letter-spacing:.12em;font-size:1.8rem}
+  .ad.claro .cta{color:var(--blue)}
+  .progress{position:absolute;left:0;bottom:0;height:.5rem;background:var(--gold);width:0%;z-index:3}
+  .progress.run{animation:fill var(--dur,8s) linear forwards}
+  @keyframes fill{from{width:0}to{width:100%}}
+
+  /* faixa de notícia translúcida sobre a parte de baixo da propaganda.
+     O recorte diagonal sobe só onde está a palavra "Notícias" (--cx/--cy vêm do JS),
+     deixando o resto da faixa baixinho para não cobrir a propaganda. */
+  .newsband{
+    position:absolute;left:0;right:0;bottom:0;z-index:1;
+    background:rgba(14,20,28,.52);
+    -webkit-backdrop-filter:blur(4px);backdrop-filter:blur(4px);
+    color:#fff;display:flex;flex-direction:column;align-items:flex-start;gap:.9rem;
+    padding:.8rem 1.8rem 1.4rem;
+    clip-path:polygon(
+      0 0,
+      var(--cx,24%) 0,
+      calc(var(--cx,24%) + 2.4rem) var(--cy,4rem),
+      100% var(--cy,4rem),
+      100% 100%,
+      0 100%
+    );
+  }
+  .newsband .nbchip{align-self:flex-start;background:#e0632c;color:#fff;font-size:1.4rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;padding:.3rem 1rem;border-radius:.4rem}
+  .newsband p{
+    width:100%;
+    font-size:2.2rem;line-height:1.25;font-weight:600;text-shadow:0 1px 4px rgba(0,0,0,.45);
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+  }
+
+  /* comunicado (45%) */
+  .board{grid-area:board;background:#fff;padding:1.6rem 1.8rem 1.2rem;display:flex;flex-direction:column;gap:1.1rem;min-height:0}
+  .board .head{
+    background:var(--bar);color:#fff;border-radius:1rem;padding:1rem 1.4rem;
+    display:flex;align-items:center;gap:1.2rem;overflow:hidden;
+  }
+  .board .head .chip{
+    flex:none;background:var(--accent);color:#fff;
+    font-size:1.5rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;
+    padding:.45rem 1.1rem;border-radius:.5rem;
+  }
+  /* nome do prédio: encolhe com reticências em vez de vazar da barra */
+  .board .head .predio{
+    margin-left:auto;min-width:0;
+    font-size:2rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:#cfdcec;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+  }
+  .notice{flex:1;min-height:0;overflow:hidden;border:1px solid var(--line);border-radius:1rem;padding:1.6rem 1.8rem;background:#fbfcfd;position:relative}
+  .notice h3{font-size:3rem;font-weight:700;margin-bottom:.8rem}
+  .notice p{font-size:2.4rem;color:var(--ink-dim);line-height:1.45}
+  .notice img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#fff;display:none}
+  .notice.soimagem{padding:0}
+  .notice.soimagem img{display:block}
+  .notice.soimagem h3,.notice.soimagem p{display:none}
+  /* comunicado em imagem: ocupa o quadro inteiro (esconde cabeçalho e contador) para a imagem ficar grande e sem cortar */
+  .board.imgcheio{padding:0;gap:0}
+  .board.imgcheio .head,.board.imgcheio .meta{display:none}
+  .board.imgcheio .notice{border:none;border-radius:0}
+  .board .meta{display:flex;justify-content:space-between;align-items:center;gap:1rem}
+  /* pontinhos indicando qual comunicado está na vez (no lugar de "Aviso 1 de 2") */
+  .board .dots{display:flex;align-items:center;gap:.6rem}
+  .board .dots i{width:1rem;height:1rem;border-radius:50%;background:#cfd8e3;flex:none;transition:width .35s ease,background .35s ease}
+  .board .dots i.on{width:2.8rem;border-radius:.5rem;background:var(--accent)}
+  .status{display:flex;align-items:center;gap:.7rem;font-size:1.5rem;color:var(--ink-dim);font-weight:600}
+  .dot{width:.9rem;height:.9rem;border-radius:50%;background:var(--ok);flex:none}
+  .status.off .dot{background:var(--warn)}
+  .status.off{color:var(--warn)}
+
+  /* barra futurista da base: marca, contato e um painel que alterna hora/tempo/câmbio */
+  .foot{
+    grid-area:foot;position:relative;overflow:hidden;
+    background:linear-gradient(180deg,#0b1420 0%,#05080e 100%);
+    color:#dbe7f2;display:flex;align-items:center;gap:1.6rem;padding:0 1.8rem;
+  }
+  /* fio de luz no topo da barra */
+  .foot::before{
+    content:"";position:absolute;left:0;right:0;top:0;height:.2rem;
+    background:linear-gradient(90deg,transparent 2%,var(--neon) 30%,var(--neon) 70%,transparent 98%);
+    box-shadow:0 0 1.4rem var(--neon);
+  }
+  .foot .logo{flex:none;display:flex;align-items:center;gap:.75rem;font-size:2.2rem;font-weight:800;color:#fff}
+  .foot .logo .mark{width:1.5rem;height:1.5rem;border-radius:.3rem;background:var(--neon);box-shadow:0 0 1.1rem var(--neon);flex:none}
+  .foot .logo b{color:var(--neon);font-weight:800}
+  .foot .fone{
+    position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);
+    font-size:1.65rem;font-weight:700;color:#93a9c0;font-variant-numeric:tabular-nums;
+  }
+  /* painel rotativo: hora -> tempo -> dólar -> euro */
+  .info{margin-left:auto;position:relative;flex:none;width:21rem;height:100%}
+  .slot{
+    position:absolute;inset:0;display:flex;flex-direction:column;align-items:flex-end;justify-content:center;gap:.25rem;
+    opacity:0;transform:translateY(1.1rem);transition:opacity .55s ease,transform .55s ease;
+  }
+  .slot.on{opacity:1;transform:none}
+  .slot .lbl{font-size:1.15rem;letter-spacing:.22em;text-transform:uppercase;color:var(--neon);font-weight:700;white-space:nowrap}
+  .slot .val{
+    font-size:2.9rem;font-weight:800;color:#fff;line-height:1;
+    font-variant-numeric:tabular-nums;display:flex;align-items:center;gap:.6rem;
+    text-shadow:0 0 1.6rem rgba(31,122,224,.28);
+  }
+  .slot .val .up{color:#3ddc97;font-size:1.9rem}
+  .slot .val .dn{color:#ff6b6b;font-size:1.9rem}
+
+  @media (prefers-reduced-motion:reduce){
+    .progress.run{animation:none;width:100%}
+    .ad{transition:none}
+  }
+</style>
+</head>
+<body>
+<div class="tv">
+  <div class="media" id="media">
+    <div class="newsband" id="newsband">
+      <span class="nbchip" id="nbchip">Notícias</span>
+      <p id="nbTitle">Carregando notícias…</p>
+    </div>
+    <div class="progress" id="progress"></div>
+  </div>
+
+  <div class="board">
+    <div class="head">
+      <span class="chip" id="rotuloCom">Comunicados</span>
+      <span class="predio" id="predio"></span>
+    </div>
+    <div class="notice" id="notice">
+      <h3 id="nTitle"></h3>
+      <p id="nBody"></p>
+      <img id="nImg" alt="">
+    </div>
+    <div class="meta">
+      <span class="dots" id="nDots"></span>
+      <span class="status" id="status"><span class="dot"></span><span id="statusTxt">Iniciando…</span></span>
+    </div>
+  </div>
+
+  <div class="foot">
+    <span class="logo"><i class="mark"></i><span class="nome">On<b>Screen</b></span></span>
+    <span class="fone" id="fone"></span>
+    <div class="info">
+      <div class="slot on"><span class="lbl" id="wd">hoje</span><span class="val" id="time">--:--</span></div>
+      <div class="slot vazio"><span class="lbl">Tempo</span><span class="val"><span id="wxIcon">☁️</span> <span id="wx">--°/--°</span></span></div>
+      <div class="slot vazio"><span class="lbl">Dólar</span><span class="val" id="usd">--</span></div>
+      <div class="slot vazio"><span class="lbl">Euro</span><span class="val" id="eur">--</span></div>
+    </div>
+  </div>
+</div>
+
+<script>
+(() => {
+  // grava o player na memória da tela (funciona mesmo ligando sem internet)
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js')
+      .then((reg) => { setInterval(() => reg.update(), 30 * 60 * 1000); })
+      .catch(() => {});
+    // quando uma versão nova do player assume, recarrega uma vez para aplicá-la
+    let recarregou = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (recarregou) return; recarregou = true;
+      location.reload();
+    });
+  }
+
+  // ---------- auto-atualização: a tela pega melhorias sozinha ----------
+  // Compara a "impressão digital" do app no servidor com a que está rodando.
+  // O ?versao= faz o service worker deixar passar direto pra rede; sem isso ele
+  // devolveria a cópia guardada e nada seria detectado.
+  let assinaturaApp = null;
+  async function conferirVersaoApp() {
+    try {
+      const r = await fetch('tela/index.html?versao=' + Date.now(), { cache: 'no-store' });
+      if (!r.ok) return;
+      const txt = await r.text();
+      let h = 0;
+      for (let i = 0; i < txt.length; i++) h = (h * 31 + txt.charCodeAt(i)) | 0;
+      if (assinaturaApp === null) { assinaturaApp = h; return; }
+      if (h === assinaturaApp) return;
+      const ultima = Number(sessionStorage.getItem('os_recarga')) || 0;
+      if (Date.now() - ultima < 10 * 60 * 1000) return; // trava contra laço de recarga
+      sessionStorage.setItem('os_recarga', String(Date.now()));
+      location.reload();
+    } catch (e) { /* offline: segue rodando da memória */ }
+  }
+  conferirVersaoApp();
+  setInterval(conferirVersaoApp, 20 * 60 * 1000);
+
+  // ---------- orientação: gira 90° quando a tela está "deitada" ----------
+  // padrão automático; força com ?girar=1 ou desliga com ?girar=0 no endereço
+  function ajustarTela() {
+    const param = new URLSearchParams(location.search).get('girar');
+    const deitada = window.innerWidth > window.innerHeight;
+    const girar = param === '1' ? true : param === '0' ? false : deitada;
+    document.body.classList.toggle('girar', girar);
+    const alturaUtil = girar ? window.innerWidth : window.innerHeight;
+    document.documentElement.style.fontSize = (alturaUtil / 100) + 'px';
+  }
+  ajustarTela();
+  window.addEventListener('resize', ajustarTela);
+  // ---------- cache local: guarda o último dado bom de cada fonte ----------
+  const save = (k, v) => { try { localStorage.setItem('os_' + k, JSON.stringify({ v, t: Date.now() })) } catch (e) {} };
+  const load = (k) => { try { const d = JSON.parse(localStorage.getItem('os_' + k)); return d ? d.v : null } catch (e) { return null } };
+  const loadTime = (k) => { try { const d = JSON.parse(localStorage.getItem('os_' + k)); return d ? d.t : 0 } catch (e) { return 0 } };
+
+  let ultimaSincronizacao = Math.max(loadTime('config'), loadTime('noticias')) || null;
+  let onlineOk = true;
+
+  const status = document.getElementById('status'), statusTxt = document.getElementById('statusTxt');
+  function pintarStatus() {
+    status.classList.toggle('off', !onlineOk);
+    if (onlineOk) { statusTxt.textContent = 'Conectado'; return }
+    if (!ultimaSincronizacao) { statusTxt.textContent = 'Sem internet'; return }
+    const min = Math.round((Date.now() - ultimaSincronizacao) / 60000);
+    statusTxt.textContent = 'Offline · conteúdo salvo (' + (min < 60 ? min + ' min' : Math.round(min / 60) + ' h') + ')';
+  }
+  setInterval(pintarStatus, 30000);
+
+  async function buscar(k, url, parse) {
+    try {
+      const r = await fetch(url, { cache: 'no-store' });
+      if (!r.ok) throw new Error(r.status);
+      const v = parse ? parse(await r.json()) : await r.json();
+      save(k, v); onlineOk = true; ultimaSincronizacao = Date.now(); pintarStatus();
+      return v;
+    } catch (e) {
+      onlineOk = false; pintarStatus();
+      return load(k);
+    }
+  }
+
+  // ---------- relógio ----------
+  const timeEl = document.getElementById('time');
+  function tick() {
+    const n = new Date();
+    timeEl.textContent = n.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+    // dia por extenso: "sexta-feira". O relógio vem do aparelho, não da internet.
+    document.getElementById('wd').textContent = n.toLocaleDateString('pt-BR', { weekday: 'long' });
+  }
+  tick(); setInterval(tick, 1000);
+
+  // ---------- configuração (prédios + telas + anúncios + comunicados) ----------
+  let cfg = null, adTimer = null, noticeTimer = null;
+  let ads = [], curAd = 0;
+
+  // Cada aparelho abre com ?tela=<id> (ex.: ?tela=infinity-1). Sem parâmetro, usa o 1º prédio —
+  // é o que mantém as telas já instaladas funcionando sem precisar mexer nelas.
+  const QS = new URLSearchParams(location.search);
+  const TELA_ID = QS.get('tela') || '';
+  const PREDIO_ID = QS.get('predio') || '';
+
+  // formato antigo (prédio único na raiz do config) continua funcionando: converte na hora.
+  // Importante porque uma tela offline pode ter o config velho guardado com o app novo.
+  function normalizarCfg(c) {
+    if (!c || Array.isArray(c.predios)) return c;
+    c.predios = [{
+      id: 'principal',
+      nome: c.predio || 'OnScreen',
+      cidade: c.cidade || null,
+      telas: [],
+      comunicados: c.comunicados || [],
+    }];
+    return c;
+  }
+
+  function predioAtual() {
+    const ps = (cfg && cfg.predios) || [];
+    if (!ps.length) return null;
+    if (PREDIO_ID) { const p = ps.find((x) => x.id === PREDIO_ID); if (p) return p; }
+    if (TELA_ID) { const p = ps.find((x) => (x.telas || []).some((t) => t.id === TELA_ID)); if (p) return p; }
+    return ps[0]; // padrão: primeiro prédio
+  }
+
+  // um anúncio sem lista de prédios (ou com lista vazia) aparece em TODOS os prédios
+  function anuncioNesteP(a, pid) {
+    if (!a.predios || !a.predios.length) return true;
+    return a.predios.includes(pid);
+  }
+
+  function renderAnuncios() {
+    const media = document.getElementById('media');
+    const progress = document.getElementById('progress');
+    media.querySelectorAll('.ad').forEach(el => el.remove());
+    // só os anúncios vendidos para ESTE prédio; e ignora vídeo/imagem sem arquivo (senão trava em branco)
+    const pid = (predioAtual() || {}).id;
+    ads = (cfg.anuncios || [])
+      .filter(a => anuncioNesteP(a, pid))
+      .filter(a => !((a.tipo === 'video' || a.tipo === 'imagem') && !a.url)).map(a => {
+      const d = document.createElement('div');
+      let video = null;
+      if (a.tipo === 'video') {
+        d.className = 'ad video';
+        // disableremoteplayback tira o botão de transmitir (Chromecast) que o Chrome
+        // desenha sozinho sobre o vídeo quando enxerga um dispositivo na rede
+        d.innerHTML = '<video muted playsinline preload="auto" disableremoteplayback x-webkit-airplay="deny"></video>';
+        video = d.querySelector('video');
+        video.muted = true;
+        video.disableRemotePlayback = true;
+        if (a.url) video.src = a.url;
+      } else if (a.tipo === 'imagem') {
+        d.className = 'ad img';
+        d.innerHTML = '<img alt="">';
+        const im = d.querySelector('img');
+        // se a imagem falhar (ex.: offline e não guardada), pula esse anúncio em vez de ficar branco
+        im.onerror = () => { if (d.classList.contains('on')) proximoAnuncio(); };
+        if (a.url) im.src = a.url;
+      } else {
+        d.className = 'ad ' + (a.cor || 'azul');
+        d.innerHTML = '<div class="tag"></div><h2></h2><p></p><span class="cta"></span>';
+        d.querySelector('.tag').textContent = a.tag || '';
+        d.querySelector('h2').textContent = a.titulo || '';
+        d.querySelector('p').textContent = a.texto || '';
+        d.querySelector('.cta').textContent = a.rodape || '';
+      }
+      media.insertBefore(d, progress);
+      return { el: d, ad: a, video };
+    });
+    clearTimeout(adTimer);
+    if (!ads.length) return;
+    curAd = 0;
+    mostrarAnuncio();
+  }
+
+  function mostrarAnuncio() {
+    clearTimeout(adTimer);
+    const progress = document.getElementById('progress');
+    ads.forEach(x => { x.el.classList.remove('on'); if (x.video) { x.video.onended = null; x.video.ontimeupdate = null; try { x.video.pause(); } catch (e) {} } });
+    const item = ads[curAd];
+    item.el.classList.add('on');
+
+    if (item.video && item.ad.url) {
+      // vídeo: toca do começo, a barra segue o tempo, e passa quando termina
+      progress.classList.remove('run'); progress.style.width = '0%';
+      try { item.video.currentTime = 0; } catch (e) {}
+      const p = item.video.play(); if (p && p.catch) p.catch(() => { adTimer = setTimeout(proximoAnuncio, 4000); });
+      item.video.ontimeupdate = () => { if (item.video.duration) progress.style.width = (item.video.currentTime / item.video.duration * 100) + '%'; };
+      item.video.onended = () => proximoAnuncio();
+      item.video.onerror = () => proximoAnuncio(); // ex.: sem internet e vídeo não cacheado — pula
+      adTimer = setTimeout(proximoAnuncio, 90000); // segurança se o vídeo travar
+    } else {
+      // texto ou imagem: tempo fixo
+      const DUR = (cfg.duracaoAnuncioSegundos || 8) * 1000;
+      progress.style.setProperty('--dur', DUR + 'ms');
+      progress.classList.remove('run'); void progress.offsetWidth; progress.classList.add('run');
+      adTimer = setTimeout(proximoAnuncio, DUR);
+    }
+  }
+
+  function proximoAnuncio() {
+    if (ads.length < 2) { if (ads.length === 1) mostrarAnuncio(); return; }
+    curAd = (curAd + 1) % ads.length;
+    mostrarAnuncio();
+  }
+
+  function renderComunicados() {
+    const p = predioAtual() || {};
+    const ns = p.comunicados || []; // comunicados são do prédio desta tela
+    const t = document.getElementById('nTitle'), b = document.getElementById('nBody'), c = document.getElementById('nDots');
+    if (!ns.length) { clearTimeout(noticeTimer); t.textContent = 'Sem comunicados no momento'; b.textContent = ''; c.innerHTML = ''; return }
+    let ni = 0;
+    const box = document.getElementById('notice'), img = document.getElementById('nImg');
+    const board = box.parentElement;
+    const mostrar = () => {
+      const n = ns[ni];
+      if (n.imagem) {
+        box.classList.add('soimagem');
+        board.classList.add('imgcheio'); // imagem ocupa o quadro inteiro (grande, sem cortar)
+        // se a imagem não estiver na memória (offline) evita tela branca: mostra o nome do prédio
+        img.onerror = () => { box.classList.remove('soimagem'); board.classList.remove('imgcheio'); t.textContent = p.nome || 'OnScreen'; b.textContent = ''; };
+        img.src = n.imagem;
+      } else {
+        img.onerror = null;
+        box.classList.remove('soimagem');
+        board.classList.remove('imgcheio');
+        img.removeAttribute('src');
+        t.textContent = n.titulo; b.textContent = n.texto;
+      }
+      // pontinhos: um por comunicado, o da vez fica alongado e colorido
+      c.style.display = ns.length > 1 ? 'flex' : 'none';
+      c.innerHTML = ns.map((_, k) => '<i class="' + (k === ni ? 'on' : '') + '"></i>').join('');
+      clearTimeout(noticeTimer);
+      // cada comunicado pode ter seu próprio tempo; se não tiver, usa o padrão geral
+      const seg = (n.segundos && n.segundos > 0) ? n.segundos : (cfg.duracaoComunicadoSegundos || 10);
+      noticeTimer = setTimeout(() => { ni = (ni + 1) % ns.length; mostrar() }, seg * 1000);
+    };
+    clearTimeout(noticeTimer);
+    mostrar();
+  }
+
+  async function atualizarConfig() {
+    const novo = normalizarCfg(await buscar('config', 'config.json?v=' + Date.now()));
+    if (!novo) return;
+    const mudou = JSON.stringify(novo) !== JSON.stringify(cfg);
+    cfg = novo;
+    aplicarMarca();
+    if (mudou) { renderAnuncios(); renderComunicados(); atualizarClima(); }
+    precacheMidia(); // garante que vídeos/imagens fiquem salvos para rodar sem internet
+  }
+
+  // textos e cor que o dono edita pelo painel
+  function aplicarMarca() {
+    if (!cfg) return;
+    document.getElementById('predio').textContent = (predioAtual() || {}).nome || '';
+    document.getElementById('fone').textContent = cfg.contato || '';
+    document.getElementById('rotuloCom').textContent = cfg.rotuloComunicados || 'Comunicados';
+    document.documentElement.style.setProperty('--accent', cfg.corDestaque || '#1f7ae0');
+  }
+
+  // baixa e guarda na memória todos os vídeos/imagens do conteúdo, para funcionarem offline
+  function precacheMidia() {
+    if (!cfg || !('serviceWorker' in navigator) || !navigator.serviceWorker.controller) return;
+    // guarda só a mídia DESTA tela (anúncios vendidos para este prédio + comunicados do prédio).
+    // Assim uma tela não baixa o conteúdo dos outros prédios.
+    const p = predioAtual() || {};
+    const urls = [];
+    (cfg.anuncios || []).forEach(a => {
+      if ((a.tipo === 'video' || a.tipo === 'imagem') && a.url && anuncioNesteP(a, p.id)) urls.push(a.url);
+    });
+    (p.comunicados || []).forEach(n => { if (n.imagem) urls.push(n.imagem); });
+    // manda sempre (mesmo vazio): o SW aproveita para apagar mídias que saíram do ar
+    navigator.serviceWorker.controller.postMessage({ tipo: 'guardar', urls });
+  }
+
+  // ---------- clima (Open-Meteo, gratuito, sem chave) ----------
+  const ICONES = { 0:'☀️',1:'🌤️',2:'⛅',3:'☁️',45:'🌫️',48:'🌫️',51:'🌦️',53:'🌦️',55:'🌧️',61:'🌧️',63:'🌧️',65:'🌧️',80:'🌦️',81:'🌧️',82:'⛈️',95:'⛈️',96:'⛈️',99:'⛈️' };
+  async function atualizarClima() {
+    const cid = (predioAtual() || {}).cidade; // clima da cidade do prédio desta tela
+    if (!cfg || !cid) return;
+    const { lat, lon } = cid;
+    const v = await buscar('clima',
+      'https://api.open-meteo.com/v1/forecast?latitude=' + lat + '&longitude=' + lon + '&daily=temperature_2m_min,temperature_2m_max,weather_code&timezone=America/Sao_Paulo&forecast_days=1',
+      (j) => ({ min: Math.round(j.daily.temperature_2m_min[0]), max: Math.round(j.daily.temperature_2m_max[0]), code: j.daily.weather_code[0] }));
+    if (!v) return;
+    document.getElementById('wx').textContent = v.min + '°/' + v.max + '°';
+    document.getElementById('wxIcon').textContent = ICONES[v.code] || '☁️';
+    document.getElementById('wx').closest('.slot').classList.remove('vazio');
+  }
+
+  // ---------- cotações (AwesomeAPI, gratuito) ----------
+  async function atualizarCotacoes() {
+    const v = await buscar('fx', 'https://economia.awesomeapi.com.br/json/last/USD-BRL,EUR-BRL', (j) => ([
+      { n: 'usd', v: parseFloat(j.USDBRL.bid), sobe: parseFloat(j.USDBRL.pctChange) >= 0 },
+      { n: 'eur', v: parseFloat(j.EURBRL.bid), sobe: parseFloat(j.EURBRL.pctChange) >= 0 },
+    ]));
+    if (!v) return;
+    v.forEach((f) => {
+      const el = document.getElementById(f.n);
+      if (!el) return;
+      el.innerHTML = 'R$ ' + f.v.toFixed(2).replace('.', ',') +
+        ' <span class="' + (f.sobe ? 'up' : 'dn') + '">' + (f.sobe ? '▴' : '▾') + '</span>';
+      el.closest('.slot').classList.remove('vazio');
+    });
+  }
+
+  // painel da base: mostra um dado de cada vez (só os que já carregaram)
+  const slots = Array.from(document.querySelectorAll('.slot'));
+  let si = 0;
+  function girarInfo() {
+    const prontos = slots.filter((s) => !s.classList.contains('vazio'));
+    if (prontos.length < 2) return;
+    si = (si + 1) % prontos.length;
+    slots.forEach((s) => s.classList.remove('on'));
+    prontos[si].classList.add('on');
+  }
+  setInterval(girarInfo, 6000);
+
+  // O recorte diagonal da faixa começa logo depois da palavra "Notícias".
+  // Usa offsetLeft/offsetTop (coordenadas do layout) e NÃO getBoundingClientRect:
+  // na tela girada 90° o rect vem no eixo da tela física e a medida sai trocada,
+  // cortando a manchete no meio.
+  function ajustarFaixaNoticias() {
+    const band = document.getElementById('newsband'), chip = document.getElementById('nbchip');
+    if (!band || !chip) return;
+    const rem = parseFloat(getComputedStyle(document.documentElement).fontSize) || 10;
+    band.style.setProperty('--cx', (chip.offsetLeft + chip.offsetWidth + rem * 0.9) + 'px');
+    band.style.setProperty('--cy', (chip.offsetTop + chip.offsetHeight + rem * 0.55) + 'px');
+  }
+  window.addEventListener('resize', ajustarFaixaNoticias);
+
+  // ---------- banco de curiosidades: roda offline pra sempre e nunca envelhece ----------
+  // (vem junto no app, então funciona mesmo sem internet; a etiqueta vira "Você sabia?")
+  const CURIOSIDADES = [
+    'Os polvos têm três corações e sangue azulado.',
+    'O mel praticamente não estraga: potes com milhares de anos já foram achados ainda bons.',
+    'Um relâmpago pode ser cinco vezes mais quente que a superfície do Sol.',
+    'As abelhas conseguem reconhecer rostos humanos.',
+    'A Amazônia é a maior floresta tropical do planeta.',
+    'A Torre Eiffel fica alguns centímetros mais alta no verão, por causa do calor.',
+    'Os golfinhos dão "nomes" uns aos outros usando assobios.',
+    'Os flamingos nascem acinzentados e ficam rosa por causa da alimentação.',
+    'Um único dia em Vênus dura mais que um ano inteiro lá.',
+    'A Grande Muralha da China tem mais de 21 mil quilômetros.',
+    'Os gatos passam cerca de dois terços da vida dormindo.',
+    'Os elefantes são os únicos mamíferos que não conseguem pular.',
+    'Existem mais estrelas no universo do que grãos de areia na Terra.',
+    'As girafas dormem, em média, só cerca de duas horas por dia.',
+    'O som viaja mais rápido na água do que no ar.',
+    'Os pinguins conseguem beber água do mar e eliminar o sal.',
+    'Os tubarões já existiam muito antes das primeiras árvores.',
+    'O coração de um camarão fica dentro da cabeça.',
+    'A banana é levemente radioativa por causa do potássio.',
+    'A Lua se afasta da Terra alguns centímetros a cada ano.',
+    'Vênus é o planeta mais quente, mesmo não sendo o mais perto do Sol.',
+    'O olfato de um cão é milhares de vezes mais apurado que o nosso.',
+    'A baleia-azul é o maior animal que já existiu, maior que qualquer dinossauro.',
+    'Cerca de 70% da superfície da Terra é coberta por água.',
+    'Marte tem cor avermelhada por causa do ferro enferrujado no solo.',
+    'Os polvos mudam de cor em segundos para se camuflar.',
+    'O corpo humano tem cerca de 37 trilhões de células.',
+    'As formigas conseguem carregar muitas vezes o próprio peso.',
+  ].map((t) => ({ titulo: t, rotulo: 'Você sabia?', cor: '#d62828' })); // etiqueta vermelha
+
+  // ---------- banco de dicas do condomínio: o síndico gosta e também rodam offline ----------
+  const DICAS = [
+    'Evite barulho após as 22h — o sossego é um direito de todos os vizinhos.',
+    'Separe o lixo reciclável: ajuda o planeta e o condomínio.',
+    'Ao sair, confira se as portas das áreas comuns ficaram fechadas.',
+    'Cães nas áreas comuns devem estar sempre na guia.',
+    'Não deixe objetos nas escadas — elas são rota de fuga em emergências.',
+    'Ao receber entregas, confirme a identidade antes de liberar a entrada.',
+    'Economize água: pequenos vazamentos viram grandes desperdícios.',
+    'Respeite as vagas de garagem e os espaços de acessibilidade.',
+    'Aguarde o portão travar antes de sair — segurança é coisa de todos.',
+    'Descarte pilhas e eletrônicos em pontos de coleta, não no lixo comum.',
+    'Barulho de obras somente nos horários permitidos pelo regulamento.',
+    'Mantenha as áreas comuns limpas — elas são de todos.',
+    'Saiba onde ficam os extintores do seu andar.',
+    'Reserve o salão de festas com antecedência pela administração.',
+    'Não jogue lixo pela janela nem pelo ralo — entope e atrai pragas.',
+    'Ajude a economizar energia: apague as luzes das áreas comuns ao sair.',
+  ].map((t) => ({ titulo: t, rotulo: 'Dica', cor: '#1f9d57' })); // etiqueta verde
+
+  // tudo que roda offline pra sempre (curiosidades + dicas), embaralhado pra variar a ordem
+  const EXTRAS = CURIOSIDADES.concat(DICAS)
+    .map((x) => [Math.random(), x]).sort((a, b) => a[0] - b[0]).map((p) => p[1]);
+
+  // ---------- notícias + curiosidades/dicas: faixa fixa com manchete ----------
+  let noticiasLista = [], rotacao = [], nIdx = 0, newsTimer = null;
+  // mistura notícias e curiosidades de forma espalhada (proporcional), pra sempre ter variedade —
+  // e se estiver offline sem notícia guardada, roda só as curiosidades (nunca fica "parado/velho")
+  function montarRotacao() {
+    const news = noticiasLista, cur = EXTRAS;
+    if (!news.length) { rotacao = cur.slice(); return; }
+    if (!cur.length) { rotacao = news.slice(); return; }
+    const out = []; let ni = 0, ci = 0;
+    while (ni < news.length || ci < cur.length) {
+      if (ni < news.length && (ci >= cur.length || ni * cur.length <= ci * news.length)) out.push(news[ni++]);
+      else out.push(cur[ci++]);
+    }
+    rotacao = out;
+  }
+  function girarNoticia() {
+    if (!rotacao.length) return;
+    const n = rotacao[nIdx % rotacao.length]; nIdx++;
+    const chip = document.getElementById('nbchip');
+    chip.textContent = n.rotulo || 'Notícias';
+    chip.style.background = n.cor || '#e0632c'; // Notícias laranja, Você sabia? vermelho, Dica verde
+    document.getElementById('nbTitle').textContent = n.titulo;
+    ajustarFaixaNoticias(); // a etiqueta muda de largura (Notícias/Você sabia?), recalcula o corte diagonal
+  }
+  async function atualizarNoticias() {
+    const v = await buscar('noticias', 'noticias.json?v=' + Date.now(), (j) => j.noticias);
+    noticiasLista = (v || []).map((n) => (typeof n === 'string' ? { titulo: n } : n))
+      .map((n) => ({ ...n, rotulo: 'Notícias', cor: '#e0632c' })).slice(0, 24);
+    montarRotacao();
+    if (!newsTimer) {
+      girarNoticia();
+      newsTimer = setInterval(girarNoticia, ((cfg && cfg.duracaoNoticiaSegundos) || 8) * 1000);
+    }
+  }
+
+  // ---------- inicialização e ciclos de atualização ----------
+  (async () => {
+    cfg = normalizarCfg(load('config'));
+    if (cfg) { // liga instantâneo com o que tem salvo
+      aplicarMarca();
+      renderAnuncios(); renderComunicados();
+    }
+    await atualizarConfig();
+    atualizarClima(); atualizarCotacoes(); atualizarNoticias();
+    ajustarFaixaNoticias();
+    setTimeout(ajustarFaixaNoticias, 800); // depois das fontes assentarem
+  })();
+  setInterval(atualizarConfig, 5 * 60 * 1000);       // conteúdo: a cada 5 min
+  setInterval(atualizarNoticias, 10 * 60 * 1000);    // notícias: a cada 10 min
+  setInterval(atualizarCotacoes, 10 * 60 * 1000);    // câmbio: a cada 10 min
+  setInterval(atualizarClima, 30 * 60 * 1000);       // clima: a cada 30 min
+  // recarrega a página de madrugada para limpar memória e pegar novidades
+  setInterval(() => { const h = new Date().getHours(); if (h === 4) location.reload() }, 55 * 60 * 1000);
+})();
+</script>
+</body>
+</html>

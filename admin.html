@@ -318,7 +318,7 @@
     localStorage.removeItem('onscreen_token');
     location.reload();
   });
-  $('verTela').addEventListener('click', () => window.open('./?girar=0', '_blank'));
+  $('verTela').addEventListener('click', () => window.open('/tela/?girar=0', '_blank'));
 
   // ---------- abas ----------
   document.querySelectorAll('.tabs button').forEach((b) => {
@@ -348,7 +348,7 @@
   // ---------- prédios e telas ----------
   // usa o endereço de onde o painel foi aberto — assim os links já saem certos
   // no domínio próprio (onscreenmidia.com.br) sem precisar mexer no código.
-  const BASE_TELA = location.origin + '/?tela=';
+  const BASE_TELA = location.origin + '/tela/?tela=';
 
   function renderPredios() {
     const lista = $('listaPredio'); lista.innerHTML = '';
