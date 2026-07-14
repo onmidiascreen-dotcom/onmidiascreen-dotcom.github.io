@@ -523,14 +523,38 @@
     'Os polvos mudam de cor em segundos para se camuflar.',
     'O corpo humano tem cerca de 37 trilhões de células.',
     'As formigas conseguem carregar muitas vezes o próprio peso.',
-  ].map((t) => ({ titulo: t, rotulo: 'Você sabia?' }));
+  ].map((t) => ({ titulo: t, rotulo: 'Você sabia?', cor: '#d62828' })); // etiqueta vermelha
 
-  // ---------- notícias + curiosidades: faixa fixa com manchete ----------
+  // ---------- banco de dicas do condomínio: o síndico gosta e também rodam offline ----------
+  const DICAS = [
+    'Evite barulho após as 22h — o sossego é um direito de todos os vizinhos.',
+    'Separe o lixo reciclável: ajuda o planeta e o condomínio.',
+    'Ao sair, confira se as portas das áreas comuns ficaram fechadas.',
+    'Cães nas áreas comuns devem estar sempre na guia.',
+    'Não deixe objetos nas escadas — elas são rota de fuga em emergências.',
+    'Ao receber entregas, confirme a identidade antes de liberar a entrada.',
+    'Economize água: pequenos vazamentos viram grandes desperdícios.',
+    'Respeite as vagas de garagem e os espaços de acessibilidade.',
+    'Aguarde o portão travar antes de sair — segurança é coisa de todos.',
+    'Descarte pilhas e eletrônicos em pontos de coleta, não no lixo comum.',
+    'Barulho de obras somente nos horários permitidos pelo regulamento.',
+    'Mantenha as áreas comuns limpas — elas são de todos.',
+    'Saiba onde ficam os extintores do seu andar.',
+    'Reserve o salão de festas com antecedência pela administração.',
+    'Não jogue lixo pela janela nem pelo ralo — entope e atrai pragas.',
+    'Ajude a economizar energia: apague as luzes das áreas comuns ao sair.',
+  ].map((t) => ({ titulo: t, rotulo: 'Dica', cor: '#1f9d57' })); // etiqueta verde
+
+  // tudo que roda offline pra sempre (curiosidades + dicas), embaralhado pra variar a ordem
+  const EXTRAS = CURIOSIDADES.concat(DICAS)
+    .map((x) => [Math.random(), x]).sort((a, b) => a[0] - b[0]).map((p) => p[1]);
+
+  // ---------- notícias + curiosidades/dicas: faixa fixa com manchete ----------
   let noticiasLista = [], rotacao = [], nIdx = 0, newsTimer = null;
   // mistura notícias e curiosidades de forma espalhada (proporcional), pra sempre ter variedade —
   // e se estiver offline sem notícia guardada, roda só as curiosidades (nunca fica "parado/velho")
   function montarRotacao() {
-    const news = noticiasLista, cur = CURIOSIDADES;
+    const news = noticiasLista, cur = EXTRAS;
     if (!news.length) { rotacao = cur.slice(); return; }
     if (!cur.length) { rotacao = news.slice(); return; }
     const out = []; let ni = 0, ci = 0;
@@ -543,14 +567,16 @@
   function girarNoticia() {
     if (!rotacao.length) return;
     const n = rotacao[nIdx % rotacao.length]; nIdx++;
-    document.getElementById('nbchip').textContent = n.rotulo || 'Notícias';
+    const chip = document.getElementById('nbchip');
+    chip.textContent = n.rotulo || 'Notícias';
+    chip.style.background = n.cor || '#e0632c'; // Notícias laranja, Você sabia? vermelho, Dica verde
     document.getElementById('nbTitle').textContent = n.titulo;
     ajustarFaixaNoticias(); // a etiqueta muda de largura (Notícias/Você sabia?), recalcula o corte diagonal
   }
   async function atualizarNoticias() {
     const v = await buscar('noticias', 'noticias.json?v=' + Date.now(), (j) => j.noticias);
     noticiasLista = (v || []).map((n) => (typeof n === 'string' ? { titulo: n } : n))
-      .map((n) => ({ ...n, rotulo: 'Notícias' })).slice(0, 24);
+      .map((n) => ({ ...n, rotulo: 'Notícias', cor: '#e0632c' })).slice(0, 24);
     montarRotacao();
     if (!newsTimer) {
       girarNoticia();
