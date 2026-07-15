@@ -712,13 +712,16 @@
     }
     enviando++; travarSalvar();
     toast('Enviando ' + rotulo + '… (pode levar alguns segundos)');
-    const nome = pasta + '/' + Date.now() + '-' + file.name.replace(/[^a-zA-Z0-9.\-]/g, '_');
-    const b64 = await new Promise((res) => {
-      const fr = new FileReader();
-      fr.onload = () => res(fr.result.split(',')[1]);
-      fr.readAsDataURL(file);
-    });
     try {
+      const nome = pasta + '/' + Date.now() + '-' + file.name.replace(/[^a-zA-Z0-9.\-]/g, '_');
+      // ler o arquivo DENTRO do try e com tratamento de erro: se a leitura falhar,
+      // rejeita (cai no catch) em vez de travar pra sempre e prender o botão Salvar.
+      const b64 = await new Promise((res, rej) => {
+        const fr = new FileReader();
+        fr.onload = () => res(fr.result.split(',')[1]);
+        fr.onerror = () => rej(new Error('não consegui ler este arquivo. Tente outra imagem.'));
+        fr.readAsDataURL(file);
+      });
       const r = await api(nome, {
         method: 'PUT',
         body: JSON.stringify({ message: 'painel: ' + rotulo + ' ' + nome, content: b64 })
