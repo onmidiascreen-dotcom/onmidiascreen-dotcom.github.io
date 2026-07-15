@@ -16,8 +16,14 @@
         "lon": -51.42
       },
       "telas": [
-        { "id": "infinity-1", "nome": "Elevador 1" },
-        { "id": "infinity-2", "nome": "Elevador 2" }
+        {
+          "id": "infinity-1",
+          "nome": "Elevador 1"
+        },
+        {
+          "id": "infinity-2",
+          "nome": "Elevador 2"
+        }
       ],
       "comunicados": [
         {
@@ -51,8 +57,8 @@
       "texto": "",
       "rodape": "",
       "cor": "azul",
-      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1783722078/lcxvrzyordeaxjrjcwet.mp4",
-      "predios": []
+      "predios": [],
+      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1784119059/ymq6nq7yzxeywrx8xuyo.mp4"
     }
   ]
 }
