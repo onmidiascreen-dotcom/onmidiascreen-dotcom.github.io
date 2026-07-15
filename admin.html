@@ -348,7 +348,7 @@
   // ---------- prédios e telas ----------
   // usa o endereço de onde o painel foi aberto — assim os links já saem certos
   // no domínio próprio (onscreenmidia.com.br) sem precisar mexer no código.
-  const BASE_TELA = location.origin + '/tela/?tela=';
+  const BASE_TELA = location.origin + '/tela/?t='; // ?t= é a versão curta do link
 
   function renderPredios() {
     const lista = $('listaPredio'); lista.innerHTML = '';
@@ -392,16 +392,36 @@
         const el = document.createElement('div');
         el.style.cssText = 'display:flex;gap:10px;align-items:flex-end;margin-bottom:10px;flex-wrap:wrap';
         el.innerHTML =
-          '<div class="field" style="max-width:200px;margin:0"><label>Nome da tela</label><input class="t-nome"></div>' +
-          '<div class="field" style="flex:1;min-width:260px;margin:0"><label>Link para colar no Fully</label><input class="t-link" readonly></div>' +
+          '<div class="field" style="max-width:160px;margin:0"><label>Nome da tela</label><input class="t-nome"></div>' +
+          '<div class="field" style="max-width:120px;margin:0"><label>Código (deixa o link curto)</label><input class="t-id"></div>' +
+          '<div class="field" style="flex:1;min-width:230px;margin:0"><label>Link para colar no Fully</label><input class="t-link" readonly></div>' +
           '<button class="copiar">Copiar link</button>' +
           '<button class="remove tremove">Remover</button>';
+        const linkEl = el.querySelector('.t-link');
         el.querySelector('.t-nome').value = t.nome || '';
-        el.querySelector('.t-link').value = link;
+        el.querySelector('.t-id').value = t.id || '';
+        linkEl.value = link;
         el.querySelector('.t-nome').addEventListener('input', (e) => { t.nome = e.target.value; marcarMudou(); });
+        // código editável: só letras/números/hífen, minúsculo. O link atualiza ao vivo.
+        const idInp = el.querySelector('.t-id');
+        idInp.addEventListener('input', (e) => {
+          const limpo = e.target.value.toLowerCase().replace(/[^a-z0-9-]/g, '');
+          if (limpo !== e.target.value) e.target.value = limpo;
+          t.id = limpo;
+          linkEl.value = BASE_TELA + limpo;
+          marcarMudou();
+        });
+        // ao sair do campo: não deixa vazio nem repetido (senão o link não abre a tela certa)
+        idInp.addEventListener('blur', () => {
+          const usados = cfg.predios.flatMap((x) => x.telas).filter((x) => x !== t).map((x) => x.id);
+          let base = t.id || apelido(p.nome);
+          t.id = idUnico(base, usados);
+          idInp.value = t.id; linkEl.value = BASE_TELA + t.id;
+        });
         el.querySelector('.copiar').addEventListener('click', () => {
-          navigator.clipboard.writeText(link).then(() => toast('Link copiado! Cole no Start URL do Fully.'))
-            .catch(() => toast('Copie na mão: ' + link, true));
+          const atual = BASE_TELA + t.id;
+          navigator.clipboard.writeText(atual).then(() => toast('Link copiado! Cole no Start URL do Fully.'))
+            .catch(() => toast('Copie na mão: ' + atual, true));
         });
         el.querySelector('.tremove').addEventListener('click', () => {
           if (!confirm('Remover esta tela?')) return;
@@ -414,7 +434,7 @@
 
     c.querySelector('.addtela').addEventListener('click', () => {
       const usados = cfg.predios.flatMap((x) => x.telas.map((t) => t.id));
-      const id = idUnico(apelido(p.nome) + '-' + (p.telas.length + 1), usados);
+      const id = idUnico((p.id || apelido(p.nome)) + '-' + (p.telas.length + 1), usados);
       p.telas.push({ id, nome: 'Elevador ' + (p.telas.length + 1) });
       desenharTelas(); marcarMudou();
     });
@@ -495,7 +515,7 @@
             (a.url ? '<video src="' + a.url + '" muted playsinline style="max-height:150px;border:1px solid var(--line);border-radius:8px" controls></video>' : '<span style="color:var(--ink-dim)">Nenhum vídeo</span>') +
             '<button class="up">Escolher vídeo</button><input type="file" accept="video/*">' +
           '</div>' +
-          '<p style="font-size:.8rem;color:var(--ink-dim);margin-top:8px">Dica: vídeos curtos (15–30s) e leves (até 24 MB) funcionam melhor. O som fica desligado na tela.</p>';
+          '<p style="font-size:.8rem;color:var(--ink-dim);margin-top:8px">Dica: vídeo <b>quadrado 1080 × 1080 px</b> (no Canva: Tamanho personalizado), até 15 segundos, MP4. O som fica desligado na tela.</p>';
         const inp = corpo.querySelector('input[type=file]');
         corpo.querySelector('.up').addEventListener('click', () => inp.click());
         inp.addEventListener('change', () => enviarVideo(inp.files[0], 'anuncios', (url) => { if (a.url && a.url !== url) agendarApagar(a.url); a.url = url; desenhar(); marcarMudou(); }));

@@ -308,7 +308,7 @@
   // Cada aparelho abre com ?tela=<id> (ex.: ?tela=infinity-1). Sem parâmetro, usa o 1º prédio —
   // é o que mantém as telas já instaladas funcionando sem precisar mexer nelas.
   const QS = new URLSearchParams(location.search);
-  const TELA_ID = QS.get('tela') || '';
+  const TELA_ID = QS.get('t') || QS.get('tela') || '';   // aceita ?t= (curto) ou ?tela=
   const PREDIO_ID = QS.get('predio') || '';
 
   // formato antigo (prédio único na raiz do config) continua funcionando: converte na hora.
