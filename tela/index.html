@@ -588,10 +588,23 @@
 
   // ---------- notícias + curiosidades/dicas: faixa fixa com manchete ----------
   let noticiasLista = [], rotacao = [], nIdx = 0, newsTimer = null;
+  let noticiaGeradaEm = null; // quando o robô gerou as manchetes (para não exibir notícia velha)
+  // Manchete velha na tela é o que denuncia que a internet caiu ("as notícias não
+  // atualizam"). Passado o prazo, as notícias somem e ficam só curiosidades e dicas,
+  // que são atemporais — ninguém tem como perceber. Ajustável no painel
+  // (horasNoticiaValida); 0 desliga a regra e as notícias rodam sempre.
+  function noticiasFrescas() {
+    const h = cfg && cfg.horasNoticiaValida;
+    const limite = (h === undefined || h === null || h === '') ? 12 : Number(h);
+    if (!Number.isFinite(limite) || limite <= 0) return noticiasLista; // 0 = sem regra
+    if (!noticiaGeradaEm) return noticiasLista; // sem data (cache antigo): não arrisca esconder
+    return (Date.now() - noticiaGeradaEm) > limite * 3600e3 ? [] : noticiasLista;
+  }
+
   // mistura notícias e curiosidades de forma espalhada (proporcional), pra sempre ter variedade —
   // e se estiver offline sem notícia guardada, roda só as curiosidades (nunca fica "parado/velho")
   function montarRotacao() {
-    const news = noticiasLista, cur = EXTRAS;
+    const news = noticiasFrescas(), cur = EXTRAS;
     if (!news.length) { rotacao = cur.slice(); return; }
     if (!cur.length) { rotacao = news.slice(); return; }
     const out = []; let ni = 0, ci = 0;
@@ -611,8 +624,15 @@
     ajustarFaixaNoticias(); // a etiqueta muda de largura (Notícias/Você sabia?), recalcula o corte diagonal
   }
   async function atualizarNoticias() {
-    const v = await buscar('noticias', 'noticias.json?v=' + Date.now(), (j) => j.noticias);
-    noticiasLista = (v || []).map((n) => (typeof n === 'string' ? { titulo: n } : n))
+    // guarda também QUANDO as manchetes foram geradas: manchete velha na tela é o
+    // que denuncia que a internet caiu. Formato antigo (só a lista) segue valendo,
+    // para não quebrar tela que ligar com cache anterior a esta versão.
+    const v = await buscar('noticias', 'noticias.json?v=' + Date.now(),
+      (j) => ({ noticias: j.noticias || [], atualizadoEm: j.atualizadoEm || null }));
+    const lista = Array.isArray(v) ? v : ((v && v.noticias) || []);
+    const em = (v && !Array.isArray(v) && v.atualizadoEm) ? Date.parse(v.atualizadoEm) : NaN;
+    noticiaGeradaEm = Number.isFinite(em) ? em : null;
+    noticiasLista = lista.map((n) => (typeof n === 'string' ? { titulo: n } : n))
       .map((n) => ({ ...n, rotulo: 'Notícias', cor: '#e0632c' })).slice(0, 24);
     montarRotacao();
     if (!newsTimer) {
@@ -633,6 +653,37 @@
     ajustarFaixaNoticias();
     setTimeout(ajustarFaixaNoticias, 800); // depois das fontes assentarem
   })();
+  // ---------- sinal de vida: o dono enxerga a tela de casa ----------
+  // A tela avisa o porteiro que está viva. Se o elevador estiver sem rede, a
+  // tentativa falha em silêncio e o player segue rodando normalmente.
+  const PORTEIRO = 'https://onscreen-sindico.onmidiascreen.workers.dev';
+  const abertoEm = Date.now();
+  async function mandarSinal() {
+    if (!TELA_ID) return; // tela sem código: nada a identificar
+    const p = predioAtual();
+    try {
+      await fetch(PORTEIRO + '/ping', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          tela: TELA_ID,
+          predio: (p && p.id) || '',
+          dados: {
+            online: onlineOk,
+            anuncios: ads.length,
+            comunicados: ((p && p.comunicados) || []).length,
+            noticias: noticiasLista.length,
+            noticiaEm: noticiaGeradaEm || null,
+            sincronizadoEm: ultimaSincronizacao || null,
+            ligadaHa: Math.round((Date.now() - abertoEm) / 60000),
+            telaTam: window.innerWidth + 'x' + window.innerHeight
+          }
+        })
+      });
+    } catch (e) { /* sem rede: tenta de novo no próximo ciclo */ }
+  }
+  mandarSinal();
+  setInterval(mandarSinal, 10 * 60 * 1000);          // sinal de vida: a cada 10 min
+
   setInterval(atualizarConfig, 5 * 60 * 1000);       // conteúdo: a cada 5 min
   setInterval(atualizarNoticias, 10 * 60 * 1000);    // notícias: a cada 10 min
   setInterval(atualizarCotacoes, 10 * 60 * 1000);    // câmbio: a cada 10 min

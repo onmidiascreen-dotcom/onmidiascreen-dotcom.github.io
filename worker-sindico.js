@@ -151,6 +151,54 @@ async function limparCartazesOrfaos(env, usados) {
   }
 }
 
+// ---------- monitoramento das telas ----------
+// Cada tela manda um "estou viva" de tempos em tempos e, mais espaçado, uma foto
+// do que está mostrando. Serve para o dono ver, de casa, se a tela do elevador
+// está no ar — sem depender do painel de ninguém.
+//
+// Guarda no D1 (banco grátis do Cloudflare). Precisa do bind DB no wrangler.toml
+// e do segredo MONITOR_TOKEN (senha só do dono, para LER o monitoramento).
+const MAX_CAPTURA_KB = 400;
+const CAPTURAS_POR_TELA = 12;   // ~6h de histórico com foto a cada 30 min
+const idValido = (s) => typeof s === 'string' && /^[a-z0-9-]{1,40}$/.test(s);
+
+// o dono lê o monitoramento com um token próprio (as telas escrevem sem token)
+const ehDono = (req, env) =>
+  !!env.MONITOR_TOKEN &&
+  igual((req.headers.get('Authorization') || '').replace(/^Bearer /, ''), env.MONITOR_TOKEN);
+
+// cria as tabelas na primeira chamada (idempotente, barato)
+async function prepararBanco(env) {
+  await env.DB.batch([
+    env.DB.prepare(`CREATE TABLE IF NOT EXISTS sinais (
+      tela TEXT PRIMARY KEY, predio TEXT, ultimo_sinal INTEGER NOT NULL, dados TEXT)`),
+    env.DB.prepare(`CREATE TABLE IF NOT EXISTS capturas (
+      id INTEGER PRIMARY KEY AUTOINCREMENT, tela TEXT NOT NULL,
+      ts INTEGER NOT NULL, imagem TEXT NOT NULL)`),
+    env.DB.prepare(`CREATE INDEX IF NOT EXISTS idx_capturas ON capturas (tela, ts DESC)`)
+  ]);
+}
+
+// só guarda o que interessa — a tela manda o que quiser, nós filtramos
+function limparDados(d) {
+  if (!d || typeof d !== 'object') return {};
+  const n = (v) => (Number.isFinite(Number(v)) ? Number(v) : null);
+  return {
+    online: !!d.online,
+    versaoApp: String(d.versaoApp || '').slice(0, 20),
+    anuncios: n(d.anuncios),
+    comunicados: n(d.comunicados),
+    noticias: n(d.noticias),
+    noticiaEm: n(d.noticiaEm),          // quando as notícias foram geradas
+    sincronizadoEm: n(d.sincronizadoEm), // último contato com a internet
+    ligadaHa: n(d.ligadaHa),             // minutos desde que o player abriu
+    tela: String(d.telaTam || '').slice(0, 20),
+    erro: String(d.erro || '').slice(0, 200)
+  };
+}
+
+export { limparDados }; // usado pelos testes
+
 // ---------- rotas ----------
 export default {
   async fetch(req, env) {
@@ -171,6 +219,79 @@ async function tratar(req, env) {
           return json({ erro: 'Usuário ou senha incorretos.' }, 401);
         }
         return json({ cracha: await criarCracha(env.SEGREDO) });
+      }
+
+      // ----- monitoramento (não passa pelo crachá do síndico) -----
+      // as telas escrevem sem senha: elas ficam em elevador, não dá para guardar
+      // segredo nelas. O risco é alguém inventar um sinal falso — não estraga nada.
+      if (rota === '/ping' && req.method === 'POST') {
+        if (!env.DB) return json({ erro: 'Monitoramento não configurado.' }, 501);
+        const b = await req.json();
+        if (!idValido(b.tela)) return json({ erro: 'Tela inválida.' }, 400);
+        await prepararBanco(env);
+        await env.DB.prepare(
+          `INSERT INTO sinais (tela, predio, ultimo_sinal, dados) VALUES (?, ?, ?, ?)
+           ON CONFLICT(tela) DO UPDATE SET predio=excluded.predio,
+             ultimo_sinal=excluded.ultimo_sinal, dados=excluded.dados`
+        ).bind(
+          b.tela,
+          idValido(b.predio) ? b.predio : '',
+          Date.now(),
+          JSON.stringify(limparDados(b.dados))
+        ).run();
+        return json({ ok: true });
+      }
+
+      if (rota === '/captura' && req.method === 'POST') {
+        if (!env.DB) return json({ erro: 'Monitoramento não configurado.' }, 501);
+        const b = await req.json();
+        if (!idValido(b.tela)) return json({ erro: 'Tela inválida.' }, 400);
+        const img = String(b.imagem || '');
+        if (!/^data:image\/(jpeg|png|webp);base64,/.test(img)) return json({ erro: 'Imagem inválida.' }, 400);
+        if (img.length * 0.75 > MAX_CAPTURA_KB * 1024) return json({ erro: 'Imagem grande demais.' }, 400);
+        await prepararBanco(env);
+        await env.DB.prepare('INSERT INTO capturas (tela, ts, imagem) VALUES (?, ?, ?)')
+          .bind(b.tela, Date.now(), img).run();
+        // guarda só as últimas — senão o banco cresce para sempre
+        await env.DB.prepare(
+          `DELETE FROM capturas WHERE tela = ?1 AND id NOT IN
+             (SELECT id FROM capturas WHERE tela = ?1 ORDER BY ts DESC LIMIT ?2)`
+        ).bind(b.tela, CAPTURAS_POR_TELA).run();
+        return json({ ok: true });
+      }
+
+      // leitura do monitoramento: só o dono, com o token dele
+      if (rota === '/monitor' && req.method === 'GET') {
+        if (!env.DB) return json({ erro: 'Monitoramento não configurado.' }, 501);
+        if (!ehDono(req, env)) return json({ erro: 'Token do monitoramento inválido.' }, 401);
+        await prepararBanco(env);
+        const { results } = await env.DB.prepare(
+          `SELECT s.tela, s.predio, s.ultimo_sinal, s.dados,
+                  (SELECT ts FROM capturas c WHERE c.tela = s.tela ORDER BY ts DESC LIMIT 1) AS captura_em
+             FROM sinais s ORDER BY s.ultimo_sinal DESC`
+        ).all();
+        return json({
+          agora: Date.now(),
+          telas: (results || []).map((r) => ({
+            tela: r.tela, predio: r.predio,
+            ultimoSinal: r.ultimo_sinal,
+            capturaEm: r.captura_em || null,
+            dados: JSON.parse(r.dados || '{}')
+          }))
+        });
+      }
+
+      // fotos de uma tela (pesadas, por isso separadas do /monitor)
+      if (rota === '/capturas' && req.method === 'GET') {
+        if (!env.DB) return json({ erro: 'Monitoramento não configurado.' }, 501);
+        if (!ehDono(req, env)) return json({ erro: 'Token do monitoramento inválido.' }, 401);
+        const tela = new URL(req.url).searchParams.get('tela') || '';
+        if (!idValido(tela)) return json({ erro: 'Tela inválida.' }, 400);
+        await prepararBanco(env);
+        const { results } = await env.DB.prepare(
+          'SELECT ts, imagem FROM capturas WHERE tela = ? ORDER BY ts DESC LIMIT ?'
+        ).bind(tela, CAPTURAS_POR_TELA).all();
+        return json({ tela, capturas: results || [] });
       }
 
       if (!await autorizado(req, env)) return json({ erro: 'Sessão expirada. Entre novamente.' }, 401);

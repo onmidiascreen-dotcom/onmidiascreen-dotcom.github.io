@@ -135,6 +135,7 @@
       <button data-tab="prop" class="on">📺 Propagandas</button>
       <button data-tab="com">📢 Comunicados</button>
       <button data-tab="pred">🏢 Prédios e Telas</button>
+      <button data-tab="mon">📡 Monitoramento</button>
       <button data-tab="cfg">⚙️ Configurações</button>
     </div>
 
@@ -159,6 +160,27 @@
       <div id="listaPredio"></div>
     </section>
 
+    <section id="mon">
+      <div class="sechead"><h2>Monitoramento</h2><button class="add" id="monAtualizar">↻ Atualizar</button></div>
+      <div class="card">
+        <p style="color:var(--ink-dim);font-size:.9rem;margin-bottom:14px">
+          Cada tela avisa que está viva a cada <b>10 minutos</b>. Se uma parar de dar sinal,
+          ela aparece aqui em vermelho — você descobre de casa, sem ir ao prédio.
+        </p>
+        <div class="row" id="monLogin">
+          <div class="field">
+            <label>Senha do monitoramento</label>
+            <input id="monToken" type="password" placeholder="cole aqui a senha">
+            <small style="color:var(--ink-dim);font-size:.8rem;display:block;margin-top:4px">
+              É o segredo <b>MONITOR_TOKEN</b> do Cloudflare. Fica salvo neste navegador.
+            </small>
+          </div>
+          <div class="field" style="align-self:flex-end"><button class="add" id="monEntrar">Ver telas</button></div>
+        </div>
+        <div id="monLista"></div>
+      </div>
+    </section>
+
     <section id="cfg">
       <div class="sechead"><h2>Configurações</h2></div>
       <div class="card">
@@ -171,6 +193,15 @@
         </div>
         <div class="row">
           <div class="field"><label>Rótulo do comunicado</label><input id="cfgRotulo" placeholder="Comunicados"></div>
+          <div class="field">
+            <label>Esconder notícia depois de (horas)</label>
+            <input id="cfgHorasNot" type="number" min="0" max="168" placeholder="12">
+            <small style="color:var(--ink-dim);font-size:.8rem;display:block;margin-top:4px">
+              Se a tela ficar sem internet, a notícia envelhece e entrega que parou de atualizar.
+              Passadas estas horas ela some e ficam só as <b>curiosidades e dicas</b>, que não têm data —
+              ninguém percebe. <b>0 = nunca esconder.</b>
+            </small>
+          </div>
         </div>
         <div class="row">
           <div class="field"><label>Cor de destaque</label>
@@ -343,6 +374,9 @@
     $('cfgDurAnuncio').value = cfg.duracaoAnuncioSegundos || 8;
     $('cfgDurCom').value = cfg.duracaoComunicadoSegundos || 10;
     $('cfgDurNot').value = cfg.duracaoNoticiaSegundos || 8;
+    // 0 é um valor válido (nunca esconder), então não dá para usar "|| 12"
+    $('cfgHorasNot').value = (cfg.horasNoticiaValida === undefined || cfg.horasNoticiaValida === null)
+      ? 12 : cfg.horasNoticiaValida;
   }
 
   // ---------- prédios e telas ----------
@@ -692,6 +726,81 @@
   $('cfgDurAnuncio').addEventListener('input', (e) => { cfg.duracaoAnuncioSegundos = +e.target.value || 8; marcarMudou(); });
   $('cfgDurCom').addEventListener('input', (e) => { cfg.duracaoComunicadoSegundos = +e.target.value || 10; marcarMudou(); });
   $('cfgDurNot').addEventListener('input', (e) => { cfg.duracaoNoticiaSegundos = +e.target.value || 8; marcarMudou(); });
+  // ---------- monitoramento: quem está viva lá no elevador ----------
+  const PORTEIRO_MON = 'https://onscreen-sindico.onmidiascreen.workers.dev';
+  const monTok = () => localStorage.getItem('os_monitor_token') || '';
+
+  function haQuantoTempo(ts) {
+    if (!ts) return { txt: 'nunca', min: Infinity };
+    const min = Math.round((Date.now() - ts) / 60000);
+    if (min < 1) return { txt: 'agora', min };
+    if (min < 60) return { txt: 'há ' + min + ' min', min };
+    const h = Math.round(min / 60);
+    if (h < 48) return { txt: 'há ' + h + (h === 1 ? ' hora' : ' horas'), min };
+    return { txt: 'há ' + Math.round(h / 24) + ' dias', min };
+  }
+  // nome amigável da tela (o painel conhece os prédios; o porteiro só conhece o código)
+  function nomeDaTela(id) {
+    for (const p of (cfg.predios || [])) {
+      const t = (p.telas || []).find((x) => x.id === id);
+      if (t) return (t.nome || id) + ' — ' + (p.nome || p.id);
+    }
+    return id + ' (tela não cadastrada)';
+  }
+
+  async function verMonitor() {
+    const alvo = $('monLista');
+    if (!monTok()) { alvo.innerHTML = '<p style="color:var(--ink-dim)">Informe a senha do monitoramento acima.</p>'; return; }
+    alvo.innerHTML = '<p style="color:var(--ink-dim)">Consultando as telas...</p>';
+    try {
+      const r = await fetch(PORTEIRO_MON + '/monitor', { headers: { Authorization: 'Bearer ' + monTok() } });
+      const j = await r.json();
+      if (!r.ok) throw new Error(j.erro || ('erro ' + r.status));
+      if (!j.telas.length) {
+        alvo.innerHTML = '<p style="color:var(--ink-dim)">Nenhuma tela deu sinal ainda. '
+          + 'Assim que uma tela abrir o player com internet, ela aparece aqui.</p>';
+        return;
+      }
+      alvo.innerHTML = j.telas.map((t) => {
+        const q = haQuantoTempo(t.ultimoSinal);
+        // 25 min = perdeu dois sinais seguidos (o normal é a cada 10)
+        const ok = q.min <= 25;
+        const cor = ok ? '#1f9d57' : (q.min <= 180 ? '#e0632c' : '#d62828');
+        const rotulo = ok ? 'No ar' : (q.min <= 180 ? 'Sem sinal recente' : 'FORA DO AR');
+        const d = t.dados || {};
+        const notIdade = d.noticiaEm ? haQuantoTempo(d.noticiaEm).txt : '—';
+        return '<div style="border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:10px">'
+          + '<div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">'
+          +   '<span style="width:10px;height:10px;border-radius:50%;background:' + cor + ';flex:none"></span>'
+          +   '<b>' + nomeDaTela(t.tela) + '</b>'
+          +   '<span style="color:' + cor + ';font-weight:600;font-size:.85rem">' + rotulo + '</span>'
+          +   '<span style="color:var(--ink-dim);font-size:.85rem;margin-left:auto">último sinal: ' + q.txt + '</span>'
+          + '</div>'
+          + '<div style="color:var(--ink-dim);font-size:.82rem;margin-top:6px">'
+          +   'código: <code>' + t.tela + '</code> · '
+          +   'propagandas: ' + (d.anuncios ?? '—') + ' · comunicados: ' + (d.comunicados ?? '—')
+          +   ' · notícias: ' + (d.noticias ?? '—') + ' (geradas ' + notIdade + ')'
+          +   (d.online === false ? ' · <b style="color:#e0632c">a tela estava sem internet</b>' : '')
+          +   (d.erro ? ' · <b style="color:#d62828">erro: ' + d.erro + '</b>' : '')
+          + '</div></div>';
+      }).join('');
+    } catch (e) {
+      alvo.innerHTML = '<p style="color:#d62828">Não consegui consultar: ' + e.message + '</p>';
+    }
+  }
+  $('monEntrar').addEventListener('click', () => {
+    const v = $('monToken').value.trim();
+    if (v) localStorage.setItem('os_monitor_token', v);
+    verMonitor();
+  });
+  $('monAtualizar').addEventListener('click', verMonitor);
+
+  $('cfgHorasNot').addEventListener('input', (e) => {
+    const v = e.target.value.trim();
+    // vazio volta ao padrão (12h); 0 é intencional e significa "nunca esconder"
+    cfg.horasNoticiaValida = v === '' ? 12 : Math.max(0, Math.min(168, +v || 0));
+    marcarMudou();
+  });
 
   // ---------- upload de arquivo (imagem ou vídeo) ----------
   function enviarImagem(file, pasta, cb) { return enviarArquivo(file, pasta, 4, 'imagem', cb); }
