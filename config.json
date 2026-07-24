@@ -21,6 +21,10 @@
           "nome": "CASA"
         },
         {
+          "id": "infinity-1",
+          "nome": "CASA (teste)"
+        },
+        {
           "id": "infinity-2",
           "nome": "Elevador 2"
         },
