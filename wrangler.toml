@@ -4,15 +4,7 @@ compatibility_date = "2026-07-10"
 
 # Banco do monitoramento (D1, gratuito). Guarda o "sinal de vida" que cada tela
 # manda a cada 10 min.
-#
-# Está DESLIGADO por enquanto: sem este bind o porteiro segue funcionando igual
-# (o painel do síndico não depende dele) e as rotas /ping e /monitor respondem
-# 501 "não configurado" — a tela ignora e continua rodando normal.
-#
-# Para ligar: rode ATIVAR-MONITORAMENTO.cmd, pegue o database_id que ele mostrar,
-# tire o # das 3 linhas abaixo e ponha o id no lugar.
-#
-# [[d1_databases]]
-# binding = "DB"
-# database_name = "onscreen-monitor"
-# database_id = "PONHA-O-DATABASE-ID-AQUI"
+[[d1_databases]]
+binding = "DB"
+database_name = "onscreen-monitor"
+database_id = "de454000-47cc-497e-b25d-79e48a92ddf4"
