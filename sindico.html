@@ -103,7 +103,6 @@
       <div class="logo">On<span>Screen</span></div>
       <div class="predio" id="predio"></div>
     </div>
-    <button id="atualizar" title="Recarrega a página (útil se algo não salvar)">↻ Atualizar</button>
     <button id="sair">Sair</button>
   </header>
 
@@ -208,12 +207,6 @@
   $('sair').addEventListener('click', () => {
     if (mudou && !confirm('Você tem alterações não salvas. Sair mesmo assim?')) return;
     sair();
-  });
-  // recarrega a página inteira: pega um crachá novo se o antigo tiver expirado,
-  // em vez de deixar o síndico salvando com uma sessão morta sem perceber.
-  $('atualizar').addEventListener('click', () => {
-    if (mudou && !confirm('Você tem alterações não salvas. Atualizar mesmo assim?')) return;
-    location.reload();
   });
 
   async function abrir() {
