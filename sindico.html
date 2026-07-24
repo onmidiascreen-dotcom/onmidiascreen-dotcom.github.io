@@ -5,6 +5,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>OnScreen — Comunicados do Prédio</title>
 <link rel="icon" href="icone.svg" type="image/svg+xml">
+
+<!-- torna esta página instalável como "app" no celular (ícone próprio, tela cheia) -->
+<link rel="manifest" href="manifest-sindico.json">
+<meta name="theme-color" content="#0b2b63">
+<link rel="apple-touch-icon" href="icone-app-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Síndico">
+<script>
+  // escopo travado só nesta página: sem isso, colidiria com o service worker
+  // do player (que fica na raiz "/") e poderia substituir o cache offline dele.
+  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw-sindico.js', { scope: '/sindico.html' }).catch(() => {});
+</script>
 <style>
   :root{
     --bg:#eef1f5; --card:#fff; --ink:#182635; --ink-dim:#5b6b7c;
