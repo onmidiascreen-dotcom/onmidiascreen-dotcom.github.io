@@ -17,11 +17,15 @@
       },
       "telas": [
         {
-          "id": "infinity-1",
-          "nome": "Elevador 1"
+          "id": "teste",
+          "nome": "CASA"
         },
         {
           "id": "infinity-2",
+          "nome": "Elevador 1"
+        },
+        {
+          "id": "infinity-3",
           "nome": "Elevador 2"
         }
       ],
