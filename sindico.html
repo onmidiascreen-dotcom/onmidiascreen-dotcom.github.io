@@ -107,6 +107,24 @@
   </header>
 
   <div class="wrap">
+    <div class="sechead"><h2>Preferências da tela</h2></div>
+    <div class="card">
+      <div class="row"><div class="field"><label>Fonte das notícias</label>
+        <select id="prefFonte">
+          <option value="">Padrão do sistema</option>
+          <option value="g1">G1</option>
+          <option value="uol">UOL</option>
+          <option value="cnn">CNN Brasil</option>
+        </select>
+      </div></div>
+      <div class="row" style="gap:22px;align-items:center">
+        <label style="display:flex;align-items:center;gap:8px;font-size:.92rem;cursor:pointer">
+          <input type="checkbox" id="prefNoticias" style="width:auto"> Mostrar notícias</label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:.92rem;cursor:pointer">
+          <input type="checkbox" id="prefCuriosidades" style="width:auto"> Mostrar curiosidades e dicas</label>
+      </div>
+    </div>
+
     <div class="sechead"><h2>Avisos no ar</h2><button class="add" id="add">+ Novo aviso</button></div>
     <p class="ajuda">Os avisos aparecem em rodízio na parte de baixo da tela. Depois de salvar, levam até 5 minutos para entrar no ar.</p>
     <div id="lista"></div>
@@ -190,11 +208,18 @@
     const dados = await api('/comunicados');
     comunicados = dados.comunicados || [];
     $('predio').textContent = dados.predio || '';
+    const pref = dados.preferencias || {};
+    $('prefFonte').value = pref.fonteNoticias || '';
+    $('prefNoticias').checked = pref.exibirNoticias !== false;
+    $('prefCuriosidades').checked = pref.exibirCuriosidades !== false;
     $('login').classList.add('hide');
     $('app').classList.remove('hide');
     render();
     marcarSalvo();
   }
+  $('prefFonte').addEventListener('change', marcarMudou);
+  $('prefNoticias').addEventListener('change', marcarMudou);
+  $('prefCuriosidades').addEventListener('change', marcarMudou);
 
   // ---------- lista ----------
   function render() {
@@ -292,7 +317,12 @@
   $('salvar').addEventListener('click', async () => {
     $('salvar').disabled = true; $('salvar').textContent = 'Salvando…';
     try {
-      await api('/comunicados', { method: 'PUT', body: JSON.stringify({ comunicados }) });
+      const preferencias = {
+        fonteNoticias: $('prefFonte').value,
+        exibirNoticias: $('prefNoticias').checked,
+        exibirCuriosidades: $('prefCuriosidades').checked
+      };
+      await api('/comunicados', { method: 'PUT', body: JSON.stringify({ comunicados, preferencias }) });
       marcarSalvo();
       toast('Publicado! As telas atualizam em até 5 minutos.');
     } catch (e) {

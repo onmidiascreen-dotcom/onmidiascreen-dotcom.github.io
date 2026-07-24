@@ -344,10 +344,16 @@
     const progress = document.getElementById('progress');
     media.querySelectorAll('.ad').forEach(el => el.remove());
     // só os anúncios vendidos para ESTE prédio; e ignora vídeo/imagem sem arquivo (senão trava em branco)
-    const pid = (predioAtual() || {}).id;
-    ads = (cfg.anuncios || [])
+    const p = predioAtual() || {};
+    const pid = p.id;
+    // "Mostrar propagandas" é opção SÓ do dono (nunca do síndico — é conteúdo pago).
+    // Desligada, ou sem nenhum anúncio vendido pro prédio: mostra um cartão neutro
+    // com o nome do prédio em vez de deixar 60% da tela em branco.
+    const lista = p.exibirAnuncios === false ? [] : (cfg.anuncios || [])
       .filter(a => anuncioNesteP(a, pid))
-      .filter(a => !((a.tipo === 'video' || a.tipo === 'imagem') && !a.url)).map(a => {
+      .filter(a => !((a.tipo === 'video' || a.tipo === 'imagem') && !a.url));
+    const fonte = lista.length ? lista : [{ cor: 'azul', titulo: p.nome || 'OnScreen' }];
+    ads = fonte.map(a => {
       const d = document.createElement('div');
       let video = null;
       if (a.tipo === 'video') {
@@ -601,18 +607,34 @@
     return (Date.now() - noticiaGeradaEm) > limite * 3600e3 ? [] : noticiasLista;
   }
 
+  // esconde a faixa quando não há nada pra mostrar — sem isso ela ficaria "congelada"
+  // exibindo o último texto (podendo ser justamente a notícia velha que a regra
+  // de frescor tentou esconder), quando o síndico desliga curiosidades e a
+  // notícia também está velha ao mesmo tempo.
+  function atualizarVisibilidadeFaixa() {
+    const band = document.getElementById('newsband');
+    if (band) band.style.display = rotacao.length ? '' : 'none';
+  }
+
   // mistura notícias e curiosidades de forma espalhada (proporcional), pra sempre ter variedade —
   // e se estiver offline sem notícia guardada, roda só as curiosidades (nunca fica "parado/velho")
+  // "Mostrar curiosidades e dicas" é opção do síndico E do dono (não tem custo/anunciante
+  // envolvido, diferente de propaganda).
   function montarRotacao() {
-    const news = noticiasFrescas(), cur = EXTRAS;
-    if (!news.length) { rotacao = cur.slice(); return; }
-    if (!cur.length) { rotacao = news.slice(); return; }
+    const p = predioAtual();
+    const news = noticiasFrescas();
+    const cur = (p && p.exibirCuriosidades === false) ? [] : EXTRAS;
+    if (!news.length && !cur.length) { rotacao = []; atualizarVisibilidadeFaixa(); return; }
+    if (!news.length) { rotacao = cur.slice(); atualizarVisibilidadeFaixa(); girarNoticia(); return; }
+    if (!cur.length) { rotacao = news.slice(); atualizarVisibilidadeFaixa(); girarNoticia(); return; }
     const out = []; let ni = 0, ci = 0;
     while (ni < news.length || ci < cur.length) {
       if (ni < news.length && (ci >= cur.length || ni * cur.length <= ci * news.length)) out.push(news[ni++]);
       else out.push(cur[ci++]);
     }
     rotacao = out;
+    atualizarVisibilidadeFaixa();
+    girarNoticia();
   }
   function girarNoticia() {
     if (!rotacao.length) return;
@@ -623,11 +645,36 @@
     document.getElementById('nbTitle').textContent = n.titulo;
     ajustarFaixaNoticias(); // a etiqueta muda de largura (Notícias/Você sabia?), recalcula o corte diagonal
   }
+  // cada prédio pode ter sua própria fonte (o síndico ou o dono escolhem);
+  // sem preferência própria, usa o padrão do sistema (Configurações do dono)
+  const FONTES_VALIDAS = ['g1', 'uol', 'cnn'];
+  function fonteNoticiasAtual() {
+    const p = predioAtual();
+    const f = (p && p.fonteNoticias) || (cfg && cfg.fonteNoticias) || 'uol';
+    return FONTES_VALIDAS.includes(f) ? f : 'uol';
+  }
+
+  function iniciarGiroNoticias() {
+    if (!newsTimer) {
+      girarNoticia();
+      newsTimer = setInterval(girarNoticia, ((cfg && cfg.duracaoNoticiaSegundos) || 8) * 1000);
+    }
+  }
+
   async function atualizarNoticias() {
+    const p = predioAtual();
+    // "Mostrar notícias" é opção do síndico e do dono. Desligada, nem busca —
+    // economiza dado e evita guardar no cache um arquivo que não vai usar.
+    if (p && p.exibirNoticias === false) {
+      noticiasLista = []; noticiaGeradaEm = null;
+      montarRotacao(); iniciarGiroNoticias();
+      return;
+    }
+    const fonte = fonteNoticiasAtual();
     // guarda também QUANDO as manchetes foram geradas: manchete velha na tela é o
     // que denuncia que a internet caiu. Formato antigo (só a lista) segue valendo,
     // para não quebrar tela que ligar com cache anterior a esta versão.
-    const v = await buscar('noticias', 'noticias.json?v=' + Date.now(),
+    const v = await buscar('noticias-' + fonte, 'noticias-' + fonte + '.json?v=' + Date.now(),
       (j) => ({ noticias: j.noticias || [], atualizadoEm: j.atualizadoEm || null }));
     const lista = Array.isArray(v) ? v : ((v && v.noticias) || []);
     const em = (v && !Array.isArray(v) && v.atualizadoEm) ? Date.parse(v.atualizadoEm) : NaN;
@@ -635,10 +682,7 @@
     noticiasLista = lista.map((n) => (typeof n === 'string' ? { titulo: n } : n))
       .map((n) => ({ ...n, rotulo: 'Notícias', cor: '#e0632c' })).slice(0, 24);
     montarRotacao();
-    if (!newsTimer) {
-      girarNoticia();
-      newsTimer = setInterval(girarNoticia, ((cfg && cfg.duracaoNoticiaSegundos) || 8) * 1000);
-    }
+    iniciarGiroNoticias();
   }
 
   // ---------- inicialização e ciclos de atualização ----------

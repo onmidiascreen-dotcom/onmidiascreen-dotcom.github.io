@@ -404,6 +404,30 @@
         '<div class="field"><label>Longitude</label><input class="f-lon" type="number" step="0.01" placeholder="-51.42"></div>' +
       '</div>' +
       '<div style="margin-top:16px;padding-top:14px;border-top:1px solid var(--line)">' +
+        '<div class="foot" style="margin:0 0 10px"><b>📰 Conteúdo desta tela</b></div>' +
+        '<div class="row">' +
+          '<div class="field"><label>Fonte das notícias</label>' +
+            '<select class="f-fonte">' +
+              '<option value="">Padrão do sistema</option>' +
+              '<option value="g1">G1</option>' +
+              '<option value="uol">UOL</option>' +
+              '<option value="cnn">CNN Brasil</option>' +
+            '</select>' +
+          '</div>' +
+        '</div>' +
+        '<div class="row" style="gap:22px;align-items:center">' +
+          '<label style="display:flex;align-items:center;gap:8px;font-size:.92rem;cursor:pointer">' +
+            '<input type="checkbox" class="f-not" style="width:auto"> Mostrar notícias</label>' +
+          '<label style="display:flex;align-items:center;gap:8px;font-size:.92rem;cursor:pointer">' +
+            '<input type="checkbox" class="f-cur" style="width:auto"> Mostrar curiosidades e dicas</label>' +
+        '</div>' +
+        '<div class="row">' +
+          '<label style="display:flex;align-items:center;gap:8px;font-size:.92rem;cursor:pointer;background:#fff7e6;padding:9px 13px;border-radius:9px;border:1px solid #f0d896;width:100%">' +
+            '<input type="checkbox" class="f-anun" style="width:auto"> Mostrar propagandas ' +
+            '<span style="color:var(--ink-dim);font-weight:400">— só você controla, o síndico não vê nem mexe nesta opção</span></label>' +
+        '</div>' +
+      '</div>' +
+      '<div style="margin-top:16px;padding-top:14px;border-top:1px solid var(--line)">' +
         '<div class="foot" style="margin:0 0 10px"><b>📺 Telas deste prédio</b><button class="addtela">+ Nova tela</button></div>' +
         '<div class="telas"></div>' +
       '</div>';
@@ -416,6 +440,19 @@
     c.querySelector('.f-cid').addEventListener('input', (e) => { p.cidade.nome = e.target.value; marcarMudou(); });
     c.querySelector('.f-lat').addEventListener('input', (e) => { p.cidade.lat = +e.target.value; marcarMudou(); });
     c.querySelector('.f-lon').addEventListener('input', (e) => { p.cidade.lon = +e.target.value; marcarMudou(); });
+
+    c.querySelector('.f-fonte').value = p.fonteNoticias || '';
+    c.querySelector('.f-not').checked = p.exibirNoticias !== false;
+    c.querySelector('.f-cur').checked = p.exibirCuriosidades !== false;
+    c.querySelector('.f-anun').checked = p.exibirAnuncios !== false;
+    c.querySelector('.f-fonte').addEventListener('change', (e) => {
+      const v = e.target.value;
+      if (v) p.fonteNoticias = v; else delete p.fonteNoticias;
+      marcarMudou();
+    });
+    c.querySelector('.f-not').addEventListener('change', (e) => { p.exibirNoticias = e.target.checked; marcarMudou(); });
+    c.querySelector('.f-cur').addEventListener('change', (e) => { p.exibirCuriosidades = e.target.checked; marcarMudou(); });
+    c.querySelector('.f-anun').addEventListener('change', (e) => { p.exibirAnuncios = e.target.checked; marcarMudou(); });
 
     const box = c.querySelector('.telas');
     function desenharTelas() {

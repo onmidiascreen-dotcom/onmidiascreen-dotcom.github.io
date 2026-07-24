@@ -135,6 +135,22 @@ function limparComunicados(lista) {
   });
 }
 
+const FONTES_VALIDAS = ['g1', 'uol', 'cnn'];
+
+// Preferências de exibição do síndico: notícias, curiosidades e a fonte das notícias.
+// "exibirAnuncios" de propósito NÃO tem entrada aqui — mesmo que alguém injete esse
+// campo no corpo da requisição, ele é ignorado (allowlist, não blocklist).
+function limparPreferencias(p) {
+  if (!p || typeof p !== 'object') return {};
+  const limpo = {};
+  if (typeof p.exibirNoticias === 'boolean') limpo.exibirNoticias = p.exibirNoticias;
+  if (typeof p.exibirCuriosidades === 'boolean') limpo.exibirCuriosidades = p.exibirCuriosidades;
+  if (typeof p.fonteNoticias === 'string') {
+    if (p.fonteNoticias === '' || FONTES_VALIDAS.includes(p.fonteNoticias)) limpo.fonteNoticias = p.fonteNoticias;
+  }
+  return limpo;
+}
+
 // apaga cartazes que ninguém usa mais (a memória não cresce à toa)
 async function limparCartazesOrfaos(env, usados) {
   const r = await fetch(GH + 'comunicados', { headers: ghHeaders(env) });
@@ -300,18 +316,36 @@ async function tratar(req, env) {
         const { cfg } = await lerConfig(env);
         normalizarCfg(cfg);
         const p = cfg.predios[indicePredio(cfg, env)] || { nome: '', comunicados: [] };
-        return json({ predio: p.nome || '', comunicados: p.comunicados || [] });
+        return json({
+          predio: p.nome || '',
+          comunicados: p.comunicados || [],
+          // "exibirAnuncios" de propósito NUNCA aparece aqui — propaganda é conteúdo
+          // pago, o síndico não pode nem ver essa opção, só o dono (painel próprio).
+          preferencias: {
+            exibirNoticias: p.exibirNoticias !== false,
+            exibirCuriosidades: p.exibirCuriosidades !== false,
+            fonteNoticias: p.fonteNoticias || ''
+          }
+        });
       }
 
       if (rota === '/comunicados' && req.method === 'PUT') {
         const body = await req.json();
         const comunicados = limparComunicados(body.comunicados);
+        const preferencias = limparPreferencias(body.preferencias);
         const { cfg, sha } = await lerConfig(env);
         normalizarCfg(cfg);
         const i = indicePredio(cfg, env);
         if (!cfg.predios[i]) return json({ erro: 'Prédio não encontrado.' }, 400);
-        // só os comunicados DESTE prédio mudam. Propagandas e os outros prédios ficam intactos.
+        // só os comunicados e as preferências DESTE prédio mudam. Propagandas,
+        // outros prédios, e principalmente "exibirAnuncios" ficam intocáveis.
         cfg.predios[i].comunicados = comunicados;
+        if ('exibirNoticias' in preferencias) cfg.predios[i].exibirNoticias = preferencias.exibirNoticias;
+        if ('exibirCuriosidades' in preferencias) cfg.predios[i].exibirCuriosidades = preferencias.exibirCuriosidades;
+        if ('fonteNoticias' in preferencias) {
+          if (preferencias.fonteNoticias) cfg.predios[i].fonteNoticias = preferencias.fonteNoticias;
+          else delete cfg.predios[i].fonteNoticias; // vazio = volta a usar o padrão do sistema
+        }
         const r = await fetch(GH + 'config.json', {
           method: 'PUT', headers: ghHeaders(env),
           body: JSON.stringify({

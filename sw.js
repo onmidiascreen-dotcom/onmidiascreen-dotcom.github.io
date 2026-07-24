@@ -3,6 +3,10 @@
 // O player mora em /tela/. A landing (raiz), o painel e o síndico NÃO passam por aqui.
 const CACHE = 'onscreen-v8';
 const SHELL = ['/tela/', '/tela/index.html', '/manifest.json'];
+// cada prédio pode ter sua própria fonte de notícias (noticias-g1.json,
+// noticias-uol.json, noticias-cnn.json); /noticias.json continua valendo
+// como alias do padrão do sistema, para não quebrar telas com cache antigo.
+const ehArquivoDeNoticias = (path) => /^\/noticias(-[a-z0-9]+)?\.json$/.test(path);
 
 // o player pede para guardar vídeos/imagens na memória enquanto tem internet,
 // para que rodem mesmo depois que a internet cair
@@ -58,7 +62,7 @@ self.addEventListener('fetch', (e) => {
   const doPlayer = ehMidia
     || url.pathname.startsWith('/tela/')
     || url.pathname === '/config.json'
-    || url.pathname === '/noticias.json'
+    || ehArquivoDeNoticias(url.pathname)
     || url.pathname === '/manifest.json'
     || /^\/(anuncios|comunicados)\//.test(url.pathname);
   if (!doPlayer) return;
@@ -99,7 +103,7 @@ self.addEventListener('fetch', (e) => {
   }
 
   // dados (config/notícias): tenta rede, senão usa a cópia salva
-  if (url.pathname.endsWith('config.json') || url.pathname.endsWith('noticias.json')) {
+  if (url.pathname.endsWith('config.json') || ehArquivoDeNoticias(url.pathname)) {
     e.respondWith(
       fetch(e.request).then((r) => {
         const cp = r.clone();
