@@ -1,0 +1,9 @@
+{
+  "name": "onscreen-player",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Player de midia em elevadores + porteiro (worker) e monitoramento",
+  "devDependencies": {
+    "wrangler": "^4.114.0"
+  }
+}
