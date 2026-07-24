@@ -33,6 +33,8 @@
           "nome": "Elevador 3"
         }
       ],
+      "exibirNoticias": false,
+      "exibirCuriosidades": false,
       "comunicados": [
         {
           "titulo": "Assembleia geral — 15/07, 19h",
