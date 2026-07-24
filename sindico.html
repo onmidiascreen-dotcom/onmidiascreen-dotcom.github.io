@@ -81,7 +81,7 @@
   .hide{display:none!important}
   .toast{position:fixed;left:50%;bottom:80px;transform:translateX(-50%);background:var(--ink);color:#fff;padding:12px 20px;border-radius:10px;font-size:.92rem;z-index:40;opacity:0;transition:opacity .3s;pointer-events:none}
   .toast.on{opacity:1}
-  .toast.erro{background:var(--danger)}
+  .toast.erro{background:var(--danger);pointer-events:auto;cursor:pointer}
 </style>
 </head>
 <body>
@@ -103,6 +103,7 @@
       <div class="logo">On<span>Screen</span></div>
       <div class="predio" id="predio"></div>
     </div>
+    <button id="atualizar" title="Recarrega a página (útil se algo não salvar)">↻ Atualizar</button>
     <button id="sair">Sair</button>
   </header>
 
@@ -148,8 +149,13 @@
 
   const $ = (id) => document.getElementById(id);
   function toast(msg, erro) {
-    const t = $('toast'); t.textContent = msg; t.className = 'toast on' + (erro ? ' erro' : '');
-    setTimeout(() => { t.className = 'toast' + (erro ? ' erro' : ''); }, 3200);
+    const t = $('toast');
+    // erro fica na tela até o síndico tocar — some sozinho é fácil de não perceber
+    // e ele pode achar que salvou quando na verdade falhou
+    t.textContent = msg + (erro ? ' (toque para fechar)' : '');
+    t.className = 'toast on' + (erro ? ' erro' : '');
+    t.onclick = erro ? () => { t.className = 'toast'; } : null;
+    if (!erro) setTimeout(() => { t.className = 'toast'; }, 3200);
   }
   function travar() {
     if (enviando > 0) { $('salvar').disabled = true; $('estado').textContent = 'Enviando cartaz… aguarde'; $('estado').classList.add('mud'); }
@@ -202,6 +208,12 @@
   $('sair').addEventListener('click', () => {
     if (mudou && !confirm('Você tem alterações não salvas. Sair mesmo assim?')) return;
     sair();
+  });
+  // recarrega a página inteira: pega um crachá novo se o antigo tiver expirado,
+  // em vez de deixar o síndico salvando com uma sessão morta sem perceber.
+  $('atualizar').addEventListener('click', () => {
+    if (mudou && !confirm('Você tem alterações não salvas. Atualizar mesmo assim?')) return;
+    location.reload();
   });
 
   async function abrir() {
