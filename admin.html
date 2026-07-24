@@ -93,7 +93,7 @@
   .hide{display:none!important}
   .toast{position:fixed;left:50%;bottom:80px;transform:translateX(-50%);background:var(--ink);color:#fff;padding:12px 20px;border-radius:10px;font-size:.92rem;z-index:40;opacity:0;transition:opacity .3s;pointer-events:none}
   .toast.on{opacity:1}
-  .toast.erro{background:var(--danger)}
+  .toast.erro{background:var(--danger);pointer-events:auto;cursor:pointer}
 </style>
 </head>
 <body>
@@ -242,8 +242,13 @@
 
   const $ = (id) => document.getElementById(id);
   function toast(msg, erro) {
-    const t = $('toast'); t.textContent = msg; t.className = 'toast on' + (erro ? ' erro' : '');
-    setTimeout(() => { t.className = 'toast' + (erro ? ' erro' : ''); }, 3000);
+    const t = $('toast');
+    // erro fica na tela até tocar — some sozinho é fácil de não perceber
+    // e dá a impressão de que salvou quando na verdade falhou
+    t.textContent = msg + (erro ? ' (toque para fechar)' : '');
+    t.className = 'toast on' + (erro ? ' erro' : '');
+    t.onclick = erro ? () => { t.className = 'toast'; } : null;
+    if (!erro) setTimeout(() => { t.className = 'toast'; }, 3000);
   }
   function marcarMudou() {
     mudou = true;
