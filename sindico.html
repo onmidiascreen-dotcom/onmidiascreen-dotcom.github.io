@@ -144,7 +144,7 @@
   const PORTEIRO = 'https://onscreen-sindico.onmidiascreen.workers.dev';
 
   let cracha = sessionStorage.getItem('onscreen_sindico') || '';
-  let comunicados = [], mudou = false, enviando = 0;
+  let comunicados = [], mudou = false, enviando = 0, contagemId = null;
 
   const $ = (id) => document.getElementById(id);
   function toast(msg, erro) {
@@ -160,8 +160,29 @@
     if (enviando > 0) { $('salvar').disabled = true; $('estado').textContent = 'Enviando cartaz… aguarde'; $('estado').classList.add('mud'); }
     else if (mudou) { $('salvar').disabled = false; $('estado').textContent = 'Alterações não salvas'; }
   }
-  function marcarMudou() { mudou = true; $('estado').textContent = 'Alterações não salvas'; $('estado').classList.add('mud'); $('salvar').disabled = enviando > 0; }
+  function marcarMudou() {
+    clearInterval(contagemId); contagemId = null; // nova edição corta a contagem em andamento
+    mudou = true; $('estado').textContent = 'Alterações não salvas'; $('estado').classList.add('mud'); $('salvar').disabled = enviando > 0;
+  }
   function marcarSalvo() { mudou = false; $('estado').textContent = 'Tudo salvo'; $('estado').classList.remove('mud'); $('salvar').disabled = true; }
+
+  // depois de publicar, mostra quanto falta pra tela pegar a novidade (a tela busca
+  // a cada 5 min; "até" porque pode já estar bem no meio do próprio ciclo dela)
+  function iniciarContagem() {
+    clearInterval(contagemId);
+    mudou = false; $('estado').classList.remove('mud'); $('salvar').disabled = true;
+    let restam = 5 * 60;
+    const mostrar = () => {
+      const m = Math.floor(restam / 60), s = String(restam % 60).padStart(2, '0');
+      $('estado').textContent = 'No ar em até ' + m + ':' + s;
+    };
+    mostrar();
+    contagemId = setInterval(() => {
+      restam--;
+      if (restam <= 0) { clearInterval(contagemId); contagemId = null; marcarSalvo(); return; }
+      mostrar();
+    }, 1000);
+  }
 
   async function api(rota, opts) {
     const r = await fetch(PORTEIRO + rota, Object.assign({
@@ -328,7 +349,7 @@
         exibirCuriosidades: $('prefCuriosidades').checked
       };
       await api('/comunicados', { method: 'PUT', body: JSON.stringify({ comunicados, preferencias }) });
-      marcarSalvo();
+      iniciarContagem();
       toast('Publicado! As telas atualizam em até 5 minutos.');
     } catch (e) {
       toast('Não consegui salvar: ' + e.message, true);
