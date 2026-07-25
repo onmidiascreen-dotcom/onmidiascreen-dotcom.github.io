@@ -82,6 +82,10 @@
   .toast{position:fixed;left:50%;bottom:80px;transform:translateX(-50%);background:var(--ink);color:#fff;padding:12px 20px;border-radius:10px;font-size:.92rem;z-index:40;opacity:0;transition:opacity .3s;pointer-events:none}
   .toast.on{opacity:1}
   .toast.erro{background:var(--danger);pointer-events:auto;cursor:pointer}
+
+  /* puxar para atualizar (como nos apps): aparece ao arrastar o topo pra baixo */
+  .puxar{position:fixed;left:0;right:0;top:0;display:flex;align-items:center;justify-content:center;
+    height:0;overflow:hidden;background:var(--blue-deep);color:#fff;font-size:.85rem;z-index:30}
 </style>
 </head>
 <body>
@@ -137,6 +141,7 @@
   </div>
 </div>
 
+<div class="puxar" id="puxar"></div>
 <div class="toast" id="toast"></div>
 
 <script>
@@ -144,7 +149,7 @@
   // endereço do "porteiro" no Cloudflare
   const PORTEIRO = 'https://onscreen-sindico.onmidiascreen.workers.dev';
   // aparece no rodapé: serve para saber, à distância, qual versão o app está rodando
-  const VERSAO = '25/07-a';
+  const VERSAO = '25/07-b';
 
   let cracha = sessionStorage.getItem('onscreen_sindico') || '';
   let comunicados = [], mudou = false, enviando = 0, contagemId = null;
@@ -358,7 +363,7 @@
       if (salvo.exibirNoticias !== preferencias.exibirNoticias
         || salvo.exibirCuriosidades !== preferencias.exibirCuriosidades
         || (salvo.fonteNoticias || '') !== preferencias.fonteNoticias) {
-        throw new Error('o servidor não gravou as preferências. Feche e abra o app para atualizá-lo.');
+        throw new Error('os avisos foram salvos, mas as opções de notícias não. Avise o suporte da OnScreen.');
       }
       iniciarContagem();
       toast('Publicado! As telas atualizam em até 5 minutos.');
@@ -382,6 +387,39 @@
     if (document.hidden) { escondidoEm = Date.now(); return; }
     if (mudou) return;                                   // nunca por cima de alteração não salva
     if (!escondidoEm || Date.now() - escondidoEm < 30 * 60 * 1000) return;
+    location.reload();
+  });
+
+  // ---------- puxar para atualizar ----------
+  // No app instalado não existe barra de endereço nem botão de recarregar. Arrastar
+  // o topo pra baixo é o gesto que todo mundo já conhece de outros apps.
+  const LIMITE = 70; // quanto precisa arrastar para valer
+  let inicioY = 0, puxando = false;
+  const faixa = $('puxar');
+  function alturaFaixa(px, texto) {
+    faixa.style.height = px + 'px';
+    faixa.textContent = texto;
+  }
+  document.addEventListener('touchstart', (e) => {
+    if (window.scrollY > 0 || e.touches.length !== 1) { puxando = false; return; }
+    inicioY = e.touches[0].clientY;
+    puxando = true;
+  }, { passive: true });
+  document.addEventListener('touchmove', (e) => {
+    if (!puxando) return;
+    const dist = e.touches[0].clientY - inicioY;
+    if (dist <= 0 || window.scrollY > 0) { alturaFaixa(0, ''); return; }
+    // acompanha o dedo com resistência, para não parecer que a tela "descolou"
+    const altura = Math.min(dist / 2, 60);
+    alturaFaixa(altura, dist >= LIMITE ? 'Solte para atualizar' : 'Puxe para atualizar');
+  }, { passive: true });
+  document.addEventListener('touchend', (e) => {
+    if (!puxando) return;
+    puxando = false;
+    const dist = (e.changedTouches[0] ? e.changedTouches[0].clientY : 0) - inicioY;
+    if (dist < LIMITE) { alturaFaixa(0, ''); return; }
+    if (mudou) { alturaFaixa(0, ''); toast('Salve suas alterações antes de atualizar.', true); return; }
+    alturaFaixa(40, 'Atualizando…');
     location.reload();
   });
 
