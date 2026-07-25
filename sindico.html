@@ -128,6 +128,7 @@
     <div class="sechead"><h2>Avisos no ar</h2><button class="add" id="add">+ Novo aviso</button></div>
     <p class="ajuda">Os avisos aparecem em rodízio na parte de baixo da tela. Depois de salvar, levam até 5 minutos para entrar no ar.</p>
     <div id="lista"></div>
+    <p class="ajuda" style="text-align:center;margin-top:22px;opacity:.6">versão <span id="versao">—</span></p>
   </div>
 
   <div class="savebar">
@@ -142,6 +143,8 @@
 (() => {
   // endereço do "porteiro" no Cloudflare
   const PORTEIRO = 'https://onscreen-sindico.onmidiascreen.workers.dev';
+  // aparece no rodapé: serve para saber, à distância, qual versão o app está rodando
+  const VERSAO = '25/07-a';
 
   let cracha = sessionStorage.getItem('onscreen_sindico') || '';
   let comunicados = [], mudou = false, enviando = 0, contagemId = null;
@@ -349,6 +352,14 @@
         exibirCuriosidades: $('prefCuriosidades').checked
       };
       await api('/comunicados', { method: 'PUT', body: JSON.stringify({ comunicados, preferencias }) });
+      // confere se o servidor realmente gravou o que mandamos. Já aconteceu de um app
+      // antigo salvar "com sucesso" sem enviar as preferências — e ninguém perceber.
+      const salvo = (await api('/comunicados')).preferencias || {};
+      if (salvo.exibirNoticias !== preferencias.exibirNoticias
+        || salvo.exibirCuriosidades !== preferencias.exibirCuriosidades
+        || (salvo.fonteNoticias || '') !== preferencias.fonteNoticias) {
+        throw new Error('o servidor não gravou as preferências. Feche e abra o app para atualizá-lo.');
+      }
       iniciarContagem();
       toast('Publicado! As telas atualizam em até 5 minutos.');
     } catch (e) {
@@ -359,6 +370,20 @@
   });
 
   window.addEventListener('beforeunload', (e) => { if (mudou) { e.preventDefault(); e.returnValue = ''; } });
+
+  // ---------- auto-atualização ----------
+  // Um app instalado no celular não recarrega ao ser reaberto: o Android só "acorda"
+  // a página que ficou na memória, às vezes de semanas atrás. Uma versão antiga daqui
+  // não sabe enviar as preferências novas — o síndico salva, vê "Publicado!", e nada
+  // muda de verdade. Por isso, ao voltar pro app depois de um tempo parado, recarrega.
+  $('versao').textContent = VERSAO;
+  let escondidoEm = 0;
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) { escondidoEm = Date.now(); return; }
+    if (mudou) return;                                   // nunca por cima de alteração não salva
+    if (!escondidoEm || Date.now() - escondidoEm < 30 * 60 * 1000) return;
+    location.reload();
+  });
 
   if (cracha) abrir().catch(sair);
 })();
