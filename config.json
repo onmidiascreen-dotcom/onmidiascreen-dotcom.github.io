@@ -58,16 +58,14 @@
   ],
   "anuncios": [
     {
-      "tipo": "video",
+      "tipo": "imagem",
       "tag": "",
       "titulo": "Novo anúncio",
       "texto": "",
       "rodape": "",
       "cor": "azul",
-      "predios": [
-        "infinity"
-      ],
-      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1785171511/yr77j0sot7jywnaj8l9x.mp4"
+      "predios": [],
+      "url": "anuncios/1785172624743-Madetec_-_Aparador_Estoril_-_Calacata_e_Off_White_-_Ambiente_-_E-Commerce.jpg"
     }
   ]
 }
