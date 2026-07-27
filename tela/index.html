@@ -10,8 +10,15 @@
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icone.svg" type="image/svg+xml">
 <meta name="theme-color" content="#111b2b">
+<!-- O Android/WebView (e o Fully Kiosk) tem "modo escuro forçado": ele inverte
+     sozinho qualquer página clara. Numa tela de prédio isso arruína o layout —
+     o comunicado branco vira preto e a letra escura vira branca, sem ninguém
+     ter pedido. Estas duas linhas dizem "esta página só existe em claro", e o
+     sistema para de inverter. -->
+<meta name="color-scheme" content="only light">
 <style>
   :root{
+    color-scheme: only light;
     --bar:#111b2b; --bar-text:#f2f5fa;
     --blue:#1f7ae0; --blue-deep:#0d3f80;
     --ink:#182635; --ink-dim:#5b6b7c; --line:#dde3ea;
