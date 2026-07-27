@@ -64,8 +64,10 @@
       "texto": "",
       "rodape": "",
       "cor": "azul",
-      "predios": [],
-      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1784119059/ymq6nq7yzxeywrx8xuyo.mp4"
+      "predios": [
+        "infinity"
+      ],
+      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1785171511/yr77j0sot7jywnaj8l9x.mp4"
     }
   ]
 }
