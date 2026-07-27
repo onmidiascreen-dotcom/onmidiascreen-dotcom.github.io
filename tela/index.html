@@ -720,11 +720,24 @@
   // tentativa falha em silêncio e o player segue rodando normalmente.
   const PORTEIRO = 'https://onscreen-sindico.onmidiascreen.workers.dev';
   const abertoEm = Date.now();
+  // Falhas seguidas de sinal, estando a tela com internet, indicam sessão estragada
+  // (aconteceu: 3 dias sem sinal com o player rodando normal e "Conectado" na tela).
+  // Nesse caso ela se recarrega — no máximo 1x por hora, para não virar um laço.
+  let falhasSinal = 0;
+  function tentarSeRecuperar() {
+    if (!onlineOk) return;            // sem internet não é problema de sessão: é a rede
+    if (falhasSinal < 3) return;      // 3 falhas = 30 min sem conseguir avisar
+    const ultima = Number(localStorage.getItem('os_recarga_sinal')) || 0;
+    if (Date.now() - ultima < 60 * 60 * 1000) return;
+    localStorage.setItem('os_recarga_sinal', String(Date.now()));
+    location.reload();
+  }
+
   async function mandarSinal() {
     if (!TELA_ID) return; // tela sem código: nada a identificar
     const p = predioAtual();
     try {
-      await fetch(PORTEIRO + '/ping', {
+      const resp = await fetch(PORTEIRO + '/ping', {
         method: 'POST', headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           tela: TELA_ID,
@@ -742,7 +755,18 @@
           }
         })
       });
-    } catch (e) { /* sem rede: tenta de novo no próximo ciclo */ }
+      // fetch não lança erro em 400/401/500: sem conferir isto, uma recusa do
+      // servidor passaria por sucesso e o sinal sumiria sem deixar rastro.
+      if (!resp.ok) throw new Error('HTTP ' + resp.status);
+      falhasSinal = 0;
+      erroDiagnostico = '';
+    } catch (e) {
+      falhasSinal++;
+      // guarda o motivo para viajar no próximo sinal que der certo — sem isto a
+      // falha fica invisível e só aparece como "tela offline" dias depois.
+      erroDiagnostico = 'sinal falhou (' + falhasSinal + 'x): ' + (e.message || 'sem rede');
+      tentarSeRecuperar();
+    }
   }
   mandarSinal();
   setInterval(mandarSinal, 10 * 60 * 1000);          // sinal de vida: a cada 10 min
