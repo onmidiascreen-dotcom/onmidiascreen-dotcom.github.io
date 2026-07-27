@@ -734,6 +734,21 @@
   setInterval(atualizarClima, 30 * 60 * 1000);       // clima: a cada 30 min
   // recarrega a página de madrugada para limpar memória e pegar novidades
   setInterval(() => { const h = new Date().getHours(); if (h === 4) location.reload() }, 55 * 60 * 1000);
+
+  // ---------- a rede voltou: corre atrás do atraso ----------
+  // Sem isto a tela só descobre que voltou a ter internet no próximo ciclo (5 min),
+  // e o monitoramento só ficaria verde depois de até 10. No elevador, onde o Wi-Fi
+  // cai e volta o tempo todo, isso é a diferença entre "atualiza na hora" e
+  // "some da lista sem motivo". Espera 3s porque a rede costuma vir instável.
+  let religando = null;
+  window.addEventListener('online', () => {
+    clearTimeout(religando); // várias quedas seguidas não viram várias buscas
+    religando = setTimeout(() => {
+      atualizarConfig();
+      atualizarNoticias();
+      mandarSinal();      // avisa o monitoramento na hora, sem esperar os 10 min
+    }, 3000);
+  });
 })();
 </script>
 </body>
