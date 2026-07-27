@@ -17,20 +17,16 @@
       },
       "telas": [
         {
-          "id": "teste",
+          "id": "infinity-1",
           "nome": "CASA"
         },
         {
-          "id": "infinity-1",
-          "nome": "CASA (teste)"
-        },
-        {
           "id": "infinity-2",
-          "nome": "Elevador 2"
+          "nome": "Elevador 1"
         },
         {
           "id": "infinity-3",
-          "nome": "Elevador 3"
+          "nome": "Elevador 2"
         }
       ],
       "exibirNoticias": false,
