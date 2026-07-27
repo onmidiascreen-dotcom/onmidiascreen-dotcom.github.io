@@ -789,6 +789,27 @@
     }
     return id + ' (tela não cadastrada)';
   }
+  const telaCadastrada = (id) =>
+    (cfg.predios || []).some((p) => (p.telas || []).some((t) => t.id === id));
+
+  // tira da lista um código que não é mais de nenhuma tela (teste antigo, aparelho
+  // aposentado, código trocado). Não desliga nada: se o aparelho ainda estiver vivo,
+  // ele reaparece no próximo sinal — por isso o aviso é claro sobre isso.
+  async function removerDoMonitor(tela) {
+    if (!confirm('Tirar o código “' + tela + '” da lista de monitoramento?\n\n'
+      + 'Se ainda existir um aparelho ligado com esse código, ele volta a aparecer sozinho.')) return;
+    try {
+      const r = await fetch(PORTEIRO_MON + '/monitor?tela=' + encodeURIComponent(tela), {
+        method: 'DELETE', headers: { Authorization: 'Bearer ' + monTok() }
+      });
+      const j = await r.json().catch(() => ({}));
+      if (!r.ok) throw new Error(j.erro || ('erro ' + r.status));
+      toast('Tirei da lista.');
+      verMonitor();
+    } catch (e) {
+      toast('Não consegui remover: ' + e.message, true);
+    }
+  }
 
   async function verMonitor() {
     const alvo = $('monLista');
@@ -811,7 +832,11 @@
         const rotulo = ok ? 'No ar' : (q.min <= 180 ? 'Sem sinal recente' : 'FORA DO AR');
         const d = t.dados || {};
         const notIdade = d.noticiaEm ? haQuantoTempo(d.noticiaEm).txt : '—';
-        return '<div style="border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:10px">'
+        // código que não está em nenhum prédio: sobra de tela antiga/teste. Avisa
+        // que dá para tirar da lista, senão fica vermelho pra sempre sem motivo.
+        const orfa = !telaCadastrada(t.tela);
+        return '<div style="border:1px solid ' + (orfa ? '#f0d896' : 'var(--line)') + ';border-radius:10px;padding:12px 14px;margin-bottom:10px'
+          +   (orfa ? ';background:#fffdf5' : '') + '">'
           + '<div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">'
           +   '<span style="width:10px;height:10px;border-radius:50%;background:' + cor + ';flex:none"></span>'
           +   '<b>' + nomeDaTela(t.tela) + '</b>'
@@ -824,8 +849,17 @@
           +   ' · notícias: ' + (d.noticias ?? '—') + ' (geradas ' + notIdade + ')'
           +   (d.online === false ? ' · <b style="color:#e0632c">a tela estava sem internet</b>' : '')
           +   (d.erro ? ' · <b style="color:#d62828">erro: ' + d.erro + '</b>' : '')
-          + '</div></div>';
+          + '</div>'
+          + (orfa
+              ? '<div style="margin-top:10px;display:flex;align-items:center;gap:10px;flex-wrap:wrap">'
+                + '<span style="font-size:.82rem;color:#8a6d1f">Este código não pertence a nenhuma tela cadastrada.</span>'
+                + '<button class="remove monRemover" data-tela="' + t.tela + '">Tirar da lista</button>'
+                + '</div>'
+              : '')
+          + '</div>';
       }).join('');
+
+      alvo.querySelectorAll('.monRemover').forEach((b) => b.addEventListener('click', () => removerDoMonitor(b.dataset.tela)));
     } catch (e) {
       alvo.innerHTML = '<p style="color:#d62828">Não consegui consultar: ' + e.message + '</p>';
     }

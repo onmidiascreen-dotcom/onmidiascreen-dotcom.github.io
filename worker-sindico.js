@@ -34,7 +34,7 @@ function cors(resp, origem) {
   resp.headers.set('Access-Control-Allow-Origin', origem);
   resp.headers.set('Vary', 'Origin');
   resp.headers.set('Access-Control-Allow-Headers', 'Content-Type, Authorization');
-  resp.headers.set('Access-Control-Allow-Methods', 'GET, POST, PUT, OPTIONS');
+  resp.headers.set('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
   return resp;
 }
 // o CORS é aplicado uma vez só, no fim da requisição (assim json() não precisa saber da origem)
@@ -295,6 +295,23 @@ async function tratar(req, env) {
             dados: JSON.parse(r.dados || '{}')
           }))
         });
+      }
+
+      // tira uma tela da lista do monitoramento. Serve para códigos que saíram de uso
+      // (tela trocada de nome, aparelho aposentado, teste antigo): senão o painel do
+      // dono enche de linha vermelha de tela que nem existe mais e vira ruído.
+      // Se o aparelho ainda estiver vivo, ele volta pra lista no próximo sinal.
+      if (rota === '/monitor' && req.method === 'DELETE') {
+        if (!env.DB) return json({ erro: 'Monitoramento não configurado.' }, 501);
+        if (!ehDono(req, env)) return json({ erro: 'Token do monitoramento inválido.' }, 401);
+        const tela = new URL(req.url).searchParams.get('tela') || '';
+        if (!idValido(tela)) return json({ erro: 'Tela inválida.' }, 400);
+        await prepararBanco(env);
+        await env.DB.batch([
+          env.DB.prepare('DELETE FROM sinais WHERE tela = ?').bind(tela),
+          env.DB.prepare('DELETE FROM capturas WHERE tela = ?').bind(tela)
+        ]);
+        return json({ ok: true, removida: tela });
       }
 
       // fotos de uma tela (pesadas, por isso separadas do /monitor)
