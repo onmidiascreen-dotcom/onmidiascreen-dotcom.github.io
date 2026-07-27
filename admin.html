@@ -807,7 +807,14 @@
       toast('Tirei da lista.');
       verMonitor();
     } catch (e) {
-      toast('Não consegui remover: ' + e.message, true);
+      // "Failed to fetch" = o navegador nem chegou a enviar. Na prática isso quer
+      // dizer que o porteiro no Cloudflare está numa versão que ainda não conhece
+      // esta operação — o site publica sozinho, ele não. Sem esta tradução, a
+      // mensagem crua não diz o que fazer.
+      const naoSaiu = e instanceof TypeError || /failed to fetch|networkerror|load failed/i.test(e.message || '');
+      toast(naoSaiu
+        ? 'O porteiro do Cloudflare está desatualizado: rode o ATUALIZAR-PAINEL-DO-SINDICO.cmd e tente de novo.'
+        : 'Não consegui remover: ' + e.message, true);
     }
   }
 
