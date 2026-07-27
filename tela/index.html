@@ -233,10 +233,14 @@
   // O ?versao= faz o service worker deixar passar direto pra rede; sem isso ele
   // devolveria a cópia guardada e nada seria detectado.
   let assinaturaApp = null;
+  let erroDiagnostico = '';   // vai junto no sinal de vida: falha silenciosa aqui é cega
   async function conferirVersaoApp() {
     try {
+      // 'tela/index.html' e não 'index.html': existe <base href="/"> no topo desta
+      // página, então todo caminho relativo parte da raiz do site — não da pasta /tela/.
       const r = await fetch('tela/index.html?versao=' + Date.now(), { cache: 'no-store' });
-      if (!r.ok) return;
+      if (!r.ok) { erroDiagnostico = 'checagem de versao: HTTP ' + r.status; return; }
+      erroDiagnostico = '';
       const txt = await r.text();
       let h = 0;
       for (let i = 0; i < txt.length; i++) h = (h * 31 + txt.charCodeAt(i)) | 0;
@@ -249,7 +253,11 @@
     } catch (e) { /* offline: segue rodando da memória */ }
   }
   conferirVersaoApp();
-  setInterval(conferirVersaoApp, 20 * 60 * 1000);
+  // A cada 5 min, e não 20: a primeira checagem só anota a "impressão digital" atual,
+  // então quem manda é a SEGUNDA. Com 20 min, uma melhoria levava até 30 min pra
+  // chegar na tela (10 de cache do GitHub + 20 de espera) — o dobro do tempo que
+  // comunicado e configuração levam. Agora empata com eles: ~15 min no pior caso.
+  setInterval(conferirVersaoApp, 5 * 60 * 1000);
 
   // ---------- orientação: gira 90° quando a tela está "deitada" ----------
   // padrão automático; força com ?girar=1 ou desliga com ?girar=0 no endereço
@@ -722,7 +730,8 @@
             noticiaEm: noticiaGeradaEm || null,
             sincronizadoEm: ultimaSincronizacao || null,
             ligadaHa: Math.round((Date.now() - abertoEm) / 60000),
-            telaTam: window.innerWidth + 'x' + window.innerHeight
+            telaTam: window.innerWidth + 'x' + window.innerHeight,
+            erro: erroDiagnostico   // aparece em vermelho no painel do dono
           }
         })
       });
