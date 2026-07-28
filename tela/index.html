@@ -321,7 +321,7 @@
 
   // ---------- configuração (prédios + telas + anúncios + comunicados) ----------
   let cfg = null, adTimer = null, noticeTimer = null;
-  let ads = [], curAd = 0;
+  let ads = [], curAd = 0, assinaturaAnuncios = '';
 
   // Cada aparelho abre com ?tela=<id> (ex.: ?tela=infinity-1). Sem parâmetro, usa o 1º prédio —
   // é o que mantém as telas já instaladas funcionando sem precisar mexer nelas.
@@ -351,6 +351,16 @@
     return ps[0]; // padrão: primeiro prédio
   }
 
+  // Descobre se o anúncio é vídeo ou imagem pelo ARQUIVO, não pelo rótulo salvo.
+  // Sem isso, um tipo trocado sem querer no painel some com a propaganda na tela.
+  const EXT_VIDEO = /\.(mp4|webm|mov|m4v|ogv)(\?|$)/i;
+  const EXT_IMAGEM = /\.(jpe?g|png|webp|gif|avif|svg)(\?|$)/i;
+  function formatoDoAnuncio(a) {
+    if (a.url && EXT_VIDEO.test(a.url)) return 'video';
+    if (a.url && EXT_IMAGEM.test(a.url)) return 'imagem';
+    return a.tipo || 'texto'; // sem arquivo (anúncio de texto) ou extensão desconhecida
+  }
+
   // um anúncio sem lista de prédios (ou com lista vazia) aparece em TODOS os prédios
   function anuncioNesteP(a, pid) {
     if (!a.predios || !a.predios.length) return true;
@@ -360,7 +370,6 @@
   function renderAnuncios() {
     const media = document.getElementById('media');
     const progress = document.getElementById('progress');
-    media.querySelectorAll('.ad').forEach(el => el.remove());
     // só os anúncios vendidos para ESTE prédio; e ignora vídeo/imagem sem arquivo (senão trava em branco)
     const p = predioAtual() || {};
     const pid = p.id;
@@ -371,10 +380,25 @@
       .filter(a => anuncioNesteP(a, pid))
       .filter(a => !((a.tipo === 'video' || a.tipo === 'imagem') && !a.url));
     const fonte = lista.length ? lista : [{ cor: 'azul', titulo: p.nome || 'OnScreen' }];
+
+    // Se as propagandas são exatamente as mesmas, não reconstrói nada. Sem isto,
+    // QUALQUER mudança no config (o síndico publicando um aviso, por exemplo)
+    // recriava os vídeos e a rotação voltava pro primeiro — na tela dá a impressão
+    // de propaganda repetida, porque o mesmo vídeo entra de novo fora da vez.
+    const assinatura = JSON.stringify(fonte);
+    if (assinatura === assinaturaAnuncios && ads.length) return;
+    assinaturaAnuncios = assinatura;
+
+    media.querySelectorAll('.ad').forEach(el => el.remove());
     ads = fonte.map(a => {
       const d = document.createElement('div');
       let video = null;
-      if (a.tipo === 'video') {
+      // O arquivo manda, não o rótulo. No painel dá pra trocar o tipo do anúncio
+      // sem trocar o arquivo, e aí um .mp4 marcado como "imagem" virava <img> que
+      // não carrega: propaganda paga exibida como quadro em branco no elevador,
+      // sem erro nenhum em lugar nenhum. Aconteceu com 2 dos 4 anúncios.
+      const formato = formatoDoAnuncio(a);
+      if (formato === 'video') {
         d.className = 'ad video';
         // disableremoteplayback tira o botão de transmitir (Chromecast) que o Chrome
         // desenha sozinho sobre o vídeo quando enxerga um dispositivo na rede
@@ -383,7 +407,7 @@
         video.muted = true;
         video.disableRemotePlayback = true;
         if (a.url) video.src = a.url;
-      } else if (a.tipo === 'imagem') {
+      } else if (formato === 'imagem') {
         d.className = 'ad img';
         d.innerHTML = '<img alt="">';
         const im = d.querySelector('img');

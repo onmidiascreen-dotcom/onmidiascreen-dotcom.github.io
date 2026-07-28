@@ -233,6 +233,9 @@
   // vídeos vão para o Cloudinary (não entopem o GitHub). preset "onscreen" é sem assinatura.
   const CLOUD_NAME = 'tblvjjkt';
   const UPLOAD_PRESET = 'onscreen';
+  // o arquivo decide se o anúncio é vídeo ou imagem (mesma regra do player)
+  const EXT_VIDEO = /\.(mp4|webm|mov|m4v|ogv)(\?|$)/i;
+  const EXT_IMAGEM = /\.(jpe?g|png|webp|gif|avif|svg)(\?|$)/i;
   const CORES = ['verde','dourado','azul','claro'];
   const CORES_HEX = { verde:'#1f7a45', dourado:'#a06b1e', azul:'#1d3e7e', claro:'#e7ebf0' };
 
@@ -320,6 +323,14 @@
   // config) para a lista de prédios, sem perder nada.
   function normalizar() {
     cfg.anuncios = cfg.anuncios || [];
+    // O tipo do anúncio segue o ARQUIVO. Dá pra trocar o tipo no cartão sem trocar o
+    // arquivo, e aí um .mp4 marcado como "imagem" some da tela (vira <img> que não
+    // carrega, sem erro visível). Corrige o rótulo ao abrir o painel.
+    cfg.anuncios.forEach((a) => {
+      if (!a.url) return;
+      if (EXT_VIDEO.test(a.url)) a.tipo = 'video';
+      else if (EXT_IMAGEM.test(a.url)) a.tipo = 'imagem';
+    });
     if (!Array.isArray(cfg.predios)) {
       cfg.predios = [{
         id: 'principal',
@@ -635,7 +646,18 @@
     desenhar();
 
     c.querySelectorAll('.tipo button').forEach((b) => b.addEventListener('click', () => {
-      a.tipo = b.dataset.t;
+      const novo = b.dataset.t;
+      // trocar o tipo mantendo o arquivo antigo cria um anúncio quebrado (um .mp4
+      // exibido como imagem não carrega e vira quadro em branco no elevador).
+      // Se o arquivo não serve pro tipo novo, ele sai e o cartão pede outro.
+      const incompativel = a.url && (
+        (novo === 'imagem' && EXT_VIDEO.test(a.url)) ||
+        (novo === 'video' && EXT_IMAGEM.test(a.url))
+      );
+      if (incompativel && !confirm('Este anúncio tem um arquivo que não serve para "' + novo + '".\n\n'
+        + 'Trocar o tipo vai remover o arquivo atual e você precisará enviar outro. Continuar?')) return;
+      if (incompativel) { agendarApagar(a.url); delete a.url; }
+      a.tipo = novo;
       c.querySelectorAll('.tipo button').forEach((x) => x.classList.remove('on'));
       b.classList.add('on');
       desenhar(); marcarMudou();
