@@ -54,8 +54,8 @@
   ],
   "anuncios": [
     {
-      "tipo": "video",
-      "tag": "",
+      "tipo": "imagem",
+      "tag": "LJ Anuncio 1",
       "titulo": "Novo anúncio",
       "texto": "",
       "rodape": "",
@@ -66,8 +66,8 @@
       "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1785257932/kiaoxjggj0wxgv7w4tfw.mp4"
     },
     {
-      "tipo": "video",
-      "tag": "",
+      "tipo": "imagem",
+      "tag": "Vale Verde 1",
       "titulo": "Novo anúncio",
       "texto": "",
       "rodape": "",
@@ -79,7 +79,7 @@
     },
     {
       "tipo": "video",
-      "tag": "",
+      "tag": "Vale Verde 2",
       "titulo": "Novo anúncio",
       "texto": "",
       "rodape": "",
@@ -91,7 +91,7 @@
     },
     {
       "tipo": "video",
-      "tag": "",
+      "tag": "LJ 2",
       "titulo": "Novo anúncio",
       "texto": "",
       "rodape": "",
