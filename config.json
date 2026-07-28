@@ -54,7 +54,7 @@
   ],
   "anuncios": [
     {
-      "tipo": "imagem",
+      "tipo": "video",
       "tag": "LJ Anuncio 1",
       "titulo": "Novo anúncio",
       "texto": "",
@@ -64,30 +64,6 @@
         "infinity"
       ],
       "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1785257932/kiaoxjggj0wxgv7w4tfw.mp4"
-    },
-    {
-      "tipo": "imagem",
-      "tag": "Vale Verde 1",
-      "titulo": "Novo anúncio",
-      "texto": "",
-      "rodape": "",
-      "cor": "azul",
-      "predios": [
-        "infinity"
-      ],
-      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1785258556/casyzm1j6elsnizoxepe.mp4"
-    },
-    {
-      "tipo": "video",
-      "tag": "Vale Verde 2",
-      "titulo": "Novo anúncio",
-      "texto": "",
-      "rodape": "",
-      "cor": "azul",
-      "predios": [
-        "infinity"
-      ],
-      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1785258569/fjokpprvsu5y18cba1uu.mp4"
     },
     {
       "tipo": "video",
@@ -100,6 +76,16 @@
         "infinity"
       ],
       "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1785258748/sw4mz4wdtudqutnbz4ag.mp4"
+    },
+    {
+      "tipo": "video",
+      "tag": "Vale Verde 2 em 1",
+      "titulo": "Novo anúncio",
+      "texto": "",
+      "rodape": "",
+      "cor": "azul",
+      "predios": [],
+      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1785260558/iekcded0qfkmrl1k4lml.mp4"
     }
   ]
 }
