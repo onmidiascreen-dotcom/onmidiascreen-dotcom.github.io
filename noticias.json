@@ -1,6 +1,102 @@
 {
   "noticias": [
     {
+      "titulo": "Economia das relações: como transformar networking em negócios reais",
+      "imagem": null
+    },
+    {
+      "titulo": "Ensina Brasil abre inscrições para trainee focado em liderança e educação",
+      "imagem": null
+    },
+    {
+      "titulo": "Avião da TAP de Lisboa para Curitiba tem emergência por despressurização",
+      "imagem": null
+    },
+    {
+      "titulo": "Eleitores no exterior estão definindo eleições na América Latina",
+      "imagem": null
+    },
+    {
+      "titulo": "EUA e Irã têm noite sem ataques após Trump retirar ameaças",
+      "imagem": null
+    },
+    {
+      "titulo": "Príncipe herdeiro da Arábia Saudita pediu redução da tensão para Trump",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja como funcionam as eleições de Israel e quem pode substituir Netanyahu",
+      "imagem": null
+    },
+    {
+      "titulo": "5 hábitos que fortalecem o vínculo entre pais e filhos em apenas 15 minutos",
+      "imagem": null
+    },
+    {
+      "titulo": "George Santos faz acordo de US$ 35 mil por irregularidade em apostas",
+      "imagem": null
+    },
+    {
+      "titulo": "Cartão de crédito para CNPJ: como funciona, quem pode ter e como solicitar?",
+      "imagem": null
+    },
+    {
+      "titulo": "Juventus-SP x Primavera: horário e onde assistir à Copa Paulista",
+      "imagem": null
+    },
+    {
+      "titulo": "PT oficializa candidatura de Lula à reeleição ao Planalto neste domingo (2)",
+      "imagem": null
+    },
+    {
+      "titulo": "Oitavas de final da Copa do Brasil segue neste domingo (2); veja agenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Transplante não é única solução para calvície; entenda com Dr. Kalil",
+      "imagem": null
+    },
+    {
+      "titulo": "Internacional x Corinthians: onde assistir ao jogo da Copa do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Fúria&#8221; terá 2ª temporada? Elenco comenta",
+      "imagem": null
+    },
+    {
+      "titulo": "Hospitais do Equador sofrem com escassez de materiais médicos",
+      "imagem": null
+    },
+    {
+      "titulo": "Fungo que transforma formigas em &#8220;zumbis&#8221; é detectado em musgos",
+      "imagem": null
+    },
+    {
+      "titulo": "Truth Social lança plano de acesso especial às publicações para empresas",
+      "imagem": null
+    },
+    {
+      "titulo": "Palmeiras x Fortaleza: horário e onde assistir à Copa do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Chefs Week: almoço especial celebra amizade entre Portugal e Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Mirassol x Grêmio: horário e onde assistir à Copa do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Chapecoense x Cruzeiro: horário e onde assistir à Copa do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "STF retoma trabalhos com uberização, jogos de azar e eleição no RJ na pauta",
+      "imagem": null
+    },
+    {
       "titulo": "O que são sementes piratas e sementes salvas? Entenda",
       "imagem": null
     },
@@ -23,103 +119,7 @@
     {
       "titulo": "Pressão financeira amplia risco de pirataria de sementes no agro",
       "imagem": null
-    },
-    {
-      "titulo": "O que se sabe sobre falsificação da assinatura de Ana Hickmann em dívida",
-      "imagem": null
-    },
-    {
-      "titulo": "Fator nuclear é &#8220;grande impedimento&#8221; para nova guerra global, diz professor",
-      "imagem": null
-    },
-    {
-      "titulo": "INSS, Dataprev: o que dizem as investigações sobre Lulinha",
-      "imagem": null
-    },
-    {
-      "titulo": "Incêndios provocam evacuações e quedas de energia no estado de Washington",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Nós amamos Jair Messias Bolsonaro&#8221;, diz Tarcísio em convenção em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Santo André x São José: horário e onde assistir à Copa Paulista",
-      "imagem": null
-    },
-    {
-      "titulo": "Anvisa suspende uso e venda de dispositivos médicos após inspeção",
-      "imagem": null
-    },
-    {
-      "titulo": "PP-RS indica vice de Zucco e defende aliança nacional com Flávio",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump cancela ataque ao Irã após pedido para fechar acordo",
-      "imagem": null
-    },
-    {
-      "titulo": "Casemiro faz gol contra em empate do Inter Miami na MLS; veja",
-      "imagem": null
-    },
-    {
-      "titulo": "Republicanos deve oficializar Cleitinho ao governo de MG na segunda (3)",
-      "imagem": null
-    },
-    {
-      "titulo": "Com atuação discreta de Neymar, Santos empata com o Remo na Copa do Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Renan Santos: &#8220;Nenhum estado terá mais Bolsa Família que trabalho formal&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Marina Sena se emociona e chora em show no João Rock; veja apresentações",
-      "imagem": null
-    },
-    {
-      "titulo": "Como acessar a plataforma de livros PNLD Digital",
-      "imagem": null
-    },
-    {
-      "titulo": "Moraes autoriza visita de cunhada de Bolsonaro durante ausência de Michelle",
-      "imagem": null
-    },
-    {
-      "titulo": "Em meio a cerco de Moraes, PL volta a usar vídeo de Bolsonaro em convenção",
-      "imagem": null
-    },
-    {
-      "titulo": "STJD concede efeito suspensivo para zagueiro do Inter que lesionou Pec",
-      "imagem": null
-    },
-    {
-      "titulo": "Atlético-MG não fura defesa do Juventude e empata na Copa do Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Assessoria de Ana Maria Braga nega internação: &#8220;Está em casa muito bem&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Justiça decreta prisão preventiva de PM réu pela morte de Marco Aurélio",
-      "imagem": null
-    },
-    {
-      "titulo": "João Campos cita legado do pai ao lançar candidatura ao governo de PE",
-      "imagem": null
-    },
-    {
-      "titulo": "João Fonseca pode ter ex-top 3 na estreia em Montreal",
-      "imagem": null
-    },
-    {
-      "titulo": "Ex-São Paulo é morto a tiros por engano aos 15 anos; clube lamenta",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-02T07:53:23.511Z"
+  "atualizadoEm": "2026-08-02T11:45:12.492Z"
 }
