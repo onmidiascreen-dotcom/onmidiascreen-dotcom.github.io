@@ -1,125 +1,125 @@
 {
   "noticias": [
     {
+      "titulo": "Análise: Batalha contra Fauci mostra que os EUA ainda não superaram a Covid",
+      "imagem": null
+    },
+    {
+      "titulo": "CNT defende avançar em hidrovias consensuais e ampliar diálogo indígena",
+      "imagem": null
+    },
+    {
+      "titulo": "CNN anuncia sabatinas com candidatos aos governos estaduais",
+      "imagem": null
+    },
+    {
+      "titulo": "Demanda por probióticos impulsiona estratégia da Novonesis",
+      "imagem": null
+    },
+    {
+      "titulo": "Abelardo de la Espriella assume presidência da Colômbia nesta sexta (7)",
+      "imagem": null
+    },
+    {
+      "titulo": "Taxação chinesa preocupa mais logística que tarifaço dos EUA, diz CNT",
+      "imagem": null
+    },
+    {
+      "titulo": "Revo aposta em eVTOLs da Embraer e planeja expansão global",
+      "imagem": null
+    },
+    {
+      "titulo": "Ampliar refino de combustíveis reduzirá dependência externa, diz CNT",
+      "imagem": null
+    },
+    {
+      "titulo": "Jon Batiste sugere participação de Ingrid Silva no Rock in Rio; saiba mais",
+      "imagem": null
+    },
+    {
+      "titulo": "Entraves ambientais e falta de investimento travam avanço da infraestrutura",
+      "imagem": null
+    },
+    {
+      "titulo": "Qual presente mais combina com o seu pai? Astrologia indica opções ideais",
+      "imagem": null
+    },
+    {
+      "titulo": "Defesa Civil emite novo alerta para ventos e chuva forte no Rio de Janeiro",
+      "imagem": null
+    },
+    {
+      "titulo": "“Pumas Tropicais”: regiões do agro crescem acima da China, aponta Abag",
+      "imagem": null
+    },
+    {
+      "titulo": "Médico que liderou reposta à Covid nos EUA é acusado de desacato; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;A Última Casa&#8221; une Wagner Moura e Greta Lee em suspense e drama familiar",
+      "imagem": null
+    },
+    {
+      "titulo": "China já é o principal fornecedor de carros eletrificados para o Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Fies convoca estudantes da lista de espera nesta sexta (7); saiba mais",
+      "imagem": null
+    },
+    {
+      "titulo": "Ceará x Ponte Preta: horário e onde assistir ao Brasileirão Série B",
+      "imagem": null
+    },
+    {
+      "titulo": "Após recompra da Tyson, Vibra Foods aposta em produtos de valor agregado",
+      "imagem": null
+    },
+    {
+      "titulo": "Carros autônomos são seguros? Acidente fatal reacende debate",
+      "imagem": null
+    },
+    {
+      "titulo": "Operário x São Bernardo: horário e onde assistir ao Brasileirão Série B",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja os próximos passos do processo contra Marco Buzzi até a perda de cargo",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump diz que Fauci pode ter cometido crimes e defende possível processo",
+      "imagem": null
+    },
+    {
+      "titulo": "Estudo vê abismo entre empresas e funcionários na desconexão pós-expediente",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasil registra recorde de medidas protetivas nos 20 anos da Maria da Penha",
+      "imagem": null
+    },
+    {
+      "titulo": "Ciclone bomba está sendo impulsado pelo El Niño? Veja explicação",
+      "imagem": null
+    },
+    {
+      "titulo": "Yara e Bananas Corrêa lançam projeto para descarbonizar banana",
+      "imagem": null
+    },
+    {
       "titulo": "Flávio promete acabar com taxa de 12% sobre exportação de petróleo",
       "imagem": null
     },
     {
-      "titulo": "Estudante mata professor durante ataque a tiros em escola na Tailândia",
+      "titulo": "Ataque a tiros em escola na Tailândia deixa ao menos seis mortos",
       "imagem": null
     },
     {
       "titulo": "Fernando Diniz é direto sobre renovação do Memphis Depay com Corinthians",
       "imagem": null
-    },
-    {
-      "titulo": "STF é convergência entre todos os conflitos da República, diz Gabiati",
-      "imagem": null
-    },
-    {
-      "titulo": "Com queda do Corinthians, Cruzeiro mantém marca única na Copa do Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Inter volta às quartas da Copa do Brasil após 6 anos",
-      "imagem": null
-    },
-    {
-      "titulo": "Desgaste eleitoral envolvendo Gaspar foi previsto pelo PL, diz Dominium",
-      "imagem": null
-    },
-    {
-      "titulo": "Especialista: Baixa no estoque de armas americanas não começou com o Irã",
-      "imagem": null
-    },
-    {
-      "titulo": "UERJ suspende atividades após previsão de ventos acima de 90 km/h",
-      "imagem": null
-    },
-    {
-      "titulo": "Craque Neto desabafa após queda do Corinthians: “Perder para time ruim”",
-      "imagem": null
-    },
-    {
-      "titulo": "Jaylen Brown é apresentado pelo Philadelphia 76ers: &#8220;Meu foco é vencer&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Inter provoca o Corinthians após vaga na Copa do Brasil: &#8220;Acesso negado&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Vitória 4 x 0 Athletico-PR: veja os melhores momentos pela Copa do Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Promotor de Justiça do Amapá é demitido por corrupção eleitoral",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja quem são os indiciados por acidente da Voepass em Vinhedo (SP)",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem atira durante briga com entregadores e leva &#8216;capacetada&#8217; em pizzaria",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Estrelas da Casa&#8221; anuncia 1ª leva de candidatos para votação do público",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: Trump crê que baixa no estoque de munições o enfraquece para o Irã",
-      "imagem": null
-    },
-    {
-      "titulo": "Ciclone bomba: aulas são suspensas após previsão de ventania no Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Argentina declara apoio a Infantino após polêmicas na Fifa",
-      "imagem": null
-    },
-    {
-      "titulo": "Kleber Mendonça Filho anuncia trabalho com diretor concorrente no Oscar",
-      "imagem": null
-    },
-    {
-      "titulo": "Sete dos quadrifinalistas já venceram Copa do Brasil; Vitória é exceção",
-      "imagem": null
-    },
-    {
-      "titulo": "PetroReconcavo tem lucro líquido de R$ 202,6 milhões no 2º trimestre",
-      "imagem": null
-    },
-    {
-      "titulo": "Quanto o Corinthians deixou de ganhar com eliminação na Copa do Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Bruna Biancardi vai à 25 de Março fazer compras para arraial",
-      "imagem": null
-    },
-    {
-      "titulo": "Gaab anuncia saída das redes após críticas à perda de peso: &#8220;Me irritei&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem é Anthony Fauci, médico acusado de desacato pelo Congresso dos EUA?",
-      "imagem": null
-    },
-    {
-      "titulo": "Boca Juniors anuncia contratação de destaque da Copa de 2022",
-      "imagem": null
-    },
-    {
-      "titulo": "EUA anunciam medidas para competir com China em energia solar e chips",
-      "imagem": null
-    },
-    {
-      "titulo": "Inter elimina o Corinthians, que dá adeus ao sonho do bi da Copa do Brasil",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-07T06:00:32.548Z"
+  "atualizadoEm": "2026-08-07T09:40:52.029Z"
 }
