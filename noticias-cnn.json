@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Remo e Atlético-MG empatam em duelo movimentado pelo Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "ONS descarta plano emergencial de cortar excesso de energia no Dia dos Pais",
+      "imagem": null
+    },
+    {
+      "titulo": "Milei republica postagem com críticas a Lula",
+      "imagem": null
+    },
+    {
       "titulo": "Sete pessoas morrem e uma fica em estado grave após acidente em MG",
       "imagem": null
     },
@@ -107,19 +119,7 @@
     {
       "titulo": "Análise: Arábia Saudita busca apoio de potências muçulmanas contra o Irã",
       "imagem": null
-    },
-    {
-      "titulo": "Grêmio vira sobre o São Paulo e empurra o Inter para o Z4 do Brasileiro",
-      "imagem": null
-    },
-    {
-      "titulo": "Athletic x Criciúma: horário e onde assistir ao Brasileirão Série B",
-      "imagem": null
-    },
-    {
-      "titulo": "Cruzeiro x Mirassol: horário e onde assistir ao Brasileirão Série A",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-08T23:24:19.139Z"
+  "atualizadoEm": "2026-08-08T23:53:56.540Z"
 }
