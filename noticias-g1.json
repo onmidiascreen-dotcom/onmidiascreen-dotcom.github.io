@@ -1,11 +1,83 @@
 {
   "noticias": [
     {
+      "titulo": "Empresa responsável por helicóptero que caiu no Rio diz que aeronave estava com documentação e manutenção em dia",
+      "imagem": "https://s2-g1.glbimg.com/4-9YTQZGz8PmFWIICDykqt2GM80=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/t/8k9m3vSfuWzZfAJDLHvw/whatsapp-image-2026-08-08-at-14.32.33.jpeg"
+    },
+    {
+      "titulo": "Homem considerado foragido desde 2021 é preso em Teresina; condenado por roubo",
+      "imagem": "https://s2-g1.glbimg.com/G1F4D89M-sfKP3wPG4iyLWMhtNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/A/0LQdzuSsqQu97jYEcfmg/edicao-imagens-g1-82-.png"
+    },
+    {
+      "titulo": "Ronda Maria da Penha acompanha mulheres com medidas protetivas em Roraima",
+      "imagem": "https://s2-g1.glbimg.com/_Cijf9fL0kpC_ycPBjkyGJIWcqs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/8/rZQkxYSSyLylWhya7JBQ/img-0388-1-.jpg"
+    },
+    {
+      "titulo": "Incêndio florestal impede equipes de resgate de chegar a local de queda de helicóptero em Utah",
+      "imagem": "https://s2-g1.glbimg.com/I3bDZ6aYLCwRq3DKyHocIPyvodo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/3/AyjprUSiKA4RLIVajsNg/ap26219766371487.jpg"
+    },
+    {
+      "titulo": "Cemitérios de Manaus funcionam das 6h às 18h no Dia dos Pais",
+      "imagem": "https://s2-g1.glbimg.com/GLgndOxrhXuWCEYcpo9SbNnXp6s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/M/BAsaPJSAaRzpRhzkExvQ/cemiterios-manaus.jpg"
+    },
+    {
+      "titulo": "Homem é preso após quebrar móveis e agredir companheira na frente dos filhos no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/mFFmJWFnB2y57U7OIMqg7HXv2jQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/V/4sKxbBRLKhXAWWLc6o3A/violencia-domestica-1-.jpg"
+    },
+    {
+      "titulo": "EPTV 2 Campinas ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "EPTV 2 Piracicaba ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "Sete pessoas morrem após carro que fugia da PRF na BR-251 bater de frente com outro automóvel",
+      "imagem": "https://s2-g1.glbimg.com/53sWwkebytMe526x1vnJrYTZ1r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/j/J0rQ4yTQqEGajcepApEw/whatsapp-image-2026-08-08-at-18.12.52.jpeg"
+    },
+    {
+      "titulo": "Homem é baleado e dois suspeitos são presos após ação policial em Salvador",
+      "imagem": "https://s2-g1.glbimg.com/d9O5tDcx6DJJJ1mIljnJE18rzxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/z/fQcim5RCiH0Oj7E90XLw/hgrs-fachada-nova-foto-carol-garcia-govba-2-.jpg"
+    },
+    {
+      "titulo": "Homem suspeito de roubo morre após confronto com a polícia em Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/5BF4I8R_WRYe-6V2NIlgNHeBgmg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/s/RkWYuYQUuQIfIQrN2ufw/para-o-g1-83-.jpg"
+    },
+    {
+      "titulo": "Idoso de 91 anos é encontrado morto no Rio Parnaíba, em Teresina",
+      "imagem": "https://s2-g1.glbimg.com/OK2YCCY8qjbn-60C3ilqjl67RZA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/w/y3KBKgRRy4YruyfwbsPw/edicao-imagens-g1-81-.png"
+    },
+    {
+      "titulo": "Projeto Cidadão abre 100 vagas para casamento coletivo em Feijó; Veja documentos",
+      "imagem": "https://s2-g1.glbimg.com/IxtSbLqoix5uX2nnA222QhW556g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/3/D/kL0O6BS6e5TUoBRJivJg/whatsapp-image-2024-08-03-at-19.57.52-scaled.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 1ª edição deste sábado, 8 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/Ha_0G15aF8-69CWxufACcnrVRoA=/s01.video.glbimg.com/deo/vi/67/24/14852467"
+    },
+    {
+      "titulo": "Cidades do ES recebem alerta amarelo de vendaval neste domingo; rajadas podem chegar a 60 km/h",
+      "imagem": "https://s2-g1.glbimg.com/ijRJANccgUPzOrIshmVAyUpMsAg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/V/KOvg2ARWaeW4fW5sZ3Cw/thumb-fotos-2026-08-08t180132.261.jpg"
+    },
+    {
+      "titulo": "Preso foge de hospital durante atendimento médico em Barra Mansa",
+      "imagem": "https://s2-g1.glbimg.com/L4sBz-ZWOw4hSVdzyMlUDjtbUdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/c/DblDQgQq25W6WQhuIIqQ/whatsapp-image-2025-07-26-at-11.25.36.jpeg"
+    },
+    {
+      "titulo": "Nevasca deixa caminhoneiro brasileiro retido há quase duas semanas na fronteira entre Argentina e Chile",
+      "imagem": "https://s2-g1.glbimg.com/HTqDJaxK8bG32A4X8BroPr6AmwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/I/i4NlEyTfS4rETLvH93dg/3-5-.jpg"
+    },
+    {
+      "titulo": "Supermercado é flagrado com 'gato de água' em Cabo Frio",
+      "imagem": "https://s2-g1.glbimg.com/mB5HLsRbmdBBuKl4qpeX9_JFDVw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/E/QAeC6XQhmetvAeAlBRXg/gato-agua.jpg"
+    },
+    {
       "titulo": "Homem fica gravemente ferido após ser atropelado por moto na Via Dutra, em Resende",
       "imagem": null
     },
     {
-      "titulo": "Anitta reage à polêmica sobre fãs vestidos de orixás em shows: ‘Se não tiver desrespeitando ninguém, tudo bem’",
+      "titulo": "Anitta reage à polêmica sobre fãs vestidos de orixás em shows: ‘Se não estiver desrespeitando ninguém, tudo bem’",
       "imagem": "https://s2-g1.glbimg.com/bg_N1A8NwVYpKgQbTCboQZnMbrw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/r/rkR0vIT2m1t2ne2xohxQ/fotos-g1-1920-x-1080-px-2026-08-08t175213.446.png"
     },
     {
@@ -29,7 +101,7 @@
       "imagem": "https://s2-g1.glbimg.com/K4LMhaI6acfzJPPgefrZfR30b-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/d/uQkJYoSPWs5BKjBMAMRQ/design-sem-nome-7-.png"
     },
     {
-      "titulo": "Prefeitura de Belém entrega novo abrigo para indígenas Warao",
+      "titulo": "Após multa de R$ 1 milhão por descumprir decisão sobre acolhimento de indígenas Warao, Belém entrega novo abrigo",
       "imagem": "https://s2-g1.glbimg.com/oObcuhFD7yGO9lrFT2JC3lFwdmo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/1uFf5KSLSBxqB4G2AAOA/warao1.jpg"
     },
     {
@@ -45,81 +117,9 @@
       "imagem": "https://s2-g1.glbimg.com/PnnGS0BAqCIcIc8nkRlyKK2C3Jo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/X/EJIjAZT9W6zmTY8zBeWQ/moto-caida.jpg"
     },
     {
-      "titulo": "Açude particular se rompe, inunda trecho de rodovia e provoca interrupção do tráfego em SP",
+      "titulo": "Açude se rompe, inunda trecho de rodovia e provoca interrupção do tráfego no interior de SP",
       "imagem": "https://s2-g1.glbimg.com/BhaQvY-QjgYtv8oK-2IwmqR4hR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/K/6UNt0nToKoTIoUGHnuvw/captura-de-tela-2026-08-08-174332.jpg"
-    },
-    {
-      "titulo": "Homem morre e quatro pessoas ficam feridas em acidente com dois carros e dois caminhões na RS-135",
-      "imagem": "https://s2-g1.glbimg.com/KJUZJ3TvUnCxtHPBtCFD9PZ_h_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/a/gPUDX1TBKxn1GoIqdfiQ/whatsapp-image-2026-08-08-at-17.27.52.jpeg"
-    },
-    {
-      "titulo": "Onça-parda é vista por moradores de condomínio em Itaipava, em Petrópolis",
-      "imagem": "https://s2-g1.glbimg.com/IBbEKaZB8b1mPYVQ5AQULPGPKqY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/M/FHCs8TROAeUsdEf2cJRg/onca-correndo.jpg"
-    },
-    {
-      "titulo": "Justiça converte em preventiva prisão de falso médico preso durante atendimento a criança com câncer",
-      "imagem": "https://s2-g1.glbimg.com/THV_CW7bisdw_tkChfSB5boTpjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/N/mHCfhATXG4oWdU4n7cnw/preso-falso-medico.jpeg"
-    },
-    {
-      "titulo": "PCO lança Izadora Dias como candidata ao governo de SP",
-      "imagem": "https://s2-g1.glbimg.com/deg5ygI_grF4kcNGhFhNF4w7fLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/d/IuoDvnQBala5xoXl5H2w/whatsapp-image-2022-08-23-at-12.11.41.jpeg"
-    },
-    {
-      "titulo": "Homem é morto a facadas em Barra Mansa",
-      "imagem": "https://s2-g1.glbimg.com/oR94hHY7NieZhk7HevD6aSKHwd0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/f/w/VbDVZkQkAz9IP54mzsLQ/whatsapp-image-2023-10-21-at-18.44.59.jpeg"
-    },
-    {
-      "titulo": "'Era acostumada com o trajeto', diz filho de servidora do AC morta em acidente entre carro e carreta na BR-364",
-      "imagem": "https://s2-g1.glbimg.com/Yrs69higJB8OEe-q77oFze8JewA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/9Qr81qTBeytqA7TRNKsw/befunky-collage-2026-08-08t150702.619.jpg"
-    },
-    {
-      "titulo": "Câncer de Joe Biden se espalhou e é muito doloroso, revela filho do ex-presidente dos EUA",
-      "imagem": "https://s2-g1.glbimg.com/VIrQHmVhWeRIWxYBeG8WTMU6-4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/Q/idFUd1QDCRWPZZauWahg/2025-01-16t011945z-1026438104-rc2pacaud0lv-rtrmadp-3-usa-biden.jpg"
-    },
-    {
-      "titulo": "Fran Gil anuncia o segundo álbum solo, 'Onda', com single que traz as músicas 'Reconstruir' e 'Mancha de dendê'",
-      "imagem": "https://s2-g1.glbimg.com/5AgSMiBwLjW-n2KzIcDiHFS207U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/s/tFAQCnTrGY4Sf17UH4xA/frangil.jpg"
-    },
-    {
-      "titulo": "Quem são o pai e a madrasta presos por suspeita da morte do menino Gustavo Veloso",
-      "imagem": "https://s2-g1.glbimg.com/_q5aVlxWkDWNAXC4Li189_wm-eU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/d/4Hmk6kR8KBC5wzOGSDXQ/foto-e-montagem-vertical-57-.jpg"
-    },
-    {
-      "titulo": "A série de assassinatos de influencers que mostra como criadores de conteúdo viraram alvo do narcotráfico no México",
-      "imagem": "https://s2-g1.glbimg.com/qLnbSekJJa22hiafNpptysM8zBs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Q/dtqZurSRSA4CcqGKsGUA/imagem-1200px-20260808-201257-.jpg"
-    },
-    {
-      "titulo": "Família que morreu em queda de helicóptero no Rio veio ao Brasil para comemorar aniversário de 15 anos da filha",
-      "imagem": "https://s2-g1.glbimg.com/S7LrY59T5InqOLunIReil8PeDSE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/l/NM3tJ7QNSA1nuArBpaSw/whatsapp-image-2026-08-08-at-13.10.47.jpeg"
-    },
-    {
-      "titulo": "Adolescente morre e jovem fica ferida após ataque a tiros em Cajazeiras 2",
-      "imagem": "https://s2-g1.glbimg.com/Q2LRoZGhCbzf3J2OITR-FMV4VOE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/3/uM0mlBT3acBj5g0KMNbQ/whatsapp-image-2025-10-20-at-16.37.15.jpeg"
-    },
-    {
-      "titulo": "Ônibus que caiu de ponte no Rio Curuá-Una é localizado por pescadores em Santarém",
-      "imagem": "https://s2-g1.glbimg.com/G1ctggEyBxh6vqxnLvP0xRFNMko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/X/J3A0fXTX649aokDY8KAg/whatsapp-image-2026-08-08-at-16.57.40.jpeg"
-    },
-    {
-      "titulo": "Homem morre carbonizado após incêndio em casa em Presidente Prudente",
-      "imagem": "https://s2-g1.glbimg.com/W9RTt6ZP9-H7fOw--NwniXBxcQk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/X/pMMUBIQv2ZHGIfsTH6Wg/image00001.jpeg"
-    },
-    {
-      "titulo": "'Lutou a vida toda e conseguiu formar as filhas', disse advogada que ajudou pai agricultor a conquistar aposentadoria no PI",
-      "imagem": "https://s2-g1.glbimg.com/Iaq7pDvb3EqtBJgd7tkwEzVShe4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/6/rgRWp1RBCKllEGSuOYAA/edicao-imagens-g1-80-.png"
-    },
-    {
-      "titulo": "Fã de caminhão de lixo, menino faz aniversário de 3 anos com tema de garis no interior do Amazonas; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/sO7okhAhnIgjujoWZjOgf4rzvVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/S/TQFT7NTBSr9gdngstJVQ/comemoracao-gari-matheus-presidente-figueiredo.jpg"
-    },
-    {
-      "titulo": "Balsa com calcário colide com embarcação que transportava veículos e passageiros no PA",
-      "imagem": "https://s2-g1.glbimg.com/FVNJuNe07cDlY7dsOpsP7z8lIHQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/4/7h56TnQhKLfn55HzpLRQ/batida.jpg"
-    },
-    {
-      "titulo": "Renan Santos declara R$ 795 mil em bens ao TSE; vice informa R$ 1,6 milhão",
-      "imagem": "https://s2-g1.glbimg.com/47CPepaFJkaOPZW7YP5wmC-vWG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/A/riH2lvSrSg2z4Nv3aL0w/aroldo-renan.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-08T21:00:55.714Z"
+  "atualizadoEm": "2026-08-08T21:44:23.875Z"
 }
