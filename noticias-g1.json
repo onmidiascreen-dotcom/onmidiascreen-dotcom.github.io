@@ -1,6 +1,70 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEOS: DF2 de sábado, 8 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/bIwnem8H-kD-KeIBGdrICwYWF9g=/s01.video.glbimg.com/deo/vi/26/28/14852826"
+    },
+    {
+      "titulo": "VÍDEOS: DF1 de sábado, 8 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/BHMthMIVGGc2xaXgaUAiJ2u-uso=/s01.video.glbimg.com/deo/vi/06/19/14851906"
+    },
+    {
+      "titulo": "VÍDEOS: RJ2 de sábado, 8 de agosto de 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "VÍDEOS: NE2 de sábado, 8 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/2CxCroNqyOSYNzLJog4CB03E_hc=/s01.video.glbimg.com/deo/vi/36/27/14852736"
+    },
+    {
+      "titulo": "VÍDEOS: GR2 de sábado, 8 de agosto",
+      "imagem": "https://s2-g1.glbimg.com/6xPog8F9PG44YXstgD-K-72yyok=/s01.video.glbimg.com/deo/vi/18/28/14852818"
+    },
+    {
+      "titulo": "VÍDEOS: NSC Notícias de sábado, 8 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/_9sCA2hYuTca2ZqozWePyN1jlDQ=/s01.video.glbimg.com/deo/vi/06/27/14852706"
+    },
+    {
+      "titulo": "DF tem dia mais quente do ano com 31,3°C; calorão deve continuar, diz meteorologista",
+      "imagem": "https://s2-g1.glbimg.com/R2loTyGMd4mfk-ykHKCM35fITtc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/g/L/2IAFidRCAzKSuZXbmINA/dia-do-cerrado-bddf.transfer-frame-0.jpeg"
+    },
+    {
+      "titulo": "Idosa de 92 anos que teve casa invadida por criminosos foi encontrada dopada após assalto, diz vizinho",
+      "imagem": "https://s2-g1.glbimg.com/ocXpcEQvUrWb2L-ZgWh4LHGB05k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/N/iwU0J8REWw5CwJ7KX83Q/roubo-idosa.jpg"
+    },
+    {
+      "titulo": "Corrida de rua altera trânsito em Santos no domingo; confira rotas alternativas",
+      "imagem": "https://s2-g1.glbimg.com/o5vtSEROdjKW4lO6ouXGOT1mIuc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/C/jvMBSbQBKJsO960PXfCQ/foto-tradicional.png"
+    },
+    {
+      "titulo": "Pedreiro morre e mulher fica ferida após tiroteio em Salvador",
+      "imagem": "https://s2-g1.glbimg.com/8dNCJP1u8LEf_uKrP5kw0khP1C0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/t/UfRTPSTJifOj17zgBdXQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-08-08t195159.055.jpg"
+    },
+    {
+      "titulo": "Nuvem rolo intriga morador e 'preenche' céu no interior de SP: 'Espetáculo da natureza'",
+      "imagem": "https://s2-g1.glbimg.com/2cIOWKjOK-e6d-_GEm3uXBV-u4E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/u/k1DbXYROC9DcvTY1J5ew/nuvem1.jpg"
+    },
+    {
+      "titulo": "Assista ao Boa Noite Espírito Santo",
+      "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
+    },
+    {
+      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "Colisão entre motos deixa feridos na Av. Constantino Nery, em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/adyb5lOjE7MEMFg0hJWq679RBsE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/6/kAByMPSUeVPNooBXeBnw/aciente-constantino-nery.jpg"
+    },
+    {
+      "titulo": "Morre tenista do DF que descobriu doença grave durante viagem à França",
+      "imagem": "https://s2-g1.glbimg.com/8vABcm3Gbry-tTBLVmAYf9tB5mY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/2/bpzRPPSbAPp2pZAOBYdw/g1-3-.jpg"
+    },
+    {
       "titulo": "Vendaval com ventos de até 60 km/h coloca mais da metade de MS em alerta; veja a previsão",
       "imagem": "https://s2-g1.glbimg.com/T4UOV6AFQ397jY1x0Hd5qJg4fis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/k/F258eASuS2JqvNg0TxgQ/para-o-g1-86-.jpg"
     },
@@ -53,73 +117,9 @@
       "imagem": "https://s2-g1.glbimg.com/aKH3syEwBlvP69Hgy6xU_iR1P5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/j/OuglhvR6SGNVSUe1ndYg/geral-g1-2026-06-03t150938.428.png"
     },
     {
-      "titulo": "Assista ao Boa Noite Espírito Santo",
-      "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
-    },
-    {
-      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
-    },
-    {
-      "titulo": "VÍDEO mostra barulho de helicóptero pouco antes de cair e susto de ciclistas",
+      "titulo": "VÍDEO registra barulho de helicóptero pouco antes de cair e susto de ciclistas",
       "imagem": "https://s2-g1.glbimg.com/6oQh27lGk04uZK3bHeqW8dZ8EoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/f/H5Jqv2RrCUtMQrUlI0TA/imagem-cortada-2026-08-08t191000.991.jpg"
-    },
-    {
-      "titulo": "Assista ao Jornal Vanguarda ao vivo no g1",
-      "imagem": "https://s2-g1.glbimg.com/JUlrL8xbxN4SRa6eMbFfPbSqi4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/R/SdP4NhSuG9lQDEyOl9pg/texto-do-seu-paragrafo-21-.png"
-    },
-    {
-      "titulo": "Fifa condena 'esforço coordenado e contínuo' para enfraquecer Infantino",
-      "imagem": "https://s2-g1.glbimg.com/cLPVT-T_k4ZCbny2D0hoIUy3s6c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/h/qak8yhTEax7IZqMTNTIQ/2026-07-28t162945z-1037867588-rc28kjaed3sy-rtrmadp-3-soccer-fifa-stake-1-.jpg"
-    },
-    {
-      "titulo": "Bauru atualiza normas para doação de sangue após regras divulgadas pelo Ministério da Saúde; confira",
-      "imagem": "https://s2-g1.glbimg.com/Lis4G4jrgwy0vJE04VD9yJfaasw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/7/LRtLhvSRayetiUQrNSXg/campanha-cooperar-corre-em-nossas-veias-incentiva-doacao-de-sangue.jpg"
-    },
-    {
-      "titulo": "Vizinho é socorrido após inalar fumaça ao tentar ajudar a combater incêndio em casa no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/nevOUo0omY_WzoLSzrgt6m1RI-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/T/VpJ9PuSYugVdIdwdg6Qg/whatsapp-image-2026-08-08-at-18.29.20.jpeg"
-    },
-    {
-      "titulo": "Assista ao BATV",
-      "imagem": null
-    },
-    {
-      "titulo": "Pai e filho saem ilesos de carro esmagado por árvore no litoral de SP: 'Presente de Dia dos Pais'",
-      "imagem": "https://s2-g1.glbimg.com/aZKQO2DWixAuPxlRENDNmEdco8o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/P/8nC8ZdTMC66SUfDC2Urg/download-1-.gif"
-    },
-    {
-      "titulo": "Dois homens condenados por estupro de vulnerável são presos em Matinha",
-      "imagem": "https://s2-g1.glbimg.com/9a7y3A8RtUtYKxZfsvEd9A1CKgs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/G/TIylgBTgmgCqBiUROsOw/montagens-1920-x-1080-px-2026-08-08t183941.244.png"
-    },
-    {
-      "titulo": "Acidente entre carro e moto mobiliza equipes de resgate na Via Dutra, em Barra Mansa",
-      "imagem": null
-    },
-    {
-      "titulo": "Acidente deixa um morto e bloqueia Raposo Tavares em Ourinhos",
-      "imagem": "https://s2-g1.glbimg.com/eUBapkLNxg5H3lK6JE3jU6UfsBY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/R/VmQFBlQB6QUwdV3JDGAg/whatsapp-image-2026-08-08-at-18.47.45.jpeg"
-    },
-    {
-      "titulo": "AO VIVO: Assista ao GR2",
-      "imagem": "https://s2-g1.glbimg.com/K2gsnPB6ofo9WfMgINpvMIgBwe8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/M/64EZS1SfaLKfMqfeXniQ/whatsapp-image-2025-03-11-at-19.11.55.jpeg"
-    },
-    {
-      "titulo": "Jovem com deficiência realiza sonho de se tornar embaixadora da Festa do Peão de Viradouro, SP",
-      "imagem": "https://s2-g1.glbimg.com/BkIgSRauPSt5EFcZlam_u4YZpgs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/Z/9TJmZCRQ6dtDkSvNz8vg/molduras-g1-2026-08-08t164725.058.png"
-    },
-    {
-      "titulo": "Atentados marcam primeiro dia do novo governo na Colômbia",
-      "imagem": "https://s2-g1.glbimg.com/PeGcwOIk0oy3HcEqaTUXbfWsEmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/V/jPHWoUTamp0JWbtWOrvw/afp-20260808-c49g44u-v1-midres-colombiaattack.jpg"
-    },
-    {
-      "titulo": "Grupo Flor Serrana lança álbum com músicas que preservam tradições do siriri e do cururu em MT",
-      "imagem": "https://s2-g1.glbimg.com/ywkRJLNfbFGDIzmrddtvBl63eQM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/5/MSZMsKR0GyI4fHAyldOA/videos-g1-11-.jpg"
-    },
-    {
-      "titulo": "'Se esconder no banheiro e deixar passar', relata morador de cidade do RS atingida por ventos de 100 km/h e com 400 casas destruídas",
-      "imagem": "https://s2-g1.glbimg.com/LefFtywDtZmShYYCJMLdHms9Xzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/X/4LtPFJQFmy0L0e1cLd2g/g1-8-.png"
     }
   ],
-  "atualizadoEm": "2026-08-08T22:46:05.166Z"
+  "atualizadoEm": "2026-08-08T23:24:19.957Z"
 }
