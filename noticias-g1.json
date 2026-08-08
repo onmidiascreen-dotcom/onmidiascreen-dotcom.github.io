@@ -1,6 +1,74 @@
 {
   "noticias": [
     {
+      "titulo": "Defesa Civil isola quatro imóveis após incêndio em galpão de fábrica em BH",
+      "imagem": "https://s2-g1.glbimg.com/GizGFJOyIrOwAsMmw1CgDlGQHJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/l/LUXKLCRw6BG1BSbPVpRw/fogo-loja.png"
+    },
+    {
+      "titulo": "MPE pede ao TRE-BA indeferimento da candidatura de Binho Galinha à reeleição na Bahia",
+      "imagem": "https://s2-g1.glbimg.com/BvHQfhul8HXpRHkFcTkXsPdJD7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/v/K/pBON8cTziBsnZ1AWbTiw/design-sem-nome-37-.png"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "Inmet renova alerta amarelo de baixa umidade do ar para 100 cidades da PB",
+      "imagem": "https://s2-g1.glbimg.com/TU0Sq5Xerp3HE2yPRUMshwpoilw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/c/hcBDvASjqjkf5LNH5XVA/alerta-umidade-pb.jpg"
+    },
+    {
+      "titulo": "Existe mesmo uma onda anti-Argentina no mundo, como diz Javier Milei?",
+      "imagem": "https://s2-g1.glbimg.com/JOatT7uwIx04pzmKXlb-XqXusKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/K/aHK6ZASDAk39JtqVQWzA/2026-07-16t232504z-1644221911-rc2afmaoq98n-rtrmadp-3-argentina-politics-milei.jpg"
+    },
+    {
+      "titulo": "Filha de locutor morto com namorada desabafa sobre homicídio: ‘A gente quer Justiça’",
+      "imagem": "https://s2-g1.glbimg.com/aghRqZwvww0__Le5HdjbnSsBQ40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/b/lfJ3APQkyZWRXzy9A1Ww/imagens-g1-9-.png"
+    },
+    {
+      "titulo": "Litoral da Paraíba tem três trechos de praia impróprios para banho; veja quais",
+      "imagem": "https://s2-g1.glbimg.com/WWWStYIWqIuHB09Mpw3MENachDU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/n/4/NPs7TKR5COJvc1WJffZg/praia2.jpg"
+    },
+    {
+      "titulo": "Ataques russos deixam quatro pessoas mortas em Kiev; criança está entre as vítimas",
+      "imagem": "https://s2-g1.glbimg.com/B8GXErTiLMwj5lvVemw9SVX2-zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/K/1Aov1tTIeUcb6VC8uykA/ap26217189441513.jpg"
+    },
+    {
+      "titulo": "Projeto Cães Solidários realiza visitas de animais em unidades hospitalares de João Pessoa: “Tudo se resume à empatia”, diz estudante",
+      "imagem": "https://s2-g1.glbimg.com/4lpA6-rv3VdT61NZxQiq5FgfRvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/BHBBMBR7GIeiAjzhGprw/whatsapp-image-2026-08-06-at-14.34.12.jpeg"
+    },
+    {
+      "titulo": "Terra de João Gomes, Serrita preserva tradição e faz da cultura do vaqueiro um estilo de vida",
+      "imagem": "https://s2-g1.glbimg.com/KfuavejTmWPbcVP0kVdL_YThKYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/H/eohBCJQvKvePAObunMgw/dsc-4041.jpg"
+    },
+    {
+      "titulo": "Editora aposta em escritor amapaense no Prêmio Jabuti 2026, principal premiação da literatura brasileira",
+      "imagem": "https://s2-g1.glbimg.com/t8FfCu0AGEZPpexpb687MVxfIxI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/p/ki74KyQ2SfeqLOePoigA/aleixo-g1.png"
+    },
+    {
+      "titulo": "Senado dos EUA confirma ex-advogado de Trump para o cargo de procurador-geral",
+      "imagem": "https://s2-g1.glbimg.com/BFsh8VWG792yrEmxPxOI0W-FSOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/y/AVz3nITjKm5UeumkA1vQ/ap26217704306647.jpg"
+    },
+    {
+      "titulo": "Caso Gustavo: 10 pontos para entender a morte do menino de 3 anos que levou à prisão do pai e da madrasta",
+      "imagem": "https://s2-g1.glbimg.com/_q5aVlxWkDWNAXC4Li189_wm-eU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/d/4Hmk6kR8KBC5wzOGSDXQ/foto-e-montagem-vertical-57-.jpg"
+    },
+    {
+      "titulo": "Bebê recebe alta após 9 meses na UTI e ganha homenagem no litoral de SP: 'Milagre', diz mãe",
+      "imagem": "https://s2-g1.glbimg.com/5niYkba0AC78BHQ63q5VN_t4Xa8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/9/JgW2o9TGml59DnwUfzcg/bebe-alta.jpg"
+    },
+    {
+      "titulo": "Litoral de SP é destaque na imprensa internacional como destino pouco explorado por estrangeiros",
+      "imagem": "https://s2-g1.glbimg.com/a2NA7OFG4G6HSybSeipFQMB6Z0E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/M/QyRRTzT6CKkLjTsAJhkw/praia-pernambuco.jpg"
+    },
+    {
+      "titulo": "Trump, Elon Musk e 30 prêmios Nobel: Conheça a faculdade onde o filho de Neymar quer estudar",
+      "imagem": "https://s2-g1.glbimg.com/P_EEHtXZjehrbzifaryNrdhFJd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/N/3JqMuwSiu3paeMIKKA9Q/whatsapp-image-2026-08-06-at-10.28.56.jpeg"
+    },
+    {
+      "titulo": "Ventos de até 70 km/h deixam Extremo Sul da Bahia em alerta",
+      "imagem": "https://s2-g1.glbimg.com/WNz-j6aCGTm6owRS4PjRyp2bRwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/W/cF3MOdQMebThgQNk9EJA/ezgif-3667b053c385edfd.gif"
+    },
+    {
       "titulo": "Quatorze praias de Salvador estão impróprias para banho neste fim de semana",
       "imagem": "https://s2-g1.glbimg.com/cWYpClZ45fiT9_osoStDWxHkNSI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/4/1DeBarQQihYEVwWxy9LA/whatsapp-image-2026-08-08-at-06.01.37.jpeg"
     },
@@ -51,75 +119,7 @@
     {
       "titulo": "Reconhecimento de paternidade em BH: veja como solicitar serviço de graça",
       "imagem": "https://s2-g1.glbimg.com/2T8tESA-IXNDumMYTxe8FIgd3fo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/X/XVPIPNSnaBzEGlKCXJkA/role-pgm264-pais-bl1-revisao-frame-14668.jpeg"
-    },
-    {
-      "titulo": "Super El Niño deve pressionar inflação dos alimentos em 2027; feijão e arroz lideram alta",
-      "imagem": "https://s2-g1.glbimg.com/1VYiz3U1jig3yfR1mRfr5QHQIzw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/9/foRcVhQYWMAz7VcMJXUg/466916.jfif"
-    },
-    {
-      "titulo": "Integrante do grupo Os Travessos pediu para ser internado para tratar dependência do álcool; cantor revela sonho de cursar Filosofia na USP",
-      "imagem": "https://s2-g1.glbimg.com/Ka4metpUrFdLfnxrQlAN02oAjBQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/y/bItbl0SmqCwZlMknjeKA/fotos-g1-1920-x-1080-px-2026-07-24t165005.486.png"
-    },
-    {
-      "titulo": "Mulher é presa por agredir criança de 7 anos que bagunçou o cabelo da filha na escola em MG",
-      "imagem": "https://s2-g1.glbimg.com/hpvPU7gWzmN1DlJqTVDMlaJrrik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/9/dcpQ3dT7ekXqjnZpXl7w/design-sem-nome.png"
-    },
-    {
-      "titulo": "EUA estão vulneráveis? Como a baixa nos estoques de mísseis ameaça a defesa norte-americana",
-      "imagem": "https://s2-g1.glbimg.com/FLDREAPRkip0qFYU60GGQFPSwlw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/p/5/YBtmvrTiWByeeLEtaWWg/ap18104458461340.jpg"
-    },
-    {
-      "titulo": "'Vagão da Sofrência': cantor viraliza nas redes sociais com show improvisado no metrô de Salvador",
-      "imagem": "https://s2-g1.glbimg.com/OHNEl6lWp2vbLalmROdqUahzKHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/w/RgGLQSTtisFAdK6EILAw/design-sem-nome-2026-08-07t203525.638.png"
-    },
-    {
-      "titulo": "'Baby boom': 11 funcionárias de maternidade engravidam ao mesmo tempo em MS",
-      "imagem": "https://s2-g1.glbimg.com/DCSYDCkwqKVKZBwFXX8bnessMQQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/R/TE87zYS0WnXbHm6KGlOg/gravidas-candido-mariano.jpg"
-    },
-    {
-      "titulo": "Inspirada em algas, 'rede' consegue capturar microplásticos de vários tamanhos na água",
-      "imagem": "https://s2-g1.glbimg.com/PD3c0kr3kRONWFjyVgabdysVBTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/N/1m7Gq8RcKHAsBc6AQT8g/velev-microplastics-for-media-kit.jpg"
-    },
-    {
-      "titulo": "Borboletas estão buscando novos 'refúgios climáticos'",
-      "imagem": "https://s2-g1.glbimg.com/2NrqHNAr6U0rvhamkD3GucFez2k=/s.glbimg.com/jo/g1/f/original/2012/11/05/000_was7035552.jpg"
-    },
-    {
-      "titulo": "Bloqueios em massa do WhatsApp causam prejuízo para usuários: 'Sem chão'",
-      "imagem": "https://s2-g1.glbimg.com/ZWmtvNP36OCROY_izQBxegvepRs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/E/MBAWx1QDSrJH5NICS89g/dimitri-karastelev-ynjawgrwslm-unsplash.jpg"
-    },
-    {
-      "titulo": "Tufão Dolphin atinge Sul do Japão; China fecha portos antes da chegada à costa",
-      "imagem": "https://s2-g1.glbimg.com/hdYeAkjOq1_3Op11Eiosocol0mY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/O/BlOuLpSs6ROcwM3huxow/2026-08-07t005025z-661818364-rc2ctmad44wi-rtrmadp-3-asia-weather-typhoon-dolphin.jpg"
-    },
-    {
-      "titulo": "Os curiosos métodos que as pessoas usavam para acordar antes da invenção dos despertadores - e dos celulares",
-      "imagem": "https://s2-g1.glbimg.com/dc0guMmj0rvRa43bK_4-E0hgMJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/P/PEnFl1Rg2j1eYlmqbQPg/imagem-1200px-3-.png"
-    },
-    {
-      "titulo": "O que dietas vegetarianas e veganas podem ou não nos dizer sobre transtornos alimentares",
-      "imagem": "https://s2-g1.glbimg.com/tjs7YQdtWIJK605K9AUCW_Bg56A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/j/novxYRRaex8ZVnvYVngw/101579.jpg"
-    },
-    {
-      "titulo": "Doação de leite humano cresce mais de 10% no RJ, mas ainda não atende todos os bebês que precisam, diz Fiocruz",
-      "imagem": "https://s2-g1.glbimg.com/ua8NeOswl4n9Sz3GNjcj2EJK8uI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/x/6MZI6bTuaXpmrtR6rDKw/whatsapp-image-2026-08-06-at-16.08.51.jpeg"
-    },
-    {
-      "titulo": "Salário-maternidade não é só para mães; veja quando o pai pode receber",
-      "imagem": "https://s2-g1.glbimg.com/nAkqxL-qY-slSDwfnQauX5GYZ5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/f/MFr5DjRGy0rLa4LuwkTg/dia-dos-pais-destaque.png"
-    },
-    {
-      "titulo": "BH realiza 'Dia D' da Campanha Nacional de Multivacinação neste sábado; veja quem pode se vacinar e onde ir",
-      "imagem": "https://s2-g1.glbimg.com/MKzUJLJiAMARAvwdE-5R7fYtfo8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/i/iI5HQVRyOTSc5LL9zrvQ/captura-de-tela-2026-08-07-163150.png"
-    },
-    {
-      "titulo": "Reforma tributária: cobrança de novos impostos sobre consumo começa em 2027; veja como vai funcionar e o que falta definir",
-      "imagem": "https://s2-g1.glbimg.com/SqgKpQ4TfCboscvbHPhKB2PwlXs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/7/AltPrnQA65Prj7Oo9e7Q/chuva-distrito-paulo-camilo-1-25-.png"
-    },
-    {
-      "titulo": "A história por trás da 'Suíça brasileira': como portugueses e nordestinos moldaram Campos do Jordão",
-      "imagem": "https://s2-g1.glbimg.com/mD8JBm3-6PhzXSOOmLdpwoAQyVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/5/IB0lfpS6qqkdSeHz7t5A/boa-vista.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-08T09:22:57.344Z"
+  "atualizadoEm": "2026-08-08T11:03:14.852Z"
 }
