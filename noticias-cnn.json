@@ -1,6 +1,114 @@
 {
   "noticias": [
     {
+      "titulo": "Tenente perde patente após transmitir HIV intencionalmente a duas mulheres",
+      "imagem": null
+    },
+    {
+      "titulo": "Vasco se acerta com Racing e aguarda chegada de Santiago Sosa",
+      "imagem": null
+    },
+    {
+      "titulo": "Wall Street fecha em alta com dados de emprego e possível Fed mais brando",
+      "imagem": null
+    },
+    {
+      "titulo": "Lei Maria da Penha: especialistas apontam rotas para romper ciclo de abusos",
+      "imagem": null
+    },
+    {
+      "titulo": "Nomeado de Trump para embaixador no Brasil renuncia ao cargo de deputado",
+      "imagem": null
+    },
+    {
+      "titulo": "Embaixador dos EUA no Brasil: especialista explica impacto nas eleições",
+      "imagem": null
+    },
+    {
+      "titulo": "Luis Roberto tem data para retornar após tratamento contra tumor; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Bia Haddad Maia anuncia pausa na carreira como tenista",
+      "imagem": null
+    },
+    {
+      "titulo": "ANP revoga por unanimidade autorização de operação da Refit",
+      "imagem": null
+    },
+    {
+      "titulo": "Joan Jett cancela shows após cirurgia na coluna devido a uma fratura",
+      "imagem": null
+    },
+    {
+      "titulo": "SDC Sports avança por SAF e terá reunião no fim do mês com o Santos",
+      "imagem": null
+    },
+    {
+      "titulo": "PCO confirma Rui Costa Pimenta como candidato à Presidência",
+      "imagem": null
+    },
+    {
+      "titulo": "ANPD abre processo contra Discord para apurar falhas na proteção de menores",
+      "imagem": null
+    },
+    {
+      "titulo": "Carro PCD: STF amplia acesso à alíquota zero na compra incluindo autistas",
+      "imagem": null
+    },
+    {
+      "titulo": "Bitelo ergue 420 kg e bate recorde brasileiro",
+      "imagem": null
+    },
+    {
+      "titulo": "João Fonseca x Casper Ruud: acompanhe ao vivo o Masters de Montreal",
+      "imagem": null
+    },
+    {
+      "titulo": "México confirma 33 casos de doença que causa diarreia explosiva",
+      "imagem": null
+    },
+    {
+      "titulo": "John Kennedy tem lesão no ligamento do joelho e desfalca o Fluminense",
+      "imagem": null
+    },
+    {
+      "titulo": "OpenAI sinaliza sobre risco à segurança cibernética em próximo modelo",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump retoma tentativa de demitir Lisa Cook, diretora do Fed",
+      "imagem": null
+    },
+    {
+      "titulo": "Mercado de trabalho apoia otimismo do consumidor, diz FecomercioSP",
+      "imagem": null
+    },
+    {
+      "titulo": "Apesar da demora, Anfavea aposta em crédito a motoristas de aplicativo",
+      "imagem": null
+    },
+    {
+      "titulo": "Governo do DF tentará empréstimo para socorrer BRB com resultados parciais",
+      "imagem": null
+    },
+    {
+      "titulo": "Importações de soja ​pela China em julho caíram 1,6% ​em relação a 2025",
+      "imagem": null
+    },
+    {
+      "titulo": "Liverpool acerta empréstimo de Ronald Araújo, zagueiro do Barcelona",
+      "imagem": null
+    },
+    {
+      "titulo": "Anec mantém previsão de exportação recorde de soja do Brasil em 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "França prevê queda de 35% na safra de milho devido a intempéries",
+      "imagem": null
+    },
+    {
       "titulo": "Agricultores argentinos retêm safra de trigo de olho em preços mais altos",
       "imagem": null
     },
@@ -11,115 +119,7 @@
     {
       "titulo": "Mãe de Virginia revela tatuagem ousada e reflete: &#8220;Acredite no seu valor&#8221;",
       "imagem": null
-    },
-    {
-      "titulo": "Tarifa zero fica de fora de plano de governo de campanha de Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Ciclone-bomba: Rio diminui nível de alerta após redução de ventos",
-      "imagem": null
-    },
-    {
-      "titulo": "IA não substituirá trabalho dos médicos, alertam especialistas a Kalil",
-      "imagem": null
-    },
-    {
-      "titulo": "Stray Kids lança novo álbum às vésperas de show no Rock in Rio; escute",
-      "imagem": null
-    },
-    {
-      "titulo": "Abelardo de la Espriella toma posse como presidente da Colômbia",
-      "imagem": null
-    },
-    {
-      "titulo": "Após livro virar best-seller, Tamara Klink pede: &#8220;Parem de comprar&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Amazônia registra menor nível de desmatamento desde 2016",
-      "imagem": null
-    },
-    {
-      "titulo": "AGU cobra e Discord terá de elaborar plano para ampliar proteção na rede",
-      "imagem": null
-    },
-    {
-      "titulo": "DC oficializa Clariana Barão como candidata à Presidência",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula volta a criticar Rubio e diz que secretário de Trump &#8220;odeia o Brasil&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Sthefany Brito se declara ao marido e celebra 15 anos juntos e 8 de casados",
-      "imagem": null
-    },
-    {
-      "titulo": "Sete pacientes que receberam polilaminina morreram durante tratamento",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula alfineta Trump após queda no desmatamento: &#8220;Vou mandar foto para ele&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Espanha desmantela uma das maiores redes de tráfico de pessoas da região",
-      "imagem": null
-    },
-    {
-      "titulo": "Ben Shelton avança e pode enfrentar João Fonseca em Montreal",
-      "imagem": null
-    },
-    {
-      "titulo": "Empresário americano revela que congela sangue menstrual da namorada",
-      "imagem": null
-    },
-    {
-      "titulo": "De volta ao Real Madrid, Mourinho adota rigor e impõe regras ao elenco",
-      "imagem": null
-    },
-    {
-      "titulo": "Juliana Paes compartilha novo registro de férias com filhos: &#8220;No paraíso&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "GR86: Toyota melhora direção, pedais e troca de marchas em nova atualização",
-      "imagem": null
-    },
-    {
-      "titulo": "Ciclone-bomba: Rio muda rotina, suspende serviços e aguarda ventania severa",
-      "imagem": null
-    },
-    {
-      "titulo": "Ouro fecha em alta impulsionado por payroll fraco e alto ganho semanal",
-      "imagem": null
-    },
-    {
-      "titulo": "Moraes pede vista e suspende julgamento sobre privatização da Celepar",
-      "imagem": null
-    },
-    {
-      "titulo": "Bitcoin sobe após payroll, mas segue abaixo dos US$ 65 mil",
-      "imagem": null
-    },
-    {
-      "titulo": "Dezenas de corpos em decomposição são encontrados em funerária nos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Achado histórico: sapo extinto da era glacial é descoberto em Los Angeles",
-      "imagem": null
-    },
-    {
-      "titulo": "Petróleo despenca na semana com expectativa para acordo sobre Ormuz",
-      "imagem": null
-    },
-    {
-      "titulo": "Inquérito da PF vai investigar possível crime da Anac no caso Voepass",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-07T22:18:56.026Z"
+  "atualizadoEm": "2026-08-08T00:02:18.972Z"
 }
