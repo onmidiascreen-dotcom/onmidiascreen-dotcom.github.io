@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Incêndio força mais de 20 mil pessoas a deixar casas no oeste do Canadá",
+      "imagem": null
+    },
+    {
+      "titulo": "Ariana Grande volta a imitar personagens de Harry Potter e viraliza na web",
+      "imagem": null
+    },
+    {
       "titulo": "Vítimas de queda de helicóptero no Rio são identificadas; veja quem são",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Turquia defende trégua no Mar Negro entre Rússia e Ucrânia",
       "imagem": null
-    },
-    {
-      "titulo": "Com Endrick de titular, Real Madrid vence amistoso contra Ferencváros",
-      "imagem": null
-    },
-    {
-      "titulo": "Manchester City x Atlético de Madrid: horário e onde assistir ao amistoso",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-08T21:44:22.857Z"
+  "atualizadoEm": "2026-08-08T22:05:21.016Z"
 }
