@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "Ataques russos deixam 2 mortos e dezenas de feridos na Ucrânia, diz Zelensky",
+      "imagem": "https://s2-g1.glbimg.com/oivri10tbUEOxEiM6lPvje2vlNs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/u/UVsYGfRrCWxtAfbgv5Lg/ap26189208144173.jpg"
+    },
+    {
+      "titulo": "Viajar no meio da semana pode render até 20% de economia em Atibaia",
+      "imagem": "https://s2-g1.glbimg.com/A-lK3EGXI1g6OPN1vjLJNgZIbnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Z/X/CB982dQ0OI41RB9wTJ3g/whatsapp-image-2023-11-30-at-15.30.22.jpeg"
+    },
+    {
+      "titulo": "De pai para filha: cirurgião inspira a filha, e os dois passam a operar corações juntos em SP",
+      "imagem": "https://s2-g1.glbimg.com/wC6SYq0JVZldkE31miYmBqf9rhQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/kNfd1BTLu6RUgFirxKaQ/whatsapp-image-2026-08-07-at-17.38.04.jpeg"
+    },
+    {
+      "titulo": "Câmeras com IA prometem prever crimes antes que aconteçam, mas acendem alerta sobre privacidade",
+      "imagem": "https://s2-g1.glbimg.com/-kHGbohv1F1mFvKuzhsI7TDT35s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/s/mw48LMSZAAPKBeemtGng/captura-de-tela-2026-07-09-223220.png"
+    },
+    {
+      "titulo": "Mais lojas, mais problemas? Entenda por que supermercados já não apostam tanto em lojas físicas",
+      "imagem": "https://s2-g1.glbimg.com/ZtvFth22s13rE3IwkwS_Mk-x7sc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/d/sI284TRlG2HtLYMSAMaQ/afp-20260310-a2ql3m4-v1-midres-brazilfooddebtsupermarket.jpg"
+    },
+    {
+      "titulo": "Travessia mortal: MAPA mostra rotas por mar e terra em que imigrantes se arriscam para chegar à Europa",
+      "imagem": "https://s2-g1.glbimg.com/XnPpvJ0QRvqUbHed3g8_vN1McKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/u/r/fEkk8NTqKu7YBju0LBLw/bote-libia.jpg"
+    },
+    {
+      "titulo": "De olho em água para futuras missões, NASA testa antena para localizar gelo em Marte; saiba mais",
+      "imagem": "https://s2-g1.glbimg.com/ek41JCghCRuJln-u86WWCdm3ZBs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/A/muxMBkRFm2RBGNoFylAA/e1-pia26760-skyfall-operations-final.width-1320.jpg"
+    },
+    {
+      "titulo": "Após morte de companheira, padrasto adota enteada e fortalece laço com filha: 'Ele sempre foi meu paizão'",
+      "imagem": "https://s2-g1.glbimg.com/gnGinixwOW3rySPWq6PEwTzStsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/n/Kj3EPDTzuwkAAhDnbMjw/0668332e-908f-4c99-99eb-856a8403abab.jpg.jpeg"
+    },
+    {
+      "titulo": "Corpos esquartejados encontrados em canal em Fortaleza: o que se sabe sobre o caso",
+      "imagem": "https://s2-g1.glbimg.com/PFs6uthHvCWH2SFJ6X4R6AaKuVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/0/dBgoOERAqLnwDm6odALg/corpos-3.jpg"
+    },
+    {
       "titulo": "Tédio pode estimular criatividade, memória e mudanças positivas, dizem especialistas",
       "imagem": "https://s2-g1.glbimg.com/kFzGTNpkv6vJWMMivDQuIG9o-kg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/7/B8VvzgRKG9gBiNpW65Yg/tedio.jpeg"
     },
@@ -83,43 +119,7 @@
     {
       "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
       "imagem": "https://s2-g1.glbimg.com/-StP195dSWY11n8BNG2i6mxz494=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/A/0X0eQhRLel0Oo7xirzow/previsao-tempo-s-o-bernardo-do-campo-20260809-030527.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Santo André (SP): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/S7O3t4niqGRwwT33fM9rxXHi5AA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/E/JIiyMnROyHUWQJd8oAsg/previsao-tempo-santo-andr-20260809-030511.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Osasco (SP): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/O1PVhyLdrCeBdmxyjN7dmbJWyhs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/p/9ACG3vTUGwI07gwTfcog/previsao-tempo-osasco-20260809-030456.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/pOGD7qr7KXvfNdDJVEMlFXLQMMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/E/gOwkK9QmaXq8h28Cnbog/previsao-tempo-guarulhos-20260809-030440.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/U1G5_cf-nvLeRf6UByTfM0JtbXY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/r/NOMj1TTWyWaoMznl6AyA/previsao-tempo-s-o-gon-alo-20260809-030418.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol e muitas nuvens à tarde; à noite ocorrem pancadas de chuva",
-      "imagem": "https://s2-g1.glbimg.com/NqwzO8MuIb_UgW_8se4njexjNrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/7/aay3IIRdWiSvAChyW6PA/previsao-tempo-rio-de-janeiro-20260809-030402.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/klCjDisrnQSky-utBSzb6OmB41U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/l/LDuhqzQSCQo0A7HRtxZw/previsao-tempo-nova-igua-u-20260809-030346.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/96fIXmp5k-LaaYZ8x2PKc2Abzf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/u/13PYhRSOaYVCV7em9Gcw/previsao-tempo-niter-i-20260809-030331.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/9lwFGG0gkgKNditUlNwDOcIFuzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/C/UStDzNRCSeMBfX5AydMg/previsao-tempo-duque-de-caxias-20260809-030316.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/iM_Fjxqu24eO-z0aViDibDETeLg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/z/szIADZSwOVBs7n6x7B0w/previsao-tempo-sete-lagoas-20260809-030258.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-09T07:34:33.589Z"
+  "atualizadoEm": "2026-08-09T08:22:46.330Z"
 }
