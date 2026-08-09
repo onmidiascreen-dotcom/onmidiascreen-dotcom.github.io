@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Brasileirão: Botafogo marca golaço, mas Fluminense busca empate em clássico",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasileirão: Coritiba vence Chapecoense e se aproxima do G5",
+      "imagem": null
+    },
+    {
+      "titulo": "Carlos Adão: morre artista que espalhou o nome pelos muros do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "PCO oficializa Rui Costa à Presidência e define candidaturas estaduais",
+      "imagem": null
+    },
+    {
       "titulo": "Promotora: Existe &#8220;vazio&#8221; entre legislação e prática da Lei Maria da Penha",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "Violência na Colômbia: chefe de polícia é morto em ataque com drones",
       "imagem": null
-    },
-    {
-      "titulo": "Johor Darul Ta&#8217;zim x Chelsea: horário e onde assistir ao amistoso",
-      "imagem": null
-    },
-    {
-      "titulo": "TRE-SP condena Ricardo Salles por propaganda eleitoral antecipada",
-      "imagem": null
-    },
-    {
-      "titulo": "Plano de governo de Zema prevê tirar Brasil dos Brics e ingressar na OCDE",
-      "imagem": null
-    },
-    {
-      "titulo": "Após queda de aeronave, prefeito do Rio pede suspensão de voos panorâmicos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-09T01:22:16.994Z"
+  "atualizadoEm": "2026-08-09T03:14:37.699Z"
 }
