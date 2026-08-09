@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Indonésia fecha acesso ao Monte Bromo após avanço de incêndio florestal",
+      "imagem": "https://s2-g1.glbimg.com/CxmWbRP9a0mwpcROnqPTiqJq-Og=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/L/AoxWNnS5Acbi3S65QJBQ/2026-08-06t123153z-1497311758-rc20tmahvy29-rtrmadp-3-asia-weather-indonesia-wildfire.jpg"
+    },
+    {
+      "titulo": "Tufão Dolphin se aproxima da costa leste da China e aciona alertas de enchente",
+      "imagem": "https://s2-g1.glbimg.com/PDvQBXyb1RU0oUAmFwIZipkORvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/J/AuZ0fqTKqTuMu4RNEAQA/2026-08-09t005200z-1637945437-rc2fumawsm0e-rtrmadp-3-asia-weather-china.jpg"
+    },
+    {
+      "titulo": "De casacos a enxovais: empreendedoras apostam em aluguel de roupas e faturam até R$ 100 mil por mês",
+      "imagem": "https://s2-g1.glbimg.com/n-hlD4J8kzrqRzcNwYvWF3q0KqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/3/5uSP9VReiK1pnegRounA/captura-de-tela-2026-08-04-084726.png"
+    },
+    {
+      "titulo": "Juiz indígena é afastado de tribunal e diz ser vítima de perseguição; entidade pede apuração do CNJ",
+      "imagem": "https://s2-g1.glbimg.com/ttYXi_L7c1-fZbjXHQHIulTHUOc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/5/fTBZyGQCA8mpIoIZ0wBw/53817594051-78c202acad-k.jpg"
+    },
+    {
+      "titulo": "Mais de sete em cada dez pessoas presas no DF são negras, aponta relatório",
+      "imagem": "https://s2-g1.glbimg.com/htffhUEx1jVuoy-wunirWDY4dXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/Z/NfBdaPT0y1tttB7jGmdg/imagem-g1-36-.png"
+    },
+    {
+      "titulo": "De trufas a perfumes: motoristas de aplicativo transformam carros em lojas sobre rodas e faturam em Porto Alegre",
+      "imagem": "https://s2-g1.glbimg.com/_wbjK5A_ozaia1BrHmUIJuhojBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/M/hCWnwAS86YAv6Vv023TQ/g1-2-.png"
+    },
+    {
       "titulo": "ICE concluirá instalação de câmeras corporais em agentes até o fim de agosto",
       "imagem": "https://s2-g1.glbimg.com/EWzlO5UlhxjCLbFQxwSws4ZVWY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/A/F1PQPTRzaRAyQGHaBi8A/2026-08-08t220805z-446213730-rc2eafa3rack-rtrmadp-3-usa-migration-ice.jpg"
     },
@@ -95,31 +119,7 @@
     {
       "titulo": "Quatro pessoas morrem em queda de helicóptero no Rio",
       "imagem": "https://s2-g1.glbimg.com/wIiGr2VTr-PlG50sFp3teCsl5Wo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/e/SaaJHFRHqOCfhatd8oow/captura-de-tela-2026-08-08-205732.png"
-    },
-    {
-      "titulo": "‘Não nos informavam nada’: parente de vítimas diz que soube de queda de helicóptero pela internet",
-      "imagem": "https://s2-g1.glbimg.com/FLWmBizZ_lJi8MTv6SBiuVTvE4c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/X/u88pdfTxAynyqbGDdEBQ/rj2-limpo-20260808-1830-frame-93473.jpeg"
-    },
-    {
-      "titulo": "Mais de 11 milhões de trabalhadores têm FGTS atrasado; dívida das empresas chega a R$ 12,6 bilhões",
-      "imagem": "https://s2-g1.glbimg.com/V5-LQAXgk8-Nopee8MHIAfQX2ds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/9/kfyrwXTjGb4jZVbeBmjw/videoframe-187523.png"
-    },
-    {
-      "titulo": "Ex-jogador Jadson é preso suspeito de agredir a esposa no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/6xBaiznrgmLpu5n1k8GRojVaoNw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/X/OZI73WT8qeu0P1At3dAQ/g1-pr-2026-08-08t204910.551.jpg"
-    },
-    {
-      "titulo": "Triplica número de chineses autorizados a trabalhar no Brasil com avanço dos investimentos no país; entenda",
-      "imagem": "https://s2-g1.glbimg.com/bfMhklppVdPB7nCwXlk_H-BVnq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/B/QvmW88SeyO2US9GPZUPg/videoframe-6901860.png"
-    },
-    {
-      "titulo": "Crise em Ceuta: Espanha impõe controle migratório a viajantes vindos da Itália como resposta às medidas de Giorgia Meloni",
-      "imagem": "https://s2-g1.glbimg.com/Nfx4x3QQcegihCsToMHHXDE64xM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/i/vyEgbQQTmhajeYRfyRrg/videoframe-6544123.png"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Amazonas 2ª edição deste sábado, 8 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/zTNZ3fl6fMdESJXBNrj1Lc4P9Po=/s01.video.glbimg.com/deo/vi/60/29/14852960"
     }
   ],
-  "atualizadoEm": "2026-08-09T04:38:41.088Z"
+  "atualizadoEm": "2026-08-09T05:34:45.058Z"
 }

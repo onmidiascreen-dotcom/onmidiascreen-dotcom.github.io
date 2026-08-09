@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Após mortes em operações, ICE acelera implantação de câmeras corporais",
+      "imagem": null
+    },
+    {
       "titulo": "Incêndio florestal se alastra e fecha acesso ao Monte Bromo, na Indonésia",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Fãs flagram Rosalía pelas ruas do Rio de Janeiro às vésperas de shows; veja",
       "imagem": null
-    },
-    {
-      "titulo": "Copa do Mundo Feminina: veja seleções classificadas para jogar no Brasil",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-09T04:38:39.873Z"
+  "atualizadoEm": "2026-08-09T05:34:42.910Z"
 }
