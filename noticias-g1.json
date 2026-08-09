@@ -1,6 +1,58 @@
 {
   "noticias": [
     {
+      "titulo": "Missão do Vale da Eletrônica busca parceria com Vietnã para reduzir dependência tecnológica e avançar em semicondutores",
+      "imagem": "https://s2-g1.glbimg.com/gycYDE9pdp6nFQKQYgPe8y-oKc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/q/8/OHT4VaR9WbEHrNFmxXyg/santarita.jpg"
+    },
+    {
+      "titulo": "Dois homens são mortos a tiros enquanto dormiam na rua em Vila Velha; moradores suspeitam de ataque a usuários de drogas",
+      "imagem": "https://s2-g1.glbimg.com/XK1_3rABsmMAfFuKfBrnjvBEtW4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/f/A8Ux9FTay1Z3aAgjmDUw/thumb-fotos-2026-08-09t125135.622.jpg"
+    },
+    {
+      "titulo": "Motorista é preso com R$ 780 mil em camarão contrabandeado escondido em casca de arroz em SC",
+      "imagem": "https://s2-g1.glbimg.com/CHWqy61rIrXOpRgoQkgkGo6kmus=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/J/JPxQnCR3ScwHef7iGPOw/motorista-e-preso-com-r-780-mil-em-camarao-contrabandeado-escondido-em-casca-de-arroz-em-sc-.png"
+    },
+    {
+      "titulo": "Suspeito de emprestar casa para cativeiro de bebê sequestrada em MS tem prisão preventiva decretada",
+      "imagem": "https://s2-g1.glbimg.com/ewSOJc4CePkIP4G6-ae-grYTrwc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/K/0AajZGSfSpDhfdb6DweA/design-sem-nome-82-.jpg"
+    },
+    {
+      "titulo": "Homem é preso em flagrante por importunação sexual dentro de ônibus em Pardinho",
+      "imagem": "https://s2-g1.glbimg.com/aG5YlNueyLk-5BAnZG6S4EnEumw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/H/tPPHjKRLSbO584AbZFHg/whatsapp-image-2026-08-09-at-12.22.09-1-.jpeg"
+    },
+    {
+      "titulo": "Empresa petrolífera ligada a Trump prepara perfuração sem autorização na Groenlândia; entenda interesses no Ártico",
+      "imagem": "https://s2-g1.glbimg.com/WgFPF-849MAkET4AglzEXEaKUnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/0/OPlSyPQB6oXtn1rHjqmw/hpn5bihxsaa8vwd.jpg"
+    },
+    {
+      "titulo": "Dois pais e dois filhos morrem em acidente no Paraná no Dia dos Pais",
+      "imagem": "https://s2-g1.glbimg.com/hMQo4ZdYkknIyh8kqhUHO5R9-m8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/C/GWRsl6S5G7FrOElehFLg/g1-pr-2026-08-09t124934.009.jpg"
+    },
+    {
+      "titulo": "Cantor sertanejo monta estúdio dentro de van para divulgar DVD em Goiânia",
+      "imagem": "https://s2-g1.glbimg.com/EMX1MsJjHvMfg6K5ZRBI_9wODyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/i/rNbFvdTX2g71ZvIJ2RUg/padrao-foto-texto-g1-61-.jpg"
+    },
+    {
+      "titulo": "Mulher morre e outra fica ferida ao serem atropeladas no AC; VÍDEO mostra motorista fugir do local",
+      "imagem": "https://s2-g1.glbimg.com/bEl3srEe1pcr7h4z5O71Rv_8yhk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/E/gjDJOFQB2sZ0TmcREYOg/midia-de-distribuicao-g1-2026-08-09t095523.565.jpg"
+    },
+    {
+      "titulo": "IBGE atualiza limites territoriais de quatro cidades do Alto Tietê",
+      "imagem": "https://s2-g1.glbimg.com/_hmPrZLeHiUGOBp6XpIO17sEYeA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/f/NPDaTcQM2yY7sHbZqRoA/202010141023105f86fbbeae2dd.jpg"
+    },
+    {
+      "titulo": "Mega-Sena: Apostas de Goiás ganham mais de R$ 250 mil após acertar a quina",
+      "imagem": "https://s2-g1.glbimg.com/B5tMIoLpr30pNw8djBYlFmyKyow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/pwpJjAR0GtbRJ9XYzKdA/edicao-imagens-g1-17-.png"
+    },
+    {
+      "titulo": "Fuzis são encontrados dentro de carro após capotamento no TO",
+      "imagem": "https://s2-g1.glbimg.com/knAMnozvLVLFe3c4Mjt6ftJT6tU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/S/s8SXNtSzSUaQAEt8e53w/78596.jpg"
+    },
+    {
+      "titulo": "Defensoria oferece mais de 100 vagas para casais de migrantes e refugiados casar gratuitamente em Roraima",
+      "imagem": "https://s2-g1.glbimg.com/IxtSbLqoix5uX2nnA222QhW556g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/3/D/kL0O6BS6e5TUoBRJivJg/whatsapp-image-2024-08-03-at-19.57.52-scaled.jpeg"
+    },
+    {
       "titulo": "Parnaíba 182 anos: conheça a arquitetura, as paisagens e a culinária tradicionais da cidade",
       "imagem": "https://s2-g1.glbimg.com/XEumW6Gxd--TAjeVNxnBD2MjDsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/m/lPVVQkSsSh5Czz8y2W8g/edicao-imagens-g1-44-.png"
     },
@@ -67,59 +119,7 @@
     {
       "titulo": "Na era do 'farmar aura', menino de RO viraliza dançando clássicos dos anos 80 e 90",
       "imagem": "https://s2-g1.glbimg.com/O0T1zzBM5PXHDcnrU5jdoOTgiII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/v/55vmwRTHyKC8WHZuxBbw/g1-ro-2026-2-.jpg"
-    },
-    {
-      "titulo": "Adolescente denuncia ter sido extorquido sob ameaça de ter fotos íntimas expostas na internet",
-      "imagem": "https://s2-g1.glbimg.com/zTsyL1aBULtpJzxHNX2Ych4NzaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/A/BB4fdBRSCdTWqAhWQNfw/central-flagrantes.png"
-    },
-    {
-      "titulo": "Bolão de Fortaleza que ganhou R$ 164,9 milhões na Mega-Sena tem 100 cotas",
-      "imagem": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
-    },
-    {
-      "titulo": "Médico preso por estupro de vulnerável se encontrou com vítima para comemorar artigos publicados por ela",
-      "imagem": "https://s2-g1.glbimg.com/B_6iEVoPd2IZeHUsChzDkzMc1JA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/V/lqRF4CSaa46jPRoA9svQ/casa.jpg"
-    },
-    {
-      "titulo": "Incêndio atinge caixa de energia em polo gastronômico de Ananindeua",
-      "imagem": "https://s2-g1.glbimg.com/CIGzFpaqttTxXcZ7nsmR7EbTDXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/s/XXg9BGSYyMtf9eEFyKdQ/1786287813327427.jpg"
-    },
-    {
-      "titulo": "Loteria Federal hoje: resultado do concurso 6090 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/PadqbIzWf4vfCvVBB7IFwkobsQQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/H/SqP8bbSJCm6924vll5Iw/federal-6090-eaijk.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: Amazônia Agro - Acre deste domingo, 9 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/w8XSBlvGqztFWLA6SWlA4eyh4iw=/s01.video.glbimg.com/deo/vi/33/19/14851933"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Acre 2ª Edição deste sábado, 8 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/QFH5PMRcgVXzb3z7ssCC4pFCXEQ=/s01.video.glbimg.com/deo/vi/83/33/14853383"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
-    },
-    {
-      "titulo": "Homem é preso após esfaquear ex-mulher em Piracicaba",
-      "imagem": "https://s2-g1.glbimg.com/6fnozDVzePPnyLh2FiFvC0DNynA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/M/tfX93yRAGY6MAATbe3Bw/design-sem-nome-2026-08-09t122346.451.jpg"
-    },
-    {
-      "titulo": "Colisão entre carros deixa feridos e provoca interdição parcial na Rio-Santos, em Caraguatatuba",
-      "imagem": "https://s2-g1.glbimg.com/m0tfWkRHTPNeD4mVOuN7LT9Jbcg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/A/PTVRWnRi6h8nBYQSDMmw/foto-g1-1-.png"
-    },
-    {
-      "titulo": "Aprenda a fazer a rabada, prato tradicional da culinária nordestina e dica para almoço de Dia dos Pais",
-      "imagem": "https://s2-g1.glbimg.com/eOHP3_T-DG6XVKvjd_zTtL4Y3_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/E/7bYHavRWSWdIebRH4kvw/nordeste-rural-rabada.jpg"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Liberal",
-      "imagem": null
-    },
-    {
-      "titulo": "VÍDEOS: Liberal Comunidade de domingo, 09 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/Y4pmX4M-onmkl0OKl0c7IBFo_pg=/s01.video.glbimg.com/deo/vi/25/09/14850925"
     }
   ],
-  "atualizadoEm": "2026-08-09T15:57:49.393Z"
+  "atualizadoEm": "2026-08-09T16:38:50.050Z"
 }
