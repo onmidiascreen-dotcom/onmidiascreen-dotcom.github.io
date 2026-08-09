@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Petróleo abre semana em alta com incertezas sobre reabertura do estreito de Hormuz",
+      "imagem": null
+    },
+    {
+      "titulo": "Espanhóis Daniel Mérida e Rafael Jódar avançam às quartas do Masters 1000 de Montreal",
+      "imagem": null
+    },
+    {
+      "titulo": "'Estamos enfrentando': Lula trata fila do INSS na base do gerúndio",
+      "imagem": null
+    },
+    {
+      "titulo": "Moro percorre áreas atingidas pelo tornado em Piraí do Sul e acompanha situação das famílias",
+      "imagem": null
+    },
+    {
+      "titulo": "Por que Justiça voltou a prender o ex-marido de Maria da Penha, mulher que inspirou lei contra violência doméstica",
+      "imagem": null
+    },
+    {
       "titulo": "Tarcísio e Haddad participam do primeiro debate das eleições para governador em SP",
       "imagem": null
     },
@@ -39,27 +59,7 @@
     {
       "titulo": "Análise: Moraes acerta ao negar palco político a Bolsonaro no Dia dos Pais",
       "imagem": null
-    },
-    {
-      "titulo": "Moro e Paes decidem não ir a primeiro debate entre candidatos a governador",
-      "imagem": null
-    },
-    {
-      "titulo": "Desembargador federal abandona ações da Lava Jato após punição do CNJ",
-      "imagem": null
-    },
-    {
-      "titulo": "Rio de Janeiro tem alerta para ventos de até 75 km/h neste domingo",
-      "imagem": null
-    },
-    {
-      "titulo": "Justiça abriu as urnas diante da população, diz Nunes Marques",
-      "imagem": null
-    },
-    {
-      "titulo": "Bolão de Fortaleza leva prêmio de R$ 164 milhões da Mega-Sena",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-09T22:26:08.757Z"
+  "atualizadoEm": "2026-08-09T23:00:00.763Z"
 }

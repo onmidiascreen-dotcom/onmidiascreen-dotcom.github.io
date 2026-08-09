@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Patrimônio de Alexandre Kalil cresceu 62% em meio a dívida trabalhista",
+      "imagem": null
+    },
+    {
+      "titulo": "Gil do Vigor homenageia mães no Dia dos Pais: &#8220;Fortaleza para os filhos&#8221;",
+      "imagem": null
+    },
+    {
       "titulo": "Aos 95 anos, Mauro Mendonça celebra Dia dos Pais cercado pela família",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Jovem morta em queda de helicóptero no Rio era influenciadora na Colômbia",
       "imagem": null
-    },
-    {
-      "titulo": "Líder supremo do Irã nomeia representante em Conselho Segurança Nacional",
-      "imagem": null
-    },
-    {
-      "titulo": "Insights da Semana: Bitcoin ainda pode enfrentar meses de correção",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-09T22:26:09.181Z"
+  "atualizadoEm": "2026-08-09T22:59:58.831Z"
 }
