@@ -1,6 +1,58 @@
 {
   "noticias": [
     {
+      "titulo": "Projeto 'Ana Maria Brócolis': alunos de Sorocaba plantam mudas que vão virar merenda escolar",
+      "imagem": "https://s2-g1.glbimg.com/mtwb6tk2S8nW0E5MOK5dSrp7uA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/J/um4KjtRIe4MuBLqpnkbw/edicao-g1-agenda-2-.png"
+    },
+    {
+      "titulo": "Chanceler brasileiro diz que Argentina precisa 'parar as agressões' a Lula para normalizar relação",
+      "imagem": "https://s2-g1.glbimg.com/Ml_sprFRW23mp7JhU8YtYEawc5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/2/U6eCOZQnyTv5cgKcmJcA/55240312176-f4669e7bc4-k.jpg"
+    },
+    {
+      "titulo": "Festival Música, Família &amp; Morango é realizado em Atibaia; programe-se",
+      "imagem": "https://s2-g1.glbimg.com/MCQ2vwXcICjVFtPx8WuomkOBnd4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/x/v6au5HTVCCdCewjcnpfQ/morango.jpg"
+    },
+    {
+      "titulo": "Dia dos Pais: História de amor, luto e recomeço em Volta Redonda",
+      "imagem": "https://s2-g1.glbimg.com/orkV-Adgy9ZkrUkHrJFchwox-7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/N/YKWE1MR06TmBCJVUa4Mg/image-7-.jpg"
+    },
+    {
+      "titulo": "Cota do bolão de Fortaleza vencedor de R$ 164,9 milhões na Mega-Sena custou R$ 405",
+      "imagem": "https://s2-g1.glbimg.com/y-miekSrtO0r4t1nk2CgMJsxfKI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/d/RWVKi1RMeDEJaCEOAIIg/captura-de-tela-2026-08-09-110331.png"
+    },
+    {
+      "titulo": "Menina de 6 anos morre após sofrer queimaduras em 90% do corpo, diz SSP",
+      "imagem": "https://s2-g1.glbimg.com/lKbK6M4NIX4oMMHcpEqZnAcLQcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/m/HiYyjaSrKu36GiI4p5Mg/foto-e-montagem-vertical-2-.jpg"
+    },
+    {
+      "titulo": "Comércio, obras e cozinha: 594 vagas de emprego são disponibilizadas em Manaus nesta segunda (9); veja como participar",
+      "imagem": "https://s2-g1.glbimg.com/u23CoG4TokMX9n3JESO9r86sQ0Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/A/b6tmuwQjiAoStpuZmZfw/carteira-de-trabalho.jpg"
+    },
+    {
+      "titulo": "Homem morre após entrar no mar com amigos em Praia Grande, SP; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/f2irrIIeYNITs3sOGM3xYKVVaDc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Q/ctcVYAR0eueA3Jx3wZLQ/homem-morre.jpg"
+    },
+    {
+      "titulo": "Resultado da Mega-Sena 3042: 82 apostas do Piauí acertam números; veja valores",
+      "imagem": "https://s2-g1.glbimg.com/EMTTR6lnk36Zyd1OFglHEpgaoZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/3/trVaH8RJKNjPhAsWataA/imagem-g1-59-.png"
+    },
+    {
+      "titulo": "Estudante de MG é chamada para doar medula apenas 4 meses após se cadastrar: 'muito especial saber que pode salvar uma vida'",
+      "imagem": "https://s2-g1.glbimg.com/Bqle1Q_BkpFF1bgJAG9PjPOsRDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/i/iWMQH5RtOPZRPEqtEyWQ/medula.png"
+    },
+    {
+      "titulo": "Léo Santana se declara para os filhos no primeiro Dia dos Pais com caçula Levi: 'Que benção'",
+      "imagem": "https://s2-g1.glbimg.com/IVHCNWUPGmxOnR0qHOsGncfdDoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/U/oxXkKCRBCSWXtQuvPzBw/design-sem-nome-2026-08-09t133514.186.png"
+    },
+    {
+      "titulo": "Robô 'Maicon' dança e surpreende visitantes na Expofeira do Amapá",
+      "imagem": "https://s2-g1.glbimg.com/1xng4TkPzZydPtSujKiQU7ephjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/n/nCm31oRFGkffNSHyLOww/robo-n.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Estação Agrícola, 9 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/pJ_Ylsw3wRnFSIChVN5aVXamZ2k=/s01.video.glbimg.com/deo/vi/49/25/14852549"
+    },
+    {
       "titulo": "Missão do Vale da Eletrônica busca parceria com Vietnã para reduzir dependência tecnológica e avançar em semicondutores",
       "imagem": "https://s2-g1.glbimg.com/gycYDE9pdp6nFQKQYgPe8y-oKc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/q/8/OHT4VaR9WbEHrNFmxXyg/santarita.jpg"
     },
@@ -67,59 +119,7 @@
     {
       "titulo": "Ex-jogador Jadson é solto sem fiança após prisão por suspeita de agressão contra a esposa no PR",
       "imagem": "https://s2-g1.glbimg.com/6xBaiznrgmLpu5n1k8GRojVaoNw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/X/OZI73WT8qeu0P1At3dAQ/g1-pr-2026-08-08t204910.551.jpg"
-    },
-    {
-      "titulo": "PM prende suspeito de atacar zelador com paulada na cabeça no DF; vítima segue internada",
-      "imagem": "https://s2-g1.glbimg.com/JssGvQB3XriuOAQ-dztVT0p12gQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/q/opE0AJTt2dzXXrcof0bQ/a1120-df1-ge-limpo-07082026-frame-66082.jpeg"
-    },
-    {
-      "titulo": "'Natal country': comércio de Barretos prevê dobrar faturamento com Festa do Peão 2026",
-      "imagem": "https://s2-g1.glbimg.com/9sguy3dJJtECe1JzHgH0PCn-FF8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/s/okqPzwQwSqAlV7FoVqLg/molduras-g1-2026-07-29t161101.935.png"
-    },
-    {
-      "titulo": "Mulher é morta a facadas no Piauí; tio do marido é preso suspeito do crime",
-      "imagem": "https://s2-g1.glbimg.com/LlgHnRPImsM99iTkglyQXfMEzio=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/V/XqQP3CTP6eFqqZROKtjw/ameaca-faca.jpg"
-    },
-    {
-      "titulo": "Colisão frontal entre carro e picape na MGC-135 deixa dois motoristas feridos em Montes Claros",
-      "imagem": "https://s2-g1.glbimg.com/ujyNJepKvcaCFfNJ6FzZ8SMtJJw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/U/z4x91bQdmoEKGKT0a9Ag/whatsapp-image-2026-08-09-at-11.10.54.jpeg"
-    },
-    {
-      "titulo": "Paraíba tem 2,5 policiais militares para cada 100 mil habitantes, aponta Fórum de Segurança",
-      "imagem": "https://s2-g1.glbimg.com/D7mFMhgdXGFvme8bKhrTAo0xAuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/N/E/wKyj2HTxmMYPke7b5q9A/pmpb.jpg"
-    },
-    {
-      "titulo": "Dois jovens são arremessados de motocicleta e morrem após acidente em Castanhal, no PA",
-      "imagem": "https://s2-g1.glbimg.com/V26pGkJxZ6NmXtqHiFPGiUHEP20=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/G/EB3b44TCycAlQMoBpBnQ/image-2026-08-09t122657.018.png"
-    },
-    {
-      "titulo": "'Tudo indica que seja a vítima do desaparecimento', diz delegado sobre corpo encontrado em Peçanha",
-      "imagem": "https://s2-g1.glbimg.com/WikbbrHy08wUpS047Bz1AYNMYe4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/r/xXtpR7StOWrGBVp6iOmQ/whatsapp-image-2026-08-09-at-10.57.48.jpeg"
-    },
-    {
-      "titulo": "Semana do Bebê Salvador tem oficinas, rodas de conversa e atividades antirracistas; confira programação",
-      "imagem": "https://s2-g1.glbimg.com/lBd6iXiPKumWmezf1pzESdZsfAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/m/VaeAjHTzmFjragiuHKTA/07-08-2026-lancamento-oficial-da-semana-do-bebe-foto-jefferson-peixoto-secom-pms-40-1024x683-2-.jpg"
-    },
-    {
-      "titulo": "Dupla é detida em Praia Grande com motocicleta registrada em outra cidade",
-      "imagem": "https://s2-g1.glbimg.com/9PnmD60n8FI-ZX8tP0HzCs5LBCk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/g/ybaRt7QmK2a8ps1xAZjA/moto-roubada.jpg"
-    },
-    {
-      "titulo": "Mega-Sena: três apostas de SC ficam a um número de faturar R$ 164 milhões",
-      "imagem": "https://s2-g1.glbimg.com/yIjM_eO40TswLAzUX-zlaAX5tis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/n/GASOSkS1ukiJAf8RZA0g/mega-sena-sc.png"
-    },
-    {
-      "titulo": "Virginia faz homenagem ao pai no Dia dos Pais: 'Minha maior saudade'",
-      "imagem": "https://s2-g1.glbimg.com/PtkS5U_9PhDYLxFhx-cnHOh_ARo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Q/nBJ4G5Tqq1MCzcvYKMvw/padrao-foto-texto-g1-62-.jpg"
-    },
-    {
-      "titulo": "Angra dos Reis emite alerta para fortes rajadas de vento e risco de ciclone",
-      "imagem": "https://s2-g1.glbimg.com/O4NqycXZW-p8zvHYAK_XTOEBwzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/N/NtCQpuRN6db5TqIwEdGw/image-2-.jpg"
-    },
-    {
-      "titulo": "Na era do 'farmar aura', menino de RO viraliza dançando clássicos dos anos 80 e 90",
-      "imagem": "https://s2-g1.glbimg.com/O0T1zzBM5PXHDcnrU5jdoOTgiII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/v/55vmwRTHyKC8WHZuxBbw/g1-ro-2026-2-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-09T16:38:50.050Z"
+  "atualizadoEm": "2026-08-09T17:13:48.910Z"
 }
