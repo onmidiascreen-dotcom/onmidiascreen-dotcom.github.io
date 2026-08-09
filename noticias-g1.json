@@ -1,6 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "Fumaça toma conta de casa de bombas após curto-circuito em estação da Sabesp no litoral de SP",
+      "imagem": "https://s2-g1.glbimg.com/CkgNmJV_10MAj3QkvCS3HBLAZlU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/V/vsGczMT1u51oByQm72jA/fogo-estacao.jpg"
+    },
+    {
+      "titulo": "Idoso é preso por violência doméstica e tentativa de incendiar casa onde vivia com a vítima no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/6g76Vn_ZL6AUZQDtZTjqigeQOJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/I/j9srUQSQuBq5c7OqyqVg/design-sem-nome-2026-08-09t191004.983.jpg"
+    },
+    {
+      "titulo": "Leonardo recebe surpresa dos filhos João Guilherme, Jéssica Beatriz e Matheus Vargas no Dia dos Pais; vídeo",
+      "imagem": "https://s2-g1.glbimg.com/JaLSy8EmR-N8SkWPMzdmENpDMEg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/5/gxRTnhTBuU352y9pVwgA/leonardo-filhos.jpg"
+    },
+    {
+      "titulo": "Homem é morto a tiros em comunidade no interior do AM",
+      "imagem": "https://s2-g1.glbimg.com/Lky7SeVrS7ATz9KAOFJ3JkYUFRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/S/b/N1REydTHS484euRRtIKA/delegacia-interativa-de-policia-de-iranduba-foto-erlon-rodrigues-pcam.jpeg"
+    },
+    {
+      "titulo": "PM é acionada após suspeita de invasão à casa onde viveu Silvio Santos em SP",
+      "imagem": "https://s2-g1.glbimg.com/0xzJFlgdQyPFuhB4B9Cv3whYTj4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/A/XABZV0TM23uaqutsBLMw/age20240817010.jpg"
+    },
+    {
+      "titulo": "Caseiro é encontrado morto com ferimento no pescoço dentro de casa no Cantá",
+      "imagem": "https://s2-g1.glbimg.com/Be1zgHAxKxhNdLM1VOSgVuPEzEo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/D/wsEq1eSJSUxANjojwA0g/rabecao-iml-rr.jpeg"
+    },
+    {
+      "titulo": "Homem é morto a tiros no portão de casa em Juína (MT)",
+      "imagem": "https://s2-g1.glbimg.com/ZxyQbCjSJ7ElYWrWBy4PXnVkaJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/h/vsqBnzQ7iuolQHouY1rA/foto-g1-2026-07-29t160923.737.png"
+    },
+    {
       "titulo": "Homem morre afogado em praia de João Pessoa",
       "imagem": "https://s2-g1.glbimg.com/DdNncXeGNmszcrXY2HyA77nHNjA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/L/eJkOaOTQi70JoxUF0hwg/afogamento.jpg"
     },
@@ -91,35 +119,7 @@
     {
       "titulo": "Incêndio atinge prédio abandonado na Avenida Prudente de Morais, em BH",
       "imagem": "https://s2-g1.glbimg.com/bGOzZpqGv0LHmFdJnU7rkFZCdoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/i/itQswiRmKBJTeH16XDmA/vlcsnap-2026-08-09-17h29m24s815.jpg"
-    },
-    {
-      "titulo": "Morre Jorge Messi: a história do guardanapo em que o pai de Messi assinou com o Barcelona o acordo que mudou o futebol",
-      "imagem": "https://s2-g1.glbimg.com/O4ny8YqW38GdDolX-F3XLINWR5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/l7GsMMTHGNdnR6UdQGuA/fc064e80-93ed-11f1-870d-5d08c49babb2.jpg.webp"
-    },
-    {
-      "titulo": "Caminhão que transportava cavalos tomba em curva na zona rural de Pancas; dois animais morreram",
-      "imagem": "https://s2-g1.glbimg.com/zZCuAymQBn1JtZJQLQN_LwpX9Aw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/O/TzJ6xsTtO4V39uKLmpZQ/thumb-fotos-2026-08-09t171655.604.jpg"
-    },
-    {
-      "titulo": "Kitesurfista fica ferido após bater em embarcação durante manobra em praia Raposa",
-      "imagem": "https://s2-g1.glbimg.com/A0kSpPmbPNtJ2N8tkrI-AXt5100=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/H/PFltfXSs2YPom8rcXmXw/montagens-1920-x-1080-px-2026-08-09t171720.591.png"
-    },
-    {
-      "titulo": "Bell Marques celebra 1º Dia dos Pais do filho Rafa e faz homenagem: 'Orgulho imenso de você'",
-      "imagem": "https://s2-g1.glbimg.com/c9qVlVyHfnOpHl-01KrdjewPAYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/1/b663KKTYqOZv9UM1zy9Q/principio-de-incendio-atinge-maternidade-de-hospital-privado-de-salvador-14-.png"
-    },
-    {
-      "titulo": "Ministério Público Eleitoral pede impugnação da candidatura do neto de Luizinho Drumond",
-      "imagem": "https://s2-g1.glbimg.com/ya7YlAMVal1ExEd4ua88zrjNeaQ=/s.glbimg.com/jo/g1/f/original/2012/09/17/img_1850.jpg"
-    },
-    {
-      "titulo": "Paróquia de Ribeirão Preto, SP, troca sino após 39 anos; nova peça de bronze pesa 550 kg",
-      "imagem": "https://s2-g1.glbimg.com/BFrrqr2UA3JbOdpoIeexL16m2sQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/drP5WeRKAAxgWj4boHUA/molduras-g1-2026-08-08t161032.464.png"
-    },
-    {
-      "titulo": "Pescador morre após mal súbito durante mergulho em Fernando de Noronha",
-      "imagem": "https://s2-g1.glbimg.com/fxXEjLO82f6ML_qXOk2G_4MtT04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/t/Bx82h8R1aAAOt6oGYv2g/socorro-porto-cenour-2.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-09T21:47:03.815Z"
+  "atualizadoEm": "2026-08-09T22:26:11.105Z"
 }
