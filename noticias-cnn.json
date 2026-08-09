@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Após ciclone-bomba, frente fria baixa temperaturas e traz temporais ao país",
+      "imagem": null
+    },
+    {
+      "titulo": "Dia dos Pais: leitura compartilhada fortalece o vínculo entre pais e filhos",
+      "imagem": null
+    },
+    {
       "titulo": "Quais indicadores mostram que um banco é confiável?",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Palmeiras x Internacional: horário e onde assistir ao Brasileirão Série A",
       "imagem": null
-    },
-    {
-      "titulo": "Flamengo x Vitória: horário e onde assistir ao Brasileirão Série A",
-      "imagem": null
-    },
-    {
-      "titulo": "Endividamento recorde e juro elevado preocupam setores da economia",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-09T10:31:18.661Z"
+  "atualizadoEm": "2026-08-09T11:06:06.858Z"
 }

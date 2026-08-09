@@ -1,6 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "Bolo de laranja: aprenda deliciosa receita destaque no Clube Rural",
+      "imagem": "https://s2-g1.glbimg.com/M1UYLgT9cwMAbgf48BDEbKJOxBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/A/5MDJwDTV25WhiALaO6rQ/edicao-imagens-g1-85-.png"
+    },
+    {
+      "titulo": "Cerâmica, parceria e legado: pai vê no filho a continuidade de negócio criado há 30 anos no MA",
+      "imagem": "https://s2-g1.glbimg.com/JxnH3QzbHS1NGLSzIyWtyW-LMBs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/i/FXRtd1SRmhMmtgPSTRcw/foto3.jpeg"
+    },
+    {
+      "titulo": "Mãe de brasileira encontrada na França agradece retorno da filha: ‘Ela estar viva é tudo’",
+      "imagem": "https://s2-g1.glbimg.com/hTTOerl9YG4ojoMN9hKIcliUUsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/M/sbPe9sQ9Cd7zeOrhE8kQ/g1-foto-8-.jpg"
+    },
+    {
+      "titulo": "Receita Nosso Campo: aprenda a fazer um bolo de milho",
+      "imagem": "https://s2-g1.glbimg.com/6g1kY9Zk66hg-ZF_Pq2D4022ro4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/P/tMZgzxTAienlWuofljMQ/sjp-bolo-milho-mix-video-mixdown-3-frame-9084.jpeg"
+    },
+    {
+      "titulo": "Parceria com escola italiana busca aprimorar produção de vinhos em Jundiaí",
+      "imagem": "https://s2-g1.glbimg.com/ItXfyILyUrprMMrTtUz_v1wE9S0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/p/ahoOvMQyKEgmZ66YqzXA/sor-vinho-experimento-frame-4521.jpeg"
+    },
+    {
+      "titulo": "Família Roncoleta mantém tradição agrícola há cinco gerações em Getulina",
+      "imagem": "https://s2-g1.glbimg.com/u0-32G0UzR5SUshgbEa2vIZuBO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/O/JAMK6JRIyAIpwVSaArbw/sor-campo-pai-frame-125.jpeg"
+    },
+    {
+      "titulo": "Expo Rio Preto atrai 50 mil visitantes na primeira semana",
+      "imagem": "https://s2-g1.glbimg.com/ypfrqu_5EZLhPlUs7mQcgDSpHGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/N/7hGSOBRZ25nzAZXXuJeg/nc-expo-rio-preto-090826-video-mixdown-16-frame-5617.jpeg"
+    },
+    {
       "titulo": "Imponente, Maria Bethânia assume o protagonismo em reencontro com Paulinho da Viola em festival no Rio",
       "imagem": "https://s2-g1.glbimg.com/1NeVqHf7SGN6LO8xRXOz961WMYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/m/733FQjSHCDakIFDCNDEA/docemaravilha26-paulinho-da-viola-6919.jpg"
     },
@@ -30,7 +58,7 @@
     },
     {
       "titulo": "VÍDEOS: Jornal do Campo GO de domingo, 09 de agosto de 2026",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/MecSt6lH36-FJ-mhexOuc2XypTI=/s01.video.glbimg.com/deo/vi/57/02/14850257"
     },
     {
       "titulo": "Japão reabre debate sobre armas nucleares 81 anos após Hiroshima e Nagasaki",
@@ -91,35 +119,7 @@
     {
       "titulo": "Acreana inclui nome do pai na certidão de nascimento após mais de 50 anos: 'Sonho realizado'",
       "imagem": "https://s2-g1.glbimg.com/zeNdUZ3aTf4_JtTUYm7oHdpChYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/h/QxzicsScCf69424QgZog/midia-de-distribuicao-g1-2026-08-08t120955.284.png"
-    },
-    {
-      "titulo": "VÍDEO: robô garçom 'contratado' por padaria de SC viraliza por falar com clientes e até cantar parabéns",
-      "imagem": "https://s2-g1.glbimg.com/POuQaTwJwktsxMVm3uqQ9VHV6XU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/w/S5CBMfRdyUpfNFv9LATQ/robo-atendente-em-padaria-de-florianopolis-.png"
-    },
-    {
-      "titulo": "'O amor faz você descobrir forças': Triatleta de Divinópolis encontra na paternidade de trigêmeas sua maior prova",
-      "imagem": "https://s2-g1.glbimg.com/sJGDaUF0Ug9HJUAg6d3kCIn4mto=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/M/6qm2nTQBSZfaJJp9N1Ag/2.png"
-    },
-    {
-      "titulo": "Advogado e companheira dispensaram babá no dia em que Gustavo foi encontrado morto, diz delegado",
-      "imagem": "https://s2-g1.glbimg.com/UT6lmLLN3pdoLQIHmWGDyx0YwxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/O/kMm3qaQw2KjEqveEFCZg/89562.png"
-    },
-    {
-      "titulo": "Irã descarta negociações com os EUA enquanto acordo provisório for violado",
-      "imagem": "https://s2-g1.glbimg.com/ZNRdqNCAZktomMPyO7f-F-U_T50=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/A/kMHXl3RAupGg8WWQ6CEA/2026-06-16t111540z-820935837-rc2zulasy94w-rtrmadp-3-iran-crisis.jpg"
-    },
-    {
-      "titulo": "Ataques russos deixam 2 mortos e dezenas de feridos na Ucrânia, diz Zelensky",
-      "imagem": "https://s2-g1.glbimg.com/ejZ9szvDXbgmnazdZ3tUR4fDvig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/6/aqnYgIR7ydX9AUEvoCHA/2026-08-09t074235z-36483493-rc2vumakcfcv-rtrmadp-3-ukraine-crisis-attack-odesa.jpg"
-    },
-    {
-      "titulo": "Viajar no meio da semana pode render até 20% de economia em Atibaia",
-      "imagem": "https://s2-g1.glbimg.com/A-lK3EGXI1g6OPN1vjLJNgZIbnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Z/X/CB982dQ0OI41RB9wTJ3g/whatsapp-image-2023-11-30-at-15.30.22.jpeg"
-    },
-    {
-      "titulo": "De pai para filha: cirurgião inspira a filha, e os dois passam a operar corações juntos em SP",
-      "imagem": "https://s2-g1.glbimg.com/wC6SYq0JVZldkE31miYmBqf9rhQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/kNfd1BTLu6RUgFirxKaQ/whatsapp-image-2026-08-07-at-17.38.04.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-09T10:31:19.813Z"
+  "atualizadoEm": "2026-08-09T11:06:07.368Z"
 }
