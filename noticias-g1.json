@@ -1,6 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "Motociclista morre após batida entre moto e ônibus em Cravinhos, SP",
+      "imagem": "https://s2-g1.glbimg.com/7tyug5iJCNJYsh_8-1LKrlOdM84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/O/B53P0bQqqHLu3nc9FeGA/creditos-portal-cravinhense-3-.jpeg"
+    },
+    {
+      "titulo": "Idoso de 82 anos morre após se engasgar em restaurante de shopping em Juiz de Fora",
+      "imagem": "https://s2-g1.glbimg.com/MF--e2AimHO2_B4tAhpSlALAdms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/B/BnAyjCTAiY5W11ZwL32Q/edicao-imagens-g1.png"
+    },
+    {
+      "titulo": "'Robotizado ou substituível?': futuro da contabilidade na era da IA reúne especialistas em Florianópolis",
+      "imagem": "https://s2-g1.glbimg.com/-eleXiPKww4KbwtlghAkF8aytc0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/4/qceNQvRkyK5LSxGHTn3Q/colagem-autoscale.jpg"
+    },
+    {
+      "titulo": "Briga por dívida trabalhista de R$ 750 termina com homem morto no Litoral Norte de SC",
+      "imagem": "https://s2-g1.glbimg.com/ONqNsYFDKZvMdtkhoL6DMFvMbcQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/A/GUPcOOSgC5qaxe8YRp8w/whatsapp-image-2025-01-20-at-10.06.58.jpeg"
+    },
+    {
+      "titulo": "‘Intocável’ na Bolívia: como narcotraficante foi parar em MS",
+      "imagem": "https://s2-g1.glbimg.com/-8AJxB5H4-Xdv93S9tJl0goLdqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/r/wm9cBTQaS4YBrowbIm1A/canva-2026-08-09t163812.707.png"
+    },
+    {
+      "titulo": "Incêndio atinge prédio abandonado na Avenida Prudente de Morais, em BH",
+      "imagem": "https://s2-g1.glbimg.com/bGOzZpqGv0LHmFdJnU7rkFZCdoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/i/itQswiRmKBJTeH16XDmA/vlcsnap-2026-08-09-17h29m24s815.jpg"
+    },
+    {
+      "titulo": "Morre Jorge Messi: a história do guardanapo em que o pai de Messi assinou com o Barcelona o acordo que mudou o futebol",
+      "imagem": "https://s2-g1.glbimg.com/O4ny8YqW38GdDolX-F3XLINWR5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/l7GsMMTHGNdnR6UdQGuA/fc064e80-93ed-11f1-870d-5d08c49babb2.jpg.webp"
+    },
+    {
       "titulo": "Caminhão que transportava cavalos tomba em curva na zona rural de Pancas; dois animais morreram",
       "imagem": "https://s2-g1.glbimg.com/zZCuAymQBn1JtZJQLQN_LwpX9Aw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/O/TzJ6xsTtO4V39uKLmpZQ/thumb-fotos-2026-08-09t171655.604.jpg"
     },
@@ -38,7 +66,7 @@
     },
     {
       "titulo": "Incêndio atinge apartamento em prédio na Barra da Tijuca",
-      "imagem": "https://s2-g1.glbimg.com/oKVRI-28nU9PXrXfVgZH5BdDBhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/x/VdtDlMRfu4y3XezyBJRQ/imagem-cortada-94-.jpg"
+      "imagem": "https://s2-g1.glbimg.com/9E12p9OVKn1xmi04fZ-drlXuXXY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/6/eInGiuREAbjYWu4f4Rcw/whatsapp-image-2026-08-09-at-17.24.49.jpeg"
     },
     {
       "titulo": "Raquel Lyra registra B.O. após receber PIX de desconhecidos e denuncia vídeo falso em que pede dinheiro a eleitores",
@@ -50,7 +78,7 @@
     },
     {
       "titulo": "Ex-marido de Maria da Penha é preso após dar entrevista sobre tentativa de matar a ativista",
-      "imagem": "https://s2-g1.glbimg.com/tgL8GDDZEURAKISROPBXwNEegM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Y/q32OOKS3iQC70RYA4I3g/maria4.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/cJBx8s8jdibXL14tG-zCJC_r4YI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/svcnIDSFqZ4BAuHDU1vQ/marco-antonio-heredia-viveros-ex-marido-da-ativista-maria-da-penha1.png"
     },
     {
       "titulo": "Após pedir que leitores não comprem seu livro, a navegadora e escritora Tamara Klink se retrata: 'Errei'",
@@ -91,35 +119,7 @@
     {
       "titulo": "Por que Miami virou a nova capital dos ultrarricos nos EUA (e ficou mais cara até que Nova York)",
       "imagem": "https://s2-g1.glbimg.com/McvZXGlIyi-tgsap040nV6zCgJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/cxr0G9S1OBFhLQzHTxrQ/15a4bc30-877f-11f1-b8ee-9b3c26ad07bb.jpg.webp"
-    },
-    {
-      "titulo": "Dois homens são feridos a faca durante discussões com mulheres em MT",
-      "imagem": "https://s2-g1.glbimg.com/wM8jft_gVy4T3VVCkNCYlcTzqzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/x/AnHtYhTyq9SHhuyoVk2w/design-sem-nome-80-.png"
-    },
-    {
-      "titulo": "Dois irmãos foram baleados em tiroteio no bairro Jardim Tropical, em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/LTgRPiPNah3Wg8XKopBKMvvIyzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/h/rqiQXjRiGgo88WQXGJmw/prontosocorro.jpg"
-    },
-    {
-      "titulo": "Motorista é preso suspeito de embriaguez ao volante, lesão corporal e ameaça em Belém",
-      "imagem": "https://s2-g1.glbimg.com/XDzucib69I1QpFeviOWsJXJwQmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/g/zXSLRXTMqtLJqyPs2AgA/1786302512650615.jpg"
-    },
-    {
-      "titulo": "Acidentes de moto deixam dois mortos em Dois Córregos e Jaú no fim de semana",
-      "imagem": "https://s2-g1.glbimg.com/cIfTBKby1b_ux7Njn7jejhw6kAY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/Y/wOTlAfS7CA8drthqkSYg/artesp-3-.jpg"
-    },
-    {
-      "titulo": "Homem mata companheira a facadas em Osasco, na Grande SP, e é procurado pela polícia",
-      "imagem": "https://s2-g1.glbimg.com/_qrUDw6PULn3HGhoU94ptpff5R0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/M/otq61TRPmmAVa4vnQArw/fotojet-2026-08-09t155135.925.jpg"
-    },
-    {
-      "titulo": "Primeira fase de obra no Córrego São Pedro começa nesta segunda em Juiz de Fora; veja impactos no trânsito",
-      "imagem": "https://s2-g1.glbimg.com/f4EcHuVNHqjr-iGzqeWhCZS8L-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/t/AuwoRNSrqWB9SviDzzBg/obra-obras-de-macrodrenagem-no-bairro-mariano-procopio-em-juiz-de-fora.jpg"
-    },
-    {
-      "titulo": "Ataque a tiros mata homem, criança de 5 anos e deixa três feridos em Campos, no RJ",
-      "imagem": "https://s2-g1.glbimg.com/BaXIW1yKiJo3WtbD6EMw0geTRqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/x/1/BK5byrSdi0pLcsHmr7ow/146-dp-guarus.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-09T20:30:02.241Z"
+  "atualizadoEm": "2026-08-09T21:03:49.533Z"
 }
