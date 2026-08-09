@@ -1,12 +1,84 @@
 {
   "noticias": [
     {
+      "titulo": "Corpo de golfinho é achado na Praia de Candeias um dia após morte de quatro tartarugas no Grande Recife",
+      "imagem": "https://s2-g1.glbimg.com/iKMJDX2HM9ykYoqZ6_IqVSq7SRs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/E/2lv5Q6RmSm7TSQWbEt0w/golfinho-candeias.jpeg"
+    },
+    {
+      "titulo": "Incêndio atinge prédio residencial na Zona Norte de Manaus",
+      "imagem": "https://s2-g1.glbimg.com/dJfuRba1fMExtim2-7Gd3Th0y70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/k/OjFGQZTv2wkO41ehHFAg/incendio-atinge-predio-residencial-em-manaus.jpg"
+    },
+    {
+      "titulo": "Homem morre e adolescente fica ferido após colisão entre moto e bicicleta elétrica na SE-270 em Salgado",
+      "imagem": "https://s2-g1.glbimg.com/b0E83pY8FcpHcxn9PtPwdhccEhI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/m/1Aeh5WQNyOg1vLR8U9kw/moto.jpg"
+    },
+    {
+      "titulo": "Mega-Sena: 13 apostas simples e dois bolões do Paraná acertam cinco números e levam prêmios",
+      "imagem": "https://s2-g1.glbimg.com/uWWg9r_YnVxE7_QFtTBUrk-gadY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/F/07GIU5TCe25kklNrTGXg/mega-sena-1200.webp"
+    },
+    {
+      "titulo": "Empresário preso por lavagem de dinheiro morre uma semana após sofrer AVC no Acre",
+      "imagem": "https://s2-g1.glbimg.com/ofY09yIqCMBLbX0O2XmW3jc_F8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/C/NDu35mRLSvTnLGqyQJZw/midia-de-distribuicao-g1-2026-08-09t111340.332.jpg"
+    },
+    {
+      "titulo": "Incêndio atinge pontos comerciais em Castanhal, no Pará",
+      "imagem": "https://s2-g1.glbimg.com/-5nfG0NoXgtEge1rzfroTbDhtpw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Z/oB9PVEQ9yC32F8iAGOKQ/178629964843127.jpg"
+    },
+    {
+      "titulo": "Aos 65 anos, mulher que não pôde estudar na infância aprende a ler, conclui ensino médio e escreve livro na PB",
+      "imagem": "https://s2-g1.glbimg.com/aLN4HejfMYd3Qmzl5XMfAkppNUk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/H/Oa0QYiS0iUbKjhXI4NSA/idosa-de-sousa.png"
+    },
+    {
+      "titulo": "Moradores reclamam de falta de água no Dia dos Pais em São José dos Campos; Sabesp alega manutenção emergencial",
+      "imagem": "https://s2-g1.glbimg.com/QNDbx8yM5jqwewPn89JHsOJpayM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/l/gcSO5IQgWRM1aaXBMf2g/foto-g1-1-.jpg"
+    },
+    {
+      "titulo": "'Dominguinho' em Uberlândia promove o encontro entre forró e MPB com repertório renovado",
+      "imagem": "https://s2-g1.glbimg.com/xnuN0eVT5fvoNEhHn-WHvlCphcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/h/xLAkNBRKexNSzspqT6QA/design-sem-nome-2-.png"
+    },
+    {
+      "titulo": "IFMG de Formiga está entre as 20 melhores escolas públicas de ensino médio de MG no Ideb 2025",
+      "imagem": "https://s2-g1.glbimg.com/AAbbkezMrD3TObjMZtVwjvJt7vM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/l/O4WounSSmENEHTIfwqkw/ifmg-de-formiga.png"
+    },
+    {
+      "titulo": "Gusttavo Lima, escolha da Rainha e mais: veja o que vai rolar neste domingo (9) na Expofeira do Amapá",
+      "imagem": "https://s2-g1.glbimg.com/lh9BOnlWYVtsXBHk0IvUk5PJh6c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/o/JUFYzPTNWjAtuuh04ZQg/nova.jpg"
+    },
+    {
+      "titulo": "VÍDEO: gêmea nasce empelicada e fazendo 'pose' com as mãos em Vitória; 'ficamos todos maravilhados', diz mãe",
+      "imagem": "https://s2-g1.glbimg.com/myIxDb-txgVFyH1PesgKHawPS2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/Z/re5EmGTcSr3WBg0TiLmw/thumb-fotos-2026-08-09t144519.250.jpg"
+    },
+    {
+      "titulo": "Com premiação de até R$ 1,5 mil, festival de cinema lança 4ª edição com tema 'A Mesa' em Bauru",
+      "imagem": "https://s2-g1.glbimg.com/dOjlYkHLUpYrdzVzDno8Y3nMZYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/T/MCdMbWSleQ7fwEArJw8w/novo-projeto-2026-08-07t112939.348.png"
+    },
+    {
+      "titulo": "Jovem morre ao se envolver em acidente com motocicleta em Birigui",
+      "imagem": "https://s2-g1.glbimg.com/v5IQpXmC5vOc1SJpufOueTpXoKM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/s/govUDZSsK1bSnstR8fnA/14795582-74-.jpg"
+    },
+    {
+      "titulo": "Lionel Messi se despede de seu pai e recebe mensagens de carinho em Rosário; fotos",
+      "imagem": "https://s2-g1.glbimg.com/zx9epjKrtluUt885HxBy7Km8o1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/g/TFLyGGSWAQYlyGN3SDRw/2026-08-09t144516z-710057378-rc22vmags15b-rtrmadp-3-soccer-argentina-messi.jpg"
+    },
+    {
+      "titulo": "Duas pessoas ficam feridas após batida entre caminhonete e moto em Santarém",
+      "imagem": "https://s2-g1.glbimg.com/1bEC4qX6FvDuogiFiuVaqgN6eng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/k/Bup6SCTdADIhG4MkCo2Q/whatsapp-image-2026-08-09-at-14.53.40.jpeg"
+    },
+    {
+      "titulo": "Encerra nesta segunda-feira as inscrições do concurso do Corpo de Bombeiros de Roraima",
+      "imagem": "https://s2-g1.glbimg.com/s6sxabumkYC5uOFvp_i0zMFSa98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/I/I/reWoZ7S2SvASIdCMcXIA/cbm.jpeg"
+    },
+    {
+      "titulo": "Motorista baiano é encontrado morto após carreta-tanque pegar fogo em acidente na BR-116, em Minas Gerais",
+      "imagem": "https://s2-g1.glbimg.com/BIpWozX7350XgxMO3cr5FcBjt3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/6/sOWWIRSnqKkSxrAOCcIQ/principio-de-incendio-atinge-maternidade-de-hospital-privado-de-salvador-13-.png"
+    },
+    {
       "titulo": "Atriz de ‘Harry Potter’ diz que ganhou mais no OnlyFans do que em toda a carreira",
       "imagem": "https://s2-g1.glbimg.com/tPdS5DegOygO1d0C_j-hWrKijaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/M/dW1a9CTcWmG5kr7Y4nag/only-harry.jpg"
     },
     {
       "titulo": "Apresentação do Boi Galante dura menos de 30 minutos em festival no AM; presidente alega falta de repasses, já Secretaria de Cultura atribui a questões internas da agremiação",
-      "imagem": "https://s2-g1.glbimg.com/4qy4utXs6YLJy0he6-ketGMZzfU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Z/lA00YgQK6BQTvVqnndJw/apresentacao-simbolica-do-boi-galante-em-manaus.jpg"
+      "imagem": "https://s2-g1.glbimg.com/Ef7TBg3WuaRli3FqD9SwG1G-0kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/l/8SRBmoQLqXXTqigJ41Wg/apresentacao-simbolica-do-boi-galante-em-manaus-1-.jpg"
     },
     {
       "titulo": "Homens são presos suspeitos de controlar drone que enviaria celulares para prisão na Grande BH",
@@ -29,7 +101,7 @@
       "imagem": "https://s2-g1.glbimg.com/fu8jXvuYDSynz-H0Zf8E6f2k4Gs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/juuAgLSiiAwg1j6VBfnQ/befunky-collage-4-.jpg"
     },
     {
-      "titulo": "Crianças de 3 e 5 anos são encontradas mortas dentro de carro na Zona Sul de SP; pai é suspeito",
+      "titulo": "Crianças de 3 e 5 anos são encontradas mortas dentro de carro na Zona Sul de SP; pai é preso em flagrante",
       "imagem": "https://s2-g1.glbimg.com/K_aGmHX-lMW3Wc9ijIAw25yAbhU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/M/RkBroNQKqreAgURBa2Ww/fotojet-67-.jpg"
     },
     {
@@ -47,79 +119,7 @@
     {
       "titulo": "Homem é preso por maus-tratos após seis cães serem resgatados em Ituverava, SP; nove filhotes morreram",
       "imagem": "https://s2-g1.glbimg.com/vZE7S89z2DSZ3qp85uJTULcg7n0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/2/zfGeiAQMqB1J53FWBREw/chatgpt-image-9-de-ago.-de-2026-13-59-01.png"
-    },
-    {
-      "titulo": "VÍDEO: carro atinge moto em cheio, e motociclista é arremessado para o alto na Zona Leste de SP",
-      "imagem": "https://s2-g1.glbimg.com/sVRyiNYLqTdACc8SIx0Pia9UBsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Z/RRXY4DRKaHStDlpZpBNg/captura-de-tela-2026-08-09-134649.jpg"
-    },
-    {
-      "titulo": "Anvisa determina apreensão de seis tipos de sal vendidos irregularmente; veja lista",
-      "imagem": "https://s2-g1.glbimg.com/c8rC4Fs034GxPQ7Wh0vEtdBAiAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/W/F8fsvoQ424BRAoQjxmGg/sal.jpg"
-    },
-    {
-      "titulo": "Homem é preso suspeito de agredir esposa e filho após arrombar janela de casa em Presidente Prudente",
-      "imagem": "https://s2-g1.glbimg.com/bd3kxf2e8lB4P-EmScQhcE3vftw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/Oqlnd2T1m76pXifJ7CDg/whatsapp-image-2026-07-13-at-15.05.39.jpeg"
-    },
-    {
-      "titulo": "Projeto 'Ana Maria Brócolis': alunos de Sorocaba plantam mudas que vão virar merenda escolar",
-      "imagem": "https://s2-g1.glbimg.com/mtwb6tk2S8nW0E5MOK5dSrp7uA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/J/um4KjtRIe4MuBLqpnkbw/edicao-g1-agenda-2-.png"
-    },
-    {
-      "titulo": "Chanceler brasileiro diz que Argentina precisa 'parar as agressões' a Lula para normalizar relação",
-      "imagem": "https://s2-g1.glbimg.com/1ZdkM2vVBAoIpGtPvWrfTUiw9yE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/M/fSArM6RiuaF6rZGwXmNA/photo-collage.png-1-.png"
-    },
-    {
-      "titulo": "Festival Música, Família &amp; Morango é realizado em Atibaia; programe-se",
-      "imagem": "https://s2-g1.glbimg.com/MCQ2vwXcICjVFtPx8WuomkOBnd4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/x/v6au5HTVCCdCewjcnpfQ/morango.jpg"
-    },
-    {
-      "titulo": "Dia dos Pais: História de amor, luto e recomeço em Volta Redonda",
-      "imagem": "https://s2-g1.glbimg.com/orkV-Adgy9ZkrUkHrJFchwox-7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/N/YKWE1MR06TmBCJVUa4Mg/image-7-.jpg"
-    },
-    {
-      "titulo": "Cota do bolão de Fortaleza vencedor de R$ 164,9 milhões na Mega-Sena custou R$ 405",
-      "imagem": "https://s2-g1.glbimg.com/y-miekSrtO0r4t1nk2CgMJsxfKI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/d/RWVKi1RMeDEJaCEOAIIg/captura-de-tela-2026-08-09-110331.png"
-    },
-    {
-      "titulo": "Menina de 6 anos morre após sofrer queimaduras em 90% do corpo, diz SSP",
-      "imagem": "https://s2-g1.glbimg.com/lKbK6M4NIX4oMMHcpEqZnAcLQcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/m/HiYyjaSrKu36GiI4p5Mg/foto-e-montagem-vertical-2-.jpg"
-    },
-    {
-      "titulo": "Comércio, obras e cozinha: 594 vagas de emprego são disponibilizadas em Manaus nesta segunda (9); veja como participar",
-      "imagem": "https://s2-g1.glbimg.com/u23CoG4TokMX9n3JESO9r86sQ0Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/A/b6tmuwQjiAoStpuZmZfw/carteira-de-trabalho.jpg"
-    },
-    {
-      "titulo": "Homem morre após entrar no mar com amigos em Praia Grande, SP; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/f2irrIIeYNITs3sOGM3xYKVVaDc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Q/ctcVYAR0eueA3Jx3wZLQ/homem-morre.jpg"
-    },
-    {
-      "titulo": "Resultado da Mega-Sena 3042: 82 apostas do Piauí acertam números; veja valores",
-      "imagem": "https://s2-g1.glbimg.com/EMTTR6lnk36Zyd1OFglHEpgaoZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/3/trVaH8RJKNjPhAsWataA/imagem-g1-59-.png"
-    },
-    {
-      "titulo": "Estudante de MG é chamada para doar medula apenas 4 meses após se cadastrar: 'muito especial saber que pode salvar uma vida'",
-      "imagem": "https://s2-g1.glbimg.com/Bqle1Q_BkpFF1bgJAG9PjPOsRDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/i/iWMQH5RtOPZRPEqtEyWQ/medula.png"
-    },
-    {
-      "titulo": "Léo Santana se declara para os filhos no primeiro Dia dos Pais com caçula Levi: 'Que benção'",
-      "imagem": "https://s2-g1.glbimg.com/IVHCNWUPGmxOnR0qHOsGncfdDoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/U/oxXkKCRBCSWXtQuvPzBw/design-sem-nome-2026-08-09t133514.186.png"
-    },
-    {
-      "titulo": "Robô 'Maicon' dança e surpreende visitantes na Expofeira do Amapá",
-      "imagem": "https://s2-g1.glbimg.com/1xng4TkPzZydPtSujKiQU7ephjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/n/nCm31oRFGkffNSHyLOww/robo-n.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Estação Agrícola, 9 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/pJ_Ylsw3wRnFSIChVN5aVXamZ2k=/s01.video.glbimg.com/deo/vi/49/25/14852549"
-    },
-    {
-      "titulo": "Missão do Vale da Eletrônica busca parceria com Vietnã para reduzir dependência tecnológica e avançar em semicondutores",
-      "imagem": "https://s2-g1.glbimg.com/gycYDE9pdp6nFQKQYgPe8y-oKc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/q/8/OHT4VaR9WbEHrNFmxXyg/santarita.jpg"
-    },
-    {
-      "titulo": "Dois homens são mortos a tiros enquanto dormiam na rua em Vila Velha; moradores suspeitam de ataque a usuários de drogas",
-      "imagem": "https://s2-g1.glbimg.com/XK1_3rABsmMAfFuKfBrnjvBEtW4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/f/A8Ux9FTay1Z3aAgjmDUw/thumb-fotos-2026-08-09t125135.622.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-09T17:48:44.303Z"
+  "atualizadoEm": "2026-08-09T18:34:47.816Z"
 }
