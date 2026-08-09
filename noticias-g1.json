@@ -1,6 +1,50 @@
 {
   "noticias": [
     {
+      "titulo": "Parnaíba 182 anos: conheça a arquitetura, as paisagens e a culinária tradicionais da cidade",
+      "imagem": "https://s2-g1.glbimg.com/XEumW6Gxd--TAjeVNxnBD2MjDsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/m/lPVVQkSsSh5Czz8y2W8g/edicao-imagens-g1-44-.png"
+    },
+    {
+      "titulo": "Filho de piloto morto em queda de helicóptero no Rio antecipou Dia dos Pais com o pai: ‘Fizemos um churrasco em família’",
+      "imagem": "https://s2-g1.glbimg.com/k1B5hiIFQXvGgUfcw9JKkN7ZFPI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/0/KkfMQgQtaBBwrZmQiXDQ/alessandro-rocha-03.jpg"
+    },
+    {
+      "titulo": "Mega-Sena: aposta do interior de SP fica a um número de ganhar R$ 164 milhões",
+      "imagem": "https://s2-g1.glbimg.com/yIjM_eO40TswLAzUX-zlaAX5tis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/n/GASOSkS1ukiJAf8RZA0g/mega-sena-sc.png"
+    },
+    {
+      "titulo": "Ex-jogador Jadson é solto sem fiança após prisão por suspeita de agressão contra a esposa no PR",
+      "imagem": "https://s2-g1.glbimg.com/6xBaiznrgmLpu5n1k8GRojVaoNw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/X/OZI73WT8qeu0P1At3dAQ/g1-pr-2026-08-08t204910.551.jpg"
+    },
+    {
+      "titulo": "PM prende suspeito de atacar zelador com paulada na cabeça no DF; vítima segue internada",
+      "imagem": "https://s2-g1.glbimg.com/JssGvQB3XriuOAQ-dztVT0p12gQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/q/opE0AJTt2dzXXrcof0bQ/a1120-df1-ge-limpo-07082026-frame-66082.jpeg"
+    },
+    {
+      "titulo": "'Natal country': comércio de Barretos prevê dobrar faturamento com Festa do Peão 2026",
+      "imagem": "https://s2-g1.glbimg.com/9sguy3dJJtECe1JzHgH0PCn-FF8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/s/okqPzwQwSqAlV7FoVqLg/molduras-g1-2026-07-29t161101.935.png"
+    },
+    {
+      "titulo": "Mulher é morta a facadas no Piauí; tio do marido é preso suspeito do crime",
+      "imagem": "https://s2-g1.glbimg.com/LlgHnRPImsM99iTkglyQXfMEzio=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/V/XqQP3CTP6eFqqZROKtjw/ameaca-faca.jpg"
+    },
+    {
+      "titulo": "Colisão frontal entre carro e picape na MGC-135 deixa dois motoristas feridos em Montes Claros",
+      "imagem": "https://s2-g1.glbimg.com/ujyNJepKvcaCFfNJ6FzZ8SMtJJw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/U/z4x91bQdmoEKGKT0a9Ag/whatsapp-image-2026-08-09-at-11.10.54.jpeg"
+    },
+    {
+      "titulo": "Paraíba tem 2,5 policiais militares para cada 100 mil habitantes, aponta Fórum de Segurança",
+      "imagem": "https://s2-g1.glbimg.com/D7mFMhgdXGFvme8bKhrTAo0xAuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/N/E/wKyj2HTxmMYPke7b5q9A/pmpb.jpg"
+    },
+    {
+      "titulo": "Dois jovens são arremessados de motocicleta e morrem após acidente em Castanhal, no PA",
+      "imagem": "https://s2-g1.glbimg.com/V26pGkJxZ6NmXtqHiFPGiUHEP20=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/G/EB3b44TCycAlQMoBpBnQ/image-2026-08-09t122657.018.png"
+    },
+    {
+      "titulo": "'Tudo indica que seja a vítima do desaparecimento', diz delegado sobre corpo encontrado em Peçanha",
+      "imagem": "https://s2-g1.glbimg.com/WikbbrHy08wUpS047Bz1AYNMYe4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/r/xXtpR7StOWrGBVp6iOmQ/whatsapp-image-2026-08-09-at-10.57.48.jpeg"
+    },
+    {
       "titulo": "Semana do Bebê Salvador tem oficinas, rodas de conversa e atividades antirracistas; confira programação",
       "imagem": "https://s2-g1.glbimg.com/lBd6iXiPKumWmezf1pzESdZsfAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/m/VaeAjHTzmFjragiuHKTA/07-08-2026-lancamento-oficial-da-semana-do-bebe-foto-jefferson-peixoto-secom-pms-40-1024x683-2-.jpg"
     },
@@ -58,7 +102,7 @@
     },
     {
       "titulo": "Homem é preso após esfaquear ex-mulher em Piracicaba",
-      "imagem": "https://s2-g1.glbimg.com/keOwk2vDHv53cXdDpdhK1ZpRaAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/v/3O2uFqS9imkAeBATh0tw/delegacia-de-defesa-da-mulher-de-piracicaba.jpg"
+      "imagem": "https://s2-g1.glbimg.com/6fnozDVzePPnyLh2FiFvC0DNynA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/M/tfX93yRAGY6MAATbe3Bw/design-sem-nome-2026-08-09t122346.451.jpg"
     },
     {
       "titulo": "Colisão entre carros deixa feridos e provoca interdição parcial na Rio-Santos, em Caraguatatuba",
@@ -75,51 +119,7 @@
     {
       "titulo": "VÍDEOS: Liberal Comunidade de domingo, 09 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/Y4pmX4M-onmkl0OKl0c7IBFo_pg=/s01.video.glbimg.com/deo/vi/25/09/14850925"
-    },
-    {
-      "titulo": "Quadrilha invade casa, faz moradores reféns e acaba presa em Sorocaba",
-      "imagem": "https://s2-g1.glbimg.com/qALUO4QXFtsRrxytYUJUepasLG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/6/N6zpvbTaGqB3WM4ulHng/roubo-sorocaba.jpg"
-    },
-    {
-      "titulo": "Fundador de comércio tradicional do Acre, Ney Matos, morre aos 74 anos",
-      "imagem": "https://s2-g1.glbimg.com/EXRHm3Cij4FcYWjRpVBB4JwB-A0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/r/uH88LMRtmwd4OsVG6wFQ/midia-de-distribuicao-g1.png"
-    },
-    {
-      "titulo": "VÍDEO: Incêndio de grandes proporções atinge fábrica de resina no RS e mobiliza bombeiros de três cidades",
-      "imagem": "https://s2-g1.glbimg.com/N8lqeGk-dwrf1hygcKHZ2-lC5LU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/S/H9Qk7FTaWwmhSC5qPUbg/whatsapp-image-2026-08-09-at-10.47.19-1-.jpeg"
-    },
-    {
-      "titulo": "Obras do viaduto Passarão vão interditar avenidas Brasil e Coronel Teixeira em Manaus; veja como ficará o trânsito",
-      "imagem": "https://s2-g1.glbimg.com/iia-oAUCAOetDL7pto9tzdISQ48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/m/rYu2vrQtePhmbceNbESw/complexo-passarao-manaus.jpg"
-    },
-    {
-      "titulo": "Multidão vibra com show de Léo Santana na abertura da Expofeira do Amapá 2026",
-      "imagem": "https://s2-g1.glbimg.com/vKeKvjxUAPmbLPmfnIBzJMLZl_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/e/AYyURNTZGXZAqaBQ81Vw/whatsapp-image-2026-08-09-at-10.50.01.jpeg"
-    },
-    {
-      "titulo": "+Milionária hoje: resultado do concurso 379 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/VPtTR4_vgqoFnYzG56PuvtkfdWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/c/KwP0W7SZq9iVM6fGqGCQ/maismilionaria-379-rwycd.jpeg"
-    },
-    {
-      "titulo": "Timemania hoje: resultado do concurso 2426 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/vZV5DikaIHgB12m2ZE2-Te_Lw1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/h/v9upnpTeS5qrcv9E9adw/timemania-2426-yajhg.jpeg"
-    },
-    {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1267 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/P-xlnqGWLg0VqJzrGZeumIzTbD0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/0/rpaa73T32D3xmAdctIJQ/diadesorte-1267-qvjbv.jpeg"
-    },
-    {
-      "titulo": "Hospital João XXIII registra vazamento de oxigênio, e bombeiros são acionados",
-      "imagem": "https://s2-g1.glbimg.com/wPW1BlK6zV7dubMhsY46G_nwwnE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/0/A2xgetQfyMtGC9KEHv8w/captura-de-tela-2026-08-09-112544.png"
-    },
-    {
-      "titulo": "Número de MEIs na alimentação cresce 17% em Presidente Prudente; veja o que impulsiona o setor",
-      "imagem": "https://s2-g1.glbimg.com/dj0ZKzDeteJ0A5ASo3rqNZGtLug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/4/smfFmWTfegNXmB2u2ORQ/1200x800-3-2026-08-06t203026.609.png"
-    },
-    {
-      "titulo": "Lotofácil hoje: resultado do concurso 3757 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/CCvTzLLiJZU_ZMTF0jQfXZwIsaw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/8/UBs1KPQQ6KkxSt1AS1Wg/lotofacil-3757-fsmmi.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-09T15:26:53.003Z"
+  "atualizadoEm": "2026-08-09T15:57:49.393Z"
 }
