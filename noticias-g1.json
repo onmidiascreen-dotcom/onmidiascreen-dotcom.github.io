@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Identificados os sete mortos em acidente na BR-251; motorista não era habilitado e usava tornozeleira, diz PC",
+      "imagem": "https://s2-g1.glbimg.com/pVmyPVCaJ8a07yqIDSfG4kySW3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/A/ohYDnoRXAJkAzcAhGv6A/photo-2026-08-08-15-44-13.jpg"
+    },
+    {
+      "titulo": "Por que Justiça voltou a prender o ex-marido de Maria da Penha, mulher que inspirou lei contra violência doméstica",
+      "imagem": "https://s2-g1.glbimg.com/aW9THor_YkUQRn9VXY8iQbRSbzY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/w/0ugCprQ0GT8AqupATkTg/marco-heredia.png"
+    },
+    {
+      "titulo": "Guarda-vidas salva mulher de afogamento no mar em Guarujá; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/9I_bvh7dUpint8eR4Mufyxj6vwY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/5/WRXPpjQQWAwzkfAVTjmQ/resgate.jpg"
+    },
+    {
+      "titulo": "Tarcísio rebate críticas de Eduardo Bolsonaro às vacinas e diz que todos devem se vacinar contra o sarampo: 'é consagrada e segura'",
+      "imagem": "https://s2-g1.glbimg.com/HmT3G1jOllp78e9pAy1wuYsifk0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/k/n1zKA5R4y1nIlPdC2j7g/tarcisio-debate-band-3.png"
+    },
+    {
       "titulo": "Jovem é preso por tráfico com cocaína, skank, reais, dólares, iPhone e balança em Boa Vista",
       "imagem": "https://s2-g1.glbimg.com/6KdbyfawQuM3Heg9UtYnVXvCDPQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/w/zofUHXSdAYmNo9N8AC1Q/trafico-alvorada.jpeg"
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "Resort em Atibaia amplia hospedagem sem custo extra aos fins de semana",
       "imagem": "https://s2-g1.glbimg.com/EkhitM6oq0pL7VHCD44OaK7QV80=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/m/A/O4IR53QBSnn8ue1ffSxA/k9a3001.jpg"
-    },
-    {
-      "titulo": "Foragido da Justiça é preso após usar nome falso durante abordagem em Teresina",
-      "imagem": "https://s2-g1.glbimg.com/XAAPGFO6lxfXu9s5iTavjFETKNs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/0/frfal7RTOfhdbBvcMH5A/edicao-imagens-g1-26-.jpg"
-    },
-    {
-      "titulo": "Motociclista morre após colisão com ônibus em cruzamento de Cravinhos, SP",
-      "imagem": "https://s2-g1.glbimg.com/7tyug5iJCNJYsh_8-1LKrlOdM84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/O/B53P0bQqqHLu3nc9FeGA/creditos-portal-cravinhense-3-.jpeg"
-    },
-    {
-      "titulo": "Idoso de 82 anos morre após se engasgar em restaurante de shopping em Juiz de Fora",
-      "imagem": "https://s2-g1.glbimg.com/MF--e2AimHO2_B4tAhpSlALAdms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/B/BnAyjCTAiY5W11ZwL32Q/edicao-imagens-g1.png"
-    },
-    {
-      "titulo": "'Robotizado ou substituível?': futuro da contabilidade na era da IA reúne especialistas em Florianópolis",
-      "imagem": "https://s2-g1.glbimg.com/-eleXiPKww4KbwtlghAkF8aytc0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/4/qceNQvRkyK5LSxGHTn3Q/colagem-autoscale.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-09T22:59:59.490Z"
+  "atualizadoEm": "2026-08-09T23:39:24.553Z"
 }
