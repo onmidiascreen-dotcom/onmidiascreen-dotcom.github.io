@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Incêndio florestal se alastra e fecha acesso ao Monte Bromo, na Indonésia",
+      "imagem": null
+    },
+    {
+      "titulo": "Athletic x Criciúma: horário e onde assistir ao jogo do Brasileirão Série B",
+      "imagem": null
+    },
+    {
       "titulo": "Brasileirão: Botafogo marca golaço, mas Fluminense busca empate em clássico",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Copa do Mundo Feminina: veja seleções classificadas para jogar no Brasil",
       "imagem": null
-    },
-    {
-      "titulo": "Filha de Flávia Alessandra, Giulia Costa posa com o namorado",
-      "imagem": null
-    },
-    {
-      "titulo": "Violência na Colômbia: chefe de polícia é morto em ataque com drones",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-09T03:14:37.699Z"
+  "atualizadoEm": "2026-08-09T04:38:39.873Z"
 }
