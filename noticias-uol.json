@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Defensoria do PR oferece ferramenta online para denúncia de violência doméstica",
+      "imagem": null
+    },
+    {
+      "titulo": "Argentina precisa parar as agressões contra o Brasil para normalizar as relações, diz Mauro Vieira",
+      "imagem": null
+    },
+    {
+      "titulo": "Genial/Quaest: Flávio vence Lula entre evangélicos, mas vantagem diminui",
+      "imagem": null
+    },
+    {
+      "titulo": "Procurado por tentativa de feminicídio é preso na zona sul de São Paulo",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem se entrega à polícia após matar as filhas de 3 e 5 anos na zona sul de SP",
+      "imagem": null
+    },
+    {
       "titulo": "Genial/Quaest: Lula aumenta vantagem no Nordeste e Flávio cresce no Sul",
       "imagem": null
     },
@@ -39,27 +59,7 @@
     {
       "titulo": "Morre, aos 78 anos, o ex-prefeito de Sabáudia, Moacir Poletto",
       "imagem": null
-    },
-    {
-      "titulo": "Gastos com defesa de Taiwan devem aumentar 16% em 2027, segundo mídia oficial",
-      "imagem": null
-    },
-    {
-      "titulo": "SP confirma segundo caso de gripe aviária do ano em ave encontrada no Ibirapuera",
-      "imagem": null
-    },
-    {
-      "titulo": "Tragédia no Dia dos Pais: acidente no Paraná mata dois pais e dois filhos",
-      "imagem": null
-    },
-    {
-      "titulo": "Mónaco de Filipe Luis vence Liverpool (3-2) de virada em amistoso em Anfield",
-      "imagem": null
-    },
-    {
-      "titulo": "Tornado atinge cidade do Paraná e deixa rastro de destruição",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-09T19:19:58.187Z"
+  "atualizadoEm": "2026-08-09T19:56:01.480Z"
 }

@@ -1,11 +1,47 @@
 {
   "noticias": [
     {
+      "titulo": "Morta pelo marido, mulher tinha nas trilhas uma 'válvula de escape' e se afastou do grupo há meses",
+      "imagem": "https://s2-g1.glbimg.com/ge_spj3pdWnvqlElp1MBGD4Iud0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/A/pEJX16QwWIQqCuhLP7pw/design-sem-nome-2026-08-09t163524.859.jpg"
+    },
+    {
+      "titulo": "Mercado imobiliário da Baixada Santista tem alta nas vendas e queda nas locações em junho",
+      "imagem": "https://s2-g1.glbimg.com/EQuEqWKTglNRpmeW0zABZyt1Bkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/e/cXtHaXQnmZaRnwknncrQ/fotos-materias-2026-08-08t110640.061.jpg"
+    },
+    {
+      "titulo": "Mulher morre após se afogar em piscina de balneário de Carmópolis",
+      "imagem": "https://s2-g1.glbimg.com/xQU6K7FJVdmqucMA2b0Zk81Bukw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/C/y/RcwfjmSs61i4IhPGgqZw/whatsapp-image-2023-10-30-at-18.55.50.jpeg"
+    },
+    {
+      "titulo": "Barco vira no porto de Nova York; mulher e bebê de 5 meses morrem",
+      "imagem": "https://s2-g1.glbimg.com/TwDsQWSdQP1Wg6QpgvVL0P0Q8eM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/r/kXc6dLTo61POwAUgL4QQ/estatuadaliberdade.jpg"
+    },
+    {
+      "titulo": "Incêndio atinge mais de 2 mil m² de área de vegetação de difícil acesso no Sul do ES; veja VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/4f6pYoa8c3IVRKfFGF1AJVsTiWY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/p/Nz0YXdRIAvs3xwr6Z3wA/thumb-fotos-2026-08-09t161502.932.jpg"
+    },
+    {
+      "titulo": "Sebrae abre 530 vagas para ajudar empresas a faturar mais no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/WkVwkP7Ukwb-q9Ysel0HjiMhipc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/G/8gr5t4QZW0E9nEz8E9VA/whatsapp-image-2026-06-12-at-14.03.42-1-.jpeg"
+    },
+    {
+      "titulo": "Bebê sequestrada em Campo Grande e resgatada no Paraguai está sob cuidados do Conselho Tutelar em MS",
+      "imagem": "https://s2-g1.glbimg.com/Xmw2XuU8Cgg-6gqNMccv9fcpWpc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/K/l0DxMrSHiXGLN7m0mIRw/canva-2026-08-09t150228.671.png"
+    },
+    {
+      "titulo": "Por que Miami virou a nova capital dos ultrarricos nos EUA (e ficou mais cara até que Nova York)",
+      "imagem": "https://s2-g1.glbimg.com/McvZXGlIyi-tgsap040nV6zCgJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/cxr0G9S1OBFhLQzHTxrQ/15a4bc30-877f-11f1-b8ee-9b3c26ad07bb.jpg.webp"
+    },
+    {
+      "titulo": "Dois homens são feridos a faca durante discussões com mulheres em MT",
+      "imagem": "https://s2-g1.glbimg.com/wM8jft_gVy4T3VVCkNCYlcTzqzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/x/AnHtYhTyq9SHhuyoVk2w/design-sem-nome-80-.png"
+    },
+    {
       "titulo": "Dois irmãos foram baleados em tiroteio no bairro Jardim Tropical, em Boa Vista",
       "imagem": "https://s2-g1.glbimg.com/LTgRPiPNah3Wg8XKopBKMvvIyzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/h/rqiQXjRiGgo88WQXGJmw/prontosocorro.jpg"
     },
     {
-      "titulo": "Motorista é preso após acidente em Mosqueiro; polícia cita embriaguez, lesão corporal e ameaça",
+      "titulo": "Motorista é preso suspeito de embriaguez ao volante, lesão corporal e ameaça em Belém",
       "imagem": "https://s2-g1.glbimg.com/XDzucib69I1QpFeviOWsJXJwQmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/g/zXSLRXTMqtLJqyPs2AgA/1786302512650615.jpg"
     },
     {
@@ -83,43 +119,7 @@
     {
       "titulo": "Empresário preso por lavagem de dinheiro morre uma semana após sofrer AVC no Acre",
       "imagem": "https://s2-g1.glbimg.com/ofY09yIqCMBLbX0O2XmW3jc_F8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/C/NDu35mRLSvTnLGqyQJZw/midia-de-distribuicao-g1-2026-08-09t111340.332.jpg"
-    },
-    {
-      "titulo": "Incêndio atinge pontos comerciais em Castanhal, no Pará",
-      "imagem": "https://s2-g1.glbimg.com/-5nfG0NoXgtEge1rzfroTbDhtpw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Z/oB9PVEQ9yC32F8iAGOKQ/178629964843127.jpg"
-    },
-    {
-      "titulo": "Aos 65 anos, mulher que não pôde estudar na infância aprende a ler, conclui ensino médio e escreve livro na PB",
-      "imagem": "https://s2-g1.glbimg.com/aLN4HejfMYd3Qmzl5XMfAkppNUk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/H/Oa0QYiS0iUbKjhXI4NSA/idosa-de-sousa.png"
-    },
-    {
-      "titulo": "Moradores reclamam de falta de água no Dia dos Pais em São José dos Campos; Sabesp alega manutenção emergencial",
-      "imagem": "https://s2-g1.glbimg.com/QNDbx8yM5jqwewPn89JHsOJpayM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/l/gcSO5IQgWRM1aaXBMf2g/foto-g1-1-.jpg"
-    },
-    {
-      "titulo": "'Dominguinho' em Uberlândia promove o encontro entre forró e MPB com repertório renovado",
-      "imagem": "https://s2-g1.glbimg.com/xnuN0eVT5fvoNEhHn-WHvlCphcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/h/xLAkNBRKexNSzspqT6QA/design-sem-nome-2-.png"
-    },
-    {
-      "titulo": "IFMG de Formiga está entre as 20 melhores escolas públicas de ensino médio de MG no Ideb 2025",
-      "imagem": "https://s2-g1.glbimg.com/AAbbkezMrD3TObjMZtVwjvJt7vM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/l/O4WounSSmENEHTIfwqkw/ifmg-de-formiga.png"
-    },
-    {
-      "titulo": "Gusttavo Lima, escolha da Rainha e mais: veja o que vai rolar neste domingo (9) na Expofeira do Amapá",
-      "imagem": "https://s2-g1.glbimg.com/lh9BOnlWYVtsXBHk0IvUk5PJh6c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/o/JUFYzPTNWjAtuuh04ZQg/nova.jpg"
-    },
-    {
-      "titulo": "VÍDEO: gêmea nasce empelicada e fazendo 'pose' com as mãos em Vitória; 'ficamos todos maravilhados', diz mãe",
-      "imagem": "https://s2-g1.glbimg.com/myIxDb-txgVFyH1PesgKHawPS2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/Z/re5EmGTcSr3WBg0TiLmw/thumb-fotos-2026-08-09t144519.250.jpg"
-    },
-    {
-      "titulo": "Com premiação de até R$ 1,5 mil, festival de cinema lança 4ª edição com tema 'A Mesa' em Bauru",
-      "imagem": "https://s2-g1.glbimg.com/dOjlYkHLUpYrdzVzDno8Y3nMZYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/T/MCdMbWSleQ7fwEArJw8w/novo-projeto-2026-08-07t112939.348.png"
-    },
-    {
-      "titulo": "Jovem morre ao se envolver em acidente com motocicleta em Birigui",
-      "imagem": "https://s2-g1.glbimg.com/v5IQpXmC5vOc1SJpufOueTpXoKM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/s/govUDZSsK1bSnstR8fnA/14795582-74-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-09T19:20:01.032Z"
+  "atualizadoEm": "2026-08-09T19:56:04.381Z"
 }
