@@ -1,11 +1,115 @@
 {
   "noticias": [
     {
+      "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
+      "imagem": "https://s2-g1.glbimg.com/VEOebd8YA73k2fVCBLd2uAaqIfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/b/CNGbbeTuCXD5JY6liwVA/previsao-tempo-bras-lia-20260809-030559.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite nublada com possibilidade de garoa",
+      "imagem": "https://s2-g1.glbimg.com/VRpuUs2cVKFG-9tina0LjluKNRs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/t/C9BTVRRNynJM7CyhpgGQ/previsao-tempo-s-o-paulo-20260809-030543.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
+      "imagem": "https://s2-g1.glbimg.com/-StP195dSWY11n8BNG2i6mxz494=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/A/0X0eQhRLel0Oo7xirzow/previsao-tempo-s-o-bernardo-do-campo-20260809-030527.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Santo André (SP): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
+      "imagem": "https://s2-g1.glbimg.com/S7O3t4niqGRwwT33fM9rxXHi5AA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/E/JIiyMnROyHUWQJd8oAsg/previsao-tempo-santo-andr-20260809-030511.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Osasco (SP): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
+      "imagem": "https://s2-g1.glbimg.com/O1PVhyLdrCeBdmxyjN7dmbJWyhs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/p/9ACG3vTUGwI07gwTfcog/previsao-tempo-osasco-20260809-030456.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
+      "imagem": "https://s2-g1.glbimg.com/pOGD7qr7KXvfNdDJVEMlFXLQMMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/E/gOwkK9QmaXq8h28Cnbog/previsao-tempo-guarulhos-20260809-030440.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com algumas nuvens; não chove",
+      "imagem": "https://s2-g1.glbimg.com/U1G5_cf-nvLeRf6UByTfM0JtbXY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/r/NOMj1TTWyWaoMznl6AyA/previsao-tempo-s-o-gon-alo-20260809-030418.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol e muitas nuvens à tarde; à noite ocorrem pancadas de chuva",
+      "imagem": "https://s2-g1.glbimg.com/NqwzO8MuIb_UgW_8se4njexjNrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/7/aay3IIRdWiSvAChyW6PA/previsao-tempo-rio-de-janeiro-20260809-030402.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
+      "imagem": "https://s2-g1.glbimg.com/klCjDisrnQSky-utBSzb6OmB41U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/l/LDuhqzQSCQo0A7HRtxZw/previsao-tempo-nova-igua-u-20260809-030346.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com algumas nuvens; não chove",
+      "imagem": "https://s2-g1.glbimg.com/96fIXmp5k-LaaYZ8x2PKc2Abzf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/u/13PYhRSOaYVCV7em9Gcw/previsao-tempo-niter-i-20260809-030331.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com algumas nuvens; não chove",
+      "imagem": "https://s2-g1.glbimg.com/9lwFGG0gkgKNditUlNwDOcIFuzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/C/UStDzNRCSeMBfX5AydMg/previsao-tempo-duque-de-caxias-20260809-030316.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/iM_Fjxqu24eO-z0aViDibDETeLg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/z/szIADZSwOVBs7n6x7B0w/previsao-tempo-sete-lagoas-20260809-030258.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com algumas nuvens; não chove",
+      "imagem": "https://s2-g1.glbimg.com/AW9SMt3CSrzNjy_wTCc_x8v6Qr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/R/qf6XXsTJm6zmBR64ZvIQ/previsao-tempo-ribeir-o-das-neves-20260809-030240.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Contagem (MG): sol com algumas nuvens; não chove",
+      "imagem": "https://s2-g1.glbimg.com/mf4RiCfTzz8OjFK-8H7xQRTzq5s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/d/cV6crxTXSyjcAJyQ72vg/previsao-tempo-contagem-20260809-030223.jpeg"
+    },
+    {
+      "titulo": "Músicas de Taylor Swift são removidas de vídeos de Trump e da Casa Branca",
+      "imagem": "https://s2-g1.glbimg.com/W-udLdl9TiC1LdN9oNYkoIgd5tI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/t/TBzhPNSgqR8PheHMzA5A/2026-08-09t054124z-1949730687-rc23kba16crz-rtrmadp-3-usa-trump-taylor-swift.jpg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Betim (MG): sol com algumas nuvens; não chove",
+      "imagem": "https://s2-g1.glbimg.com/Y9R328v0jMRffhiZeE12W-8kyB4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/b/Uq1pKNTNqW1dwWA6D8dA/previsao-tempo-betim-20260809-030207.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): sol com algumas nuvens; não chove",
+      "imagem": "https://s2-g1.glbimg.com/XjztytF1ci1VRaqZ4ftDtTjaSoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/y/sb2SOYSKCSX6mKYSGdEA/previsao-tempo-belo-horizonte-20260809-030149.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "imagem": "https://s2-g1.glbimg.com/Xtu93eggEIXReYOiX521ZxIjpIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/R/H1xBxYRMqF4oK6CO0xeA/previsao-tempo-recife-20260809-030134.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Paulista (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "imagem": "https://s2-g1.glbimg.com/Y-N2TAbdTmoBXV21pEy9ppeJdj8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/y/RAZDeOTwq224ULlyR2Bw/previsao-tempo-paulista-20260809-030118.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Olinda (PE): sol com algumas nuvens e chuva passageira durante o dia; à noite o tempo fica firme",
+      "imagem": "https://s2-g1.glbimg.com/JdnrRDP5TAdsrL-L9reFebfLPFU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/o/I3AZTxQEm3Qqovb7lcSg/previsao-tempo-olinda-20260809-030102.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Jaboatão dos Guararapes (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "imagem": "https://s2-g1.glbimg.com/Z_n_qBZuWFP2B_TXkF12ewNg9jY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/4gGOU1RlehX9ARCGvAEg/previsao-tempo-jaboat-o-dos-guararapes-20260809-030046.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Cabo de Santo Agostinho (PE): sol com algumas nuvens e chuva passageira durante o dia; à noite o tempo fica firme",
+      "imagem": "https://s2-g1.glbimg.com/HRqJYsMsJOaPR0PFa_JwQn84Hx4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/S/dMMXwLTBO8GFMigPYYZA/previsao-tempo-cabo-de-santo-agostinho-20260809-030031.jpeg"
+    },
+    {
+      "titulo": "Equipe de robótica do Sesi São Gonçalo conquista prêmio internacional por inspirar novas gerações",
+      "imagem": "https://s2-g1.glbimg.com/XzbhpQ-pNczijN7X-aItTIjiQxE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/P/iJiWrnSYCBtAgK76JBuw/whatsapp-image-2026-07-27-at-10.02.42.jpeg"
+    },
+    {
+      "titulo": "Menos vacas, mais leite: como genética e bem-estar mais que dobraram a produção em 24 anos",
+      "imagem": "https://s2-g1.glbimg.com/CrlhVf0pa2B_yK9Bpsno412dvjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/C/7uAFcAT8i2GnxCgZodzw/whatsapp-image-2026-07-22-at-19.31.38.jpeg"
+    },
+    {
+      "titulo": "Por que a Alemanha quer mudar os 'minijobs', emprego parcial isento de imposto",
+      "imagem": "https://s2-g1.glbimg.com/kZR5kljKAd2wx8JFkSZBfy3bJzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/1/tK2sp5RKuzdQT33ix2yw/78130605-1004.webp"
+    },
+    {
+      "titulo": "Cavalo Caramelo pode virar pai: instituição procura égua para animal símbolo da enchente no RS",
+      "imagem": "https://s2-g1.glbimg.com/IV-s68S3WmHvSGBfvcV0D6WqrWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/J/pAjxKQRKyxnhIj2BfLVw/g1-7-.jpg"
+    },
+    {
       "titulo": "Indonésia fecha acesso ao Monte Bromo após avanço de incêndio florestal",
       "imagem": "https://s2-g1.glbimg.com/CxmWbRP9a0mwpcROnqPTiqJq-Og=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/L/AoxWNnS5Acbi3S65QJBQ/2026-08-06t123153z-1497311758-rc20tmahvy29-rtrmadp-3-asia-weather-indonesia-wildfire.jpg"
     },
     {
-      "titulo": "Tufão Dolphin se aproxima da costa leste da China e aciona alertas de enchente",
+      "titulo": "Tufão Dolphin se aproxima da costa leste da China; há alerta de enchentes",
       "imagem": "https://s2-g1.glbimg.com/PDvQBXyb1RU0oUAmFwIZipkORvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/J/AuZ0fqTKqTuMu4RNEAQA/2026-08-09t005200z-1637945437-rc2fumawsm0e-rtrmadp-3-asia-weather-china.jpg"
     },
     {
@@ -15,111 +119,7 @@
     {
       "titulo": "Juiz indígena é afastado de tribunal e diz ser vítima de perseguição; entidade pede apuração do CNJ",
       "imagem": "https://s2-g1.glbimg.com/ttYXi_L7c1-fZbjXHQHIulTHUOc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/5/fTBZyGQCA8mpIoIZ0wBw/53817594051-78c202acad-k.jpg"
-    },
-    {
-      "titulo": "Mais de sete em cada dez pessoas presas no DF são negras, aponta relatório",
-      "imagem": "https://s2-g1.glbimg.com/htffhUEx1jVuoy-wunirWDY4dXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/Z/NfBdaPT0y1tttB7jGmdg/imagem-g1-36-.png"
-    },
-    {
-      "titulo": "De trufas a perfumes: motoristas de aplicativo transformam carros em lojas sobre rodas e faturam em Porto Alegre",
-      "imagem": "https://s2-g1.glbimg.com/_wbjK5A_ozaia1BrHmUIJuhojBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/M/hCWnwAS86YAv6Vv023TQ/g1-2-.png"
-    },
-    {
-      "titulo": "ICE concluirá instalação de câmeras corporais em agentes até o fim de agosto",
-      "imagem": "https://s2-g1.glbimg.com/EWzlO5UlhxjCLbFQxwSws4ZVWY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/A/F1PQPTRzaRAyQGHaBi8A/2026-08-08t220805z-446213730-rc2eafa3rack-rtrmadp-3-usa-migration-ice.jpg"
-    },
-    {
-      "titulo": "Irmã de brasileira encontrada na França posta foto deitada ao lado da adolescente após reencontro: 'Vai ficar tudo bem'",
-      "imagem": "https://s2-g1.glbimg.com/fEzRKpmL1ICVVZkSD2u2le6M52A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/M/pUd2uBSima8g1GWRzUyg/g1-2026-08-08t162337.440.jpg"
-    },
-    {
-      "titulo": "Mega-Sena pode pagar R$ 165 milhões neste domingo; g1 transmite ao vivo",
-      "imagem": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
-    },
-    {
-      "titulo": "2º turno entre Lula e Flávio Bolsonaro: veja números da Quaest por posicionamento político, região, sexo, faixa etária, escolaridade, renda e religião",
-      "imagem": "https://s2-g1.glbimg.com/g7doVWWKamWvKPOVEpChD5Aq6RE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/4/BcgRUOQf2IqRglMxBqPA/montagem-horizontal-1280x720px-2-.jpg"
-    },
-    {
-      "titulo": "Taxa das blusinhas: se medida provisória não for aprovada, taxação volta no começo de setembro",
-      "imagem": "https://s2-g1.glbimg.com/-tqR8_G6URJTZJqLFpYC30fqYYA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/5/p/qxTwE8QzAC2iBF1NC3CA/foto-04-nonato-sousa.jpeg"
-    },
-    {
-      "titulo": "Pai solo que adotou cinco irmãos no interior de SP fala sobre paternidade: ‘amor verdadeiro é construído’",
-      "imagem": "https://s2-g1.glbimg.com/SheGFZ-GzyVZKcyU87WXrj0k2VI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/o/76zBwlQRiMCUgLAtwgxw/molduras-g1-2026-08-08t192749.602.png"
-    },
-    {
-      "titulo": "Frio no RS: termômetros podem marcar -1°C com previsão de geada em diversas regiões entre domingo e terça",
-      "imagem": "https://s2-g1.glbimg.com/gyeLP9a52vfC4TyLO8gzoSFH-Lw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/W/syfjWIROCuZoMDDNZkEA/g1-1-.jpg"
-    },
-    {
-      "titulo": "Recém-nascido 'reggaeiro' sorri ouvindo Edson Gomes com mãe e cena viraliza; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/3rX8pEj53s2qMcv5DKWBuXgd64k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/u/oABfB0RzenG6i1iA9ucg/capa-agenda-g1-2026-08-07t184608.879.jpg"
-    },
-    {
-      "titulo": "Em 55 dias, dois acidentes com helicópteros deixam 10 mortos no Rio; relembre",
-      "imagem": "https://s2-g1.glbimg.com/1-zrMsqsbEtnsPLJ2RX-B9Twzf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Z/g8BAFsTWa6ALdn9QOdMg/14cop1.jpeg"
-    },
-    {
-      "titulo": "Cristo, Pão de Açúcar, Copacabana e Búzios: família colombiana fez roteiro turístico antes de tragédia no Rio",
-      "imagem": "https://s2-g1.glbimg.com/dgu76ENJOn42uJ-dF0dn3G4K9-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/V/PHaFbyTZeFvlT86vkPlQ/blank-2-grids-collage-23-.png"
-    },
-    {
-      "titulo": "Zema declara R$ 178,7 milhões em bens ao TSE; Girão informa R$ 34,1 milhões",
-      "imagem": "https://s2-g1.glbimg.com/Afds4wHgotZ1rjCbOp-RG25aqT0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/m/MWvy8ZRFGY26VJznnpDQ/girao-zema.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de sábado, 8 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/f51oudl-OOG4NR045yqIgOfh12g=/s01.video.glbimg.com/deo/vi/88/30/14853088"
-    },
-    {
-      "titulo": "Governo da Colômbia lamenta morte de 3 turistas em queda de helicóptero no Rio e presta assistência às famílias",
-      "imagem": "https://s2-g1.glbimg.com/S7LrY59T5InqOLunIReil8PeDSE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/l/NM3tJ7QNSA1nuArBpaSw/whatsapp-image-2026-08-08-at-13.10.47.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: EPTV 2 Sul de Minas de sábado, 8 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/EYzwuFzJE42ava5TwNAakf3ZH9U=/s01.video.glbimg.com/deo/vi/31/30/14853031"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sábado, 8 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/qzoCvYsEx4Xjb-l8XgcGSfoORBc=/s01.video.glbimg.com/deo/vi/67/30/14853067"
-    },
-    {
-      "titulo": "Cantor sertanejo internado com leucemia e esposa conversam sobre manter a fé na recuperação: ‘Ser positivos diante dos riscos’",
-      "imagem": "https://s2-g1.glbimg.com/xMy1g1vDTNNA62R11dtNLX4t5dg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/F/tT7GAjSYWW0N3WDTDzEw/ponte-goias-minas.jpg"
-    },
-    {
-      "titulo": "VÍDEO: Tamanduá-bandeira é visto circulando por ruas de bairro em cidade em MG",
-      "imagem": "https://s2-g1.glbimg.com/GPiP20Cp4zGAOTaN_XmZ8uULvf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/S/O4I97ATeGPmagFsNVJqA/tamandua2.png"
-    },
-    {
-      "titulo": "'O último passeio de metade da minha família': parente de colombianas mortas em queda de helicóptero posta homenagem",
-      "imagem": "https://s2-g1.glbimg.com/5i-j1yJ9cI8xE1AP6RLXx8EHpyI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/FXZGZaS9iZf8qJcT19aw/colombianos-08.jpg"
-    },
-    {
-      "titulo": "Anitta entoa mantra, saúda Ogum e rebola de costas no show da turnê ‘Equilibrivm’ em SP",
-      "imagem": "https://s2-g1.glbimg.com/dsmmVdGWXnHDW8xX_sFYTTZbASM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/s/plQGR4RDG9LEXAx6pS4g/fotos-g1-1920-x-1080-px-2026-08-08t211933.399.png"
-    },
-    {
-      "titulo": "Teste genético que identifica risco hereditário de câncer de mama chega ao SUS",
-      "imagem": "https://s2-g1.glbimg.com/j4YRN_aBfA0ZuP05Uyop9hDlIa8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/I/BOqgz5Tfu0bpPeWfvQzw/videoframe-552032.png"
-    },
-    {
-      "titulo": "Justiça obriga Estado de MG a fornecer professor especializado a aluno com síndrome de Down",
-      "imagem": "https://s2-g1.glbimg.com/2eukHH2WMvk95orY8azz2ULoAtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/I/BHAiOqSSKqEwhsqUyGgw/not-escola.jpg"
-    },
-    {
-      "titulo": "Da tartaruga ao mutum: número de animais ameaçados de extinção no Brasil cresce e chega a quase 800",
-      "imagem": "https://s2-g1.glbimg.com/ZBtMvAwrtJQXrByESZ-NetXcDM0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/O/3nrmllR9237QttVy8RyQ/videoframe-412471.png"
-    },
-    {
-      "titulo": "VÍDEO: Tornado causa destruição no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/GUfMLrzSgjds4tMEyZigJ4RImh8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/m/UcNJjcTF2vUkSDaNkv8A/g1-pr-2026-08-08t210203.560.jpg"
-    },
-    {
-      "titulo": "Quatro pessoas morrem em queda de helicóptero no Rio",
-      "imagem": "https://s2-g1.glbimg.com/wIiGr2VTr-PlG50sFp3teCsl5Wo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/e/SaaJHFRHqOCfhatd8oow/captura-de-tela-2026-08-08-205732.png"
     }
   ],
-  "atualizadoEm": "2026-08-09T05:34:45.058Z"
+  "atualizadoEm": "2026-08-09T06:28:31.155Z"
 }
