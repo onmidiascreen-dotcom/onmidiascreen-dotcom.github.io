@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Crianças são achadas mortas dentro de carro e pai é preso em SP",
+      "imagem": null
+    },
+    {
       "titulo": "Namorada jogadora surpreende Ben Shelton antes de jogo contra João Fonseca",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Ramagem explica foto em piscina ao lado de políticos e alvo do caso INSS",
       "imagem": null
-    },
-    {
-      "titulo": "Giulia Costa homenageia Marcos Paulo e Otaviano Costa no Dia dos Pais",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-09T19:56:01.882Z"
+  "atualizadoEm": "2026-08-09T20:30:01.221Z"
 }
