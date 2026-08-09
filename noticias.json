@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Antimicrobianos viram desafio para pecuária brasileira",
+      "imagem": null
+    },
+    {
+      "titulo": "Trigo mais caro pressiona moinhos e padarias; veja como fica preço do pão",
+      "imagem": null
+    },
+    {
+      "titulo": "Náutico x Atlético-GO: horário e onde assistir ao jogo da Série B",
+      "imagem": null
+    },
+    {
+      "titulo": "Bahia x Vasco: horário e onde assistir ao Brasileirão Série A",
+      "imagem": null
+    },
+    {
+      "titulo": "Palmeiras x Internacional: horário e onde assistir ao Brasileirão Série A",
+      "imagem": null
+    },
+    {
+      "titulo": "Flamengo x Vitória: horário e onde assistir ao Brasileirão Série A",
+      "imagem": null
+    },
+    {
+      "titulo": "Endividamento recorde e juro elevado preocupam setores da economia",
+      "imagem": null
+    },
+    {
+      "titulo": "Vasco, Inter e Santos voltam ao Brasileirão em situação delicada contra Z4",
+      "imagem": null
+    },
+    {
+      "titulo": "Novorizontino x Juventude: horário e onde assistir ao jogo da Série B",
+      "imagem": null
+    },
+    {
+      "titulo": "Com divisão definida na TV, campanhas se prepararam para gravar propagandas",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;A Casa do Dragão&#8221; estreia último episódio da 3ª temporada; o que esperar",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasil tem maior número de chapas puro-sangue desde a redemocratização",
+      "imagem": null
+    },
+    {
+      "titulo": "Seu pai foi ausente? O que isso pode ensinar você a ser um pai incrível",
+      "imagem": null
+    },
+    {
+      "titulo": "Melhor imagem do Sol registrada na história revela processo oculto",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Descobri 12 miomas e consegui realizar o sonho ser mãe&#8221;; conheça história",
+      "imagem": null
+    },
+    {
+      "titulo": "Acusado de massacre na Tailândia consumia conteúdo violento, diz polícia",
+      "imagem": null
+    },
+    {
+      "titulo": "Dia dos Pais: veja cinco dicas para ajudar seu pai a cuidar da saúde",
+      "imagem": null
+    },
+    {
+      "titulo": "Presidenciáveis escolhem &#8220;berço político&#8221; para abertura de campanha em 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Boom de IAs não garante alcance nas eleições, diz Renato Dolci",
+      "imagem": null
+    },
+    {
+      "titulo": "Tufão Dolphin chega à China com ventos de até 162 km/h",
+      "imagem": null
+    },
+    {
+      "titulo": "STF deve retomar até novembro julgamento sobre bets e jogos de azar",
+      "imagem": null
+    },
+    {
       "titulo": "Após mortes em operações, ICE acelera implantação de câmeras corporais",
       "imagem": null
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Quem é Jadson, ídolo do Corinthians preso por violência doméstica",
       "imagem": null
-    },
-    {
-      "titulo": "Ex-Corinthians, Jadson é preso por violência doméstica no Paraná",
-      "imagem": null
-    },
-    {
-      "titulo": "Coritiba: Jacy marca, cai em buraco e se machuca, mas gol é anulado",
-      "imagem": null
-    },
-    {
-      "titulo": "Governo da Colômbia se manifesta sobre mortes em acidente aéreo no Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Cientistas recorrem aos tubarões para melhorar previsões sobre furacões",
-      "imagem": null
-    },
-    {
-      "titulo": "Em entrevista, Mauro Vieira pede fim das &#8220;agressões de Milei contra Lula&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Anitta conta como enfrenta comentários de intolerância religiosa",
-      "imagem": null
-    },
-    {
-      "titulo": "Remo e Atlético-MG empatam em duelo movimentado pelo Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "ONS descarta plano emergencial de cortar excesso de energia no Dia dos Pais",
-      "imagem": null
-    },
-    {
-      "titulo": "Milei republica postagem com críticas a Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Sete pessoas morrem e uma fica em estado grave após acidente em MG",
-      "imagem": null
-    },
-    {
-      "titulo": "Fifa reage e condena &#8220;esforço coordenado e contínuo&#8221; contra Infantino",
-      "imagem": null
-    },
-    {
-      "titulo": "Botafogo x Fluminense: escalações e onde assistir ao Clássico Vovô",
-      "imagem": null
-    },
-    {
-      "titulo": "Liverpool x Monaco: horário e onde assistir ao amistoso",
-      "imagem": null
-    },
-    {
-      "titulo": "Risco de trauma cerebral em patinete elétrico é maior do que em motocicleta",
-      "imagem": null
-    },
-    {
-      "titulo": "Virginia posta legenda sugestiva após suposta investida de Vini Jr. a atriz",
-      "imagem": null
-    },
-    {
-      "titulo": "Coritiba x Chapecoense: escalações e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Especialistas e Dr. Kalil alertam para erros da IA na saúde",
-      "imagem": null
-    },
-    {
-      "titulo": "Candidato à reeleição, Tarcísio declara patrimônio de R$ 2,7 milhões ao TSE",
-      "imagem": null
-    },
-    {
-      "titulo": "Anitta leva “Equilibrivm Tour” a São Paulo neste fim de semana",
-      "imagem": null
-    },
-    {
-      "titulo": "Justiça mantém prisão de falso médico que atendia crianças com tumor no Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Fãs flagram Rosalía pelas ruas do Rio de Janeiro às vésperas de shows; veja",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-09T06:28:28.713Z"
+  "atualizadoEm": "2026-08-09T07:34:32.193Z"
 }
