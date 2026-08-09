@@ -1,12 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "Cinco estrangeiros são presos com carro clonado na Via Dutra, em Barra Mansa",
+      "imagem": "https://s2-g1.glbimg.com/EfIRt2jEXCkjIeOgkI6DMtWnB7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/A/Y4rYp2QdukAuKjpf5fQQ/image-1-.jpg"
+    },
+    {
+      "titulo": "Quase 900 km em 7 dias: brasileira de 55 anos bate recorde mundial de corrida em esteira em Florianópolis",
+      "imagem": "https://s2-g1.glbimg.com/dSIcAWdsIEiPgh8RjItOMpCgNxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/g/jxOSi2S0CYUz75se8hJw/quase-900-km-em-7-dias-brasileira-de-55-anos-bate-recorde-mundial-de-corrida-em-esteira-em-florianopolis-1-.png"
+    },
+    {
+      "titulo": "Túnel Santos-Guarujá terá escritório para atender demandas locais; entenda",
+      "imagem": "https://s2-g1.glbimg.com/wPePQLfRtLs-VsGOZHdnDuKWPIE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/l/x4EDguQpSqldlK33BUMA/canal-porto.jpg"
+    },
+    {
+      "titulo": "Assista: Resultados das Loterias Caixa",
+      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
+    },
+    {
+      "titulo": "De trend a competição: 'Farmar Aura' ganha campeonato e movimenta Zona Leste de Manaus; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/TndpsVza52eCcL3HRXNNIIvcdl4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/t/YnLAFpRtKhOWKCjip4cA/campeonato-farmar-aura.jpg"
+    },
+    {
+      "titulo": "Familiares aguardavam 2º voo panorâmico quando descobriram pela internet queda de helicóptero que matou 3 parentes",
+      "imagem": "https://s2-g1.glbimg.com/5i-j1yJ9cI8xE1AP6RLXx8EHpyI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/FXZGZaS9iZf8qJcT19aw/colombianos-08.jpg"
+    },
+    {
+      "titulo": "Zé Felipe passa o Dia dos Pais com os filhos e faz homenagem a Leonardo: 'obrigado por ser esse paizão'",
+      "imagem": "https://s2-g1.glbimg.com/Q5eGfFMdDqDy4ND615BL9XglYk8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/2/Fp9ncKREyqElFOwIrNgw/ze-felipe-dia-dos-pais.jpg"
+    },
+    {
       "titulo": "Mulher é presa escondida em galinheiro após esfaquear o marido em MT",
       "imagem": "https://s2-g1.glbimg.com/9dSVh6EpfFr43RR3awWIYCzN5Ko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/w/73g9AORCqjyHtZsh5bAA/whatsapp-image-2026-08-09-at-09.11.17.jpeg"
     },
     {
-      "titulo": "Zezé di Camargo faz homenagem no Dia dos Pais",
-      "imagem": null
+      "titulo": "Zezé Di Camargo faz homenagem a Seu Francisco no Dia dos Pais: 'Herdei de você a coragem de acreditar'",
+      "imagem": "https://s2-g1.glbimg.com/0b0m0Bx9WRDbEDvs3dnGimWLbnc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/A/HEuOBaTByMSErLr10r5A/padrao-foto-texto-g1-59-.jpg"
     },
     {
       "titulo": "Corpo de fazendeiro que estava desaparecido é encontrado carbonizado dentro de caminhonete",
@@ -14,7 +42,7 @@
     },
     {
       "titulo": "'Desacreditar o sistema de votação é desconvidar o eleitor a comparecer às urnas', diz presidente do TSE",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/6d5V0OP7U6FXBM6eoyWnJQzslmU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/3/uZT1G1SRiYGKVmKF9vQw/55006841028-2e3bd01ddb-k.jpg"
     },
     {
       "titulo": "Flor comestível? Conheça Plantas Alimentícias Não Convencionais encontradas em RO",
@@ -91,35 +119,7 @@
     {
       "titulo": "TRE-SP condena Ricardo Salles a pagar R$ 10 mil por propaganda antecipada e ataques contra André do Prado",
       "imagem": "https://s2-g1.glbimg.com/lbP2lmRJg8KKDHU3ylnZ-KZSS1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/X/BnbqUvQwKA4tpJcVE3EQ/design-sem-nome-5-.png"
-    },
-    {
-      "titulo": "Parentes de colombianas mortas em queda de helicóptero aguardam liberação de corpos no IML do Rio",
-      "imagem": "https://s2-g1.glbimg.com/uTNS_P-X_cy6n6gaLM_4OdBMMwg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/L/m1Iy20TqymAftRSaFMzQ/iml.jpeg"
-    },
-    {
-      "titulo": "Jovem de 21 anos é morto com golpe de faca durante briga perto de bar em avenida de Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/lq9TO442xidwQrxIbNJMaZcLJ8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/9/YQBhoWSyCDEIBr2LlWkw/design-sem-nome-83-.jpg"
-    },
-    {
-      "titulo": "Netanyahu rejeita plano de Trump para Gaza e condiciona retirada ao desarmamento do Hamas",
-      "imagem": "https://s2-g1.glbimg.com/kztwrPPsBP4tFWqKM0vBdTjsqpA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/3/mJPo4GRkClptxi3mbfhg/2026-06-15t182143z-2115029440-rc2iulayjim6-rtrmadp-3-iran-crisis-israel-netanyahu.jpg"
-    },
-    {
-      "titulo": "Vídeos do g1 e TV Bahia - domingo, 9 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/xDLT7oKc6d-Abg0M758gBN0U0l4=/s01.video.glbimg.com/deo/vi/91/08/14850891"
-    },
-    {
-      "titulo": "Homem morre após cair em canal do litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/cEOGL8MXZpa6xXtar1yrTHdI6JA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/a/YBAC3ATRC3p5CitwMykA/canal-santos.jpg"
-    },
-    {
-      "titulo": "Batida entre carro e moto deixa duas pessoas feridas na PA-457, em Santarém, no PA",
-      "imagem": "https://s2-g1.glbimg.com/2C5mbbH4t2mbr3lPxcDkZQRCat8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/B/lj9DbVSyuIO1ZLIjMKFQ/whatsapp-image-2026-08-09-at-09.20.12.jpeg"
-    },
-    {
-      "titulo": "Incêndio destrói loja de roupas e bar, em João Pessoa; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/Y6m-QlnzavvMwIiVz6vswPRRQdA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/wJkGjTSrABcg0UY9s2FA/incendiolojaebarmangabeira.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-09T13:14:57.271Z"
+  "atualizadoEm": "2026-08-09T14:01:03.781Z"
 }

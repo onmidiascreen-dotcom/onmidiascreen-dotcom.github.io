@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "Quem é a influencer que morreu carbonizada em queda de helicóptero no Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Jovem que matou 8 na Tailândia via conteúdo violento online, diz polícia",
+      "imagem": null
+    },
+    {
+      "titulo": "'Desacreditar as urnas é desconvidar o eleitor a participar da eleição', diz Nunes Marques",
+      "imagem": null
+    },
+    {
+      "titulo": "Presidente do TSE diz que atacar urnas 'desconvida' eleitor a votar",
+      "imagem": null
+    },
+    {
+      "titulo": "Estreito de Ormuz continuará fechado até EUA aceitarem 'todas as nossas condições', alerta Irã",
+      "imagem": null
+    },
+    {
+      "titulo": "Câncer de Joe Biden se espalhou e é \"doloroso\", diz filho",
+      "imagem": null
+    },
+    {
+      "titulo": "Israel rejeita plano de Trump para desarmar Hamas",
+      "imagem": null
+    },
+    {
+      "titulo": "Capotamento na PRC-369 deixa uma mulher morta e motorista ferido",
+      "imagem": null
+    },
+    {
+      "titulo": "Hong Kong registra recorde de temperatura de 36,9°C",
+      "imagem": null
+    },
+    {
       "titulo": "Irmã posta primeira foto de brasileira encontrada na França após sumiço",
       "imagem": null
     },
@@ -13,7 +49,7 @@
       "imagem": null
     },
     {
-      "titulo": "Justiça concede liberdade provisória sem fiança a ex-jogador Jadson após prisão por violência doméstica",
+      "titulo": "Justiça do PR concede liberdade provisória sem fiança a ex-jogador Jadson após prisão por violência doméstica",
       "imagem": null
     },
     {
@@ -23,43 +59,7 @@
     {
       "titulo": "IA prejudica aprendizado na escola e piora desempenho nas provas, diz estudo",
       "imagem": null
-    },
-    {
-      "titulo": "Refugiados venezuelanos entram no esporte paralímpico do Brasil e ganham medalhas",
-      "imagem": null
-    },
-    {
-      "titulo": "No SP2B, Drauzio Varella discute como IA impacta reputação profissional",
-      "imagem": null
-    },
-    {
-      "titulo": "Rã-do-café noturna é descoberta na Costa Rica",
-      "imagem": null
-    },
-    {
-      "titulo": "Ramagem explica foto na piscina com políticos e investigado da PF",
-      "imagem": null
-    },
-    {
-      "titulo": "Carro roubado em Apucarana é encontrado desmanchado em milharal de Arapongas",
-      "imagem": null
-    },
-    {
-      "titulo": "Israel rejeita plano dos EUA para Gaza e diz que Hamas ainda está armado",
-      "imagem": null
-    },
-    {
-      "titulo": "Israel 'rejeita' plano dos EUA para Gaza apoiado pelo Hamas",
-      "imagem": null
-    },
-    {
-      "titulo": "Colombiano perde mãe, irmã e sobrinha em queda de helicóptero no Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Patrimônio de Guilherme Derrite mais que dobra em quatro anos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-09T13:14:55.994Z"
+  "atualizadoEm": "2026-08-09T14:01:03.020Z"
 }
