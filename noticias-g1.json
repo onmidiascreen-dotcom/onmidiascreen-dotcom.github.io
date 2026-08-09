@@ -1,12 +1,76 @@
 {
   "noticias": [
     {
+      "titulo": "Dois irmãos foram baleados em tiroteio no bairro Jardim Tropical, em Boa Vista",
+      "imagem": "https://s2-g1.glbimg.com/LTgRPiPNah3Wg8XKopBKMvvIyzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/h/rqiQXjRiGgo88WQXGJmw/prontosocorro.jpg"
+    },
+    {
+      "titulo": "Motorista é preso após acidente em Mosqueiro; polícia cita embriaguez, lesão corporal e ameaça",
+      "imagem": "https://s2-g1.glbimg.com/XDzucib69I1QpFeviOWsJXJwQmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/g/zXSLRXTMqtLJqyPs2AgA/1786302512650615.jpg"
+    },
+    {
+      "titulo": "Acidentes de moto deixam dois mortos em Dois Córregos e Jaú no fim de semana",
+      "imagem": "https://s2-g1.glbimg.com/cIfTBKby1b_ux7Njn7jejhw6kAY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/Y/wOTlAfS7CA8drthqkSYg/artesp-3-.jpg"
+    },
+    {
+      "titulo": "Homem mata companheira a facadas em Osasco, na Grande SP, e é procurado pela polícia",
+      "imagem": "https://s2-g1.glbimg.com/_qrUDw6PULn3HGhoU94ptpff5R0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/M/otq61TRPmmAVa4vnQArw/fotojet-2026-08-09t155135.925.jpg"
+    },
+    {
+      "titulo": "Primeira fase de obra no Córrego São Pedro começa nesta segunda em Juiz de Fora; veja impactos no trânsito",
+      "imagem": "https://s2-g1.glbimg.com/f4EcHuVNHqjr-iGzqeWhCZS8L-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/t/AuwoRNSrqWB9SviDzzBg/obra-obras-de-macrodrenagem-no-bairro-mariano-procopio-em-juiz-de-fora.jpg"
+    },
+    {
+      "titulo": "Ataque a tiros mata homem, criança de 5 anos e deixa três feridos em Campos, no RJ",
+      "imagem": "https://s2-g1.glbimg.com/BaXIW1yKiJo3WtbD6EMw0geTRqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/x/1/BK5byrSdi0pLcsHmr7ow/146-dp-guarus.jpeg"
+    },
+    {
+      "titulo": "Pelo retrovisor, filho vê o pai passar direto por curva antes de acidente fatal na MGC-381",
+      "imagem": "https://s2-g1.glbimg.com/jGA1XHKs8QimW-x8RJliHnJXlbs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/u/PmiLpfT2WHmGumT7Lo5Q/1200x675-11-.jpg"
+    },
+    {
+      "titulo": "Idoso é baleado em operação policial enquanto saía de casa para trabalhar em Salvador",
+      "imagem": "https://s2-g1.glbimg.com/3-6wiBgE4HBuf1md9Df0-3jxmjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/N/6AcsWITxSiy3oqRJuAUg/tamanho-g1ba-67-.png"
+    },
+    {
+      "titulo": "A volta por cima dos irmãos Batista: como donos da JBS saíram da Lava Jato e voltaram aos holofotes, com participação até na diplomacia mundial",
+      "imagem": "https://s2-g1.glbimg.com/0zcTezFGNGCY7vZJa2Naa1oec58=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/R/sFmovtSyKvVLou24qjwA/b8000be8-3005-40f1-99aa-96e63ac912f3.png"
+    },
+    {
+      "titulo": "Torres de energia elétrica desabam durante passagem de ciclone pelo RS e deixam duas cidades sem luz",
+      "imagem": "https://s2-g1.glbimg.com/6UVwCfxmNOMo78QxGH6G7nKjDtw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/h/UdnBPsQIe0S3CSJhPCNA/g1-2026-08-09t123914.328.jpg"
+    },
+    {
+      "titulo": "Carreta sai da pista, bate em árvore e deixa um homem gravemente ferido na Fernão Dias, em MG",
+      "imagem": "https://s2-g1.glbimg.com/bamYJ2RdsYJIKv7XjWFH2_gZ7r0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/v/f2qDQrRF2E1AmKj3yFYA/acidente-fernao-cambui.png"
+    },
+    {
+      "titulo": "Batida em alta velocidade destrói carro, parte poste ao meio e mata motorista",
+      "imagem": "https://s2-g1.glbimg.com/0-zZM3CvT3wvd1xPmA-K77teu34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/L/P8sgvcSVWqjZ979OzBBw/ghgjh.png"
+    },
+    {
+      "titulo": "Esposa de cantor sertanejo internado com leucemia diz que filhos conversam com o pai por ligação de vídeo: 'Não entendem a gravidade'",
+      "imagem": "https://s2-g1.glbimg.com/xMy1g1vDTNNA62R11dtNLX4t5dg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/F/tT7GAjSYWW0N3WDTDzEw/ponte-goias-minas.jpg"
+    },
+    {
+      "titulo": "Chuva e ventos fortes causam destelhamentos e estragos no Vale do Ribeira; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/kBIZ3OMrHzMwN1NAQuKJPuYIkKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/M/nsd2yjRCGAnftkyQU1qQ/vendaval-registro.jpg"
+    },
+    {
+      "titulo": "Disparo de arma fere soldado dentro da AMAN em Resende",
+      "imagem": "https://s2-g1.glbimg.com/2XBOYV18O6DK1w72A1k-sW4CPKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/j/SF3VV3SHibGOQgRuSeOg/image-1-1-.jpg"
+    },
+    {
+      "titulo": "Mulher é espancada e pisoteada em praça de Teresina; dois adolescentes foram apreendidos",
+      "imagem": "https://s2-g1.glbimg.com/-2pyS62csNJjbypb47VFtFlwZiE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/f/IwsBHzQ4OdoYLjRcnMdg/edicao-imagens-g1-25-.jpg"
+    },
+    {
       "titulo": "Corpo de golfinho é achado na Praia de Candeias um dia após morte de quatro tartarugas no Grande Recife",
       "imagem": "https://s2-g1.glbimg.com/iKMJDX2HM9ykYoqZ6_IqVSq7SRs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/E/2lv5Q6RmSm7TSQWbEt0w/golfinho-candeias.jpeg"
     },
     {
-      "titulo": "Incêndio atinge prédio residencial na Zona Norte de Manaus",
-      "imagem": "https://s2-g1.glbimg.com/dJfuRba1fMExtim2-7Gd3Th0y70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/k/OjFGQZTv2wkO41ehHFAg/incendio-atinge-predio-residencial-em-manaus.jpg"
+      "titulo": "Incêndio atinge apartamento de prédio residencial na Zona Norte de Manaus",
+      "imagem": "https://s2-g1.glbimg.com/gGGU0iWosITzGM0honS04RmxjG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/2/iBWcWgTIOaYYEBs8jCHg/incendio-atinge-predio-residencial-em-manaus-1-.jpg"
     },
     {
       "titulo": "Homem morre e adolescente fica ferido após colisão entre moto e bicicleta elétrica na SE-270 em Salgado",
@@ -55,71 +119,7 @@
     {
       "titulo": "Jovem morre ao se envolver em acidente com motocicleta em Birigui",
       "imagem": "https://s2-g1.glbimg.com/v5IQpXmC5vOc1SJpufOueTpXoKM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/s/govUDZSsK1bSnstR8fnA/14795582-74-.jpg"
-    },
-    {
-      "titulo": "Lionel Messi se despede de seu pai e recebe mensagens de carinho em Rosário; fotos",
-      "imagem": "https://s2-g1.glbimg.com/zx9epjKrtluUt885HxBy7Km8o1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/g/TFLyGGSWAQYlyGN3SDRw/2026-08-09t144516z-710057378-rc22vmags15b-rtrmadp-3-soccer-argentina-messi.jpg"
-    },
-    {
-      "titulo": "Duas pessoas ficam feridas após batida entre caminhonete e moto em Santarém",
-      "imagem": "https://s2-g1.glbimg.com/1bEC4qX6FvDuogiFiuVaqgN6eng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/k/Bup6SCTdADIhG4MkCo2Q/whatsapp-image-2026-08-09-at-14.53.40.jpeg"
-    },
-    {
-      "titulo": "Encerra nesta segunda-feira as inscrições do concurso do Corpo de Bombeiros de Roraima",
-      "imagem": "https://s2-g1.glbimg.com/s6sxabumkYC5uOFvp_i0zMFSa98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/I/I/reWoZ7S2SvASIdCMcXIA/cbm.jpeg"
-    },
-    {
-      "titulo": "Motorista baiano é encontrado morto após carreta-tanque pegar fogo em acidente na BR-116, em Minas Gerais",
-      "imagem": "https://s2-g1.glbimg.com/BIpWozX7350XgxMO3cr5FcBjt3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/6/sOWWIRSnqKkSxrAOCcIQ/principio-de-incendio-atinge-maternidade-de-hospital-privado-de-salvador-13-.png"
-    },
-    {
-      "titulo": "Atriz de ‘Harry Potter’ diz que ganhou mais no OnlyFans do que em toda a carreira",
-      "imagem": "https://s2-g1.glbimg.com/tPdS5DegOygO1d0C_j-hWrKijaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/M/dW1a9CTcWmG5kr7Y4nag/only-harry.jpg"
-    },
-    {
-      "titulo": "Apresentação do Boi Galante dura menos de 30 minutos em festival no AM; presidente alega falta de repasses, já Secretaria de Cultura atribui a questões internas da agremiação",
-      "imagem": "https://s2-g1.glbimg.com/Ef7TBg3WuaRli3FqD9SwG1G-0kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/l/8SRBmoQLqXXTqigJ41Wg/apresentacao-simbolica-do-boi-galante-em-manaus-1-.jpg"
-    },
-    {
-      "titulo": "Homens são presos suspeitos de controlar drone que enviaria celulares para prisão na Grande BH",
-      "imagem": "https://s2-g1.glbimg.com/axZ2ATb7oVrcPb46Hw1s6Bz3ZZk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/e/KTblewRdC1JK5wIDbFGw/whatsapp-image-2026-08-09-at-13.10.15.jpeg"
-    },
-    {
-      "titulo": "Vítima é socorrida em estado grave após caminhonete bater de frente com carro em rodovia de Itapeva",
-      "imagem": "https://s2-g1.glbimg.com/OwH3qHbgxmlHAjrz9z7fPnerDxg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/V/KNohaTSrAAApUEL5Y4AQ/e89e1c9d-b642-4b46-8b6a-80927427cbcd-1-.jpg"
-    },
-    {
-      "titulo": "Mulher de 27 anos morre após perder controle de moto ao voltar de festa no interior do PI",
-      "imagem": "https://s2-g1.glbimg.com/oyUurQ3Z9c8vYWO_mv45NedgyRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/1/HCmEjeRy2BW8gUjDeVsw/edicao-imagens-g1-24-.jpg"
-    },
-    {
-      "titulo": "Homem furta viatura da PRF em Itaitinga, foge e acaba preso após buscas",
-      "imagem": "https://s2-g1.glbimg.com/NqhMMna2vp84jWvIkQWGST-LyyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/mn1B9fSSeSg6K8jX9KTw/prf-viatura.jpg"
-    },
-    {
-      "titulo": "Ator de 'Highlander' e 'Mortal Kombat' passa mal em evento e cancela participação",
-      "imagem": "https://s2-g1.glbimg.com/fu8jXvuYDSynz-H0Zf8E6f2k4Gs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/juuAgLSiiAwg1j6VBfnQ/befunky-collage-4-.jpg"
-    },
-    {
-      "titulo": "Crianças de 3 e 5 anos são encontradas mortas dentro de carro na Zona Sul de SP; pai é preso em flagrante",
-      "imagem": "https://s2-g1.glbimg.com/K_aGmHX-lMW3Wc9ijIAw25yAbhU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/M/RkBroNQKqreAgURBa2Ww/fotojet-67-.jpg"
-    },
-    {
-      "titulo": "Motociclista morre após colisão frontal entre duas motos em Teresina; outro condutor ficou ferido",
-      "imagem": "https://s2-g1.glbimg.com/vO9P5R7BtQbx4Dx6hKggt_mORVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/r/byS5XCSGCJnB1P3Bta9g/edicao-imagens-g1-37-.png"
-    },
-    {
-      "titulo": "PCO lança Victor Assis como candidato ao governo de Pernambuco",
-      "imagem": "https://s2-g1.glbimg.com/D5NAHT4jOshQfZzgKZRu14JJPQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/u/B39CBDQBqHn3OpR8aLaA/victor-assis.jpg"
-    },
-    {
-      "titulo": "Incêndio atinge barraco na Zona Norte de Aracaju",
-      "imagem": "https://s2-g1.glbimg.com/xEO01LbMUxPG0-OwoWmPTRKY_0E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/N/jzLiYbSqOTmoMmjRAK0A/barraco.jpg"
-    },
-    {
-      "titulo": "Homem é preso por maus-tratos após seis cães serem resgatados em Ituverava, SP; nove filhotes morreram",
-      "imagem": "https://s2-g1.glbimg.com/vZE7S89z2DSZ3qp85uJTULcg7n0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/2/zfGeiAQMqB1J53FWBREw/chatgpt-image-9-de-ago.-de-2026-13-59-01.png"
     }
   ],
-  "atualizadoEm": "2026-08-09T18:34:47.816Z"
+  "atualizadoEm": "2026-08-09T19:20:01.032Z"
 }
