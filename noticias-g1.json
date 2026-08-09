@@ -1,12 +1,72 @@
 {
   "noticias": [
     {
+      "titulo": "Atriz de ‘Harry Potter’ diz que ganhou mais no OnlyFans do que em toda a carreira",
+      "imagem": "https://s2-g1.glbimg.com/tPdS5DegOygO1d0C_j-hWrKijaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/M/dW1a9CTcWmG5kr7Y4nag/only-harry.jpg"
+    },
+    {
+      "titulo": "Apresentação do Boi Galante dura menos de 30 minutos em festival no AM; presidente alega falta de repasses, já Secretaria de Cultura atribui a questões internas da agremiação",
+      "imagem": "https://s2-g1.glbimg.com/4qy4utXs6YLJy0he6-ketGMZzfU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Z/lA00YgQK6BQTvVqnndJw/apresentacao-simbolica-do-boi-galante-em-manaus.jpg"
+    },
+    {
+      "titulo": "Homens são presos suspeitos de controlar drone que enviaria celulares para prisão na Grande BH",
+      "imagem": "https://s2-g1.glbimg.com/axZ2ATb7oVrcPb46Hw1s6Bz3ZZk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/e/KTblewRdC1JK5wIDbFGw/whatsapp-image-2026-08-09-at-13.10.15.jpeg"
+    },
+    {
+      "titulo": "Vítima é socorrida em estado grave após caminhonete bater de frente com carro em rodovia de Itapeva",
+      "imagem": "https://s2-g1.glbimg.com/OwH3qHbgxmlHAjrz9z7fPnerDxg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/V/KNohaTSrAAApUEL5Y4AQ/e89e1c9d-b642-4b46-8b6a-80927427cbcd-1-.jpg"
+    },
+    {
+      "titulo": "Mulher de 27 anos morre após perder controle de moto ao voltar de festa no interior do PI",
+      "imagem": "https://s2-g1.glbimg.com/oyUurQ3Z9c8vYWO_mv45NedgyRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/1/HCmEjeRy2BW8gUjDeVsw/edicao-imagens-g1-24-.jpg"
+    },
+    {
+      "titulo": "Homem furta viatura da PRF em Itaitinga, foge e acaba preso após buscas",
+      "imagem": "https://s2-g1.glbimg.com/NqhMMna2vp84jWvIkQWGST-LyyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/mn1B9fSSeSg6K8jX9KTw/prf-viatura.jpg"
+    },
+    {
+      "titulo": "Ator de 'Highlander' e 'Mortal Kombat' passa mal em evento e cancela participação",
+      "imagem": "https://s2-g1.glbimg.com/fu8jXvuYDSynz-H0Zf8E6f2k4Gs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/juuAgLSiiAwg1j6VBfnQ/befunky-collage-4-.jpg"
+    },
+    {
+      "titulo": "Crianças de 3 e 5 anos são encontradas mortas dentro de carro na Zona Sul de SP; pai é suspeito",
+      "imagem": "https://s2-g1.glbimg.com/K_aGmHX-lMW3Wc9ijIAw25yAbhU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/M/RkBroNQKqreAgURBa2Ww/fotojet-67-.jpg"
+    },
+    {
+      "titulo": "Motociclista morre após colisão frontal entre duas motos em Teresina; outro condutor ficou ferido",
+      "imagem": "https://s2-g1.glbimg.com/vO9P5R7BtQbx4Dx6hKggt_mORVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/r/byS5XCSGCJnB1P3Bta9g/edicao-imagens-g1-37-.png"
+    },
+    {
+      "titulo": "PCO lança Victor Assis como candidato ao governo de Pernambuco",
+      "imagem": "https://s2-g1.glbimg.com/D5NAHT4jOshQfZzgKZRu14JJPQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/u/B39CBDQBqHn3OpR8aLaA/victor-assis.jpg"
+    },
+    {
+      "titulo": "Incêndio atinge barraco na Zona Norte de Aracaju",
+      "imagem": "https://s2-g1.glbimg.com/xEO01LbMUxPG0-OwoWmPTRKY_0E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/N/jzLiYbSqOTmoMmjRAK0A/barraco.jpg"
+    },
+    {
+      "titulo": "Homem é preso por maus-tratos após seis cães serem resgatados em Ituverava, SP; nove filhotes morreram",
+      "imagem": "https://s2-g1.glbimg.com/vZE7S89z2DSZ3qp85uJTULcg7n0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/2/zfGeiAQMqB1J53FWBREw/chatgpt-image-9-de-ago.-de-2026-13-59-01.png"
+    },
+    {
+      "titulo": "VÍDEO: carro atinge moto em cheio, e motociclista é arremessado para o alto na Zona Leste de SP",
+      "imagem": "https://s2-g1.glbimg.com/sVRyiNYLqTdACc8SIx0Pia9UBsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Z/RRXY4DRKaHStDlpZpBNg/captura-de-tela-2026-08-09-134649.jpg"
+    },
+    {
+      "titulo": "Anvisa determina apreensão de seis tipos de sal vendidos irregularmente; veja lista",
+      "imagem": "https://s2-g1.glbimg.com/c8rC4Fs034GxPQ7Wh0vEtdBAiAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/W/F8fsvoQ424BRAoQjxmGg/sal.jpg"
+    },
+    {
+      "titulo": "Homem é preso suspeito de agredir esposa e filho após arrombar janela de casa em Presidente Prudente",
+      "imagem": "https://s2-g1.glbimg.com/bd3kxf2e8lB4P-EmScQhcE3vftw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/Oqlnd2T1m76pXifJ7CDg/whatsapp-image-2026-07-13-at-15.05.39.jpeg"
+    },
+    {
       "titulo": "Projeto 'Ana Maria Brócolis': alunos de Sorocaba plantam mudas que vão virar merenda escolar",
       "imagem": "https://s2-g1.glbimg.com/mtwb6tk2S8nW0E5MOK5dSrp7uA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/J/um4KjtRIe4MuBLqpnkbw/edicao-g1-agenda-2-.png"
     },
     {
       "titulo": "Chanceler brasileiro diz que Argentina precisa 'parar as agressões' a Lula para normalizar relação",
-      "imagem": "https://s2-g1.glbimg.com/Ml_sprFRW23mp7JhU8YtYEawc5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/2/U6eCOZQnyTv5cgKcmJcA/55240312176-f4669e7bc4-k.jpg"
+      "imagem": "https://s2-g1.glbimg.com/1ZdkM2vVBAoIpGtPvWrfTUiw9yE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/M/fSArM6RiuaF6rZGwXmNA/photo-collage.png-1-.png"
     },
     {
       "titulo": "Festival Música, Família &amp; Morango é realizado em Atibaia; programe-se",
@@ -59,67 +119,7 @@
     {
       "titulo": "Dois homens são mortos a tiros enquanto dormiam na rua em Vila Velha; moradores suspeitam de ataque a usuários de drogas",
       "imagem": "https://s2-g1.glbimg.com/XK1_3rABsmMAfFuKfBrnjvBEtW4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/f/A8Ux9FTay1Z3aAgjmDUw/thumb-fotos-2026-08-09t125135.622.jpg"
-    },
-    {
-      "titulo": "Motorista é preso com R$ 780 mil em camarão contrabandeado escondido em casca de arroz em SC",
-      "imagem": "https://s2-g1.glbimg.com/CHWqy61rIrXOpRgoQkgkGo6kmus=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/J/JPxQnCR3ScwHef7iGPOw/motorista-e-preso-com-r-780-mil-em-camarao-contrabandeado-escondido-em-casca-de-arroz-em-sc-.png"
-    },
-    {
-      "titulo": "Suspeito de emprestar casa para cativeiro de bebê sequestrada em MS tem prisão preventiva decretada",
-      "imagem": "https://s2-g1.glbimg.com/ewSOJc4CePkIP4G6-ae-grYTrwc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/K/0AajZGSfSpDhfdb6DweA/design-sem-nome-82-.jpg"
-    },
-    {
-      "titulo": "Homem é preso em flagrante por importunação sexual dentro de ônibus em Pardinho",
-      "imagem": "https://s2-g1.glbimg.com/aG5YlNueyLk-5BAnZG6S4EnEumw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/H/tPPHjKRLSbO584AbZFHg/whatsapp-image-2026-08-09-at-12.22.09-1-.jpeg"
-    },
-    {
-      "titulo": "Empresa petrolífera ligada a Trump prepara perfuração sem autorização na Groenlândia; entenda interesses no Ártico",
-      "imagem": "https://s2-g1.glbimg.com/WgFPF-849MAkET4AglzEXEaKUnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/0/OPlSyPQB6oXtn1rHjqmw/hpn5bihxsaa8vwd.jpg"
-    },
-    {
-      "titulo": "Dois pais e dois filhos morrem em acidente no Paraná no Dia dos Pais",
-      "imagem": "https://s2-g1.glbimg.com/hMQo4ZdYkknIyh8kqhUHO5R9-m8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/C/GWRsl6S5G7FrOElehFLg/g1-pr-2026-08-09t124934.009.jpg"
-    },
-    {
-      "titulo": "Cantor sertanejo monta estúdio dentro de van para divulgar DVD em Goiânia",
-      "imagem": "https://s2-g1.glbimg.com/EMX1MsJjHvMfg6K5ZRBI_9wODyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/i/rNbFvdTX2g71ZvIJ2RUg/padrao-foto-texto-g1-61-.jpg"
-    },
-    {
-      "titulo": "Mulher morre e outra fica ferida ao serem atropeladas no AC; VÍDEO mostra motorista fugir do local",
-      "imagem": "https://s2-g1.glbimg.com/bEl3srEe1pcr7h4z5O71Rv_8yhk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/E/gjDJOFQB2sZ0TmcREYOg/midia-de-distribuicao-g1-2026-08-09t095523.565.jpg"
-    },
-    {
-      "titulo": "IBGE atualiza limites territoriais de quatro cidades do Alto Tietê",
-      "imagem": "https://s2-g1.glbimg.com/_hmPrZLeHiUGOBp6XpIO17sEYeA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/f/NPDaTcQM2yY7sHbZqRoA/202010141023105f86fbbeae2dd.jpg"
-    },
-    {
-      "titulo": "Mega-Sena: Apostas de Goiás ganham mais de R$ 250 mil após acertar a quina",
-      "imagem": "https://s2-g1.glbimg.com/B5tMIoLpr30pNw8djBYlFmyKyow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/pwpJjAR0GtbRJ9XYzKdA/edicao-imagens-g1-17-.png"
-    },
-    {
-      "titulo": "Fuzis são encontrados dentro de carro após capotamento no TO",
-      "imagem": "https://s2-g1.glbimg.com/knAMnozvLVLFe3c4Mjt6ftJT6tU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/S/s8SXNtSzSUaQAEt8e53w/78596.jpg"
-    },
-    {
-      "titulo": "Defensoria oferece mais de 100 vagas para casais de migrantes e refugiados casar gratuitamente em Roraima",
-      "imagem": "https://s2-g1.glbimg.com/IxtSbLqoix5uX2nnA222QhW556g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/3/D/kL0O6BS6e5TUoBRJivJg/whatsapp-image-2024-08-03-at-19.57.52-scaled.jpeg"
-    },
-    {
-      "titulo": "Parnaíba 182 anos: conheça a arquitetura, as paisagens e a culinária tradicionais da cidade",
-      "imagem": "https://s2-g1.glbimg.com/XEumW6Gxd--TAjeVNxnBD2MjDsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/m/lPVVQkSsSh5Czz8y2W8g/edicao-imagens-g1-44-.png"
-    },
-    {
-      "titulo": "Filho de piloto morto em queda de helicóptero no Rio antecipou Dia dos Pais com o pai: ‘Fizemos um churrasco em família’",
-      "imagem": "https://s2-g1.glbimg.com/k1B5hiIFQXvGgUfcw9JKkN7ZFPI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/0/KkfMQgQtaBBwrZmQiXDQ/alessandro-rocha-03.jpg"
-    },
-    {
-      "titulo": "Mega-Sena: aposta do interior de SP fica a um número de ganhar R$ 164 milhões",
-      "imagem": "https://s2-g1.glbimg.com/yIjM_eO40TswLAzUX-zlaAX5tis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/n/GASOSkS1ukiJAf8RZA0g/mega-sena-sc.png"
-    },
-    {
-      "titulo": "Ex-jogador Jadson é solto sem fiança após prisão por suspeita de agressão contra a esposa no PR",
-      "imagem": "https://s2-g1.glbimg.com/6xBaiznrgmLpu5n1k8GRojVaoNw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/X/OZI73WT8qeu0P1At3dAQ/g1-pr-2026-08-08t204910.551.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-09T17:13:48.910Z"
+  "atualizadoEm": "2026-08-09T17:48:44.303Z"
 }
