@@ -1,104 +1,68 @@
 {
   "noticias": [
     {
-      "titulo": "Ministro da Pesca anuncia R$ 1,3 milhão para setor aquícola em Santarém",
-      "imagem": "https://s2-g1.glbimg.com/-dYYZJerLqWryNoIQFlDwJCcCtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/R/M93ADUSYKDIVvjVKaeSg/img-20260810-075748.jpg.jpeg"
+      "titulo": "Incêndio atinge grama e jazigos no Cemitério da Asa Sul, no DF",
+      "imagem": "https://s2-g1.glbimg.com/_YKgfzD6NXsk0JvcOF5AjMUKlik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/X/wyjquUR3aXWMCrXXvR4w/g1-1-.jpg"
     },
     {
-      "titulo": "Polícia prende foragido por tráfico de drogas em Três Rios",
-      "imagem": "https://s2-g1.glbimg.com/d91sCA7lbaI3WzkE_0205Oyjyjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/F/bN7m6BQJyMG6SsX2M9KQ/image-13-.png"
+      "titulo": "Teresa Cristina marca posição no bloco  de sambas do primeiro álbum autoral da discografia, 'Tudo que eu tenho'",
+      "imagem": "https://s2-g1.glbimg.com/uloovNWOQkdVHdmXxIkhO9NVJsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/h/4egvnIROqqoLhybz3xhA/teresa-cristina-foto-nana-moraes-flores.jpg"
     },
     {
-      "titulo": "Agosto terá dois eclipses, mas só um deles poderá ser visto do Brasil",
+      "titulo": "Motorista de Audi morre e carro de luxo fica retorcido em acidente com caminhão em rodovia do Paraná",
+      "imagem": "https://s2-g1.glbimg.com/xhIy1PJ7ymsXEjEFdeAVFV7K48U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/N/InK0uLRDG9SvHzsyhdFw/393cdbb1-0d0d-4b8d-9279-32e27c8b357f.png"
+    },
+    {
+      "titulo": "Ufac retoma aulas presenciais após fim de greve de estudantes pelo transporte coletivo",
+      "imagem": "https://s2-g1.glbimg.com/ZXM51ovT97M68GJx6BMvNdLMolI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/q/DgYMjRQ72VG8Wdpn7WyA/midia-de-distribuicao-g1.png"
+    },
+    {
+      "titulo": "Dólar abre sessão desta segunda-feira, de olho em alta do petróleo",
+      "imagem": "https://s2-g1.glbimg.com/XNe-iZGShwcfxKKIu_dUZJjCMZA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/W/pNqFkwSSG90RoeSZ80Pg/drf20241217001.jpg"
+    },
+    {
+      "titulo": "Homem é morto a tiros na frente dos dois filhos no Dia dos Pais após ter casa invadida na Bahia",
+      "imagem": "https://s2-g1.glbimg.com/d-i3JOrK0DME9Qohqd520XoJPWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/T/bgiK4vSxyp2JX1W5mRAw/foto-no-tamanho-home-2026-08-10t083706.679.png"
+    },
+    {
+      "titulo": "IF Sudeste MG abre 72 vagas para cursos técnicos e de graduação em Juiz de Fora; veja como se inscrever",
+      "imagem": "https://s2-g1.glbimg.com/1p7rGxAoY7RSWUOXdtn0_UwBUMw=/s.glbimg.com/jo/g1/f/original/2016/04/09/if_sudeste_campus_juiz_de_fora.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Bom Dia Rio de segunda, 10 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/ZQ4ComhCkBcn8_S0CjPK-fDrJQI=/s01.video.glbimg.com/deo/vi/11/43/14854311"
+    },
+    {
+      "titulo": "Europa Ocidental teve período de junho a julho mais quente já registrado, dizem  cientistas da UE",
       "imagem": null
     },
     {
-      "titulo": "Homem morre e outro fica gravemente ferido após batida frontal entre carros no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/W9oqyUwy9ZLaqsWexxls5d2vq2g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/j/DrEYr4SRCDwLCOWMSEeg/acidente-22-.png"
+      "titulo": "Mulher acorda de madrugada para ir ao banheiro, tropeça e cai em fossa de 8 metros em MG",
+      "imagem": "https://s2-g1.glbimg.com/EeCEqBX5FNsHPb-QQ3SDrQRfiVk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/NCBJ9uTVSAHAtMK04o3w/jl-tm-2026-08-10t083621.184.jpg"
     },
     {
-      "titulo": "Homem morre após fogo atingir casa e polícia investiga caso em Pompeia",
-      "imagem": "https://s2-g1.glbimg.com/zvqURCfkQg0VT_aHFLv23a8ezTs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/F/Ac3084S1OEzbif5LHlAg/novo-projeto-2026-08-10t073533.420.png"
+      "titulo": "Marido é suspeito de matar esposa a tiros na presença dos filhos em fazenda de MT",
+      "imagem": "https://s2-g1.glbimg.com/j-XREf2wmGRHijfE2j4cazCKwZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/e/PsRv2fRsK5a5gEVCeTQw/foto-g1-2026-08-10t075213.489.png"
     },
     {
-      "titulo": "Homem é preso após agredir esposa e filho com socos em Angra dos Reis",
-      "imagem": "https://s2-g1.glbimg.com/cIKK13rpf__ObVs0P_JhCOac2N0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/a/fMA9GJTTKs2XBaR6i2HA/image-2-.jpg"
+      "titulo": "Polícia quer ouvir empresa de helicóptero que caiu no Rio; acidente gera discussão sobre voos em áreas residenciais",
+      "imagem": "https://s2-g1.glbimg.com/S7LrY59T5InqOLunIReil8PeDSE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/l/NM3tJ7QNSA1nuArBpaSw/whatsapp-image-2026-08-08-at-13.10.47.jpeg"
     },
     {
-      "titulo": "Irmãos morrem em acidente entre dois veículos na BR-116",
-      "imagem": "https://s2-g1.glbimg.com/6If1iDIRKWBS1xEr6JjEFK1_nHA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/o/HMzPkISm6AEhQwRiKgtw/g1-6-.jpg"
+      "titulo": "Iza Estrela é eleita Rainha da Expofeira do Amapá 2026",
+      "imagem": "https://s2-g1.glbimg.com/EBZ7nj-H7FpvZbrTLN8mN6CbI3Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/x/El6FU4SiW7u2AmFI3gJw/aleixo-g1-25-.png"
     },
     {
-      "titulo": "Cinco linhas de ônibus de São José dos Campos ganham mais horários a partir desta segunda-feira; veja quais",
-      "imagem": "https://s2-g1.glbimg.com/tCJNo_8B4cspovT23E4kR-nlW9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/q/Lis4yhSkycwqNb2ZZ1bg/texto-do-seu-paragrafo-2026-08-10t081233.881.png"
+      "titulo": "Embraer tem receita recorde de R$ 11,3 bilhões no 2º trimestre de 2026 e entrega 65 aviões",
+      "imagem": "https://s2-g1.glbimg.com/XAONQbsMzcSq6l_u_eK7HwedR0M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/V/rtc4S8TY2FEhAjTrBQNA/e175-plus-air-to-air-07.jpg"
     },
     {
-      "titulo": "Polícia tenta identificar suspeito de agredir mulher embaixo de prédio no DF",
-      "imagem": "https://s2-g1.glbimg.com/nozEwqghbeQCjPm9ewaPuEi_QXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/V/Ajtt1HSmS8QeoBkbftxg/g1-3-.gif"
+      "titulo": "Bom Dia Cidade - Ribeirão e Franca",
+      "imagem": "https://s2-g1.glbimg.com/5Db3pzqHzeCD6vSqEpxOFb9UvEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/v/FMd4ZuT8uJLkmIab6LLw/still0208-00000.jpg"
     },
     {
-      "titulo": "As 6 condições que o Irã impõe a Trump para reabrir o Estreito de Ormuz",
-      "imagem": "https://s2-g1.glbimg.com/6lFMP5V1m8EeJozAjW4MRua2JK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/V/xVJ1kCTx6jQA50u0LAPg/novo-projeto-11-.jpg"
-    },
-    {
-      "titulo": "'Terra rasgada' ou 'lugar da rasgadura': entenda origem do nome de Sorocaba",
-      "imagem": "https://s2-g1.glbimg.com/bd7o2X1amnLh1fE9XGtiMCTohsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/X/BS7pwJRdmVmp1cBtPdAA/iii-centenario.png"
-    },
-    {
-      "titulo": "Adolescente de 17 anos morre após perder controle de moto e bater em árvores no RN",
-      "imagem": "https://s2-g1.glbimg.com/E7Fkedd7SLNLbHav2YatfHnC8ww=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/D0BdFBSAiWsPDMWXV3kA/capa-.png"
-    },
-    {
-      "titulo": "'Balanço não pode ser publicado antes do empréstimo', diz governadora do DF sobre BRB",
-      "imagem": "https://s2-g1.glbimg.com/6yZlpYs-zrahjtLoNFxE3cM4Vyk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/V/Rne3I7SJC8FQJYtn0rvg/captura-de-tela-2026-04-25-204321.png"
-    },
-    {
-      "titulo": "Veja o que se sabe sobre acidente entre caminhão e ônibus que deixou oito mortos",
-      "imagem": "https://s2-g1.glbimg.com/5_lMWvujrFm0mHlK17y5xk_Eu3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/0/q5ZnI2TfejMlkWvgVOFA/padrao-foto-texto-g1-44-.jpg"
-    },
-    {
-      "titulo": "Delegado aposentado morre atropelado na BR-101, em Abreu e Lima",
-      "imagem": "https://s2-g1.glbimg.com/CxkV-LV_NquHXUSwkBN_0_JXR8Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/y/1j5pa8RhKagpkyanGp2A/delegado.jpg"
-    },
-    {
-      "titulo": "Óbitos por vírus respiratórios caem 92% no AM; crianças de até 4 anos concentram 60% dos casos",
-      "imagem": "https://s2-g1.glbimg.com/iHaLDxC54-MQCEmgjkgGBUiRIxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/U/VQLw6VQymQlByjjuMANA/design-sem-nome-74-.png"
-    },
-    {
-      "titulo": "Mulher morre após cair de trator e ser atropelada pelo veículo",
-      "imagem": "https://s2-g1.glbimg.com/_ycPybcRSFnSieeZVggkPs-8dA0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/I/Vk56XRSBeYV9XfdVdtOQ/foto-e-montagem-vertical-3-.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Bom Dia Tocantins, de 10 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/MOI6G89G9hvkOXPkiaSxuErpeNQ=/s01.video.glbimg.com/deo/vi/26/42/14854226"
-    },
-    {
-      "titulo": "Deputado americano apoiador de Trump publica montagem de Lula capturado como Maduro",
-      "imagem": "https://s2-g1.glbimg.com/UWygeNwB6ugfnev-cRtJNZAtdIU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/Q/P9MwDESOWOa7bhffcu9w/chatgpt-image-10-de-ago.-de-2026-08-18-20.png"
-    },
-    {
-      "titulo": "Suspeito de tocar partes íntimas de mulheres durante festejos no PI é preso",
-      "imagem": "https://s2-g1.glbimg.com/OK7zLrr8bxH45Tr2hwsFHzExlRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Z/16S8oRSxGNqNkbu0lrrg/edicao-imagens-g1-29-.jpg"
-    },
-    {
-      "titulo": "Aposta de Aracaju acerta cinco números da Mega Sena e leva R$ 114 mil",
-      "imagem": "https://s2-g1.glbimg.com/B5tMIoLpr30pNw8djBYlFmyKyow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/pwpJjAR0GtbRJ9XYzKdA/edicao-imagens-g1-17-.png"
-    },
-    {
-      "titulo": "Mulher é assassinada pelo marido no noroeste de SP; suspeito é encontrado morto",
-      "imagem": "https://s2-g1.glbimg.com/MITmtYczl-fLLcCDTwqVp8ZphwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/v/praopFTKubMruG7BRjnw/design-sem-nome-46-.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Bom Dia Minas, de segunda-feira, 10 de agosto de 2026",
-      "imagem": null
-    },
-    {
-      "titulo": "Motorista esquece de puxar freio de mão, tenta parar ônibus e é atingido pelo próprio veículo no Terminal Jardim Ângela",
-      "imagem": "https://s2-g1.glbimg.com/FCh8rZI9PAdiXJ4OpArXd8tRHxg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/5/0dRiGgRX6wMMNeosUggA/whatsapp-image-2026-08-10-at-07.26.58.jpeg"
-    },
-    {
-      "titulo": "Assista ao Bom Dia Vanguarda ao vivo no g1",
-      "imagem": "https://s2-g1.glbimg.com/eNmYHfknzzliwQJLsNi8qyf2BDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/r/qhMVONTJuDaQtelrYKjA/a64b4644-73da-40c5-b2f0-17b0321381f0.jpg"
+      "titulo": "Novas câmeras de trânsito começam a operar nas avenidas Benjamin Constant e John Boyd Dunlop, em Campinas",
+      "imagem": "https://s2-g1.glbimg.com/GjHpGoxUbG-OOp3_LltI8xU_-UI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/T/F2xteRTAWK8dmsrZ9mVQ/cam.png"
     },
     {
       "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
@@ -113,13 +77,49 @@
       "imagem": null
     },
     {
-      "titulo": "Imagineland 2026 anuncia atriz Lera Abova, de 'One Piece', na programação",
-      "imagem": "https://s2-g1.glbimg.com/tAe9Om12meIOxzE6hcNIwHgOzjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/b/IAQuKBR8mSU6j3HXmDBA/lera-abova.jpg"
+      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+      "imagem": null
     },
     {
-      "titulo": "Câmara de Petrolina retoma sessões nesta terça (11) após fim do recesso",
-      "imagem": "https://s2-g1.glbimg.com/4V8Tux9MhFe2vdHPrmKzt3AffKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/P/mSZmvYR7qjHa1yJpp4zg/whatsapp-image-2026-02-02-at-09.30.53.jpeg"
+      "titulo": "Menino que emocionou com recado ao pai visita Cidade da Polícia e entra em campo com jogadores do Flamengo",
+      "imagem": "https://s2-g1.glbimg.com/F0sZPZ_aT8xRq5am9eVUbRuxT6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/W/wHVWmHQmKGJ8Mkxecosg/10cleuber2.jpg"
+    },
+    {
+      "titulo": "Acidente entre dois carros deixa quatro feridos na Rio-Santos, em Angra dos Reis",
+      "imagem": "https://s2-g1.glbimg.com/aWzzrQJb2zcxokGBeYBLODOiPGE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/J/RIFBKASuOu7nolgbwxmg/whatsapp-image-2026-04-23-at-19.20.42.jpg"
+    },
+    {
+      "titulo": "Festival Folclórico de Santarém tem última noite cancelada após morte de integrante de quadrilha",
+      "imagem": "https://s2-g1.glbimg.com/G3e8RcttO9tvzYGzJPg1zWHZpik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/D/8NlxokQQCgaSYggXBgHA/whatsapp-image-2026-08-10-at-08.34.19.jpeg"
+    },
+    {
+      "titulo": "Acidente envolvendo três carros deixa uma pessoa ferida em Aracaju",
+      "imagem": "https://s2-g1.glbimg.com/RAVh4YU2eat1j7RdDfQOdyFiFks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/K/DCmdEgRAaPiLbGBOpZYA/tancredo.jpg"
+    },
+    {
+      "titulo": "'Começa a te envolver psicologicamente': vítima sofre prejuízo de R$ 600 mil após cair em golpe da falsa central bancária",
+      "imagem": "https://s2-g1.glbimg.com/uVZOxp-LLcaZ091AO3YYntBAw3o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/C/aFgiO0SIKmAQzQojN5pg/captura-de-tela-2026-08-09-202626.png"
+    },
+    {
+      "titulo": "Analistas do mercado baixam pela 6ª semana seguida expectativa de inflação em 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Vídeo: agricultor do Paraná flagra formação de supercélula, fenômeno com formato de funil que pode virar tornado",
+      "imagem": "https://s2-g1.glbimg.com/ROd7bZ6NJfels225AzDI5U4pq2w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/d/LTnNcoTXa7RSJxBPQA7Q/g1-pr-2026-08-10t082807.676.jpg"
+    },
+    {
+      "titulo": "Carro invade loja após colisão em cruzamento no Centro de Ribeirão Preto, SP",
+      "imagem": "https://s2-g1.glbimg.com/AL2iwMcVkT2AQVp0TJsPlX-oyAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/h/U1TrfjT2ajmRReO0zQ3Q/batida-centro.jpg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "Classificados do Edimilson: veja as vagas de emprego da semana de 10 a 14 de agosto",
+      "imagem": "https://s2-g1.glbimg.com/ljv7R6IkgAabueYAQUIGjyUL8IE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/P/z/BQmzlkQyiqsnw4tWRBTg/09edimilson.png"
     }
   ],
-  "atualizadoEm": "2026-08-10T11:29:33.798Z"
+  "atualizadoEm": "2026-08-10T12:10:47.847Z"
 }
