@@ -1,7 +1,95 @@
 {
   "noticias": [
     {
-      "titulo": "Repórter é agredido por cinegrafista antes de debate entre candidatos",
+      "titulo": "&#8220;Quarta-feira é guerra&#8221;, canta torcida do Flamengo após vitória",
+      "imagem": null
+    },
+    {
+      "titulo": "Sem Moro, debate no PR aborda privatização da Copel e escola cívico-militar",
+      "imagem": null
+    },
+    {
+      "titulo": "Santos: Cuca admite preocupação com rebaixamento e cobra diretoria",
+      "imagem": null
+    },
+    {
+      "titulo": "Tenista mais velho nas quartas de final do Masters de Montreal tem 25 anos",
+      "imagem": null
+    },
+    {
+      "titulo": "Tarcísio elogia Nunes; Haddad cita dívida de SP e filme de Bolsonaro",
+      "imagem": null
+    },
+    {
+      "titulo": "Barco ilegal vira próximo à Estátua da Liberdade e mata mãe e filha nos EUA",
+      "imagem": null
+    },
+    {
+      "titulo": "Candidatos expõem &#8220;excesso de ladrão&#8221; e milícia infiltrada em debate no RJ",
+      "imagem": null
+    },
+    {
+      "titulo": "João Fonseca lamenta atuação contra Shelton e comenta torção: “Senti medo”",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja os próximos torneios de João Fonseca após o Masters 1000 de Montreal",
+      "imagem": null
+    },
+    {
+      "titulo": "Ausente, Moro é chamado de &#8220;fujão&#8221;; educação é foco em debate no PR",
+      "imagem": null
+    },
+    {
+      "titulo": "Haddad chama Tarcísio de &#8220;decoreba&#8221; em debate paulista",
+      "imagem": null
+    },
+    {
+      "titulo": "Rosalía atende fãs na porta de hotel no Rio de Janeiro antes de shows; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Debate em SP: Educação, segurança e alianças são destaques do 1º bloco",
+      "imagem": null
+    },
+    {
+      "titulo": "Debate no CE: Ciro e Elmano atacam &#8220;muletas do Lula&#8221; e &#8220;amiguinhos do PL&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Baixa essa bola&#8221;, diz Haddad após Tarcísio insinuar relação com o tráfico",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasil ainda não atrai grandes investidores do futebol, aponta especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "Flamengo vence o Vitória e vê distância para o líder Palmeiras diminuir",
+      "imagem": null
+    },
+    {
+      "titulo": "Deputado republicano dos EUA publica foto de Lula capturado como Maduro",
+      "imagem": null
+    },
+    {
+      "titulo": "João Fonseca sofre torção, perde para Ben Shelton e dá adeus em Montreal",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Tenho gratidão&#8221;: Tarcísio rebate Haddad sobre ter &#8220;vergonha de Bolsonaro&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Carol Dantas e Bruna Biancardi posam juntas em festa junina fora de época",
+      "imagem": null
+    },
+    {
+      "titulo": "Acidentes com helicópteros no Rio somam 13 mortes em 2026; FAB foi alertada",
+      "imagem": null
+    },
+    {
+      "titulo": "Cinegrafista da GloboNews é retirado de debate após cabeçada em repórter",
       "imagem": null
     },
     {
@@ -21,7 +109,7 @@
       "imagem": null
     },
     {
-      "titulo": "Candidatos focam em segurança e combate a tráfico em debates estaduais",
+      "titulo": "Segurança e críticas a Lula e Bolsonaro acirram debates entre governadores",
       "imagem": null
     },
     {
@@ -31,95 +119,7 @@
     {
       "titulo": "Mattel homenageia cantora Whitney Houston com boneca Barbie; veja",
       "imagem": null
-    },
-    {
-      "titulo": "Patrimônio de Alexandre Kalil cresceu 62% em meio a dívida trabalhista",
-      "imagem": null
-    },
-    {
-      "titulo": "Gil do Vigor homenageia mães no Dia dos Pais: &#8220;Fortaleza para os filhos&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Aos 95 anos, Mauro Mendonça celebra Dia dos Pais cercado pela família",
-      "imagem": null
-    },
-    {
-      "titulo": "Flamengo x Vitória: escalações e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Preso, Robinho é homenageado pelo filho em ação especial do Santos",
-      "imagem": null
-    },
-    {
-      "titulo": "Fonseca x Shelton: siga o tempo real das oitavas do Masters 1000 do Canadá",
-      "imagem": null
-    },
-    {
-      "titulo": "Entenda porque ex-marido de Maria da Penha foi preso após dar entrevista",
-      "imagem": null
-    },
-    {
-      "titulo": "João Guilherme se declara para Leonardo em foto com irmãos: &#8220;Sorte a nossa&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "João Silva homenageia Faustão no Dia dos Pais: &#8220;Grato por ter você aqui&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Saoirse Ronan é vista como Linda McCartney no set de filme dos Beatles",
-      "imagem": null
-    },
-    {
-      "titulo": "Sergio Moro cancela ida a primeiro debate com candidatos ao governo do PR",
-      "imagem": null
-    },
-    {
-      "titulo": "Vasco e Bahia empatam pelo Brasileirão em jogo de gols anulados e lesões",
-      "imagem": null
-    },
-    {
-      "titulo": "Palmeiras empata com Inter e perde a chance de ampliar vantagem na ponta",
-      "imagem": null
-    },
-    {
-      "titulo": "No Dia dos Pais, Zé Neto e Cristiano refletem: &#8220;A vida mudou completamente&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "“Queremos ser pais”: os sinais de que é hora de investigar infertilidade",
-      "imagem": null
-    },
-    {
-      "titulo": "Após polêmica com atriz, Vini Jr. posta cliques com Virginia e se declara",
-      "imagem": null
-    },
-    {
-      "titulo": "Mídia estatal do Irã diz que vai divulgar imagens do líder supremo",
-      "imagem": null
-    },
-    {
-      "titulo": "Nicole Bahls será enredo da escola de samba Tradição no Carnaval de 2027",
-      "imagem": null
-    },
-    {
-      "titulo": "Neymar joga? Escalações e onde assistir a Santos x Athletico-PR",
-      "imagem": null
-    },
-    {
-      "titulo": "Ex-marido de Maria da Penha é preso após dar entrevista",
-      "imagem": null
-    },
-    {
-      "titulo": "RB Bragantino x Corinthians: escalações e onde assistir ao Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Sem avanços, Trump diz que EUA “negociam parcialmente” com o Irã; entenda",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-10T00:03:55.005Z"
+  "atualizadoEm": "2026-08-10T02:33:22.118Z"
 }

@@ -1,12 +1,96 @@
 {
   "noticias": [
     {
+      "titulo": "Críticas às gestões e embates sobre economia, saúde e segurança marcam 1º debate ao governo do Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/F8WqCSOF8r8a5gD3bCQLlmnFaXw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/y/34HFOKStqD8mxvGZTxqA/whatsapp-image-2026-08-09-at-22.15.18.jpeg"
+    },
+    {
+      "titulo": "Nunes confronta Haddad após debate por citação a contrato de Wi-Fi: 'seja homem e tenha responsabilidade'",
+      "imagem": "https://s2-g1.glbimg.com/53PxoOYy_iCwb-ce0hoYBaymu30=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/W/RLkR7CSJOqRiYpPrRIjQ/nunes-e-haddad.jpeg"
+    },
+    {
+      "titulo": "Debate no Ceará tem confronto direto entre candidatos que lideram pesquisas e temas que mais preocupam o cearense",
+      "imagem": "https://s2-g1.glbimg.com/hVGXcgeWUXvzkN4Svkubr0qDpnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/O/EHHDQyTDaDHi9dTE1eOw/debate-band-ce.jpg"
+    },
+    {
+      "titulo": "Incêndio atinge área de vegetação dentro de ferro-velho em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/CEHyFZEcneKest2WSYhbgQPVqVo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/C/yiPg4zS9aRyew3j3oK4w/incendio.jpg"
+    },
+    {
+      "titulo": "Golpe do diploma falso: brasileiros têm até R$ 40 mil em prejuízo com mestrados e doutorados de faculdade irregular no Paraguai",
+      "imagem": "https://s2-g1.glbimg.com/GzVgaPhhOOeydbuGctO2EeL5Q8U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/9/bgSrtXSCW8xZ1Jd09SBA/fenner-radamese.png"
+    },
+    {
+      "titulo": "Candidatos ao governo de Goiás apresentam propostas e fazem críticas à ausência de Daniel Vilela em debate",
+      "imagem": "https://s2-g1.glbimg.com/jRi6qYF6FC_O56h3o5jj2PWJEiE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/E/Jtq5P0QAG2fGn8fP2k6Q/whatsapp-image-2026-08-09-at-22.04.10.jpeg"
+    },
+    {
+      "titulo": "Debate entre candidatos ao governo da Paraíba tem troca de acusações e embates sobre obras e segurança pública",
+      "imagem": "https://s2-g1.glbimg.com/VCHsd5pGUMPdcu3ZnOoQjNBPavk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/p/Eqz4ydTnmPqjfPtFawig/debate-arapuan.png"
+    },
+    {
+      "titulo": "Com desistência de Moro, Requião Filho e Sandro Alex fazem primeiro debate entre candidatos a governador do Paraná",
+      "imagem": "https://s2-g1.glbimg.com/HU-CgoZaHYsGAnM46tD3U-8lFXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/r/4ACxetRGaRhwF4zSh4Zg/whatsapp-image-2026-08-09-at-22.14.23.jpeg"
+    },
+    {
+      "titulo": "Grupo planejava explodir o Palácio do Planalto e mirava o debate do 2º turno",
+      "imagem": "https://s2-g1.glbimg.com/4xCXBot9_h2uAm4OdBGbwYMWSbU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/o/4MztxMTUGWWGFXBxMu8w/captura-de-tela-2026-08-09-223132.png"
+    },
+    {
+      "titulo": "Morte por febre maculosa é confirmada em São Fidélis, no RJ",
+      "imagem": "https://s2-g1.glbimg.com/W8l1MQl-IaUmwgZlQ-igKbzHL0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/5/MgtSyFQQqY9oKMVy52kQ/gabriel-30-anos.jpg"
+    },
+    {
+      "titulo": "Debate entre candidatos ao governo da Bahia tem troca de críticas e embates sobre saúde, educação e segurança",
+      "imagem": "https://s2-g1.glbimg.com/bkgVgM1BZFriWGDlbG2U5OHXIpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/T/BpXPQAQ826zqSDMiX2GQ/captura-de-tela-2026-08-09-211904.png"
+    },
+    {
+      "titulo": "Debate entre candidatos ao governo do AM é marcado por críticas e embates sobre saúde, segurança e educação",
+      "imagem": "https://s2-g1.glbimg.com/5uuJwT5GPnHqvlqOPnh2Ml4fMFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/B/fBosZ4S1qA2lRPXt6uLg/captura-de-tela-2026-08-09-210920.png"
+    },
+    {
+      "titulo": "Confraternização em família termina com uma pessoa morta na 'Vala do Jacu', RO, após mergulho",
+      "imagem": "https://s2-g1.glbimg.com/bMCS6Tc8i3dT1awg9j-q-l3d77g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/O/FTmOqBQWy3UAC211gd8A/design-sem-nome.jpg"
+    },
+    {
+      "titulo": "Discussões sobre segurança e corrupção e ataques ao candidato ausente, Eduardo Paes, dão o tom do 1º debate ao governo do RJ",
+      "imagem": "https://s2-g1.glbimg.com/Dnd_azFofbBXuJg2LwQZOW_UPBY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/B/dGU2adQqmgcUVyAk0Dgg/imagem-cortada-1-.jpg"
+    },
+    {
+      "titulo": "Emirados Árabes extraditam chefe de cartel internacional de drogas para Irlanda",
+      "imagem": "https://s2-g1.glbimg.com/nK_lNCqN7nW55vPqc5U8XmbqM0g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/m/1N8QxdSPGWD32lMUFHFw/daniel-2-.jpg"
+    },
+    {
+      "titulo": "Em novo debate, candidatos ao governo do RS buscam explorar pontos fracos de adversários",
+      "imagem": "https://s2-g1.glbimg.com/_Bn9ssspkLgodoi6nivmvdeDNNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/q1W5jVQb28GFRr454auQ/g1-47-.jpg"
+    },
+    {
+      "titulo": "Pré-candidatos ao governo do DF participam de primeiro debate",
+      "imagem": "https://s2-g1.glbimg.com/pa1DmxNwZ7AP2z37kC52Riib010=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/q/Jq2od6REm9YEIBOBA34A/c2016-lu-debate-band-2-09082026-frame-2837.jpeg"
+    },
+    {
+      "titulo": "Tarcísio e Haddad fazem 1º debate nacionalizado, com dados e embates sobre PCC, tarifaço de Trump e privatizações",
+      "imagem": "https://s2-g1.glbimg.com/F6BmWDs_8duLaX6YswSe7VGJI4M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/j/jP3FXMRnGDaplX8mEi5w/debate-band-1.jpg"
+    },
+    {
+      "titulo": "Morre Anita Nobre, mãe de Dudu Nobre e Lucinha Nobre",
+      "imagem": "https://s2-g1.glbimg.com/ioE7Yr0XBho1qpOwU0OS3OQ6ZWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/i/B/7RLuNFRF6zy0I8MrwVrw/whatsapp-image-2022-10-18-at-16.47.21.jpeg"
+    },
+    {
+      "titulo": "Prazer, Renata — o papel da amizade na nossa saúde física e mental",
+      "imagem": "https://s2-g1.glbimg.com/DjP7-Ytr740bPdoCCAu8uoelT8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/t/ClG7sWSPCsnSLywHH05Q/capa-podcast-ep-02.jpg"
+    },
+    {
+      "titulo": "Prédio ao lado de imóvel que pegou fogo em BH é esvaziado; bombeiros recomendam que moradores não passem noite no local",
+      "imagem": "https://s2-g1.glbimg.com/qdPA7RmHzrPtuAVUE5Gc-l7j2uk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/f/Dvv5i2TBKF8MLbjkP49w/vlcsnap-2026-08-09-17h29m24s815.jpg"
+    },
+    {
       "titulo": "Ex-funcionário da Anac alertou a agência de que a Voepass reaproveitava peças em seus aviões",
       "imagem": null
     },
     {
       "titulo": "Vídeos feitos por golpistas revelam como funcionam as falsas centrais bancárias",
-      "imagem": "https://s2-g1.glbimg.com/uVZOxp-LLcaZ091AO3YYntBAw3o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/C/aFgiO0SIKmAQzQojN5pg/captura-de-tela-2026-08-09-202626.png"
+      "imagem": "https://s2-g1.glbimg.com/5ANGJdmQij3BBiasB8F7D0bv0fc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/m/0l8BfnSyq8b9Uqv6OsVA/fotojet-6-.jpg"
     },
     {
       "titulo": "Identificados os sete mortos em acidente na BR-251; motorista não era habilitado e usava tornozeleira, diz PC",
@@ -35,91 +119,7 @@
     {
       "titulo": "Isso é Fantástico — larguei o 'suco': projeto ajuda usuários a abandonar os anabolizantes",
       "imagem": "https://s2-g1.glbimg.com/bg2AMfvBhVM72mO_0PD44bTBN40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/S/LLrft1Qe2bniDkAxOeyg/whatsapp-image-2026-08-09-at-17.00.24.jpeg"
-    },
-    {
-      "titulo": "Fumaça toma conta de casa de bombas após curto-circuito em estação da Sabesp no litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/CkgNmJV_10MAj3QkvCS3HBLAZlU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/V/vsGczMT1u51oByQm72jA/fogo-estacao.jpg"
-    },
-    {
-      "titulo": "Idoso é preso por violência doméstica e tentativa de incendiar casa onde vivia com a vítima no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/6g76Vn_ZL6AUZQDtZTjqigeQOJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/I/j9srUQSQuBq5c7OqyqVg/design-sem-nome-2026-08-09t191004.983.jpg"
-    },
-    {
-      "titulo": "Leonardo recebe surpresa dos filhos João Guilherme, Jéssica Beatriz e Matheus Vargas no Dia dos Pais; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/LJ9UDEDnJZRKWv1yTFtSOsgPvss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/b/u84lZJTn6mPBJRjSP2jQ/770774595-18623263501014783-7270484906723871276-n.jpg"
-    },
-    {
-      "titulo": "Homem é morto a tiros em comunidade no interior do AM",
-      "imagem": "https://s2-g1.glbimg.com/Lky7SeVrS7ATz9KAOFJ3JkYUFRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/S/b/N1REydTHS484euRRtIKA/delegacia-interativa-de-policia-de-iranduba-foto-erlon-rodrigues-pcam.jpeg"
-    },
-    {
-      "titulo": "PM é acionada após suspeita de invasão à casa onde viveu Silvio Santos em SP",
-      "imagem": "https://s2-g1.glbimg.com/lf98e08bNhEOs-QOMeSOlntjGR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/y/2ZvBo2QDGo2X8rlEUNOA/silvio-santos.jpg"
-    },
-    {
-      "titulo": "Caseiro é encontrado morto com ferimento no pescoço dentro de casa no Cantá",
-      "imagem": "https://s2-g1.glbimg.com/Be1zgHAxKxhNdLM1VOSgVuPEzEo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/D/wsEq1eSJSUxANjojwA0g/rabecao-iml-rr.jpeg"
-    },
-    {
-      "titulo": "Homem é morto a tiros no portão de casa em Juína (MT)",
-      "imagem": "https://s2-g1.glbimg.com/ZxyQbCjSJ7ElYWrWBy4PXnVkaJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/h/vsqBnzQ7iuolQHouY1rA/foto-g1-2026-07-29t160923.737.png"
-    },
-    {
-      "titulo": "Homem morre afogado em praia de João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/DdNncXeGNmszcrXY2HyA77nHNjA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/L/eJkOaOTQi70JoxUF0hwg/afogamento.jpg"
-    },
-    {
-      "titulo": "Vizinhos encontram mulher morta com ferimentos de faca em Campinas; polícia apura feminicídio",
-      "imagem": "https://s2-g1.glbimg.com/N65s1g-xzNL_tHfwuQThAKv1L1I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/W/d/ueXQueQTKsyzdjboQyCQ/whatsapp-image-2023-04-28-at-05.48.49.jpeg"
-    },
-    {
-      "titulo": "Veja quem eram as vítimas de acidente entre caminhão e ônibus",
-      "imagem": "https://s2-g1.glbimg.com/UKQ_7r66Oye09DJ_WcRXT-x1HIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/S/PzVAALS0ayOHymxtOBtg/g1-2026-08-09t182319.939.jpg"
-    },
-    {
-      "titulo": "Foragido da Justiça por matar mulher é preso ao apresentar nome falso para policiais em abordagem na Bahia",
-      "imagem": "https://s2-g1.glbimg.com/f-mWYYAKDnwKUYwrUfgcqNYu55I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/m/f7cvcGRDWIPokawaWxMQ/whatsapp-image-2026-08-09-at-14.46.06.jpeg"
-    },
-    {
-      "titulo": "Frente fria provoca chuva forte e raios no litoral de SP e Vale do Ribeira; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/xbQ6bLf9v9RcC_jkpJmlt6z82VI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/E/KFAoFvQlArEOlQN5JkqQ/vendaval-registro-2-.jpg"
-    },
-    {
-      "titulo": "Bebê é resgatado pela janela com ajuda de saco plástico durante incêndio em prédio na Zona Norte de Manaus; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/TToGne6ST3Mf1RhXXu5t0kAVqYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/d/3GEK4ITAaFbHUekn4ucQ/whatsapp-image-2026-08-09-at-15.15.24.jpeg"
-    },
-    {
-      "titulo": "Motorista de caminhonete embriagado mata motociclista em curva na RR-452, em Alto Alegre",
-      "imagem": "https://s2-g1.glbimg.com/P3ZyDdieZH6ANPSyEU6-hTR_S5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/F/BUjx8xQESlMAZHbxpnGw/acidente-alto-alegre.jpg"
-    },
-    {
-      "titulo": "Projeto Guri abre inscrições para aulas gratuitas de música e canto em Itapetininga",
-      "imagem": "https://s2-g1.glbimg.com/cosZJjD57za-DLCkW-PVuEIy-EY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/V/yL1ACRQNGtdi5JXnqN5A/untitled.jpg"
-    },
-    {
-      "titulo": "Cadeirante diz à polícia ter sido agredido por motorista de app que recusou colocar cadeira no porta-malas do veículo",
-      "imagem": "https://s2-g1.glbimg.com/pHo0qAmER36iyrOi7V8p413cPlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/Ucb8LgQxGWitOb7wnrZA/captura-de-tela-2026-08-09-135714.png"
-    },
-    {
-      "titulo": "Suspeito de tentar invadir loja exibe órgão genital no meio da rua e é preso em Presidente Prudente",
-      "imagem": "https://s2-g1.glbimg.com/IjlNOCnxxe3oxm70NzYvddugU1w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/w/ezn1GvQfqJzfDemcsH2g/g1-2026-03-10t110033.545.png"
-    },
-    {
-      "titulo": "Marília registra alta de quase 24% nos casos de sífilis em 2026; saiba como fazer o teste gratuito",
-      "imagem": "https://s2-g1.glbimg.com/RMw2lPSVs0HPWiCuy5grmlgELuA=/s.glbimg.com/jo/g1/f/original/2016/11/11/sifilis_teste_rapido.jpg"
-    },
-    {
-      "titulo": "Quatro mulheres são assaltadas por criminoso armado em motocicleta no Itaim Bibi, em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Sorocaba terá aulas grátis de defesa pessoal para mulheres; mulheres com medida protetiva terão prioridade",
-      "imagem": "https://s2-g1.glbimg.com/aiA-McmiroA5vsgZDYvL9dhYMlY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/r/xLt1yhSoiu2RipRQi9LQ/whatsapp-image-2026-07-22-at-10.42.58.jpeg"
-    },
-    {
-      "titulo": "Júri aponta legítima defesa e absolve mulher acusada de matar marido a facadas em Mogi Mirim",
-      "imagem": "https://s2-g1.glbimg.com/pPyb5v7m0VJJuMVWFPhR2D1qkWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/d/P2HZ5AQfO9eP1Xbacfxg/tenta-feminicidio-louveira-11-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-10T00:03:59.479Z"
+  "atualizadoEm": "2026-08-10T02:33:23.954Z"
 }
