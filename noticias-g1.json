@@ -1,7 +1,71 @@
 {
   "noticias": [
     {
-      "titulo": "Homem morre afogado em lago de Pontalina",
+      "titulo": "Resultados das Loterias Caixa",
+      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
+    },
+    {
+      "titulo": "Câmara de Campinas aprova veto a nomeação de condenados por maus-tratos a animais e uso de focinheira para cães",
+      "imagem": "https://s2-g1.glbimg.com/plG_b4CKo8-dy5WJAuFDQJW-TAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/h/fY4w2USS6hLwQUGSB5yQ/cachorro-com-focinheira.jpg"
+    },
+    {
+      "titulo": "Dois condenados por estupro são presos em Teresina; um abusou da própria filha",
+      "imagem": "https://s2-g1.glbimg.com/-vBuKuh_uwyn0L5Ov4VQqtEaM20=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/r/6j7kPbT9OFn6JtYqwlXw/edicao-imagens-g1-71-.png"
+    },
+    {
+      "titulo": "Inema emite alerta de atenção para ventos fortes no extremo sul da Bahia; confira previsão do tempo no estado",
+      "imagem": "https://s2-g1.glbimg.com/ajthnsCpD26mAPkg3P0yROUk5OU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/m/rHruT9TkWL9QXVtdaixA/chuva-salvador.jpg"
+    },
+    {
+      "titulo": "Procurado por morte de esposa em MT tem histórico de violência e escondia armas, diz polícia",
+      "imagem": "https://s2-g1.glbimg.com/apt2cn9uvxcASiBZBBHvgi2pbC4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/y/MyKIrWT6eYMhIfkoWZ8g/whatsapp-image-2026-08-10-at-15.00.57-1-.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: AB2 de segunda-feira, 10 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/leUJTmjW7BjvlInyF_Fu-s8habI=/s01.video.glbimg.com/deo/vi/98/71/14857198"
+    },
+    {
+      "titulo": "AO VIVO: assista à programação da NSC TV",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia investiga morte de empresária de 29 anos após cirurgia plástica em Belém",
+      "imagem": "https://s2-g1.glbimg.com/Xl_Bvd872WuZ2F0z5GAlEEI4koQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/m/XbibtWSwA7rdBAwRxA3Q/design-sem-nome-3-.jpg"
+    },
+    {
+      "titulo": "Emissão de habilitação para dirigir no exterior sobe 52% em Santos; veja como solicitar",
+      "imagem": "https://s2-g1.glbimg.com/_F5ZfVrMIJ5QTQQjQknnZVJbExU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/b/nS9jW4So6rUwfCBKONBg/edig1-2026-08-10t140139.611.png"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de segunda-feira, 10 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/wBMqiahh_ZPI9ewegEwoH7HzG1g=/s01.video.glbimg.com/deo/vi/19/71/14857119"
+    },
+    {
+      "titulo": "Eleições em SP: o que cabe ao governo do estado no Meio Ambiente",
+      "imagem": "https://s2-g1.glbimg.com/PPi5La-_gOIaHsoHkdDrZSkFyRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/f/s/VRjX0MTKCKMCzhxVG2Ag/age20240903038.jpg"
+    },
+    {
+      "titulo": "Irmãos são agredidos com socos e cabeçadas em confusão de bar no Distrito Federal; veja imagens",
+      "imagem": "https://s2-g1.glbimg.com/KMKuTTJ7srxjdZN8YyQspz6Cc6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/a/bH01R8SVWArenThNUWTQ/whatsapp-image-2026-08-10-at-20.01.00.jpeg"
+    },
+    {
+      "titulo": "PM prende homem por violência doméstica após mulher fugir de casa com filho em Campinas",
+      "imagem": "https://s2-g1.glbimg.com/IY7GHBCb6C-6EmEg_zxdxdOfUc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/J/5qN1thT9OwDBSBnydVBw/design-sem-nome-2026-03-09t203114.125.jpg"
+    },
+    {
+      "titulo": "Agricultor chama atenção por tranquilidade enquanto filmava tornado no Paraná: 'Se apavorar é pior'",
+      "imagem": "https://s2-g1.glbimg.com/f06SkTAD_C7689CjEYUtR7eoYoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Y/29GY2wQESCzM5O5xRNBw/novo-projeto-63-.png"
+    },
+    {
+      "titulo": "VÍDEOS: NSC Notícias de segunda-feira, 10 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/io3vgvBaWkuwugae5QfjYthCyqs=/s01.video.glbimg.com/deo/vi/73/68/14856873"
+    },
+    {
+      "titulo": "Justiça proíbe montagem de estruturas para Marcha da Maconha em Botucatu",
+      "imagem": "https://s2-g1.glbimg.com/OsyoX_w-Z_Huep9-4iRWSgvGvpA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/E/GohjGxTPSyQSWc7jD5xw/whatsapp-image-2026-08-10-at-20.24.53-1-.jpeg"
+    },
+    {
+      "titulo": "Homem morre afogado em lago de Pontalina, diz Bombeiros",
       "imagem": "https://s2-g1.glbimg.com/pbluvOJEuaamaF2aqXSRicUHu2A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/t/9hBohITvmFEFJFFVVdIg/copia-de-copia-de-copia-de-padrao-foto-g1-goias-4-.jpg"
     },
     {
@@ -18,7 +82,7 @@
     },
     {
       "titulo": "Mulher que morreu atropelada no Acre esperava amiga subir em bicicleta, diz irmã",
-      "imagem": "https://s2-g1.glbimg.com/ofeFHVsxaeg6soE3rWk0vtqRMMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Z/yRsjnvSOqgWWfUMUIfBg/copia-de-midia-de-distribuicao-g1-2-.png"
+      "imagem": "https://s2-g1.glbimg.com/bEl3srEe1pcr7h4z5O71Rv_8yhk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/E/gjDJOFQB2sZ0TmcREYOg/midia-de-distribuicao-g1-2026-08-09t095523.565.jpg"
     },
     {
       "titulo": "Iprev Maceió e Banco Master: quem são os seis investigados pela PF",
@@ -55,71 +119,7 @@
     {
       "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
       "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Governo define datas para recesso no Natal e no Ano Novo; veja regras",
-      "imagem": "https://s2-g1.glbimg.com/0jA-vJDop6WtF0F-pjY_-NlMSDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/Vwb9FFTuejspQRr7lgYQ/pexels-utopix-pictures-pictures-9755513-14524118.jpg"
-    },
-    {
-      "titulo": "Motociclistas são flagrados furando sinais e circulando na contramão em SP; nem todos os radares conseguem multar infratores",
-      "imagem": "https://s2-g1.glbimg.com/Rgem0mOWXJNbkkWf2SayMWzVaN0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/C/UHetx4RhqoD6HnBsZ58Q/captura-de-tela-2026-08-10-192300.png"
-    },
-    {
-      "titulo": "VÍDEOS: GR2 de segunda-feira, 10 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/vWzRp4cECnCbEiGRDBcw67WaWmY=/s01.video.glbimg.com/deo/vi/95/68/14856895"
-    },
-    {
-      "titulo": "Terremoto na Colômbia: mais de 60 prédios desabaram; equipes de resgate buscam sobreviventes",
-      "imagem": "https://s2-g1.glbimg.com/CNSN8HbB0jkCXb0ez3V5DN9o0gE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/d/BIBB3mTPm3lveFBLop0g/ap26222702484223.jpg"
-    },
-    {
-      "titulo": "Presidente Prudente tem quase 170 casos de leishmaniose em cães; prefeitura amplia testagem",
-      "imagem": "https://s2-g1.glbimg.com/d_X_U6DDKC_2gnQ-t0PAfePA2J0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Y/0kMUAIRiWT1IvMj2sraA/os-tres-11-.png"
-    },
-    {
-      "titulo": "Rio Rotativo Digital registra falhas para motoristas no primeiro dia",
-      "imagem": "https://s2-g1.glbimg.com/m71wh0fus7rVPYec_uqIOHnTwPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/q/ke2BgvScuZLqOxpK27AQ/rio-rotativo1.jpeg"
-    },
-    {
-      "titulo": "Helicóptero, armadilhas e plantio na mata: PM encontra mais de 1,7 mil pés de maconha no Pará",
-      "imagem": "https://s2-g1.glbimg.com/83gunEIo2hyjg0fZRcUj1QHQh9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/t/rxUlZDQQiY0PPQwcyrFQ/image-2026-08-10t194729.714.png"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Liberal",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem é preso suspeito de tentar matar vítima que emprestou R$ 10 mil a blogueira no Ceará",
-      "imagem": "https://s2-g1.glbimg.com/FDRIpC-qm6HlvzzcQFsTA0uHqGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/G/SRAejqTQO8R3qT3B8NbQ/presos-barbalha.jpg"
-    },
-    {
-      "titulo": "Assista ao Boa Noite Espírito Santo",
-      "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
-    },
-    {
-      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Subaé",
-      "imagem": null
-    },
-    {
-      "titulo": "VÍDEOS: RJ2 de segunda, 10 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/V5OGmOMSPPRkjFnhaU_l95nfwS8=/s01.video.glbimg.com/deo/vi/38/68/14856838"
-    },
-    {
-      "titulo": "Filhote de jubarte é achado morto na Praia do Paiva; em 72 horas, é a 6ª carcaça de animal marinho encontrada no Grande Recife",
-      "imagem": "https://s2-g1.glbimg.com/w4oi6k3deJNjmGC0Uea3M6yHUuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/P/nXFBg8RDCZKLlf2Ux6UQ/capa-agenda-g1-2026-08-10t175243.924.jpg"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Bahia",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-10T23:17:49.394Z"
+  "atualizadoEm": "2026-08-10T23:59:40.975Z"
 }
