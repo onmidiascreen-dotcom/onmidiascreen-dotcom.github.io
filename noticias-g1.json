@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Como um hobby de infância virou uma empresa de barracas para teto de carro que fatura R$ 40 mil por mês",
+      "imagem": "https://s2-g1.glbimg.com/cN2xxluaEt2aKhNv_Hzkh_L71fk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/n/Wr6o4eQBi6WFlWEtzbDQ/captura-de-tela-2026-08-04-084442.png"
+    },
+    {
+      "titulo": "Caso Master: CPI aponta prejuízo em investimento de R$ 15 milhões da previdência de cidade de 26 mil habitantes em SP",
+      "imagem": "https://s2-g1.glbimg.com/lkTsoGT98cE5HGWeYOEnfpsDHEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/e/d69jylRD6OmaPIN0Q3cQ/sisprev.jpg"
+    },
+    {
+      "titulo": "Arruda pode ser candidato no DF ou está barrado pela Lei da Ficha Limpa? Entenda a disputa",
+      "imagem": "https://s2-g1.glbimg.com/rlR64iHrSf4ueBqWANPHe1Mq-ss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/Y/MuGxVBTkmhGfv56l2Ifg/imagem-g1-28-.png"
+    },
+    {
+      "titulo": "Brasileiras denunciam médico após plásticas na Colômbia e relatam infecções e atendimento precário",
+      "imagem": "https://s2-g1.glbimg.com/vlbXd10wCsSonqfJZtUBd_ERfO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/B/Fh5quxSeinbvUb0Sa4JQ/design-sem-nome-92-.png"
+    },
+    {
+      "titulo": "Oito corpos são encontrados em mina ilegal no Equador, diz polícia",
+      "imagem": null
+    },
+    {
       "titulo": "Mudança na lei endurece pena para furto de energia; MT registra 160 prisões",
       "imagem": "https://s2-g1.glbimg.com/AK5eTgiblXxEBy47-1RXK6v0BbQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/b/JWRM1tTd6wDAl2z2iszQ/foto-materia-energisa-mt.jpg"
     },
@@ -99,27 +119,7 @@
     {
       "titulo": "Debate pelo governo do Ceará tem confronto entre Ciro Gomes e Elmano de Freitas sobre segurança e saúde",
       "imagem": "https://s2-g1.glbimg.com/hVGXcgeWUXvzkN4Svkubr0qDpnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/O/EHHDQyTDaDHi9dTE1eOw/debate-band-ce.jpg"
-    },
-    {
-      "titulo": "Incêndio atinge área de vegetação dentro de ferro-velho em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/CEHyFZEcneKest2WSYhbgQPVqVo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/C/yiPg4zS9aRyew3j3oK4w/incendio.jpg"
-    },
-    {
-      "titulo": "Golpe do diploma falso: brasileiros têm até R$ 40 mil em prejuízo com mestrados e doutorados de faculdade irregular no Paraguai",
-      "imagem": "https://s2-g1.glbimg.com/GzVgaPhhOOeydbuGctO2EeL5Q8U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/9/bgSrtXSCW8xZ1Jd09SBA/fenner-radamese.png"
-    },
-    {
-      "titulo": "Candidatos ao governo de Goiás apresentam propostas e fazem críticas à ausência de Daniel Vilela em debate",
-      "imagem": "https://s2-g1.glbimg.com/jRi6qYF6FC_O56h3o5jj2PWJEiE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/E/Jtq5P0QAG2fGn8fP2k6Q/whatsapp-image-2026-08-09-at-22.04.10.jpeg"
-    },
-    {
-      "titulo": "Debate entre candidatos ao governo da Paraíba tem troca de acusações e embates sobre obras e segurança pública",
-      "imagem": "https://s2-g1.glbimg.com/VCHsd5pGUMPdcu3ZnOoQjNBPavk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/p/Eqz4ydTnmPqjfPtFawig/debate-arapuan.png"
-    },
-    {
-      "titulo": "Com desistência de Moro, Requião Filho e Sandro Alex fazem primeiro debate entre candidatos a governador do Paraná",
-      "imagem": "https://s2-g1.glbimg.com/HU-CgoZaHYsGAnM46tD3U-8lFXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/r/4ACxetRGaRhwF4zSh4Zg/whatsapp-image-2026-08-09-at-22.14.23.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-10T04:17:46.604Z"
+  "atualizadoEm": "2026-08-10T05:54:22.818Z"
 }
