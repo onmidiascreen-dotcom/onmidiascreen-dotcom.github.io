@@ -1,6 +1,94 @@
 {
   "noticias": [
     {
+      "titulo": "Mudança na lei endurece pena para furto de energia; MT registra 160 prisões",
+      "imagem": "https://s2-g1.glbimg.com/AK5eTgiblXxEBy47-1RXK6v0BbQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/b/JWRM1tTd6wDAl2z2iszQ/foto-materia-energisa-mt.jpg"
+    },
+    {
+      "titulo": "Candidatos ao governo do Piauí participam de primeiro debate",
+      "imagem": "https://s2-g1.glbimg.com/dclqVJqpvjMZJlYPoiUknWM0ZEw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/j/JpWqC6TD2GwaiMmRzlnA/edicao-imagens-g1-3-.jpg"
+    },
+    {
+      "titulo": "O Congresso turbinado: como o Legislativo ampliou o seu poder - O Assunto #1779",
+      "imagem": "https://s2-g1.glbimg.com/eXDyiYy-oQY_R4Mvo0exY1dY17g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/J/aSmEpOQYAJ8Z0UtBkBJw/palacio-do-congresso-nacional-camara-e-senado.jpg"
+    },
+    {
+      "titulo": "Debate entre candidatos ao governo do RN tem troca de acusações e ataques diretos",
+      "imagem": "https://s2-g1.glbimg.com/fFZD_is1Gk9yFVGck-z3K2gAZgs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/5/qDkAXWQwatABhox5se4g/mixcollage-10-aug-2026-12-33-am-1576.jpg"
+    },
+    {
+      "titulo": "Manaus registra 35,4°C e tem dia mais quente do ano, segundo Inmet",
+      "imagem": "https://s2-g1.glbimg.com/wOFdFuOO9x8A8QI0BWqqcEtpwnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/A/r/eXNLB4RUieCLszmZdCTA/homem-bebendo-agua-no-calor-de-manaus-foto-rede-amazonica.jpg"
+    },
+    {
+      "titulo": "Bunka-Sai: inscrições para concurso de fotografia da florada das cerejeiras terminam nesta segunda em Petrópolis",
+      "imagem": "https://s2-g1.glbimg.com/nYDevUN9lKnIq9c9aiI42fIjmqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/S/wJF9GpSKGF9k8RPAUU6w/rodolfo-ourique-foto-vencedora-do-concurso-em-2025.jpeg"
+    },
+    {
+      "titulo": "Projetos valorizam ambientes feitos para receber e compartilhar momentos",
+      "imagem": "https://s2-g1.glbimg.com/kIEp5u-7R30inAS7Lu7oBtJ5u1w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/m/mmGfD3QW2crTyZxJIdzw/foto-1-2-.png"
+    },
+    {
+      "titulo": "Em 2026, foram criadas 2.280 novas vagas de trabalho em Montes Claros",
+      "imagem": "https://s2-g1.glbimg.com/DzG6YjX5AfeOOS-x4bWFY3hp9pI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/K/W1pM81QEGOFdg1am2CFA/montes-claros-vista-parcial-centro-noite-foto-fabio-marcal-1-1-.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: Até quando é possível se candidatar?",
+      "imagem": "https://s2-g1.glbimg.com/0bx-gxf2_GxdYnD3eTmFN3JYOxk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/C/2jBi5TTb6nzmoDonGfrA/cabine-de-votacao.jpg"
+    },
+    {
+      "titulo": "Congresso Nacional retorna do recesso com pauta emperrada por embates eleitorais",
+      "imagem": "https://s2-g1.glbimg.com/S4dNqmfMy-VGhhFbPe5EcbDHuUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/u/3ja7BUQrKLJGTvzs6ryQ/globo-canal-4-20260505-2000-frame-150493.jpeg"
+    },
+    {
+      "titulo": "Concursos e seleções em PE têm 842 vagas e salários de até R$ 15,1 mil; saiba como se inscrever",
+      "imagem": "https://s2-g1.glbimg.com/TGWJGgT5eQupEv8J0bAFjbeDxEM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/b/rPXBfXTZeet3uOUAsTEw/public-examination-preparation-concept.jpg"
+    },
+    {
+      "titulo": "Segunda-feira será de frio e chuva retorna ao RS durante a semana; veja a previsão",
+      "imagem": "https://s2-g1.glbimg.com/kjS8fGCepMaaCgslQHnbWeC_aug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/I/BZbDesSS2baTuB14uV5w/g1-45-.jpg"
+    },
+    {
+      "titulo": "Teatro leva educação no trânsito para mais de 4 mil alunos de escolas públicas do Sul de MG",
+      "imagem": "https://s2-g1.glbimg.com/HIsZ-1hM4IYOsOVJ2eRkiwm1sdM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/h/E57tniQpelf4p7AhMCLQ/teatrp.jpeg"
+    },
+    {
+      "titulo": "Novo advogado de Vorcaro pede audiência com Mendonça; delação volta ao radar",
+      "imagem": null
+    },
+    {
+      "titulo": "Mãe de meninas mortas pelo pai em SP relata ameaças e perseguição após separação",
+      "imagem": "https://s2-g1.glbimg.com/1XYX8yxdX2XYMH7VB7BhO1GbdlE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/U/IawXwuRm2MSBETjcI6Jw/fotojet-2026-08-09t210543.568.jpg"
+    },
+    {
+      "titulo": "As influencers que pregam a solidão como um estilo de vida: 'Não estamos sozinhas'",
+      "imagem": "https://s2-g1.glbimg.com/OY1b3WzHx17_k-KFiDSOERoXsEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/r/BtBrLYSDeANcrtWKvMgg/influencers.jpg"
+    },
+    {
+      "titulo": "'O que os meus professores consideravam defeitos foi o que me levou para prosperar na vida'",
+      "imagem": "https://s2-g1.glbimg.com/hRgOgUSJBOcJdlsVWcypYatfto4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/2/dRS1XBSOel6GWFAU5Tpg/4b95ed90-8fdc-11f1-a999-eb18d79411a9.jpg.webp"
+    },
+    {
+      "titulo": "As regalias e a influência do presidente da Fifa, o homem mais poderoso (e polêmico) do futebol",
+      "imagem": "https://s2-g1.glbimg.com/PpklHDIT9hQjseXa7L-d4AxCo7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/u/pD5rmtR3O04a4dKTRRXw/64548028-034a-4186-9ce6-947be09fc117.png"
+    },
+    {
+      "titulo": "Primeiro a OpenAI, depois a Meta: por que robôs de IA continuam fazendo ataques hackers",
+      "imagem": "https://s2-g1.glbimg.com/_6ZyiVx0ZFH9B48kgd5dJeReQnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/2QDIvUTmuV4oP2QYlmqg/ap26105015984564.jpg"
+    },
+    {
+      "titulo": "O que é a 'fase lútea' – e por que algumas mulheres se sentem 'mais feias' durante ela",
+      "imagem": "https://s2-g1.glbimg.com/DQQQDEWjuWhgXkDr-GVgDL80Z1s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/l/5i1wXnTpucqb051k3IBg/40a22d10-9341-4593-8eca-0d29a81eb252.png"
+    },
+    {
+      "titulo": "Ex-marido de Maria da Penha foi preso dois dias após lei com nome da ativista completar 20 anos",
+      "imagem": "https://s2-g1.glbimg.com/-hqjL8zzHcwcwF1CJMnke4O_X-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/q/aKTHM0RVGVxcvTHR2pew/ex-preso.jpg"
+    },
+    {
+      "titulo": "Mais de 500 pessoas participam da Corrida da Padroeira em Maricá, no RJ",
+      "imagem": "https://s2-g1.glbimg.com/y_UdR-OffOUJgpCD0RrlI_kKFgQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/1/BCD8aXSD2lGDMsp2ReCw/foto-nariene-xavier-3-.jpeg"
+    },
+    {
       "titulo": "Críticas às gestões e embates sobre economia, saúde e segurança marcam 1º debate ao governo do Maranhão",
       "imagem": "https://s2-g1.glbimg.com/F8WqCSOF8r8a5gD3bCQLlmnFaXw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/y/34HFOKStqD8mxvGZTxqA/whatsapp-image-2026-08-09-at-22.15.18.jpeg"
     },
@@ -9,7 +97,7 @@
       "imagem": "https://s2-g1.glbimg.com/53PxoOYy_iCwb-ce0hoYBaymu30=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/W/RLkR7CSJOqRiYpPrRIjQ/nunes-e-haddad.jpeg"
     },
     {
-      "titulo": "Debate no Ceará tem confronto direto entre candidatos que lideram pesquisas e temas que mais preocupam o cearense",
+      "titulo": "Debate pelo governo do Ceará tem confronto entre Ciro Gomes e Elmano de Freitas sobre segurança e saúde",
       "imagem": "https://s2-g1.glbimg.com/hVGXcgeWUXvzkN4Svkubr0qDpnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/O/EHHDQyTDaDHi9dTE1eOw/debate-band-ce.jpg"
     },
     {
@@ -31,95 +119,7 @@
     {
       "titulo": "Com desistência de Moro, Requião Filho e Sandro Alex fazem primeiro debate entre candidatos a governador do Paraná",
       "imagem": "https://s2-g1.glbimg.com/HU-CgoZaHYsGAnM46tD3U-8lFXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/r/4ACxetRGaRhwF4zSh4Zg/whatsapp-image-2026-08-09-at-22.14.23.jpeg"
-    },
-    {
-      "titulo": "Grupo planejava explodir o Palácio do Planalto e mirava o debate do 2º turno",
-      "imagem": "https://s2-g1.glbimg.com/4xCXBot9_h2uAm4OdBGbwYMWSbU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/o/4MztxMTUGWWGFXBxMu8w/captura-de-tela-2026-08-09-223132.png"
-    },
-    {
-      "titulo": "Morte por febre maculosa é confirmada em São Fidélis, no RJ",
-      "imagem": "https://s2-g1.glbimg.com/W8l1MQl-IaUmwgZlQ-igKbzHL0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/5/MgtSyFQQqY9oKMVy52kQ/gabriel-30-anos.jpg"
-    },
-    {
-      "titulo": "Debate entre candidatos ao governo da Bahia tem troca de críticas e embates sobre saúde, educação e segurança",
-      "imagem": "https://s2-g1.glbimg.com/bkgVgM1BZFriWGDlbG2U5OHXIpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/T/BpXPQAQ826zqSDMiX2GQ/captura-de-tela-2026-08-09-211904.png"
-    },
-    {
-      "titulo": "Debate entre candidatos ao governo do AM é marcado por críticas e embates sobre saúde, segurança e educação",
-      "imagem": "https://s2-g1.glbimg.com/5uuJwT5GPnHqvlqOPnh2Ml4fMFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/B/fBosZ4S1qA2lRPXt6uLg/captura-de-tela-2026-08-09-210920.png"
-    },
-    {
-      "titulo": "Confraternização em família termina com uma pessoa morta na 'Vala do Jacu', RO, após mergulho",
-      "imagem": "https://s2-g1.glbimg.com/bMCS6Tc8i3dT1awg9j-q-l3d77g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/O/FTmOqBQWy3UAC211gd8A/design-sem-nome.jpg"
-    },
-    {
-      "titulo": "Discussões sobre segurança e corrupção e ataques ao candidato ausente, Eduardo Paes, dão o tom do 1º debate ao governo do RJ",
-      "imagem": "https://s2-g1.glbimg.com/Dnd_azFofbBXuJg2LwQZOW_UPBY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/B/dGU2adQqmgcUVyAk0Dgg/imagem-cortada-1-.jpg"
-    },
-    {
-      "titulo": "Emirados Árabes extraditam chefe de cartel internacional de drogas para Irlanda",
-      "imagem": "https://s2-g1.glbimg.com/nK_lNCqN7nW55vPqc5U8XmbqM0g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/m/1N8QxdSPGWD32lMUFHFw/daniel-2-.jpg"
-    },
-    {
-      "titulo": "Em novo debate, candidatos ao governo do RS buscam explorar pontos fracos de adversários",
-      "imagem": "https://s2-g1.glbimg.com/_Bn9ssspkLgodoi6nivmvdeDNNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/q1W5jVQb28GFRr454auQ/g1-47-.jpg"
-    },
-    {
-      "titulo": "Pré-candidatos ao governo do DF participam de primeiro debate",
-      "imagem": "https://s2-g1.glbimg.com/pa1DmxNwZ7AP2z37kC52Riib010=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/q/Jq2od6REm9YEIBOBA34A/c2016-lu-debate-band-2-09082026-frame-2837.jpeg"
-    },
-    {
-      "titulo": "Tarcísio e Haddad fazem 1º debate nacionalizado, com dados e embates sobre PCC, tarifaço de Trump e privatizações",
-      "imagem": "https://s2-g1.glbimg.com/F6BmWDs_8duLaX6YswSe7VGJI4M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/j/jP3FXMRnGDaplX8mEi5w/debate-band-1.jpg"
-    },
-    {
-      "titulo": "Morre Anita Nobre, mãe de Dudu Nobre e Lucinha Nobre",
-      "imagem": "https://s2-g1.glbimg.com/ioE7Yr0XBho1qpOwU0OS3OQ6ZWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/i/B/7RLuNFRF6zy0I8MrwVrw/whatsapp-image-2022-10-18-at-16.47.21.jpeg"
-    },
-    {
-      "titulo": "Prazer, Renata — o papel da amizade na nossa saúde física e mental",
-      "imagem": "https://s2-g1.glbimg.com/DjP7-Ytr740bPdoCCAu8uoelT8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/t/ClG7sWSPCsnSLywHH05Q/capa-podcast-ep-02.jpg"
-    },
-    {
-      "titulo": "Prédio ao lado de imóvel que pegou fogo em BH é esvaziado; bombeiros recomendam que moradores não passem noite no local",
-      "imagem": "https://s2-g1.glbimg.com/qdPA7RmHzrPtuAVUE5Gc-l7j2uk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/f/Dvv5i2TBKF8MLbjkP49w/vlcsnap-2026-08-09-17h29m24s815.jpg"
-    },
-    {
-      "titulo": "Ex-funcionário da Anac alertou a agência de que a Voepass reaproveitava peças em seus aviões",
-      "imagem": null
-    },
-    {
-      "titulo": "Vídeos feitos por golpistas revelam como funcionam as falsas centrais bancárias",
-      "imagem": "https://s2-g1.glbimg.com/5ANGJdmQij3BBiasB8F7D0bv0fc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/m/0l8BfnSyq8b9Uqv6OsVA/fotojet-6-.jpg"
-    },
-    {
-      "titulo": "Identificados os sete mortos em acidente na BR-251; motorista não era habilitado e usava tornozeleira, diz PC",
-      "imagem": "https://s2-g1.glbimg.com/pVmyPVCaJ8a07yqIDSfG4kySW3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/A/ohYDnoRXAJkAzcAhGv6A/photo-2026-08-08-15-44-13.jpg"
-    },
-    {
-      "titulo": "Por que Justiça voltou a prender o ex-marido de Maria da Penha, mulher que inspirou lei contra violência doméstica",
-      "imagem": "https://s2-g1.glbimg.com/aW9THor_YkUQRn9VXY8iQbRSbzY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/w/0ugCprQ0GT8AqupATkTg/marco-heredia.png"
-    },
-    {
-      "titulo": "Guarda-vidas salva mulher de afogamento no mar em Guarujá; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/9I_bvh7dUpint8eR4Mufyxj6vwY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/5/WRXPpjQQWAwzkfAVTjmQ/resgate.jpg"
-    },
-    {
-      "titulo": "Tarcísio rebate críticas de Eduardo Bolsonaro às vacinas e diz que todos devem se vacinar contra o sarampo: 'é consagrada e segura'",
-      "imagem": "https://s2-g1.glbimg.com/HmT3G1jOllp78e9pAy1wuYsifk0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/k/n1zKA5R4y1nIlPdC2j7g/tarcisio-debate-band-3.png"
-    },
-    {
-      "titulo": "Jovem é preso por tráfico com cocaína, skank, reais, dólares, iPhone e balança em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/6KdbyfawQuM3Heg9UtYnVXvCDPQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/w/zofUHXSdAYmNo9N8AC1Q/trafico-alvorada.jpeg"
-    },
-    {
-      "titulo": "Litoral Norte de SP tem alerta para ventos costeiros; veja a previsão do tempo para as cidades da região",
-      "imagem": "https://s2-g1.glbimg.com/JJr_0uj6mPDvz7mYYKaL4TKHYiA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/3/syH9veQvqA4BqN9Peo4Q/foto-g1.jpg"
-    },
-    {
-      "titulo": "Isso é Fantástico — larguei o 'suco': projeto ajuda usuários a abandonar os anabolizantes",
-      "imagem": "https://s2-g1.glbimg.com/bg2AMfvBhVM72mO_0PD44bTBN40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/S/LLrft1Qe2bniDkAxOeyg/whatsapp-image-2026-08-09-at-17.00.24.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-10T02:33:23.954Z"
+  "atualizadoEm": "2026-08-10T04:17:46.604Z"
 }
