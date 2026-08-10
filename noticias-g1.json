@@ -1,125 +1,125 @@
 {
   "noticias": [
     {
-      "titulo": "Assista ao BATV da TV Subaé",
+      "titulo": "Rio tem 68 voos panorâmicos por dia e 319 helicópteros; 28% das aeronaves descumprem altitude mínima",
+      "imagem": "https://s2-g1.glbimg.com/1-zrMsqsbEtnsPLJ2RX-B9Twzf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Z/g8BAFsTWa6ALdn9QOdMg/14cop1.jpeg"
+    },
+    {
+      "titulo": "Caminhoneiro perde o controle da direção e bate contra utilitária em rodovia de Tapiraí",
+      "imagem": "https://s2-g1.glbimg.com/-_oiyuYx_xFV6QaVfu3gIhSzMJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/M/5qxNmdTiqbOSIl1QwUZg/untitled.jpg"
+    },
+    {
+      "titulo": "Suspeito de matar homem com socos e chutes é preso no interior de SP; dívida motivou crime",
+      "imagem": "https://s2-g1.glbimg.com/ipFwvpJZbQXkIl_iy4OsWr6DM40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/A/l0rSrDTSWMS8PR8lgalw/homem-preso-agressao-espancamento-sao-joao-da-boa-vista.jpg"
+    },
+    {
+      "titulo": "Incêndio se espalha por terreno abandonado e ameaça casas na Vila Sumaré, em BH",
+      "imagem": "https://s2-g1.glbimg.com/DZLFstdCgM_AjxLk5BaCIw4zk2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/B/Lm2MW0TdKfbJZozU3L2w/design-sem-nome-2-.jpg"
+    },
+    {
+      "titulo": "Terremoto na Colômbia: mais de 60 prédios desabaram; equipes de resgate buscam sobreviventes",
+      "imagem": "https://s2-g1.glbimg.com/CNSN8HbB0jkCXb0ez3V5DN9o0gE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/d/BIBB3mTPm3lveFBLop0g/ap26222702484223.jpg"
+    },
+    {
+      "titulo": "Homem é agredido com socos, chutes e pedrada na cabeça em Uberaba; suspeito foi preso",
+      "imagem": "https://s2-g1.glbimg.com/bHwU0bmC9Zu0r7PQ5lkWs9hKIqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/P/B/RWHX0TQBGlUPBWcVbKRw/viatura-policia-militar-uberaba-05-03-2021.jpeg"
+    },
+    {
+      "titulo": "Terremoto na Colômbia: Por que moradores sentiram o tremor em Manaus? Especialista explica",
+      "imagem": "https://s2-g1.glbimg.com/qjpnwZyyUVl_NExKNX-ZdpsUudw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Q/RPQPpQT6aqZA6p6vGAGg/g1-epicentro-terremoto.jpg"
+    },
+    {
+      "titulo": "Prefeitura de Ilhabela abre concurso com salários de até R$ 12,5 mil; veja cargos e como participar",
+      "imagem": "https://s2-g1.glbimg.com/hUZEk20mcMu2iSdqPp-PB7Hn9lc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/I/Ev2J6qQEC8AtQripQdHg/foto-g1.jpg"
+    },
+    {
+      "titulo": "Gestante é socorrida após colisão seguida de capotagem em avenida de Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/t5n85grwO5cCv0jBI4ODQPF1bvE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/Y/keKBp0TNeExt5ZXiBwFQ/1200-x-800-22-.jpg"
+    },
+    {
+      "titulo": "Acidente envolvendo caminhão, carro e motos deixa três mortos e dois feridos na BR-104, no Agreste da Paraíba",
+      "imagem": "https://s2-g1.glbimg.com/d7hmVI5qx9lSzbtPVoU7zTQ62iI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/o/gLABdCQqAsBdTGNlyBXw/whatsapp-image-2026-08-10-at-19.01.38.jpeg"
+    },
+    {
+      "titulo": "Avô é preso suspeito de abusar sexualmente neta de 7 anos no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/T5QTetB3n5zr2vqhiOBkW9qJsjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/T/pJQM6LR5m56DCQJ63x9Q/design-sem-nome-15-.jpg"
+    },
+    {
+      "titulo": "Assista ao JRO2 desta segunda-feira, 10",
+      "imagem": "https://s2-g1.glbimg.com/KHp7rQrUS20G1Iulbe9_x6YaVXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/i/j2kplnQkifzSkwdmKbNA/whatsapp-image-2026-08-10-at-18.06.50.jpeg"
+    },
+    {
+      "titulo": "Assista ao JAP2 desta segunda-feira (10)",
+      "imagem": "https://s2-g1.glbimg.com/JVZLJfu6K49G5cSqEfaQje_-Hnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/a/9kNIHAQgGnZIHDRJibJQ/whatsapp-image-2026-08-08-at-10.32.56.jpeg"
+    },
+    {
+      "titulo": "AO VIVO: Assista ao JAC2 com Quésia Melo",
+      "imagem": "https://s2-g1.glbimg.com/gC9T0dYLCCqACTYTqTT6T_0X_hM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/q/ANSuMqSuAqJI9d1MDrgQ/file.jpg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
       "imagem": null
     },
     {
-      "titulo": "Detritos de lodo e sujeira caem sobre pacientes no Hospital Agamenon Magalhães; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/9EQtUMk4hPdeA4aU3CBiW2jB1iE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/I/H77hluQ967eLPeqzYqSQ/capa-agenda-g1-2026-08-10t183124.790.jpg"
+      "titulo": "Assista ao Boa Noite Espírito Santo",
+      "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
+    },
+    {
+      "titulo": "Chuva rápida é registrada em Palmas em pleno mês de agosto; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/swlFIttru1Z7K0gtR5iWESP_toc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/6/sAEE4tRWqwJnDvIsKHbQ/foto-e-montagem-vertical-79-.jpg"
+    },
+    {
+      "titulo": "Assista ao Jornal Vanguarda ao vivo no g1",
+      "imagem": "https://s2-g1.glbimg.com/JUlrL8xbxN4SRa6eMbFfPbSqi4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/R/SdP4NhSuG9lQDEyOl9pg/texto-do-seu-paragrafo-21-.png"
+    },
+    {
+      "titulo": "'Dinheiro muito bem-vindo', diz consumidor que resgatou R$ 1 mil no Nota Paraná horas antes de valor expirar",
+      "imagem": "https://s2-g1.glbimg.com/azz0-iNHffDCqLDEWHYqG204_1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/4/RcYS8BQvC3b1hdzlrXMQ/nota-parana-cidades.jpg"
+    },
+    {
+      "titulo": "Jovem é preso por homicídio em Angra dos Reis",
+      "imagem": "https://s2-g1.glbimg.com/cIKK13rpf__ObVs0P_JhCOac2N0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/a/fMA9GJTTKs2XBaR6i2HA/image-2-.jpg"
+    },
+    {
+      "titulo": "Após mais de um mês internada, menina que foi obrigada a ingerir soda cáustica recebe alta no Acre",
+      "imagem": "https://s2-g1.glbimg.com/OX_FYPszy7VR8bxhL-lY4eHS-CY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/a/uZmvAZS3G2aVLsVUX98w/midia-de-distribuicao-g1-31-.png"
+    },
+    {
+      "titulo": "Caminhão desgovernado sai da pista, atinge guarita e deixa três mortos na MGC-482",
+      "imagem": "https://s2-g1.glbimg.com/SVgqVl105vvbSfmpKYr1SHWeRRc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/W/9TdU4oTAKp11uMxcK0pg/acidente-fervedouro.jpeg"
+    },
+    {
+      "titulo": "Vídeo mostra rachas em condomínio em Teresina; PI teve 519 indiciados pela prática desde 2023",
+      "imagem": "https://s2-g1.glbimg.com/1TOfV9ahjyqw0gfswRdifbxQEcU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/U/JOBf2uSriauamOAy9laQ/edicao-imagens-g1-45-.png"
+    },
+    {
+      "titulo": "Governador de Sergipe anuncia reitor para Universidade Estadual",
+      "imagem": "https://s2-g1.glbimg.com/zk95cqpgITELzbHaNFOtxh2Nwxk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/l/oB5kYxS5Wuvp6uYirXBQ/fabio-e-reitor.jpeg"
+    },
+    {
+      "titulo": "Professor de direito da UFMT investigado por assédio e ameaça é preso por descumprir medidas judiciais",
+      "imagem": "https://s2-g1.glbimg.com/FFdM23unJtt4D6hnebEw4BNuA_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/p/7atDZVRC6rFH44Tv7hSQ/videos-g1-55-.jpg"
+    },
+    {
+      "titulo": "Xamã anuncia cancelamento de turnê: 'Era um sonho'",
+      "imagem": "https://s2-g1.glbimg.com/ArlAEexprNt-4Wy9DXIE1RjFDZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/7/c/ppSEmbRuAQ2b7mfQ5IrQ/xama-rock-in-rio-2024-2.jpg"
     },
     {
       "titulo": "Assista ao  BATV",
       "imagem": null
     },
     {
-      "titulo": "Com superlotação no serviço de urgência, Hospital de Clínicas de Itajubá orienta procura por postos de saúde",
-      "imagem": "https://s2-g1.glbimg.com/ueMnHsvqNhftGXteQ5JQlfbFbQU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/Z/j/KCpFBxQGGn2JbH9txqCg/hospitalitajuba.jpg"
+      "titulo": "AO VIVO: Assista ao GR2",
+      "imagem": "https://s2-g1.glbimg.com/0-JHhymZQjKoJwms_LRmHLPAB78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/J/mvWfiNQy2XoazxK77krw/whatsapp-image-2025-09-27-at-14.08.15.jpeg"
     },
     {
-      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
+      "titulo": "EPTV 2 Piracicaba ao vivo",
       "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
     },
     {
-      "titulo": "‘Foi um terror’: morador do RS relata como foi estar na Colômbia durante terremoto",
-      "imagem": "https://s2-g1.glbimg.com/x78ZTkfSnEV9z0fUoN4HMOtn8zE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/7/hSTK1CQIKfBdZEDLkoPg/afp-20260810-c4cn42c-v1-midres-colombiaearthquake.jpg"
-    },
-    {
-      "titulo": "Homem é investigado por suspeita de maus-tratos após jogar cachorro em açude no interior da Bahia",
-      "imagem": "https://s2-g1.glbimg.com/8rAVenq_KtT_iA1VoYbeYzKuttc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/R/UsclMNT4a3QeZ8CHTbgA/foto-no-tamanho-home.png"
-    },
-    {
-      "titulo": "Laboratório de drogas com sistema de câmeras e alarme é descoberto pela PM em sítio",
-      "imagem": "https://s2-g1.glbimg.com/HvCpG6fd-kwQaZ5StL8X-sMfrh8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/P/s7U6tGRFmLQXOgsRBmsQ/whatsapp-image-2026-08-10-at-16.23.41.jpeg"
-    },
-    {
-      "titulo": "MAPA: veja as cidades mais afetadas pelo terremoto na Colômbia",
-      "imagem": "https://s2-g1.glbimg.com/x78ZTkfSnEV9z0fUoN4HMOtn8zE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/7/hSTK1CQIKfBdZEDLkoPg/afp-20260810-c4cn42c-v1-midres-colombiaearthquake.jpg"
-    },
-    {
-      "titulo": "Policial Civil suspeito de vazar informações de operação que investigava plano para matar autoridades é demitido em MG",
-      "imagem": "https://s2-g1.glbimg.com/mTExfT1AJUQpeEKcB_TjRzE2fZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/7/NGX2WoSDGERhSizBST1A/design-sem-nome.png"
-    },
-    {
-      "titulo": "Virginia surpreende ao aparecer em academia de Goiânia e é cercada por fãs",
-      "imagem": "https://s2-g1.glbimg.com/Sfve96UM91OXIukXKDFpIm79n80=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/9/0rs0pGSk610A7kGqcH3A/design-sem-nome-71-.jpg"
-    },
-    {
-      "titulo": "Prefeitura mapeia casas em 14 bairros para instalar armadilhas contra Aedes aegypti em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/scZyq2vSpibtghvLHGDCOQ_cMx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/1/PjcHFiS6iir67p6k67fg/instalacao-de-ovitrampas-na-cidade-ft-francisco-sena3.jpg"
-    },
-    {
-      "titulo": "Maior refinaria da Petrobras tem recorde de produção no 1º semestre desde 2000",
-      "imagem": "https://s2-g1.glbimg.com/l5yZfhlsoC8_x9CZoZqCRxjxR8A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/R/5/mHo63oQ5ishj5NAJqWyg/jcc5824.jpg"
-    },
-    {
-      "titulo": "Golpe do falso advogado avança no RS e estelionato virtual faz quase 50 vítimas por dia, diz Polícia Civil; saiba como evitar",
-      "imagem": "https://s2-g1.glbimg.com/48LuG7tFLlOfIkDQtxXCLmPlnlA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/U/2fBnzuSZuAQY1ZDyVxxA/subjetivas-crimes-advogados-sigilo-2708-0011.mxf-frame-251.png"
-    },
-    {
-      "titulo": "Parque onde fica o depósito do Césio-137 é atingido por incêndio, em Goiás",
-      "imagem": "https://s2-g1.glbimg.com/ZUm2TOmN0FnU3QWyB_dwFn01_a8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/j/poar1yTQ6vtlnRVSAUJQ/co.png"
-    },
-    {
-      "titulo": "China pede para entrar em disputa do Brasil contra tarifaço dos EUA na OMC",
-      "imagem": "https://s2-g1.glbimg.com/Y5OUBctDA60pvQ47Y6qiCNV63BI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/C/yRvQeGSj6mhcurnHfH7g/78090845-1004.webp"
-    },
-    {
-      "titulo": "ExpoFeira na Rede inicia nesta segunda (10) com quiz, tour e debates",
-      "imagem": "https://s2-g1.glbimg.com/INFvWgjwhC92TQeq2CDI7ugiPSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/N/GshotcTCePZA2fwf2I3Q/whatsapp-image-2026-08-10-at-17.57.56.jpeg"
-    },
-    {
-      "titulo": "Por que o Instituto Maria da Penha pediu a suspensão de entrevista com o ex-marido da ativista cearense",
-      "imagem": "https://s2-g1.glbimg.com/-hqjL8zzHcwcwF1CJMnke4O_X-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/q/aKTHM0RVGVxcvTHR2pew/ex-preso.jpg"
-    },
-    {
-      "titulo": "Motorista bate em carro estacionado e capota em Parnaíba, no litoral do Piauí",
-      "imagem": "https://s2-g1.glbimg.com/-r7a6WyLyfxSHXQWy_SJDDCoDvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/F/rmSbIKRyOt3iEAG9gjYA/edicao-imagens-g1-47-.png"
-    },
-    {
-      "titulo": "VÍDEO: Caminhão pega fogo na Avenida das Torres e deixa trânsito congestionado em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/tS-bqPNj06Z8oY-gur-ke9SO_Xo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/r/AuJlV3ShyfmBgtu6EZpQ/g1-carreta-pega-fogo.jpg"
-    },
-    {
-      "titulo": "Fenômeno argentino Milo J faz shows em São Paulo em setembro",
-      "imagem": "https://s2-g1.glbimg.com/PYHbZ3xBX6ihFGzfXW1LyqQYUQs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/9/dg4sZ6SA6w5IHYnzkflg/fotojet-59-.jpg"
-    },
-    {
-      "titulo": "Moradores cobram fiscalização após desmatamento e queimadas em terreno no bairro Maicá, em Santarém",
-      "imagem": "https://s2-g1.glbimg.com/3MqU6Bf5IrRFBoLzJqcWvL3ij3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/C/l018mqSPuQT1tVgiprhA/maica2.jpg"
-    },
-    {
-      "titulo": "EPTV 2 Campinas ao vivo",
-      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
-    },
-    {
-      "titulo": "Voo é cancelado no Canadá após criança se recusar a ficar sentada e não colocar o cinto de segurança",
-      "imagem": "https://s2-g1.glbimg.com/NCQhC4uG2-Hltlje-5CLcJe52Sk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Q/gAS75wTsa6uZULY6J8eg/ap4111063450416221.jpg"
-    },
-    {
-      "titulo": "Caminhão que se envolveu em acidente com ônibus que causou mortes na GO-010 estava a 120 km por hora, diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/WyrebIFcwDEA80iX1RKhNGkj9-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/a/tyQltZRReFTiwhCYLAQw/copia-de-copia-de-copia-de-padrao-foto-g1-goias-1-.jpg"
-    },
-    {
-      "titulo": "Coletor de materiais recicláveis é atacado a facadas enquanto trabalhava em Areiópolis",
-      "imagem": "https://s2-g1.glbimg.com/aHBhhCsDe2TlLGfPfjGkd2qHRm0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/N/CE6x05RYKyg23lRGC9cg/ps.jpg"
-    },
-    {
-      "titulo": "Festival Ocupacena reúne 22 espetáculos de quatro estados brasileiros; veja a programação",
-      "imagem": "https://s2-g1.glbimg.com/8ovcWHlaEkbC6uXWVAWMWiAG9i8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/L/y2Klc9TYWt9YDrX7oHcA/foto-tradicional-1-.png"
-    },
-    {
-      "titulo": "Carlinhos Maia contradiz própria defesa e diz que policial autorizou uso de viatura em gravação",
-      "imagem": "https://s2-g1.glbimg.com/gmCMaaaYEf05VdtHtu1nfgm5z48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/g/YQjSQyRTO412AJYuvs3g/whatsapp-image-2026-08-10-at-17.56.41.jpeg"
-    },
-    {
-      "titulo": "Com cota comprada pelo aplicativo, bolão entre amigos leva R$ 1,65 milhão na Mega-Sena: 'Finalmente vingou'",
-      "imagem": "https://s2-g1.glbimg.com/SCIeeF7owwO6dkqiCFASZ3EMeXo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/E/Bq2vTvTWmIeCHyBgz1nA/texto-do-seu-paragrafo-2026-08-10t171434.604.png"
-    },
-    {
-      "titulo": "Motorista de carreta faz curva e carga quase tomba em via na Zona Sul de Manaus; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/MJWlSYu4Xs1ZF3sVz_aerKbGm1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Z/8edouSRqGU0aGug23J4g/carreta-manaus.jpg"
+      "titulo": "Assista ao BATV da TV Subaé",
+      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-10T21:57:21.211Z"
+  "atualizadoEm": "2026-08-10T22:39:07.139Z"
 }
