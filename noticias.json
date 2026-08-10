@@ -1,6 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "Sistema FAEP cobra medidas emergenciais após tornados no Paraná",
+      "imagem": null
+    },
+    {
+      "titulo": "Da guerra ao clima: O que ameaça a queda dos juros no Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "STF amplia decisões colegiadas, mas monocráticas ainda são 80% do total",
+      "imagem": null
+    },
+    {
+      "titulo": "Europa bate recorde de temperatura em verão de ondas de calor e incêndios",
+      "imagem": null
+    },
+    {
+      "titulo": "Apenas uma vítima foi identificada após 48h da queda de helicóptero no Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Atirador invade órgão público e fere duas pessoas na Tailândia",
+      "imagem": null
+    },
+    {
+      "titulo": "Congresso retoma trabalhos com primeira semana de esforço concentrado",
+      "imagem": null
+    },
+    {
       "titulo": "Irã condiciona reabertura do Estreito de Ormuz a concessões dos EUA",
       "imagem": null
     },
@@ -91,35 +119,7 @@
     {
       "titulo": "Debate em SP: Educação, segurança e alianças são destaques do 1º bloco",
       "imagem": null
-    },
-    {
-      "titulo": "Debate no CE: Ciro e Elmano atacam &#8220;muletas do Lula&#8221; e &#8220;amiguinhos do PL&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Baixa essa bola&#8221;, diz Haddad após Tarcísio insinuar relação com o tráfico",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasil ainda não atrai grandes investidores do futebol, aponta especialista",
-      "imagem": null
-    },
-    {
-      "titulo": "Flamengo vence o Vitória e vê distância para o líder Palmeiras diminuir",
-      "imagem": null
-    },
-    {
-      "titulo": "Deputado republicano dos EUA publica foto de Lula capturado como Maduro",
-      "imagem": null
-    },
-    {
-      "titulo": "João Fonseca sofre torção, perde para Ben Shelton e dá adeus em Montreal",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Tenho gratidão&#8221;: Tarcísio rebate Haddad sobre ter &#8220;vergonha de Bolsonaro&#8221;",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-10T05:54:22.197Z"
+  "atualizadoEm": "2026-08-10T07:24:39.556Z"
 }

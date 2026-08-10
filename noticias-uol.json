@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Candidatura de Cleitinho deixa a direita mineira em curto-circuito",
+      "imagem": null
+    },
+    {
+      "titulo": "Governo publica regras para o recesso de fim de ano dos servidores federais",
+      "imagem": null
+    },
+    {
+      "titulo": "Solange Pessoa mostra 'lavoura' de ervas e desenhos inéditos em nova exposição",
+      "imagem": null
+    },
+    {
+      "titulo": "Violência contra enfermagem atinge 7 em cada 10 profissionais em SP, diz pesquisa",
+      "imagem": null
+    },
+    {
+      "titulo": "O banco por trás da avalanche de aberturas de capital de empresas de IA da China",
+      "imagem": null
+    },
+    {
+      "titulo": "Lideranças evangélicas comparam parque temático da Bíblia a sambódromo e Rock in Rio",
+      "imagem": null
+    },
+    {
       "titulo": "Debate: Tarcísio erra dados de educação, e Haddad, renegociação de dívida",
       "imagem": null
     },
@@ -35,31 +59,7 @@
     {
       "titulo": "Faltas, críticas sobre segurança e Flávio ignorado marcam debates estaduais",
       "imagem": null
-    },
-    {
-      "titulo": "Alvo em debate de governador em SP, Derrite tenta capitalizar críticas de Haddad",
-      "imagem": null
-    },
-    {
-      "titulo": "Voepass: Irregularidades foram alertadas por ex-funcionário da Anac, diz TV",
-      "imagem": null
-    },
-    {
-      "titulo": "O conflito de interesse não desaparece com a mudança na forma de remuneração",
-      "imagem": null
-    },
-    {
-      "titulo": "Saiba como organizar finanças e investir de acordo com seu regime de trabalho",
-      "imagem": null
-    },
-    {
-      "titulo": "O fundo campeão pode ser o pior para você",
-      "imagem": null
-    },
-    {
-      "titulo": "Consumo fraco, crédito caro e endividamento pressionam varejistas",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-10T05:54:21.571Z"
+  "atualizadoEm": "2026-08-10T07:24:39.157Z"
 }
