@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Ex-funcionário da Anac alertou a agência de que a Voepass reaproveitava peças em seus aviões",
+      "imagem": null
+    },
+    {
+      "titulo": "Vídeos feitos por golpistas revelam como funcionam as falsas centrais bancárias",
+      "imagem": "https://s2-g1.glbimg.com/uVZOxp-LLcaZ091AO3YYntBAw3o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/C/aFgiO0SIKmAQzQojN5pg/captura-de-tela-2026-08-09-202626.png"
+    },
+    {
       "titulo": "Identificados os sete mortos em acidente na BR-251; motorista não era habilitado e usava tornozeleira, diz PC",
       "imagem": "https://s2-g1.glbimg.com/pVmyPVCaJ8a07yqIDSfG4kySW3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/A/ohYDnoRXAJkAzcAhGv6A/photo-2026-08-08-15-44-13.jpg"
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Júri aponta legítima defesa e absolve mulher acusada de matar marido a facadas em Mogi Mirim",
       "imagem": "https://s2-g1.glbimg.com/pPyb5v7m0VJJuMVWFPhR2D1qkWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/d/P2HZ5AQfO9eP1Xbacfxg/tenta-feminicidio-louveira-11-.jpg"
-    },
-    {
-      "titulo": "Ovos: entenda por que poder de compra do avicultor atingiu menor patamar no semestre",
-      "imagem": "https://s2-g1.glbimg.com/pxWwoHKyYHVAhAIIz_D5l5fGcH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/U/5/ZKdD9yRpG6lu6GSHF3eQ/whatsapp-image-2023-10-01-at-12.48.36-1-.jpeg"
-    },
-    {
-      "titulo": "Resort em Atibaia amplia hospedagem sem custo extra aos fins de semana",
-      "imagem": "https://s2-g1.glbimg.com/EkhitM6oq0pL7VHCD44OaK7QV80=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/m/A/O4IR53QBSnn8ue1ffSxA/k9a3001.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-09T23:39:24.553Z"
+  "atualizadoEm": "2026-08-10T00:03:59.479Z"
 }
