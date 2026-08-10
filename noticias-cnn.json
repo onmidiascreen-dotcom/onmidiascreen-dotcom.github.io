@@ -1,6 +1,102 @@
 {
   "noticias": [
     {
+      "titulo": "Céu limpo, chuva e condições instáveis: veja como será semana em Salvador",
+      "imagem": null
+    },
+    {
+      "titulo": "Vitória tem semana marcada por variação climática; veja previsão",
+      "imagem": null
+    },
+    {
+      "titulo": "Previsão do tempo: semana em Recife é marcada por chuvas fracas",
+      "imagem": null
+    },
+    {
+      "titulo": "Céu nublado e chuvas marcam semana em São Luís; veja previsão",
+      "imagem": null
+    },
+    {
+      "titulo": "Nexus/BTG: 50% rejeitam votar em Flávio e 48%, em Lula",
+      "imagem": null
+    },
+    {
+      "titulo": "Mais de 42ºC: Cuiabá tem semana marcada por calor intenso e falta de chuva",
+      "imagem": null
+    },
+    {
+      "titulo": "Como oscilações no petróleo impulsionam desenvolvimento da cadeia offshore",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Irã eleva exigências e desafia os EUA no Estreito de Ormuz",
+      "imagem": null
+    },
+    {
+      "titulo": "Eventos climáticos elevam riscos na infraestrutura e desafiam concessões",
+      "imagem": null
+    },
+    {
+      "titulo": "Chuvas marcam semana em Maceió; veja previsão completa",
+      "imagem": null
+    },
+    {
+      "titulo": "A transmissão de energia na era dos extremos climáticos",
+      "imagem": null
+    },
+    {
+      "titulo": "Comunicação crítica: quando a mitigação de riscos dialoga com o ESG",
+      "imagem": null
+    },
+    {
+      "titulo": "Anvisa libera entrega de medicamentos por apps como iFood e Mercado Livre",
+      "imagem": null
+    },
+    {
+      "titulo": "Semana em Boa Vista é marcada por chuva e máximas de 36ºC",
+      "imagem": null
+    },
+    {
+      "titulo": "Nexus/BTG: Lula empata com Flávio e Caiado no 2º turno",
+      "imagem": null
+    },
+    {
+      "titulo": "Uefa, Concacaf e AFC voltam a criticar Infantino e cobram investigação",
+      "imagem": null
+    },
+    {
+      "titulo": "Nexus/BTG: No 1º turno, Lula tem 40% e Flávio, 35%",
+      "imagem": null
+    },
+    {
+      "titulo": "Especialistas explicam ao Dr. Kalil redução de riscos em cirurgias com IA",
+      "imagem": null
+    },
+    {
+      "titulo": "Jon Batiste sobre sucesso de &#8220;Soul&#8221;: &#8220;A música é a linguagem do invisível&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Jornalistas da CNN analisam debates estaduais; veja os destaques",
+      "imagem": null
+    },
+    {
+      "titulo": "Cracolândia, alianças e segurança foram temas principais no debate em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Por que há combates no Iêmen e o que isso significa para o Irã?",
+      "imagem": null
+    },
+    {
+      "titulo": "CNN começa nesta segunda sabatinas com candidatos aos governos estaduais",
+      "imagem": null
+    },
+    {
+      "titulo": "Acidente grave deixa mortos e feridos na Rodovia Anhanguera em SP",
+      "imagem": null
+    },
+    {
       "titulo": "Testes em azeites extravirgem não são conclusivos, diz Mapa",
       "imagem": null
     },
@@ -23,103 +119,7 @@
     {
       "titulo": "Voo supersônico volta após o Concorde, mas com um grande desafio",
       "imagem": null
-    },
-    {
-      "titulo": "&#8220;Taxa das blusinhas&#8221;: governo quer avançar com MP na retomada do Congresso",
-      "imagem": null
-    },
-    {
-      "titulo": "Sistema FAEP cobra medidas emergenciais após tornados no Paraná",
-      "imagem": null
-    },
-    {
-      "titulo": "Da guerra ao clima: O que ameaça a queda dos juros no Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "STF amplia decisões colegiadas, mas monocráticas ainda são 80% do total",
-      "imagem": null
-    },
-    {
-      "titulo": "Europa bate recorde de temperatura em verão de ondas de calor e incêndios",
-      "imagem": null
-    },
-    {
-      "titulo": "Apenas uma vítima foi identificada após 48h da queda de helicóptero no Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Atirador invade órgão público e fere duas pessoas na Tailândia",
-      "imagem": null
-    },
-    {
-      "titulo": "Congresso retoma trabalhos com primeira semana de esforço concentrado",
-      "imagem": null
-    },
-    {
-      "titulo": "Irã condiciona reabertura do Estreito de Ormuz a concessões dos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Ataque dos Houthis deixa ao menos sete mortos no Iêmen, diz exército",
-      "imagem": null
-    },
-    {
-      "titulo": "Nunes confronta Haddad por &#8220;questão do Wi-Fi&#8221; citada em debate",
-      "imagem": null
-    },
-    {
-      "titulo": "Debate no RS: Candidatos ao governo criticam alianças com PT",
-      "imagem": null
-    },
-    {
-      "titulo": "Sem Brito, Elmano e Ciro atacam alianças e disputam legado em debate no CE",
-      "imagem": null
-    },
-    {
-      "titulo": "Segurança pública domina 1º debate entre candidatos ao governo da Bahia",
-      "imagem": null
-    },
-    {
-      "titulo": "Candidatos miram Celina em debate focado em saúde, educação e BRB no DF",
-      "imagem": null
-    },
-    {
-      "titulo": "Rogério Ceni detona gramado da Fonte Nova: &#8220;É uma vergonha&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Globo demite cinegrafista após cabeçada em repórter em debate eleitoral",
-      "imagem": null
-    },
-    {
-      "titulo": "Debate no RJ: candidatos focam em segurança, corrupção e ataques a Paes",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Quarta-feira é guerra&#8221;, canta torcida do Flamengo após vitória",
-      "imagem": null
-    },
-    {
-      "titulo": "Sem Moro, debate no PR aborda privatização da Copel e escola cívico-militar",
-      "imagem": null
-    },
-    {
-      "titulo": "Santos: Cuca admite preocupação com rebaixamento e cobra diretoria",
-      "imagem": null
-    },
-    {
-      "titulo": "Tenista mais velho nas quartas de final do Masters de Montreal tem 25 anos",
-      "imagem": null
-    },
-    {
-      "titulo": "Tarcísio elogia Nunes; Haddad cita dívida de SP e filme de Bolsonaro",
-      "imagem": null
-    },
-    {
-      "titulo": "Barco ilegal vira próximo à Estátua da Liberdade e mata mãe e filha nos EUA",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-10T08:56:48.786Z"
+  "atualizadoEm": "2026-08-10T10:16:41.125Z"
 }
