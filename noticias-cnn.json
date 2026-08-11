@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Colômbia relata saques após terremoto e cidade cumpre toque de recolher",
+      "imagem": null
+    },
+    {
       "titulo": "De la Espriella relata 35 mortos e 188 desaparecidos em Cali, na Colômbia",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Voto por rejeição define escolha de quase 25% do eleitorado, aponta Nexus",
       "imagem": null
-    },
-    {
-      "titulo": "&#8220;Taxa das blusinhas foi pedido do varejo, não tem a ver comigo&#8221;, diz Haddad",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-11T05:14:41.693Z"
+  "atualizadoEm": "2026-08-11T06:05:50.538Z"
 }
