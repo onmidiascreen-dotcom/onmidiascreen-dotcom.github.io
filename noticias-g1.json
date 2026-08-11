@@ -1,6 +1,50 @@
 {
   "noticias": [
     {
+      "titulo": "Primeira da família a falar inglês, brasileira supera concorrência de 33 mil candidatos e conquista vaga de estágio no Banco Mundial",
+      "imagem": "https://s2-g1.glbimg.com/kAGGYrc9wkWxORCMvKthp2CNqwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/I/esjCxLSzKP6dAwgrLoFQ/gabi-i-1-.jpeg"
+    },
+    {
+      "titulo": "Polícia resgata duas pessoas que eram mantidas em cárcere privado e recupera carga roubada em Fortaleza",
+      "imagem": "https://s2-g1.glbimg.com/zpBy6-k3DBlaDLTUnOqoRVUMWh4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/A/AK3AQGStAQj0JiFJqzZQ/carga-2.jpg"
+    },
+    {
+      "titulo": "Mostra gratuita de cinema sobre HIV/aids começa nesta terça (11) em Teresina; veja programação",
+      "imagem": "https://s2-g1.glbimg.com/9WOyigCrQePdDANAcDsnJ8rZX9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/U/zhq8AkSse8Y9QXeAsR9A/edicao-imagens-g1-53-.png"
+    },
+    {
+      "titulo": "AO VIVO: assista à programação da NSC TV",
+      "imagem": null
+    },
+    {
+      "titulo": "Inscrições para militares temporários do Exército no Amapá encerram em 16 de agosto",
+      "imagem": "https://s2-g1.glbimg.com/l0QoztDLp5txqdKvpt5LUH4TID8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/Q/syQiFiQhSPV46IEnhrew/whatsapp-image-2025-04-17-at-14.06.53.jpeg"
+    },
+    {
+      "titulo": "Lucien Rezende declara R$ 500 mil em bens ao TSE; Kaelly informa R$ 115 mil",
+      "imagem": "https://s2-g1.glbimg.com/RFXg87B4jFC9A8jlzZJD4u-8aHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/S/T3qBFxTUWvME0NW1CMvQ/1200-x-800-27-.jpg"
+    },
+    {
+      "titulo": "Fábio Trad declara R$ 3,6 milhões em bens ao TSE; Dona Gilda informa R$ 3,3 milhões",
+      "imagem": "https://s2-g1.glbimg.com/wbdx5v3Q7dU4OXkTSpEssvlzZpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/u/cEe6l1S9OI8lzgr04wHg/texto-do-seu-paragrafo.jpg"
+    },
+    {
+      "titulo": "Riedel declara R$ 16,1 milhões em bens ao TSE; Barbosinha informa R$ 17,3 milhões",
+      "imagem": "https://s2-g1.glbimg.com/8xPvxRh_iw4Ctc9ysPOuI3PLZj4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Y/jX4VNBSVyt2CYWwCVeLg/riedel-e-barbosinha.jpg"
+    },
+    {
+      "titulo": "Assista ao Jornal da Manhã",
+      "imagem": null
+    },
+    {
+      "titulo": "Síria condena Assad à morte por crimes contra a humanidade",
+      "imagem": "https://s2-g1.glbimg.com/rArBCtvkvVxox9j__8R0iiruguY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/R/Yq4bTRTp6pVJ6YhG5WyQ/assad.jpg"
+    },
+    {
+      "titulo": "Pai e menina de 7 anos morrem em acidente na BR-386",
+      "imagem": "https://s2-g1.glbimg.com/joMLFL9g2NG_qDsVem-_z0rV1Ss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/C/Su9bv9RyuW7U49K99XWg/g1-9-.jpg"
+    },
+    {
       "titulo": "Assista ao Bom Dia ES",
       "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif"
     },
@@ -75,51 +119,7 @@
     {
       "titulo": "Por que a poluição dos incêndios florestais é tão perigosa para todos?",
       "imagem": "https://s2-g1.glbimg.com/Z63uKG6lgprV7bXVO2kpbopQfbE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/3/wcImJcTKeNVnyCwF30Dw/poluicaodecliniocognitivo2026.jpg"
-    },
-    {
-      "titulo": "Quando o CEP define quem corre mais risco: como renda e raça revelam o racismo ambiental",
-      "imagem": "https://s2-g1.glbimg.com/YYb9uObB66Ng7FX8vIoSN8Xwvwo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/A/46SzW8RSWiwTJXvNq15Q/img-2661-1-.webp"
-    },
-    {
-      "titulo": "'Escolhi ganhar uns anos a mais de vida': usuários contam por que decidiram abandonar anabolizantes",
-      "imagem": "https://s2-g1.glbimg.com/hYjz0YjspZqGqvrgVg7eG9DKwqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/s/wyz0P7TvaVp5Ow9fbODA/fotojet-76-.jpg"
-    },
-    {
-      "titulo": "Por que o Sudeste recebe mais dinheiro público para fazer cinema do que o restante do país?",
-      "imagem": "https://s2-g1.glbimg.com/xAoSfJCnafMADdly2i2JonNmooY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/M/bInHr7RPm2kNhDfQWqQA/g0414520-grep-ft-bl1-v3-frame-36770.jpeg"
-    },
-    {
-      "titulo": "Uso de IA é comum em músicas de artistas pop nacionais, afirmam profissionais da indústria; entenda",
-      "imagem": "https://s2-g1.glbimg.com/aTnH12KHscknEVAGjYjbWS6L3OI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/S/tBMFKNStagcQkvYrzhdw/suno1.jpg"
-    },
-    {
-      "titulo": "Mãe finge dormir e flagra filha sendo estuprada pelo padrasto em MG",
-      "imagem": "https://s2-g1.glbimg.com/td2NZUc7SAqpS2450PAo9dnugiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/k/xkqVR0RxOXOK89fgJmRg/delegacia-policia-civil-patos-de-minas.jpeg"
-    },
-    {
-      "titulo": "Emprego: veja as vagas disponíveis em Petrolina e Salgueiro",
-      "imagem": "https://s2-g1.glbimg.com/400CGRb3IS1onIokgRFpqIlz1rE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/b/6/I8PDSnTfma02XbDh6Xow/design-sem-nome-6-.png"
-    },
-    {
-      "titulo": "Crise na Apex: posso perder dinheiro? Entenda o que se sabe sobre dívida de quase R$ 1 bi e o impacto para clientes",
-      "imagem": "https://s2-g1.glbimg.com/MCLxQlPEI79orntkd0u7clqQNVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/w/uZdkcyR7SKRgrmg5ZTWg/thumb-fotos-2026-08-08t095427.323.jpg"
-    },
-    {
-      "titulo": "Estudante foi encontrada morta na casa do namorado uma semana após começar faculdade de biologia em SC",
-      "imagem": "https://s2-g1.glbimg.com/JFRESGPuO45zQmDBJDC-f-h0unA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/f/pTeTxvRtWm5w9G3AhAwQ/joviana-1.jpeg"
-    },
-    {
-      "titulo": "Após recorde de calor, BH deve ter agosto com temperaturas altas e tempo seco",
-      "imagem": "https://s2-g1.glbimg.com/sY-vm7fZMcxdrgcVwpNaxJaSDus=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/o/LB7sFmTKO0OJbU4Xskzw/captura-de-tela-2026-08-10-124259.png"
-    },
-    {
-      "titulo": "Carga de melancias esconde mais de 2,5 toneladas de maconha e motorista é preso na BR-386; droga é encontrada por cães farejadores",
-      "imagem": "https://s2-g1.glbimg.com/74WUjS3tX9jta2n1sABPjAlQQ1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/0/oCwVFvQaGtdneUrfpigg/g1-2-.png"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/ZPYU6ZJGnGKjIM1MZF2k0iAtIYA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/a/H6XHZVSEmwmZyeQwCn1A/previsao-tempo-bras-lia-20260811-030807.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-11T08:36:37.385Z"
+  "atualizadoEm": "2026-08-11T09:40:53.818Z"
 }
