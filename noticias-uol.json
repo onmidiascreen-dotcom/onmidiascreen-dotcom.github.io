@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Juiz determina que Garotinho cumpra sentença que o deixa inelegível",
+      "imagem": null
+    },
+    {
+      "titulo": "Rosalía faz show sensorial e diz realizar um sonho no Rio",
+      "imagem": null
+    },
+    {
       "titulo": "Quem é Wesley Batista Filho, o próximo CEO global da JBS",
       "imagem": null
     },
@@ -51,15 +59,7 @@
     {
       "titulo": "'Collor foi o melhor chefe que eu já tive', diz Dorothea Werneck, 1ª e única mulher ministra do Trabalho",
       "imagem": null
-    },
-    {
-      "titulo": "Terremoto na Colômbia faz moradores do Eixo Cafeeiro reviverem trauma de 1999",
-      "imagem": null
-    },
-    {
-      "titulo": "Terremoto na Colômbia é 1º teste de Espriella, há menos de 72 horas no cargo",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-11T03:59:03.105Z"
+  "atualizadoEm": "2026-08-11T05:14:41.343Z"
 }

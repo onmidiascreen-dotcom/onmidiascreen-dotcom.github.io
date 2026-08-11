@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "Dengue cai 98% em Ribeirão Preto, SP, mas Franca, SP, tem incidência cinco vezes maior em 2026",
+      "imagem": "https://s2-g1.glbimg.com/vjneLF4FJYuL5YhmbW9YnZy-eiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/d/y/ciMFdfRdGB7PylxiUCew/larva-mosquito.jpg"
+    },
+    {
+      "titulo": "Número de helicópteros no Rio cresce quase 30% em 3 anos; especialista cobra novas regras de fiscalização",
+      "imagem": "https://s2-g1.glbimg.com/D29tZgBOKrKUb2XOHP18UBjmvuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/u/MyOKrAT4edUVEXq5Vckw/rj2-limpo-20260810-1830-frame-69026.jpeg"
+    },
+    {
+      "titulo": "'Se tivesse durado mais 5 segundos, não teria sobrado nada': colombiano relata terremoto que matou mais de 100",
+      "imagem": "https://s2-g1.glbimg.com/fpiWzuwxBugJn8yYaY8HHGI-X9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/wa2HZORpys0MG6yaoUbA/2026-08-10t211535z-1613594604-rc2wvmacp5vi-rtrmadp-3-colombia-quake.jpg"
+    },
+    {
+      "titulo": "Brasileira vê planta balançar ao acordar e percebe terremoto que atingiu a Colômbia: 'Sensação estranha'",
+      "imagem": "https://s2-g1.glbimg.com/eg63iaUpM4LFaYLeK_mBbpYijjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/X/5AejqeTPGCAAGV0O3TIg/ap26222743359122.jpg"
+    },
+    {
+      "titulo": "'Golpe das tarefas': veja como uma falsa vaga de home office fez uma trabalhadora perder R$ 1,2 mil",
+      "imagem": "https://s2-g1.glbimg.com/nMm8tdls7OQ2jQkzC_ttwnHCdQo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/w/p/BjxgONSImkFbBbw9kvwA/criminosos-abordam-vitimas-atraves-de-ligacoes-de-celular-mensagens-de-whatsapp-texto-ou-e-mail.jpeg"
+    },
+    {
+      "titulo": "Exoma analisa apenas de 1% a 2% do DNA; genoma completo pode revelar alterações que o primeiro não detecta",
+      "imagem": "https://s2-g1.glbimg.com/tRxL2dalfDCvPG2HOlPnYQWcWmQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/7/0dPBtzRAm864gSPMZ2JQ/exoma.jpeg"
+    },
+    {
+      "titulo": "Primeira da família a falar inglês, brasileira supera concorrência de 33 mil candidatos e conquista vaga de estágio no Banco Mundial",
+      "imagem": "https://s2-g1.glbimg.com/kAGGYrc9wkWxORCMvKthp2CNqwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/I/esjCxLSzKP6dAwgrLoFQ/gabi-i-1-.jpeg"
+    },
+    {
+      "titulo": "Consumo paterno de ultraprocessados pode influenciar peso e medidas corporais do bebê ao nascer, indica estudo brasileiro",
+      "imagem": "https://s2-g1.glbimg.com/mA6JjV6pcHEc1YLMqPGqxori1vg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/W/7Ifw46SCKpFr32PAoNvw/montagem-horizontal-1200px-11-.jpg"
+    },
+    {
+      "titulo": "Sabesp fará obra e interromperá abastecimento de água em bairros da Zona Sul de SP nesta terça",
+      "imagem": "https://s2-g1.glbimg.com/bgEeG22ByVOF4SwsgVr8ZKFJEYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/1/T/MlFgB0RkmCtwr5HYiyzQ/chile2.jpg"
+    },
+    {
       "titulo": "Justiça determina que Garotinho cumpra sentença que suspende direitos políticos por 8 anos",
       "imagem": "https://s2-g1.glbimg.com/PgJH8BPUGUS-MLQrsy1kQKPIiEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/d/BKAK2UQ7mrV41TPlJnxw/garotinho.webp"
     },
@@ -77,49 +113,13 @@
       "imagem": "https://s2-g1.glbimg.com/E_E5S2Y4b_tkWx_ohZ7OI68lPsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/S/lMY0rdQgeqiUOD4n3fiw/2026-08-11t004144z-653449718-rc2zvmami219-rtrmadp-3-colombia-quake.jpg"
     },
     {
-      "titulo": "Mulher furta viatura da PM, foge dirigindo até município vizinho e é interceptada após bater com veículo no RJ",
+      "titulo": "Mulher furta viatura da PM, foge dirigindo até cidade vizinha e é interceptada após bater com veículo no RJ",
       "imagem": "https://s2-g1.glbimg.com/FZJfvQE53l-AkBMLXzTmGrkR6gI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/u/OqBMTkTfSAWmCLhGR5lA/mulher-furtou-viatura-da-pm-e-fugiu-ate-municipio-vizinho-quando-foi-interceptada-apos-bater-com-o-carro.png"
     },
     {
       "titulo": "Chuva volta ao RS com chance de granizo e tempestades; confira previsão do tempo",
       "imagem": "https://s2-g1.glbimg.com/bjS-rs3FH9Z5OkbqB1Xx3WG5Us8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/goCV3PTqm2oYwgPulptA/g1-9-.png"
-    },
-    {
-      "titulo": "Ônibus pega fogo na rodovia Arthur Bernardes em Belém",
-      "imagem": "https://s2-g1.glbimg.com/HqCGbXDVLhkWLEav1qI4_o971kg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/E/eDntBtS0A3Bt8P2B9Ycw/c31c1e8d-1f70-4c81-960b-fb069e207965.jpg"
-    },
-    {
-      "titulo": "Ventos de 65km destelham casas, derrubam árvore e bloqueiam rua em Rio Branco; ninguém se feriu",
-      "imagem": "https://s2-g1.glbimg.com/2DJVp8q-sOPsOpoYXu5QjmbH9XU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/Q/AbWzAcQ62Dgd7sD0G1Bg/midia-de-distribuicao-g1.png"
-    },
-    {
-      "titulo": "EUA aceitam discutir na OMC o tarifaço imposto ao Brasil",
-      "imagem": "https://s2-g1.glbimg.com/UPWsNQdrwGDXdgk5MqXEcTGFf6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/e/rQy9b2Tzme9i0HniBA9g/globo-canal-4-20260810-2000-frame-97648.jpeg"
-    },
-    {
-      "titulo": "Indígena percorre 600 km para expor grafismo Karipuna na Expofeira do AP: 'Representar meu povo não tem preço'",
-      "imagem": "https://s2-g1.glbimg.com/nYsSnQUDnMlKcG1Zr3TmgbbHiTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/X/AgN1rSQuyJB9Qi6wwsHQ/aleixo-g1-15-.jpg"
-    },
-    {
-      "titulo": "Festival de Cinema de Brasília: possível cancelamento é 'grave retrocesso', diz Ministério da Cultura",
-      "imagem": "https://s2-g1.glbimg.com/UbeduxsFPvCGLc7ylfpyV3E2rzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/X/2alnF9QmAV4HLK61rApw/crd-coletiva-cine-00002-frame-31098.jpeg"
-    },
-    {
-      "titulo": "Encontro MIDIACOM-RJ em Búzios reúne especialistas para debater o futuro e os desafios da comunicação",
-      "imagem": "https://s2-g1.glbimg.com/vsk0ei0ykaRE5rwqfvSkJD7_ukI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/j/iDoA9dS62OtkKPU4BuaA/palestrantes-confirmados-para-o-midiacom-rj-em-buzios.png"
-    },
-    {
-      "titulo": "Moradores de Piraí do Sul (PR) ainda calculam os prejuízos provocados por tornado",
-      "imagem": "https://s2-g1.glbimg.com/51FVgF21_qQ4SJH_WqAjnY3B1Ig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/2/5qZaToQ26CqeW66pCPOA/globo-canal-4-20260810-2000-frame-77469.jpeg"
-    },
-    {
-      "titulo": "Duas pessoas são presas e uma mulher está foragida por suspeita de envolvimento no sequestro de bebê em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/zxtUYGYFjVsnQSO77n8Jf8QGLyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/h/7/ltyaevRpa365s8v5Hv0Q/delegacia-especializada-em-homicidios-e-sequestro-dehs-em-manaus-foto-erlon-rodrigues-pc-am.jpeg"
-    },
-    {
-      "titulo": "Fernando de Noronha celebra 523 anos com festa, música e homenagens",
-      "imagem": "https://s2-g1.glbimg.com/SggesAajKH2O65oNNLE8L5YWZDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/v/P5XG5dR2Kpv5oiiZ7y5g/aniversario-de-noronha-26-1.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-11T03:59:04.744Z"
+  "atualizadoEm": "2026-08-11T05:14:43.692Z"
 }
