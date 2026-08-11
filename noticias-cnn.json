@@ -1,6 +1,86 @@
 {
   "noticias": [
     {
+      "titulo": "Viveo tem prejuízo de R$ 21,2 milhões no 2° trimestre",
+      "imagem": null
+    },
+    {
+      "titulo": "Infra digital e baterias abrem novas frentes para energia, diz Santander",
+      "imagem": null
+    },
+    {
+      "titulo": "Cury apresenta lucro de R$ 270,5 mi no 2° trimestre, alta anual de 14,3%",
+      "imagem": null
+    },
+    {
+      "titulo": "Katseye lança documentário sobre o grupo; conheça a trajetória",
+      "imagem": null
+    },
+    {
+      "titulo": "Dias após assumir o cargo, presidente da Colômbia enfrenta grande desastre",
+      "imagem": null
+    },
+    {
+      "titulo": "Oi adia divulgação de quatro balanços trimestrais de 2025 e 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Candidatura de Garotinho será analisada pela Justiça Eleitoral; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Janja cobra governistas por avanço de PL da Misoginia antes das eleições",
+      "imagem": null
+    },
+    {
+      "titulo": "Cobra coral peçonhenta é encontrada em cozinha de casa em Santa Catarina",
+      "imagem": null
+    },
+    {
+      "titulo": "Entenda a decisão de Moraes sobre busca contra fonte de jornalista no MA",
+      "imagem": null
+    },
+    {
+      "titulo": "Jogos de times colombianos na Libertadores e Sul-Americana são remarcados",
+      "imagem": null
+    },
+    {
+      "titulo": "Vendas no varejo crescem 7% na semana do Dia dos Pais, aponta Getnet",
+      "imagem": null
+    },
+    {
+      "titulo": "Nasa perde controle de missão ousada para salvar observatório em queda",
+      "imagem": null
+    },
+    {
+      "titulo": "Influenciador Gato Preto é solto após prisão por dívida de pensão em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Juiz que bebeu vinho em audiência tem medida protetiva pedida por ex-mulher",
+      "imagem": null
+    },
+    {
+      "titulo": "Relembre a polêmica da &#8220;taxa das blusinhas&#8221;, que volta ao Congresso",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula agradece Hugo por apoio nas eleições e convida deputado para encontro",
+      "imagem": null
+    },
+    {
+      "titulo": "Laudo confirma que advogado morreu após golpe &#8220;Boa Noite, Cinderela&#8221; em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Anitta diz que teve medo de assumir religião: “Era prejudicial”",
+      "imagem": null
+    },
+    {
+      "titulo": "Dois homens são presos em desmanche de carros em São Gonçalo (RJ)",
+      "imagem": null
+    },
+    {
       "titulo": "Cérebro canino consegue perceber expressões faciais negativas diferentes",
       "imagem": null
     },
@@ -39,87 +119,7 @@
     {
       "titulo": "Conheça a aeronave utilizada por Trump em voo secreto após ameaça do Irã",
       "imagem": null
-    },
-    {
-      "titulo": "Atriz de &#8220;The Office&#8221; revela diagnóstico de câncer de mama incurável",
-      "imagem": null
-    },
-    {
-      "titulo": "John Textor mostra otimismo sobre disputas judiciais e retorno ao Botafogo",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Equilibrium II&#8221;: conheça as referências da música &#8220;Okê&#8221;, de Anitta",
-      "imagem": null
-    },
-    {
-      "titulo": "Produtor aposta em ciclo de verão para produzir espumante no Rio de Janeiro",
-      "imagem": null
-    },
-    {
-      "titulo": "B3 registra lucro recorrente de R$ 1,4 bilhão no 2° tri, avanço de 8%",
-      "imagem": null
-    },
-    {
-      "titulo": "Inter tag: saiba os benefícios da cobrança automática de pedágio",
-      "imagem": null
-    },
-    {
-      "titulo": "Senado aprova PL que altera regras sobre o pagamento de custas judiciais",
-      "imagem": null
-    },
-    {
-      "titulo": "Tratamento para rastrear câncer colorretal será aplicado no SUS",
-      "imagem": null
-    },
-    {
-      "titulo": "Família e artistas se despedem de Anita Nobre em velório; veja fotos",
-      "imagem": null
-    },
-    {
-      "titulo": "Candidata do PSOL de TO declara R$ 2 bilhões em bens e partido admite erro",
-      "imagem": null
-    },
-    {
-      "titulo": "Copa do Brasil: chance dos três clássicos em sorteio era menor do que 1%",
-      "imagem": null
-    },
-    {
-      "titulo": "Vasco anuncia oficialmente a contratação de Facundo Colidio; veja detalhes",
-      "imagem": null
-    },
-    {
-      "titulo": "Senado aprova projeto que incentiva produção nacional de fertilizantes",
-      "imagem": null
-    },
-    {
-      "titulo": "Casal é preso pela morte da própria filha de 1 ano e 9 meses no RJ",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávio priorizará Sudeste em início oficial de campanha",
-      "imagem": null
-    },
-    {
-      "titulo": "Jornal espanhol repercute saída de Memphis do Corinthians: “Vexame”",
-      "imagem": null
-    },
-    {
-      "titulo": "Ações do BTG Pactual caem após apresentação de balanço e puxam Ibovespa",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: Síria carece de legitimidade em meio à condenação de ditador",
-      "imagem": null
-    },
-    {
-      "titulo": "Enjoei tem prejuízo de R$ 47,6 milhões no 2° trimestre",
-      "imagem": null
-    },
-    {
-      "titulo": "Câmara adia votações previstas para esta terça após líder do PT passar mal",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-11T23:01:50.630Z"
+  "atualizadoEm": "2026-08-11T23:58:56.796Z"
 }
