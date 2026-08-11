@@ -1,6 +1,114 @@
 {
   "noticias": [
     {
+      "titulo": "Natura tem queda de 92% no lucro de operações continuadas do 2º trimestre",
+      "imagem": null
+    },
+    {
+      "titulo": "Associação cita preocupações com carga de trabalho dos tenistas",
+      "imagem": null
+    },
+    {
+      "titulo": "Barrera começa tratamento e fará novos exames após lesão no Botafogo",
+      "imagem": null
+    },
+    {
+      "titulo": "Anne Hathaway conta como maternidade a ajudou em novo filme; confira",
+      "imagem": null
+    },
+    {
+      "titulo": "Dono do Panathinaikos quer levar Nikola Jokic para a Grécia",
+      "imagem": null
+    },
+    {
+      "titulo": "Terremoto na Colômbia: 16 pessoas presas em teleférico são resgatadas",
+      "imagem": null
+    },
+    {
+      "titulo": "Charlles Evangelista deixa cargo de vice na chapa de Flávio Roscoe",
+      "imagem": null
+    },
+    {
+      "titulo": "Abel Ferreira explica lesão de Paulinho no Palmeiras",
+      "imagem": null
+    },
+    {
+      "titulo": "Paris Hilton usa boné “esposa-troféu” e curte passeio de iate na Itália",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro usará slogan &#8220;O Brasil vai vencer&#8221; na campanha ao Planalto",
+      "imagem": null
+    },
+    {
+      "titulo": "Número de mortos em terremoto sobe para 132, diz associação na Colômbia",
+      "imagem": null
+    },
+    {
+      "titulo": "China informa que cota para carne bovina do Brasil chega a 90%",
+      "imagem": null
+    },
+    {
+      "titulo": "Waack: Entorno da campanha de Lula espalha fábula de ajuste",
+      "imagem": null
+    },
+    {
+      "titulo": "Caixa Seguridade apresenta lucro de R$ 1,14 bilhão no 2º tri, alta de 9,5%",
+      "imagem": null
+    },
+    {
+      "titulo": "À CNN, Haddad defende “passar a limpo” investigação sobre Lulinha",
+      "imagem": null
+    },
+    {
+      "titulo": "“Marcou profundamente a todos”, diz brasileira sobre terremoto na Colômbia",
+      "imagem": null
+    },
+    {
+      "titulo": "Itaúsa tem lucro de R$ 4,3 bilhões no 2º trimestre",
+      "imagem": null
+    },
+    {
+      "titulo": "Voto por rejeição define escolha de quase 25% do eleitorado, aponta Nexus",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Taxa das blusinhas foi pedido do varejo, não tem a ver comigo&#8221;, diz Haddad",
+      "imagem": null
+    },
+    {
+      "titulo": "WSL: Kelly Slater tira maiores notas da etapa e elimina Medina em Taiti",
+      "imagem": null
+    },
+    {
+      "titulo": "Alexis Sánchez na MLS: chileno fecha com clube americano",
+      "imagem": null
+    },
+    {
+      "titulo": "À CNN, Haddad critica nomeações de coronéis: &#8220;Perdemos a cadeia de comando&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Discurso anti-vacina afasta eleitor moderado",
+      "imagem": null
+    },
+    {
+      "titulo": "Terra Santa reconhece perda contábil sobre 2,1 mil hectares em disputa",
+      "imagem": null
+    },
+    {
+      "titulo": "À CNN, Haddad diz que Tarcísio recusou ajuda federal na área de segurança",
+      "imagem": null
+    },
+    {
+      "titulo": "Terremoto na Colômbia: país entra em alerta para atividade vulcânica",
+      "imagem": null
+    },
+    {
+      "titulo": "Um fenômeno misterioso ocorre durante a totalidade de um eclipse solar",
+      "imagem": null
+    },
+    {
       "titulo": "Colheita de café arábica avança para 74% no Cerrado Mineiro",
       "imagem": null
     },
@@ -11,115 +119,7 @@
     {
       "titulo": "Terra Santa tem prejuízo de R$ 12,6 milhões no segundo trimestre",
       "imagem": null
-    },
-    {
-      "titulo": "Análise: Mercado ajusta visão sobre fiscal em possível 4º mandato de Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Hungria confirma foco de peste suína africana em granja com 1,8 mil animais",
-      "imagem": null
-    },
-    {
-      "titulo": "Jeongyeon encerra ciclo na JYP e revela planos para o Twice; confira",
-      "imagem": null
-    },
-    {
-      "titulo": "Exportações de carne bovina recuam em julho, mas crescem 9,9% no ano",
-      "imagem": null
-    },
-    {
-      "titulo": "Crédito rural para agricultura empresarial soma R$ 28,2 bilhões em julho",
-      "imagem": null
-    },
-    {
-      "titulo": "Influenciadora é agredida em samba na região central do Rio de Janeiro",
-      "imagem": null
-    },
-    {
-      "titulo": "Hertz Dias é o único presidenciável de 2026 sem bens declarados ao TSE",
-      "imagem": null
-    },
-    {
-      "titulo": "Libertadores e Sul-Americana têm jogos suspensos por terremotos na Colômbia",
-      "imagem": null
-    },
-    {
-      "titulo": "Terremoto na Colômbia: Equipes procuram pessoas presas em escombros",
-      "imagem": null
-    },
-    {
-      "titulo": "Sasha abre álbum na África com João Lucas e Marquezine; veja fotos",
-      "imagem": null
-    },
-    {
-      "titulo": "Além de Shakira, Maluma e outros famosos enviam mensagens à Colômbia",
-      "imagem": null
-    },
-    {
-      "titulo": "Caiado e Kassab apostam em ACM Neto e Ciro Gomes por palanques no Nordeste",
-      "imagem": null
-    },
-    {
-      "titulo": "EUA anunciam ajuda de US$ 15,5 milhões à Colômbia após terremoto",
-      "imagem": null
-    },
-    {
-      "titulo": "São Martinho tem queda de 39% no lucro no início da safra 2026/27",
-      "imagem": null
-    },
-    {
-      "titulo": "Moody&#8217;s rebaixa rating da Cosan e cita reestruturação da Raízen",
-      "imagem": null
-    },
-    {
-      "titulo": "Corinthians “some”, e Memphis aguarda contrato para assinar renovação",
-      "imagem": null
-    },
-    {
-      "titulo": "Atlético-MG: CEO comenta possível clássico com Cruzeiro na Copa do Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Vídeo: Influenciador mostra momento de terremoto em aeroporto na Colômbia",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Confiança total&#8221;, diz Spindel antes de Cruzeiro x Flamengo",
-      "imagem": null
-    },
-    {
-      "titulo": "À CNN, Marinho diz que STF precisa &#8220;voltar a ser constitucional&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Bogotá inaugura centros de coleta para ajudar áreas afetadas pelo terremoto",
-      "imagem": null
-    },
-    {
-      "titulo": "China quer participar de consultas do Brasil contra tarifas dos EUA na OMC",
-      "imagem": null
-    },
-    {
-      "titulo": "Machiavelli: MDA articula para ampliar programas de aquisição de alimentos",
-      "imagem": null
-    },
-    {
-      "titulo": "Balança comercial registra superávit de US$ 2,5 bi na 1ª semana de agosto",
-      "imagem": null
-    },
-    {
-      "titulo": "Velório de Anita Nobre, mãe de Dudu Nobre e Lucinha Nobre, será nesta terça",
-      "imagem": null
-    },
-    {
-      "titulo": "CNN entrevista Fernando Haddad, candidato ao governo de SP",
-      "imagem": null
-    },
-    {
-      "titulo": "ONU oferece ajuda à Colômbia após terremoto de magnitude 7,4",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-10T23:59:39.026Z"
+  "atualizadoEm": "2026-08-11T02:19:03.519Z"
 }

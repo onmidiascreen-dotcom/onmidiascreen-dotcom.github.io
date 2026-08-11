@@ -1,125 +1,125 @@
 {
   "noticias": [
     {
+      "titulo": "Ônibus pega fogo na rodovia Arthur Bernardes em Belém",
+      "imagem": "https://s2-g1.glbimg.com/HqCGbXDVLhkWLEav1qI4_o971kg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/E/eDntBtS0A3Bt8P2B9Ycw/c31c1e8d-1f70-4c81-960b-fb069e207965.jpg"
+    },
+    {
+      "titulo": "Ventos de 65km destelham casas, derrubam árvore e bloqueiam rua em Rio Branco; ninguém se feriu",
+      "imagem": "https://s2-g1.glbimg.com/2DJVp8q-sOPsOpoYXu5QjmbH9XU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/Q/AbWzAcQ62Dgd7sD0G1Bg/midia-de-distribuicao-g1.png"
+    },
+    {
+      "titulo": "EUA aceitam discutir na OMC o tarifaço imposto ao Brasil",
+      "imagem": "https://s2-g1.glbimg.com/UPWsNQdrwGDXdgk5MqXEcTGFf6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/e/rQy9b2Tzme9i0HniBA9g/globo-canal-4-20260810-2000-frame-97648.jpeg"
+    },
+    {
+      "titulo": "Indígena percorre 600 km para expor grafismo Karipuna na Expofeira do AP: 'Representar meu povo não tem preço'",
+      "imagem": "https://s2-g1.glbimg.com/nYsSnQUDnMlKcG1Zr3TmgbbHiTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/X/AgN1rSQuyJB9Qi6wwsHQ/aleixo-g1-15-.jpg"
+    },
+    {
+      "titulo": "Festival de Cinema de Brasília: possível cancelamento é 'grave retrocesso', diz Ministério da Cultura",
+      "imagem": "https://s2-g1.glbimg.com/UbeduxsFPvCGLc7ylfpyV3E2rzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/X/2alnF9QmAV4HLK61rApw/crd-coletiva-cine-00002-frame-31098.jpeg"
+    },
+    {
+      "titulo": "Encontro MIDIACOM-RJ em Búzios reúne especialistas para debater o futuro e os desafios da comunicação",
+      "imagem": "https://s2-g1.glbimg.com/vsk0ei0ykaRE5rwqfvSkJD7_ukI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/j/iDoA9dS62OtkKPU4BuaA/palestrantes-confirmados-para-o-midiacom-rj-em-buzios.png"
+    },
+    {
+      "titulo": "Moradores de Piraí do Sul (PR) ainda calculam os prejuízos provocados por tornado",
+      "imagem": "https://s2-g1.glbimg.com/51FVgF21_qQ4SJH_WqAjnY3B1Ig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/2/5qZaToQ26CqeW66pCPOA/globo-canal-4-20260810-2000-frame-77469.jpeg"
+    },
+    {
+      "titulo": "Duas pessoas são presas e uma mulher está foragida por suspeita de envolvimento no sequestro de bebê em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/zxtUYGYFjVsnQSO77n8Jf8QGLyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/h/7/ltyaevRpa365s8v5Hv0Q/delegacia-especializada-em-homicidios-e-sequestro-dehs-em-manaus-foto-erlon-rodrigues-pc-am.jpeg"
+    },
+    {
+      "titulo": "Fernando de Noronha celebra 523 anos com festa, música e homenagens",
+      "imagem": "https://s2-g1.glbimg.com/SggesAajKH2O65oNNLE8L5YWZDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/v/P5XG5dR2Kpv5oiiZ7y5g/aniversario-de-noronha-26-1.jpg"
+    },
+    {
+      "titulo": "Quatro dias depois da passagem de ciclone, milhares de gaúchos ainda estão sem luz",
+      "imagem": "https://s2-g1.glbimg.com/66ALbKdcauc81vbvI22ic9xZ1BM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/z/iz2uKzSginhRPHar2e2A/globo-canal-4-20260810-2000-frame-74404.jpeg"
+    },
+    {
+      "titulo": "Escavadeira usada em garimpo ilegal é destruída em terra indígena de MT; veja vídeo",
+      "imagem": "https://s2-g1.glbimg.com/_pOvsuvTqRwwx-pcBpFw-C0gHUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/V/w9nFIhRFyaDQREJvuCRw/gif-escavadeira-1-.gif"
+    },
+    {
+      "titulo": "Moradores de Manaus sentem os efeitos do terremoto na Colômbia",
+      "imagem": "https://s2-g1.glbimg.com/oAW6KXv8fdKCuWYcs1qVJsJ1mTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/F/zGJmRaTVyLuOpzIeaaXg/globo-canal-4-20260810-2000-frame-71740.jpeg"
+    },
+    {
+      "titulo": "Quem são os candidatos ao governo de SP nas eleições de 2026?",
+      "imagem": "https://s2-g1.glbimg.com/DJemZXoTXHBigjkzoedySxaPjyg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Z/EGtypRTcWf9WyDjnVCUA/6983a6a8eb6528b778109e63.jpg"
+    },
+    {
+      "titulo": "SP2B reúne 2 mil palestrantes em 8 dias de programação",
+      "imagem": "https://s2-g1.glbimg.com/FrbVBWQHQjNP9I6y3l24p2mPNm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/9/0OD3EBRCez07MYXEbYwA/globo-canal-4-20260810-2000-frame-132483.jpeg"
+    },
+    {
+      "titulo": "Pai de crianças que sumiram em rio no Acre acompanha buscas: 'Quero encontrar meus filhos'",
+      "imagem": "https://s2-g1.glbimg.com/uoyULENE92lyLmZ1IRaI6DJk87o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/F/8CxXEeSnipjGaveM4RlQ/midia-de-distribuicao-g1-32-.png"
+    },
+    {
+      "titulo": "Rio Carnaval 2027: ingressos da venda geral esgotam após mais de 15 mil interessados",
+      "imagem": "https://s2-g1.glbimg.com/2TNVB7dsLuXAxcLIaxBBdxplfto=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/G/1s89slTHihgsVnCzy6YA/globo-canal-5-20250305-0000-frame-134275.jpeg"
+    },
+    {
+      "titulo": "Manaus registra dia mais quente do ano pelo 2º dia seguido, com máxima de 36,1°C",
+      "imagem": "https://s2-g1.glbimg.com/Dgl0jtw7keYqll95Xh7Gqrz2wng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/9/4/LxYsDfTL6dFwPPJBlIlw/sol-e-calor-em-manaus-foto-rede-amazonica.jpg"
+    },
+    {
+      "titulo": "Trump foi escondido em caminhão e fez voo secreto por ameaça do Irã, diz jornal",
+      "imagem": "https://s2-g1.glbimg.com/pCUi4-IRR0NhSznvmGvMpAlKPic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/uxsQG8TMSoDESZ4g60Tg/2026-08-02t205658z-1859483257-rc2kqma7gmv1-rtrmadp-3-usa-trump.jpg"
+    },
+    {
+      "titulo": "Caminhoneiro de SC preso há 26 dias em nevasca histórica na Argentina relata banho frio e refeições improvisadas: 'Aqui é imprevisível'",
+      "imagem": "https://s2-g1.glbimg.com/TCUOor2PKal4qrYHu_IcHr33Cg4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/q/1uLEdKQAC9KnINHQiBQw/nevasca-historica-deixa-caminhoneiro-de-sc-preso-ha-mais-de-20-dias-na-argentina-.png"
+    },
+    {
+      "titulo": "Resumão diário do JN: Terremoto na Colômbia deixa mais de cem mortos, e dezenas de prédios desabam; moradores do RS continuam sem luz quatro dias após passagem de ciclone",
+      "imagem": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
+    },
+    {
+      "titulo": "Super Sete hoje: resultado do concurso 884 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/uN8lM0XE_G7JCmwjkZzKMu11yjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/V/nfrCrFSkulRGSTBiykAg/volantes-super-sete.jpg"
+    },
+    {
       "titulo": "Resultados das Loterias Caixa",
       "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
     },
     {
-      "titulo": "Câmara de Campinas aprova veto a nomeação de condenados por maus-tratos a animais e uso de focinheira para cães",
-      "imagem": "https://s2-g1.glbimg.com/plG_b4CKo8-dy5WJAuFDQJW-TAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/h/fY4w2USS6hLwQUGSB5yQ/cachorro-com-focinheira.jpg"
+      "titulo": "Dia de Sorte hoje: resultado do concurso 1268 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/18sBx6IMtyTKtfP2WuFLMPVKo-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/x/OBjj1cQzG0GieUSUIUBw/diadesorte-1268-ewuuj.jpeg"
     },
     {
-      "titulo": "Dois condenados por estupro são presos em Teresina; um abusou da própria filha",
-      "imagem": "https://s2-g1.glbimg.com/-vBuKuh_uwyn0L5Ov4VQqtEaM20=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/r/6j7kPbT9OFn6JtYqwlXw/edicao-imagens-g1-71-.png"
+      "titulo": "Idoso de 82 anos morre após ataque de abelhas em Tomé-Açu, no PA",
+      "imagem": "https://s2-g1.glbimg.com/0wLL7I10IYddmhQKpbnxIjemnvQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/b/aOZpQiTBOHQFGCcKZRYg/abelhas1.jpg"
     },
     {
-      "titulo": "Inema emite alerta de atenção para ventos fortes no extremo sul da Bahia; confira previsão do tempo no estado",
-      "imagem": "https://s2-g1.glbimg.com/ajthnsCpD26mAPkg3P0yROUk5OU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/m/rHruT9TkWL9QXVtdaixA/chuva-salvador.jpg"
+      "titulo": "PF faz operação contra supostas irregularidades em aplicações milionárias da Previdência de Maceió no Banco Master",
+      "imagem": "https://s2-g1.glbimg.com/idKIcUqUqhSIGRypu2W1n9THGLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/O/03iUm5Qr6MJTBBwdlAbQ/globo-canal-4-20260810-2000-frame-118488.jpeg"
     },
     {
-      "titulo": "Procurado por morte de esposa em MT tem histórico de violência e escondia armas, diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/apt2cn9uvxcASiBZBBHvgi2pbC4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/y/MyKIrWT6eYMhIfkoWZ8g/whatsapp-image-2026-08-10-at-15.00.57-1-.jpeg"
+      "titulo": "Quem são os candidatos ao Senado por SP nas eleições de 2026?",
+      "imagem": "https://s2-g1.glbimg.com/g9-2qhvELTe9iWGz1_gkfjg2aA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/k/UKlnWsS6O8SkQBcakoGg/foto-e-montagem-vertical-59-.png"
     },
     {
-      "titulo": "VÍDEOS: AB2 de segunda-feira, 10 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/leUJTmjW7BjvlInyF_Fu-s8habI=/s01.video.glbimg.com/deo/vi/98/71/14857198"
+      "titulo": "Lotomania hoje: resultado do concurso 2961 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/nzcvZ6JbTDp3ELmxWvcmlxQQtBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/4/Nucs9VRvKekOfGW93APw/lotomania-2961-ocsup.jpeg"
     },
     {
-      "titulo": "AO VIVO: assista à programação da NSC TV",
-      "imagem": null
+      "titulo": "Dupla Sena hoje: resultado do concurso 2994 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/RKHKE4sVH2DAR9AzXGz-yIfV0KM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/Q/I1ph0pS8e2U4LJDhMjMw/duplasena-2994-uxejd.jpeg"
     },
     {
-      "titulo": "Polícia investiga morte de empresária de 29 anos após cirurgia plástica em Belém",
-      "imagem": "https://s2-g1.glbimg.com/Xl_Bvd872WuZ2F0z5GAlEEI4koQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/m/XbibtWSwA7rdBAwRxA3Q/design-sem-nome-3-.jpg"
+      "titulo": "Lotofácil hoje: resultado do concurso 3758 e números sorteados; 8 apostas vencem e cada uma leva R$ 530 mil",
+      "imagem": "https://s2-g1.glbimg.com/vVih_3LsEj3iFmihQfwoXyVMuv0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/S/KwUWPFStq1gXyUFEa1gQ/lotofacil-3758-pidph.jpeg"
     },
     {
-      "titulo": "Emissão de habilitação para dirigir no exterior sobe 52% em Santos; veja como solicitar",
-      "imagem": "https://s2-g1.glbimg.com/_F5ZfVrMIJ5QTQQjQknnZVJbExU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/b/nS9jW4So6rUwfCBKONBg/edig1-2026-08-10t140139.611.png"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de segunda-feira, 10 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/wBMqiahh_ZPI9ewegEwoH7HzG1g=/s01.video.glbimg.com/deo/vi/19/71/14857119"
-    },
-    {
-      "titulo": "Eleições em SP: o que cabe ao governo do estado no Meio Ambiente",
-      "imagem": "https://s2-g1.glbimg.com/PPi5La-_gOIaHsoHkdDrZSkFyRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/f/s/VRjX0MTKCKMCzhxVG2Ag/age20240903038.jpg"
-    },
-    {
-      "titulo": "Irmãos são agredidos com socos e cabeçadas em confusão de bar no Distrito Federal; veja imagens",
-      "imagem": "https://s2-g1.glbimg.com/KMKuTTJ7srxjdZN8YyQspz6Cc6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/a/bH01R8SVWArenThNUWTQ/whatsapp-image-2026-08-10-at-20.01.00.jpeg"
-    },
-    {
-      "titulo": "PM prende homem por violência doméstica após mulher fugir de casa com filho em Campinas",
-      "imagem": "https://s2-g1.glbimg.com/IY7GHBCb6C-6EmEg_zxdxdOfUc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/J/5qN1thT9OwDBSBnydVBw/design-sem-nome-2026-03-09t203114.125.jpg"
-    },
-    {
-      "titulo": "Agricultor chama atenção por tranquilidade enquanto filmava tornado no Paraná: 'Se apavorar é pior'",
-      "imagem": "https://s2-g1.glbimg.com/f06SkTAD_C7689CjEYUtR7eoYoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Y/29GY2wQESCzM5O5xRNBw/novo-projeto-63-.png"
-    },
-    {
-      "titulo": "VÍDEOS: NSC Notícias de segunda-feira, 10 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/io3vgvBaWkuwugae5QfjYthCyqs=/s01.video.glbimg.com/deo/vi/73/68/14856873"
-    },
-    {
-      "titulo": "Justiça proíbe montagem de estruturas para Marcha da Maconha em Botucatu",
-      "imagem": "https://s2-g1.glbimg.com/OsyoX_w-Z_Huep9-4iRWSgvGvpA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/E/GohjGxTPSyQSWc7jD5xw/whatsapp-image-2026-08-10-at-20.24.53-1-.jpeg"
-    },
-    {
-      "titulo": "Homem morre afogado em lago de Pontalina, diz Bombeiros",
-      "imagem": "https://s2-g1.glbimg.com/pbluvOJEuaamaF2aqXSRicUHu2A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/t/9hBohITvmFEFJFFVVdIg/copia-de-copia-de-copia-de-padrao-foto-g1-goias-4-.jpg"
-    },
-    {
-      "titulo": "‘Botei ela em uma sacola’: avó conta como conseguiu salvar neta de 1 mês pela janela de prédio durante incêndio em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/RJ_juoHfO4VoylpeVIjbzetOV1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/C/Db3yr0QKANq4qRXaa7Ag/sacola-plastica.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: JL2 de segunda-feira, 10 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/p8PSoWJzvXT6M2I4N0wYDmMiO30=/s01.video.glbimg.com/deo/vi/50/70/14857050"
-    },
-    {
-      "titulo": "Homem é preso por sequestrar e tentar matar ex-namorada em RO",
-      "imagem": "https://s2-g1.glbimg.com/NgIK5qmLdKDBIwY_bwvv_DtACTg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/w/xcaBbHTo2OVHB58VPuuA/g1-ro-2026-4-.jpg"
-    },
-    {
-      "titulo": "Mulher que morreu atropelada no Acre esperava amiga subir em bicicleta, diz irmã",
-      "imagem": "https://s2-g1.glbimg.com/bEl3srEe1pcr7h4z5O71Rv_8yhk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/E/gjDJOFQB2sZ0TmcREYOg/midia-de-distribuicao-g1-2026-08-09t095523.565.jpg"
-    },
-    {
-      "titulo": "Iprev Maceió e Banco Master: quem são os seis investigados pela PF",
-      "imagem": "https://s2-g1.glbimg.com/2VdbtMxPkkyb3VYz6338cDsHcC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/y/ZsERoNQF6pLu7ymtlGxA/whatsapp-image-2026-08-10-at-08.54.06.jpeg"
-    },
-    {
-      "titulo": "Brasília registra dia mais quente e seco do ano; medição chegou a 13% de umidade e 34,3 ºC no Gama",
-      "imagem": "https://s2-g1.glbimg.com/R2loTyGMd4mfk-ykHKCM35fITtc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/g/L/2IAFidRCAzKSuZXbmINA/dia-do-cerrado-bddf.transfer-frame-0.jpeg"
-    },
-    {
-      "titulo": "Padrasto é preso suspeito de agredir enteados com mangueira em MG",
-      "imagem": "https://s2-g1.glbimg.com/MovjIgsfnO-UqbDvrM_2kXd-BcA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/t/AOCnUNQN6LBmrDOpsX2w/image-2025-12-12t171243.903.png"
-    },
-    {
-      "titulo": "Loteca hoje: resultado do concurso 1265 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/ezAM7aXqjvUB5zzkdMwpM-VM6YQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/l/2lwDyXR1WspMxbOUMyNA/loteca-1265-goxqv.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: NE2 de segunda-feira, 10 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/oQ862WHUm_nC6rIQeZGJJztrJRs=/s01.video.glbimg.com/deo/vi/58/68/14856858"
-    },
-    {
-      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Trabalhadores mortos em acidente com van na TO-130 são identificados",
-      "imagem": "https://s2-g1.glbimg.com/MNgxR_BKfPSJpmbHF75wByT6GYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/c/z3Q9KoSBiTsusnwBgJxw/foto-e-montagem-vertical-2026-08-10t115703.658.png"
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "imagem": null
+      "titulo": "Quina hoje: resultado do concurso 7088 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/uJpXTx361XqpniKjse7DgPyN9DY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/1/a7UReAQpmrJfolvMmSXg/quina-7088-jbmel.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-10T23:59:40.975Z"
+  "atualizadoEm": "2026-08-11T02:19:05.366Z"
 }
