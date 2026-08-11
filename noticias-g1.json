@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Justiça determina que Garotinho cumpra sentença que suspende direitos políticos por 8 anos",
+      "imagem": "https://s2-g1.glbimg.com/PgJH8BPUGUS-MLQrsy1kQKPIiEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/d/BKAK2UQ7mrV41TPlJnxw/garotinho.webp"
+    },
+    {
+      "titulo": "Com orquestra e artes clássicas, Rosalía transforma disco ambicioso em seu melhor show",
+      "imagem": "https://s2-g1.glbimg.com/qdav8d1mYut6TC54udDalDSsn90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/n/Av1YrEQ5OAIuw2dWAUAQ/rosalia-3.jpg"
+    },
+    {
+      "titulo": "A corrida pelo governo de MG e o seu impacto na eleição nacional - O Assunto #1780",
+      "imagem": "https://s2-g1.glbimg.com/1AdlMpShGrSmhuroMvgzKmkezeI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/m/IXrNWITP6WuX7vVjb7LA/cleitinho.mp4-snapshot-00.10.544.jpg"
+    },
+    {
+      "titulo": "Cidade Universitária abre inscrições a empresas para feira de estágios",
+      "imagem": "https://s2-g1.glbimg.com/Ufw1o_tAUdN-g8ssYAON9URnPnc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/X/lmHGYaSfWXhI6boqBfzg/foto-1-feira-de-estagio.jpg"
+    },
+    {
+      "titulo": "Macaé supera 143 mil empregos formais e cresce acima da média nacional",
+      "imagem": "https://s2-g1.glbimg.com/5JH3vd_G3_0iSq269zBjTd-8I2A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/X/F2U7iVTA2xpHSr7BU11Q/foto-1-caged.jpeg"
+    },
+    {
+      "titulo": "Vila Regina, em Montes Claros, recebe asfalto e fica de cara nova",
+      "imagem": "https://s2-g1.glbimg.com/MRzaDCUGdGX9-9R9ynct_ZjiMV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/N/Z5RqGzQAWQVNc7BW0ERA/vila-regina-valdenir-rosa.jpeg"
+    },
+    {
+      "titulo": "Após 6 anos, ex-PMs vão a júri acusados de executar garoto de 15 anos em SP",
+      "imagem": "https://s2-g1.glbimg.com/AWCk3R6-_dWjrd4dr6wOkmagiPA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/M/DAGRNsT8uKe1Ozrx3QAA/fotojet-24-.jpg"
+    },
+    {
+      "titulo": "Em corrida ao Planalto, Lula eleva o tom contra emendas do Congresso e Flávio intensifica críticas ao STF",
+      "imagem": "https://s2-g1.glbimg.com/XxjE3s0Ev-5sCrtRWVy84GYXP4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/q/zHlbqEQSCPMS7Hsh1dXQ/g1-14-.jpg"
+    },
+    {
+      "titulo": "Estudante morta na casa do namorado em SC sonhava com 'mochilão' pelo mundo e voluntariado na África",
+      "imagem": "https://s2-g1.glbimg.com/JFRESGPuO45zQmDBJDC-f-h0unA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/f/pTeTxvRtWm5w9G3AhAwQ/joviana-1.jpeg"
+    },
+    {
+      "titulo": "Gangorra no tempo: frio vai dar lugar a calor no Sudeste; Sul vai voltar a ter temporais nesta semana",
+      "imagem": "https://s2-g1.glbimg.com/bQcZFxnpg4iajKNR3GaTAVG1rsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/7/o7omUEQ2AkWaMN5FgPHw/rua20260114005.jpg"
+    },
+    {
+      "titulo": "Investimento em saneamento básico bate recorde em 2024, mas Brasil ainda enfrenta desafios para universalizar acesso, diz entidade",
+      "imagem": "https://s2-g1.glbimg.com/fvBRBn9ietl2HS3bSlIklXQ6BYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/T/r5NdFASU6hw4vudfw9tg/captura-de-tela-2026-01-04-225255.png"
+    },
+    {
+      "titulo": "Mega-Sena pode pagar prêmio de R$ 3,5 milhões nesta terça-feira; acompanhe ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/ta-_PCbXeOCvNKWb9Sx3SZHdMBI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/5/MJd3u6SCGT2G7x4M0U5A/captura-de-tela-2026-07-16-205336.png"
+    },
+    {
+      "titulo": "Eclipse solar total de amanhã vai cruzar a Europa; veja curiosidades sobre o fenômeno",
+      "imagem": "https://s2-g1.glbimg.com/x7CRzNTgrNVmgBA5Hf2XONVAamU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/O/3dTe4vRySvBHfX2fus9w/1dld.jpg"
+    },
+    {
+      "titulo": "Quaest: 20% dos eleitores afirmam que decidem voto para presidente na última semana",
+      "imagem": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+    },
+    {
+      "titulo": "Homem suspeito de matar fazendeiro teria cometido crime após ser flagrado furtando gado, diz delegado",
+      "imagem": "https://s2-g1.glbimg.com/FFeVYvqj3rhViO7A-ppVof-LebM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/x/Oa8rhOQqexeu8swJwJEQ/fazendeiro-morto-carbonizado-caminhonete.jpg"
+    },
+    {
+      "titulo": "Entenda suspeitas contra delegado preso por adulterar placa de Hilux na Bahia",
+      "imagem": "https://s2-g1.glbimg.com/ymW66r8wgXX4INVWS14BgY6rX0U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/m/o3kAEuQt21P99AM77TdA/foto-no-tamanho-home-2026-08-08t120337.596.jpg"
+    },
+    {
+      "titulo": "Gangorra do tempo na cidade de SP: terça tem frio e garoa, mas temperatura sobe e chega a 27ºC na quinta",
+      "imagem": "https://s2-g1.glbimg.com/GkSxafM18E8sEHHxJfiV_P_0WlM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/O/Lvg0uYR92zq3LDpSRhtw/54663005456-e35d4d6d90-k.jpg"
+    },
+    {
+      "titulo": "Equipe do Festival de Cinema de Brasília trabalha sem receber desde março; custo é de R$ 3 milhões",
+      "imagem": "https://s2-g1.glbimg.com/UbeduxsFPvCGLc7ylfpyV3E2rzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/X/2alnF9QmAV4HLK61rApw/crd-coletiva-cine-00002-frame-31098.jpeg"
+    },
+    {
+      "titulo": "Colômbia entra no 2º dia de buscas após terremoto de magnitude 7,4 que matou mais de 100 pessoas",
+      "imagem": "https://s2-g1.glbimg.com/E_E5S2Y4b_tkWx_ohZ7OI68lPsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/S/lMY0rdQgeqiUOD4n3fiw/2026-08-11t004144z-653449718-rc2zvmami219-rtrmadp-3-colombia-quake.jpg"
+    },
+    {
+      "titulo": "Mulher furta viatura da PM, foge dirigindo até município vizinho e é interceptada após bater com veículo no RJ",
+      "imagem": "https://s2-g1.glbimg.com/FZJfvQE53l-AkBMLXzTmGrkR6gI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/u/OqBMTkTfSAWmCLhGR5lA/mulher-furtou-viatura-da-pm-e-fugiu-ate-municipio-vizinho-quando-foi-interceptada-apos-bater-com-o-carro.png"
+    },
+    {
+      "titulo": "Chuva volta ao RS com chance de granizo e tempestades; confira previsão do tempo",
+      "imagem": "https://s2-g1.glbimg.com/bjS-rs3FH9Z5OkbqB1Xx3WG5Us8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/goCV3PTqm2oYwgPulptA/g1-9-.png"
+    },
+    {
       "titulo": "Ônibus pega fogo na rodovia Arthur Bernardes em Belém",
       "imagem": "https://s2-g1.glbimg.com/HqCGbXDVLhkWLEav1qI4_o971kg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/E/eDntBtS0A3Bt8P2B9Ycw/c31c1e8d-1f70-4c81-960b-fb069e207965.jpg"
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Fernando de Noronha celebra 523 anos com festa, música e homenagens",
       "imagem": "https://s2-g1.glbimg.com/SggesAajKH2O65oNNLE8L5YWZDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/v/P5XG5dR2Kpv5oiiZ7y5g/aniversario-de-noronha-26-1.jpg"
-    },
-    {
-      "titulo": "Quatro dias depois da passagem de ciclone, milhares de gaúchos ainda estão sem luz",
-      "imagem": "https://s2-g1.glbimg.com/66ALbKdcauc81vbvI22ic9xZ1BM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/z/iz2uKzSginhRPHar2e2A/globo-canal-4-20260810-2000-frame-74404.jpeg"
-    },
-    {
-      "titulo": "Escavadeira usada em garimpo ilegal é destruída em terra indígena de MT; veja vídeo",
-      "imagem": "https://s2-g1.glbimg.com/_pOvsuvTqRwwx-pcBpFw-C0gHUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/V/w9nFIhRFyaDQREJvuCRw/gif-escavadeira-1-.gif"
-    },
-    {
-      "titulo": "Moradores de Manaus sentem os efeitos do terremoto na Colômbia",
-      "imagem": "https://s2-g1.glbimg.com/oAW6KXv8fdKCuWYcs1qVJsJ1mTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/F/zGJmRaTVyLuOpzIeaaXg/globo-canal-4-20260810-2000-frame-71740.jpeg"
-    },
-    {
-      "titulo": "Quem são os candidatos ao governo de SP nas eleições de 2026?",
-      "imagem": "https://s2-g1.glbimg.com/DJemZXoTXHBigjkzoedySxaPjyg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Z/EGtypRTcWf9WyDjnVCUA/6983a6a8eb6528b778109e63.jpg"
-    },
-    {
-      "titulo": "SP2B reúne 2 mil palestrantes em 8 dias de programação",
-      "imagem": "https://s2-g1.glbimg.com/FrbVBWQHQjNP9I6y3l24p2mPNm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/9/0OD3EBRCez07MYXEbYwA/globo-canal-4-20260810-2000-frame-132483.jpeg"
-    },
-    {
-      "titulo": "Pai de crianças que sumiram em rio no Acre acompanha buscas: 'Quero encontrar meus filhos'",
-      "imagem": "https://s2-g1.glbimg.com/uoyULENE92lyLmZ1IRaI6DJk87o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/F/8CxXEeSnipjGaveM4RlQ/midia-de-distribuicao-g1-32-.png"
-    },
-    {
-      "titulo": "Rio Carnaval 2027: ingressos da venda geral esgotam após mais de 15 mil interessados",
-      "imagem": "https://s2-g1.glbimg.com/2TNVB7dsLuXAxcLIaxBBdxplfto=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/G/1s89slTHihgsVnCzy6YA/globo-canal-5-20250305-0000-frame-134275.jpeg"
-    },
-    {
-      "titulo": "Manaus registra dia mais quente do ano pelo 2º dia seguido, com máxima de 36,1°C",
-      "imagem": "https://s2-g1.glbimg.com/Dgl0jtw7keYqll95Xh7Gqrz2wng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/9/4/LxYsDfTL6dFwPPJBlIlw/sol-e-calor-em-manaus-foto-rede-amazonica.jpg"
-    },
-    {
-      "titulo": "Trump foi escondido em caminhão e fez voo secreto por ameaça do Irã, diz jornal",
-      "imagem": "https://s2-g1.glbimg.com/pCUi4-IRR0NhSznvmGvMpAlKPic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/uxsQG8TMSoDESZ4g60Tg/2026-08-02t205658z-1859483257-rc2kqma7gmv1-rtrmadp-3-usa-trump.jpg"
-    },
-    {
-      "titulo": "Caminhoneiro de SC preso há 26 dias em nevasca histórica na Argentina relata banho frio e refeições improvisadas: 'Aqui é imprevisível'",
-      "imagem": "https://s2-g1.glbimg.com/TCUOor2PKal4qrYHu_IcHr33Cg4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/q/1uLEdKQAC9KnINHQiBQw/nevasca-historica-deixa-caminhoneiro-de-sc-preso-ha-mais-de-20-dias-na-argentina-.png"
-    },
-    {
-      "titulo": "Resumão diário do JN: Terremoto na Colômbia deixa mais de cem mortos, e dezenas de prédios desabam; moradores do RS continuam sem luz quatro dias após passagem de ciclone",
-      "imagem": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
-    },
-    {
-      "titulo": "Super Sete hoje: resultado do concurso 884 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/uN8lM0XE_G7JCmwjkZzKMu11yjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/V/nfrCrFSkulRGSTBiykAg/volantes-super-sete.jpg"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
-    },
-    {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1268 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/18sBx6IMtyTKtfP2WuFLMPVKo-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/x/OBjj1cQzG0GieUSUIUBw/diadesorte-1268-ewuuj.jpeg"
-    },
-    {
-      "titulo": "Idoso de 82 anos morre após ataque de abelhas em Tomé-Açu, no PA",
-      "imagem": "https://s2-g1.glbimg.com/0wLL7I10IYddmhQKpbnxIjemnvQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/b/aOZpQiTBOHQFGCcKZRYg/abelhas1.jpg"
-    },
-    {
-      "titulo": "PF faz operação contra supostas irregularidades em aplicações milionárias da Previdência de Maceió no Banco Master",
-      "imagem": "https://s2-g1.glbimg.com/idKIcUqUqhSIGRypu2W1n9THGLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/O/03iUm5Qr6MJTBBwdlAbQ/globo-canal-4-20260810-2000-frame-118488.jpeg"
-    },
-    {
-      "titulo": "Quem são os candidatos ao Senado por SP nas eleições de 2026?",
-      "imagem": "https://s2-g1.glbimg.com/g9-2qhvELTe9iWGz1_gkfjg2aA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/k/UKlnWsS6O8SkQBcakoGg/foto-e-montagem-vertical-59-.png"
-    },
-    {
-      "titulo": "Lotomania hoje: resultado do concurso 2961 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/nzcvZ6JbTDp3ELmxWvcmlxQQtBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/4/Nucs9VRvKekOfGW93APw/lotomania-2961-ocsup.jpeg"
-    },
-    {
-      "titulo": "Dupla Sena hoje: resultado do concurso 2994 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/RKHKE4sVH2DAR9AzXGz-yIfV0KM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/Q/I1ph0pS8e2U4LJDhMjMw/duplasena-2994-uxejd.jpeg"
-    },
-    {
-      "titulo": "Lotofácil hoje: resultado do concurso 3758 e números sorteados; 8 apostas vencem e cada uma leva R$ 530 mil",
-      "imagem": "https://s2-g1.glbimg.com/vVih_3LsEj3iFmihQfwoXyVMuv0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/S/KwUWPFStq1gXyUFEa1gQ/lotofacil-3758-pidph.jpeg"
-    },
-    {
-      "titulo": "Quina hoje: resultado do concurso 7088 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/uJpXTx361XqpniKjse7DgPyN9DY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/1/a7UReAQpmrJfolvMmSXg/quina-7088-jbmel.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-11T02:19:05.366Z"
+  "atualizadoEm": "2026-08-11T03:59:04.744Z"
 }

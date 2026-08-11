@@ -1,6 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "Quem é Wesley Batista Filho, o próximo CEO global da JBS",
+      "imagem": null
+    },
+    {
+      "titulo": "\"Brasileiros não confiam nas urnas eletrônicas\", diz CEO do Instituto IDEIA",
+      "imagem": null
+    },
+    {
+      "titulo": "Estudante de direito é morta a tiros em SP; ex-namorado suspeito é preso",
+      "imagem": null
+    },
+    {
+      "titulo": "Um estratagema elaborado: Trump usou secretamente um jato militar para deixar a Turquia em meio a ameaças",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump prorroga permissão para navios estrangeiros transportarem commodities entre portos dos EUA",
+      "imagem": null
+    },
+    {
+      "titulo": "Mulher é presa após furtar viatura da PM e bater veículo durante fuga no RJ",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump diz que Fifa cometeria um 'erro terrível' se substituísse Infantino",
+      "imagem": null
+    },
+    {
       "titulo": "Reformado, Studio Museum reabre em Nova York como meca da arte negra mundial",
       "imagem": null
     },
@@ -21,35 +49,7 @@
       "imagem": null
     },
     {
-      "titulo": "BYD Song Pro 2027 roda com etanol e eletricidade em teste no interior paulista",
-      "imagem": null
-    },
-    {
-      "titulo": "Chinesa CFMoto lança Ibex 450 no Brasil com preço abaixo do previsto",
-      "imagem": null
-    },
-    {
-      "titulo": "Partidos criam regras contra candidatos ligados a facções após pressão do Ministério Público",
-      "imagem": null
-    },
-    {
-      "titulo": "Rio na eleição tenta fugir de intervenções, dependência federal e dos royalties",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasileiros e argentinos iniciam batalha para liderar lista de campeões da Libertadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Bom chinês à beira-mar, Chon Kou ainda é um enigma para muitos cariocas",
-      "imagem": null
-    },
-    {
-      "titulo": "Maior feira de ônibus do Brasil, Lat.Bus 2026 destaca elétricos e busca aquecer mercado",
-      "imagem": null
-    },
-    {
-      "titulo": "Citada por Haddad para criticar Smart Sampa, pensão alimentícia é bandeira de Lula",
+      "titulo": "'Collor foi o melhor chefe que eu já tive', diz Dorothea Werneck, 1ª e única mulher ministra do Trabalho",
       "imagem": null
     },
     {
@@ -61,5 +61,5 @@
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-11T02:19:03.537Z"
+  "atualizadoEm": "2026-08-11T03:59:03.105Z"
 }
