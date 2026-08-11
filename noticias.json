@@ -1,7 +1,91 @@
 {
   "noticias": [
     {
-      "titulo": "Colômbia relata saques após terremoto e cidade cumpre toque de recolher",
+      "titulo": "Mega-Sena: quanto rendem R$ 3,5 milhões na poupança, Tesouro Direto ou CDB",
+      "imagem": null
+    },
+    {
+      "titulo": "Número de brasileiros que trabalham e estudam bate recorde, aponta Pnad",
+      "imagem": null
+    },
+    {
+      "titulo": "Libertadores: veja quem os brasileiros podem enfrentar nas quartas de final",
+      "imagem": null
+    },
+    {
+      "titulo": "Taxa das blusinhas é maior ameaça eleitoral para Lula, afirma Think Policy",
+      "imagem": null
+    },
+    {
+      "titulo": "Estudiantes x Universidade Católica: onde assistir à Libertadores",
+      "imagem": null
+    },
+    {
+      "titulo": "Deportes Tolima x Independiente Del Valle: onde assistir à Libertadores",
+      "imagem": null
+    },
+    {
+      "titulo": "Fluminense x Independiente Rivadavia: onde assistir à Libertadores",
+      "imagem": null
+    },
+    {
+      "titulo": "Bolívar x São Paulo: horário e onde assistir ao jogo da Sul-Americana",
+      "imagem": null
+    },
+    {
+      "titulo": "Mega-Sena 3043: sorteio desta terça-feira (11) pode pagar R$ 3,5 milhões",
+      "imagem": null
+    },
+    {
+      "titulo": "Biodiesel é alternativa para soja brasileira reduzir dependência da China",
+      "imagem": null
+    },
+    {
+      "titulo": "Eclipse solar de 12 de agosto: saiba de onde será possível ver",
+      "imagem": null
+    },
+    {
+      "titulo": "Companheiros e ex-companheiros são 79,8% dos autores de feminicídio",
+      "imagem": null
+    },
+    {
+      "titulo": "Eclipse solar na quarta-feira: veja como os cientistas mapeiam a trajetória",
+      "imagem": null
+    },
+    {
+      "titulo": "OVNI circular sobrevoou Oriente Médio e foi perseguido pelos EUA em 2025",
+      "imagem": null
+    },
+    {
+      "titulo": "Pescador mergulha e encontra surpreende naufrágio com ânforas de 2 mil anos",
+      "imagem": null
+    },
+    {
+      "titulo": "Maioria dos brasileiros usam IA como confidente pessoal, diz pesquisa",
+      "imagem": null
+    },
+    {
+      "titulo": "Assistir muita televisão faz mal para o cérebro? Possivelmente",
+      "imagem": null
+    },
+    {
+      "titulo": "Líderes definem hoje pauta da Câmara para 1ª semana de esforço concentrado",
+      "imagem": null
+    },
+    {
+      "titulo": "Agente de IA invade sistema de academia para conseguir vaga, diz site",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise WW: Congresso volta com pauta refém do calendário eleitoral",
+      "imagem": null
+    },
+    {
+      "titulo": "Copa do Brasil pode ter clássicos estaduais nas quartas; veja cenários",
+      "imagem": null
+    },
+    {
+      "titulo": "Colômbia relata saques após terremoto e cidades cumprem toque de recolher",
       "imagem": null
     },
     {
@@ -35,91 +119,7 @@
     {
       "titulo": "Kelly Slater: &#8220;sabor de vingança&#8221; após vitória sobre Medina no Taiti",
       "imagem": null
-    },
-    {
-      "titulo": "Fórlan cogita convocar Suárez para seleção uruguaia",
-      "imagem": null
-    },
-    {
-      "titulo": "Jogo de Orlando Luz e Rafael Matos em Montreal é adiado pela chuva",
-      "imagem": null
-    },
-    {
-      "titulo": "JSL tem queda de 16,6% no lucro do 2º trimestre",
-      "imagem": null
-    },
-    {
-      "titulo": "Natura tem queda de 92% no lucro de operações continuadas do 2º trimestre",
-      "imagem": null
-    },
-    {
-      "titulo": "Associação cita preocupações com carga de trabalho dos tenistas",
-      "imagem": null
-    },
-    {
-      "titulo": "Barrera começa tratamento e fará novos exames após lesão no Botafogo",
-      "imagem": null
-    },
-    {
-      "titulo": "Anne Hathaway conta como maternidade a ajudou em novo filme; confira",
-      "imagem": null
-    },
-    {
-      "titulo": "Dono do Panathinaikos quer levar Nikola Jokic para a Grécia",
-      "imagem": null
-    },
-    {
-      "titulo": "Terremoto na Colômbia: 16 pessoas presas em teleférico são resgatadas",
-      "imagem": null
-    },
-    {
-      "titulo": "Charlles Evangelista deixa cargo de vice na chapa de Flávio Roscoe",
-      "imagem": null
-    },
-    {
-      "titulo": "Abel Ferreira explica lesão de Paulinho no Palmeiras",
-      "imagem": null
-    },
-    {
-      "titulo": "Paris Hilton usa boné “esposa-troféu” e curte passeio de iate na Itália",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávio Bolsonaro usará slogan &#8220;O Brasil vai vencer&#8221; na campanha ao Planalto",
-      "imagem": null
-    },
-    {
-      "titulo": "Número de mortos em terremoto sobe para 132, diz associação na Colômbia",
-      "imagem": null
-    },
-    {
-      "titulo": "China informa que cota para carne bovina do Brasil chega a 90%",
-      "imagem": null
-    },
-    {
-      "titulo": "Waack: Entorno da campanha de Lula espalha fábula de ajuste",
-      "imagem": null
-    },
-    {
-      "titulo": "Caixa Seguridade apresenta lucro de R$ 1,14 bilhão no 2º tri, alta de 9,5%",
-      "imagem": null
-    },
-    {
-      "titulo": "À CNN, Haddad defende “passar a limpo” investigação sobre Lulinha",
-      "imagem": null
-    },
-    {
-      "titulo": "“Marcou profundamente a todos”, diz brasileira sobre terremoto na Colômbia",
-      "imagem": null
-    },
-    {
-      "titulo": "Itaúsa tem lucro de R$ 4,3 bilhões no 2º trimestre",
-      "imagem": null
-    },
-    {
-      "titulo": "Voto por rejeição define escolha de quase 25% do eleitorado, aponta Nexus",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-11T06:05:50.538Z"
+  "atualizadoEm": "2026-08-11T07:35:43.870Z"
 }
