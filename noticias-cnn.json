@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Cérebro canino consegue perceber expressões faciais negativas diferentes",
+      "imagem": null
+    },
+    {
+      "titulo": "Forças dos EUA neutralizam navio de carga que seguia para porto do Irã",
+      "imagem": null
+    },
+    {
+      "titulo": "Exportações brasileiras aos EUA caem 12,2% no ano, aponta Amcham",
+      "imagem": null
+    },
+    {
+      "titulo": "Três em cada dez brasileiros investiram em eventos coreanos no último ano",
+      "imagem": null
+    },
+    {
+      "titulo": "Super Micro supera expectativas e registra lucro de US$ 1,8 bilhão",
+      "imagem": null
+    },
+    {
+      "titulo": "Moratória da soja volta à pauta do STF nesta quarta; relembre o histórico",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Harry Potter&#8221;: Nicholas Hoult é confirmado como Gilderoy Lockhart na série",
+      "imagem": null
+    },
+    {
+      "titulo": "Incêndio toma conta de prédio comercial em SP e bombeiros tentam controlar",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasileiros Orlando Luz e Rafa Matos vão à semifinal do Masters de Montreal",
+      "imagem": null
+    },
+    {
+      "titulo": "Conheça a aeronave utilizada por Trump em voo secreto após ameaça do Irã",
+      "imagem": null
+    },
+    {
+      "titulo": "Atriz de &#8220;The Office&#8221; revela diagnóstico de câncer de mama incurável",
+      "imagem": null
+    },
+    {
+      "titulo": "John Textor mostra otimismo sobre disputas judiciais e retorno ao Botafogo",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Equilibrium II&#8221;: conheça as referências da música &#8220;Okê&#8221;, de Anitta",
+      "imagem": null
+    },
+    {
+      "titulo": "Produtor aposta em ciclo de verão para produzir espumante no Rio de Janeiro",
+      "imagem": null
+    },
+    {
+      "titulo": "B3 registra lucro recorrente de R$ 1,4 bilhão no 2° tri, avanço de 8%",
+      "imagem": null
+    },
+    {
+      "titulo": "Inter tag: saiba os benefícios da cobrança automática de pedágio",
+      "imagem": null
+    },
+    {
+      "titulo": "Senado aprova PL que altera regras sobre o pagamento de custas judiciais",
+      "imagem": null
+    },
+    {
+      "titulo": "Tratamento para rastrear câncer colorretal será aplicado no SUS",
+      "imagem": null
+    },
+    {
+      "titulo": "Família e artistas se despedem de Anita Nobre em velório; veja fotos",
+      "imagem": null
+    },
+    {
+      "titulo": "Candidata do PSOL de TO declara R$ 2 bilhões em bens e partido admite erro",
+      "imagem": null
+    },
+    {
+      "titulo": "Copa do Brasil: chance dos três clássicos em sorteio era menor do que 1%",
+      "imagem": null
+    },
+    {
       "titulo": "Vasco anuncia oficialmente a contratação de Facundo Colidio; veja detalhes",
       "imagem": null
     },
@@ -29,97 +113,13 @@
       "imagem": null
     },
     {
+      "titulo": "Enjoei tem prejuízo de R$ 47,6 milhões no 2° trimestre",
+      "imagem": null
+    },
+    {
       "titulo": "Câmara adia votações previstas para esta terça após líder do PT passar mal",
-      "imagem": null
-    },
-    {
-      "titulo": "Estudante é encontrada morta dentro de quarto após dias desaparecida em SC",
-      "imagem": null
-    },
-    {
-      "titulo": "Google Fotos tem recurso de guarda-roupas virtual; veja como usar",
-      "imagem": null
-    },
-    {
-      "titulo": "Agosto dourado: implante de silicone não interfere na amamentação",
-      "imagem": null
-    },
-    {
-      "titulo": "PSG x Aston Villa: horário e onde assistir à final da Supercopa da Europa",
-      "imagem": null
-    },
-    {
-      "titulo": "Marina Sena participa de “confessionário” em show de Rosalía; veja",
-      "imagem": null
-    },
-    {
-      "titulo": "Maria Fernanda Cândido estrelará obra de diretor de &#8220;Lavoura Arcaica&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Festival Interlagos 2026 confirma 22 montadoras para edição; confira",
-      "imagem": null
-    },
-    {
-      "titulo": "GWM expande ecossistema de recarga e integra estradas ao app My GWM",
-      "imagem": null
-    },
-    {
-      "titulo": "CNJ também afasta juiz flagrado bebendo vinho durante julgamento",
-      "imagem": null
-    },
-    {
-      "titulo": "Vídeo mostra resgate de bebê dos escombros após terremoto na Colômbia",
-      "imagem": null
-    },
-    {
-      "titulo": "João Fonseca encara holandês na estreia do Masters de Cincinnati; veja",
-      "imagem": null
-    },
-    {
-      "titulo": "Jacob Elordi pode estrelar novo filme de Ari Aster, diz revista",
-      "imagem": null
-    },
-    {
-      "titulo": "O que é a Doutrina Monroe, citada em novo vídeo dos EUA?",
-      "imagem": null
-    },
-    {
-      "titulo": "Leonardo desabafa sobre filhos em show: &#8220;Eles não me ligam&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Congresso vai instalar comissão para analisar fim da &#8220;taxa das blusinhas&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Senado aprova licença de 121 dias para Eduardo Girão, vice de Romeu Zema",
-      "imagem": null
-    },
-    {
-      "titulo": "Tomorrowland Brasil 2027 anuncia venda de ingressos; saiba datas e valores",
-      "imagem": null
-    },
-    {
-      "titulo": "PagBank regista lucro de R$ 576 milhões no 2° trimestre, alta de 1,9%",
-      "imagem": null
-    },
-    {
-      "titulo": "Soja recua 0,91% em Chicago antes de relatório de oferta e demanda do USDA",
-      "imagem": null
-    },
-    {
-      "titulo": "Fluminense x Ind. Rivadavia: escalações e onde assistir à Copa Libertadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Ídolo do Corinthians comenta fim de era Memphis: &#8220;Não dá pra fazer loucura&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Por que Georgina e Cristiano Ronaldo demoraram 10 anos para se casar?",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-11T22:03:29.737Z"
+  "atualizadoEm": "2026-08-11T23:01:50.630Z"
 }
