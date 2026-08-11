@@ -1,6 +1,94 @@
 {
   "noticias": [
     {
+      "titulo": "Grávida, Anne Hathaway reage aos boatos de barriga falsa; assista",
+      "imagem": null
+    },
+    {
+      "titulo": "Papa Leão XIV expressa &#8220;profunda tristeza&#8221; após terremoto na Colômbia",
+      "imagem": null
+    },
+    {
+      "titulo": "Leticia Colin &#8220;vive&#8221; drama de &#8220;Quem Ama Cuida&#8221; ao vivo em show de Rosalía",
+      "imagem": null
+    },
+    {
+      "titulo": "Acusado de homofobia, Ratinho declara: &#8220;Nunca desrespeitei ninguém&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Cruzeiro esgota ingressos para duelo contra o Flamengo na Libertadores",
+      "imagem": null
+    },
+    {
+      "titulo": "Intel amplia oferta de ações ordinárias para US$ 20 bilhões",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Homem-Aranha: Um Novo Dia&#8221; arrecada US$ 1,6 bilhão em 12 dias",
+      "imagem": null
+    },
+    {
+      "titulo": "Obras da Sabesp paralisam abastecimento de água na zona Sul de SP",
+      "imagem": null
+    },
+    {
+      "titulo": "TSE buscará consenso antes de julgar IA de Bolsonaro",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula não vê vantagem em OCDE enquanto rivais prometem ingressar no &#8220;clube&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Professor é ferido com faca por aluno durante aula na zona Norte do RJ",
+      "imagem": null
+    },
+    {
+      "titulo": "BTG Pactual tem lucro líquido ajustado de R$ 5,1 bi no 2º trimestre",
+      "imagem": null
+    },
+    {
+      "titulo": "Operação mira atuação de crime organizado nas eleições de Sobral (CE)",
+      "imagem": null
+    },
+    {
+      "titulo": "Vídeo mostra funcionário em esquema de fraude contra rede de gás no RJ",
+      "imagem": null
+    },
+    {
+      "titulo": "Copa do Brasil: quando serão os jogos das quartas de final?",
+      "imagem": null
+    },
+    {
+      "titulo": "CGOB: o certificado que inaugura uma nova etapa para o biometano no Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Documentação incompleta trava empréstimo do FGC ao Banco de Brasília",
+      "imagem": null
+    },
+    {
+      "titulo": "Xamã anuncia cancelamento de turnê e lamenta: &#8220;Era um sonho&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Dólar ronda estabilidade com ata do Copom e IPCA em destaque",
+      "imagem": null
+    },
+    {
+      "titulo": "De Cannes para o Brasil, &#8220;Tigre de Papel&#8221; ganha teaser e data de estreia",
+      "imagem": null
+    },
+    {
+      "titulo": "Regra do Brexit impede joia do Liverpool de jogar; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Brad Pitt ironiza quedas de Neymar em campo: &#8220;Precisa de ajuda&#8221;",
+      "imagem": null
+    },
+    {
       "titulo": "Operação bloqueia R$ 38 mi de grupo suspeito por venda de armas na Bahia",
       "imagem": null
     },
@@ -17,7 +105,7 @@
       "imagem": null
     },
     {
-      "titulo": "Chega a 175 o número de mortos na Colômbia após terremoto de magnitude 7,4",
+      "titulo": "Chega a 179 o número de mortos na Colômbia após terremoto de magnitude 7,4",
       "imagem": null
     },
     {
@@ -31,95 +119,7 @@
     {
       "titulo": "Luana Piovani tem vídeo nua na praia banido, reposta e reage: &#8220;Biscoitando&#8221;",
       "imagem": null
-    },
-    {
-      "titulo": "Inflação sobe 0,07% em julho com alívio nos preços dos alimentos",
-      "imagem": null
-    },
-    {
-      "titulo": "Alpinista que fez escalada recorde morre aos 30 anos nos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Justiça manda Garotinho cumprir sentença que suspende direitos políticos",
-      "imagem": null
-    },
-    {
-      "titulo": "Bolsas da Ásia fecham mistas com impasse sobre reabertura de Ormuz",
-      "imagem": null
-    },
-    {
-      "titulo": "Meninas mortas pelo próprio pai serão sepultadas nesta terça (11) em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Angelina Jolie quer dar respostas e cura de traumas em novo filme; conheça",
-      "imagem": null
-    },
-    {
-      "titulo": "Diocese de SP anuncia excomunhão de padre ligado a grupo conservador",
-      "imagem": null
-    },
-    {
-      "titulo": "Foguete chinês com satélite explode segundos após lançamento; veja vídeo",
-      "imagem": null
-    },
-    {
-      "titulo": "Pai e filha em &#8220;Quem Ama Cuida&#8221;, Tony Ramos e Isabela Garcia já foram casal",
-      "imagem": null
-    },
-    {
-      "titulo": "Campeão do UFC participa de treino no lago ao lado de Mark Zuckerberg",
-      "imagem": null
-    },
-    {
-      "titulo": "BC vê recuo da inflação, mas alerta para choques de oferta com petróleo",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Lei Vini Jr.&#8221; e mais oito: conheça as novas regras aprovadas pela CBF",
-      "imagem": null
-    },
-    {
-      "titulo": "Organizada do Palmeiras volta a pedir saída de Abel: &#8220;A paciência acabou&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Tropa de Elite 2&#8221; é eleito uma das 100 melhores sequências do cinema",
-      "imagem": null
-    },
-    {
-      "titulo": "Estudante de direito é morta a tiros em SP; ex é preso suspeito do crime",
-      "imagem": null
-    },
-    {
-      "titulo": "Gerp: governo Lula é desaprovado por 53% dos brasileiros; 43% aprovam",
-      "imagem": null
-    },
-    {
-      "titulo": "Gerp: Lula é rejeitado por 48% dos eleitores; Flávio, por 44%",
-      "imagem": null
-    },
-    {
-      "titulo": "Gerp: Lula e Flávio empatam com 38% das intenções de voto no 1º turno",
-      "imagem": null
-    },
-    {
-      "titulo": "Gerp: Flávio tem 45% das intenções de voto no 2º turno; Lula, 43%",
-      "imagem": null
-    },
-    {
-      "titulo": "Ausência de Neymar derruba aproveitamento do Santos; veja números",
-      "imagem": null
-    },
-    {
-      "titulo": "Grupo colombiano é responsável por roubar casas de jogadores na Europa",
-      "imagem": null
-    },
-    {
-      "titulo": "Pacientes de hospital são atendidos na rua após terremoto na Colômbia",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-11T12:24:23.475Z"
+  "atualizadoEm": "2026-08-11T13:52:37.512Z"
 }
