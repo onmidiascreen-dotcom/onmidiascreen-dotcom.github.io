@@ -1,7 +1,39 @@
 {
   "noticias": [
     {
+      "titulo": "Planalto descarta 'medida de força' dos EUA contra Lula, mas prevê pressão",
+      "imagem": null
+    },
+    {
+      "titulo": "Ao evitar debate, Lula tenta transferir alvo para as costas de Flávio",
+      "imagem": null
+    },
+    {
+      "titulo": "Maceió usou propaganda do Master para justificar aporte de R$ 97 mi, diz PF",
+      "imagem": null
+    },
+    {
+      "titulo": "Pesquisa: Metade dos eleitores sem religião saturou da polarização política",
+      "imagem": null
+    },
+    {
+      "titulo": "De onça-pintada a bem-te-vi, inverno muda comportamento da fauna brasileira",
+      "imagem": null
+    },
+    {
+      "titulo": "Frio deve seguir até quarta (12) em São Paulo; quinta (13) volta a esquentar",
+      "imagem": null
+    },
+    {
       "titulo": "Após fala homofóbica no SBT, Ratinho diz que nunca desrespeitou ninguém",
+      "imagem": null
+    },
+    {
+      "titulo": "Maior aptidão cardiorrespiratória está relacionada a menor risco de depressão e demência",
+      "imagem": null
+    },
+    {
+      "titulo": "É preciso combater 'vulgarização' da internet, diz novo presidente da Igreja Presbiteriana",
       "imagem": null
     },
     {
@@ -10,10 +42,6 @@
     },
     {
       "titulo": "Laila Garin encarna Édith Piaf e suas contradições em novo musical biográfico",
-      "imagem": null
-    },
-    {
-      "titulo": "É preciso combater 'vulgarização' da internet, diz novo presidente da Igreja Presbiteriana",
       "imagem": null
     },
     {
@@ -31,35 +59,7 @@
     {
       "titulo": "Liquidante do Banco Master amplia cerco a bens de Vorcaro nos EUA",
       "imagem": null
-    },
-    {
-      "titulo": "Hospedagem de curta duração e Simples Nacional",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasil corre para ampliar medicina de desastres e fazer frente às mudanças climáticas e ao El Niño",
-      "imagem": null
-    },
-    {
-      "titulo": "Maior aptidão cardiorrespiratória está relacionada a menor risco de depressão e demência",
-      "imagem": null
-    },
-    {
-      "titulo": "Juiz determina que Garotinho cumpra sentença que o deixa inelegível",
-      "imagem": null
-    },
-    {
-      "titulo": "Juiz determina que Garotinho cumpra sentença que o deixa inelegível",
-      "imagem": null
-    },
-    {
-      "titulo": "Rosalía faz show sensorial e diz realizar um sonho no Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem é Wesley Batista Filho, o próximo CEO global da JBS",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-11T07:35:43.648Z"
+  "atualizadoEm": "2026-08-11T08:36:36.278Z"
 }
