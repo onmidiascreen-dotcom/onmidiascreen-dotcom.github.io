@@ -1,6 +1,54 @@
 {
   "noticias": [
     {
+      "titulo": "Além das praias: agropecuária movimenta R$ 141,6 milhões na Baixada Santista",
+      "imagem": "https://s2-g1.glbimg.com/JQgtV3rRwpyrVzWtZTeU3g9qTx4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/c/dpPOhuQKuYLpJUE7j3yA/edig1-2026-08-11t180736.626.png"
+    },
+    {
+      "titulo": "Homem que usou arma de airsoft para ameaçar ex após o término vira réu: 'Cuidado. Até amanhã'",
+      "imagem": "https://s2-g1.glbimg.com/J2b5vaHWv2ZfwSXTWFAKev-YTkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/M/krXR9LRV6JMCodpJVc5A/edig1-2026-08-11t202155.887.png"
+    },
+    {
+      "titulo": "Tocha olímpica da Rio 2016 é achada em caixa de papelão no litoral de SP",
+      "imagem": "https://s2-g1.glbimg.com/edZZCFbLOSzCIC4ePdZEUQfnMIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/Y/rXbnkXS42wDF4NPDiN6g/recupera-tocha.jpg"
+    },
+    {
+      "titulo": "Osesp faz concerto com trilhas de grandes filmes brasileiros: 'O Auto da Compadecida', 'Carandiru' e 'O Agente Secreto' estão na lista",
+      "imagem": "https://s2-g1.glbimg.com/DpqjYfHMOjoJsdUK55CSg-0npbw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/9/XSDJwCRF6PAROnWilIRQ/fotojet-91-.jpg"
+    },
+    {
+      "titulo": "Trocar um carro a combustão ainda novo por um elétrico é melhor para o clima? Estudo avaliou impacto",
+      "imagem": "https://s2-g1.glbimg.com/qD55nfwThgTncyTlctSfbft6uUk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/m/PCkSoYTYuowdRMcdXrXA/pexels-04iraq-1272398525-35736766.jpg"
+    },
+    {
+      "titulo": "Formiga africana vira ‘pet’ na Europa e contrabando cresce; veja VÍDEO",
+      "imagem": null
+    },
+    {
+      "titulo": "Como estoques recordes e avanço do agro brasileiro podem reduzir impacto do 'super El Niño' no mundo",
+      "imagem": "https://s2-g1.glbimg.com/FSiEJtARbCLm5GgWoNzuqJf73yM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/FW33AlQJqhKPxVjHpYww/whatsapp-image-2026-04-30-at-15.28.44-1-.jpeg"
+    },
+    {
+      "titulo": "Allyson Bezerra declara R$ 748,9 mil em bens ao TSE; Hermano Morais informa R$ 1,73 milhão",
+      "imagem": "https://s2-g1.glbimg.com/6tfitnhes-OpzOymlZNpDDSHb9E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Z/25eKMbRJGsbtAEr0jhtQ/whatsapp-image-2026-07-20-at-15.40.37.jpeg"
+    },
+    {
+      "titulo": "Arara branca surpreende clientes e vira atração em lanchonete de MS: “Nunca vi algo assim”",
+      "imagem": "https://s2-g1.glbimg.com/fGalYGpveqg0i8d8B-BGDdaZ2fU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/P/7Izom8RUG00ZZtXegxTw/1200-x-800-19-.jpg"
+    },
+    {
+      "titulo": "Quando a violência contra a mulher atinge quem ela ama: o que é vicaricídio?",
+      "imagem": "https://s2-g1.glbimg.com/UATDDs_VwHY3FG4eoqWfcQBbc6A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/r/refmAHTLOffT9ue7KaCQ/fotojet-2026-08-11t183010.759.jpg"
+    },
+    {
+      "titulo": "É #FAKE que eleições de 2026 terão novo modelo de urna eletrônica",
+      "imagem": "https://s2-g1.glbimg.com/BlG77QXhNq-kfd3QBHNEX9rzvOE=/s.glbimg.com/jo/g1/f/original/2016/09/21/20160921_093422.jpg"
+    },
+    {
+      "titulo": "Transpetro publica edital de concurso com 4.171 vagas e salários de até R$ 15 mil; veja como participar",
+      "imagem": "https://s2-g1.glbimg.com/kfIHgxK0IL58HHStnkFjdxhVjig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/D/9tLWljSwWbmpUQU6WvbQ/up-clb-trabalhadores-transpetroclb-trabalhadores-transpetro-c391-22012025-frame-328.jpeg"
+    },
+    {
       "titulo": "Defesa do Consumidor do ES propõe à Fazenda que bets mostrem risco de perda para apostadores",
       "imagem": "https://s2-g1.glbimg.com/1Z4PpB7sq90u0DfmooVLfOp0gzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/j/A15LXkRK2IA5i4CCV7AA/thumb-fotos-2026-08-10t130151.958.jpg"
     },
@@ -71,55 +119,7 @@
     {
       "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
       "imagem": "https://s2-g1.glbimg.com/C2Cp3Dcqo4mVId_JyYAIVZJ9vwI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Z/cxYDcpRrSe1Cfr1zKb4g/previsao-tempo-osasco-20260812-030531.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/14nFkMZnyTeVWID2xDJ58G61wkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/p/pAK9dARvaTngUJUACn9Q/previsao-tempo-guarulhos-20260812-030515.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/Oylnbw5u8DXjaMJVK5bdtM1YRyg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/w/4ZDXFtSi2qewCT7k4vqA/previsao-tempo-s-o-gon-alo-20260812-030459.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/F-4QeO9pHJbONOC5kbruHhgPXFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/7/kB2c4WSmKzyrmiC8bzQA/previsao-tempo-rio-de-janeiro-20260812-030437.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/mn7EiWN7R7PkyFwkwMVUa0Pl6Y0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/q/wK4GAuQWW6C8hyT1RxHg/previsao-tempo-nova-igua-u-20260812-030422.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/QxUd1sBFTJJJdxNYQrwNTOrBvRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/4/pnBsgGRqqjFFzOCtk03w/previsao-tempo-niter-i-20260812-030407.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/qLTJqf5uxx7ZdB7g2Cfq4q9kcJo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/y/BdmmsoQQWOyMyLK4SRmg/previsao-tempo-duque-de-caxias-20260812-030351.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/T3h5h8-dG4klOmFRPPpYdbo-7w0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/J/GVONbcTdSgpmRUlgoCIw/previsao-tempo-sete-lagoas-20260812-030332.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/Z_tDRWHY5kCjTI6F00YLYgjJ12g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/X/V5ScycTX6K5O7DC5eQxA/previsao-tempo-ribeir-o-das-neves-20260812-030308.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Contagem (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/XVC3NJrXkgLYFcIZ5KLQtFo_ukI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/o/zHY4wzTxGCbBvsbf6SAQ/previsao-tempo-contagem-20260812-030250.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Betim (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/47lCN5PE_dAOPGaAm8uyojMA-fM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/y/qSm9kmQNWaIN3rkcFIAA/previsao-tempo-betim-20260812-030233.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/ryBpVahU2mbcIuTKgDNVx9TZXGc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/LoE91NRGG7fpHKS9n55Q/previsao-tempo-belo-horizonte-20260812-030216.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/-aJMVbFnFhvVwFj3GzU1AzOIxmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/r/b11iw2QBuA32FyAI5ntw/previsao-tempo-recife-20260812-030159.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-12T07:18:54.449Z"
+  "atualizadoEm": "2026-08-12T08:46:03.244Z"
 }
