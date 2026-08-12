@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "'Não confio no Irã': Trump confirma que trocou de avião secretamente",
+      "imagem": null
+    },
+    {
       "titulo": "Líder do PT na Câmara está consciente após sofre AVC isquêmico em reunião",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Denunciante de suposta armação acumula mudanças de versão sobre vice de Flávio Bolsonaro",
       "imagem": null
-    },
-    {
-      "titulo": "Polícia da Bolívia intercepta ônibus com maconha destinado ao São Paulo",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-12T04:22:01.635Z"
+  "atualizadoEm": "2026-08-12T05:53:26.803Z"
 }
