@@ -1,80 +1,32 @@
 {
   "noticias": [
     {
-      "titulo": "Fraudes no INSS: PF prende foragido da Operação Sem Desconto",
+      "titulo": "Assista ao EPTV1",
+      "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
+    },
+    {
+      "titulo": "Carro de Câmara levado por enchente é encontrado quase cinco anos depois soterrado em cidade da Bahia",
+      "imagem": "https://s2-g1.glbimg.com/KLTnhNUW5DI-H9q1AIkGFhi5WCE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/B/uItB9kTBifXCMDV7PnKg/edimilsson-2026-08-13t081555.941.png"
+    },
+    {
+      "titulo": "PF mira grupo suspeito de desviar R$ 180 milhões de instituição financeira alemã",
       "imagem": null
     },
     {
-      "titulo": "Suspeito de furtos é conduzido no Sudeste do Piauí; drogas e arma de choque apreendidas",
-      "imagem": "https://s2-g1.glbimg.com/j4O7KmTdcFidz1hW1pCv3pu49xI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/p/cxdW1PSxKAhfY5UUXykQ/edicao-imagens-g1-95-.png"
+      "titulo": "Foragido da Justiça por estupro de vulnerável é preso na Via Dutra, em Itatiaia",
+      "imagem": "https://s2-g1.glbimg.com/8FgJRD0ZqdjOwpuYynMKOxfaJ8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/3/1fpp3FQF2yD7S6ISWm2A/whatsapp-image-2026-08-13-at-08.17.04-2-.jpeg"
     },
     {
-      "titulo": "Falso advogado: quadrilha que aplicou golpe de R$ 150 mil em idosa no RS é alvo de operação no Ceará",
-      "imagem": "https://s2-g1.glbimg.com/aGixUdrqV9TEYrFOgxcrtKT5QCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/Z/Vlfe4RQveg2hBMenAceg/g1-24-.jpg"
+      "titulo": "Três anos após viralizar com foto de Ítalo Ferreira, fotógrafo faz novos registros do eclipse; veja FOTOS",
+      "imagem": "https://s2-g1.glbimg.com/NyRZDBEH1EoHVXVluk9LbjU2gBg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/d/W9zZNkQsadndKHyBGzBw/mm-260812-eclipse-9797.jpg"
     },
     {
-      "titulo": "Travis Kelce faz primeiras revelações sobre casamento com Taylor Swift: 'Melhor noite da minha vida'",
-      "imagem": "https://s2-g1.glbimg.com/-gC7oRdDYVp0hD2aGwTCAaQVf8E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/n/mqv1hcRx2KEgWnVOnXvA/taylor.jpg"
-    },
-    {
-      "titulo": "Canabidiol pelo SUS: Deputados derrubam veto a fornecimento gratuito no Amazonas",
-      "imagem": "https://s2-g1.glbimg.com/ne-76sUc9CyFI36jBMIrvbpXijg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/K/7RPDkcQBGa5FiKPPB8Bg/design-sem-nome-52-.png"
-    },
-    {
-      "titulo": "Operação investiga suposto esquema de fraudes em licitações, desvio de verbas, corrupção e lavagem de dinheiro no interior da Bahia",
+      "titulo": "Explosão é registrada em porto de Roterdam, na Holanda, e uma pessoa morre",
       "imagem": null
     },
     {
-      "titulo": "Com alerta laranja, SC pode registrar tempestade severa e ventos de até 100 km/h",
-      "imagem": "https://s2-g1.glbimg.com/U5KHpf6mKSx9a-F7PRUQZAQe5_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/A/8oZnhHRHeAWsJWh0MVOQ/12072023-dsc00609-2048x1366.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Bom Dia PE de quarta-feira, 13 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/g1j1u-ApBL6uRom6JERDORM5BoM=/s01.video.glbimg.com/deo/vi/12/44/14864412"
-    },
-    {
-      "titulo": "VÍDEOS: Bom Dia Tocantins, de 13 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/pVeMPl8NfMUOpEeAbxxwJgP7fSs=/s01.video.glbimg.com/deo/vi/23/44/14864423"
-    },
-    {
-      "titulo": "Agressão entre alunos em colégio do Corpo de Bombeiros leva a exoneração de militar em Brasília",
-      "imagem": "https://s2-g1.glbimg.com/SwIvYiDRthqZwSJL3UTVvTYhDlE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/N/N/cqe1AcRtAbXuXgTzQC8w/whatsapp-image-2023-01-23-at-18.58.47.jpeg"
-    },
-    {
-      "titulo": "Trump anuncia saída de Karoline Leavitt do cargo de porta-voz da Casa Branca",
-      "imagem": "https://s2-g1.glbimg.com/HzzqYgUaD-C27b7A8AjHz2j8Ik8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/b/kv66l7TnCnnsEgYoYBeg/2026-07-23t154955z-803584624-rc2rjmabtblx-rtrmadp-3-usa-trump.jpg"
-    },
-    {
-      "titulo": "13ª Mostra de Referências Teatrais começa nesta quinta em Suzano",
-      "imagem": "https://s2-g1.glbimg.com/zDXwFXsKF3R2XfhfCzFjxLDeuXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/u/l3UvKAQ2OpdYqA1a7oIQ/2-divulga-o-uo-5.jpeg"
-    },
-    {
-      "titulo": "Suspeito apontado como gerente do tráfico é preso com mais de 2 kg de drogas em Paraty",
-      "imagem": "https://s2-g1.glbimg.com/od0aqU3cA1XJs1nfpw4H-_S9OzU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/S/99lGT1RGuBbX1j6DZu5g/whatsapp-image-2026-08-13-at-07.02.32.jpeg"
-    },
-    {
-      "titulo": "Assista ao Bom Dia Vanguarda ao vivo no g1",
-      "imagem": "https://s2-g1.glbimg.com/eNmYHfknzzliwQJLsNi8qyf2BDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/r/qhMVONTJuDaQtelrYKjA/a64b4644-73da-40c5-b2f0-17b0321381f0.jpg"
-    },
-    {
-      "titulo": "Cebola e frango puxam preço da cesta básica em Piracicaba e custo chega a R$ 1,4 mil; veja 'vilões' e 'mocinhos' do prato",
-      "imagem": "https://s2-g1.glbimg.com/eqFwdgs7X4syMgDlmFf8JDiQSG4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/W/K8VtCpRKC1Q4mqDby1BA/copia-de-design-sem-nome.jpg"
-    },
-    {
-      "titulo": "Operação contra expansão do CV prende 4 no Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/ljvzJUA7VmcSnKf-wF98aSAvud8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/p/8nYBGfSNqvxhXfo6c3iA/montagens-1920-x-1080-px-2026-08-13t074313.312.png"
-    },
-    {
-      "titulo": "Carro com registro de roubo é recuperado em Volta Redonda",
-      "imagem": "https://s2-g1.glbimg.com/bQYJ7cXsz4Vbc7j2cZXQ5PV_yH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/M/yL3lu4Ri27BaDjvUqwFA/whatsapp-image-2026-08-13-at-06.48.44-1-.jpeg"
-    },
-    {
-      "titulo": "Presos 3 suspeitos de usar nome da Unicef para arrecadar falsas doações",
-      "imagem": "https://s2-g1.glbimg.com/mLJ1y42l6MPLjG7O2S322AahdQo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/x/uR2BSlSxC6RVCa7MgUUw/imagens-g1-2026-08-13t071837.542.png"
-    },
-    {
-      "titulo": "MPRJ mira plataformas ilegais de apostas on-line que movimentaram R$ 1,4 bi em 4 anos",
-      "imagem": "https://s2-g1.glbimg.com/JlSgq0qfzlfAdFNs0-L5LQWEhls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/v/eyzXM7T0CS07tBXfREBg/13aposta1.jpeg"
+      "titulo": "Foragido por homicídio cometido em Coronel Fabriciano é preso pela PF em Portugal",
+      "imagem": "https://s2-g1.glbimg.com/lA74BO7CKSycfWgpYFDYYpNMmdA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/K/23FzBZSAKerkIyjioXaA/policia-federal-2.jpg"
     },
     {
       "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
@@ -82,10 +34,6 @@
     },
     {
       "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "VÍDEO: Agente do ICE aponta arma para mulher nos EUA",
       "imagem": null
     },
     {
@@ -97,29 +45,81 @@
       "imagem": null
     },
     {
-      "titulo": "Polícia encontra quase 9,5 kg de cocaína escondidos em tonel enterrado em Aparecida",
-      "imagem": "https://s2-g1.glbimg.com/iWjbQOTiJVzEan1To89smWMoodg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/s/eeAWIKQxiDa3Z2r2GwlQ/texto-do-seu-paragrafo-2026-08-13t073830.919.png"
+      "titulo": "Planetário do Pará retoma atendimento ao público; saiba como visitar",
+      "imagem": "https://s2-g1.glbimg.com/nIbqw_EVUBx5nBTIvXisIAXxdKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/n/L/FskK34RAam2R08QDNZig/planetario.jpg"
     },
     {
-      "titulo": "Prejuízo da Americanas quase triplica no 2º trimestre para R$ 274 milhões",
-      "imagem": "https://s2-g1.glbimg.com/4IG-veu1XWSrheIAsU7RWbOw2_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/m/j/Yyd6iURFC27KBmNzNpJw/whatsapp-image-2023-11-24-at-07.30.15.jpeg"
+      "titulo": "Torcedores do Inter são presos por tentativa de homicídio contra gremista antes de Grenal; VÍDEO mostra agressão",
+      "imagem": "https://s2-g1.glbimg.com/rMruNi5lXiNm7E81iTTlBP0b5g8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/H/fWZdulSLOFMFzrHeAeaA/g1-2026-08-13t083856.617.jpg"
     },
     {
-      "titulo": "Da tradição oral à virtual: grupos e perfis nas redes sociais mantêm vivas histórias de bairros e personagens de Sorocaba",
-      "imagem": "https://s2-g1.glbimg.com/CS664h-xwTTejHqthXfillJODhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/O/CLeyN2QxSRRhf6eIVBYQ/print-feed-sorocaba-antiga.jpg.jpeg"
+      "titulo": "VÍDEOS: Bom Dia Goiás desta sexta-feira, 13 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/jGE7142lQUfvksZN225y7Tltz10=/s01.video.glbimg.com/deo/vi/82/44/14864482"
     },
     {
-      "titulo": "MP e Receita Federal miram grupo por exploração de jogos de azar e apostas na Paraíba e mais quatro estados",
-      "imagem": "https://s2-g1.glbimg.com/dA0UFwJ12Vd-UeWCl3hJcrX1zSQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/W/pFGsbpTgGfqdTIHMx3zA/whatsapp-image-2026-08-13-at-07.43.15.jpeg"
+      "titulo": "Homem que matou ex após ela terminar relacionamento é condenado a 29 anos de prisão no Paraná",
+      "imagem": "https://s2-g1.glbimg.com/fYalV7ih07B9wT1LsTgFnyKNk50=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/K/dfGJYXT3aYaFrM21ZsPA/g1-pr-48-.png"
     },
     {
-      "titulo": "Bom Dia Cidade Piracicaba ao vivo",
-      "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
+      "titulo": "Carreta carregada de alumínio tomba na rodovia Anchieta, SP",
+      "imagem": "https://s2-g1.glbimg.com/vjVqNbyFRHzRllQcNZhLdrNu_Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/F/mvbsgBSgKthRNVb32URQ/acidente-carreta-2-.jpg"
     },
     {
-      "titulo": "VÍDEO: homem tenta roubar casa de PM, acaba baleado e foge mancando em Mesquita",
-      "imagem": "https://s2-g1.glbimg.com/EBxnGRGAuqH2N4YkxA9kBctzgRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Z/ohmjQxTdCsKiqHLUhMtg/casa-pm.jpeg"
+      "titulo": "Sucatas são alvo de operação da Polícia Civil em Teresina; apreensão de cobre",
+      "imagem": "https://s2-g1.glbimg.com/t68Uhj-tD1RnvoONu9I0q3wW94w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/N/ggK3cDTYKgQlHWNh297g/edicao-imagens-g1-96-.png"
+    },
+    {
+      "titulo": "Menino atingido em operação na Mangueira perde a visão do olho atingido, diz tia",
+      "imagem": "https://s2-g1.glbimg.com/mGr6Hg5Fsuza_73ivCGsWvaNBYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/5/f5IBK4QxKNuRpE3zvFqA/13menino1a.jpg"
+    },
+    {
+      "titulo": "Assista ao Bom Dia ES",
+      "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "Adolescente é apreendido suspeito de matar jovem a tiros após discussão por ex-namorada no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/YBNMTgrqPP0vFCSV9a6HzH4MhnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/o/D/T9MKsDS8uQAuaCb6otFw/whatsapp-image-2021-05-17-at-09.37.13.jpeg"
+    },
+    {
+      "titulo": "Condenado a 14 anos de prisão por estupro de vulnerável é preso em Angra dos Reis",
+      "imagem": "https://s2-g1.glbimg.com/0x9p5qPaf0thCXTbjLJiZWeKxJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/A/FcpfEQQsuIgIlmW7RBww/image-1-.jpg"
+    },
+    {
+      "titulo": "Policial militar baleado em troca de tiros morre, na Grande João Pessoa",
+      "imagem": "https://s2-g1.glbimg.com/OIaMR3aFe7hq5MOXQIyq-qI9sHA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/H/n8Pz2yR7CSKBbzqlBUGg/tiroteio.png"
+    },
+    {
+      "titulo": "VÍDEO: 'Estou na cadeia e não pude falar', diz corretora condenada a 28 anos de prisão por atropelar e matar ciclista no ES",
+      "imagem": "https://s2-g1.glbimg.com/aUCU2BLFXCDLqHc--vbQnjbFUIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/A/AjsBrHR6iwWMgMExsXHA/thumb-fotos-97-.jpg"
+    },
+    {
+      "titulo": "Polícia faz operação para investigar esquema de fraudes em obras de escolas públicas no RJ e SP",
+      "imagem": "https://s2-g1.glbimg.com/Dla4QLPQ1gCV0w5_4gJvx_obl2g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/Y/5ohgUJQpyvkKj77GJTNA/bdrj-escolas1-1-.jpeg"
+    },
+    {
+      "titulo": "Irmãs são presas pelo golpe do ‘Boa Noite, Cinderela’ contra turistas; uma vítima perdeu mais de R$ 130 mil",
+      "imagem": null
+    },
+    {
+      "titulo": "Suspeito de matar homem encontrado dentro de porta-malas era amigo da vítima, diz delegado: 'Bebiam e frequentavam lugares juntos'",
+      "imagem": "https://s2-g1.glbimg.com/zFGszn1WqzkeHwftF8VVX7SodF4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/Y/F5mLOrSbAAlKt8mihXFQ/carro-mala-morto.jpg"
+    },
+    {
+      "titulo": "Lula, Flávio Bolsonaro e outros candidatos a presidente inauguram campanha neste domingo com atos pelo Brasil; veja onde será cada um",
+      "imagem": "https://s2-g1.glbimg.com/nWKVPpXCkJeBNOOTGhAtAuAFS74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/n/PIBARRQBCrBnTSEBePeQ/montagem-horizontal-1280x720px-5-.jpg"
+    },
+    {
+      "titulo": "Ramal Cajueiro Seco/Cabo do Metrô do Recife fica sem funcionar por cinco dias para obras",
+      "imagem": "https://s2-g1.glbimg.com/hmHiVCphm-95eofhq3Xv5OAzf_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/G/F/rGAtg4TOyan0B0U7MTJw/vlt-1-.jpeg"
+    },
+    {
+      "titulo": "Carro pega fogo e mobiliza equipes do Corpo de Bombeiros em Resende",
+      "imagem": "https://s2-g1.glbimg.com/yLy4dTZS2rOe2PEBa86H-GRHYPU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/v/D8QUzhSHqGBvLondKUMQ/image-18-2-.png"
     }
   ],
-  "atualizadoEm": "2026-08-13T11:09:55.868Z"
+  "atualizadoEm": "2026-08-13T11:58:45.271Z"
 }
