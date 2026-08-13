@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Discord: ANPD cria precedente perigoso sobre criptografia, diz especialista",
+      "imagem": null
+    },
+    {
       "titulo": "Flaco López comenta falha de Carlos Miguel no Palmeiras: &#8220;Normal errar&#8221;",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "À CNN, Tarcísio afirma que Sabesp sofre &#8220;sucateamento há anos&#8221;",
       "imagem": null
-    },
-    {
-      "titulo": "MPF pede controle de voos de helicóptero no Rio",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-13T04:19:51.664Z"
+  "atualizadoEm": "2026-08-13T05:54:22.482Z"
 }

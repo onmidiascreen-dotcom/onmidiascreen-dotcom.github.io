@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Helicóptero Apache cai em voo de treinamento no Texas e mata dois militares",
+      "imagem": null
+    },
+    {
       "titulo": "Haddad registra candidatura ao governo de SP e declara R$ 861 mil ao TSE",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Alexandria Ocasio-Cortez decide congelar óvulos enquanto hesita sobre candidatura à Presidência",
       "imagem": null
-    },
-    {
-      "titulo": "Kassio é criticado no TSE por supostos acenos a Flávio Bolsonaro; ministro nega",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-13T04:19:51.165Z"
+  "atualizadoEm": "2026-08-13T05:54:22.087Z"
 }
