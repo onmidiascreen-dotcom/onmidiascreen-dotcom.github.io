@@ -1,6 +1,106 @@
 {
   "noticias": [
     {
+      "titulo": "'Nova Einstein': americana construiu próprio avião na adolescência e agora tenta desvendar dos maiores desafios da ciência",
+      "imagem": "https://s2-g1.glbimg.com/FDrWaHHBCW4EAVE4F-8vfykNjec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/I/NUY5INRl6vq5IoYnNbcg/captura-de-tela-2026-08-11-105250.jpg"
+    },
+    {
+      "titulo": "Coronel Busnello declara R$ 950 mil em bens ao TSE; vice informa patrimônio de R$ 900 mil",
+      "imagem": "https://s2-g1.glbimg.com/7k93NMeCU42t1wEa3jtyEN9IL0E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/s/qRPz1fTeGcLyxyjgNCRg/busnello-.jpg"
+    },
+    {
+      "titulo": "André Marinho (Novo) declara R$ 407 mil em bens ao TSE; vice Erigreyce informa patrimônio de R$ 515 mil",
+      "imagem": "https://s2-g1.glbimg.com/SgGghS0BM11xhSJimhcdt35_-Qs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/L/vYxmj3QcSwYeWAdF2pWg/andre-marinho2.jpeg"
+    },
+    {
+      "titulo": "Cyro Garcia (PSTU) declara R$ 385 mil em bens ao TSE; vice informa patrimônio de R$ 500 mil",
+      "imagem": "https://s2-g1.glbimg.com/RNYDCd35A5qcn2VZ8BsrYCCjs5Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/E/x/qi3GDgRNa2o434D2Dbfg/cyro-09.jpg"
+    },
+    {
+      "titulo": "Douglas Ruas (PL) declara R$ 1,47 milhão em bens ao TSE; vice não declarou patrimônio",
+      "imagem": "https://s2-g1.glbimg.com/Ch7nCKR-MhaWkUfBiJIVwH9bs30=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Y/PGF20RR4GtsPkssxAxUw/23ruas4.jpg"
+    },
+    {
+      "titulo": "Eduardo Paes (PSD) declara R$ 189 mil em bens ao TSE; vice Jane Reis (MDB) informa R$ 577 mil",
+      "imagem": "https://s2-g1.glbimg.com/YkuYXs-nMqBFUUJSSgdw8B0Opao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/p/7I4ERKToutiMrQsgdTAg/paes.jpeg"
+    },
+    {
+      "titulo": "Juliete Pantoja (UP) declara não ter bens ao TSE; vice Bia Martins também não informa patrimônio",
+      "imagem": "https://s2-g1.glbimg.com/EQfm6mufYBwJmFAWSfq9XYJkBb0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/A/iBSALoQ527D6nCLMAXcw/imagem-cortada-2026-04-13t160317.593.jpg"
+    },
+    {
+      "titulo": "William Siri (Psol) declara R$ 120 mil em bens ao TSE; vice informa patrimônio de R$ 240 mil",
+      "imagem": "https://s2-g1.glbimg.com/2edXNzP1gE2QaWNGczWJu_Gig3Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/v/U1E1IHQTOARZVj4zXAAg/copia-de-204a5722.webp"
+    },
+    {
+      "titulo": "Pai que matou filhas de 3 e 5 anos foi solto por 'ótimo comportamento' em presídio no litoral de SP",
+      "imagem": "https://s2-g1.glbimg.com/vHLdugkDllva2n0DOHekeBiUB8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/4/U53LbCS6qFyaRvbmOyCQ/fotojet.jpg"
+    },
+    {
+      "titulo": "Universidade no litoral de SP reconhece centenas de diplomas de faculdade no Paraguai apontada como 'fantasma'",
+      "imagem": "https://s2-g1.glbimg.com/VRVIIZmcP-ssEcZZzK5d5oXjzbc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/a/aNBcszR0AKj6hxJWuXag/unimes.jpg"
+    },
+    {
+      "titulo": "Criminosos invadem e furtam apartamento de luxo em frente à praia em SP; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/i2pRT4pIvo3FsBgRvMM8hk3lCDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/h/9P5eK9QryrAQZQwTZ9hA/roubo-apto.jpg"
+    },
+    {
+      "titulo": "Militar do Exército desaparecido em área com garimpo ilegal em Roraima: o que se sabe",
+      "imagem": "https://s2-g1.glbimg.com/BFrDPILLIsloRRZup4M15o1YgwY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Q/G0p3sITuao0hE6nGN5nw/santiago.jpg"
+    },
+    {
+      "titulo": "Vacinação contra o sarampo está abaixo da meta em cidades do Vale do Paraíba e região; veja sintomas",
+      "imagem": "https://s2-g1.glbimg.com/3yT9pJpg4BXY0s1USKQkxHI0xnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/4/TYQ2IXT7KGEWVXosUxqQ/sarampo.jpg"
+    },
+    {
+      "titulo": "Casal preso por desvio de R$ 1 milhão de clientes de banco no Ceará mirava idosos com altos investimentos",
+      "imagem": "https://s2-g1.glbimg.com/zkosRCl-YaXZzHAqeN_t078jYxc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/o/dmVbweTP25N9Fv1Wj1Qw/casal-vivia-em-casa-de-luxo..jpg"
+    },
+    {
+      "titulo": "Por quanto tempo o Irã pode sustentar a guerra com os EUA e Israel?",
+      "imagem": "https://s2-g1.glbimg.com/7uiB-lMzzX1Sf2P90h6aJGoAYpc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/8/u5sypCQOGkGVAXCMs6ew/chatgpt-image-aug-12-2026-02-30-04-pm.png"
+    },
+    {
+      "titulo": "Vídeo mostra momento em que comerciante reage a assalto e é morto por falsos policiais em MG",
+      "imagem": "https://s2-g1.glbimg.com/EWyYCZTCrhvo5M7Txqdu-N3TzJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/G/zf1CDoT9AaA6Hmj4IABA/capturar.jpg"
+    },
+    {
+      "titulo": "Álvaro Dias declara R$ 2,9 milhões em bens ao TSE; Babá informa R$ 1,5 milhão",
+      "imagem": "https://s2-g1.glbimg.com/HYH25JYreaw_5PG-EYcWyDq44Qo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/O/AJMkAsSC2tLIdPg8xPpg/mixcollage-12-aug-2026-06-14-pm-9406.jpg"
+    },
+    {
+      "titulo": "Cães adotados por funcionários de posto de gasolina ganham casinha e crachá no Sul de MG",
+      "imagem": "https://s2-g1.glbimg.com/rPBWbM3RH7IDa4XSjMqR3RCxMV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/H/aRWmuURTAp8NJT1TLoXQ/caozinhos.jpg"
+    },
+    {
+      "titulo": "Sorvete na casca do coco viraliza e atrai clientes em Teresina: 'opção para se refrescar'",
+      "imagem": "https://s2-g1.glbimg.com/kquS9H5KYCFiijEoD64cnNo6oDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/Q/xxLrrxR4Swuve0mIcJrA/edicao-imagens-g1-85-.png"
+    },
+    {
+      "titulo": "Candidatura de Salles ao Senado racha direita em SP e expõe tensão com aliado de Tarcísio",
+      "imagem": "https://s2-g1.glbimg.com/6b4gyCQD1N7JnFUn6Be91l-SsP8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/X/vRCKb1RKm8QeO2Bt0iEA/fotojet-2026-05-12t140535.774.jpg"
+    },
+    {
+      "titulo": "Mais de 130 escolas tiveram entre 10 e 20 dias letivos interrompidos por tiroteios em Salvador em 2025, aponta pesquisa",
+      "imagem": "https://s2-g1.glbimg.com/Nx_ROMmEWBpxb_HDAlINmaSTLtA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/H/fAv1RITSSkrBw2qJB2VA/whatsapp-image-2023-07-13-at-10.12.56-1-.jpeg"
+    },
+    {
+      "titulo": "Funcionário é baleado quatro vezes após discussão com patrão em MG",
+      "imagem": "https://s2-g1.glbimg.com/QSXxAwE1-H3_qWtKo4negbA9e40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/B/nD7LljQb6hV7iuMNr1LA/design-sem-nome-1-.png"
+    },
+    {
+      "titulo": "Modelo termina reforma da casa da mãe após viral e manda recado para o pai ausente: 'Consegui, sem você aqui'",
+      "imagem": "https://s2-g1.glbimg.com/ZmBlD9oxUT25QHsvAEvdV8ESV2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/N/lJFuwOShqvcvVX4zdVTw/1200-x-800-36-.jpg"
+    },
+    {
+      "titulo": "Saque do FGTS: trabalhador que não consegue sacar terá novo caminho na Justiça; veja o que muda",
+      "imagem": "https://s2-g1.glbimg.com/V5-LQAXgk8-Nopee8MHIAfQX2ds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/9/kfyrwXTjGb4jZVbeBmjw/videoframe-187523.png"
+    },
+    {
+      "titulo": "Irã afirma que Estreito de Ormuz está sob seu controle, segundo a agência de notícias Fars",
+      "imagem": "https://s2-g1.glbimg.com/EASO1HbajVrf_1QADARMRnM8Ttg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/l/bS9qCBRAu0d7fNA0fyhQ/ap26224043170571.jpg"
+    },
+    {
       "titulo": "'O Fim da Rua’: Anne Hathaway fala ao g1 sobre aventura com dinossauros: 'Sabia do risco'",
       "imagem": "https://s2-g1.glbimg.com/MQ2RIDfh-QHaK_DvrSe1QCgHrgQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/A/caq0oKR3esyh9Ipy0k4w/rev-1-nbr-04334-high-res-jpeg-1-.jpeg"
     },
@@ -19,107 +119,7 @@
     {
       "titulo": "Nova espécie de planta é descoberta em fotografias de observação de aves no ES",
       "imagem": "https://s2-g1.glbimg.com/XWf6FTkGC0XYKiVDpddiTXjn3RE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/E/R1o9ikTMa82Wrz4QxAqQ/thumb-videos-g1-4-.png"
-    },
-    {
-      "titulo": "Emprego: veja as 31 vagas disponíveis em Petrolina e Salgueiro",
-      "imagem": "https://s2-g1.glbimg.com/If_CEZA6tcUJE44JN7WwFAjsXgA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/d/Tj3Rk6Q0Kbn1wZy1I7dA/carteira-de-trabalho.jpg"
-    },
-    {
-      "titulo": "Indira Xavier declara R$ 479 em bens ao TSE; Renato Campos informa patrimônio de R$ 12,1 mil",
-      "imagem": "https://s2-g1.glbimg.com/qS7PYr6FxRm2V36PxUm0MIR8Cfo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/M/lMQov4So2kAnlv7GRwGw/design-sem-nome-2026-08-12t170154.810.jpg"
-    },
-    {
-      "titulo": "Gabriel Azevedo declara R$ 1,7 milhão em bens ao TSE; Maria Helena informa patrimônio de R$ 3,22 milhões",
-      "imagem": "https://s2-g1.glbimg.com/cH6nH5lAyM6iaLO0AV9TPa9gz5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/d/baGuKARcmZRLTd1NjOWw/design-sem-nome-2026-08-12t190204.085.jpg"
-    },
-    {
-      "titulo": "Ana Luiza do MLB, candidata ao Senado, declara R$ 2 mil em bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/Q-FAMIegO_u45uMBazUvlejWLOY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/N/nvp8kXTkqzaxFTnVx2aw/saveclip.app-759558805-18374685079227122-6869776829264619116-n.jpg"
-    },
-    {
-      "titulo": "Fidélis Alcântara, candidato ao Senado, declara R$ 102,1 mil em bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/M7byHc94A0prvWuhHvwyAQqmqOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/N/MUrHpyRD6CoYovIBFsAQ/img-1647.jpg.jpeg"
-    },
-    {
-      "titulo": "Roberto Carlos, Alceu e Samuel Rosa em Copacabana, 60 anos do MBP4, festival em Santa Teresa: o que fazer no Rio",
-      "imagem": "https://s2-g1.glbimg.com/9Em3v11bi69x_SwCMLex9C8nkJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/M/KUQiv8Qh20qvFqQlKeAg/robertocarlos85.jpg"
-    },
-    {
-      "titulo": "Juiz afastado após beber vinho e fumar durante julgamento em MG: veja o que se sabe e o que falta esclarecer",
-      "imagem": "https://s2-g1.glbimg.com/1vqiXvj-l78KzkioEm472MM3w4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/B/jTa2s7SSSNiJ3UNyDHcg/globo-canal-4-20260811-2000-frame-100819.jpeg"
-    },
-    {
-      "titulo": "Filhote de onça-pintada resgatada no Pará é enviada a Brasília para reabilitação no Ibama; veja VÍDEOS",
-      "imagem": "https://s2-g1.glbimg.com/HxSNYvHxPUxrmcjXhAite4fk16k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/4/6Y9dHfTS2mUWe8FwBwXw/16.jpeg"
-    },
-    {
-      "titulo": "Honestino: estudante símbolo da luta contra a ditadura dá nome a ponte, museu e diretório da UnB; cinebiografia estreia nesta quinta",
-      "imagem": "https://s2-g1.glbimg.com/iVt3EklPsf3XawCXbIPAfZxQjGk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/t/xVpEART5640fBL0QIG0w/honestino.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: de Tiririca a Antonia Fontenelle, veja o patrimônio declarado pelos famosos ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/3fvYYjm-uLjwHenOD253tVK2xyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/y/Rull92QjSBe9mMiHfZvw/fotos-g1-1920-x-1080-px-2026-08-12t234017.586.png"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens ao longo do dia; noite de céu limpo",
-      "imagem": "https://s2-g1.glbimg.com/AP9FhsnB5JZ32ir52lCdduaQ3tY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/8/WAE08wTiO8TY9snAHyOQ/previsao-tempo-bras-lia-20260813-030623.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): muitas nuvens o dia todo, com aberturas de sol",
-      "imagem": "https://s2-g1.glbimg.com/iSPiWf56om6AMo1o0t0Bafg0LHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/6/JarhjDRSyznODSFsLJfw/previsao-tempo-s-o-paulo-20260813-030606.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/yzE407V6wYofqY3EpjvH1Z7ccZ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/l/0xhiQBRFePdMfY4SYAIA/previsao-tempo-s-o-bernardo-do-campo-20260813-030549.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/CVvzWMW4LzyKJ0D26KgmHeReisw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/i/k4Lyi1T06BFfMyX3IPMw/previsao-tempo-santo-andr-20260813-030531.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/pWWDurWf4fqoCRVNbLnHVH2OwoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/9/KAXs61Su2sABUdwgKvOg/previsao-tempo-osasco-20260813-030512.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/4LIUpl5KcQUlBXqiquPIlvVbE34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/0/9NcDYNRt6qCZFm90iwJg/previsao-tempo-guarulhos-20260813-030456.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/hrKPzf6AWHMjFHE6Dh1eTGO6-Ms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/s/q2XSz6SEydBKZIAb7yyQ/previsao-tempo-s-o-gon-alo-20260813-030438.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): muitas nuvens o dia todo, com aberturas de sol",
-      "imagem": "https://s2-g1.glbimg.com/pihR5yZcNRgXYjejHS6hO8ptR04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/b/DXq1foQ82DzWvZ6c51Dw/previsao-tempo-rio-de-janeiro-20260813-030422.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/R29ggjAgRTgC8YgQqeccTWmT3OI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/p/g5BFhzQlCfAMKVjKBGqA/previsao-tempo-nova-igua-u-20260813-030404.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/epACn8gc51cBg4uyEIj_hwL8IQM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/C/01cS7qSnKQnSLTru7Puw/previsao-tempo-niter-i-20260813-030347.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/hsYVVnPYm0f0Q892mtq-p4SQMZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/i/cmBMqFSTaZqdGmMfX62g/previsao-tempo-duque-de-caxias-20260813-030323.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): dia ensolarado, com nevoeiro ao amanhecer; as nuvens aumentam à noite",
-      "imagem": "https://s2-g1.glbimg.com/VUKS0qth3U0E0xGiTC9i6ceJnyk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/t/x5GJIyTIKQ4MttKAfMVw/previsao-tempo-sete-lagoas-20260813-030307.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): dia de sol, com nevoeiro ao amanhecer; as nuvens aumentam no decorrer da tarde",
-      "imagem": "https://s2-g1.glbimg.com/l0FrfVbCreOFveQVgkBn9hpZ3o4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/H/bWQ27pTAO7DP1RnZ5tOg/previsao-tempo-ribeir-o-das-neves-20260813-030249.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Contagem (MG): dia de sol, com nevoeiro ao amanhecer; as nuvens aumentam no decorrer da tarde",
-      "imagem": "https://s2-g1.glbimg.com/tSdU-Eq5mqVn-T7qlY4TrRdrcok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/q/I4NxljQ5iRK6vUbf75Sw/previsao-tempo-contagem-20260813-030231.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Betim (MG): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/208J64oBlN1FO_RQYqPgicM98so=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/G/9MddqBSBOuecPGUF1pmA/previsao-tempo-betim-20260813-030213.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-13T07:21:12.217Z"
+  "atualizadoEm": "2026-08-13T08:49:52.764Z"
 }
