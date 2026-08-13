@@ -1,6 +1,78 @@
 {
   "noticias": [
     {
+      "titulo": "Catar e Marrocos apoiam reeleição de Infantino em meio à crise na Fifa",
+      "imagem": null
+    },
+    {
+      "titulo": "Entidade pede que WTA abandone política de testes de sexo no tênis feminino",
+      "imagem": null
+    },
+    {
+      "titulo": "TSE adia reunião que debateria limites para uso de IA nas eleições",
+      "imagem": null
+    },
+    {
+      "titulo": "Cruzeirense é condenado por matar torcedor do Atlético-MG em emboscada",
+      "imagem": null
+    },
+    {
+      "titulo": "Tarcísio e Haddad definem agendas de lançamento de campanha para o governo",
+      "imagem": null
+    },
+    {
+      "titulo": "Relembre a carreira de Mara Maravilha, envolvida em polêmica recente",
+      "imagem": null
+    },
+    {
+      "titulo": "Coligação de Haddad pede ao MP Eleitoral que investigue abordagem da PM",
+      "imagem": null
+    },
+    {
+      "titulo": "O que é o Círculo de Fogo do Pacífico, ligado a 90% dos terremotos do mundo",
+      "imagem": null
+    },
+    {
+      "titulo": "Vítima teve prejuízo de R$ 37 mi em plataforma falsa de investimentos no RS",
+      "imagem": null
+    },
+    {
+      "titulo": "Suspeitos de matar ex-jogador da base do SPFC são alvos de operação em AL",
+      "imagem": null
+    },
+    {
+      "titulo": "Hugo Calderano avança no Europe Smash após vencer japonês",
+      "imagem": null
+    },
+    {
+      "titulo": "África do Sul enfrenta custo bilionário com besouro invasor; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "IA pode injetar quase R$ 1 trilhão na economia brasileira, mostra estudo",
+      "imagem": null
+    },
+    {
+      "titulo": "Suzano reforça objetivos em alienação e desalavancagem",
+      "imagem": null
+    },
+    {
+      "titulo": "Nunes Marques vota contra pedido do PT para aumentar seu fundo eleitoral",
+      "imagem": null
+    },
+    {
+      "titulo": "Rússia ataca maior porto de grãos da Ucrânia",
+      "imagem": null
+    },
+    {
+      "titulo": "Discord diz que morte de jovem teve sinais de risco, mas não houve revisão",
+      "imagem": null
+    },
+    {
+      "titulo": "Torcedores do Inter são presos por tentativa de homicídio de gremista no RS",
+      "imagem": null
+    },
+    {
       "titulo": "Endividamento da MRV deve cair quase 30% até o fim de 2026, diz CFO",
       "imagem": null
     },
@@ -47,79 +119,7 @@
     {
       "titulo": "Congresso adia para setembro reunião da MP da &#8220;taxa das blusinhas&#8221;",
       "imagem": null
-    },
-    {
-      "titulo": "Bruno Guimarães diverte web ao &#8220;procurar&#8221; braçadeira de capitão no Arsenal",
-      "imagem": null
-    },
-    {
-      "titulo": "Vítima &#8220;profetiza&#8221; prisão de suspeitos de aplicar golpe; ouça áudio",
-      "imagem": null
-    },
-    {
-      "titulo": "CNC encaminha carta ao Congresso contra MP das blusinhas",
-      "imagem": null
-    },
-    {
-      "titulo": "Safra de grãos 2025/2026 será 2,4% maior, diz a Conab",
-      "imagem": null
-    },
-    {
-      "titulo": "Estudo: reprogramação de células de defesa podem combater o Alzheimer",
-      "imagem": null
-    },
-    {
-      "titulo": "Paris Jackson conta como Michael a mantinha com os pés no chão em Neverland",
-      "imagem": null
-    },
-    {
-      "titulo": "Safra 2026 alcançará 353 milhões de t, 2% maior que a de 2025, afirma IBGE",
-      "imagem": null
-    },
-    {
-      "titulo": "Rússia e Turquia já baniram o Discord; veja lista completa",
-      "imagem": null
-    },
-    {
-      "titulo": "Corinthians não faz gol em mata-mata de Libertadores desde 2018",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;O Segredo: Ouse Sonhar&#8221; é baseado em best-seller; conheça o livro",
-      "imagem": null
-    },
-    {
-      "titulo": "Exportações ucranianas de grãos caem 76%; país busca rotas alternativas",
-      "imagem": null
-    },
-    {
-      "titulo": "PLS compra projeto da Lithium Ionic em MG por US$ 37,5 milhões",
-      "imagem": null
-    },
-    {
-      "titulo": "Erling Haaland ganha certificados do Guinness por recordes na carreira",
-      "imagem": null
-    },
-    {
-      "titulo": "Málaga vence troféu em amistoso após Fulham se recusar a cobrar pênaltis",
-      "imagem": null
-    },
-    {
-      "titulo": "Spray, mousse, séruns e mais: entenda diferenças entre finalizadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Preços ao produtor nos EUA ficam estáveis em julho",
-      "imagem": null
-    },
-    {
-      "titulo": "Aumento de juros para cumprir meta de inflação ainda é incerto, diz Barkin",
-      "imagem": null
-    },
-    {
-      "titulo": "Petróleo cai mais de 3% com impasses entre EUA e Irã",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-13T15:37:44.476Z"
+  "atualizadoEm": "2026-08-13T16:34:13.777Z"
 }
