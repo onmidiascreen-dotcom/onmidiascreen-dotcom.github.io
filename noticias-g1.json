@@ -1,6 +1,98 @@
 {
   "noticias": [
     {
+      "titulo": "Mar sujo? Entenda por que a cor da água do mar muda em Santos",
+      "imagem": "https://s2-g1.glbimg.com/nvpgYY_5qTS33qzKJsYVRb1B5q0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/U/xjb8iHSlCOfZoBWgmchg/130309-marepraia10-nirley-sena.jpg"
+    },
+    {
+      "titulo": "Justiça condena homem que matou motociclista após discussão e postou sobre 'acelerar e esmagar'",
+      "imagem": "https://s2-g1.glbimg.com/5AnxylOjRceKKv9ouA93WsTqTak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/U/UbFcOuR8WZjITMdRkPXA/carro-3-.jpg"
+    },
+    {
+      "titulo": "'Japa do PCC' segue com tornozeleira após entregar passaporte vencido à Justiça; entenda",
+      "imagem": "https://s2-g1.glbimg.com/ckYREljiY-FsrbOkqbzHvexgBR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/m/sSvyYeRCmkJRCTGMjVyA/homem-e-resgatado-apos-ser-levado-por-corrente-de-retorno-84-.jpg"
+    },
+    {
+      "titulo": "Esquema de falsas promessas de trabalho em Juiz de Fora pode ter causado prejuízo de R$ 1 milhão às vítimas",
+      "imagem": "https://s2-g1.glbimg.com/UAXbvBsJjjOSSXXZ70iWvn4fVX4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/c/OkvjSDSTqAFlhaZegDnQ/capturar.jpg"
+    },
+    {
+      "titulo": "Cadu de Lula declara R$ 100 mil em bens ao TSE; Larissa informa R$ 153,5 mil",
+      "imagem": "https://s2-g1.glbimg.com/TYOK1tlq2is6Nc63qKD2N-Y2DBQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/k/7vbw0oQayAAYnrGoORhA/lariss-e-cadu.webp"
+    },
+    {
+      "titulo": "Corpo de Bombeiros registra 502 incêndios no 1º semestre de 2026; Macapá e Santana lideram ocorrências",
+      "imagem": "https://s2-g1.glbimg.com/7T6ld531zxQ00KSU_jnA_M4ZBRQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/8/d/lAShQAStGH2Lvv1z0G3g/whatsapp-image-2022-05-04-at-13.57.41-1-.jpeg"
+    },
+    {
+      "titulo": "'OKE': música do Brô MC’s e Anitta viraliza em trend com nomes de 17 povos indígenas",
+      "imagem": "https://s2-g1.glbimg.com/S6wZZMlBKdkxhMlZjTrad0c7tsQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/v/ObJwKvRC2Hoo0ZqwQfBw/bro-mcs-e-anitta.jpg"
+    },
+    {
+      "titulo": "O que pode estar por trás de um risco menor de morte por Alzheimer em algumas profissões?",
+      "imagem": "https://s2-g1.glbimg.com/n_70Ny52vr-s2zcYnabHYDPln4M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/t/ouT89ySgSf0oOGEpLNAw/taxi2.jpeg"
+    },
+    {
+      "titulo": "Colocar telas na frente dos filhos tem mais a ver com o estresse dos pais do que com outros fatores",
+      "imagem": "https://s2-g1.glbimg.com/d4EiVV28g95gU09w4xrXtx6TM5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/I/q/IqJOzwT0iFd5HjRb2ClQ/tela1.jpg"
+    },
+    {
+      "titulo": "Porto de Santana vira rota estratégica para exportar soja do Centro-Oeste e do Amapá",
+      "imagem": "https://s2-g1.glbimg.com/Saw5cs8aI7Bq6WkOUBY1gX6HWd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/m/28Y5g0SbAGJ9xiQjiHsQ/2bbfb917-4fba-40f6-9095-6a4c6e321207.jpg"
+    },
+    {
+      "titulo": "'Workslop': como trabalhos malfeitos por IA estão roubando tempo e dinheiro das empresas",
+      "imagem": "https://s2-g1.glbimg.com/mubE1Rme8cb_ajkycKVT4R8fepI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/h/HDm2zYSMamsBhWdnAabQ/pexels-naboth-otieno-83498565-19805876-1-.jpg"
+    },
+    {
+      "titulo": "Tércio Tinoco, candidato ao Senado, declara R$ 515 mil em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/-FpbPkbSWsDNv0X9GQeYEMTFRf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/M/BMgdkAQZGyaXCHyXqc8A/acdf92e82b9d4914735d0df7a5344df4.jpg"
+    },
+    {
+      "titulo": "Empresário confunde aeroporto de Salvador com cidade no oeste da Bahia e roda 240 km de ônibus antes de viagem à Europa",
+      "imagem": null
+    },
+    {
+      "titulo": "Shows de Raí Saia Rodada e Baco Exu do Blues, Mostra de Circo, peça 'O estrangeiro' e mais: veja agenda cultural",
+      "imagem": "https://s2-g1.glbimg.com/_jgM8aMVfdsEdNDIQqhgOhvntas=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/As6ZADRNuy1WQpROBvVA/capa-agenda-g1-2026-08-13t204230.735.jpg"
+    },
+    {
+      "titulo": "Mãe que fingiu dormir para flagrar abuso contra filha diz que padrasto mudou de comportamento no fim de semana do crime",
+      "imagem": "https://s2-g1.glbimg.com/td2NZUc7SAqpS2450PAo9dnugiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/k/xkqVR0RxOXOK89fgJmRg/delegacia-policia-civil-patos-de-minas.jpeg"
+    },
+    {
+      "titulo": "Retrofits no Centro de SP: baixa produção de moradia social leva prefeitura a ampliar incentivo",
+      "imagem": "https://s2-g1.glbimg.com/Xzcd3UKX4eBWK_t3PV4MXrfeFpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/8/23cwXyTeupwfqiEW5vKA/fotojet-30-.jpg"
+    },
+    {
+      "titulo": "Pais acorrentam filho durante crises relacionadas ao uso de drogas e pedem ajuda no Acre: 'Não sei o que fazer'",
+      "imagem": "https://s2-g1.glbimg.com/6QDB75TNIEWpkiOPdsIrsyFmWYE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/8/efKE1TR0uPZu3QQkS58g/midia-de-distribuicao-g1-26-.png"
+    },
+    {
+      "titulo": "Mais alta que o Cristo Redentor: Polônia inaugura estátua de 55 metros da Virgem Maria",
+      "imagem": "https://s2-g1.glbimg.com/HDdRhQWGf_t-RrudVw-zoHUeLl0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/N/MUlIIFQBGWanUVWhLq2g/2026-07-29t133248z-903650340-rc2nnmaxksa9-rtrmadp-3-poland-religion-virginmary-statue.jpg"
+    },
+    {
+      "titulo": "Escavações revelam cemitério indígena em sítio arqueológico no Amazonas; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/pMRkVRMmLkF6KI8VxkFTr4wdKA0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/T/ceUZr9SYqBZb1g0p3U7w/whatsapp-image-2026-08-13-at-18.30.31.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: Cachorro caramelo se diverte ao se refrescar em jato de água no Estádio Serra Dourada",
+      "imagem": "https://s2-g1.glbimg.com/mztPVZNV_MKOJkgC64ijsMH7qnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/R/LIZMVTRI2z9DOBWqQNSQ/g1-2026-08-13t195649.577.jpg"
+    },
+    {
+      "titulo": "Juiz mantém condenação por atestados falsos e dá bronca em ex-servidor de Hortolândia: 'Cumprimento da lei é regra básica'",
+      "imagem": "https://s2-g1.glbimg.com/LHhpu0hOSeUCNJ05_JhMp6vbPqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/Y/rUDNipSaCYpMBATXhqEw/palacio-dos-migrantes.jpg"
+    },
+    {
+      "titulo": "DJ drag queen brasileira vence concurso internacional e lança remix com Snoop Dogg",
+      "imagem": "https://s2-g1.glbimg.com/VQjEyTa4C8eGKscaUxoe2X-NcCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/e/ZxSF4ATGuVu6TTbon5fg/design-sem-nome-28-.jpg"
+    },
+    {
+      "titulo": "Influenciador é condenado por usar perfil falso em app de relacionamento para difamar ex-companheiro em SP",
+      "imagem": "https://s2-g1.glbimg.com/Pmdkd9zUfTkO8teOPNgO5zhKuAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/D/8ueg7qSIeRR7juzSJB9A/fotojet-2026-08-13t192425.444.jpg"
+    },
+    {
       "titulo": "Rafael Duda indica ao TSE que não tem bens a declarar; Diana de Cássia informa R$ 64 mil",
       "imagem": "https://s2-g1.glbimg.com/eZP2EtTla7qbBFRD0NAS_LjnmNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/L/eKdfBNSKKC0G8AqvS7Bg/design-sem-nome-2026-08-12t154005.062.jpg"
     },
@@ -27,99 +119,7 @@
     {
       "titulo": "Por que a Justiça tirou os cargos de dois professores negros aprovados em concurso público por cotas?",
       "imagem": "https://s2-g1.glbimg.com/EuDw9LgtWARwJp_xjac4He5U_2U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/a/IsP4NUQnq1JauFRdGCAA/whatsapp-image-2026-08-13-at-10.07.47.jpeg"
-    },
-    {
-      "titulo": "Indiciado por matar a mulher com banco, homem conhecido como 'Lázaro de Ermida' se escondeu na zona rural por quase 1 ano em MG",
-      "imagem": "https://s2-g1.glbimg.com/xUJSaA-42Iz35pnL7WzWUmficJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/q/81ffHQR1yYR0Mw9fxKQg/procurado-pela-policia-juares-marques-dos-santos-de-51-anos-e-suspeito-de-matar-a-esposa-lucelia-batista-silva-de-39-com-golpes-de-banco-de-madeira-em-divinopolis.jpg"
-    },
-    {
-      "titulo": "Percentual de famílias que não conseguem pagar dívidas bate recorde em BH",
-      "imagem": "https://s2-g1.glbimg.com/ZLB-JoheNxg2JD3yEityhtu2DFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/c/04Jo9fRzqJl5UsR7WWyA/mg2-acervo-13-aug-2026133-frame-116459.jpeg"
-    },
-    {
-      "titulo": "De ar-condicionado a banho em horários estratégicos: veja 15 dicas infalíveis para acampar na Festa do Peão de Barretos",
-      "imagem": "https://s2-g1.glbimg.com/Kbs71ieHc3VU6-dYuwCcJbLYaEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/d/guZHAITFGyyY1UNDpI2Q/gabriely-acampando-em-barretos.jpg"
-    },
-    {
-      "titulo": "Tia afirma que policial carbonizado tinha caso extraconjugal com PM presa: ‘Não justifica a morte’",
-      "imagem": "https://s2-g1.glbimg.com/2cJGgzOdVH9jQ63r1ZbZ8tJ8PwQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/hLZZ0hTDayAMOKuBcAEg/fotojet-2-.jpg"
-    },
-    {
-      "titulo": "Recordista mundial que desafia os limites da respiração encara jacaré e desbrava profundezas de Bonito",
-      "imagem": "https://s2-g1.glbimg.com/r7DnvROCfFBMF0T3sWMKCII32UA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/X/bcDqJPSBqCA0Cyi0t1Rg/1200-x-800-38-.jpg"
-    },
-    {
-      "titulo": "'Eu sou marrom': conheça Milo J, cantor que discute racismo na Argentina e estará no Rock in Rio",
-      "imagem": "https://s2-g1.glbimg.com/pMbtuJ-5GPhB3627PLbhVulpx0w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/B/EnJt8dScStPzzihgGfRQ/fotojet-2026-08-05t174707.059.jpg"
-    },
-    {
-      "titulo": "Como se faz uma Bíblia? Por dentro da gráfica que já produziu 215 milhões de exemplares em 88 idiomas",
-      "imagem": "https://s2-g1.glbimg.com/FdcZblWpnmCiSwSCykPR6SVyCt0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/U/jm9slhQaaVHjaNf3Hryw/fotojet-93-.jpg"
-    },
-    {
-      "titulo": "Terapia de graça, roda de cura energética e menos álcool: como é a nova turnê de Anitta",
-      "imagem": "https://s2-g1.glbimg.com/RUUqriSco9FfHZo5yyfscN3CwaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/7/CZXjxBTkG7hgUIUxCrVw/novo-projeto-29-.jpg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens ao longo do dia; noite de céu limpo",
-      "imagem": "https://s2-g1.glbimg.com/opZwMXZkzFcHDVB2k9DFNuZ3j5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/T/Ar3GgWQeyTwhLQ3ceFUg/previsao-tempo-bras-lia-20260814-030626.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "imagem": "https://s2-g1.glbimg.com/ruepIjvy3raIYJWrFiQuutgcJKE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/E/L6n3qySsKltsiaiiyUyw/previsao-tempo-s-o-paulo-20260814-030608.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/G8owX7IMtVethmW6_XsjdJdrfik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/g/TQ07RSQmirJfBurFXoIw/previsao-tempo-s-o-bernardo-do-campo-20260814-030554.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/l2a_plrNRkaUb18w5t5Plmfl2gY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/m/NWoQSwS9aW63xvw2xAKw/previsao-tempo-santo-andr-20260814-030539.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/Bo4uAnLVylJm-ZJwsjM99KgrG9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/vK1sBSRGCF4uAVgBZvDw/previsao-tempo-osasco-20260814-030522.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/rWmELzD4-KskuieKzGuzBhYrES0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/M/RxnJ0qRYq1pyYuPFwXSQ/previsao-tempo-guarulhos-20260814-030506.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/f41APT7ymJEFllU8Hrm2IAHqgWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/f/V53TMbQLOIslCdgecWVw/previsao-tempo-s-o-gon-alo-20260814-030449.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "imagem": "https://s2-g1.glbimg.com/qZOvVSDedPpzajJRxR7Uv3o5fRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/l/0BHqngQwSEZ6ZaKWe6xw/previsao-tempo-rio-de-janeiro-20260814-030432.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/nlGOoe5-6UiTrP_P8P5wzVySkA0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/q/EfDYLwTqCpUCtHXGl6xQ/previsao-tempo-nova-igua-u-20260814-030415.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/dlBjvZsECGIizcrmBwkKFgULLgw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/8/k61La1T2m0iF4WrAUhRg/previsao-tempo-niter-i-20260814-030401.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/jYR3JfIf82SLDMY3Eq5_dtUEERY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/i/vtdLiRQ7mebCX3hCNXBQ/previsao-tempo-duque-de-caxias-20260814-030346.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): dia de sol com aumento de nuvens a partir da tarde; não chove",
-      "imagem": "https://s2-g1.glbimg.com/4D6FDr2T3PHPY508M-mShiP6Zr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/t/a2VcPiQ0uipcuhkZJvcQ/previsao-tempo-sete-lagoas-20260814-030327.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): dia de sol com aumento de nuvens a partir da tarde; não chove",
-      "imagem": "https://s2-g1.glbimg.com/9b8BJRQekY-6QM5MOIAVlUxsqa0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/8/326hY0TP6FG4BturUvtA/previsao-tempo-ribeir-o-das-neves-20260814-030309.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Contagem (MG): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/_8HSs2Z75u05m1rZkoeokBDZdMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/TWpTzoSC2kgvCryhAkww/previsao-tempo-contagem-20260814-030251.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Betim (MG): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/WoTCKTQpZKAmz-CB4g9c-3jHb5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/0/55VVLuRamXDWIKQC9u3A/previsao-tempo-betim-20260814-030234.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-14T07:18:41.689Z"
+  "atualizadoEm": "2026-08-14T08:42:55.289Z"
 }
