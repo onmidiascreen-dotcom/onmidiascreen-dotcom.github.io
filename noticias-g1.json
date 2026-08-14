@@ -1,6 +1,38 @@
 {
   "noticias": [
     {
+      "titulo": "'Pai do Brexit' vence eleição e reconquista cadeira no Parlamento britânico",
+      "imagem": "https://s2-g1.glbimg.com/8GhI4BCAK3vvrWj0sCPRsk6AgZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/d/x/kaVuI7QZCyyl6i6mbOpw/2024-07-05t024525z-1440911969-rc2qo8a2kxtc-rtrmadp-3-britain-election-farage-result.jpg"
+    },
+    {
+      "titulo": "Conheça o hospital que não atende pessoas e fatura R$ 1,5 milhão por ano",
+      "imagem": "https://s2-g1.glbimg.com/iqnp1JdEKC80kC9CXMkYItTSYCQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/6/3ggdMsRlerjduA0cnnVQ/captura-de-tela-2026-08-11-114149.png"
+    },
+    {
+      "titulo": "Latrocínio ou homicídio? Veja o que se sabe sobre empresário morto a tiros na porta de casa em Ribeirão Preto, SP",
+      "imagem": "https://s2-g1.glbimg.com/Kfb-scUenVoOwTQmVryeOPNXKrk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/w/fQPoPJR5mykO04lnEAuA/design-sem-nome-3-.jpg"
+    },
+    {
+      "titulo": "Virada Cultural do DF vai levar 36 horas de música ao Setor Comercial Sul; veja programação",
+      "imagem": "https://s2-g1.glbimg.com/QvtmgCT0N44x93S1W3nH90slWz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/z/f44v1aRsaH02gcMxDGEw/sesc-festclown.png"
+    },
+    {
+      "titulo": "Bell Marques, Léo Santana, Zé Ramalho, Calcinha Preta, Chico César, Os Garotin, Dubdogz, Fresno e Cat Dealers agitam fim de semana no DF",
+      "imagem": "https://s2-g1.glbimg.com/LPx2eWtnihbNEFBjRolI_RIu9ns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/I/R/chJSk7RtiIC9ZE0l890Q/design-sem-nome-18-.png"
+    },
+    {
+      "titulo": "Cidade do RS estima perdas de até R$ 7 milhões no comércio após ciclone causar apagão de cinco dias",
+      "imagem": "https://s2-g1.glbimg.com/cZ_qcp4N5e-XmdRMfH7M2rgdWdU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/K/6AHZk6TgAUchN83DqghA/6171764-66b16d2ccf217a0.jpg"
+    },
+    {
+      "titulo": "Israel alertou EUA várias vezes sobre ameaça de morte contra Trump, diz agência",
+      "imagem": "https://s2-g1.glbimg.com/MzpUWjvfZqqYxbWoH-vFuBBq0bc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/b/6/MnNBokTs2TBpuTybnRug/2024-07-14t001558z-1630794655-rc2mu8ajuug5-rtrmadp-3-usa-election-trump.jpg"
+    },
+    {
+      "titulo": "DF cumpriu apenas 6 das 19 metas de plano para acolher população de rua, diz Tribunal de Contas",
+      "imagem": "https://s2-g1.glbimg.com/zvbaLc1THdClPwZPm96lonOdZh8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/I/BHjPb5RmmWjnAG9JKn0Q/a0520-bddf-bdbr-limpo-09072025-frame-299408.jpeg"
+    },
+    {
       "titulo": "Morte em rope jump: Justiça mantém prisão de réus e marca audiência para setembro",
       "imagem": "https://s2-g1.glbimg.com/mF5m2KWPaEInKAD3AoIKUAFA4WQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/Vl0zbzQVO2fSJdSHEN5w/design-sem-nome-2-.png"
     },
@@ -87,39 +119,7 @@
     {
       "titulo": "João Gomes, Fafá de Belém, comédias, festivais gastronômicos, novo filme de Anne Hathaway: veja o que fazer em SP",
       "imagem": "https://s2-g1.glbimg.com/F2FCP1gVCGFORq0RS-_d7qE-ZBY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/A/SGYu6HTeyIFoYa9PoK8w/20221205-requalificacao-da-esquina-sao-joao-x-ipiranga-elj-0668.jpg"
-    },
-    {
-      "titulo": "Acusado de matar CEO, Luigi Mangione deve se declarar culpado nesta sexta, diz imprensa americana",
-      "imagem": "https://s2-g1.glbimg.com/L9kvs1FaV73NgvZ57HeonNg3wyo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/a/kDoEcxRc2dTiEBvR3gOQ/2025-02-21t203147z-180253610-rc22zcaawdld-rtrmadp-3-unitedhealth-ceo.jpg"
-    },
-    {
-      "titulo": "Vídeo: Tamanduá-mirim é encontrado dormindo em residência em Porto Velho",
-      "imagem": "https://s2-g1.glbimg.com/DwXbm60-WDmPoOVE1VUwUK9nGms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/A/5KJVdkRZWW2JEdi53DbA/g1-ro-2026-3-.jpg"
-    },
-    {
-      "titulo": "O que é a Lei da Reciprocidade Econômica, que Brasil aciona contra os EUA",
-      "imagem": "https://s2-g1.glbimg.com/o3KRcSfehtDySkkxDoBZ92Za8tg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/ftelaLTS60IJBPRtbiWg/bbc-lula-trump-1.webp"
-    },
-    {
-      "titulo": "Brasil dá início ao processo de reciprocidade contra EUA: veja os próximos passos",
-      "imagem": "https://s2-g1.glbimg.com/wiFwHTk-Ip29ncNQQ_NVXftIy3Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/HUsCW2TC6aKiqw5QQASg/2026-05-07t195738z-681890657-rc2j4lap8h9x-rtrmadp-3-usa-trump-brazil.jpg"
-    },
-    {
-      "titulo": "Kassab diz que Centrão está com Lula e que chance de Flávio Bolsonaro ser eleito é 'zero'",
-      "imagem": "https://s2-g1.glbimg.com/bBx6SBkNmvu7SqoJQAkEDtM4H_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/A/TPtsh2QtuQA1qaK6dhxA/fotojet-37-.jpg"
-    },
-    {
-      "titulo": "Quando o rio avisa: o desafio de antecipar os impactos da vazante no Amazonas",
-      "imagem": "https://s2-g1.glbimg.com/WT_FUZbzOwbEK8dEWnVaJmDQesk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/A/YlsrDxRPCB5pLwK8gjiQ/captura-de-tela-2024-10-14-183227.png"
-    },
-    {
-      "titulo": "Suspeita de jogar óleo quente pela janela em crianças é autuada em flagrante em Ananindeua",
-      "imagem": "https://s2-g1.glbimg.com/l4DkYOA43mQe4IBm6DRQC14q6iE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/i/XtcwrJTMKiJeK6Fbbu2g/image-2026-08-13t231124.455.png"
-    },
-    {
-      "titulo": "Suspeito de matar pai e filho em São José de Ribamar é preso em São Luís",
-      "imagem": "https://s2-g1.glbimg.com/IGSWA3A7x4Pbi9KDwM1CXMqizcs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/z/rPjcTUT5mwaYHwfbkc1Q/whatsapp-image-2026-08-10-at-09.07.28.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-14T04:17:46.990Z"
+  "atualizadoEm": "2026-08-14T05:53:45.056Z"
 }

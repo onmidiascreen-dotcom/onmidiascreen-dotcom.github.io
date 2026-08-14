@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Nigel Farage recupera cadeira no parlamento do Reino Unido",
+      "imagem": null
+    },
+    {
+      "titulo": "Libertadores: veja melhores momentos de Rosario Central 0 x 0 Corinthians",
+      "imagem": null
+    },
+    {
       "titulo": "Ben Shelton e Iga Swiatek são os campeões dos Masters e WTA 1000 do Canadá",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Gol anuncia André Fehlauer como novo CEO e saída de Celso Ferrer",
       "imagem": null
-    },
-    {
-      "titulo": "Análise: Setor privado não queria reciprocidade por parte do Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "TSE suspende sistema de filiação após mudança de partido de Flávio",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-14T04:17:46.139Z"
+  "atualizadoEm": "2026-08-14T05:53:43.923Z"
 }
