@@ -1,6 +1,58 @@
 {
   "noticias": [
     {
+      "titulo": "Adolescente é apreendido após esfaquear estudante durante briga em Indaiatuba",
+      "imagem": "https://s2-g1.glbimg.com/sj6NppQbQMCj2pisU_qL-Iu9TsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/U/PLD7cCRxS1QadnxnpdDg/design-sem-nome-2026-08-14t191501.122.jpg"
+    },
+    {
+      "titulo": "Soldado Sampaio declarou R$ 1,9 milhão em bens na disputa pelo governo de Roraima",
+      "imagem": "https://s2-g1.glbimg.com/BrD4flymNHg3xhZvs0GYb4g0ZJM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/E/gdedy5RTeRTsQFGGSPYg/soldado-sampaio.jpg"
+    },
+    {
+      "titulo": "Paraibana vítima de feminicídio em São Paulo 'não via maldade nas coisas', diz irmão",
+      "imagem": "https://s2-g1.glbimg.com/Esk-2jrKxV5wN2Get83JvPXrgnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/B/S717oCSlGTi7BAS5mApQ/fotojet-2026-08-11t164226.133.jpg"
+    },
+    {
+      "titulo": "'Certamente durará alguns dias', diz comandante do Corpo de Bombeiros sobre incêndio em lixão de Iranduba",
+      "imagem": "https://s2-g1.glbimg.com/Rl4vcGJ7cABTNjN6JK5bJ8oDG7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/G/iXrMP2R0iKk6R0t3pfIA/captura-de-tela-2026-08-14-190105.png"
+    },
+    {
+      "titulo": "VÍDEOS: MG2 de sexta-feira, 14 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/oLxHlkZ4NGtkc6kmSsXY9A8uwTA=/s01.video.glbimg.com/deo/vi/99/03/14870399"
+    },
+    {
+      "titulo": "Isaura Lemos (PSB) declara patrimônio de R$ 3,7 milhões; veja patrimônio de candidata ao Senado em Goiás",
+      "imagem": "https://s2-g1.glbimg.com/Us37geOZLiwOXPV_E-PVq7Yo2UM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/ePFNhKQfidbNoMZ2c1ww/isaura-lemos-deputada.jpg"
+    },
+    {
+      "titulo": "Viatura falsa é apreendida na casa de policial civil investigado por sequestro de jovem na Zona Leste de SP",
+      "imagem": "https://s2-g1.glbimg.com/PZRkd4C4Qlc_W5lG2UF6Geq_XPU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/B/e78dkNTbAFOoF7c9eAAw/videoframe-424077.png"
+    },
+    {
+      "titulo": "Grande SP registra 3 casos de violência envolvendo policiais em pouco mais de 12 horas",
+      "imagem": "https://s2-g1.glbimg.com/pjUO8abW3nXQ7mFBmx5Oo8wN5Kk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/c/LRVgFgQCWHwPrPiCJn2g/captura-de-tela-2026-08-14-191637.png"
+    },
+    {
+      "titulo": "Artista mais ouvido do país, MC Ryan SP é condenado por violação de direitos autorais em 34 músicas",
+      "imagem": "https://s2-g1.glbimg.com/EoNMtD9BSbf1gpubaRMDWg_ozHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/B/hrXgaDS06YVQr3NBFYNA/mc-ryan-sp-stj-manda-soltar-funkeiro-preso-pela-pf-em-esquema-de-r-1-6-bilhao.jpg"
+    },
+    {
+      "titulo": "Petrobras identifica hidrocarbonetos em poço no Amapá, na Margem Equatorial",
+      "imagem": "https://s2-g1.glbimg.com/zXSiABPss7lLEYEgMTEhor6QD0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/a/VeA3HLS7abvv2lNXG3WA/20250618114337-gc00030837-f00086868.webp"
+    },
+    {
+      "titulo": "Governo do Ceará lança concurso com 2 mil vagas imediatas para professores",
+      "imagem": "https://s2-g1.glbimg.com/f-ROARsvBAAyn_-BwMzvUr96NuA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/K/rFcMNMSHyFAShJNAhRqw/professores.webp"
+    },
+    {
+      "titulo": "VÍDEOS: EPTV 2 Sul de Minas de sexta-feira, 14 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/VThlEeG1mxcHbGWilDFSlyxQ8Sk=/s01.video.glbimg.com/deo/vi/71/04/14870471"
+    },
+    {
+      "titulo": "Inquérito aponta que homem suspeito de atacar três pessoas com líquido similar a ácido na Bahia agiu em legítima defesa",
+      "imagem": "https://s2-g1.glbimg.com/tBNbkPq190HJ3i8kqGCPFO3cq-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/Q/xjut5OSOGb4KOj4WTqRA/ataque-acido-itabuna.jpg"
+    },
+    {
       "titulo": "Fumaça de incêndio em lixão preocupa moradores de Iranduba: ‘Pode causar problemas mais sérios’",
       "imagem": "https://s2-g1.glbimg.com/OIo5bPcCJDnA2PRHj7tzoRuC2zA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/M/s2eOOTTbq4WBaecAK56w/incendio-em-lixao-de-iranduba-continua-apos-mais-de-21-horas-foto-gato-jr-rede-amazonica.jpeg"
     },
@@ -67,59 +119,7 @@
     {
       "titulo": "Eleições 2026: saiba como foi o dia dos candidatos ao Governo do Maranhão",
       "imagem": "https://s2-g1.glbimg.com/bx537Wvz65VC9wTEo5a0_zpxEAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/r/zz9bfhTnSAQsnHbvQN5A/saulo-arcangeli.jpg"
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "VÍDEOS: NE2 de sexta-feira, 14 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/uVRwNOGbuM5IkNYwr_7yX4JTKSg=/s01.video.glbimg.com/deo/vi/51/03/14870351"
-    },
-    {
-      "titulo": "Pipa presa a ônibus em movimento chama atenção em Goiânia; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/uiF456v-vL2tTmkS3nGEEorg31E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/yMo1YhSBmgVViywo683g/copia-de-copia-de-copia-de-padrao-foto-g1-goias-16-.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: RJ2 de sexta, 14 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/AN66AqVGdCN1sOJTzZ4Ux_HHTuI=/s01.video.glbimg.com/deo/vi/42/03/14870342"
-    },
-    {
-      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
-    },
-    {
-      "titulo": "Homem morre ao cair do 14º andar após ser amarrado, dopado e torturado por colegas da namorada, diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/Gn0vlzN7S4rU_EqVIUv398MtjAk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/g/TuIgUnSTagVANZ5Swt2Q/snapshot-1238.png"
-    },
-    {
-      "titulo": "Assista ao Boa Noite Espírito Santo",
-      "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
-    },
-    {
-      "titulo": "Mulher é presa em Santa Catarina suspeita de usar dados de idosos para fazer empréstimos e saques no MA",
-      "imagem": "https://s2-g1.glbimg.com/yBykmlSei5hxDzI_Ytowa8FCEOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/d/6pvenJRaCyIwvnhD0BIA/montagens-1920-x-1080-px-2026-08-14t192554.635.png"
-    },
-    {
-      "titulo": "Ex-funcionários da Refit dizem que não receberam verbas rescisórias; grupo acumula R$ 52 bilhões em dívidas",
-      "imagem": "https://s2-g1.glbimg.com/pLosj4ru0WDjdkcsTZVsxSpNB18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/A/BJTcj5TbS3wkH9sg0h3g/refit-10.jpeg"
-    },
-    {
-      "titulo": "Rede de atacarejo abre mais de 100 vagas em Sorocaba e Jundiaí; veja como se candidatar",
-      "imagem": "https://s2-g1.glbimg.com/3JMmbCWAgl_54cyBlp311RCdjVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Y/L0QhU8RyqAAu6DX7WAkg/cateira-1.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: JL2 de sexta-feira, 14 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/_HzpIf5UXC-aelSI94L9T8sISJo=/s01.video.glbimg.com/deo/vi/35/03/14870335"
-    },
-    {
-      "titulo": "Patrimônio declarado por Robério Paulino cresce mais de 20 vezes em seis anos e chega a R$ 2,19 milhões",
-      "imagem": "https://s2-g1.glbimg.com/Sj1kn0f2gwBRKU7Vq5fEWIDExtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/d/TvhkcJTO6YzsbBFUmyaw/dfgh.webp"
-    },
-    {
-      "titulo": "Pedestre morre ao ser atropelado por carreta na Rodovia Anhanguera em Jundiaí; motorista foge",
-      "imagem": "https://s2-g1.glbimg.com/Tr9MuJCZfM0GACYPo1VhlzQX3Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Q/PgHZzMSoWVMl0yt5BqGA/design-sem-nome-2026-08-14t193726.206.png"
     }
   ],
-  "atualizadoEm": "2026-08-14T22:48:08.869Z"
+  "atualizadoEm": "2026-08-14T23:17:37.700Z"
 }
