@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Corinthians repudia atos de racismo contra Hugo Souza na Argentina",
+      "imagem": null
+    },
+    {
+      "titulo": "Grupo de sequestros e extorsão é alvo de operação no RJ",
+      "imagem": null
+    },
+    {
       "titulo": "Educação financeira para jovens: estratégias para falar sobre dinheiro",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Onda de calor em São Paulo: o que sabemos sobre o fenômeno",
       "imagem": null
-    },
-    {
-      "titulo": "Estudo diz que cães conseguem perceber sentimentos por expressão facial",
-      "imagem": null
-    },
-    {
-      "titulo": "Nigel Farage recupera cadeira no parlamento do Reino Unido",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-14T09:43:44.684Z"
+  "atualizadoEm": "2026-08-14T10:40:55.252Z"
 }
