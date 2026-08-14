@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Escola onde Gustavo Veloso estudava faz ato em memória da criança encontrada morta na casa do pai",
+      "imagem": "https://s2-g1.glbimg.com/tlZFh-IntbXG8MXy3fKTt_ScEX4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/F/jr76vqTByXeS5uyuchow/copia-de-modelo-foto-fundo-borrado-1-.png"
+    },
+    {
+      "titulo": "Homem ameaça matar criança de 10 anos em frente a escola em Itaperuna: 'Disse que ia picá-la e jogá-la para os peixes', relata delegado",
+      "imagem": "https://s2-g1.glbimg.com/f5hdKwr04KVqChY7ORMouPW3jpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/1/jErQ8qSpuRKKlvEqB11w/ameaca.jpg"
+    },
+    {
+      "titulo": "Mulher denuncia ex após casa ser incendiada e moto destruída no PI; suspeito foi liberado",
+      "imagem": "https://s2-g1.glbimg.com/NWkkKXjLsjMS7G5c77T_3WzQmwg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/S/RAmM8PRgS9tX8eOwA5Rw/copia-de-edicao-imagens-g1-5-.png"
+    },
+    {
+      "titulo": "Letramento racial e memória negra são temas de encontro em Teresópolis",
+      "imagem": "https://s2-g1.glbimg.com/UaHCHOKswv9fxCkrJSuPrs1wT5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/t52YjsRxefEtga6r4vUQ/letramento.jpg"
+    },
+    {
+      "titulo": "Eleições em Sergipe: Rodrigo Valadares declara R$ 498 mil em bens ao Tribunal Superior Eleitoral",
+      "imagem": "https://s2-g1.glbimg.com/ZtoL9iXBqqYJkJREwUCqRg8QUAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/f/mwgve4TveDTf7RTKbrug/rodrigo-valadares.jpg"
+    },
+    {
+      "titulo": "Homem bate e pneu estoura durante perseguição com picape roubada na Dutra",
+      "imagem": "https://s2-g1.glbimg.com/uzRUynDQo5J79B9bH-UWMLFWtGc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/3/2LmqUyS2ieGdhUMD0IRw/aaaaaaa.jpg"
+    },
+    {
       "titulo": "Adolescente é apreendido após esfaquear estudante durante briga em Indaiatuba",
       "imagem": "https://s2-g1.glbimg.com/sj6NppQbQMCj2pisU_qL-Iu9TsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/U/PLD7cCRxS1QadnxnpdDg/design-sem-nome-2026-08-14t191501.122.jpg"
     },
@@ -37,7 +61,7 @@
       "imagem": "https://s2-g1.glbimg.com/EoNMtD9BSbf1gpubaRMDWg_ozHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/B/hrXgaDS06YVQr3NBFYNA/mc-ryan-sp-stj-manda-soltar-funkeiro-preso-pela-pf-em-esquema-de-r-1-6-bilhao.jpg"
     },
     {
-      "titulo": "Petrobras identifica hidrocarbonetos em poço no Amapá, na Margem Equatorial",
+      "titulo": "Petrobras identifica hidrocarbonetos em poço no Amapá, na Foz do Amazonas",
       "imagem": "https://s2-g1.glbimg.com/zXSiABPss7lLEYEgMTEhor6QD0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/a/VeA3HLS7abvv2lNXG3WA/20250618114337-gc00030837-f00086868.webp"
     },
     {
@@ -95,31 +119,7 @@
     {
       "titulo": "Assista aos telejornais da TV Bahia",
       "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Latrocínio em Guará: ladrões foram intimidados por vizinho com barra de ferro, diz delegado",
-      "imagem": "https://s2-g1.glbimg.com/b3Uc0Vy0pzc2Aj1IbENyXQ09WL0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/K/1RszaEQS6hd5qnGBJ85w/vlcsnap-2026-08-14-16h25m50s628.png"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Subaé",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Festa de Nossa Senhora do Amparo terá programação religiosa neste sábado em Maricá",
-      "imagem": "https://s2-g1.glbimg.com/I0C3GFfq7Qz_n534ofq2XlNZorY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/uNx194RZiKs2O4xqoElg/padroeira.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia dos candidatos ao Governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/bx537Wvz65VC9wTEo5a0_zpxEAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/r/zz9bfhTnSAQsnHbvQN5A/saulo-arcangeli.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-14T23:17:37.700Z"
+  "atualizadoEm": "2026-08-14T23:46:14.289Z"
 }
