@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Pautas governistas devem ficar para depois das eleições",
+      "imagem": null
+    },
+    {
+      "titulo": "Terremoto de magnitude 7,5 atinge a Indonésia, diz agência",
+      "imagem": null
+    },
+    {
       "titulo": "Petrobras anuncia descoberta de petróleo na Foz do Amazonas",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Ídolo na Itália, Immobile anuncia aposentadoria do futebol aos 36 anos",
       "imagem": null
-    },
-    {
-      "titulo": "Romero se despede do Tottenham antes de transferência para clube espanhol",
-      "imagem": null
-    },
-    {
-      "titulo": "Mendonça sobre caso Dark Horse: &#8220;Sou escravo dos autos&#8221;",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-14T22:18:29.290Z"
+  "atualizadoEm": "2026-08-14T22:48:08.247Z"
 }
