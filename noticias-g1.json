@@ -1,7 +1,79 @@
 {
   "noticias": [
     {
-      "titulo": "Homem é sequestrado por engano e abandonado em matagal após vídeochamada em MT",
+      "titulo": "Lavanderia é interditada pela Vigilância Sanitária após denúncia de condições inadequadas na Bahia",
+      "imagem": "https://s2-g1.glbimg.com/0-DxY3rfZtlCNJz9uwFBCppX2Uw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/k/AU489fRvukmtmf51MWow/foto-no-tamanho-home-6-.png"
+    },
+    {
+      "titulo": "MP pede novo concurso público e fim de contratos temporários em prefeitura do Sul de Minas",
+      "imagem": "https://s2-g1.glbimg.com/CYhwCMxpbIwon2c_qOaPAtckrSI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/D/FHJBumQSmAWA59RFgtZg/618146872-1318569266981586-765686882938765904-n.jpg"
+    },
+    {
+      "titulo": "Homem é preso suspeito de agredir companheira com socos e chutes em Oeiras do Pará",
+      "imagem": "https://s2-g1.glbimg.com/VfMHdHzKjvJZ9XqvVmVXAuQRFG4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/1/6Pwk5RS3iyr5LAiWY6zw/img-6294.jpeg"
+    },
+    {
+      "titulo": "Homem morre após ser atingido por tiro acidental durante caçada no Piauí",
+      "imagem": "https://s2-g1.glbimg.com/vO9P5R7BtQbx4Dx6hKggt_mORVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/r/byS5XCSGCJnB1P3Bta9g/edicao-imagens-g1-37-.png"
+    },
+    {
+      "titulo": "Kitesurfista desaparece na Praia de São Marcos, em São Luís",
+      "imagem": "https://s2-g1.glbimg.com/bAVZZWWXAmWZf9KtCNh0-fNUl4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/t/ikyqU4SNijo1LFAmiY3A/kit.jpg"
+    },
+    {
+      "titulo": "Foragido da Justiça por suspeita de estelionato e associação criminosa é preso na Via Dutra, em Barra Mansa",
+      "imagem": "https://s2-g1.glbimg.com/owiunki5ea6uLmIkARJn2Q-jYvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/t/ETaZzBSPaIyrKMDZ45YQ/whatsapp-image-2026-08-15-at-01.18.52.jpeg"
+    },
+    {
+      "titulo": "Juçara vale mais em pé: fruto transforma realidade e gera renda no Vale do Ribeira",
+      "imagem": "https://s2-g1.glbimg.com/QlhjeHoac9a-7-ohUPFUo_vkqV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/z/XPjCz7SOufLRhxNmCjCQ/a-2026-08-14t114929.410.jpg"
+    },
+    {
+      "titulo": "Cubatão instala 1,6 km de ecobarreiras após retirar 10 toneladas de lixo do Rio Casqueiro",
+      "imagem": "https://s2-g1.glbimg.com/yzlxBc3Cng1J9VAKIIK7tRA0WoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/N/ggMgpiSkOM6Q9kYCaZow/foto-tradicional-1-.png"
+    },
+    {
+      "titulo": "Rio tem fim de semana de tempo instável e previsão de chuva",
+      "imagem": "https://s2-g1.glbimg.com/0-jWXWzR1fzFs5Lt8CarMCyvg2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/H/Wq6JrUTdAnTpQbBJLCjQ/g1-ponte.jpg"
+    },
+    {
+      "titulo": "Professor Guilherme, candidato ao Senado, declara R$ 15,4 mil em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/xa0hSwbIXTxEV6zhHpF5NKNaGvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/O/BsnPnrR669vvnNZmQ06Q/whatsapp-image-20260725-at-00.38.32-2-.jpg"
+    },
+    {
+      "titulo": "Lixão que pegou fogo em Iranduba já acumulava multas e irregularidades ambientais, diz Ipaam",
+      "imagem": "https://s2-g1.glbimg.com/cMN5jm7kknnejJMU984nrmojohQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/t/RMM5XbT0qVbA05cok4dA/whatsapp-image-2026-08-14-at-19.44.33.jpeg"
+    },
+    {
+      "titulo": "Campanha eleitoral começa neste domingo (16); veja candidatos ao Governo e Senado no Amapá",
+      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
+    },
+    {
+      "titulo": "Cardiologista volta a ser preso pelo feminicídio da esposa em Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/SfIarbEHWuWGduxT2wMTyqttIX4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/t/4xHUxiSGWmEBqS9L0PqA/para-o-g1-20-.jpg"
+    },
+    {
+      "titulo": "Acidente entre veículos deixa feridos em Aracaju",
+      "imagem": "https://s2-g1.glbimg.com/EO1MhdKzurZ4X3gQ5ePMh3a85UA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/9/nY7qaYSg2IIgWR4MNCPw/whatsapp-image-2026-08-15-at-09.28.13.jpeg"
+    },
+    {
+      "titulo": "Marvel anuncia elenco de 'X-Men' com Maya Boyd, Kit Connor e Adam Driver",
+      "imagem": "https://s2-g1.glbimg.com/qtGH2sTmIDVU1KrG7Qq8MQ1rhYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/u/tQpjQsQMCzMWGiYuZcKQ/design-sem-nome-2026-08-15t093720.264.png"
+    },
+    {
+      "titulo": "Álbum de Hyldon, 'Festa na aldeia' desanima por apresentar somente uma gravação inédita ao longo de oito faixas",
+      "imagem": "https://s2-g1.glbimg.com/pf88venzTAUhIj4Lzmmug56PcJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/1/LnBbskSmADrCRp8QXzEQ/hyldonfotocurta.jpg"
+    },
+    {
+      "titulo": "Missão humanitária leva atendimento odontológico a Território Indígena do Xingu em MT",
+      "imagem": "https://s2-g1.glbimg.com/14yu5g7AsabjflwOUIYrhJG0cgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/E/Z61XePRlGKPRSnPZU6CQ/opcao-1.jpeg"
+    },
+    {
+      "titulo": "Jaguatirica é registrada por câmeras em reserva ambiental na Serra Gaúcha",
+      "imagem": "https://s2-g1.glbimg.com/1KDFsba8m5HkXEXfsEBbAj9C6Lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/E/TnLavTTXWKYGE5BL8k8Q/0815-1-.jpg"
+    },
+    {
+      "titulo": "Homem é sequestrado por engano e abandonado em matagal após videochamada em MT",
       "imagem": "https://s2-g1.glbimg.com/Pj5NjBIzTVXeUSrm9AZOQ4sP6gA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/d/yGe5XaQMOcPW2HDuAVmg/foto-g1-2026-08-15t083545.609.png"
     },
     {
@@ -9,8 +81,8 @@
       "imagem": "https://s2-g1.glbimg.com/uAUMtAnB1wd91ylwU-RC8ir6_RQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/8/EAfSBDR9yjQAE5iMCOKQ/20250605-agb-chuva-29.jpg"
     },
     {
-      "titulo": "VÍDEO: incêndio atinge galpão de materiais recicláveis em BH e mobiliza bombeiros",
-      "imagem": null
+      "titulo": "VÍDEO: incêndio atinge galpão de materiais reutilizáveis em BH e mobiliza bombeiros",
+      "imagem": "https://s2-g1.glbimg.com/lsw8DO15K5m69BXuJadt-_LOtUM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/6/KD2eFfT5ybVtRKrr5c3w/captura-de-tela-2026-08-15-094540.png"
     },
     {
       "titulo": "Locais de prova do concurso da Prefeitura de Araguaína são divulgados; veja como consultar",
@@ -47,79 +119,7 @@
     {
       "titulo": "Professor, militante do PSTU e ex-candidato ao Governo do Maranhão, Ramon Zapata morre aos 65 anos",
       "imagem": "https://s2-g1.glbimg.com/QdKVVulU-XndperjcAbce2cNwO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/W/6YGpFFQkS6541OQzLVcA/montagens-1920-x-1080-px-.png"
-    },
-    {
-      "titulo": "Verão Fortaleza 300 reúne música, esportes e feiras na orla da capital; veja a programação",
-      "imagem": "https://s2-g1.glbimg.com/LrRAFHjbbb1WEprcjXBoxIPORd0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/r/UsFq9ySju1eZdpDtLCZQ/fortaleza-300.jpg"
-    },
-    {
-      "titulo": "Carro furtado na Bahia é recuperado com 1,2 tonelada de maconha em Ponta Porã",
-      "imagem": "https://s2-g1.glbimg.com/UsQd0K6tarfme8xGNbk1lROZyOU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/m/boeGp1TwG34T21tZb5qg/carro-furtado-com-maconha.jpg"
-    },
-    {
-      "titulo": "Pais são condenados a 25 anos de prisão cada um pela morte do filho de 2 anos em Vila Velha",
-      "imagem": "https://s2-g1.glbimg.com/pnO2pWiDduXxONBSh9yxiW0E94Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/e/3lV13wStSH5AcJ28g8Lw/thumb-videos-g1-36-.jpg"
-    },
-    {
-      "titulo": "Desconfie de e-mail ou mensagem com cobrança em nome da Prefeitura",
-      "imagem": "https://s2-g1.glbimg.com/Ceel9AqdtKfx6rjTj0L9YLLKoPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/C/F6UvomRKOiBgvIN1fC7Q/celular-imagem-freepik.jpg"
-    },
-    {
-      "titulo": "Vinícola V Puro faz vinhos minimalistas, mas complexos que refletem o terroir",
-      "imagem": "https://s2-g1.glbimg.com/QaT5cDzRbfS8MO_MF3tOMl7QcAg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/P/j0vBSkRuKENP618aMroQ/capa-doravante-branco-1400px.jpg"
-    },
-    {
-      "titulo": "Tony Ventura e Breno Oliveira são destaques da Feira do Empreendedor no sábado",
-      "imagem": "https://s2-g1.glbimg.com/3CLV9CqnzMRnXf3zb0FutMk2TPE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/q/zFBd1lRzKSfcosXG0VYg/30-01.jpg"
-    },
-    {
-      "titulo": "Professor Inácio Moreira mantém patrimônio de R$ 200 mil em disputa ao Senado pelo Acre",
-      "imagem": "https://s2-g1.glbimg.com/KkAIegeTZdc-byGF7jMXvWDL4iU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/n/uziMC2QdmS7idPNOZcig/whatsapp-image-2026-08-01-at-11.16.01.jpeg"
-    },
-    {
-      "titulo": "Criança fica presa às ferragens após caminhão tombar em serra da BR-116",
-      "imagem": "https://s2-g1.glbimg.com/-NTaGbBTAmTB3WFYrrPiMmsDzhU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/R/ShVsGUSxuefTXlMcqEPg/acidente-116.jpeg"
-    },
-    {
-      "titulo": "Mulher desaparece após carro cair em rio durante a madrugada, na Grande Curitiba; homem foi encontrado morto",
-      "imagem": "https://s2-g1.glbimg.com/T6lqiRt8_EqfEISZBEadwC2IzC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/aVrz1eR42N5FfP7DnHZA/g1-7-.png"
-    },
-    {
-      "titulo": "Carro zero, iPhone e Tigrinho: o que a polícia já sabe sobre os R$ 500 mil que funcionária é suspeita de desviar de supermercado",
-      "imagem": "https://s2-g1.glbimg.com/p-sgL0SwSkDuw_gbTESm3_1d2eQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/J/sinCoRROGELYefKg0rMA/g1-2026-08-13t174544.189.jpg"
-    },
-    {
-      "titulo": "Três suspeitos são mortos e armas são apreendidas após troca de tiros com a polícia, na Grande João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/mQvXWmG3uel3wErcwuozM0gLwgA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/o/RoVXCWS5CT3W1FqTOLIw/whatsapp-image-2026-08-15-at-08.55.02.jpeg"
-    },
-    {
-      "titulo": "Oséias Varão (PL) declara patrimônio de R$ 1 milhão; veja patrimônio de candidato ao Senado em Goiás",
-      "imagem": "https://s2-g1.glbimg.com/gFAXoYA2KoZSccw-JBCm9fjR1ac=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/E/W8UelrRYe0fsg8YqgrCA/oseias-varao.jpg"
-    },
-    {
-      "titulo": "ICMBio rejeita projeto de duplicação da MT-251 dentro do Parque Nacional de Chapada dos Guimarães (MT)",
-      "imagem": "https://s2-g1.glbimg.com/c-Fd-aBXiAJ-LW5Qkcm8dba2Q4w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/A/dE64PDTtizSZ5uSJBLzw/contrafortes-mev-0858.jpg"
-    },
-    {
-      "titulo": "Ex-tesoureiro de agência do Banco do Brasil é preso suspeito de desviar mais de R$ 1,2 milhão em Colinas",
-      "imagem": "https://s2-g1.glbimg.com/cihmXmAIW2ax-jlzA1PVDfz3Df8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/d/R6Hl11QWuNSfuep8WtdQ/agenciabb.jpg"
-    },
-    {
-      "titulo": "Discord responde à ANPD e diz que atua para garantir um 'ambiente digital seguro e saudável'",
-      "imagem": "https://s2-g1.glbimg.com/G9FqRhGEi6XbpjI7aPBEXs4fnMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/buPHArRkWwcvnTMZussQ/discord-1200.jpg"
-    },
-    {
-      "titulo": "Caminhão de 15 toneladas tomba e interdita corredor de ônibus na Avenida Eusébio Matoso, em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Sabesp dá isenções e descontos para renegociação de dívidas no litoral de SP; veja como participar",
-      "imagem": "https://s2-g1.glbimg.com/wOkoDVssoVEXBTjjabqKUuPzxOc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/n/Mim5AoRxytrP7YcF9ogQ/imagem-2025-09-26t104500.943.jpg"
-    },
-    {
-      "titulo": "Homem que teria ajudado na fuga de suspeito de matar PM morre em confronto com a polícia em Parnaíba",
-      "imagem": "https://s2-g1.glbimg.com/7ny25VI-q0lAEW6NF1GtubJWNuE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/5/Ooa017TtiUNacXFLfung/edicao-imagens-g1-14-.jpg.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-15T12:41:59.553Z"
+  "atualizadoEm": "2026-08-15T13:18:00.798Z"
 }
