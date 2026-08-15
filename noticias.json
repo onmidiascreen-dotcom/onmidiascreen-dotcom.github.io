@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Cirurgia plástica melhora a autoestima mesmo ou é só uma ilusão?",
+      "imagem": null
+    },
+    {
+      "titulo": "Golfinho-nariz-de-garrafa: saiba mais sobre espécie encontrada morta em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "O que fazer se pegar piolho? Filha de Viih Tube teve infestação",
+      "imagem": null
+    },
+    {
+      "titulo": "Mesmo com melhora no mercado, mulheres continuam recebendo menos que homens",
+      "imagem": null
+    },
+    {
+      "titulo": "Mulheres negras são as mais afetadas com desemprego no Brasil, diz estudo",
+      "imagem": null
+    },
+    {
+      "titulo": "Saiba por que próximo eclipse solar total visível no Brasil será só em 2045",
+      "imagem": null
+    },
+    {
       "titulo": "Melhora da classe política também exige mudança da sociedade, diz sociólogo",
       "imagem": null
     },
@@ -95,31 +119,7 @@
     {
       "titulo": "EUA pressionam UE para cumprir acordo comercial",
       "imagem": null
-    },
-    {
-      "titulo": "SpaceX conclui compra da startup de IA Cursor",
-      "imagem": null
-    },
-    {
-      "titulo": "Bolsonaro pede para ir ao dentista e sugere nome de esposa de Flávio",
-      "imagem": null
-    },
-    {
-      "titulo": "Fórum em São Paulo discute expansão do enoturismo nas Américas",
-      "imagem": null
-    },
-    {
-      "titulo": "Sobe para 288 o número de mortos pelo terremoto na Colômbia",
-      "imagem": null
-    },
-    {
-      "titulo": "Avião da Nasa desvenda como incêndios florestais criam temporais",
-      "imagem": null
-    },
-    {
-      "titulo": "Indonésia emite alerta de tsunami após terremoto de magnitude 7,7",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T06:31:14.974Z"
+  "atualizadoEm": "2026-08-15T07:16:02.111Z"
 }

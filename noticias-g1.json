@@ -1,6 +1,78 @@
 {
   "noticias": [
     {
+      "titulo": "TV Globinho de volta: cinco momentos inesquecíveis e uma polêmica",
+      "imagem": "https://s2-g1.glbimg.com/E8NgCoTG7EiFsYWJlRUDEiajLWA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/I/SYppGIR5em4AHe7HMTgA/tv-globinho.png"
+    },
+    {
+      "titulo": "Feijoada gigante com duas toneladas de ingredientes é feita no Paraná com apoio de escavadeira hidráulica e caminhão-pipa",
+      "imagem": "https://s2-g1.glbimg.com/w5XxbqcChN59U32UfTPR9bwl628=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/G/flZBzuQuyqQBIiJwn1rw/a1.png"
+    },
+    {
+      "titulo": "Além de 'Corrida dos Bichos', veja 20 filmes, novelas e séries que retratam o jogo do bicho",
+      "imagem": "https://s2-g1.glbimg.com/AMd-J2HHuzH9ugiYbxF2TTTInO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/8/T8XJJxT8mS9TL9oDgBnA/260326-info-timeline-jogo-do-bicho-no-cinema-2-.jpg"
+    },
+    {
+      "titulo": "Patinete elétrico ou moto: estudo encontra diferença surpreendente nas lesões após acidentes",
+      "imagem": "https://s2-g1.glbimg.com/Fu7v1yjR28_aLFr8RCWh7v-z024=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Q/h/YY3okyQKWKiFIxASHFKw/2023-04-01t144236z-1985629492-rc2p50aqn3zy-rtrmadp-3-paris-scooters.jpg"
+    },
+    {
+      "titulo": "Casos de bactéria ‘comedora de carne’ aumentam com aquecimento dos oceanos",
+      "imagem": "https://s2-g1.glbimg.com/PNFtqVmKfVFpsW3mcOhVVEyqB48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/c/68K9XtRv2mKABUuQ3F9Q/vibrio-vulnificus.jpg"
+    },
+    {
+      "titulo": "'O Assunto': veja como pais podem aumentar segurança digital de crianças e adolescentes em 7 dicas",
+      "imagem": null
+    },
+    {
+      "titulo": "'Desce madeira. Aí é terapia': veja mensagens entre vigilantes presos por matar e torturar moradores em situação de rua no ES",
+      "imagem": "https://s2-g1.glbimg.com/ggjh4rzOyL6r70J915l9ojll8D4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/a/Dt6WJ6RhiMVv6UWi3eKQ/whatsapp-image-2026-08-14-at-15.22.37.jpeg"
+    },
+    {
+      "titulo": "Transição capilar: dona de casa do ES raspa o cabelo e viraliza; 'Foi como voltar à vida'",
+      "imagem": "https://s2-g1.glbimg.com/OWA1qeLmBS4NlOirnVotCKo4_XE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/P/3jfwnCSUOYzKUKYSg1lQ/guarapari-3-.jpg"
+    },
+    {
+      "titulo": "'Tovaca-de-baturité': cientistas descobrem outra espécie de ave que vive apenas no Ceará; escute o canto",
+      "imagem": "https://s2-g1.glbimg.com/yu2XgbKHgSb1IsVjPmrwI9FPxAs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/B/N2SZ5yQoAfkEDITpC9rg/whatsapp-image-2026-08-07-at-14.32.12.jpeg"
+    },
+    {
+      "titulo": "Abandono de animais com carro pode virar infração gravíssima e levar à perda da CNH por 18 meses",
+      "imagem": "https://s2-g1.glbimg.com/8Iph6g4sZlkNngianoAbIFDO5PE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/V/IC6K7sQU2VNEPcErD13Q/thumbnail-frame1saoleopoldo.jpg"
+    },
+    {
+      "titulo": "Preços com ou sem imposto: reforma tributária deixou dúvida sobre como anunciar valor de produtos",
+      "imagem": "https://s2-g1.glbimg.com/8hlWIkl99rWrtrUfKAeoSIHpVrY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/f/f/gqREVhSL6kMXCIKTDMVg/eletros.jpeg"
+    },
+    {
+      "titulo": "Paciente relata ter passado por 3 cirurgias após procedimentos estéticos em clínica investigada no Rio",
+      "imagem": "https://s2-g1.glbimg.com/T-AQZFULgdFU6frW0OW1KhE_n_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/H/WSUWYeTLAjT09IFgX2tg/imagem-cortada-2026-08-14t155459.347.jpg"
+    },
+    {
+      "titulo": "Beber, fumar, usar pijama, fazer tarefas domésticas e mais: o que pode dar problema no home office?",
+      "imagem": "https://s2-g1.glbimg.com/IA_6YHfou9TjaGEfX_dX-ILD6QQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/Q/KHToW6RdqrPG7boe3gCw/pexels-freestockpro-12517509.jpg"
+    },
+    {
+      "titulo": "Sistema Paraopeba, que abastece a Grande BH, opera com 75,5% da capacidade",
+      "imagem": "https://s2-g1.glbimg.com/kCU0VVovW5JClxiqamKxaDYDTWc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/G/i/VwECokQMWAcHztx6dc2Q/nivel-reservatorios.jpg"
+    },
+    {
+      "titulo": "Entenda por que o PT não terá candidato a governador no RS pela primeira vez na história",
+      "imagem": "https://s2-g1.glbimg.com/6H4tL_P7s2l8-YXjYqzkw4ntwaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/N/VmaEJvQv6LiBl3nAmm6g/g1-64-.jpg"
+    },
+    {
+      "titulo": "De estrela de Cambridge a acusado de mentir e plagiar: entenda caso de professor inglês negro achado morto",
+      "imagem": "https://s2-g1.glbimg.com/bk2oR6NNkCFhaeOpXpNE97gLN_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/j/HmBJBHQEKAK7JAXUyWOA/ap26218282881622.jpg"
+    },
+    {
+      "titulo": "Representatividade: irmãos de MG vencem preconceito e conquistam mercado com café especial LGBT",
+      "imagem": "https://s2-g1.glbimg.com/nAvCNTIoA3-H3QXROU8xS-eLx5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/s/g1goiETjK6WtadbHnUyA/irmaos-nhai.jpeg"
+    },
+    {
+      "titulo": "‘Amores vaporosos’: excesso de opções e falta de tempo desafiam relacionamentos em São Paulo",
+      "imagem": "https://s2-g1.glbimg.com/cjS3p-DqCzIRMJP2Ena6-P9mC_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/P/9xCr9zTt6qMnxFvL4f9g/bloco-1-novo-frame-at-4m38s.jpg"
+    },
+    {
       "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens ao longo do dia; noite de céu limpo",
       "imagem": "https://s2-g1.glbimg.com/WjuPnOPfexJJkMzXnUyYoP1s798=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/xCfrHmT8iGlfFXAJaUAA/previsao-tempo-bras-lia-20260815-030611.jpeg"
     },
@@ -47,79 +119,7 @@
     {
       "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
       "imagem": "https://s2-g1.glbimg.com/kAkn53MtiZ49qc2AGgxPt69qy28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/p/SkTa1SSA6yG2bYul52QQ/previsao-tempo-sete-lagoas-20260815-030255.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/XYRRk-m3F-tkT0g4JirRoOYCyDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/ltMDNjScWA6DRXBE2Pfw/previsao-tempo-ribeir-o-das-neves-20260815-030237.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Contagem (MG): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/Vi_XVGyQVbPGY68AujLKkmKdDzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/h/Q00byhS0iPCcBhFvZWFQ/previsao-tempo-contagem-20260815-030223.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Betim (MG): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/VJPlJwSBV53xUm3yC2mN2VWo46g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/t/nO6ZWRQne8Omk5LdADgg/previsao-tempo-betim-20260815-030204.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/nz9gK2RWPFJdP4mLBKZc7xV8hLk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/7/PpB58mQRyrl85JC6qN5w/previsao-tempo-belo-horizonte-20260815-030148.jpeg"
-    },
-    {
-      "titulo": "Justiça bloqueia R$ 1 bilhão em bens de ex-gestores e empresas por suposto esquema de fraude na iluminação pública de SP",
-      "imagem": "https://s2-g1.glbimg.com/bAh2hxkxCl7MUAuBbqsBpxzgAos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/U/1/9vUZuzTESAClTGASIAAw/luzes.jpg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/SWZ2rY9qzOvVcNCTMlTT3xm5DWU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/m/506vxVRq2Cp86e0t1gGw/previsao-tempo-recife-20260815-030132.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Paulista (PE): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/OFHT9DHMIK8kVcLYIq_qnZmTtYA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/s/c7hhiWQ1WMBm4rqHN60w/previsao-tempo-paulista-20260815-030115.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Olinda (PE): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/tbjpjM7eMwglmUF-JUiLV6EDeVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/l/vNKl0gTKyZV8vQLIiMsQ/previsao-tempo-olinda-20260815-030058.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Jaboatão dos Guararapes (PE): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/UX1qnIGkQ389vwqx3lcR0BAqMzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/D/81qVnKTdWHQ1DlswAxWg/previsao-tempo-jaboat-o-dos-guararapes-20260815-030041.jpeg"
-    },
-    {
-      "titulo": "Quaresma de São Miguel Arcanjo começa neste sábado; entenda a tradição católica que reúne fiéis em 40 dias de oração",
-      "imagem": "https://s2-g1.glbimg.com/ttEaVnPcnv-O5eOGYXqAxoVsNeY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/p/TPcYQXRsmxFtJoWvdMFg/img-1796.jpg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Cabo de Santo Agostinho (PE): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/q6rtn3ODWJudb0dQ1wqeY30cLEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/7/tHXMB6Rv28sc4BdDQJBA/previsao-tempo-cabo-de-santo-agostinho-20260815-030026.jpeg"
-    },
-    {
-      "titulo": "Latrocínio em Guará: o que se sabe sobre morte de dono de oficina que tentou impedir roubo de caminhonete",
-      "imagem": "https://s2-g1.glbimg.com/cBTZMjHanCMov0hGWc0_t9HnKOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/v/0qkjrZRcuAgwpipRtA0Q/molduras-g1-.png"
-    },
-    {
-      "titulo": "Conhecido caçador de tempestades dos EUA planeja vir ao Sul do Brasil para observar tornados",
-      "imagem": "https://s2-g1.glbimg.com/PZZrJsioAiX1voTxEsfPmJjK_Zo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/L/bvsKmyTgCSTnnIAvjo4g/g1-8-.png"
-    },
-    {
-      "titulo": "Marília Arraes, candidata ao Senado pelo PDT, declara R$ 2,6 milhões em bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/UynH-i-uCkcqqEmo9-SLMomN0oE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/0/REzVRYRWC7TNV8gojM2Q/marilia-arraes.jpg"
-    },
-    {
-      "titulo": "Mendonça Filho, candidato ao Senado pelo PL, declara R$ 2,2 milhões em bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/6XAyyWoVCu8s0CB3XTHCx7BqjwQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/D/jBgysCRqAquxATmCMbIQ/mendonca.jpeg"
-    },
-    {
-      "titulo": "Humberto Costa, candidato ao Senado pelo PT, declara R$ 960 mil em bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/UMUuCjdVAEex-AX0kBJMPDHV99Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/y/TarcAYRiWftbZeAA8Nsw/whatsapp-image-2026-07-20-at-15.23.39.jpeg"
-    },
-    {
-      "titulo": "Paulo Rubem Santiago, candidato ao Senado pela Rede, declara R$ 319 mil em bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/eZYC-FFFDJLTEkXey2h9JzRh0TE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/8/tSNL09SyAjWBOipGVJYg/paulo-rubem.jpeg"
-    },
-    {
-      "titulo": "Netanyahu chama Reino Unido de 'a primeira república islâmica a obter uma arma nuclear'",
-      "imagem": "https://s2-g1.glbimg.com/Fxg1Iq93LfNG_snfQpyGzbYsSIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/h/WwQBvfTUuAdwSgNqBO9A/captura-de-tela-2026-03-16-145515.png"
     }
   ],
-  "atualizadoEm": "2026-08-15T06:31:16.402Z"
+  "atualizadoEm": "2026-08-15T07:16:03.047Z"
 }
