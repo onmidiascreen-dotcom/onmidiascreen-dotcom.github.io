@@ -1,6 +1,38 @@
 {
   "noticias": [
     {
+      "titulo": "Ipaam multa Prefeitura de Iranduba em R$ 2,5 milhões por queima de resíduos a céu aberto durante incêndio em lixão",
+      "imagem": "https://s2-g1.glbimg.com/iX-buiWM5udxIzNtfg-InbuxgZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/n/JyHdQXSDuIxSeqR7yupA/whatsapp-image-2026-08-14-at-20.24.02.jpeg"
+    },
+    {
+      "titulo": "Petrobras anuncia descoberta de petróleo na bacia da Foz do Amazonas",
+      "imagem": "https://s2-g1.glbimg.com/1F5MJJJ_yUnoFbFd7XoH5yLesVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/rDjNrFSZuBKGcH2svzyw/globo-canal-4-20260814-2000-frame-125284.jpeg"
+    },
+    {
+      "titulo": "Carlin Moura, candidato ao Senado, declara R$ 50 mil em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/1pzEKPA_7z01C-b0EfygSvudJKs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/x/yuIA10SAallMp2QupkQg/carlinmoura.jpg"
+    },
+    {
+      "titulo": "Justiça marca audiência de acusado de matar homem a facadas em Belém",
+      "imagem": "https://s2-g1.glbimg.com/SKwlJtf3Db7sZCbO0Gqy2AaydHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Q/Kr07SITmSLxlWi7GVUSQ/image-2026-08-14t220059.681.png"
+    },
+    {
+      "titulo": "Quaest: no 2º turno, Lula tem 43%; Flávio Bolsonaro, 40%",
+      "imagem": "https://s2-g1.glbimg.com/VEASi8GFpLVh2IcGVr6tYYKlXXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/D/yb9QlBS7Gayl2JReRTQw/globo-canal-4-20260814-2000-frame-100265.jpeg"
+    },
+    {
+      "titulo": "Homem invade loja de materiais de construção e executa funcionário a tiros em MS",
+      "imagem": "https://s2-g1.glbimg.com/jve-eOSLk_wMAwQVaQ8u8DokbLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/V/SX0AiQQk6SzGWAjxXswg/1200-x-800-40-.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 14 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/0tcFtTYgnB5n5mx6vb1ZOzw8_qI=/s01.video.glbimg.com/deo/vi/60/09/14870960"
+    },
+    {
+      "titulo": "BDXP 2026 fortalece o ecossistema de Inteligência Artificial em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/Ud_aprRiZiaAjb_kWnjTBHDO_X4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/Sq1omEQJmzzcORqolueg/foto-4-1-.jpg"
+    },
+    {
       "titulo": "'Lutar contra isso', diz Hugo Souza, goleiro do Corinthians, sobre caso de racismo em jogo da Copa Libertadores",
       "imagem": "https://s2-g1.glbimg.com/35Zd-O-WVpGPYJSOQyTPuX28Dfg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/V/6UYvcSQjmDNgJApoJGLw/globo-canal-4-20260814-2000-frame-138073.jpeg"
     },
@@ -13,8 +45,8 @@
       "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
     },
     {
-      "titulo": "Famílias de marinheiros de porta-aviões dos Estados Unidos denunciam falta de comida e até tentativas de suicídio a bordo",
-      "imagem": "https://s2-g1.glbimg.com/1sHjbTADE1tcsFjoEd9CxTPB8Oo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/L/vlzsqZRoWRBCMmrzD0ow/globo-canal-4-20260814-2000-frame-131068.jpeg"
+      "titulo": "Veja a rota do porta-aviões que gerou crise nos EUA por estar há 260 dias em missão",
+      "imagem": "https://s2-g1.glbimg.com/tnpauP6Pv623p3HGFBRPuQbX4Xk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/4/7Bs7a3Qy6RszjXEAmXkg/captura-de-tela-2026-08-14-214947.png"
     },
     {
       "titulo": "Suspeito de bater carro de propósito para tentar matar companheira é preso em SC",
@@ -87,39 +119,7 @@
     {
       "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de sexta-feira, 14 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/uUusHWXP-0SguPMUUUoCBHot0Ng=/s01.video.glbimg.com/deo/vi/68/05/14870568"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 14 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/Z-O-qOziiJrTiKrgo9XUja0dyrE=/s01.video.glbimg.com/deo/vi/14/08/14870814"
-    },
-    {
-      "titulo": "Ex-governador do RJ Cláudio Castro é investigado por favorecer empresários na concessão de licenças ambientais",
-      "imagem": "https://s2-g1.glbimg.com/HVTrdK_RNnnIUKs2J-mLsJiveRc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/i/rVBdncTA2t2TVURxskJA/globo-canal-4-20260814-2000-frame-75005.jpeg"
-    },
-    {
-      "titulo": "Incêndio que atinge o nordeste de Goiás já destruiu quase 11 mil hectares de vegetação do Cerrado",
-      "imagem": "https://s2-g1.glbimg.com/qDCeh8J5Z5eQcUdtfyuM3pVHiNo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/F/eh8B5RTWCbiI2XksnCEw/globo-canal-4-20260814-2000-frame-68661.jpeg"
-    },
-    {
-      "titulo": "Incêndios florestais obrigam milhares de pessoas a saírem de casa na Europa",
-      "imagem": "https://s2-g1.glbimg.com/gjZ3AcZGGJndrabEHsU-rTj002c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/j/6VdcEjRwidAd7C7oH0og/globo-canal-4-20260814-2000-frame-65802.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: NSC Notícias de sexta-feira, 14 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/eAygr4aRb2Pj0C_YCWsrpc8tG5g=/s01.video.glbimg.com/deo/vi/30/05/14870530"
-    },
-    {
-      "titulo": "Desemprego na Paraíba cai para 5,4%; taxa é a menor da série histórica e do Nordeste",
-      "imagem": "https://s2-g1.glbimg.com/sHdJIKSjEH41JmWvRXcR_K8rhuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/G/AuICD5Smiju7zH4vkGQA/gil-leonardi-imprensamg-img-3025.jpg"
-    },
-    {
-      "titulo": "VÍDEO mostra sonda da Petrobras em área com sinais de petróleo e gás na Foz do Amazonas",
-      "imagem": "https://s2-g1.glbimg.com/7SQwKUlxVHN7_BJkoSWp-hh9Dr0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/i/QvjvAVR1uqF4Nu5T15Jw/sonda-petrobras.jpg"
-    },
-    {
-      "titulo": "Investigador é vítima de tentativa de assalto na Berrini, reage e troca tiros com suspeitos; 4 são presos",
-      "imagem": "https://s2-g1.glbimg.com/XYQZtF8zf57YjbaxJnHCySnsN9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/U/6DTIpoRxKMXxdfIn9twg/fotojet-2026-08-14t204730.984.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-15T01:00:48.864Z"
+  "atualizadoEm": "2026-08-15T02:18:28.674Z"
 }
