@@ -1,11 +1,43 @@
 {
   "noticias": [
     {
+      "titulo": "Caminhão carregado de pedras tomba e provoca rachaduras em asfalto de rodovia na Bahia",
+      "imagem": "https://s2-g1.glbimg.com/ssyRipz7WUfLb_vNYjg1Kggm6sQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/b/5THdSUQCiRUs1a7vhm2A/rodovia-prf.jpeg"
+    },
+    {
+      "titulo": "Defesa Civil emite alerta severo de rajadas de vento para cidades do Sul do Rio",
+      "imagem": "https://s2-g1.glbimg.com/YXUEU0Ggmf5Sb1Kw_KmAm18qWVo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/U/OAA5yTRFObbMm54phVOg/whatsapp-image-2026-08-15-at-15.52.29-1-.png"
+    },
+    {
+      "titulo": "Caminhão tomba após ser atingido por carro de motorista sem CNH na pista contrária em Limeira",
+      "imagem": "https://s2-g1.glbimg.com/xY-CLec5kJNexIoWwvNLeySoewI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/s/kfQagxR7GYZCrvRA5dnQ/capas-ana.png"
+    },
+    {
+      "titulo": "Homem morre após sofrer possível choque elétrico em CTG de Ponta Porã",
+      "imagem": "https://s2-g1.glbimg.com/12znhGN2to7FiZrOobZbcAHwbqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/Y/wjxm8sQreD6Ym9HA5zGw/ghnjmk-l..png"
+    },
+    {
+      "titulo": "VÍDEO: Entregador gira no ar ao bater em carro que avançou 'pare' em MG",
+      "imagem": "https://s2-g1.glbimg.com/b7KKTBD0wFPpYm3V1VIUZGdlAmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/K/PMG8sKR7aLZsfYIDp0vA/design-sem-nome-3-.png"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Amazonas 1ª edição deste sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/4xAvnWQvWpZCu6ExEkF5EK3-PCM=/s01.video.glbimg.com/deo/vi/23/22/14872223"
+    },
+    {
+      "titulo": "Terremoto na Colômbia: mulher resgatada após quase 37 horas sob escombros morre, dizem familiares",
+      "imagem": "https://s2-g1.glbimg.com/WpdtzPEA75IPLnpGTrpdKj01uIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/o/BNvzQqQnuCFPdbkq5h1Q/2026-08-12t015529z-301134894-rc2pwma28tw4-rtrmadp-3-colombia-quake.jpg"
+    },
+    {
+      "titulo": "Caminhada com Maria reúne milhares de fiéis em Fortaleza; veja imagens",
+      "imagem": "https://s2-g1.glbimg.com/SyLBSq03cqECBoT7XLph8NZFVL0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/E/DZasaBRGyrTSbe0Apdzw/caminhada-com-maria.jpg"
+    },
+    {
       "titulo": "Casal morre após lancha colidir com pilar de ponte no Puraquequara, em Manaus",
       "imagem": "https://s2-g1.glbimg.com/1ACfYQYPgjTxwY4vWLz7oHNcPaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/Q/vpe2UvSJyb5E9Kjif99Q/iml-de-manaus-foto-gato-junior-rede-amazonica.jpeg"
     },
     {
-      "titulo": "VÍDEO: Suspeito de violência doméstica é baleado após lutar com PMs e disparar arma em Dourados (MS)",
+      "titulo": "VÍDEO: Suspeito reage à abordagem e acaba baleado após tomar arma de PM",
       "imagem": "https://s2-g1.glbimg.com/Kij7_81-XLWHc_OAX-v_lfA18vA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/n/NHzQR3TfG2XbEECRk6Kg/formato-g1.png"
     },
     {
@@ -65,7 +97,7 @@
       "imagem": "https://s2-g1.glbimg.com/ffUIqqM06-WJaieY1fMnOCP4obw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/t/lEsMfcQaG9gZQPAqwdAA/2026-06-26t102702z-1393571007-rc2m1mao0kuv-rtrmadp-3-iran-crisis-israel-lebanon.jpg"
     },
     {
-      "titulo": "Rolisene Santana, candidata a senadora pela Paraíba, declara não ter bens ao TSE",
+      "titulo": "Rosilene Santana, candidata a senadora pela Paraíba, declara não ter bens ao TSE",
       "imagem": "https://s2-g1.glbimg.com/d1YI-d08HWYtdUDynw0fQ-bPMTY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/j/fnyV1cTBqFBMOwynzBNA/rosilene-.png"
     },
     {
@@ -87,39 +119,7 @@
     {
       "titulo": "Eleições no DF: José Roberto Arruda, do PSD, declara R$ 830 mil em bens; vice tem R$ 26,3 milhões",
       "imagem": null
-    },
-    {
-      "titulo": "Acidente entre dois carros destrói veículo no Centro de Governador Valadares",
-      "imagem": "https://s2-g1.glbimg.com/S4wXXqhzpvsRzIZA60brgut0ZG0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/u/0HzeJTQd2Pu4PJ1xNIZA/carol-13-.png"
-    },
-    {
-      "titulo": "'ÉPra Cantar' 2026: Amanda Rissi vence concurso musical da EPTV e vai se apresentar no Barretão",
-      "imagem": "https://s2-g1.glbimg.com/x1DzZ0iHPym8WlEtPTOpivAjpOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/t/7uhGPJQP2omUGsW1VXqw/design-sem-nome-2026-08-07t162348.807.jpg"
-    },
-    {
-      "titulo": "Marceneiro é preso suspeito de dopar pessoas para roubar contas no sul da Bahia",
-      "imagem": "https://s2-g1.glbimg.com/iC7AlkmWORVbiMtgQl0647Q2Qtc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/w/Z65PTuQ2A39tDutBedQw/marcenriro.png"
-    },
-    {
-      "titulo": "Polícia encontra quatro pessoas mortas dentro de casa em Parauapebas, no PA",
-      "imagem": "https://s2-g1.glbimg.com/XVWd__-59iOycOPDDJ-kryw4Ry8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/p/XbuFNfSJKSq2E4uPZIKA/geral-g1-11-.png"
-    },
-    {
-      "titulo": "VÍDEO: Carro pega fogo após bater em caminhão em Brasília",
-      "imagem": "https://s2-g1.glbimg.com/cEQQVpBp04R8KazK5n1MwxEMEHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/X/DZUGEHS5GufstKaGWlQg/whatsapp-image-2026-08-15-at-14.22.17.jpeg"
-    },
-    {
-      "titulo": "Porta com chave do lado de fora levantou suspeita de que suicídio no Paraná pode ser homicídio, diz delegado",
-      "imagem": "https://s2-g1.glbimg.com/IXQ_h8xwGsqawLlF4o5Mosy76Hw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/C/MYzo2wT3KZPOATTIwNvg/janela3.png"
-    },
-    {
-      "titulo": "20 bombeiros participam de buscas por kitesurfista desaparecido em São Luís",
-      "imagem": "https://s2-g1.glbimg.com/lMge6eCswHMrbg0SAA1TtJ6ovWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/3/Vo6VmnRnSGwucnACn4gQ/montagens-1920-x-1080-px-1-.png"
-    },
-    {
-      "titulo": "Polícia apreende carro que teria sido utilizado em assassinato de policial carbonizado na Grande Fortaleza",
-      "imagem": "https://s2-g1.glbimg.com/2cJGgzOdVH9jQ63r1ZbZ8tJ8PwQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/hLZZ0hTDayAMOKuBcAEg/fotojet-2-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-15T19:32:59.886Z"
+  "atualizadoEm": "2026-08-15T19:55:15.208Z"
 }

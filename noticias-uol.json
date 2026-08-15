@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Justiça do Rio anula quebra de sigilo de celular achado em cela de Jairinho",
+      "imagem": null
+    },
+    {
+      "titulo": "Acusada de se passar por criança para ser adotada em SC tem oito doenças mentais, diz defesa",
+      "imagem": null
+    },
+    {
+      "titulo": "Augusto Cury tem maior patrimônio entre presidenciáveis, e Lula registra queda de bens",
+      "imagem": null
+    },
+    {
+      "titulo": "Os pedreiros que encontraram tesouro de R$ 54 milhões em moedas e barras de ouro em parede de casa na Bélgica",
+      "imagem": null
+    },
+    {
       "titulo": "Brasil é bronze no Mundial de ginástica rítmica e garante vaga nas Olimpíadas",
       "imagem": null
     },
@@ -43,23 +59,7 @@
     {
       "titulo": "Saiba onde assistir Fluminense x Palmeiras ao vivo neste sábado (15)",
       "imagem": null
-    },
-    {
-      "titulo": "Nariz achatado é a razão por que os macacos nunca poderão falar como os humanos",
-      "imagem": null
-    },
-    {
-      "titulo": "Milan de Rúben Amorim vence Manchester United em amistoso na Polônia",
-      "imagem": null
-    },
-    {
-      "titulo": "Saiba o que pode e o que não pode na campanha eleitoral que tem início neste domingo (16)",
-      "imagem": null
-    },
-    {
-      "titulo": "Palestinos em Qusra afirmam que enfrentam ataques de colonos militantes há meses",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T19:32:58.863Z"
+  "atualizadoEm": "2026-08-15T19:55:13.503Z"
 }
