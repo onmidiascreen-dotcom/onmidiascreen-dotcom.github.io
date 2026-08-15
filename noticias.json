@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Melhora da classe política também exige mudança da sociedade, diz sociólogo",
+      "imagem": null
+    },
+    {
       "titulo": "Peru faz simulação para desastres após terremotos na Colômbia e Venezuela",
       "imagem": null
     },
@@ -9,7 +13,7 @@
       "imagem": null
     },
     {
-      "titulo": "Terremoto de magnitude 7,7 deixa ao menos dois mortos na Indonésia",
+      "titulo": "Terremoto de magnitude 7,7 deixa ao menos 20 mortos na Indonésia",
       "imagem": null
     },
     {
@@ -115,11 +119,7 @@
     {
       "titulo": "Indonésia emite alerta de tsunami após terremoto de magnitude 7,7",
       "imagem": null
-    },
-    {
-      "titulo": "Com lesões seguidas no Santos, Gabriel Menino lamenta pior fase na carreira",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T05:50:03.785Z"
+  "atualizadoEm": "2026-08-15T06:31:14.974Z"
 }
