@@ -1,6 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "USP desenvolve IA para identificar cárie em radiografias",
+      "imagem": null
+    },
+    {
+      "titulo": "Futebol europeu de volta: veja agenda de jogos do fim de semana",
+      "imagem": null
+    },
+    {
+      "titulo": "Embaixadas dos EUA no Oriente Médio reduzem equipes durante guerra com Irã",
+      "imagem": null
+    },
+    {
+      "titulo": "Reciprocidade tenta fazer EUA negociarem tarifas novamente, diz Arko Advice",
+      "imagem": null
+    },
+    {
+      "titulo": "Colômbia entra no sexto dia de buscas por sobreviventes após terremoto",
+      "imagem": null
+    },
+    {
+      "titulo": "Bragantino x Vitória: horário e onde assistir ao Brasileirão Feminino",
+      "imagem": null
+    },
+    {
+      "titulo": "Psiquiatra detalha a Dr. Kalil quais os tipos de transtornos alimentares",
+      "imagem": null
+    },
+    {
       "titulo": "“Não entrem em pânico”: Terremoto assusta turistas em ilha na Indonésia",
       "imagem": null
     },
@@ -91,35 +119,7 @@
     {
       "titulo": "São Paulo x Coritiba: horário e onde assistir ao jogo do Brasileirão",
       "imagem": null
-    },
-    {
-      "titulo": "IBP: Brasil deve usar recursos para se preparar para transição energética",
-      "imagem": null
-    },
-    {
-      "titulo": "Cirurgia plástica melhora a autoestima mesmo ou é só uma ilusão?",
-      "imagem": null
-    },
-    {
-      "titulo": "Golfinho-nariz-de-garrafa: saiba mais sobre espécie encontrada morta em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "O que fazer se pegar piolho? Filha de Viih Tube teve infestação",
-      "imagem": null
-    },
-    {
-      "titulo": "Mesmo com melhora no mercado, mulheres continuam recebendo menos que homens",
-      "imagem": null
-    },
-    {
-      "titulo": "Mulheres negras são as mais afetadas com desemprego no Brasil, diz estudo",
-      "imagem": null
-    },
-    {
-      "titulo": "Saiba por que próximo eclipse solar total visível no Brasil será só em 2045",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T09:21:30.662Z"
+  "atualizadoEm": "2026-08-15T09:48:43.892Z"
 }

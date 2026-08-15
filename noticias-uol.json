@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Terremoto de magnitude 7,7 mata ao menos 38 na Indonésia",
+      "imagem": null
+    },
+    {
       "titulo": "Signos: confira seu horóscopo deste sábado (15)",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Indonésia contabiliza estragos após terremoto de magnitude 7,7 e teme aumento do número de vítimas",
       "imagem": null
-    },
-    {
-      "titulo": "Debates de disciplina da USP sobre desigualdade no uso das leis criminais chegam a livro",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T09:21:30.225Z"
+  "atualizadoEm": "2026-08-15T09:48:43.666Z"
 }
