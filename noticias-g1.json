@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "Ataques de Israel no sul do Líbano matam ao menos 11, diz ministério",
+      "imagem": "https://s2-g1.glbimg.com/ffUIqqM06-WJaieY1fMnOCP4obw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/t/lEsMfcQaG9gZQPAqwdAA/2026-06-26t102702z-1393571007-rc2m1mao0kuv-rtrmadp-3-iran-crisis-israel-lebanon.jpg"
+    },
+    {
+      "titulo": "Rolisene Santana, candidata a senadora pela Paraíba, declara não ter bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/d1YI-d08HWYtdUDynw0fQ-bPMTY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/j/fnyV1cTBqFBMOwynzBNA/rosilene-.png"
+    },
+    {
+      "titulo": "Danilo Soares não declara bens ao TSE; Eryck Veloso também não informa",
+      "imagem": "https://s2-g1.glbimg.com/McOBMi0deTxO4V8sL8fOGUZ81P0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/7/XBcAksR2W44ARTYVayYg/danilo-soares-nao-declara-bens-ao-tse-eryck-veloso-tambem-nao-informa.jpg"
+    },
+    {
+      "titulo": "Omar Aziz declara R$ 2 milhões em bens ao TSE; vice Alessandra Campêlo informa R$ 1,4 milhão",
+      "imagem": "https://s2-g1.glbimg.com/gFM3oVzUQBdq0nUJGExDZN4_RSI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/Z/3FjL4XQvmAYghZZwBsMQ/omar-aziz-entrevista-cbn.jpg"
+    },
+    {
+      "titulo": "Polícia Ambiental identifica corte irregular de mais de 50 árvores na Ilha Grande, em Angra dos Reis",
+      "imagem": "https://s2-g1.glbimg.com/TAjHoi56SwyXqwh7OO82xCVBDEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/4/78ovmSQ5mOsLGLc5g7sw/whatsapp-image-2026-08-15-at-15.18.55-1-.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: Incêndio em área de vegetação ameaça casas em cidade no Piauí",
+      "imagem": "https://s2-g1.glbimg.com/Dfs1IsbJb2V4uP36aKujw_8a_ic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/2/xP07JCQYaSzvFCAB7IEA/edicao-imagens-g1-5-.png"
+    },
+    {
+      "titulo": "Eleições no DF: José Roberto Arruda, do PSD, declara R$ 830 mil em bens; vice tem R$ 26,3 milhões",
+      "imagem": null
+    },
+    {
+      "titulo": "Acidente entre dois carros destrói veículo no Centro de Governador Valadares",
+      "imagem": "https://s2-g1.glbimg.com/S4wXXqhzpvsRzIZA60brgut0ZG0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/u/0HzeJTQd2Pu4PJ1xNIZA/carol-13-.png"
+    },
+    {
+      "titulo": "'ÉPra Cantar' 2026: Amanda Rissi vence concurso musical da EPTV e vai se apresentar no Barretão",
+      "imagem": "https://s2-g1.glbimg.com/x1DzZ0iHPym8WlEtPTOpivAjpOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/t/7uhGPJQP2omUGsW1VXqw/design-sem-nome-2026-08-07t162348.807.jpg"
+    },
+    {
       "titulo": "Marceneiro é preso suspeito de dopar pessoas para roubar contas no sul da Bahia",
       "imagem": "https://s2-g1.glbimg.com/iC7AlkmWORVbiMtgQl0647Q2Qtc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/w/Z65PTuQ2A39tDutBedQw/marcenriro.png"
     },
@@ -83,43 +119,7 @@
     {
       "titulo": "Justiça encaminha ao STJ investigação sobre contrabando de mercúrio em garimpo de MT após suposta ligação com ex-governador Mauro Mendes",
       "imagem": "https://s2-g1.glbimg.com/_dNUtBOj9vyZB_DUBKlFklAWnAs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/4/LtOCgwTC66NndqF8qaIg/foto-g1-41-.png"
-    },
-    {
-      "titulo": "Filha de Regina Casé fala sobre deficiência auditiva e transforma experiência em peça para ampliar debate sobre surdez; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/AeAo9zwG0AhWlzsePyPSXhjUJWY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/t/znsJNSQyqSA9zUKNTYGw/benedita-frame-at-2m55s.jpg"
-    },
-    {
-      "titulo": "Problemas de audição não afeta só os ouvidos: entenda os impactos no cérebro e no equilíbrio",
-      "imagem": "https://s2-g1.glbimg.com/0UkoojDMY2YQRgyohG1bcyd3W-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/t/rbv0hxTVq0xcMsmdddSg/audicao-estudos-frame-at-1m35s.jpg"
-    },
-    {
-      "titulo": "Polícia apreende metralhadora antiaérea durante operação no Amarelinho, em Acari; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/O0lm2Fx6h29tS8RsB22LsFqTxRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/u/b8CJtyTjyeGO8buKRDBw/metralhadora.jpeg"
-    },
-    {
-      "titulo": "Os livros que passaram décadas encalhados e agora têm um misterioso comprador — a inteligência artificial",
-      "imagem": "https://s2-g1.glbimg.com/vPM9HO29gucJPTz-WCptpd3DUDU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/W/J3IcxUTRWOjpMhtQSifg/bf6887b0-98b4-11f1-9a0b-ef36d15fc6b3.jpg"
-    },
-    {
-      "titulo": "Lino Alves não informa bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/9vnEqPSVbhQfDdGcDD4QOthPY6Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/z/GMhHxnTiivhAQxmZ6mcA/whatsapp-image-2026-08-15-at-14.33.03.jpg"
-    },
-    {
-      "titulo": "Família e bombeiros soltam balões em praia no AC em homenagem a criança de 8 anos que sumiu em rio; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/HcQHM-nK3b_hpjU40OqTsAdPjfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/s/6IsqSFQjiy5tJzA5X3ig/midia-de-distribuicao-g1-2026-08-15t112752.753.png"
-    },
-    {
-      "titulo": "Região dos Lagos registra alta de 441% nos casos de estelionato em dez anos",
-      "imagem": "https://s2-g1.glbimg.com/-FYiXOfqUJQ9MT4Hz_Jpr_jgTe8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/w/SkjjbuRO6MczLfvAeotg/delegacia.jpg"
-    },
-    {
-      "titulo": "Zoológico de Sorocaba inicia preparativos para transferir elefante Sandro a santuário do MT",
-      "imagem": "https://s2-g1.glbimg.com/9ys0vVFf-nH5xIwDkt_g8s6PXic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/e/KsAqFdRgm61AprDbVaFA/dji-0012-frame-540.jpeg"
-    },
-    {
-      "titulo": "Governo desconsiderou alertas de Ceuta antes da onda migratória, dizem sindicatos de trabalhadores da fronteira",
-      "imagem": "https://s2-g1.glbimg.com/QZeZfUVV7HEoh_65eeVYZOlQZr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/9/y83nAkSRKIpzuo68BCDg/2026-08-06t153702z-547731161-rc2ysma3i1b2-rtrmadp-3-migration-europe-spain-ceuta.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-15T18:38:34.660Z"
+  "atualizadoEm": "2026-08-15T19:02:12.205Z"
 }
