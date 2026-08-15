@@ -1,11 +1,39 @@
 {
   "noticias": [
     {
+      "titulo": "Ventos chegaram a 332 km/h durante tornado no Paraná, segundo Simepar",
+      "imagem": "https://s2-g1.glbimg.com/7yGlZnc-ubf92SObdslczvkfR9k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/H/h5ukbrTMAeDNzxKEbXBg/g1-8-.png"
+    },
+    {
+      "titulo": "Três pessoas são encontradas mortas dentro de casa na BA",
+      "imagem": "https://s2-g1.glbimg.com/gS6Sqi5z1o9jDIGEA-o_JU6t2vU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/D/dosSnsQIaBc5THovtWEQ/foto-no-tamanho-home-2026-01-26t112004.300.png"
+    },
+    {
+      "titulo": "Hildon Chaves declara mais de R$ 30 milhões em bens ao TSE; Cirone Deiró informa R$ 2 milhões",
+      "imagem": "https://s2-g1.glbimg.com/vopI6vxu3OAy-TArpVmUtstOgxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/A/Og9K0fQXmHMSFCSStjYA/blank-2-grids-collage-5-.jpg"
+    },
+    {
+      "titulo": "Fisioterapeuta de 30 anos que morreu após coágulo bloquear artéria do pulmão compartilhava rotina como professora e paixão pela profissão",
+      "imagem": "https://s2-g1.glbimg.com/6kKBbGQ5ofaDHZyE6SFrSh2uZU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/R/ptAFJ8S8mQjAYpN81m9g/g1-foto-21-.jpg"
+    },
+    {
+      "titulo": "PCO registra candidatura de Ieri Braga ao governo do Ceará",
+      "imagem": "https://s2-g1.glbimg.com/_kxwftjrnDpdZ61gEnppBjQ7SDo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/W/XbcN6sRximi5NGG1sQ8Q/ieri-braga.jpg"
+    },
+    {
+      "titulo": "Carro de luxo pega fogo e fica completamente destruído em avenida de Cuiabá; vídeo",
+      "imagem": "https://s2-g1.glbimg.com/8w4W5zuh96vC2kKcQds2upp9zLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/g/PVnvPMTzCTPnzv9Bw3bQ/foto-g1-38-.png"
+    },
+    {
+      "titulo": "Chefe de gabinete da Prefeitura de Portel, no Marajó, sofre tentativa de homicídio",
+      "imagem": "https://s2-g1.glbimg.com/tyJ2B0IajgLQ0WwYGN14LOehfbM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/aAAWErR7OH3UE3iqiqAA/whatsapp-image-2026-08-15-at-10.47.48.jpeg"
+    },
+    {
       "titulo": "Clariana Barão declara R$ 1,8 milhão em bens ao TSE; Fabiana Torquato, vice na chapa, informa R$ 2,2 milhões",
       "imagem": "https://s2-g1.glbimg.com/aMGx7YcECXBDInN-7TafiYN08jE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/6/iJNr6LQleFYyLoTEr5xg/whatsapp-image-2026-08-05-at-17.38.51.jpeg"
     },
     {
-      "titulo": "Cidades do Maranhão recebem ações do Dia Nacional do Campo Limpo",
+      "titulo": "Cidades do MA recebem ações do Dia do Campo Limpo sobre destinação correta de embalagens de agrotóxicos",
       "imagem": "https://s2-g1.glbimg.com/UFgr_-z11rXR-MC0LDqb_BswzB4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/R/AJEFECSNe0m89WDtKhbg/whatsapp-image-2026-08-04-at-10.32.05.jpeg"
     },
     {
@@ -91,35 +119,7 @@
     {
       "titulo": "Cubatão instala 1,6 km de ecobarreiras após retirar 10 toneladas de lixo do Rio Casqueiro",
       "imagem": "https://s2-g1.glbimg.com/yzlxBc3Cng1J9VAKIIK7tRA0WoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/N/ggMgpiSkOM6Q9kYCaZow/foto-tradicional-1-.png"
-    },
-    {
-      "titulo": "Rio tem fim de semana de tempo instável e previsão de chuva",
-      "imagem": "https://s2-g1.glbimg.com/0-jWXWzR1fzFs5Lt8CarMCyvg2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/H/Wq6JrUTdAnTpQbBJLCjQ/g1-ponte.jpg"
-    },
-    {
-      "titulo": "Professor Guilherme, candidato ao Senado, declara R$ 15,4 mil em bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/xa0hSwbIXTxEV6zhHpF5NKNaGvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/O/BsnPnrR669vvnNZmQ06Q/whatsapp-image-20260725-at-00.38.32-2-.jpg"
-    },
-    {
-      "titulo": "Lixão que pegou fogo em Iranduba já acumulava multas e irregularidades ambientais, diz Ipaam",
-      "imagem": "https://s2-g1.glbimg.com/cMN5jm7kknnejJMU984nrmojohQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/t/RMM5XbT0qVbA05cok4dA/whatsapp-image-2026-08-14-at-19.44.33.jpeg"
-    },
-    {
-      "titulo": "Campanha eleitoral começa neste domingo (16); veja candidatos ao Governo e Senado no Amapá",
-      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
-    },
-    {
-      "titulo": "Cardiologista volta a ser preso pelo feminicídio da esposa em Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/SfIarbEHWuWGduxT2wMTyqttIX4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/t/4xHUxiSGWmEBqS9L0PqA/para-o-g1-20-.jpg"
-    },
-    {
-      "titulo": "Acidente entre veículos deixa feridos em Aracaju",
-      "imagem": "https://s2-g1.glbimg.com/EO1MhdKzurZ4X3gQ5ePMh3a85UA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/9/nY7qaYSg2IIgWR4MNCPw/whatsapp-image-2026-08-15-at-09.28.13.jpeg"
-    },
-    {
-      "titulo": "Marvel anuncia elenco de 'X-Men' com Maya Boyd, Kit Connor e Adam Driver",
-      "imagem": "https://s2-g1.glbimg.com/qtGH2sTmIDVU1KrG7Qq8MQ1rhYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/u/tQpjQsQMCzMWGiYuZcKQ/design-sem-nome-2026-08-15t093720.264.png"
     }
   ],
-  "atualizadoEm": "2026-08-15T13:50:56.974Z"
+  "atualizadoEm": "2026-08-15T14:18:04.220Z"
 }
