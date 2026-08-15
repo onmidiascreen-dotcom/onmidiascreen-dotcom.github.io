@@ -1,6 +1,54 @@
 {
   "noticias": [
     {
+      "titulo": "Gustavo Galassi, candidato ao Senado, declara R$ 5.525 mil em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/ucYIoDEYW7LR-n-RNfyOM8VGvoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/S/flZkdLRV2cbz6HOwpiUg/captura-de-tela-2026-08-15-194127.png"
+    },
+    {
+      "titulo": "VÍDEOS: JL2 de sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/QO2kmhh0HEJpQHQWJsWOWBVu7aA=/s01.video.glbimg.com/deo/vi/77/28/14872877"
+    },
+    {
+      "titulo": "Marcelo Heringer, candidato ao Senado, indica ao TSE que não tem bens a declarar",
+      "imagem": "https://s2-g1.glbimg.com/EmH3zGupCISKktmWnpM4U9JDSfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/j/KU4b5KSVuAXNEi8yBnCw/captura-de-tela-2026-08-15-192700.png"
+    },
+    {
+      "titulo": "Show de Roberto Carlos é cancelado horas antes da apresentação no Rio",
+      "imagem": "https://s2-g1.glbimg.com/9Em3v11bi69x_SwCMLex9C8nkJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/M/KUQiv8Qh20qvFqQlKeAg/robertocarlos85.jpg"
+    },
+    {
+      "titulo": "TRE valida apoio do Avante a Elizeu Aguiar ao governo do PI e invalida candidatura de Gustavo Henrique",
+      "imagem": "https://s2-g1.glbimg.com/jHydTq5ROvK7Gdx-2Xj6KR1T8ZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/A/7caFEwRLyuBPiJClB02g/edicao-imagens-g1-8-.png"
+    },
+    {
+      "titulo": "PM Ambiental apreende drogas com ajuda de cão farejador em área de mata no litoral de SP; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/ZHK49PHu-FmCslm7RYCCoAQ0ndA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/o/JpZZfaQM6OSv5Muwk5qQ/g1-phed-7-.png"
+    },
+    {
+      "titulo": "BDXP 2026 conecta especialistas a profissionais em Manaus e prova que a Inteligência Artificial já impulsiona carreiras no Norte do país",
+      "imagem": "https://s2-g1.glbimg.com/Eog8RaqUfOUPGbQ1np2WgoYjmds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Y/QBiIJNRPWlInw1upxsyQ/whatsapp-image-2026-08-15-at-18.45.03.jpeg"
+    },
+    {
+      "titulo": "Mulher morre após carro perder o controle e atropelar participantes da Marcha para Jesus em Terra Santa, no PA",
+      "imagem": "https://s2-g1.glbimg.com/1XQnc0pKdRxDX_LCeno70sk_9y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/o/FMmRMyQjCl8ANr0cty7Q/gemini-generated-image-a98hwda98hwda98h.jfif"
+    },
+    {
+      "titulo": "Sem radares móveis, Ribeirão Preto registra queda de 44,8% nas multas de trânsito no primeiro semestre",
+      "imagem": "https://s2-g1.glbimg.com/GOT464bjQ3BKqmoFku_v8x5sCG4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/y/snZk63QcmPm44LDkNY7w/radar-fixo-ribeirao.jpg"
+    },
+    {
+      "titulo": "Sexta e sábado concentram maior número de acidentes na região de Campinas, aponta Infosiga",
+      "imagem": "https://s2-g1.glbimg.com/MFPdwZaVpmL9FzDsr548VyfCpMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/z/hBvX2USLamjJUaiQdCtg/g1-2026-01-29t140352.230.png"
+    },
+    {
+      "titulo": "MTE interdita setor de estação de tratamento de esgoto em que trabalhador morreu afogado em Sorocaba",
+      "imagem": "https://s2-g1.glbimg.com/GCLCAEMx7AuDKOJqFRQIq8oN8aI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/b/IZb9uLRk6ABJQRqEcHsA/centro-de-distribuico-vitoria-regia.jpg"
+    },
+    {
+      "titulo": "Assista ao Boa Noite Espírito Santo",
+      "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
+    },
+    {
       "titulo": "VÍDEOS: RJ2 de sábado, 15 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/ogDwFcvVoW95dofLu079dnCqHec=/s01.video.glbimg.com/deo/vi/97/26/14872697"
     },
@@ -71,55 +119,7 @@
     {
       "titulo": "Homem é morto a facadas pelo próprio irmão durante briga familiar em Normandia",
       "imagem": "https://s2-g1.glbimg.com/sMGg20GcOjCopGcSHk7IcDYFnt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/j/lBCUMUQsmpcwztew1BHw/faca-.jpg"
-    },
-    {
-      "titulo": "Suspeito de incêndio em hotel que deixou mulher em estado grave é preso em cafeteria no RS",
-      "imagem": "https://s2-g1.glbimg.com/_51obMxcMETWDGAqy4HUdrGHmHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/s/x29EBiSgSl6YCRAwgM0w/g1-33-.jpg"
-    },
-    {
-      "titulo": "Assista ao Boa Noite Espírito Santo",
-      "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
-    },
-    {
-      "titulo": "Ex-vereador é condenado a 41 anos de prisão por encomendar a morte de técnica de enfermagem",
-      "imagem": "https://s2-g1.glbimg.com/_dYESAjmHmzzANU127wMlEWJokM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/A/m1iskOQ5qbpBRqq9hlCQ/foto-e-montagem-vertical-43-.png"
-    },
-    {
-      "titulo": "Ônibus pega fogo e precisa ser evacuado em MS; passageiros não ficaram feridos",
-      "imagem": "https://s2-g1.glbimg.com/5ekeeNdLL3w_X0PtvJiXM7c4cGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/D/B07c03R9u4A95pxHTIWA/formato-g1-1-.png"
-    },
-    {
-      "titulo": "Marina Sena participa do cortejo de São Benedito e é coroada catopê nas Festas de Agosto em Montes Claros",
-      "imagem": "https://s2-g1.glbimg.com/7DDETgCzqQKacHZgKovCKwRAnmo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/v/sfzrmIRYKuBxxod8u5BQ/gemini-generated-image-1wjftv1wjftv1wjf.jpeg"
-    },
-    {
-      "titulo": "Filho é morto a facadas pelo próprio pai durante discussão em Mirassol D’Oeste (MT)",
-      "imagem": "https://s2-g1.glbimg.com/ZZkCNV4-nfdjLPRjvQ4dQ1Dx6b0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/l/1neicrSN6Myt8zbKuWWg/videos-g1-74-.jpg"
-    },
-    {
-      "titulo": "Veja quem são os candidatos que se registraram no TSE para disputar o governo de Minas em 2026",
-      "imagem": "https://s2-g1.glbimg.com/Os3QgI_Sp9CQHTtiFO1SeyO7qVA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/A/r1fXcWTbKYNmsByYssAg/imagem.jpg"
-    },
-    {
-      "titulo": "Veja quem são os candidatos que se registraram no TSE para disputar o Senado por MG em 2026",
-      "imagem": "https://s2-g1.glbimg.com/WsPGfevKLaHDwyekIeHe_CzHFxE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/g/uTplelT5qaXNQpOp2kEQ/design-sem-nome-2026-08-14t194235.880.jpg"
-    },
-    {
-      "titulo": "Campeonato de Pedestrianismo interdita vias e altera ônibus em Santos; confira",
-      "imagem": "https://s2-g1.glbimg.com/MQp6up8rjAoPmcQoX34NppoZnVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/b/BcoBebQliDz9lvs4X9wA/foto-tradicional-1-.png"
-    },
-    {
-      "titulo": "Terremoto na Colômbia: número de mortos sobe para 294",
-      "imagem": "https://s2-g1.glbimg.com/vjiTKZMneLMUunfzFE_MMResgrg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/oR5pWJSD23wiZzruHDjA/2026-08-15t183800z-2044037466-rc24zmaf3zum-rtrmadp-3-colombia-quake.jpg"
-    },
-    {
-      "titulo": "Acidente na Rio-Santos deixa três feridos em Caraguatatuba",
-      "imagem": "https://s2-g1.glbimg.com/EBlQkCaUTF5-WU_qeRfVnXMIBMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/P/35pvdxTiA4sryACSDk6A/whatsapp-image-2026-08-15-at-14.10.35.jpeg"
-    },
-    {
-      "titulo": "Cantor Lucas, da dupla sertaneja Lucas &amp; Matheus, morre em Portugal",
-      "imagem": "https://s2-g1.glbimg.com/jy7weQhuCHpN6ld27_tlyVU9jnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/M/9tjsBMQ0qOLaXZkzBDoA/novo-projeto-2026-08-15t175647.187.png"
     }
   ],
-  "atualizadoEm": "2026-08-15T22:47:39.927Z"
+  "atualizadoEm": "2026-08-15T23:16:22.257Z"
 }
