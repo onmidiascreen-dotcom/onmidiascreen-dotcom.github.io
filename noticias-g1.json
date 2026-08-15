@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Ivan Moraes diz sofrer 'ataques' do PSB para retirar candidatura ao governo do estado às vésperas do início da campanha eleitoral",
+      "imagem": "https://s2-g1.glbimg.com/8YUbaBwGLzucALvI3lH-wDWMrLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/0/Waig9VRY6QmoNjReBg2g/ivan-moraes-coletiva.jpeg"
+    },
+    {
+      "titulo": "Após hiato, Jaloo e Strobo se reúnem e apresentam álbum do trio Os Amantes entre o brega paraense e o indie rock",
+      "imagem": "https://s2-g1.glbimg.com/hrTGAMf4SAWIwNauBPZFT_Q9Eiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/8/NdVkefQNGTIXB8liBMUA/amantes-fotoernacost.jpg"
+    },
+    {
+      "titulo": "Mesmo inelegível até 2032, PRTB lança Pablo Marçal como candidato à Presidência",
+      "imagem": "https://s2-g1.glbimg.com/rV-nx8jQ-B_n1zeE-_6z0PgZjAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/L/vqCnYsQrO6deB6nrOXyw/whatsapp-image-2026-08-15-at-20.23.46-1-.jpeg"
+    },
+    {
+      "titulo": "Terremoto de magnitude 7,7 mata 47 pessoas e provoca destruição na Indonésia",
+      "imagem": "https://s2-g1.glbimg.com/rBhoM_Z0lTd0k7rlS-AAyAlU9Yw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/Z1r2bzTzKNSUA5Ijb6Gg/globo-canal-4-20260815-2000-frame-56522.jpeg"
+    },
+    {
+      "titulo": "Nilton Santos, candidato ao Senado, declara R$ 2 milhões em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/fEXlmpR_hGIU3D13Cfx3AJlvYys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/DUVlKGSxm4AVEvX0blJw/whatsapp-image-2026-08-06-at-14.30.38.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: MG2 de sábado, 15 de agosto de 2026",
+      "imagem": null
+    },
+    {
       "titulo": "Dr. Wanderley, candidato ao Senado por Alagoas, declara R$ 3,5 milhões em bens ao TSE",
       "imagem": "https://s2-g1.glbimg.com/gQyv3MlIO_l0aDO7m4cMki8PHDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/Q/hbZBQmS1mRGa4uClRIug/dr-wanderley-igor-pereira-ale-2.png"
     },
@@ -95,31 +119,7 @@
     {
       "titulo": "VÍDEOS: EPTV 2 Sul de Minas de sábado, 15 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/LQuc7mkE_RALlvnFudNk6gRzvjo=/s01.video.glbimg.com/deo/vi/19/27/14872719"
-    },
-    {
-      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "VÍDEOS: GR2 de sábado, 15 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/bf_wUmFB0q-oZiAoz8TgBB5Pywc=/s01.video.glbimg.com/deo/vi/23/27/14872723"
-    },
-    {
-      "titulo": "Mais de 100 carros por hora tentam passar por pedágio da Linha Amarela sem pagar, diz concessionária",
-      "imagem": "https://s2-g1.glbimg.com/y7O4O-OasOKv6sKv_ARV9BtXVa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/C/jw4foHTXONGKaDHBFD8Q/linha.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-15T23:43:38.815Z"
+  "atualizadoEm": "2026-08-15T23:57:58.290Z"
 }

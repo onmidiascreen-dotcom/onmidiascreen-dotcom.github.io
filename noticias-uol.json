@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Tarcísio vai começar campanha em roda de conversa com mulheres em Osasco",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia prende dois últimos suspeitos de envolvimento em plano do PCC para matar Lincoln Gakiya",
+      "imagem": null
+    },
+    {
       "titulo": "Marçal obtém liminar para se filiar ao PRTB e registra candidatura à Presidência",
       "imagem": null
     },
@@ -45,21 +53,13 @@
       "imagem": null
     },
     {
+      "titulo": "Dono da Itapemirim é autorizado a viajar à Croácia",
+      "imagem": null
+    },
+    {
       "titulo": "Policial reage a tentativa de roubo e atinge suspeito na zona sul de São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Catar nega estar detendo pilotos iranianos",
-      "imagem": null
-    },
-    {
-      "titulo": "Crise climática avança, mas ativismo perde força na Alemanha",
-      "imagem": null
-    },
-    {
-      "titulo": "Buscas por mulher que caiu com carro em rio no PR são encerradas neste sábado (15)",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T23:43:37.098Z"
+  "atualizadoEm": "2026-08-15T23:57:55.807Z"
 }
