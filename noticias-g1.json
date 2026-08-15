@@ -1,6 +1,74 @@
 {
   "noticias": [
     {
+      "titulo": "Empresário da Faria Lima é preso por agredir e ameaçar mulher em SP: ' Vi a a morte de perto', diz vítima",
+      "imagem": "https://s2-g1.glbimg.com/l84kqXnhwP0hu2N6qMJtz4K-0GU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/s/8PMBfMQs2rWzbABMqh5g/fotojet-2026-08-15t175903.291.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: AB1 de sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/xXHaFJ_VFR-l6taaKRXxNt5qv_0=/s01.video.glbimg.com/deo/vi/27/24/14872427"
+    },
+    {
+      "titulo": "Leiturista é assaltado por dupla com faca enquanto trabalhava em Rio Preto",
+      "imagem": "https://s2-g1.glbimg.com/zTsyL1aBULtpJzxHNX2Ych4NzaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/A/BB4fdBRSCdTWqAhWQNfw/central-flagrantes.png"
+    },
+    {
+      "titulo": "Policial é baleado na cabeça e morre durante ação em Cachoeiro; autor do disparo é morto por outro PM",
+      "imagem": "https://s2-g1.glbimg.com/nH81pXSK2jXb2pN1YcgOwVxm1Z4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/I/L59jBsSWqv3Nn6NteVcA/thumb-fotos-26-1-.jpg"
+    },
+    {
+      "titulo": "Patrimônio declarado por Arthur Lira cresce 335% em quatro anos e chega a R$ 25,9 milhões",
+      "imagem": "https://s2-g1.glbimg.com/ltJTUzalz3to7ZW-5kZzF16slTc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/C/EmSd5hR66taLXQLAVP3g/img20250201164223421.jpg"
+    },
+    {
+      "titulo": "Cliente ignora conselho de advogada e conta detalhes de briga durante audiência: ‘Alma da advogada saindo do corpo’",
+      "imagem": "https://s2-g1.glbimg.com/DYrE2Cf-KtKEmJAZQybmGnc-Ktw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/J/krbeU9QMiGtXACfQGWTA/copia-de-copia-de-padrao-foto-g1-goias-2026-08-15t173740.948.jpg"
+    },
+    {
+      "titulo": "Líder indígena e família mortos em acidente que vitimou 7 faziam intercâmbio em MS",
+      "imagem": "https://s2-g1.glbimg.com/AwZEbUmaN7UkyaFnUfkqg5c1bF0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/4/m0asklRpqrSjn6gwqQ2g/dfghjmk-l.c.png"
+    },
+    {
+      "titulo": "Victor Assis não declara nenhum bem ao TSE; vice também informa não ter patrimônio",
+      "imagem": "https://s2-g1.glbimg.com/FkmEQFl3I7X8LP09wjy5Egv2-qc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/G/K/IVve0CSAALGS3TmIJ1Hg/victor-agamenon-frame-1907.jpeg"
+    },
+    {
+      "titulo": "Condenada por homicídio em MT é presa 14 anos depois do crime",
+      "imagem": "https://s2-g1.glbimg.com/lnahfIZ-kTeqXzMkNNEKkCrYplM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/V/w3dkiGTNaWKvDtvdnBOg/videos-g1-73-.jpg"
+    },
+    {
+      "titulo": "Inspiração em Florença e artista sepultado em parede: igreja da Boa Morte, em Piracicaba completa 100 anos",
+      "imagem": "https://s2-g1.glbimg.com/CBdNWoooKuOawhvXz8Uv_sj6uPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/J/GfyoW0SHernFQy2J6MWQ/design-sem-nome-6-.jpg"
+    },
+    {
+      "titulo": "Caminhão carregado de ureia tomba na BR-277, no sentido Curitiba, e 4 pessoas são socorridas",
+      "imagem": "https://s2-g1.glbimg.com/WFWkjDTfth3ukaCuChJ0sv5Jsfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/m/cFBjwtSHAdfC0UORE9Hw/whatsapp-image-2026-08-15-at-15.05.41.jpeg"
+    },
+    {
+      "titulo": "Empresário morre após ser baleado durante assalto em Montes Claros",
+      "imagem": "https://s2-g1.glbimg.com/mYA_DoTrLA7nyNg-OVbPb9YEQjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/H/Uk6kyZTXW7hQ7hkiMTzw/vitimasfatais-3-.png"
+    },
+    {
+      "titulo": "Empresário é preso suspeito de violência doméstica contra mulher em João Pessoa",
+      "imagem": "https://s2-g1.glbimg.com/09Nba4rb_ZV2NlS7sAiyAISnnN8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/v/7BrN7ES0eoAUKmhyr4WQ/delegacia-da-mulher-joao-pessoa-1-3.webp"
+    },
+    {
+      "titulo": "Chuva de granizo atinge São Brás do Suaçuí na Região Central de MG; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/oSrZiIuhJPprtwLAnAmsk33b4jc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/O/iN0rudR0yxqDB9MB2Hew/granizo-foto.png"
+    },
+    {
+      "titulo": "Carro cai de viaduto e duas pessoas  ficam feridas na BR-116, em Sapucaia",
+      "imagem": "https://s2-g1.glbimg.com/nyCfYxv3gWPnN8aMxWvrfBrfOzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/k4phqwTYGLA796N9OnRA/whatsapp-image-2026-08-15-at-17.29.31-1-.jpeg"
+    },
+    {
+      "titulo": "Enchentes em Indiana, nos EUA, deixam ao menos 5 mortos, dizem autoridades",
+      "imagem": "https://s2-g1.glbimg.com/nssSiHMq9E8D5Bf9O5Vg2C1WwJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/R/fwXW51ReSth08I5mlqDA/ap26227690983989.jpg"
+    },
+    {
+      "titulo": "Após ameaça, campanha de Flávio Bolsonaro fala em ação ágil da Polícia e destaca episódio de 2018",
+      "imagem": null
+    },
+    {
       "titulo": "Corpos de colombianas mortas em acidente de helicóptero serão velados neste domingo no Rio",
       "imagem": "https://s2-g1.glbimg.com/MGceGR25mlBdzNNR3R8jAMVkFII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/b5cck7SBSRShz2ApW4ow/foto1.jpeg"
     },
@@ -26,7 +94,7 @@
     },
     {
       "titulo": "Eleições no DF: Paula Belmonte declara R$ 10 milhões em bens; vice informa R$ 23 milhões",
-      "imagem": "https://s2-g1.glbimg.com/8P-ihumSNPDfTenL3UPjlwFC-UY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/k/k3LunrSyGkrXtFOACHZg/c2016-lu-debate-band-2-09082026-frame-4489.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/crfLWHmT6bRmihH-YpHzMTb01Jw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/h/HSDqrfTFyhx3kDoqTPwA/c2016-lu-debate-band-2-09082026-frame-6336.jpeg"
     },
     {
       "titulo": "Granizo atinge bairro dos Campos e derruba árvores durante temporal em Carmo de Minas",
@@ -51,75 +119,7 @@
     {
       "titulo": "Pedestre morre após ser atropelada por carro ao tentar atravessar rodovia em Marília",
       "imagem": "https://s2-g1.glbimg.com/jHhDdUK4L7rlVv87ExiPRvOalW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/W/MHtv7eSIiwAjEG1kdoAA/novo-projeto-2026-08-15t161329.594.png"
-    },
-    {
-      "titulo": "Alexandre Fleming, candidato ao Senado por Alagoas, declara não ter bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/9EX8TTDkReQmqaaK0bO9sLFPXlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/O/QZiNueRv6BAyyIWPgc4w/images-1-1-3.png"
-    },
-    {
-      "titulo": "Mulher é presa suspeita de chamar homem de 'macaco' e 'nego' durante discussão em bar",
-      "imagem": "https://s2-g1.glbimg.com/IjlNOCnxxe3oxm70NzYvddugU1w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/w/ezn1GvQfqJzfDemcsH2g/g1-2026-03-10t110033.545.png"
-    },
-    {
-      "titulo": "Homem suspeito por importunação sexual e coação de testemunhas é preso em Porto Franco",
-      "imagem": "https://s2-g1.glbimg.com/jQfqPsjhob5Ek19p49b4GyJ3Mnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/3/Q/IGMtsKRKafFM7av3c53A/dsc0949.webp"
-    },
-    {
-      "titulo": "Líder indígena de SP, esposa, filhos e irmã estão entre os 7 mortos em acidente no MS",
-      "imagem": "https://s2-g1.glbimg.com/l4Dl-tCyeFVcCmmDTfieD3W8UXc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/z/475tEAR5KCS44SS5ZCwQ/fotojet-2026-08-15t171414.624.jpg"
-    },
-    {
-      "titulo": "Madeireira que pegou fogo e atingiu lojas vizinhas não tem alvará, diz Prefeitura",
-      "imagem": "https://s2-g1.glbimg.com/7l6DSNGeGTYVDQMpDvWV-0f-Ies=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/M/DrkrCpSNW3AT5NwXbEVQ/capas-ana.jpg"
-    },
-    {
-      "titulo": "Colisão frontal deixa um morto e ferido grave na BR-235 em Nossa Senhora do Socorro",
-      "imagem": "https://s2-g1.glbimg.com/iXOXDVKj6L9fIyjOHGuEEf1UExk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/g/329uwdRYCryIL2SOiGXg/imagem-g1-33-.jpg"
-    },
-    {
-      "titulo": "Capão Bonito recebe evento gratuito sobre tecnologia e sustentabilidade no agronegócio; veja a programação",
-      "imagem": "https://s2-g1.glbimg.com/uKDWMc8vJag17S8PZXDncjTE4vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/j/O/jnFoPPT1Kcd8bAnyCJ9w/fatec-capao.jpg"
-    },
-    {
-      "titulo": "Fatec de Sorocaba recebe motores e célula de avião para curso de manutenção aeronáutica",
-      "imagem": "https://s2-g1.glbimg.com/Mr3tHHPn8TsIZdAIt0z-1BozLKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/H/3IL25cT6qyOq3Ip33uDQ/bdc-rede-130826-frame-90857.jpeg"
-    },
-    {
-      "titulo": "Corpo em estado avançado de decomposição é encontrado em plantação de eucaliptos em Novo Cruzeiro",
-      "imagem": "https://s2-g1.glbimg.com/Rt1C9MMrJdN9-lBmWXFuOKKA73s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/j/0i7s2DQBipG26KV5iYbQ/vitimasfatais-2-.png"
-    },
-    {
-      "titulo": "Suspeito de matar adolescente de 13 anos em Balsas é preso",
-      "imagem": "https://s2-g1.glbimg.com/V2gLvLUrK1schOauxuBhyY-19Z4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/f/gyDHimSzet0EM2VXmRWw/montagens-1920-x-1080-px-58-.png"
-    },
-    {
-      "titulo": "Suspeita de envolvimento na morte de policial militar em Parnaíba ganha liberdade provisória",
-      "imagem": "https://s2-g1.glbimg.com/675fDlzMsTTTdSF2t5kwFZg40Yc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/B/rndBVuTAaOd7wat6GpXQ/whatsapp-image-2026-08-14-at-16.47.19.jpeg"
-    },
-    {
-      "titulo": "Homem é levado para depor em Juiz de Fora suspeito de postar ameaça a Flávio Bolsonaro",
-      "imagem": "https://s2-g1.glbimg.com/REne0vhBIhN8QZUE_fLdwADr_tw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/D/CWauAJReeZz8tHBUTJ4w/thumb-fotos-2026-07-18t152844.169.jpg"
-    },
-    {
-      "titulo": "Estágio no MPF-AP com bolsas de até R$ 2,6 mil encerra inscrições neste domingo (16)",
-      "imagem": "https://s2-g1.glbimg.com/J_sldLVRisaRehk4afxxC_QaycM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/h/EfzThiRJyyeuHRSgOBDg/trabalhador-de-vista-lateral-digitando-no-laptop.jpg"
-    },
-    {
-      "titulo": "Davi Davino Filho, candidato ao Senado pelo Republicanos, declara R$ 1,4 milhão em bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/F-5hyAHsYBCKLcN2aqW-LnD8zR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/p/fnf18wS9KCPuy1vsO6hA/whatsapp-image-2026-08-05-at-16.29.04.jpeg"
-    },
-    {
-      "titulo": "Prefeito de Guarapari e familiares sofrem acidente a caminho de casamento em Pedra Azul",
-      "imagem": "https://s2-g1.glbimg.com/uF9RJp4eB9nOc4hqDd5rTwZNXcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/S/I0OzGrQhWpUGRsZnVFVw/thumb-fotos-24-1-.jpg"
-    },
-    {
-      "titulo": "Jovem morre após perder controle de moto e bater contra árvore no interior do TO, dizem testemunhas",
-      "imagem": "https://s2-g1.glbimg.com/YzRkqjl3Zi4T1HL1m97UbvLjYko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/S/iHFUtIRPWTsd2iyBA57Q/foto-e-montagem-vertical-49-.jpg"
-    },
-    {
-      "titulo": "Eleições no DF: Celina Leão declara R$ 440 mil em bens; vice informa R$ 46 milhões",
-      "imagem": "https://s2-g1.glbimg.com/8P-ihumSNPDfTenL3UPjlwFC-UY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/k/k3LunrSyGkrXtFOACHZg/c2016-lu-debate-band-2-09082026-frame-4489.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-15T20:47:10.636Z"
+  "atualizadoEm": "2026-08-15T21:17:00.775Z"
 }
