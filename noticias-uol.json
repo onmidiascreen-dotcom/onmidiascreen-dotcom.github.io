@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Wagner Moura cumpre a expectativa em \"A Última Casa\", uma odisseia no lar",
+      "imagem": null
+    },
+    {
+      "titulo": "'Magia tributária' faz Brasil subsidiar refrigerante sem contrapartida",
+      "imagem": null
+    },
+    {
+      "titulo": "Menina caso zero da zika diz 'papai' pela 1ª vez aos 10 anos: 'Emocionante'",
+      "imagem": null
+    },
+    {
+      "titulo": "Lulinha e Master são obstáculos para líderes na campanha, que começa amanhã",
+      "imagem": null
+    },
+    {
+      "titulo": "Candidatura de Carlos divide bolsonarismo em SC e expõe limite do sobrenome",
+      "imagem": null
+    },
+    {
       "titulo": "Espanha reforça fronteira de Ceuta contra nova onda de migração",
       "imagem": null
     },
@@ -14,14 +34,6 @@
     },
     {
       "titulo": "Debates de disciplina da USP sobre desigualdade no uso das leis criminais chegam a livro",
-      "imagem": null
-    },
-    {
-      "titulo": "'Odisseia' de Nolan não está preocupada com a Grécia Antiga ou com fidelidade a Homero",
-      "imagem": null
-    },
-    {
-      "titulo": "Festival da Cultura Coreana leva shows grátis, k-beauty e gastronomia ao Bom Retiro",
       "imagem": null
     },
     {
@@ -41,25 +53,13 @@
       "imagem": null
     },
     {
-      "titulo": "Terremoto de magnitude 7,7 deixa 2 mortos na Indonésia",
+      "titulo": "Festival da Cultura Coreana leva shows grátis, k-beauty e gastronomia ao Bom Retiro",
       "imagem": null
     },
     {
-      "titulo": "Motoristas de app e taxistas se unem e cobram segurança em Apucarana",
-      "imagem": null
-    },
-    {
-      "titulo": "Suécia reduz maioridade penal para 14 anos",
-      "imagem": null
-    },
-    {
-      "titulo": "Assassinatos de indígenas aumentam durante governo Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Motociclista é reanimado e hospitalizado em estado grave após forte colisão em Apucarana",
+      "titulo": "'Odisseia' de Nolan não está preocupada com a Grécia Antiga ou com fidelidade a Homero",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T08:22:40.054Z"
+  "atualizadoEm": "2026-08-15T08:53:44.412Z"
 }
