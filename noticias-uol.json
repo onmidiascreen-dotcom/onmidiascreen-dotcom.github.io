@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Espanha reforça fronteira de Ceuta contra nova onda de migração",
+      "imagem": null
+    },
+    {
+      "titulo": "Ex-professor de Cambridge é encontrado morto em Londres",
+      "imagem": null
+    },
+    {
+      "titulo": "Indonésia contabiliza estragos após terremoto de magnitude 7,7 e teme aumento do número de vítimas",
+      "imagem": null
+    },
+    {
       "titulo": "Debates de disciplina da USP sobre desigualdade no uso das leis criminais chegam a livro",
       "imagem": null
     },
@@ -47,19 +59,7 @@
     {
       "titulo": "Motociclista é reanimado e hospitalizado em estado grave após forte colisão em Apucarana",
       "imagem": null
-    },
-    {
-      "titulo": "Solicitações de certidão brasileira para menores nascidos nos EUA disparam",
-      "imagem": null
-    },
-    {
-      "titulo": "Região Sul tem alerta de tempestade e acumulado de chuva no fim de semana",
-      "imagem": null
-    },
-    {
-      "titulo": "Seis pessoas morrem em ataques a tiros em Michigan, nos EUA",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T07:16:01.797Z"
+  "atualizadoEm": "2026-08-15T07:51:31.769Z"
 }
