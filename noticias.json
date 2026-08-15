@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Sem Endrick, Real Madrid divulga relacionados para último amistoso",
+      "imagem": null
+    },
+    {
       "titulo": "TSE inicia elaboração de plano voltado ao horário eleitoral no rádio e TV",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "De volta ao Morumbis, São Paulo tenta acabar com jejum na temporada",
       "imagem": null
-    },
-    {
-      "titulo": "Veja quem é Josh Kushner, bilionário que comprou os Lakers",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T14:47:00.688Z"
+  "atualizadoEm": "2026-08-15T15:16:10.985Z"
 }
