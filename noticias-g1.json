@@ -1,6 +1,50 @@
 {
   "noticias": [
     {
+      "titulo": "Problemas de audição não afeta só os ouvidos: entenda os impactos no cérebro e no equilíbrio",
+      "imagem": "https://s2-g1.glbimg.com/0UkoojDMY2YQRgyohG1bcyd3W-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/t/rbv0hxTVq0xcMsmdddSg/audicao-estudos-frame-at-1m35s.jpg"
+    },
+    {
+      "titulo": "Polícia apreende metralhadora antiaérea durante operação no Amarelinho, em Acari; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/O0lm2Fx6h29tS8RsB22LsFqTxRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/u/b8CJtyTjyeGO8buKRDBw/metralhadora.jpeg"
+    },
+    {
+      "titulo": "Os livros que passaram décadas encalhados e agora têm um misterioso comprador — a inteligência artificial",
+      "imagem": "https://s2-g1.glbimg.com/vPM9HO29gucJPTz-WCptpd3DUDU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/W/J3IcxUTRWOjpMhtQSifg/bf6887b0-98b4-11f1-9a0b-ef36d15fc6b3.jpg"
+    },
+    {
+      "titulo": "Lino Alves não informa bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/9vnEqPSVbhQfDdGcDD4QOthPY6Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/z/GMhHxnTiivhAQxmZ6mcA/whatsapp-image-2026-08-15-at-14.33.03.jpg"
+    },
+    {
+      "titulo": "Família e bombeiros soltam balões em praia no AC em homenagem a criança de 8 anos que sumiu em rio; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/HcQHM-nK3b_hpjU40OqTsAdPjfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/s/6IsqSFQjiy5tJzA5X3ig/midia-de-distribuicao-g1-2026-08-15t112752.753.png"
+    },
+    {
+      "titulo": "Região dos Lagos registra alta de 441% nos casos de estelionato em dez anos",
+      "imagem": "https://s2-g1.glbimg.com/-FYiXOfqUJQ9MT4Hz_Jpr_jgTe8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/w/SkjjbuRO6MczLfvAeotg/delegacia.jpg"
+    },
+    {
+      "titulo": "Zoológico de Sorocaba inicia preparativos para transferir elefante Sandro a santuário do MT",
+      "imagem": "https://s2-g1.glbimg.com/9ys0vVFf-nH5xIwDkt_g8s6PXic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/e/KsAqFdRgm61AprDbVaFA/dji-0012-frame-540.jpeg"
+    },
+    {
+      "titulo": "Governo desconsiderou alertas de Ceuta antes da onda migratória, dizem sindicatos de trabalhadores da fronteira",
+      "imagem": "https://s2-g1.glbimg.com/QZeZfUVV7HEoh_65eeVYZOlQZr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/9/y83nAkSRKIpzuo68BCDg/2026-08-06t153702z-547731161-rc2ysma3i1b2-rtrmadp-3-migration-europe-spain-ceuta.jpg"
+    },
+    {
+      "titulo": "Adolescente é apreendido no litoral de SP por vender material de abuso sexual infantil no Discord",
+      "imagem": "https://s2-g1.glbimg.com/DgzpflT41ROXYJ06qrGbUU3P8O0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/G/cVFdP9TfaznOWNsGcFyA/foto-adoelscente-apreendido.jpg"
+    },
+    {
+      "titulo": "Quaest: os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada",
+      "imagem": "https://s2-g1.glbimg.com/uC0F_ismuu_fahSaOZX80u8UA9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/tzOPUXRqAn2cGzNVV9Kw/montagem-horizontal-1280x720px-1-.jpg"
+    },
+    {
+      "titulo": "Corpo de homem desaparecido é encontrado no Rio Paraná em Paulicéia",
+      "imagem": "https://s2-g1.glbimg.com/tZNA4Wbi-LUeSc8sNe9OUBG_6Y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/VySBjjSdqGgSxo1MHckQ/g1-2026-08-15t114844.585.png"
+    },
+    {
       "titulo": "Estácio de Sá marca presença em evento que celebra o Carnaval de Campos",
       "imagem": "https://s2-g1.glbimg.com/i6ZGizjtnFK_A4uxXrBc5a9se6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/Z/CeQMWETFeGsltdLYGi8w/carnaval.jpg"
     },
@@ -53,7 +97,7 @@
       "imagem": "https://s2-g1.glbimg.com/ceWjjfZnyem4osOL_u4wmQi4Qew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/S/BSeuEcRZinBdbXOaAqVQ/presidio.jpg"
     },
     {
-      "titulo": "Ex-noiva de Latino diz ter medida protetiva contra cantor e o acusa de agressão; ele nega as acusações",
+      "titulo": "Ex-noiva de Latino acusa cantor de agressão e diz ter medida protetiva contra ele; artista nega as acusações",
       "imagem": "https://s2-g1.glbimg.com/GwNLMt6lILNcPfwbzc2w8-eofIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/n/JTzN82RLCbEVwtJcIhyA/design-sem-nome-2026-08-15t110718.057.png"
     },
     {
@@ -69,57 +113,13 @@
       "imagem": "https://s2-g1.glbimg.com/BvulkNQdZS5MvHMAsQjHwteOmoQ=/s01.video.glbimg.com/deo/vi/61/16/14871661"
     },
     {
-      "titulo": "AO VIVO: Assista ao JAC1 com Quésia Melo",
-      "imagem": "https://s2-g1.glbimg.com/AdqDnQf8EEKj2rFBQEbOnKOpeJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/C/j/M1MuwJQbi1olrAiS8VIg/whatsapp-image-2025-11-07-at-13.09.46.jpeg"
-    },
-    {
       "titulo": "VÍDEOS: RJ1 de sábado, 15 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/IYFOrMrwwOn-ugr0Lw08ZxxCVVs=/s01.video.glbimg.com/deo/vi/23/13/14871323"
     },
     {
       "titulo": "Anfitrião faz 'galeria de selfies' para mostrar apartamento em anúncio em SC e viraliza; VÍDEO",
       "imagem": "https://s2-g1.glbimg.com/CpN69H2w3ZoylCMseN8ZBvwuEsg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/B/noAByRR5iD063KPCBunA/fotojet.jpg"
-    },
-    {
-      "titulo": "Mulher condenada por participação na morte de mecânico no Ceará é presa em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/Qo4_BIkJTHkdJ7fX02yq3vlc1Go=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/I/fLEe3PSnWxqJTGOf388A/mulehr-.jpg"
-    },
-    {
-      "titulo": "Foragido da Justiça na BA é preso em MG durante operação policial",
-      "imagem": "https://s2-g1.glbimg.com/3YQEsO1LEQjKW5YMDhReqKBOSvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/r/KuFKWHRJu9ku9Yr9QAWA/piteka.jpg"
-    },
-    {
-      "titulo": "Defesa Civil interdita sete casas após risco estrutural em bairro de Teresópolis",
-      "imagem": "https://s2-g1.glbimg.com/8bY329qr_1goeM7BgSonknNsYz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/I/i59XUySRCGsrHA1A6F7w/tere.jpg"
-    },
-    {
-      "titulo": "Sergipe registra queda da desocupação e maior rendimento médio do Nordeste",
-      "imagem": "https://s2-g1.glbimg.com/3JMmbCWAgl_54cyBlp311RCdjVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Y/L0QhU8RyqAAu6DX7WAkg/cateira-1.jpg"
-    },
-    {
-      "titulo": "Adolescente investigado por estupro, furto, zoofilia e importunação sexual é apreendido no Piauí",
-      "imagem": "https://s2-g1.glbimg.com/eoQ9FpPLZEql5oaPa1CnygoTgpA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/y/IuK1FDSMOF9HJdAGtBbA/adolescente.jpg"
-    },
-    {
-      "titulo": "Médico veterinário é preso suspeito de agredir e ameaçar companheira no interior do Amazonas",
-      "imagem": "https://s2-g1.glbimg.com/KDUIcPtMB5vN6s8cTCUsO6Z16RI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/G/zyhKABSuKV9TsGbgswqQ/medico-veterinario-e-preso-suspeito-de-agredir-e-ameacar-companheira-no-interior-do-amazonas-foto-divulgacao-pc-am.jpg"
-    },
-    {
-      "titulo": "Carga cai de caminhão e interdita alça de acesso entre rodovias em Santa Cruz do Rio Pardo",
-      "imagem": "https://s2-g1.glbimg.com/PVXZozeLnVLQi1B1D5M9SqcoQho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/H/SlUh7XRguG3oskOL7dIA/g1-2026-08-15t130532.788.png"
-    },
-    {
-      "titulo": "VÍDEOS: NE1 de sábado, 15 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/4-9ygI94FhwY80vbGN7twy-gjIM=/s01.video.glbimg.com/deo/vi/69/13/14871369"
-    },
-    {
-      "titulo": "Festival Literário de Votuporanga chega à reta final com show de Frejat",
-      "imagem": "https://s2-g1.glbimg.com/cDu_g2YgalKuv7yMoh6XCGRWDS8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/b/iTFch2T1Wdl1l6eiKnkA/g1-98-.png"
-    },
-    {
-      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T17:17:09.868Z"
+  "atualizadoEm": "2026-08-15T17:44:40.100Z"
 }
