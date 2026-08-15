@@ -1,6 +1,54 @@
 {
   "noticias": [
     {
+      "titulo": "Corpos de colombianas mortas em acidente de helicóptero serão velados neste domingo no Rio",
+      "imagem": "https://s2-g1.glbimg.com/MGceGR25mlBdzNNR3R8jAMVkFII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/b5cck7SBSRShz2ApW4ow/foto1.jpeg"
+    },
+    {
+      "titulo": "Dos nomes às tradições: Como os bairros ajudam a preservar a identidade de Teresina",
+      "imagem": "https://s2-g1.glbimg.com/8uhXyFRh_i-VKgDD4zmXwV_CjU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/I/4jLpnWQXKgcxbU7jNKAQ/edicao-imagens-g1-2-.png"
+    },
+    {
+      "titulo": "Suspeito de matar homem no Acre há 25 anos é preso em área de difícil acesso no Mato Grosso",
+      "imagem": "https://s2-g1.glbimg.com/IjhLQluyxIj7l8c9wAdbrue1J3o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/3/tAVICvRCebSxHTqJ5vYw/midia-de-distribuicao-g1-2026-08-15t121919.061.png"
+    },
+    {
+      "titulo": "Dois irmãos empresários são mortos a tiros em Serra Talhada; suspeito do crime também morreu baleado",
+      "imagem": "https://s2-g1.glbimg.com/gtctw31BPGC9EbMvPBFq0lgZX8Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/g/qWfDy7Shaul9hH8E5xQA/localizada-no-bairro-luiz-gonzaga-a-maternidade-municipal-santa-dulce-dos-pobres-mmsdp-fica-por-tras-do-hospital-mestre-vitalino-hmv-.-43-.png"
+    },
+    {
+      "titulo": "Polícia prende flanelinhas que cobravam R$ 100 sob ameaça em jogo do Santos",
+      "imagem": "https://s2-g1.glbimg.com/QSIeT4w36RNbOio1Yyr8FCXw8cI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/t/pfq9MXSEiZMfs9p5nkGA/flanelinhas-presos.jpg"
+    },
+    {
+      "titulo": "Boa Vista abre inscrições para comerciantes que querem vender no Mormaço Cultural 2026",
+      "imagem": "https://s2-g1.glbimg.com/4wOvXEKX43umJo2O4U_3OAUS6kk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/O/DL6bAMSUWcEeA0SAnRTQ/cachorroquente.jpg"
+    },
+    {
+      "titulo": "Eleições no DF: Paula Belmonte declara R$ 10 milhões em bens; vice informa R$ 23 milhões",
+      "imagem": "https://s2-g1.glbimg.com/8P-ihumSNPDfTenL3UPjlwFC-UY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/k/k3LunrSyGkrXtFOACHZg/c2016-lu-debate-band-2-09082026-frame-4489.jpeg"
+    },
+    {
+      "titulo": "Granizo atinge bairro dos Campos e derruba árvores durante temporal em Carmo de Minas",
+      "imagem": "https://s2-g1.glbimg.com/JrF77X82NxECXhVhrcK_yM16oUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/i/gXBcq8RpSc5VzErVvPbw/montagemchuva.jpg"
+    },
+    {
+      "titulo": "Justiça suspende 'rock doido' em área de mangue no Pará após ação do Ministério Público",
+      "imagem": "https://s2-g1.glbimg.com/q4-QznWcxCq8eOR4GHe9jDJuGCI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Z/89wVfRR3exWgVm4YOiew/geral-g1-12-.png"
+    },
+    {
+      "titulo": "Mariedson, candidato ao Senado por Alagoas, declara não ter bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/z28oAO6_7eH3kGEIo03bbEmYzVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/IAfdJNT5C9K2ffmSBEMA/whatsapp-image-2026-08-11-at-17.11.25.jpeg"
+    },
+    {
+      "titulo": "Discord pede revogação da suspensão de lives e diz não conseguir cumprir prazo da ANPD",
+      "imagem": "https://s2-g1.glbimg.com/G9FqRhGEi6XbpjI7aPBEXs4fnMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/buPHArRkWwcvnTMZussQ/discord-1200.jpg"
+    },
+    {
+      "titulo": "Jovem de 24 anos morre dias após grave acidente no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/U1eLNsviFzMK-aHnqCRLqJFHSio=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/A/TGgsP5SQ6yotwuBgGmBg/design-sem-nome-2026-08-15t161846.174.png"
+    },
+    {
       "titulo": "Pedestre morre após ser atropelada por carro ao tentar atravessar rodovia em Marília",
       "imagem": "https://s2-g1.glbimg.com/jHhDdUK4L7rlVv87ExiPRvOalW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/W/MHtv7eSIiwAjEG1kdoAA/novo-projeto-2026-08-15t161329.594.png"
     },
@@ -18,7 +66,7 @@
     },
     {
       "titulo": "Líder indígena de SP, esposa, filhos e irmã estão entre os 7 mortos em acidente no MS",
-      "imagem": "https://s2-g1.glbimg.com/aQZ7CBsr77Wvx390as2eYdtM_3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/y/Y/DYJ8mTQg6ez823TO0nAA/potencias-parelheiros-ok-aprovado-mix-frame-3891.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/l4Dl-tCyeFVcCmmDTfieD3W8UXc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/z/475tEAR5KCS44SS5ZCwQ/fotojet-2026-08-15t171414.624.jpg"
     },
     {
       "titulo": "Madeireira que pegou fogo e atingiu lojas vizinhas não tem alvará, diz Prefeitura",
@@ -61,7 +109,7 @@
       "imagem": "https://s2-g1.glbimg.com/F-5hyAHsYBCKLcN2aqW-LnD8zR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/p/fnf18wS9KCPuy1vsO6hA/whatsapp-image-2026-08-05-at-16.29.04.jpeg"
     },
     {
-      "titulo": "Van com prefeito de Guarapari e familiares sofre acidente a caminho de casamento em Pedra Azul",
+      "titulo": "Prefeito de Guarapari e familiares sofrem acidente a caminho de casamento em Pedra Azul",
       "imagem": "https://s2-g1.glbimg.com/uF9RJp4eB9nOc4hqDd5rTwZNXcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/S/I0OzGrQhWpUGRsZnVFVw/thumb-fotos-24-1-.jpg"
     },
     {
@@ -69,57 +117,9 @@
       "imagem": "https://s2-g1.glbimg.com/YzRkqjl3Zi4T1HL1m97UbvLjYko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/S/iHFUtIRPWTsd2iyBA57Q/foto-e-montagem-vertical-49-.jpg"
     },
     {
-      "titulo": "Eleições no DF: Paula Belmonte declara R$ 10 milhões em bens; vice informa R$ 23 milhões",
+      "titulo": "Eleições no DF: Celina Leão declara R$ 440 mil em bens; vice informa R$ 46 milhões",
       "imagem": "https://s2-g1.glbimg.com/8P-ihumSNPDfTenL3UPjlwFC-UY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/k/k3LunrSyGkrXtFOACHZg/c2016-lu-debate-band-2-09082026-frame-4489.jpeg"
-    },
-    {
-      "titulo": "Túlio Gadêlha, candidato ao Senado pelo PSD, declara R$ 1,3 milhão em bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/vCPw1n_t5vQTZzQ_QVp9tvI04dg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/K/N4wB5tTiao3CjcdvGTkA/tulio.jpeg"
-    },
-    {
-      "titulo": "Caminhão carregado de pedras tomba e provoca rachaduras em asfalto de rodovia na Bahia",
-      "imagem": "https://s2-g1.glbimg.com/ssyRipz7WUfLb_vNYjg1Kggm6sQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/b/5THdSUQCiRUs1a7vhm2A/rodovia-prf.jpeg"
-    },
-    {
-      "titulo": "Defesa Civil emite alerta severo de rajadas de vento para cidades do Sul do Rio",
-      "imagem": "https://s2-g1.glbimg.com/YXUEU0Ggmf5Sb1Kw_KmAm18qWVo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/U/OAA5yTRFObbMm54phVOg/whatsapp-image-2026-08-15-at-15.52.29-1-.png"
-    },
-    {
-      "titulo": "Caminhão tomba após ser atingido por carro de motorista sem CNH na pista contrária em Limeira",
-      "imagem": "https://s2-g1.glbimg.com/xY-CLec5kJNexIoWwvNLeySoewI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/s/kfQagxR7GYZCrvRA5dnQ/capas-ana.png"
-    },
-    {
-      "titulo": "Homem morre após sofrer possível choque elétrico em CTG de Ponta Porã",
-      "imagem": "https://s2-g1.glbimg.com/12znhGN2to7FiZrOobZbcAHwbqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/Y/wjxm8sQreD6Ym9HA5zGw/ghnjmk-l..png"
-    },
-    {
-      "titulo": "VÍDEO: Entregador gira no ar ao bater em carro que avançou 'pare' em MG",
-      "imagem": "https://s2-g1.glbimg.com/b7KKTBD0wFPpYm3V1VIUZGdlAmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/K/PMG8sKR7aLZsfYIDp0vA/design-sem-nome-3-.png"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Amazonas 1ª edição deste sábado, 15 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/4xAvnWQvWpZCu6ExEkF5EK3-PCM=/s01.video.glbimg.com/deo/vi/23/22/14872223"
-    },
-    {
-      "titulo": "Terremoto na Colômbia: mulher resgatada após quase 37 horas sob escombros morre, dizem familiares",
-      "imagem": "https://s2-g1.glbimg.com/WpdtzPEA75IPLnpGTrpdKj01uIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/o/BNvzQqQnuCFPdbkq5h1Q/2026-08-12t015529z-301134894-rc2pwma28tw4-rtrmadp-3-colombia-quake.jpg"
-    },
-    {
-      "titulo": "Caminhada com Maria reúne milhares de fiéis em Fortaleza; veja imagens",
-      "imagem": "https://s2-g1.glbimg.com/SyLBSq03cqECBoT7XLph8NZFVL0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/E/DZasaBRGyrTSbe0Apdzw/caminhada-com-maria.jpg"
-    },
-    {
-      "titulo": "Casal morre após lancha colidir com pilar de ponte no Puraquequara, em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/1ACfYQYPgjTxwY4vWLz7oHNcPaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/Q/vpe2UvSJyb5E9Kjif99Q/iml-de-manaus-foto-gato-junior-rede-amazonica.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: Suspeito reage à abordagem e acaba baleado após tomar arma de PM",
-      "imagem": "https://s2-g1.glbimg.com/Kij7_81-XLWHc_OAX-v_lfA18vA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/n/NHzQR3TfG2XbEECRk6Kg/formato-g1.png"
-    },
-    {
-      "titulo": "Adolescente tenta matar e roubar idoso; vítima é resgatada caída embaixo de ponte no ES",
-      "imagem": "https://s2-g1.glbimg.com/0CynYAR4xGJxIeExDa2HZv1QOa0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/A/aRboOpTBKFK0sAbAOwhg/thumb-fotos-20-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-15T20:17:27.663Z"
+  "atualizadoEm": "2026-08-15T20:47:10.636Z"
 }
