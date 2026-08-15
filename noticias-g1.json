@@ -1,6 +1,66 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEOS: RJ2 de sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/ogDwFcvVoW95dofLu079dnCqHec=/s01.video.glbimg.com/deo/vi/97/26/14872697"
+    },
+    {
+      "titulo": "VÍDEOS: EPTV 2 Sul de Minas de sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/LQuc7mkE_RALlvnFudNk6gRzvjo=/s01.video.glbimg.com/deo/vi/19/27/14872719"
+    },
+    {
+      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "VÍDEOS: GR2 de sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/bf_wUmFB0q-oZiAoz8TgBB5Pywc=/s01.video.glbimg.com/deo/vi/23/27/14872723"
+    },
+    {
+      "titulo": "Mais de 100 carros por hora tentam passar por pedágio da Linha Amarela sem pagar, diz concessionária",
+      "imagem": "https://s2-g1.glbimg.com/y7O4O-OasOKv6sKv_ARV9BtXVa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/C/jw4foHTXONGKaDHBFD8Q/linha.jpeg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
+      "imagem": null
+    },
+    {
+      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "Assista ao JAP2 deste sábado (15)",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é esfaqueado e socorrido após entrar em farmácia no Centro de Jundiaí",
+      "imagem": "https://s2-g1.glbimg.com/_ZyJH-muEs8MjtMJkQa83IfapJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/X/oPVFuBTmeiukh6A3ac3g/policia.jpg"
+    },
+    {
+      "titulo": "Projeto oferece tomografia e cirurgia de catarata pelo SUS em três cidades do Ceará",
+      "imagem": "https://s2-g1.glbimg.com/9CODIO1Qn1MucF_brMNcSKTxJ7M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/g/ywIRS7RD2IDDRXPhoQDA/populacao-de-mais-tres-municipios-do-ce-passa-a-ser-atendida-por-carretas-de-exames-de-imagem-e-ofta.jpg"
+    },
+    {
+      "titulo": "Preço médio do etanol tem queda em São José dos Campos e Taubaté, aponta ANP",
+      "imagem": "https://s2-g1.glbimg.com/6iwrv-ME9Xmg2l2vPXEfoREf1u8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/F/cshCx1SziPw8sTAEnamQ/edicao-imagens-g1-12-.png"
+    },
+    {
       "titulo": "Veja quem são os candidatos a vice-governador em Alagoas em 2026",
       "imagem": "https://s2-g1.glbimg.com/5HlWAhp29cMEk5Uy9XU0EPfeblU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/y/hxSkJ5QAymXBLa1BHSBA/whatsapp-image-2026-08-15-at-19.12.03.jpeg"
     },
@@ -13,10 +73,6 @@
       "imagem": "https://s2-g1.glbimg.com/sMGg20GcOjCopGcSHk7IcDYFnt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/j/lBCUMUQsmpcwztew1BHw/faca-.jpg"
     },
     {
-      "titulo": "Assista ao BATV",
-      "imagem": null
-    },
-    {
       "titulo": "Suspeito de incêndio em hotel que deixou mulher em estado grave é preso em cafeteria no RS",
       "imagem": "https://s2-g1.glbimg.com/_51obMxcMETWDGAqy4HUdrGHmHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/s/x29EBiSgSl6YCRAwgM0w/g1-33-.jpg"
     },
@@ -25,44 +81,12 @@
       "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
     },
     {
-      "titulo": "Assista ao JRO2 deste sábado, 15",
-      "imagem": "https://s2-g1.glbimg.com/AsUkhvXuu5rx_Zpgv8SExH1qeps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/m/ORPBZlS5ilHGBbkb6eaQ/whatsapp-image-2026-08-15-at-18.04.20.jpeg"
-    },
-    {
       "titulo": "Ex-vereador é condenado a 41 anos de prisão por encomendar a morte de técnica de enfermagem",
       "imagem": "https://s2-g1.glbimg.com/_dYESAjmHmzzANU127wMlEWJokM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/A/m1iskOQ5qbpBRqq9hlCQ/foto-e-montagem-vertical-43-.png"
     },
     {
-      "titulo": "Assista aos telejornais da TV Liberal",
-      "imagem": null
-    },
-    {
       "titulo": "Ônibus pega fogo e precisa ser evacuado em MS; passageiros não ficaram feridos",
       "imagem": "https://s2-g1.glbimg.com/5ekeeNdLL3w_X0PtvJiXM7c4cGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/D/B07c03R9u4A95pxHTIWA/formato-g1-1-.png"
-    },
-    {
-      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista ao Jornal Vanguarda ao vivo no g1",
-      "imagem": "https://s2-g1.glbimg.com/JUlrL8xbxN4SRa6eMbFfPbSqi4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/R/SdP4NhSuG9lQDEyOl9pg/texto-do-seu-paragrafo-21-.png"
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista ao JAP2 deste sábado (15)",
-      "imagem": "https://s2-g1.glbimg.com/13M9tjoTBFlXZMOPmdrNCBW6VYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/I/3WPTBHQ2yItJPmVGjF5g/photo-5181780607455922977-y.jpg"
     },
     {
       "titulo": "Marina Sena participa do cortejo de São Benedito e é coroada catopê nas Festas de Agosto em Montes Claros",
@@ -85,10 +109,6 @@
       "imagem": "https://s2-g1.glbimg.com/MQp6up8rjAoPmcQoX34NppoZnVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/b/BcoBebQliDz9lvs4X9wA/foto-tradicional-1-.png"
     },
     {
-      "titulo": "AO VIVO: Assista ao GR2",
-      "imagem": "https://s2-g1.glbimg.com/K2gsnPB6ofo9WfMgINpvMIgBwe8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/M/64EZS1SfaLKfMqfeXniQ/whatsapp-image-2025-03-11-at-19.11.55.jpeg"
-    },
-    {
       "titulo": "Terremoto na Colômbia: número de mortos sobe para 294",
       "imagem": "https://s2-g1.glbimg.com/vjiTKZMneLMUunfzFE_MMResgrg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/oR5pWJSD23wiZzruHDjA/2026-08-15t183800z-2044037466-rc24zmaf3zum-rtrmadp-3-colombia-quake.jpg"
     },
@@ -97,29 +117,9 @@
       "imagem": "https://s2-g1.glbimg.com/EBlQkCaUTF5-WU_qeRfVnXMIBMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/P/35pvdxTiA4sryACSDk6A/whatsapp-image-2026-08-15-at-14.10.35.jpeg"
     },
     {
-      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
-    },
-    {
       "titulo": "Cantor Lucas, da dupla sertaneja Lucas &amp; Matheus, morre em Portugal",
       "imagem": "https://s2-g1.glbimg.com/jy7weQhuCHpN6ld27_tlyVU9jnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/M/9tjsBMQ0qOLaXZkzBDoA/novo-projeto-2026-08-15t175647.187.png"
-    },
-    {
-      "titulo": "Isael Munduruku declara R$ 1,6 milhão em bens ao TSE; vice Leo Balbi não informa patrimônio",
-      "imagem": "https://s2-g1.glbimg.com/0QuwUdHM8fxqI9XzQ1yJL4fpfHQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/N/UkDHusS8qvvMUCfPMvZQ/federacao-redepsol-lanca-isael-munduruku-como-candidato-ao-governo-do-amazonas-foto-jadson-lima-g1-am.jpg"
-    },
-    {
-      "titulo": "EPTV 2 Campinas ao vivo",
-      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
-    },
-    {
-      "titulo": "VÍDEO: motorista bate contra poste de energia, arranca estrutura e abandona veículo em Bauru",
-      "imagem": "https://s2-g1.glbimg.com/JZ5kZVhRAmxOvqp5qxAPHldETvk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/B/NCfwyOQOAUYuR7D0KquA/novo-projeto-2026-08-15t172408.214.png"
-    },
-    {
-      "titulo": "VÍDEO: Drone captura maior incêndio florestal da história da Bélgica",
-      "imagem": "https://s2-g1.glbimg.com/SpAR57O9pAknl6IbCE6m_MqtUeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/z/MAea3VSWybGVsLwSvJaw/afp-20260815-c4r769f-v1-midres-belgiumenvironmentclimateweatherwildifre.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-15T22:26:34.633Z"
+  "atualizadoEm": "2026-08-15T22:47:39.927Z"
 }

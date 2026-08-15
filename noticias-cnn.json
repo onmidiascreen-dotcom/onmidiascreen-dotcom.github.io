@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Tempestades e inundações deixam seis mortos em Indiana, dizem autoridades",
+      "imagem": null
+    },
+    {
+      "titulo": "Decisivo em virada do Fluminense, Cano exalta torcida: &#8220;Nosso ânimo&#8221;",
+      "imagem": null
+    },
+    {
       "titulo": "Petrobras estima começar a extrair petróleo da Margem Equatorial em 7 anos",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Atacante equatoriano demonstra interesse em jogar pelo Vasco",
       "imagem": null
-    },
-    {
-      "titulo": "Patrimônio dos candidatos ao Planalto vai de R$ 33 mil a R$ 242 milhões",
-      "imagem": null
-    },
-    {
-      "titulo": "Conheça a Miss Earth Indonesia que teve a morte anunciada no aniversário",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T22:26:33.592Z"
+  "atualizadoEm": "2026-08-15T22:47:39.282Z"
 }
