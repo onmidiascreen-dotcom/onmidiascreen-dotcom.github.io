@@ -1,6 +1,62 @@
 {
   "noticias": [
     {
+      "titulo": "Estácio de Sá marca presença em evento que celebra o Carnaval de Campos",
+      "imagem": "https://s2-g1.glbimg.com/i6ZGizjtnFK_A4uxXrBc5a9se6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/Z/CeQMWETFeGsltdLYGi8w/carnaval.jpg"
+    },
+    {
+      "titulo": "Homem condenado por assassinar e estuprar adolescente de 14 anos é morto após deixar presídio no AC",
+      "imagem": "https://s2-g1.glbimg.com/vl4zgecZaQbilDJ5_e3pe5PENVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/q/5NbySUSHeOKpgd4oybzw/midia-de-distribuicao-g1-2026-08-15t102536.516.png"
+    },
+    {
+      "titulo": "Suspeito de tentativa de latrocínio contra médico morre após troca de tiros com a PM na Bahia",
+      "imagem": "https://s2-g1.glbimg.com/V8LEYtS6Fq0CrB3NDhVR9P281_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/o/YIcP6FSCqiq0Q2GRdXVA/edimilsson-43-.png"
+    },
+    {
+      "titulo": "Ideb 2025: Piracicaba sobe 0,5 ponto no ensino fundamental e fica abaixo da meta no ensino médio",
+      "imagem": "https://s2-g1.glbimg.com/UQYzc_qW_B-dOEfrRRReU0Ormic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/g/oHad9qQHuqjiotxebrYw/crianca-segura-lapis.jpg"
+    },
+    {
+      "titulo": "Padilha diz que quem estiver de passagem por SP, Guarulhos ou São Bernardo pode se vacinar contra o sarampo",
+      "imagem": "https://s2-g1.glbimg.com/5bRadwz6BUa1FocvkBMP2pNFQFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/z/SeQXUqRFS3xDkbRcfqhg/design-sem-nome-1-.png"
+    },
+    {
+      "titulo": "Roberto Rocha declara R$ 3,5 milhões em bens ao TSE; vice informa R$ 435 mil",
+      "imagem": "https://s2-g1.glbimg.com/duWt66x3M3xl_7evYQYDcyqtljM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/E/lbT0eyR4ycN5FrE7Vr7Q/montagens-1920-x-1080-px-3-.png"
+    },
+    {
+      "titulo": "Motociclista cai e tem pescoço ferido por fio de internet solto em MG",
+      "imagem": "https://s2-g1.glbimg.com/PugQaElsWLbBbtk7UKNpBPyvKIA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/1/l1LnLBSAiNgp5EPJuNTw/intern.png"
+    },
+    {
+      "titulo": "Eleições 2026: Candidatos à Presidência declaram patrimônios que variam de R$ 30 mil a R$ 242 milhões ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
+    },
+    {
+      "titulo": "STF começa a julgar liminar que reconduziu Coronel Sandro à prefeitura de Governador Valadares",
+      "imagem": "https://s2-g1.glbimg.com/CaDBmG67wgFjQjqYrhYys6VVgzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/3/53x3B5QKe9JI7BWvnBYg/1200x675.png"
+    },
+    {
+      "titulo": "Casal é preso com cerca de 50 kg de drogas e mil comprimidos de ecstasy",
+      "imagem": "https://s2-g1.glbimg.com/8zTtn0TLMOAJ9oRhAFmnD2vnJUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/3/AQDY0wRj6rVKw7aP8Omg/apreende-jua.jpg"
+    },
+    {
+      "titulo": "Cantor Mato Grosso se emociona durante show em Goiás ao homenagear irmã que morreu",
+      "imagem": "https://s2-g1.glbimg.com/z7qUNKIXLpigVzkIQJqF0krtRPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/v/zAKF2VTY6Oq8YPSSPcyg/copia-de-copia-de-copia-de-padrao-foto-g1-goias-22-.jpg"
+    },
+    {
+      "titulo": "Como a Austrália, conhecida por sua fauna exuberante, tornou-se o epicentro das extinções no planeta",
+      "imagem": "https://s2-g1.glbimg.com/hqQl3JVovI4_3FHEXjXs4SSxn_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/B/C/dwrYgtQAas1n2iBnml2w/coala-australia.jpg"
+    },
+    {
+      "titulo": "Presos beneficiados com saída temporária do Dia dos Pais não retornam a presídio de Campos",
+      "imagem": "https://s2-g1.glbimg.com/ceWjjfZnyem4osOL_u4wmQi4Qew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/S/BSeuEcRZinBdbXOaAqVQ/presidio.jpg"
+    },
+    {
+      "titulo": "Ex-noiva de Latino diz ter medida protetiva contra cantor e o acusa de agressão; ele nega as acusações",
+      "imagem": "https://s2-g1.glbimg.com/GwNLMt6lILNcPfwbzc2w8-eofIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/n/JTzN82RLCbEVwtJcIhyA/design-sem-nome-2026-08-15t110718.057.png"
+    },
+    {
       "titulo": "Taubaté abre edital para contratar consultas na rede privada de saúde; saiba as especialidades",
       "imagem": "https://s2-g1.glbimg.com/9GUvLE4g1b2C-kPkicIrsl7-tHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/0/b9BBYpQAKMcjFDeGcDVQ/prefeitura-taubate-.00-03-07-25.still001.jpg"
     },
@@ -63,63 +119,7 @@
     {
       "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
       "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Cachorro invade pista, é atropelado e causa sequência de acidentes na Via Expressa Sul, em Praia Grande",
-      "imagem": "https://s2-g1.glbimg.com/XjcAZNZC6MdXU0TW7VGh_SVf-Qs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/1/s9JYNFQ8OH2MBnaqmqvQ/fotos-materias-2026-08-15t120943.187.jpg"
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Liberal",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest: voto em Lula e Flávio Bolsonaro é o mais consolidado; Zema tem eleitorado menos convicto",
-      "imagem": "https://s2-g1.glbimg.com/g7doVWWKamWvKPOVEpChD5Aq6RE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/4/BcgRUOQf2IqRglMxBqPA/montagem-horizontal-1280x720px-2-.jpg"
-    },
-    {
-      "titulo": "Fiéis percorrem longas distâncias para pagar promessas no Santuário Senhor do Bonfim",
-      "imagem": "https://s2-g1.glbimg.com/OTovX_cget4x8XmkGyxTFaK4zDk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/s/Zwb7KxR5C3Mv8A8qexmQ/f2-fieis-durante-a-romaria-em-natividade-em-direcao-ao-povoado-senhor-do-bonfim-tradicao-reune-milhares-de-devotos-todos-os-anos-foto-thiago-sa-gov-to.jpg"
-    },
-    {
-      "titulo": "Assista ao Gazeta Meio Dia - edição regional",
-      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
-    },
-    {
-      "titulo": "Homem é preso após furtar celulares, cartões e dinheiro de carro em estacionamento de supermercado em Cuiabá",
-      "imagem": "https://s2-g1.glbimg.com/2RoJ9zrsTBjassossqijBTZGT9c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/K/BRJpV6TB6TXc7UExGXBQ/foto-g1-2026-08-15t093745.271.png"
-    },
-    {
-      "titulo": "Assista ao Gazeta Meio Dia",
-      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
-    },
-    {
-      "titulo": "Morador que chamou vereadora de Tatuí de 'japonesinha do Paraguai' é condenado a 2 anos e 8 meses de detenção",
-      "imagem": "https://s2-g1.glbimg.com/yjOgtl02X_cbtsvldNLsoP7yJDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/C/RvzoZtRDGvNPgMB4LXyw/l-20250106142507-1-.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição de sábado, 15 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/zwbHLXMltJZBKrRzkYbTzej6FGg=/s01.video.glbimg.com/deo/vi/76/13/14871376"
-    },
-    {
-      "titulo": "Suspeito de assalto em Bom Jardim é preso após perseguição nas BRs 316 e 222",
-      "imagem": "https://s2-g1.glbimg.com/lILbeK81owgJUTWcnnh3JUtmuHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/C/7lBgqtRfS373eecRTkEw/montagens-1920-x-1080-px-54-.png"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Bahia",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T16:53:03.878Z"
+  "atualizadoEm": "2026-08-15T17:17:09.868Z"
 }

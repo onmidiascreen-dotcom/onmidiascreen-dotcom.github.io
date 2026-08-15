@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "D23: com Robert Downey Jr. e Chris Evans, Marvel posta fotos de bastidores",
+      "imagem": null
+    },
+    {
+      "titulo": "Rota do Ártico vira corredor de gás russo para a China",
+      "imagem": null
+    },
+    {
+      "titulo": "Desabamento em SBC ocorreu ao lado de obra da CDHU; laudos serão avaliados",
+      "imagem": null
+    },
+    {
+      "titulo": "Investigador sofre tentativa de assalto, reage e atinge suspeito na Berrini",
+      "imagem": null
+    },
+    {
       "titulo": "Ex-professor de Cambridge é encontrado morto após acusações de plágio",
       "imagem": null
     },
@@ -41,7 +57,7 @@
       "imagem": null
     },
     {
-      "titulo": "Frozen III: Disney mostra cena inédita e possível nova vilã",
+      "titulo": "&#8220;Frozen III&#8221;: Disney mostra cena inédita e possível nova vilã",
       "imagem": null
     },
     {
@@ -103,23 +119,7 @@
     {
       "titulo": "Forte chuva deixa cerca de 60 mil imóveis sem energia na Grande SP",
       "imagem": null
-    },
-    {
-      "titulo": "Bitcoin pouco volátil pode antecipar “explosão”",
-      "imagem": null
-    },
-    {
-      "titulo": "Mulher desaparece após carro cair em rio no Paraná; homem morreu",
-      "imagem": null
-    },
-    {
-      "titulo": "Leapmotor B10 Ultra-híbrido será lançado no Festival Interlagos este mês",
-      "imagem": null
-    },
-    {
-      "titulo": "Terremoto de magnitude 5 atinge sul da Espanha e danifica casas e carros",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T16:53:03.164Z"
+  "atualizadoEm": "2026-08-15T17:17:09.473Z"
 }
