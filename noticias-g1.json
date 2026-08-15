@@ -1,6 +1,74 @@
 {
   "noticias": [
     {
+      "titulo": "Rubacão: aprenda como preparar o prato no Chef JPB",
+      "imagem": "https://s2-g1.glbimg.com/vQnSO1oTHvib1V_xFO_UdaV0fss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/V/9Mc6bjQv6UaGniP0lFeg/whatsapp-image-2026-08-14-at-16.29.07.jpeg"
+    },
+    {
+      "titulo": "Mulher é encontrada morta com tiro na nuca e filho de 3 anos é achado sozinho em casa em Cuiabá",
+      "imagem": "https://s2-g1.glbimg.com/06odd9_EoPLjFlp6W1H_jKUPz6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/V/8XRZ9lQP222ePrR6Pq0A/foto-g1-39-.png"
+    },
+    {
+      "titulo": "VÍDEOS: GR1 de sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/QCVkVGC3w5WjS1ZeX1KYD8f-9h4=/s01.video.glbimg.com/deo/vi/41/13/14871341"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/e8aujbUdsYJaOPe_u8WCfucU918=/s01.video.glbimg.com/deo/vi/45/13/14871345"
+    },
+    {
+      "titulo": "Eleições no DF: Expedito Mendonça, do PCO, declara R$ 5 mil em bens; vice informa R$ 300 mil",
+      "imagem": "https://s2-g1.glbimg.com/S_kPqEHP3sc_uKNMsMc0czVcNuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/f/I0QcYBTFWCyb7MseIjhA/expedito-pco.jpg"
+    },
+    {
+      "titulo": "Henrique Áreas e Estevão Gomes dizem não ter bens a declarar ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/9RmOCiPoJ42XxMa-S-IOrzD-4dc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/D/TGU9cBT2uUUaKK1tKerQ/design-sem-nome-9-1-.png"
+    },
+    {
+      "titulo": "Casal é preso por manter 'depósito' de drogas em casa em Rorainópolis, no Sul de Roraima",
+      "imagem": "https://s2-g1.glbimg.com/gQRDkEAk5majCsISj5SUvGJDeRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/H/9pXsuEQAWoXJiPsBvyIw/drogas-.jpg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
+      "imagem": null
+    },
+    {
+      "titulo": "STF suspende condenação de Romero Jucá e ex-senador pode concorrer às eleições",
+      "imagem": "https://s2-g1.glbimg.com/0nfoKHbkwYYSpz0Fa5N-SqIzoI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/v/87oy3bQsCjvIHnAX6VKg/54579983762-51de93863b-o.jpg"
+    },
+    {
+      "titulo": "Manoel Carvalho, candidato ao Senado, declara R$ 3,87 milhões em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/PioLYQuwqk_7MI3a1VYKaI8Cwek=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/S/9AGWqQRXm625KT4kWv7w/design-sem-nome-8-1-.png"
+    },
+    {
+      "titulo": "Eleições no DF: Leandro Grass, do PT, declara R$ 285 mil em bens; vice informa R$ 598,5 mil",
+      "imagem": "https://s2-g1.glbimg.com/F_VMJIRdEfPucrB7bvRrZmd7Fvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/C/pW4Rc5RruGQ7chIMMrAA/crd-convencao-pt-00014-frame-3519.jpeg"
+    },
+    {
+      "titulo": "Caminhão pega fogo e provoca incêndio em empresa de Santa Bárbara d'Oeste",
+      "imagem": "https://s2-g1.glbimg.com/tZaLajLKRCBHQTA5iY_tywyauE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/E/yhAJBXQeKeepZBJwdXaA/design-sem-nome-9-.png"
+    },
+    {
+      "titulo": "Carreta da Mamografia chega a Alagoinhas, na BA, com exames gratuitos; veja quem pode participar",
+      "imagem": "https://s2-g1.glbimg.com/R4cG648S1ftVTNpQllOOSDT_t-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/H/B/cjNM0US0SZFUUuSCuVnA/alagoinhas.jpeg"
+    },
+    {
+      "titulo": "Estudante de agronomia é morto a facadas em bar por ex-seminarista, no Sertão da Paraíba; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/Bgy1KRPl_8UA80P-8g7w7XTAJ_Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/I/XKBiE9S6WmZpYgfIvmnA/seminarista.png"
+    },
+    {
+      "titulo": "Mulher mantida em cárcere privado pelo marido é resgatada após denúncia do filho no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/hT9Mt_hkOiT4TPmRwulPUTDj0u0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/S/m/zi1EIDQ3KPElYAZeBmWA/whatsapp-image-2023-02-02-at-16.54.30.jpeg"
+    },
+    {
+      "titulo": "Sebastião Pessoa, candidato ao Senado, indica ao TSE que não tem bens a declarar",
+      "imagem": "https://s2-g1.glbimg.com/964gFXcyPJxVCjTbVjaaUAOYxzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/1/BBMCLNRtGoRt43OEe69Q/design-sem-nome-2026-08-06t181657.184.jpg"
+    },
+    {
+      "titulo": "Assista ao Link Vanguarda ao vivo no g1",
+      "imagem": "https://s2-g1.glbimg.com/-aKNpXu5tkH1IMbZNlTHrGL7GBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/m/0EIsytSK6hz2JpLJ2VsA/texto-do-seu-paragrafo-23-.png"
+    },
+    {
       "titulo": "Corpo de mulher é encontrado decapitado dentro de casa no Pará; marido é principal suspeito",
       "imagem": "https://s2-g1.glbimg.com/CK4IffIetIILJ6EjssryTo4P5mQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/y/Bq9hVCTcGvphNvz7QIVw/whatsapp-image-2026-08-15-at-12.05.05.jpeg"
     },
@@ -25,8 +93,8 @@
       "imagem": "https://s2-g1.glbimg.com/ZnaBfVMnv5Z41uV1ZlQnMn3eifU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/y/vdO4pfQF2zLvBMH0gHvA/whatsapp-image-2026-08-15-at-10.58.06.jpeg"
     },
     {
-      "titulo": "Após mais de 40 horas, incêndio no lixão de Iranduba continua",
-      "imagem": "https://s2-g1.glbimg.com/wZ_t1oN50IyjR8SmEwFQdaStp5Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/1/yNPW8sTiKo1kAYuWBKbA/apos-mais-de-40-horas-incendio-no-lixao-de-iranduba-continua-foto-gato-jr-rede-amazonica.jpg"
+      "titulo": "Após mais de 40 horas, incêndio no lixão de Iranduba continua neste sábado; fumaça se espalha pela região",
+      "imagem": "https://s2-g1.glbimg.com/t4vlbv2taqVIWhAxvfTy3uVZT-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/U/RiYISASqqGsXrdtLBJHg/whatsapp-image-2026-08-14-at-19.44.33-1-.jpeg"
     },
     {
       "titulo": "Eliana Alves Cruz relança 'O crime do Cais do Valongo' e anuncia série que investiga crimes e 'roubos' do período colonial",
@@ -51,75 +119,7 @@
     {
       "titulo": "'Barato da Cozinha': aprenda a fazer feijão tropeiro",
       "imagem": "https://s2-g1.glbimg.com/1fYl3YX4_HeZ5W3_uNB8b3oi6wU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Z/fAnaIcS6mJ4muXp8uLgQ/molduras-g1-2026-08-15t104500.549.png"
-    },
-    {
-      "titulo": "Fresno traz novo disco e hits da carreira para a Virada Cultural do DF neste sábado; leia entrevista",
-      "imagem": "https://s2-g1.glbimg.com/-6RwIwbtCJYyEnADadkv9TdJSZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/p/rlke5TTKW6onMRRDEP5A/fresno-2-giovanna-cianelli-.png"
-    },
-    {
-      "titulo": "Pastor é condenado a 70 anos de prisão por estupro de filha e enteadas em Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/QJlgzS6WTyYxgEYt8cvt7V72qA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/P/tjRMOoQ4AAI0rAF1gnyA/image-2026-02-24t184930.940.png"
-    },
-    {
-      "titulo": "Penúltima noite da Expofeira tem shows de Luísa Sonza, Aparelhagem Tupinambá e mais",
-      "imagem": "https://s2-g1.glbimg.com/E6Bc-OnSUdLPyVaLu3MNDyQADYI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/8/61FozsQuGRjOMXOLJWVg/aleixo-g1-49-.jpg"
-    },
-    {
-      "titulo": "Assista ao EPTV1",
-      "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
-    },
-    {
-      "titulo": "Assista ao Bahia Meio Dia",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem morre após picape bater em caminhão com cana-de-açúcar em Colina, SP",
-      "imagem": "https://s2-g1.glbimg.com/erW-r6xG-VhHLGuUV-yzAVUu5g0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/L/NwJKtwQBy4MCRj5TcHWA/molduras-g1-2026-08-15t113038.190.png"
-    },
-    {
-      "titulo": "Veja quem são as vítimas do acidente com caminhão que capotou no Piauí",
-      "imagem": "https://s2-g1.glbimg.com/apXXfuz1s3oSg0xBEIZAxyqaVvo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/x/scr5czSqKDuALhHtWCVQ/edicao-imagens-g1-1-.png"
-    },
-    {
-      "titulo": "Assista ao Gazeta Meio Dia - edição regional",
-      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
-    },
-    {
-      "titulo": "Major Fábio, candidato a senador pela Paraíba, declara não ter bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/T2rNuSByKlHCv9Fiu61h3ammU84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/r/K/60sSvdTVifLid9bmBtYQ/candidato-4.jpg"
-    },
-    {
-      "titulo": "Assista ao Gazeta Meio Dia",
-      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
-    },
-    {
-      "titulo": "Alerta de calor intenso: Goiás pode ter temperatura de até 39ºC e umidade de 12% nos próximos dias",
-      "imagem": "https://s2-g1.glbimg.com/YoaWmwwrVkm7T1ttzt5iT1LnAsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/g/BAPLRAQvu86fCMFShf5g/image.jpg"
-    },
-    {
-      "titulo": "Homem é morto a tiros em Itatiaia",
-      "imagem": "https://s2-g1.glbimg.com/i7HUKxntE5HkBJrY4UjIm7SxRNM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/7/4FGwAtQ0KvvBOaH0xacQ/image-72-.jpg"
-    },
-    {
-      "titulo": "Trabalhador fica nove horas preso entre ponte e retroescavadeira após queda em ribanceira em SC",
-      "imagem": "https://s2-g1.glbimg.com/tXxFVg7xlZgX6Vx2zol1MgSld_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/Z/8BEsVNShK2cSBAMAjAZQ/fotojet.jpg"
-    },
-    {
-      "titulo": "MP denuncia 9 pessoas por esquema com ‘Jogo do Tigrinho’ e lavagem de dinheiro no Tocantins",
-      "imagem": "https://s2-g1.glbimg.com/38bo5MpzzpbTG0aGyHPHsJas4FM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/5/ov52pBSmeCKRcfHyfUZg/design-sem-nome-4-.png"
-    },
-    {
-      "titulo": "Dois homens são mortos a tiros dentro de casa no interior do Ceará",
-      "imagem": "https://s2-g1.glbimg.com/pA8ies_FOOsQFNXkT26fAM4GYS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/Y/ACpVfNRtqcYr0VZTy3QQ/delegacia-itapipoca-2.jpg"
-    },
-    {
-      "titulo": "Mulher é socorrida em trilha no Morro do Cristo, em Juiz de Fora",
-      "imagem": "https://s2-g1.glbimg.com/5emtDxaDf99NqcpoDHHmHhc4IlM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/Z/zUXnkKQA62yQoAqGSHMQ/whatsapp-image-2026-08-15-at-10.49.22.jpeg"
-    },
-    {
-      "titulo": "AO VIVO: Assista ao GR1",
-      "imagem": "https://s2-g1.glbimg.com/gdulI_BtROoSM0bEG-mqNOB0NP8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/3/oAP1lvSyyiScnBwqGKAw/img-6511.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-15T15:16:11.782Z"
+  "atualizadoEm": "2026-08-15T15:44:08.810Z"
 }

@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Incêndio florestal na Alemanha está sob controle, dizem autoridades",
+      "imagem": null
+    },
+    {
+      "titulo": "Terremoto de magnitude 7,7 deixa ao menos 47 mortos na Indonésia",
+      "imagem": null
+    },
+    {
+      "titulo": "Disney surpreende com resultados e ações sobem após balanço",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio come pão com leite condensado para reforçar associação a Bolsonaro",
+      "imagem": null
+    },
+    {
       "titulo": "Sem Endrick, Real Madrid divulga relacionados para último amistoso",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "CEO da CPFL Energia: Conseguimos entregar resultado robusto no 2º tri",
       "imagem": null
-    },
-    {
-      "titulo": "Quaest: Lula tem 47% entre os católicos; Flávio, 43% entre os evangélicos",
-      "imagem": null
-    },
-    {
-      "titulo": "Defesa Civil emite alerta severo para chuva forte, raios e ventos em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest: Para 33%, violência é a principal preocupação dos eleitores",
-      "imagem": null
-    },
-    {
-      "titulo": "De volta ao Morumbis, São Paulo tenta acabar com jejum na temporada",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T15:16:10.985Z"
+  "atualizadoEm": "2026-08-15T15:44:08.353Z"
 }
