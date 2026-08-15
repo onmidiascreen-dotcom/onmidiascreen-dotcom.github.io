@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Terremoto de magnitude 7,7 deixa 2 mortos na Indonésia",
+      "imagem": null
+    },
+    {
       "titulo": "Motoristas de app e taxistas se unem e cobram segurança em Apucarana",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Lula mira jovens, e campanha deve destacar Janja após esquecer mulheres em convenção",
       "imagem": null
-    },
-    {
-      "titulo": "TSE teme nova ofensiva contra sistema eleitoral após filiações fraudulentas",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T03:54:07.078Z"
+  "atualizadoEm": "2026-08-15T04:25:56.133Z"
 }
