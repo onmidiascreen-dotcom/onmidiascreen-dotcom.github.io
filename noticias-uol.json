@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "'Fui seguido por viatura da PM': o relato do motorista de Haddad no celular",
+      "imagem": null
+    },
+    {
+      "titulo": "Defesa Civil envia alerta severo para chuva forte com possibilidade de granizo em São Paulo",
+      "imagem": null
+    },
+    {
+      "titulo": "Falso advogado simula audiência virtual e limpa contas bancárias de família em Apucarana",
+      "imagem": null
+    },
+    {
+      "titulo": "Dois acidentes de trânsito deixam motociclistas feridos em Ivaiporã",
+      "imagem": null
+    },
+    {
+      "titulo": "Ataques de Israel matam ao menos nove pessoas no sul do Líbano",
+      "imagem": null
+    },
+    {
       "titulo": "Morre no hospital motociclista de 49 anos vítima de colisão violenta em Apucarana",
       "imagem": null
     },
@@ -39,27 +59,7 @@
     {
       "titulo": "Homem morre após carro cair em rio no PR e bombeiros buscam por mulher desaparecida",
       "imagem": null
-    },
-    {
-      "titulo": "USP segue como a melhor da América Latina no Ranking de Xangai; Paris lidera fora do eixo EUA-Reino Unido",
-      "imagem": null
-    },
-    {
-      "titulo": "Idaho deve permitir abortos para preservar a saúde das mulheres, decide juiz dos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "TJ mantém decisão que obriga SBT a exibir resposta de Erika Hilton no Programa do Ratinho",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump ameaça declarar Estreito de Ormuz território dos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Cármen Lúcia defende sigilo da fonte: liberdade de imprensa 'não está em questão'",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T11:43:25.921Z"
+  "atualizadoEm": "2026-08-15T11:57:44.962Z"
 }
