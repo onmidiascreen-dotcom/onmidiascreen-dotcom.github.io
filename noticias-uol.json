@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Colisão na PR-090 deixa idosa de 72 anos morta no norte do Paraná",
+      "imagem": null
+    },
+    {
+      "titulo": "Previsão do tempo em Ivaiporã indica sábado de sol e até 26°C",
+      "imagem": null
+    },
+    {
+      "titulo": "Terremoto de magnitude 7,7 atinge a costa da Indonésia e deixa 38 mortos",
+      "imagem": null
+    },
+    {
+      "titulo": "Imagens mostram forte impacto de acidente que deixou motociclista em estado grave",
+      "imagem": null
+    },
+    {
       "titulo": "Israel investe em indústria bélica nacional e pressiona por alistamento de ultraortodoxos",
       "imagem": null
     },
@@ -10,6 +26,10 @@
     },
     {
       "titulo": "Arapongas pode ter dois; Apucarana, nenhum?",
+      "imagem": null
+    },
+    {
+      "titulo": "Talibã sobrevive a cinco anos de isolamento e reconsolida poder no Afeganistão",
       "imagem": null
     },
     {
@@ -39,27 +59,7 @@
     {
       "titulo": "Custo médio com saúde de senadores é 10 vezes maior que com deputados e 46 vezes mais que no SUS",
       "imagem": null
-    },
-    {
-      "titulo": "Quem é Victor Marx, candidato a governador nos EUA que diz exorcizar por telefone",
-      "imagem": null
-    },
-    {
-      "titulo": "Cerâmica de 1900 mostra diferenças de hábitos alimentares entre grupos no Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Wagner Moura cumpre a expectativa em \"A Última Casa\", uma odisseia no lar",
-      "imagem": null
-    },
-    {
-      "titulo": "'Magia tributária' faz Brasil subsidiar refrigerante sem contrapartida",
-      "imagem": null
-    },
-    {
-      "titulo": "Menina caso zero da zika diz 'papai' pela 1ª vez aos 10 anos: 'Emocionante'",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T10:18:26.887Z"
+  "atualizadoEm": "2026-08-15T10:46:37.799Z"
 }

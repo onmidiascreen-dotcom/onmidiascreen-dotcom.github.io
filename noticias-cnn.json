@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Canadá oferece bolsas de graduação a estudantes internacionais; saiba mais",
+      "imagem": null
+    },
+    {
       "titulo": "5 vícios ao dirigir que estão destruindo o seu carro (e o seu bolso)",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Big techs têm até domingo para entregar planos de conformidade ao TSE",
       "imagem": null
-    },
-    {
-      "titulo": "Fluminense x América-MG: horário e onde assistir ao Brasileirão Feminino",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T10:18:26.655Z"
+  "atualizadoEm": "2026-08-15T10:46:37.913Z"
 }
