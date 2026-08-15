@@ -1,7 +1,111 @@
 {
   "noticias": [
     {
-      "titulo": "Novas imagens contradizem abordagem a motorista de Haddad, diz PM",
+      "titulo": "Em ascensão na temporada, Arroyo retorna a palco do seu “ápice” no Cruzeiro",
+      "imagem": null
+    },
+    {
+      "titulo": "BC anuncia leilões de linha de no valor de até US$ 1 bi nesta segunda (17)",
+      "imagem": null
+    },
+    {
+      "titulo": "Questão ambiental permanece &#8220;desafio&#8221; na Foz do Amazonas, diz ABESPetro",
+      "imagem": null
+    },
+    {
+      "titulo": "Belo Horizonte terá ônibus de graça neste fim de semana; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Receita da Oncoclínicas no 2º trimestre é afetada por falta de medicamentos",
+      "imagem": null
+    },
+    {
+      "titulo": "Marisa tem prejuízo de R$ 68,4 milhões no 2° trimestre",
+      "imagem": null
+    },
+    {
+      "titulo": "Fitch reitera rating do Reino Unido em &#8220;AA-&#8220;, com perspectiva estável",
+      "imagem": null
+    },
+    {
+      "titulo": "Após pressão de Trump, Stellantis pretende vender fábrica em Toronto",
+      "imagem": null
+    },
+    {
+      "titulo": "EUA pressionam UE para cumprir acordo comercial",
+      "imagem": null
+    },
+    {
+      "titulo": "SpaceX conclui compra da startup de IA Cursor",
+      "imagem": null
+    },
+    {
+      "titulo": "Bolsonaro pede para ir ao dentista e sugere nome de esposa de Flávio",
+      "imagem": null
+    },
+    {
+      "titulo": "Fórum em São Paulo discute expansão do enoturismo nas Américas",
+      "imagem": null
+    },
+    {
+      "titulo": "Sobe para 288 o número de mortos pelo terremoto na Colômbia",
+      "imagem": null
+    },
+    {
+      "titulo": "Avião da Nasa desvenda como incêndios florestais criam temporais",
+      "imagem": null
+    },
+    {
+      "titulo": "Indonésia emite alerta de tsunami após terremoto de magnitude 7,7",
+      "imagem": null
+    },
+    {
+      "titulo": "Com lesões seguidas no Santos, Gabriel Menino lamenta pior fase na carreira",
+      "imagem": null
+    },
+    {
+      "titulo": "Nicole Kidman avalia divórcio após 19 anos: &#8220;Queda livre&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "“Coração Acelerado”: veja os destaques do que aconteceu no último capítulo",
+      "imagem": null
+    },
+    {
+      "titulo": "Congresso aprova projeto que pode ajudar a manter competitividade do etanol",
+      "imagem": null
+    },
+    {
+      "titulo": "Fala de Trump sobre Ormuz se tornar dos EUA não diz nada, diz especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "Kristen Stewart diz que não pôde sair nas gravações de &#8220;Amanhecer&#8221; no RJ",
+      "imagem": null
+    },
+    {
+      "titulo": "Osasco Vôlei se manifesta após decisão da CBV e apoia Tifanny Abreu",
+      "imagem": null
+    },
+    {
+      "titulo": "Chambriard: descoberta na Foz do Amazonas é passo para repor reservas",
+      "imagem": null
+    },
+    {
+      "titulo": "EUA anunciam ajuda adicional de US$ 11 milhões à Colômbia após terremoto",
+      "imagem": null
+    },
+    {
+      "titulo": "Cachorro fica com a cabeça entalada em muro ao tentar alcançar pudim na rua",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Fãs de São Paulo foram sempre os melhores em minha vida&#8221;, diz KINO à CNN",
+      "imagem": null
+    },
+    {
+      "titulo": "Novas imagens refutam abordagem a motorista de Haddad, dizem fontes da PM",
       "imagem": null
     },
     {
@@ -15,111 +119,7 @@
     {
       "titulo": "Anne Hathaway diz que filmes com morte de cães deveriam ser +18",
       "imagem": null
-    },
-    {
-      "titulo": "SP define limite de 20 km/h para bicicletas elétricas em ciclovias",
-      "imagem": null
-    },
-    {
-      "titulo": "Felipe Melo afirma estar &#8220;pronto&#8221; para assumir o Fluminense",
-      "imagem": null
-    },
-    {
-      "titulo": "BNDES não apresenta proposta e fica fora da renegociação de dívidas rurais",
-      "imagem": null
-    },
-    {
-      "titulo": "Viih Tube e Eliezer se casam no civil; veja fotos",
-      "imagem": null
-    },
-    {
-      "titulo": "Virginia mostra novo piercing no umbigo e filhas reagem: “Virou um evento”",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump pode declarar o Estreito de Ormuz como território dos EUA? Entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasileiros presos na Islândia têm data para voltar para casa após pressão",
-      "imagem": null
-    },
-    {
-      "titulo": "Corinthians: polícia recupera camisa de Yuri Alberto furtada do Memorial",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem é o bilionário brasileiro que comprou parte do Liverpool",
-      "imagem": null
-    },
-    {
-      "titulo": "Ouro fecha em alta e encerra semana de ganhos com perspectivas de Fed",
-      "imagem": null
-    },
-    {
-      "titulo": "Bitcoin opera em queda após dados de inflação mais brandos",
-      "imagem": null
-    },
-    {
-      "titulo": "Filipe Luís sofre derrota antes de estreia oficial pelo Monaco",
-      "imagem": null
-    },
-    {
-      "titulo": "Petróleo fecha em alta devido aos ataques no Mar Vermelho",
-      "imagem": null
-    },
-    {
-      "titulo": "EQI Investimentos adquiri plataforma TC por R$ 3 milhões",
-      "imagem": null
-    },
-    {
-      "titulo": "ANP: preços do diesel, gasolina e gás de cozinha caem ante semana anterior",
-      "imagem": null
-    },
-    {
-      "titulo": "Wall Street fecha queda com perspectivas para inflação e gastos com IA",
-      "imagem": null
-    },
-    {
-      "titulo": "Futuro de Tifanny Abreu no vôlei fica ameaçado após decisão da CBV",
-      "imagem": null
-    },
-    {
-      "titulo": "Weverton nega interferência em investigação e fala em “forçação de barra”",
-      "imagem": null
-    },
-    {
-      "titulo": "Pautas governistas devem ficar para depois das eleições",
-      "imagem": null
-    },
-    {
-      "titulo": "Terremoto de magnitude 7,5 atinge a Indonésia, diz agência",
-      "imagem": null
-    },
-    {
-      "titulo": "Petrobras anuncia descoberta de petróleo na Foz do Amazonas",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: EUA sinalizam que pretendem testar limites de ações internacionais",
-      "imagem": null
-    },
-    {
-      "titulo": "Jalles tem prejuízo de R$ 74,1 milhões no 1º trimestre da safra 2026/27",
-      "imagem": null
-    },
-    {
-      "titulo": "De Salah a Lukaku: Campeonato Turco vira destino de estrelas do futebol",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump ordena retorno ao sistema de catapultas a vapor em porta-aviões",
-      "imagem": null
-    },
-    {
-      "titulo": "Missão nega participação de dirigente do partido em filiação de Flávio",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-14T23:46:13.066Z"
+  "atualizadoEm": "2026-08-15T01:00:48.357Z"
 }
