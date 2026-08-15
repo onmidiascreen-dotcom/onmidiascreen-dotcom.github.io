@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Alfa Inteligência: Lula e Flávio esquecem de falar do futuro em propostas",
+      "imagem": null
+    },
+    {
       "titulo": "Terremoto de magnitude 7,7 deixa ao menos dois mortos na Indonésia",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Nicole Kidman avalia divórcio após 19 anos: &#8220;Queda livre&#8221;",
       "imagem": null
-    },
-    {
-      "titulo": "“Coração Acelerado”: veja os destaques do que aconteceu no último capítulo",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T03:11:31.937Z"
+  "atualizadoEm": "2026-08-15T03:54:06.755Z"
 }

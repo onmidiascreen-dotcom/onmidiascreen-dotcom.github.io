@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Motoristas de app e taxistas se unem e cobram segurança em Apucarana",
+      "imagem": null
+    },
+    {
       "titulo": "Suécia reduz maioridade penal para 14 anos",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "TSE teme nova ofensiva contra sistema eleitoral após filiações fraudulentas",
       "imagem": null
-    },
-    {
-      "titulo": "Lula e Flávio Bolsonaro prometem mais saúde, mas nenhum diz quem vai pagar a conta",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T03:11:31.413Z"
+  "atualizadoEm": "2026-08-15T03:54:07.078Z"
 }
