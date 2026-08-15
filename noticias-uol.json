@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Onze mortos em bombardeios israelenses no sul do Líbano",
+      "imagem": null
+    },
+    {
+      "titulo": "Bélgica enfrenta o pior incêndio florestal da história do país",
+      "imagem": null
+    },
+    {
+      "titulo": "Governo Trump pressiona 35 países a optar entre EUA e China nas parcerias por IA",
+      "imagem": null
+    },
+    {
+      "titulo": "Governo Trump pressiona 35 países a optar entre EUA e China nas parcerias por IA",
+      "imagem": null
+    },
+    {
+      "titulo": "Governo Lula ganha fôlego para o Orçamento, mas ajuste em 2027 segue inevitável, dizem economistas",
+      "imagem": null
+    },
+    {
+      "titulo": "'Fé Disfarçada' explora dinâmicas de dominação no sexo, mas é limitado",
+      "imagem": null
+    },
+    {
       "titulo": "Bombardeios dos EUA na América Latina entram em perigosa normalização",
       "imagem": null
     },
@@ -35,31 +59,7 @@
     {
       "titulo": "Bactérias do sêmen impactam fertilidade, indica estudo",
       "imagem": null
-    },
-    {
-      "titulo": "Maior avião elétrico do mundo realiza primeiro voo nos EUA; veja o vídeo",
-      "imagem": null
-    },
-    {
-      "titulo": "Temporal de granizo afeta 600 pessoas e deixa desalojados no Paraná",
-      "imagem": null
-    },
-    {
-      "titulo": "Ferran Torres deixa o Barcelona e assina com o PSG até 2031",
-      "imagem": null
-    },
-    {
-      "titulo": "Controlador aéreo evita acidente nos EUA entre aviões com mesmo número de voo e rota",
-      "imagem": null
-    },
-    {
-      "titulo": "Terremoto atinge a cidade espanhola de Granada, danificando prédios e carros",
-      "imagem": null
-    },
-    {
-      "titulo": "Elenco do novo 'X-Men' e sequência da animação 'Viva' são anunciados na D23",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T15:58:25.965Z"
+  "atualizadoEm": "2026-08-15T16:29:49.682Z"
 }
