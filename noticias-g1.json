@@ -1,6 +1,54 @@
 {
   "noticias": [
     {
+      "titulo": "Taubaté abre edital para contratar consultas na rede privada de saúde; saiba as especialidades",
+      "imagem": "https://s2-g1.glbimg.com/9GUvLE4g1b2C-kPkicIrsl7-tHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/0/b9BBYpQAKMcjFDeGcDVQ/prefeitura-taubate-.00-03-07-25.still001.jpg"
+    },
+    {
+      "titulo": "Festa de Iemanjá reúne diversos grupos religiosos em Fortaleza; programação vai até domingo (16)",
+      "imagem": "https://s2-g1.glbimg.com/SgWdD9WafbG0klrGESbKxVS34vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/B/KLI8yxQeAAFrbK3mRLag/festa-de-iemanja-tem-programacao.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/BvulkNQdZS5MvHMAsQjHwteOmoQ=/s01.video.glbimg.com/deo/vi/61/16/14871661"
+    },
+    {
+      "titulo": "AO VIVO: Assista ao JAC1 com Quésia Melo",
+      "imagem": "https://s2-g1.glbimg.com/AdqDnQf8EEKj2rFBQEbOnKOpeJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/C/j/M1MuwJQbi1olrAiS8VIg/whatsapp-image-2025-11-07-at-13.09.46.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: RJ1 de sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/IYFOrMrwwOn-ugr0Lw08ZxxCVVs=/s01.video.glbimg.com/deo/vi/23/13/14871323"
+    },
+    {
+      "titulo": "Anfitrião faz 'galeria de selfies' para mostrar apartamento em anúncio em SC e viraliza; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/CpN69H2w3ZoylCMseN8ZBvwuEsg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/B/noAByRR5iD063KPCBunA/fotojet.jpg"
+    },
+    {
+      "titulo": "Mulher condenada por participação na morte de mecânico no Ceará é presa em Boa Vista",
+      "imagem": "https://s2-g1.glbimg.com/Qo4_BIkJTHkdJ7fX02yq3vlc1Go=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/I/fLEe3PSnWxqJTGOf388A/mulehr-.jpg"
+    },
+    {
+      "titulo": "Foragido da Justiça na BA é preso em MG durante operação policial",
+      "imagem": "https://s2-g1.glbimg.com/3YQEsO1LEQjKW5YMDhReqKBOSvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/r/KuFKWHRJu9ku9Yr9QAWA/piteka.jpg"
+    },
+    {
+      "titulo": "Defesa Civil interdita sete casas após risco estrutural em bairro de Teresópolis",
+      "imagem": "https://s2-g1.glbimg.com/8bY329qr_1goeM7BgSonknNsYz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/I/i59XUySRCGsrHA1A6F7w/tere.jpg"
+    },
+    {
+      "titulo": "Sergipe registra queda da desocupação e maior rendimento médio do Nordeste",
+      "imagem": "https://s2-g1.glbimg.com/3JMmbCWAgl_54cyBlp311RCdjVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Y/L0QhU8RyqAAu6DX7WAkg/cateira-1.jpg"
+    },
+    {
+      "titulo": "Adolescente investigado por estupro, furto, zoofilia e importunação sexual é apreendido no Piauí",
+      "imagem": "https://s2-g1.glbimg.com/eoQ9FpPLZEql5oaPa1CnygoTgpA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/y/IuK1FDSMOF9HJdAGtBbA/adolescente.jpg"
+    },
+    {
+      "titulo": "Médico veterinário é preso suspeito de agredir e ameaçar companheira no interior do Amazonas",
+      "imagem": "https://s2-g1.glbimg.com/KDUIcPtMB5vN6s8cTCUsO6Z16RI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/G/zyhKABSuKV9TsGbgswqQ/medico-veterinario-e-preso-suspeito-de-agredir-e-ameacar-companheira-no-interior-do-amazonas-foto-divulgacao-pc-am.jpg"
+    },
+    {
       "titulo": "Carga cai de caminhão e interdita alça de acesso entre rodovias em Santa Cruz do Rio Pardo",
       "imagem": "https://s2-g1.glbimg.com/PVXZozeLnVLQi1B1D5M9SqcoQho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/H/SlUh7XRguG3oskOL7dIA/g1-2026-08-15t130532.788.png"
     },
@@ -71,55 +119,7 @@
     {
       "titulo": "Assista aos telejornais da TV Bahia",
       "imagem": null
-    },
-    {
-      "titulo": "Estrada de Ferro Madeira-Mamoré pode virar patrimônio mundial? Entenda",
-      "imagem": "https://s2-g1.glbimg.com/3H81iGrOH7jFasqodOGgwz7M49g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/FDv2GvQ46nUUBD1w0M2Q/iok3lslwougrvua2ecliuxboccccszhsiog5uyfg.jpg"
-    },
-    {
-      "titulo": "Assista ao EPTV1",
-      "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
-    },
-    {
-      "titulo": "Adolescente é apreendido por suspeita de homicídio em Paracambi",
-      "imagem": "https://s2-g1.glbimg.com/w1JNExCJ9uR7t7j8v4HDiDOwo1A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/w/Aq1T5ZR6m5Uk87GAFIVw/whatsapp-image-2026-08-15-at-12.26.20-2-.jpeg"
-    },
-    {
-      "titulo": "'Nova fronteira exploratória', diz presidente do IBP sobre indícios de petróleo no AP, na Foz do Amazonas",
-      "imagem": "https://s2-g1.glbimg.com/XtA0cYPX3hf_iRq4Vu8SpC4Iv6Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/v/p/zPQQluRpAjZEJfLhLbrw/whatsapp-image-2025-08-19-at-17.13.03.jpeg"
-    },
-    {
-      "titulo": "Pancadas de chuva atingem cidades do Vale do Paraíba na manhã deste sábado; veja registros",
-      "imagem": "https://s2-g1.glbimg.com/hTgY-D0_x2ehTzSWH5idlEniLD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/Z/CfDjhTR9A6bDNJyBwLog/chuva-2.jpg"
-    },
-    {
-      "titulo": "Condutor e passageiro de moto morrem em colisão com ônibus no interior do Ceará",
-      "imagem": "https://s2-g1.glbimg.com/C07rNvJCxyIylrXfjUJ1gqWbkbM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/j/lC1sriQE6SeYvssEPvow/acid-moto-1.jpg"
-    },
-    {
-      "titulo": "Avenida das Orquídeas fica interditada para procissão neste sábado",
-      "imagem": "https://s2-g1.glbimg.com/hA2kBvy6DaP2Do0qUiV_SCn_vTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/0/DA6QUUTsK1XRbvELx55g/imagem.png"
-    },
-    {
-      "titulo": "VÍDEOS: JL1 de sábado, 15 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/u87jaGqDd1RUQRbR2KBlGCPi8tA=/s01.video.glbimg.com/deo/vi/02/15/14871502"
-    },
-    {
-      "titulo": "Empresário do AC morre durante tratamento contra aplasia medular, doença rara que afeta a medula óssea",
-      "imagem": "https://s2-g1.glbimg.com/1YwKCOe5XloO3OjEkROIJo6xT4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/2EiDp3QtadhncvzyMBlg/midia-de-distribuicao-g1-15-.jpg"
-    },
-    {
-      "titulo": "Duas mulheres morrem em acidente entre dois carros na zona leste de Poços de Caldas, MG",
-      "imagem": "https://s2-g1.glbimg.com/l094l65ADXTsgosov_gvBcX8CLM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/q/qduZKLS6aOwwH9OOf7Kg/acidente.png"
-    },
-    {
-      "titulo": "Rubacão: aprenda como preparar o prato no Chef JPB",
-      "imagem": "https://s2-g1.glbimg.com/vQnSO1oTHvib1V_xFO_UdaV0fss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/V/9Mc6bjQv6UaGniP0lFeg/whatsapp-image-2026-08-14-at-16.29.07.jpeg"
-    },
-    {
-      "titulo": "Mulher é encontrada morta com tiro na nuca e filho de 3 anos é achado sozinho em casa em Cuiabá",
-      "imagem": "https://s2-g1.glbimg.com/06odd9_EoPLjFlp6W1H_jKUPz6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/V/8XRZ9lQP222ePrR6Pq0A/foto-g1-39-.png"
     }
   ],
-  "atualizadoEm": "2026-08-15T16:29:49.451Z"
+  "atualizadoEm": "2026-08-15T16:53:03.878Z"
 }

@@ -1,10 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Investigador sofre tentativa de assalto, reage e atinge suspeito na Berrini",
-      "imagem": null
-    },
-    {
       "titulo": "Ex-professor de Cambridge é encontrado morto após acusações de plágio",
       "imagem": null
     },
@@ -119,7 +115,11 @@
     {
       "titulo": "Leapmotor B10 Ultra-híbrido será lançado no Festival Interlagos este mês",
       "imagem": null
+    },
+    {
+      "titulo": "Terremoto de magnitude 5 atinge sul da Espanha e danifica casas e carros",
+      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T16:29:49.345Z"
+  "atualizadoEm": "2026-08-15T16:53:03.164Z"
 }
