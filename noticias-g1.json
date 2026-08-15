@@ -1,6 +1,70 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEO: com R$ 308 e um celular, adolescente dirige longa-metragem e estreia em cinema de Bauru",
+      "imagem": "https://s2-g1.glbimg.com/97BbWqk4k5UD8y1IJnHEBNCqE7E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/O/q9ySrmRyarfmqVMM1IUQ/novo-projeto-2026-08-12t105945.541.png"
+    },
+    {
+      "titulo": "Incentivado pela filha, aposentado se torna calouro em medicina aos 58 anos no interior de SP: ‘Precisamos acreditar em nós’",
+      "imagem": "https://s2-g1.glbimg.com/t7pUkiwoj3mlrnV5KOYyaTOS5AU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/u/h9HpLAToGBaAfdHrcxew/whatsapp-image-2026-08-12-at-17.43.53.jpeg"
+    },
+    {
+      "titulo": "Ana Lúcia Torre transforma 60 anos de carreira em espetáculo e revela ‘frio na barriga’ antes de entrar no palco: 'Se não tiver, não tem graça'",
+      "imagem": "https://s2-g1.glbimg.com/gUUmL0A6jWGjS3ENoEtXqk16_Ac=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/7/TGuCkbSEqg1CeMjEJkQA/2bac484c-e929-4c37-879c-a5c34adeb207-.png"
+    },
+    {
+      "titulo": "Festival Cultural dos Territórios Ituqui e Maicá reúne comunidades em programação gratuita em Santarém",
+      "imagem": "https://s2-g1.glbimg.com/yB11FtIrvmhSmyM30PWsBfkobh0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/E/sSzBWXRDSZWq6JGyThKw/festival.jpg"
+    },
+    {
+      "titulo": "Igreja no interior de SP recebe relíquia de 1º grau de santo espanhol falecido há mais de 800 anos: 'Tivemos a graça', diz padre",
+      "imagem": "https://s2-g1.glbimg.com/GTS_6L3ezkFoUYKFxPgSyqvnuug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/K/V3XED0SU64yHZZNsUb9w/formato-padrao-imagens-g1-2026-08-14t133915.349.png"
+    },
+    {
+      "titulo": "Revolução Liberal de 1842: entenda o movimento que transformou Sorocaba na capital de São Paulo",
+      "imagem": "https://s2-g1.glbimg.com/3Q2yMjD__oUofXExIY1OipdUFAk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/q/Prcd2ZRkC7O8RCpxboOQ/whatsapp-image-2026-08-10-at-17.02.24.jpeg"
+    },
+    {
+      "titulo": "Dois homens morrem em acidente envolvendo duas carretas na Grande BH",
+      "imagem": "https://s2-g1.glbimg.com/mNUfmWc_fkwYPWTxylTnF_Xa4BM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/f/brnNtuSxqZlZ2Vq9zyHQ/captura-de-tela-2026-08-15-075250.png"
+    },
+    {
+      "titulo": "Pedras de granizo do tamanho de bolas de tênis atingem o Paraná e deixam quintal parecendo coberto de neve; temporais provocaram estragos",
+      "imagem": "https://s2-g1.glbimg.com/DXw8SdC2nno6C_75XkigbUuQDsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/O/2ucgr1Si6XOUC6zBMg2g/g1-6-.png"
+    },
+    {
+      "titulo": "Vídeos do g1 e TV Bahia - sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/nAmBf_AqMpLlBUMgzyLaz5ny7fY=/s01.video.glbimg.com/deo/vi/27/22/14802227"
+    },
+    {
+      "titulo": "Mais de 1.500 anabolizantes são apreendidos pela polícia no interior do Ceará",
+      "imagem": "https://s2-g1.glbimg.com/Z3oQph31AnRDnIJTBRZf3MAYVLI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/P/H50sAbQOmZNF3AtG9woA/anabolizantes-1.jpg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "Entenda por que Águas de São Pedro está entre as 44 cidades com excesso de guardas municipais no Brasil",
+      "imagem": "https://s2-g1.glbimg.com/2kCDRfsGEIuUdMFk9i8ZdN8L7zw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/z/tJBiM2RjSyHhFWBblAZQ/captura-de-tela-700-.png"
+    },
+    {
+      "titulo": "Confira o que abre e o que fecha em Santarém no feriado da Adesão do Pará à Independência do Brasil",
+      "imagem": "https://s2-g1.glbimg.com/KJRmZw-fxNBJg17csmX7m6YEn5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/r/4a3panQBeMduqj7EaByQ/comercio-em-santarem.jpg"
+    },
+    {
+      "titulo": "Carnaval 2027: Jaguariúna vira tema de enredo no grupo especial de SP, e escola faz apresentação na cidade",
+      "imagem": "https://s2-g1.glbimg.com/-jvnTrY3-GDeiO45T7vFiE81Cdk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Y/JY3pJ4TjeLYDDAlnz27w/whatsapp-image-2026-08-13-at-19.53.42.jpeg"
+    },
+    {
+      "titulo": "Desigualdade e perda de aprendizagem: o que o Ideb diz sobre a educação pública de Campinas",
+      "imagem": "https://s2-g1.glbimg.com/UQYzc_qW_B-dOEfrRRReU0Ormic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/g/oHad9qQHuqjiotxebrYw/crianca-segura-lapis.jpg"
+    },
+    {
+      "titulo": "Terreiro Casa de Oxumarê celebra 190 anos com programação especial em Salvador; confira",
+      "imagem": "https://s2-g1.glbimg.com/dBMf309SkHXIu-xRcK_-ETJIC-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/r/FXPIrQSAuIwzRvvti58A/whatsapp-image-2026-08-15-at-07.36.51.jpeg"
+    },
+    {
       "titulo": "Litoral da Paraíba tem quatro trechos de praia impróprios para banho; saiba quais",
       "imagem": "https://s2-g1.glbimg.com/WWWStYIWqIuHB09Mpw3MENachDU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/n/4/NPs7TKR5COJvc1WJffZg/praia2.jpg"
     },
@@ -41,10 +105,6 @@
       "imagem": "https://s2-g1.glbimg.com/V5hw9oVkKsBQ2DReXV0cz3STirc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/1/H6uyGhSqic48gTwmUb7A/sdaourleos-leite.jpeg"
     },
     {
-      "titulo": "Assista ao Bom Dia Sábado",
-      "imagem": null
-    },
-    {
       "titulo": "Vídeo gravado em 1999 mostra travessia de balsa em Palmas antes da construção de ponte; assista",
       "imagem": "https://s2-g1.glbimg.com/GkrQDL3XzbQz_atwFyvMLi9k6_8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/Z/Nu1KjOR1WaYS7fg2vlCA/foto-e-montagem-vertical-48-.jpg"
     },
@@ -59,67 +119,7 @@
     {
       "titulo": "Homem morre após bater a cabeça no chão durante briga por causa de pipa no litoral de SP; VÍDEO",
       "imagem": "https://s2-g1.glbimg.com/ozKVZJCDIFGwEygl_X95EIQZ1go=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/R/eWA327RDAqHnAJaS0r2Q/briga-pipa-1-.jpg"
-    },
-    {
-      "titulo": "Doceria amplia negócio após virar queridinha de Neymar; veja o antes e depois",
-      "imagem": "https://s2-g1.glbimg.com/qGOYxaHMUXRGt6jo6K-aSHCMPdg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/T/J/oKiRQZRvapO7rYpK88ww/neymar-doceria.jpg"
-    },
-    {
-      "titulo": "Agosto em Atibaia reúne passeios, sabores e momentos de descanso",
-      "imagem": "https://s2-g1.glbimg.com/4zLtP7lywLJnY9Nv82FM8iBRna8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/4hOef0QLyHBva3EYqTLA/atividades-parque-sitio-do-picapau-amarelo-em-atibaia.jpg"
-    },
-    {
-      "titulo": "Marinha reúne 54 mulheres de 21 países em curso de operações de paz no Rio",
-      "imagem": "https://s2-g1.glbimg.com/fknAPXNCqaVD0r50pg6AU7VeNZI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/j/ufZIOCQLKHwMa0sif3Bg/rj1-limpo-20260814-1115-frame-159192.jpeg"
-    },
-    {
-      "titulo": "Você Viu? Padrasto adota enteada, homem morre após ataque de cães e idoso engasgado em shopping",
-      "imagem": "https://s2-g1.glbimg.com/AXxytIrnzcCjECCWP6Y1E5TE-3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/9/jJNwX6TCAFADTEy9dUjA/montagem-vc-viu.jpg-1-.jpeg"
-    },
-    {
-      "titulo": "'Lázaro de Ermida', indiciado por feminicídio em Divinópolis, foi condenado por tentar matar ex-mulher há 20 anos",
-      "imagem": "https://s2-g1.glbimg.com/Dl2ZTGSBEBSxK3ZQHX78i4_gYFc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/k/iM66ppQkSdLEH5Q4wTmw/jl-tm-2026-08-14t125459.372.jpg"
-    },
-    {
-      "titulo": "A fruta 'prima' do mamão que se come do caule à raiz e vira sobremesa e até prato salgado",
-      "imagem": "https://s2-g1.glbimg.com/FCWpaR7d1t-de6yHt6v1IpOfm3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/f/Az77lySw6kKw0WF40t4w/para-o-g1-93-.jpg"
-    },
-    {
-      "titulo": "Romeira fica em coma após ser atropelada em peregrinação para Romaria, sobrevive e tem filha exatamente 2 anos após o acidente",
-      "imagem": "https://s2-g1.glbimg.com/W36oxi3ykI3ZXcseKl7t9zNFlzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/a/KXRyqPTqSPvVAA0FSDrg/design-sem-nome.png"
-    },
-    {
-      "titulo": "Estudante do Ifap conquista vaga em Portugal e apoio de R$ 30 mil para intercâmbio",
-      "imagem": "https://s2-g1.glbimg.com/yBlTVoJWKXQN5ULjeB9s1dhvxmI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Q/vKbxFmQGS2BG2BURsIjw/aleixo-g1-47-.jpg"
-    },
-    {
-      "titulo": "Secretaria descarta intoxicação por metanol em dois amigos que perderam visão e audição após beber conhaque",
-      "imagem": "https://s2-g1.glbimg.com/1v5AZR4TQdgFsPR7L5DWIcc2GFU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/A/3ONuPpQOCyeYcFf8o8Jw/foto-no-tamanho-home-2026-08-14t111414.622.png"
-    },
-    {
-      "titulo": "Falta de árvores e excesso de concreto: como ilhas de calor deixam bairros de Manaus mais quentes durante o verão amazônico",
-      "imagem": "https://s2-g1.glbimg.com/qTVIt4Dnr1O6g0j9exKrtMGEaa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/d/QLmtQlSD6fxy0aSCu7oA/por-do-sol-em-tons-vibrantes-em-manaus-com-ponte-rio-negro-ao-fundo-foto-reproducao-x.jpg"
-    },
-    {
-      "titulo": "Crise em alto-mar: por que Trump decidiu trocar porta-aviões no Oriente Médio em meio a tensões com o Irã",
-      "imagem": "https://s2-g1.glbimg.com/gLaCN8nffGvqIoBYrA-DJP-verI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/9/Nxwjc2R3ewgpGgkAxLkA/ap26024388965064.jpg"
-    },
-    {
-      "titulo": "Nova tecnologia pode ajudar pesquisa por vacina contra sífilis ao superar obstáculo histórico da biologia",
-      "imagem": "https://s2-g1.glbimg.com/e2wPmzoy3R2Hedy2oV1sZYO8zPc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/Z/DdjthQSoirA1X7jBtLhQ/adobestock-876029328.jpeg"
-    },
-    {
-      "titulo": "James Webb revela detalhes inéditos da Nebulosa do Leão, a 5 mil anos-luz da Terra",
-      "imagem": "https://s2-g1.glbimg.com/bTUvYnA4jGz0buZdLe0EKrswwm4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/P3ZMniRBio5tCykwcRuA/imagem-cortada.jpg"
-    },
-    {
-      "titulo": "Livro selecionado para inaugurar biblioteca de Dua Lipa foi censurado em escola de Salvador",
-      "imagem": "https://s2-g1.glbimg.com/jfoL6NL5Fe7CJrIAXk89yyokYHk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/I/X86FvaTkOYNXzDxXKhRQ/olhos-dagua.png"
-    },
-    {
-      "titulo": "O que se sabe sobre o caso da mulher que matou idoso a facada enquanto ele andava de bicicleta em MG",
-      "imagem": "https://s2-g1.glbimg.com/6HsHzzckCsOjVkNZrSnr3JCxZxw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/dE0MQaSbALp9shsw6QNg/whatsapp-image-2026-08-12-at-09.37.43-1-.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-15T10:46:38.187Z"
+  "atualizadoEm": "2026-08-15T11:16:27.428Z"
 }
