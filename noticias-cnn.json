@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Peru faz simulação para desastres após terremotos na Colômbia e Venezuela",
+      "imagem": null
+    },
+    {
       "titulo": "Alfa Inteligência: Lula e Flávio esquecem de falar do futuro em propostas",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Com lesões seguidas no Santos, Gabriel Menino lamenta pior fase na carreira",
       "imagem": null
-    },
-    {
-      "titulo": "Nicole Kidman avalia divórcio após 19 anos: &#8220;Queda livre&#8221;",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T05:23:11.537Z"
+  "atualizadoEm": "2026-08-15T05:50:03.785Z"
 }
