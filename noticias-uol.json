@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Fisioterapeuta morre ejetada de carro na BR-369; PRF encontra dispositivo que burla o cinto de segurança no PR",
+      "imagem": null
+    },
+    {
+      "titulo": "Após queda de moto, mulher é atropelada e morre na BR-376; condutor não prestou socorro",
+      "imagem": null
+    },
+    {
       "titulo": "Palmeiras leva virada do Fluminense nos acréscimos e pode ter vantagem reduzida",
       "imagem": null
     },
@@ -51,15 +59,7 @@
     {
       "titulo": "Cadela salva de abatedouro ganha título de cão mais feio do mundo e prêmio de R$ 26 mil",
       "imagem": null
-    },
-    {
-      "titulo": "PSG anuncia contratação do atacante belga Mika Godts",
-      "imagem": null
-    },
-    {
-      "titulo": "O Brasil vai investir em IA. Quem vai participar das escolhas?",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T21:43:54.055Z"
+  "atualizadoEm": "2026-08-15T21:58:15.697Z"
 }

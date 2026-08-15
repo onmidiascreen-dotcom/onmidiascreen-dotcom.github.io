@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Arias é chamado de “Judas” em reencontro com a torcida do Fluminense; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Cano decide, e Fluminense vira sobre Palmeiras no fim pelo Brasileirão",
+      "imagem": null
+    },
+    {
       "titulo": "Hugo Calderano é eliminado no Europe Smash",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "João Fonseca x Van de Zandschulp: horário e onde assistir à partida",
       "imagem": null
-    },
-    {
-      "titulo": "CBF explica novas regras do Brasileiro; entenda medidas que coíbem antijogo",
-      "imagem": null
-    },
-    {
-      "titulo": "Marrocos prende 111 migrantes que tentavam entrar em Ceuta, na Espanha",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T21:43:54.802Z"
+  "atualizadoEm": "2026-08-15T21:58:15.968Z"
 }

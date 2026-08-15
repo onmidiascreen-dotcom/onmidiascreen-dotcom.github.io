@@ -1,6 +1,38 @@
 {
   "noticias": [
     {
+      "titulo": "AO VIVO: Assista ao GR2",
+      "imagem": "https://s2-g1.glbimg.com/K2gsnPB6ofo9WfMgINpvMIgBwe8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/M/64EZS1SfaLKfMqfeXniQ/whatsapp-image-2025-03-11-at-19.11.55.jpeg"
+    },
+    {
+      "titulo": "Terremoto na Colômbia: número de mortos sobe para 294",
+      "imagem": null
+    },
+    {
+      "titulo": "Acidente na Rio-Santos deixa três feridos em Caraguatatuba",
+      "imagem": "https://s2-g1.glbimg.com/EBlQkCaUTF5-WU_qeRfVnXMIBMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/P/35pvdxTiA4sryACSDk6A/whatsapp-image-2026-08-15-at-14.10.35.jpeg"
+    },
+    {
+      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "Cantor Lucas, da dupla sertaneja Lucas &amp; Matheus, morre em Portugal",
+      "imagem": "https://s2-g1.glbimg.com/jy7weQhuCHpN6ld27_tlyVU9jnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/M/9tjsBMQ0qOLaXZkzBDoA/novo-projeto-2026-08-15t175647.187.png"
+    },
+    {
+      "titulo": "Isael Munduruku declara R$ 1,6 milhão em bens ao TSE; vice Leo Balbi não informa patrimônio",
+      "imagem": "https://s2-g1.glbimg.com/0QuwUdHM8fxqI9XzQ1yJL4fpfHQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/N/UkDHusS8qvvMUCfPMvZQ/federacao-redepsol-lanca-isael-munduruku-como-candidato-ao-governo-do-amazonas-foto-jadson-lima-g1-am.jpg"
+    },
+    {
+      "titulo": "EPTV 2 Campinas ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "VÍDEO: motorista bate contra poste de energia, arranca estrutura e abandona veículo em Bauru",
+      "imagem": "https://s2-g1.glbimg.com/JZ5kZVhRAmxOvqp5qxAPHldETvk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/B/NCfwyOQOAUYuR7D0KquA/novo-projeto-2026-08-15t172408.214.png"
+    },
+    {
       "titulo": "VÍDEO: Drone captura maior incêndio florestal da história da Bélgica",
       "imagem": "https://s2-g1.glbimg.com/SpAR57O9pAknl6IbCE6m_MqtUeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/z/MAea3VSWybGVsLwSvJaw/afp-20260815-c4r769f-v1-midres-belgiumenvironmentclimateweatherwildifre.jpg"
     },
@@ -41,10 +73,6 @@
       "imagem": "https://s2-g1.glbimg.com/b5KT0SmYcjGmvQitmpCe_PBjh_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/7t1vUYTZaWBRRzl2mAcg/2026-08-15t205846z-1371998415-rc26ymaodywv-rtrmadp-3-storm-lala.jpg"
     },
     {
-      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
-    },
-    {
       "titulo": "Empresário da Faria Lima é preso por agredir e ameaçar mulher em SP: 'Vi a a morte de perto', diz vítima",
       "imagem": "https://s2-g1.glbimg.com/l84kqXnhwP0hu2N6qMJtz4K-0GU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/s/8PMBfMQs2rWzbABMqh5g/fotojet-2026-08-15t175903.291.jpg"
     },
@@ -58,7 +86,7 @@
     },
     {
       "titulo": "Policial é baleado na cabeça e morre durante ação em Cachoeiro; autor do disparo é morto por outro PM",
-      "imagem": "https://s2-g1.glbimg.com/nH81pXSK2jXb2pN1YcgOwVxm1Z4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/I/L59jBsSWqv3Nn6NteVcA/thumb-fotos-26-1-.jpg"
+      "imagem": "https://s2-g1.glbimg.com/3dg9lEpsE9BLWF77Yo2JC9sfE_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/x/DcILamQyS0QNAwAqDBxw/thumb-fotos-28-.jpg"
     },
     {
       "titulo": "Patrimônio declarado por Arthur Lira cresce 335% em quatro anos e chega a R$ 25,9 milhões",
@@ -91,35 +119,7 @@
     {
       "titulo": "Empresário morre após ser baleado durante assalto em Montes Claros",
       "imagem": "https://s2-g1.glbimg.com/mYA_DoTrLA7nyNg-OVbPb9YEQjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/H/Uk6kyZTXW7hQ7hkiMTzw/vitimasfatais-3-.png"
-    },
-    {
-      "titulo": "Empresário é preso suspeito de violência doméstica contra mulher em João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/09Nba4rb_ZV2NlS7sAiyAISnnN8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/v/7BrN7ES0eoAUKmhyr4WQ/delegacia-da-mulher-joao-pessoa-1-3.webp"
-    },
-    {
-      "titulo": "Chuva de granizo atinge São Brás do Suaçuí na Região Central de MG; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/oSrZiIuhJPprtwLAnAmsk33b4jc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/O/iN0rudR0yxqDB9MB2Hew/granizo-foto.png"
-    },
-    {
-      "titulo": "Carro cai de viaduto e duas pessoas  ficam feridas na BR-116, em Sapucaia",
-      "imagem": "https://s2-g1.glbimg.com/nyCfYxv3gWPnN8aMxWvrfBrfOzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/k4phqwTYGLA796N9OnRA/whatsapp-image-2026-08-15-at-17.29.31-1-.jpeg"
-    },
-    {
-      "titulo": "Enchentes em Indiana, nos EUA, deixam ao menos 5 mortos, dizem autoridades",
-      "imagem": "https://s2-g1.glbimg.com/nssSiHMq9E8D5Bf9O5Vg2C1WwJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/R/fwXW51ReSth08I5mlqDA/ap26227690983989.jpg"
-    },
-    {
-      "titulo": "Após ameaça, campanha de Flávio Bolsonaro fala em ação ágil da Polícia e destaca episódio de 2018",
-      "imagem": null
-    },
-    {
-      "titulo": "Corpos de colombianas mortas em acidente de helicóptero serão velados neste domingo no Rio",
-      "imagem": "https://s2-g1.glbimg.com/MGceGR25mlBdzNNR3R8jAMVkFII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/b5cck7SBSRShz2ApW4ow/foto1.jpeg"
-    },
-    {
-      "titulo": "Dos nomes às tradições: Como os bairros ajudam a preservar a identidade de Teresina",
-      "imagem": "https://s2-g1.glbimg.com/8uhXyFRh_i-VKgDD4zmXwV_CjU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/I/4jLpnWQXKgcxbU7jNKAQ/edicao-imagens-g1-2-.png"
     }
   ],
-  "atualizadoEm": "2026-08-15T21:43:56.754Z"
+  "atualizadoEm": "2026-08-15T21:58:16.867Z"
 }
