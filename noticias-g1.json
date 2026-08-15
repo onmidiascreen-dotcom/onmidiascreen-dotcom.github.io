@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Condutor e passageiro de moto morrem em colisão com ônibus no interior do Ceará",
+      "imagem": "https://s2-g1.glbimg.com/C07rNvJCxyIylrXfjUJ1gqWbkbM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/j/lC1sriQE6SeYvssEPvow/acid-moto-1.jpg"
+    },
+    {
+      "titulo": "Avenida das Orquídeas fica interditada para procissão neste sábado",
+      "imagem": "https://s2-g1.glbimg.com/hA2kBvy6DaP2Do0qUiV_SCn_vTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/0/DA6QUUTsK1XRbvELx55g/imagem.png"
+    },
+    {
+      "titulo": "VÍDEOS: JL2 de sábado, 15 de agosto de 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Empresário do AC morre durante tratamento contra aplasia medular, doença rara que afeta a medula óssea",
+      "imagem": "https://s2-g1.glbimg.com/1YwKCOe5XloO3OjEkROIJo6xT4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/2EiDp3QtadhncvzyMBlg/midia-de-distribuicao-g1-15-.jpg"
+    },
+    {
+      "titulo": "Duas mulheres morrem em acidente entre dois carros na zona leste de Poços de Caldas, MG",
+      "imagem": "https://s2-g1.glbimg.com/l094l65ADXTsgosov_gvBcX8CLM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/q/qduZKLS6aOwwH9OOf7Kg/acidente.png"
+    },
+    {
       "titulo": "Rubacão: aprenda como preparar o prato no Chef JPB",
       "imagem": "https://s2-g1.glbimg.com/vQnSO1oTHvib1V_xFO_UdaV0fss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/V/9Mc6bjQv6UaGniP0lFeg/whatsapp-image-2026-08-14-at-16.29.07.jpeg"
     },
@@ -10,7 +30,7 @@
     },
     {
       "titulo": "VÍDEOS: GR1 de sábado, 15 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/QCVkVGC3w5WjS1ZeX1KYD8f-9h4=/s01.video.glbimg.com/deo/vi/41/13/14871341"
+      "imagem": "https://s2-g1.glbimg.com/pYqpANQA_7VHbpc8RLLw1CePHy8=/s01.video.glbimg.com/deo/vi/63/13/14871363"
     },
     {
       "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de sábado, 15 de agosto de 2026",
@@ -99,27 +119,7 @@
     {
       "titulo": "Eliana Alves Cruz relança 'O crime do Cais do Valongo' e anuncia série que investiga crimes e 'roubos' do período colonial",
       "imagem": "https://s2-g1.glbimg.com/C3tSGx8giIhpcxQ2k81RzoZEqqU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/f/PBlb38SsqSiZsIj7avHw/imagem-cortada-18-.jpg"
-    },
-    {
-      "titulo": "Inmet emite alerta de baixa umidade para 68 cidades do RN; veja lista",
-      "imagem": "https://s2-g1.glbimg.com/S0XSti0KWacJm7s3PcGWZutwtU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/k/x/s9yhW6QoKZPh7UMCBM8A/adobestock-388303385.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: incêndio atinge barracão em Campinas",
-      "imagem": "https://s2-g1.glbimg.com/yNJgrJbMEohwk2V2e9af8IvPbHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/s/bXkNfWRQGEjTfqe3NG7Q/design-sem-nome-8-.jpg"
-    },
-    {
-      "titulo": "Cleitinho declara R$ 956 mil em bens ao TSE; Falcão informa patrimônio de R$ 1,17 milhões",
-      "imagem": "https://s2-g1.glbimg.com/arL8l3dQi6cbD_-0bA_j8bGphTQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/u/8ALk6gS9CswWmMTgYUGg/design-sem-nome-6-1-.png"
-    },
-    {
-      "titulo": "VÍDEOS: MG1 de sábado, 15 de agosto de 2026",
-      "imagem": null
-    },
-    {
-      "titulo": "'Barato da Cozinha': aprenda a fazer feijão tropeiro",
-      "imagem": "https://s2-g1.glbimg.com/1fYl3YX4_HeZ5W3_uNB8b3oi6wU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Z/fAnaIcS6mJ4muXp8uLgQ/molduras-g1-2026-08-15t104500.549.png"
     }
   ],
-  "atualizadoEm": "2026-08-15T15:44:08.810Z"
+  "atualizadoEm": "2026-08-15T15:58:26.261Z"
 }

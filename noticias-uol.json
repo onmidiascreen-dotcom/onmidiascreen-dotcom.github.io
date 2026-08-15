@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Bombardeios dos EUA na América Latina entram em perigosa normalização",
+      "imagem": null
+    },
+    {
+      "titulo": "Eleições 2026: Democracia Cristã registra Clariana Barão para disputar presidência",
+      "imagem": null
+    },
+    {
+      "titulo": "Dupla furta residência no Bosque da Saúde, em Ivaiporã",
+      "imagem": null
+    },
+    {
+      "titulo": "Ex-professor de Cambridge envolvido em escândalo de plágio é encontrado morto",
+      "imagem": null
+    },
+    {
       "titulo": "Eleições 2026: PCO registra Rui Costa Pimenta ao Planalto com plano de cancelar privatizações",
       "imagem": null
     },
@@ -14,6 +30,10 @@
     },
     {
       "titulo": "Batida traseira na BR-373 mata integrante do grupo Tchê Embalos e deixa um ferido grave",
+      "imagem": null
+    },
+    {
+      "titulo": "Bactérias do sêmen impactam fertilidade, indica estudo",
       "imagem": null
     },
     {
@@ -39,27 +59,7 @@
     {
       "titulo": "Elenco do novo 'X-Men' e sequência da animação 'Viva' são anunciados na D23",
       "imagem": null
-    },
-    {
-      "titulo": "Incêndio florestal na Alemanha, próximo à fronteira com Bélgica, está sob controle, dizem autoridades",
-      "imagem": null
-    },
-    {
-      "titulo": "Marrocos intercepta migrantes que tentavam ir a Ceuta e expulsa jornalistas",
-      "imagem": null
-    },
-    {
-      "titulo": "Marrocos reforça vigilância e desmobiliza novos chamados para atravessar a fronteira de Ceuta",
-      "imagem": null
-    },
-    {
-      "titulo": "À espera de JHC, Lira e os Calheiros ainda não registraram chapas em AL",
-      "imagem": null
-    },
-    {
-      "titulo": "Três Poderes: Janja é a vencedora da semana e Alexandre de Moraes, o perdedor",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T15:44:08.103Z"
+  "atualizadoEm": "2026-08-15T15:58:25.965Z"
 }
