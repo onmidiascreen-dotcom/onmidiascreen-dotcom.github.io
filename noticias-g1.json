@@ -1,12 +1,96 @@
 {
   "noticias": [
     {
+      "titulo": "Veja quem são os candidatos a vice-governador em Alagoas em 2026",
+      "imagem": "https://s2-g1.glbimg.com/5HlWAhp29cMEk5Uy9XU0EPfeblU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/y/hxSkJ5QAymXBLa1BHSBA/whatsapp-image-2026-08-15-at-19.12.03.jpeg"
+    },
+    {
+      "titulo": "Vanderlan Cardoso (PSD) declara patrimônio de R$ 66 milhões; veja patrimônio de candidato ao Senado em Goiás",
+      "imagem": "https://s2-g1.glbimg.com/NWGqP5jnkrWn-5E51JW-EjStwHw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/f/1/wqjd2pSdiuUsog57QZGQ/vanderlan.jpg"
+    },
+    {
+      "titulo": "Homem é morto a facadas pelo próprio irmão durante briga familiar em Normandia",
+      "imagem": "https://s2-g1.glbimg.com/sMGg20GcOjCopGcSHk7IcDYFnt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/j/lBCUMUQsmpcwztew1BHw/faca-.jpg"
+    },
+    {
+      "titulo": "Assista ao BATV",
+      "imagem": null
+    },
+    {
+      "titulo": "Suspeito de incêndio em hotel que deixou mulher em estado grave é preso em cafeteria no RS",
+      "imagem": "https://s2-g1.glbimg.com/_51obMxcMETWDGAqy4HUdrGHmHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/s/x29EBiSgSl6YCRAwgM0w/g1-33-.jpg"
+    },
+    {
+      "titulo": "Assista ao Boa Noite Espírito Santo",
+      "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
+    },
+    {
+      "titulo": "Assista ao JRO2 deste sábado, 15",
+      "imagem": "https://s2-g1.glbimg.com/AsUkhvXuu5rx_Zpgv8SExH1qeps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/m/ORPBZlS5ilHGBbkb6eaQ/whatsapp-image-2026-08-15-at-18.04.20.jpeg"
+    },
+    {
+      "titulo": "Ex-vereador é condenado a 41 anos de prisão por encomendar a morte de técnica de enfermagem",
+      "imagem": "https://s2-g1.glbimg.com/_dYESAjmHmzzANU127wMlEWJokM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/A/m1iskOQ5qbpBRqq9hlCQ/foto-e-montagem-vertical-43-.png"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
+      "imagem": null
+    },
+    {
+      "titulo": "Ônibus pega fogo e precisa ser evacuado em MS; passageiros não ficaram feridos",
+      "imagem": "https://s2-g1.glbimg.com/5ekeeNdLL3w_X0PtvJiXM7c4cGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/D/B07c03R9u4A95pxHTIWA/formato-g1-1-.png"
+    },
+    {
+      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "Assista ao Jornal Vanguarda ao vivo no g1",
+      "imagem": "https://s2-g1.glbimg.com/JUlrL8xbxN4SRa6eMbFfPbSqi4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/R/SdP4NhSuG9lQDEyOl9pg/texto-do-seu-paragrafo-21-.png"
+    },
+    {
+      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "Assista ao JAP2 deste sábado (15)",
+      "imagem": "https://s2-g1.glbimg.com/13M9tjoTBFlXZMOPmdrNCBW6VYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/I/3WPTBHQ2yItJPmVGjF5g/photo-5181780607455922977-y.jpg"
+    },
+    {
+      "titulo": "Marina Sena participa do cortejo de São Benedito e é coroada catopê nas Festas de Agosto em Montes Claros",
+      "imagem": "https://s2-g1.glbimg.com/7DDETgCzqQKacHZgKovCKwRAnmo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/v/sfzrmIRYKuBxxod8u5BQ/gemini-generated-image-1wjftv1wjftv1wjf.jpeg"
+    },
+    {
+      "titulo": "Filho é morto a facadas pelo próprio pai durante discussão em Mirassol D’Oeste (MT)",
+      "imagem": "https://s2-g1.glbimg.com/ZZkCNV4-nfdjLPRjvQ4dQ1Dx6b0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/l/1neicrSN6Myt8zbKuWWg/videos-g1-74-.jpg"
+    },
+    {
+      "titulo": "Veja quem são os candidatos que se registraram no TSE para disputar o governo de Minas em 2026",
+      "imagem": "https://s2-g1.glbimg.com/Os3QgI_Sp9CQHTtiFO1SeyO7qVA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/A/r1fXcWTbKYNmsByYssAg/imagem.jpg"
+    },
+    {
+      "titulo": "Veja quem são os candidatos que se registraram no TSE para disputar o Senado por MG em 2026",
+      "imagem": "https://s2-g1.glbimg.com/WsPGfevKLaHDwyekIeHe_CzHFxE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/g/uTplelT5qaXNQpOp2kEQ/design-sem-nome-2026-08-14t194235.880.jpg"
+    },
+    {
+      "titulo": "Campeonato de Pedestrianismo interdita vias e altera ônibus em Santos; confira",
+      "imagem": "https://s2-g1.glbimg.com/MQp6up8rjAoPmcQoX34NppoZnVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/b/BcoBebQliDz9lvs4X9wA/foto-tradicional-1-.png"
+    },
+    {
       "titulo": "AO VIVO: Assista ao GR2",
       "imagem": "https://s2-g1.glbimg.com/K2gsnPB6ofo9WfMgINpvMIgBwe8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/M/64EZS1SfaLKfMqfeXniQ/whatsapp-image-2025-03-11-at-19.11.55.jpeg"
     },
     {
       "titulo": "Terremoto na Colômbia: número de mortos sobe para 294",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/vjiTKZMneLMUunfzFE_MMResgrg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/oR5pWJSD23wiZzruHDjA/2026-08-15t183800z-2044037466-rc24zmaf3zum-rtrmadp-3-colombia-quake.jpg"
     },
     {
       "titulo": "Acidente na Rio-Santos deixa três feridos em Caraguatatuba",
@@ -35,91 +119,7 @@
     {
       "titulo": "VÍDEO: Drone captura maior incêndio florestal da história da Bélgica",
       "imagem": "https://s2-g1.glbimg.com/SpAR57O9pAknl6IbCE6m_MqtUeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/z/MAea3VSWybGVsLwSvJaw/afp-20260815-c4r769f-v1-midres-belgiumenvironmentclimateweatherwildifre.jpg"
-    },
-    {
-      "titulo": "Nova plataforma permite acompanhar preços de postos de combustíveis em tempo real em João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/flJsqFaLCCn7tOJL6sVkcI-6Lf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/C/5ciyWoTAGzAAf4C7TbhA/dia-livre-de-impostos-mcamgo-abr-06062024-9.jpg"
-    },
-    {
-      "titulo": "Investigado por morte de jovem de 19 anos em Camaçari é preso",
-      "imagem": "https://s2-g1.glbimg.com/3WHPTatjGq7-YHBKZlOvdw5Mt_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/x/9AmjNOTBmkiHlx31K3Xg/policiacivil-ascompc..jpeg"
-    },
-    {
-      "titulo": "Álvaro Siviero apresenta recital dedicado a Chopin no Theatro da Paz, em Belém",
-      "imagem": "https://s2-g1.glbimg.com/fTnKwt0kyGCr9OB7IxrlElYnWss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/o/4dcHpHTAm4wEZXf6j5ww/geral-g1-13-.png"
-    },
-    {
-      "titulo": "Homens que deveriam estar em prisão domiciliar são flagrados em área de tráfico em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/Lnw8feLQl25jUXCVBRFHc2alVrU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/2/AG2sqaQrOgTheBhQL6Sw/dupla8.jpg"
-    },
-    {
-      "titulo": "Influenciadores Viih Tube e Eliezer se casam em fazenda de Porto Feliz",
-      "imagem": "https://s2-g1.glbimg.com/ExEP7oW8i9E2xAS8q1d5WJfaNJM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/L/Atv73MSjO3XcrWrpBgww/casamento-1-.jpg"
-    },
-    {
-      "titulo": "Caminhão tomba e espalha piche à margem de rodovia no Ceará; motorista é socorrido",
-      "imagem": "https://s2-g1.glbimg.com/di5D04oo1nKeQE97WCCAhivFCZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/r/jtCuOwRD6vSjKamU75dA/acidente-ocorreu-na-tarde-desta-terca-feira-15-.jpg"
-    },
-    {
-      "titulo": "Prefeitura de Itapeva promove campanha para adoção de filhotes de cães de abrigo municipal",
-      "imagem": "https://s2-g1.glbimg.com/I2T7mLzhQlmYsFnMZ4s7QAweL38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Z/lU6YhZQHAL52AyhaFEQw/img-0620.jpg.jpeg"
-    },
-    {
-      "titulo": "Detento morre e outro fica ferido após incêndio em cela de cadeia no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/lRZZrupg0DOjU-P_bt9cqG8cxUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/F/mtBVbBS8eSfaQ5JkSCDg/tamanho-post-materia-5-.png"
-    },
-    {
-      "titulo": "Tempestade Lala se torna furacão e avança sobre o Havaí com ventos de 120 km/h",
-      "imagem": "https://s2-g1.glbimg.com/b5KT0SmYcjGmvQitmpCe_PBjh_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/7t1vUYTZaWBRRzl2mAcg/2026-08-15t205846z-1371998415-rc26ymaodywv-rtrmadp-3-storm-lala.jpg"
-    },
-    {
-      "titulo": "Empresário da Faria Lima é preso por agredir e ameaçar mulher em SP: 'Vi a a morte de perto', diz vítima",
-      "imagem": "https://s2-g1.glbimg.com/l84kqXnhwP0hu2N6qMJtz4K-0GU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/s/8PMBfMQs2rWzbABMqh5g/fotojet-2026-08-15t175903.291.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: AB1 de sábado, 15 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/xXHaFJ_VFR-l6taaKRXxNt5qv_0=/s01.video.glbimg.com/deo/vi/27/24/14872427"
-    },
-    {
-      "titulo": "Leiturista é assaltado por dupla com faca enquanto trabalhava em Rio Preto",
-      "imagem": "https://s2-g1.glbimg.com/zTsyL1aBULtpJzxHNX2Ych4NzaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/A/BB4fdBRSCdTWqAhWQNfw/central-flagrantes.png"
-    },
-    {
-      "titulo": "Policial é baleado na cabeça e morre durante ação em Cachoeiro; autor do disparo é morto por outro PM",
-      "imagem": "https://s2-g1.glbimg.com/3dg9lEpsE9BLWF77Yo2JC9sfE_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/x/DcILamQyS0QNAwAqDBxw/thumb-fotos-28-.jpg"
-    },
-    {
-      "titulo": "Patrimônio declarado por Arthur Lira cresce 335% em quatro anos e chega a R$ 25,9 milhões",
-      "imagem": "https://s2-g1.glbimg.com/ltJTUzalz3to7ZW-5kZzF16slTc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/C/EmSd5hR66taLXQLAVP3g/img20250201164223421.jpg"
-    },
-    {
-      "titulo": "Cliente ignora conselho de advogada e conta detalhes de briga durante audiência: ‘Alma da advogada saindo do corpo’",
-      "imagem": "https://s2-g1.glbimg.com/DYrE2Cf-KtKEmJAZQybmGnc-Ktw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/J/krbeU9QMiGtXACfQGWTA/copia-de-copia-de-padrao-foto-g1-goias-2026-08-15t173740.948.jpg"
-    },
-    {
-      "titulo": "Líder indígena e família mortos em acidente que vitimou 7 faziam intercâmbio em MS",
-      "imagem": "https://s2-g1.glbimg.com/AwZEbUmaN7UkyaFnUfkqg5c1bF0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/4/m0asklRpqrSjn6gwqQ2g/dfghjmk-l.c.png"
-    },
-    {
-      "titulo": "Victor Assis não declara nenhum bem ao TSE; vice também informa não ter patrimônio",
-      "imagem": "https://s2-g1.glbimg.com/FkmEQFl3I7X8LP09wjy5Egv2-qc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/G/K/IVve0CSAALGS3TmIJ1Hg/victor-agamenon-frame-1907.jpeg"
-    },
-    {
-      "titulo": "Condenada por homicídio em MT é presa 14 anos depois do crime",
-      "imagem": "https://s2-g1.glbimg.com/lnahfIZ-kTeqXzMkNNEKkCrYplM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/V/w3dkiGTNaWKvDtvdnBOg/videos-g1-73-.jpg"
-    },
-    {
-      "titulo": "Inspiração em Florença e artista sepultado em parede: igreja da Boa Morte, em Piracicaba completa 100 anos",
-      "imagem": "https://s2-g1.glbimg.com/CBdNWoooKuOawhvXz8Uv_sj6uPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/J/GfyoW0SHernFQy2J6MWQ/design-sem-nome-6-.jpg"
-    },
-    {
-      "titulo": "Caminhão carregado de ureia tomba na BR-277, no sentido Curitiba, e 4 pessoas são socorridas",
-      "imagem": "https://s2-g1.glbimg.com/WFWkjDTfth3ukaCuChJ0sv5Jsfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/m/cFBjwtSHAdfC0UORE9Hw/whatsapp-image-2026-08-15-at-15.05.41.jpeg"
-    },
-    {
-      "titulo": "Empresário morre após ser baleado durante assalto em Montes Claros",
-      "imagem": "https://s2-g1.glbimg.com/mYA_DoTrLA7nyNg-OVbPb9YEQjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/H/Uk6kyZTXW7hQ7hkiMTzw/vitimasfatais-3-.png"
     }
   ],
-  "atualizadoEm": "2026-08-15T21:58:16.867Z"
+  "atualizadoEm": "2026-08-15T22:26:34.633Z"
 }
