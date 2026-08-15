@@ -1,7 +1,51 @@
 {
   "noticias": [
     {
-      "titulo": "Empresário da Faria Lima é preso por agredir e ameaçar mulher em SP: ' Vi a a morte de perto', diz vítima",
+      "titulo": "VÍDEO: Drone captura maior incêndio florestal da história da Bélgica",
+      "imagem": "https://s2-g1.glbimg.com/SpAR57O9pAknl6IbCE6m_MqtUeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/z/MAea3VSWybGVsLwSvJaw/afp-20260815-c4r769f-v1-midres-belgiumenvironmentclimateweatherwildifre.jpg"
+    },
+    {
+      "titulo": "Nova plataforma permite acompanhar preços de postos de combustíveis em tempo real em João Pessoa",
+      "imagem": "https://s2-g1.glbimg.com/flJsqFaLCCn7tOJL6sVkcI-6Lf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/C/5ciyWoTAGzAAf4C7TbhA/dia-livre-de-impostos-mcamgo-abr-06062024-9.jpg"
+    },
+    {
+      "titulo": "Investigado por morte de jovem de 19 anos em Camaçari é preso",
+      "imagem": "https://s2-g1.glbimg.com/3WHPTatjGq7-YHBKZlOvdw5Mt_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/x/9AmjNOTBmkiHlx31K3Xg/policiacivil-ascompc..jpeg"
+    },
+    {
+      "titulo": "Álvaro Siviero apresenta recital dedicado a Chopin no Theatro da Paz, em Belém",
+      "imagem": "https://s2-g1.glbimg.com/fTnKwt0kyGCr9OB7IxrlElYnWss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/o/4dcHpHTAm4wEZXf6j5ww/geral-g1-13-.png"
+    },
+    {
+      "titulo": "Homens que deveriam estar em prisão domiciliar são flagrados em área de tráfico em Boa Vista",
+      "imagem": "https://s2-g1.glbimg.com/Lnw8feLQl25jUXCVBRFHc2alVrU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/2/AG2sqaQrOgTheBhQL6Sw/dupla8.jpg"
+    },
+    {
+      "titulo": "Influenciadores Viih Tube e Eliezer se casam em fazenda de Porto Feliz",
+      "imagem": "https://s2-g1.glbimg.com/ExEP7oW8i9E2xAS8q1d5WJfaNJM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/L/Atv73MSjO3XcrWrpBgww/casamento-1-.jpg"
+    },
+    {
+      "titulo": "Caminhão tomba e espalha piche à margem de rodovia no Ceará; motorista é socorrido",
+      "imagem": "https://s2-g1.glbimg.com/di5D04oo1nKeQE97WCCAhivFCZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/r/jtCuOwRD6vSjKamU75dA/acidente-ocorreu-na-tarde-desta-terca-feira-15-.jpg"
+    },
+    {
+      "titulo": "Prefeitura de Itapeva promove campanha para adoção de filhotes de cães de abrigo municipal",
+      "imagem": "https://s2-g1.glbimg.com/I2T7mLzhQlmYsFnMZ4s7QAweL38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Z/lU6YhZQHAL52AyhaFEQw/img-0620.jpg.jpeg"
+    },
+    {
+      "titulo": "Detento morre e outro fica ferido após incêndio em cela de cadeia no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/lRZZrupg0DOjU-P_bt9cqG8cxUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/F/mtBVbBS8eSfaQ5JkSCDg/tamanho-post-materia-5-.png"
+    },
+    {
+      "titulo": "Tempestade Lala se torna furacão e avança sobre o Havaí com ventos de 120 km/h",
+      "imagem": "https://s2-g1.glbimg.com/b5KT0SmYcjGmvQitmpCe_PBjh_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/7t1vUYTZaWBRRzl2mAcg/2026-08-15t205846z-1371998415-rc26ymaodywv-rtrmadp-3-storm-lala.jpg"
+    },
+    {
+      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "Empresário da Faria Lima é preso por agredir e ameaçar mulher em SP: 'Vi a a morte de perto', diz vítima",
       "imagem": "https://s2-g1.glbimg.com/l84kqXnhwP0hu2N6qMJtz4K-0GU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/s/8PMBfMQs2rWzbABMqh5g/fotojet-2026-08-15t175903.291.jpg"
     },
     {
@@ -75,51 +119,7 @@
     {
       "titulo": "Dos nomes às tradições: Como os bairros ajudam a preservar a identidade de Teresina",
       "imagem": "https://s2-g1.glbimg.com/8uhXyFRh_i-VKgDD4zmXwV_CjU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/I/4jLpnWQXKgcxbU7jNKAQ/edicao-imagens-g1-2-.png"
-    },
-    {
-      "titulo": "Suspeito de matar homem no Acre há 25 anos é preso em área de difícil acesso no Mato Grosso",
-      "imagem": "https://s2-g1.glbimg.com/IjhLQluyxIj7l8c9wAdbrue1J3o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/3/tAVICvRCebSxHTqJ5vYw/midia-de-distribuicao-g1-2026-08-15t121919.061.png"
-    },
-    {
-      "titulo": "Dois irmãos empresários são mortos a tiros em Serra Talhada; suspeito do crime também morreu baleado",
-      "imagem": "https://s2-g1.glbimg.com/gtctw31BPGC9EbMvPBFq0lgZX8Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/g/qWfDy7Shaul9hH8E5xQA/localizada-no-bairro-luiz-gonzaga-a-maternidade-municipal-santa-dulce-dos-pobres-mmsdp-fica-por-tras-do-hospital-mestre-vitalino-hmv-.-43-.png"
-    },
-    {
-      "titulo": "Polícia prende flanelinhas que cobravam R$ 100 sob ameaça em jogo do Santos",
-      "imagem": "https://s2-g1.glbimg.com/QSIeT4w36RNbOio1Yyr8FCXw8cI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/t/pfq9MXSEiZMfs9p5nkGA/flanelinhas-presos.jpg"
-    },
-    {
-      "titulo": "Boa Vista abre inscrições para comerciantes que querem vender no Mormaço Cultural 2026",
-      "imagem": "https://s2-g1.glbimg.com/4wOvXEKX43umJo2O4U_3OAUS6kk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/O/DL6bAMSUWcEeA0SAnRTQ/cachorroquente.jpg"
-    },
-    {
-      "titulo": "Eleições no DF: Paula Belmonte declara R$ 10 milhões em bens; vice informa R$ 23 milhões",
-      "imagem": "https://s2-g1.glbimg.com/crfLWHmT6bRmihH-YpHzMTb01Jw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/h/HSDqrfTFyhx3kDoqTPwA/c2016-lu-debate-band-2-09082026-frame-6336.jpeg"
-    },
-    {
-      "titulo": "Granizo atinge bairro dos Campos e derruba árvores durante temporal em Carmo de Minas",
-      "imagem": "https://s2-g1.glbimg.com/JrF77X82NxECXhVhrcK_yM16oUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/i/gXBcq8RpSc5VzErVvPbw/montagemchuva.jpg"
-    },
-    {
-      "titulo": "Justiça suspende 'rock doido' em área de mangue no Pará após ação do Ministério Público",
-      "imagem": "https://s2-g1.glbimg.com/q4-QznWcxCq8eOR4GHe9jDJuGCI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Z/89wVfRR3exWgVm4YOiew/geral-g1-12-.png"
-    },
-    {
-      "titulo": "Mariedson, candidato ao Senado por Alagoas, declara não ter bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/z28oAO6_7eH3kGEIo03bbEmYzVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/IAfdJNT5C9K2ffmSBEMA/whatsapp-image-2026-08-11-at-17.11.25.jpeg"
-    },
-    {
-      "titulo": "Discord pede revogação da suspensão de lives e diz não conseguir cumprir prazo da ANPD",
-      "imagem": "https://s2-g1.glbimg.com/G9FqRhGEi6XbpjI7aPBEXs4fnMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/buPHArRkWwcvnTMZussQ/discord-1200.jpg"
-    },
-    {
-      "titulo": "Jovem de 24 anos morre dias após grave acidente no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/U1eLNsviFzMK-aHnqCRLqJFHSio=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/A/TGgsP5SQ6yotwuBgGmBg/design-sem-nome-2026-08-15t161846.174.png"
-    },
-    {
-      "titulo": "Pedestre morre após ser atropelada por carro ao tentar atravessar rodovia em Marília",
-      "imagem": "https://s2-g1.glbimg.com/jHhDdUK4L7rlVv87ExiPRvOalW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/W/MHtv7eSIiwAjEG1kdoAA/novo-projeto-2026-08-15t161329.594.png"
     }
   ],
-  "atualizadoEm": "2026-08-15T21:17:00.775Z"
+  "atualizadoEm": "2026-08-15T21:43:56.754Z"
 }

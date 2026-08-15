@@ -1,7 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Palmeiras leva virada do Fluminense nos acréscimos e pode ter vantagem reduzida",
+      "imagem": null
+    },
+    {
+      "titulo": "MPE pede impugnação de Ney Santos por suspeita de ligação com PCC",
+      "imagem": null
+    },
+    {
+      "titulo": "Empresário é preso em flagrante por agredir a mulher na zona oeste de SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Israel faz ataques mais letais no Líbano desde trégua",
+      "imagem": null
+    },
+    {
       "titulo": "Polícia investiga morte de jovem encontrada às margens de rio em Guaratinguetá (SP)",
+      "imagem": null
+    },
+    {
+      "titulo": "Djokovic cai em sua estreia na 2ª rodada do Masters 1000 de Cincinnati",
       "imagem": null
     },
     {
@@ -10,6 +30,10 @@
     },
     {
       "titulo": "Brasileirão: onde assistir Athletico-PR x Red Bull Bragantino ao vivo neste sábado",
+      "imagem": null
+    },
+    {
+      "titulo": "Mulheres acumulam recordes sobre marcas masculinas em provas extremas",
       "imagem": null
     },
     {
@@ -29,37 +53,13 @@
       "imagem": null
     },
     {
+      "titulo": "PSG anuncia contratação do atacante belga Mika Godts",
+      "imagem": null
+    },
+    {
       "titulo": "O Brasil vai investir em IA. Quem vai participar das escolhas?",
-      "imagem": null
-    },
-    {
-      "titulo": "Tiroteio na Universidade Estadual da Virgínia deixa cinco feridos em estado grave",
-      "imagem": null
-    },
-    {
-      "titulo": "Alavés vence Getafe por 3 a 0 no jogo de abertura do Campeonato Espanhol",
-      "imagem": null
-    },
-    {
-      "titulo": "'Minions & Monstros' e série 'Lanternas': o que ver na TV e no streaming na semana",
-      "imagem": null
-    },
-    {
-      "titulo": "Governo da Venezuela afirma ter libertado 1.046 presos políticos após anistia",
-      "imagem": null
-    },
-    {
-      "titulo": "Crise na OpenAI se agrava enquanto Sam Altman prepara IPO",
-      "imagem": null
-    },
-    {
-      "titulo": "Crise na OpenAI se agrava enquanto Sam Altman prepara IPO",
-      "imagem": null
-    },
-    {
-      "titulo": "Após ordem de suspensão, Discord pede 15 dias à ANPD para conseguir bloquear lives no Brasil",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T21:17:00.480Z"
+  "atualizadoEm": "2026-08-15T21:43:54.055Z"
 }
