@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Athletico-PR domina, mas fica no empate contra o Bragantino no Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Especialista diz que STF quebrar sigilo de fonte tem &#8220;efeito inibidor&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Empresário da Faria Lima é preso suspeito de agredir esposa em São Paulo",
+      "imagem": null
+    },
+    {
+      "titulo": "Pablo Marçal registra candidatura a presidente apesar de inelegibilidade",
+      "imagem": null
+    },
+    {
       "titulo": "Abel Ferreira pede calma após derrota: “Parece que está em último&#8221;",
       "imagem": null
     },
@@ -22,6 +38,10 @@
     },
     {
       "titulo": "Entenda a cronologia do caso de estudante morta pelo namorado em SC",
+      "imagem": null
+    },
+    {
+      "titulo": "Nvidia planeja investir US$ 3 bi na SB Energy, diz jornal",
       "imagem": null
     },
     {
@@ -99,27 +119,7 @@
     {
       "titulo": "Análise: Os sete riscos de Lula, entre o favoritismo e a vitória",
       "imagem": null
-    },
-    {
-      "titulo": "Análise: É necessário transformar petróleo descoberto em riqueza ao país",
-      "imagem": null
-    },
-    {
-      "titulo": "Inter de Milão vence Real Betis em último amistoso da pré-temporada",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Enrolados&#8221;: conheça Milo Manheim e Tegan Croft, protagonistas do longa",
-      "imagem": null
-    },
-    {
-      "titulo": "Fluminense x Palmeiras: Hulk marca, é direto sobre críticas e manda recado",
-      "imagem": null
-    },
-    {
-      "titulo": "Conheça Sr. Sinistro, vilão de novo &#8220;X-Men&#8221; interpretado por Adam Driver",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T23:16:20.551Z"
+  "atualizadoEm": "2026-08-15T23:43:37.416Z"
 }

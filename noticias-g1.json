@@ -1,7 +1,47 @@
 {
   "noticias": [
     {
-      "titulo": "Gustavo Galassi, candidato ao Senado, declara R$ 5.525 mil em bens ao TSE",
+      "titulo": "Dr. Wanderley, candidato ao Senado por Alagoas, declara R$ 3,5 milhões em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/gQyv3MlIO_l0aDO7m4cMki8PHDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/Q/hbZBQmS1mRGa4uClRIug/dr-wanderley-igor-pereira-ale-2.png"
+    },
+    {
+      "titulo": "Cabo Daciolo declara R$ 190,7 mil em bens ao TSE; vice Igor Oliveira informa patrimônio de R$ 102,5 mil",
+      "imagem": "https://s2-g1.glbimg.com/iirIFQL46CKcl1V266zPSKe2IyQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/V/BBLnIFRvmnA8ULE3UXtA/cabo-daciolo-g1.jpg"
+    },
+    {
+      "titulo": "Renan Calheiros, candidato ao Senado por Alagoas, declara R$ 3,5 milhões em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/hCGCcQDrN-JboU-1BmeWcayRUfs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/H/v/F2dAWuQW2RdvVnkZ15kg/renan-andressa-anholete-ag-senado-.jpg"
+    },
+    {
+      "titulo": "Frota antiga, falhas na fiscalização e estações precárias: Consórcio Guaicurus é condenado a pagar R$ 30 milhões",
+      "imagem": "https://s2-g1.glbimg.com/Vkc55OuGrfmnZDylX77VbvE34Xk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/N/5Asjr3RiOAYC9VBIaYfg/design-sem-nome-20-.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 1ª edição deste sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/JAj3efUnzo163CFxKa3MNF-OHuA=/s01.video.glbimg.com/deo/vi/53/26/14872653"
+    },
+    {
+      "titulo": "Veado é resgatado após ser vítima de atropelamento em estrada no DF; veja vídeo",
+      "imagem": "https://s2-g1.glbimg.com/AYoCaPLxvmiigK7MPfe5mp5rrKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/z/7xbKBOTqiP9z2iDTaRZA/imagem-g1.jpg"
+    },
+    {
+      "titulo": "Incêndio de grandes proporções atinge loja no centro comercial de Parauapebas, no PA",
+      "imagem": "https://s2-g1.glbimg.com/t0ymFJbJR3FJ1uH0zeL8p73CtG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/y/BxWMCWScePhuAcLxvtJQ/geral-g1-17-.png"
+    },
+    {
+      "titulo": "Festa de aniversário de Sorocaba reúne milhares de pessoas no Paço Municipal com mais de 12 horas de programação",
+      "imagem": "https://s2-g1.glbimg.com/yFST6UDWUOGuu-Tk2NU2JUyq7Qo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/A/KrLAxxSfCF9KoZWJv3OQ/aniversario-de-sorocaba.png"
+    },
+    {
+      "titulo": "Madrasta suspeita de obrigar enteada a ingerir soda cáustica vai para prisão domiciliar no Acre",
+      "imagem": "https://s2-g1.glbimg.com/OX_FYPszy7VR8bxhL-lY4eHS-CY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/a/uZmvAZS3G2aVLsVUX98w/midia-de-distribuicao-g1-31-.png"
+    },
+    {
+      "titulo": "Marina JHC, candidata ao Senado por Alagoas, declara R$ 47 milhões em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/QleNVz_xlU8njS3_yUAO3NsKJ7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/C/j1V7pGRIAmlkhemURkVw/marina-candia-e-anunciada-por-flavio-bolsonaro-como-candidata-ao-senado-por-alagoas-jpeg.jpg"
+    },
+    {
+      "titulo": "Gustavo Galassi, candidato ao Senado, declara R$ 5,5 milhões em bens ao TSE",
       "imagem": "https://s2-g1.glbimg.com/ucYIoDEYW7LR-n-RNfyOM8VGvoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/S/flZkdLRV2cbz6HOwpiUg/captura-de-tela-2026-08-15-194127.png"
     },
     {
@@ -79,47 +119,7 @@
     {
       "titulo": "Mais de 100 carros por hora tentam passar por pedágio da Linha Amarela sem pagar, diz concessionária",
       "imagem": "https://s2-g1.glbimg.com/y7O4O-OasOKv6sKv_ARV9BtXVa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/C/jw4foHTXONGKaDHBFD8Q/linha.jpeg"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Liberal",
-      "imagem": null
-    },
-    {
-      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Bahia",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista ao JAP2 deste sábado (15)",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem é esfaqueado e socorrido após entrar em farmácia no Centro de Jundiaí",
-      "imagem": "https://s2-g1.glbimg.com/_ZyJH-muEs8MjtMJkQa83IfapJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/X/oPVFuBTmeiukh6A3ac3g/policia.jpg"
-    },
-    {
-      "titulo": "Projeto oferece tomografia e cirurgia de catarata pelo SUS em três cidades do Ceará",
-      "imagem": "https://s2-g1.glbimg.com/9CODIO1Qn1MucF_brMNcSKTxJ7M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/g/ywIRS7RD2IDDRXPhoQDA/populacao-de-mais-tres-municipios-do-ce-passa-a-ser-atendida-por-carretas-de-exames-de-imagem-e-ofta.jpg"
-    },
-    {
-      "titulo": "Preço médio do etanol tem queda em São José dos Campos e Taubaté, aponta ANP",
-      "imagem": "https://s2-g1.glbimg.com/6iwrv-ME9Xmg2l2vPXEfoREf1u8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/F/cshCx1SziPw8sTAEnamQ/edicao-imagens-g1-12-.png"
-    },
-    {
-      "titulo": "Veja quem são os candidatos a vice-governador em Alagoas em 2026",
-      "imagem": "https://s2-g1.glbimg.com/5HlWAhp29cMEk5Uy9XU0EPfeblU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/y/hxSkJ5QAymXBLa1BHSBA/whatsapp-image-2026-08-15-at-19.12.03.jpeg"
-    },
-    {
-      "titulo": "Vanderlan Cardoso (PSD) declara patrimônio de R$ 66 milhões; veja patrimônio de candidato ao Senado em Goiás",
-      "imagem": "https://s2-g1.glbimg.com/NWGqP5jnkrWn-5E51JW-EjStwHw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/f/1/wqjd2pSdiuUsog57QZGQ/vanderlan.jpg"
-    },
-    {
-      "titulo": "Homem é morto a facadas pelo próprio irmão durante briga familiar em Normandia",
-      "imagem": "https://s2-g1.glbimg.com/sMGg20GcOjCopGcSHk7IcDYFnt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/j/lBCUMUQsmpcwztew1BHw/faca-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-15T23:16:22.257Z"
+  "atualizadoEm": "2026-08-15T23:43:38.815Z"
 }

@@ -1,11 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Candidatura faz Marçal ganhar tempo até análise do TSE, diz especialista",
+      "titulo": "Marçal obtém liminar para se filiar ao PRTB e registra candidatura à Presidência",
+      "imagem": null
+    },
+    {
+      "titulo": "São Paulo x Coritiba: onde assistir transmissão ao vivo pelo Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Mega-Sena sorteia prêmio acumulado de R$ 38 milhões neste domingo",
+      "imagem": null
+    },
+    {
+      "titulo": "Rogério Caboclo anuncia que não disputará presidência do São Paulo",
       "imagem": null
     },
     {
       "titulo": "Tifanny é liberada para disputar o Campeonato Paulista de Vôlei após nova restrição da CBV",
+      "imagem": null
+    },
+    {
+      "titulo": "Candidatura faz Marçal ganhar tempo até análise do TSE, diz especialista",
       "imagem": null
     },
     {
@@ -43,23 +59,7 @@
     {
       "titulo": "Buscas por mulher que caiu com carro em rio no PR são encerradas neste sábado (15)",
       "imagem": null
-    },
-    {
-      "titulo": "Esperanças diminuem na Colômbia à medida que mais corpos são recuperados dias após terremoto",
-      "imagem": null
-    },
-    {
-      "titulo": "Chega a 72 o número de mortos em naufrágio de balsa no Zimbábue",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump volta a insinuar disputa por terceiro mandato, proibido nos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem morre após queda do 14º andar em Londrina (PR); quatro são presos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T23:16:20.754Z"
+  "atualizadoEm": "2026-08-15T23:43:37.098Z"
 }
