@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "Pedestre morre após ser atropelada por carro ao tentar atravessar rodovia em Marília",
+      "imagem": "https://s2-g1.glbimg.com/jHhDdUK4L7rlVv87ExiPRvOalW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/W/MHtv7eSIiwAjEG1kdoAA/novo-projeto-2026-08-15t161329.594.png"
+    },
+    {
+      "titulo": "Alexandre Fleming, candidato ao Senado por Alagoas, declara não ter bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/9EX8TTDkReQmqaaK0bO9sLFPXlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/O/QZiNueRv6BAyyIWPgc4w/images-1-1-3.png"
+    },
+    {
+      "titulo": "Mulher é presa suspeita de chamar homem de 'macaco' e 'nego' durante discussão em bar",
+      "imagem": "https://s2-g1.glbimg.com/IjlNOCnxxe3oxm70NzYvddugU1w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/w/ezn1GvQfqJzfDemcsH2g/g1-2026-03-10t110033.545.png"
+    },
+    {
+      "titulo": "Homem suspeito por importunação sexual e coação de testemunhas é preso em Porto Franco",
+      "imagem": "https://s2-g1.glbimg.com/jQfqPsjhob5Ek19p49b4GyJ3Mnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/3/Q/IGMtsKRKafFM7av3c53A/dsc0949.webp"
+    },
+    {
+      "titulo": "Líder indígena de SP, esposa, filhos e irmã estão entre os 7 mortos em acidente no MS",
+      "imagem": "https://s2-g1.glbimg.com/aQZ7CBsr77Wvx390as2eYdtM_3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/y/Y/DYJ8mTQg6ez823TO0nAA/potencias-parelheiros-ok-aprovado-mix-frame-3891.jpeg"
+    },
+    {
+      "titulo": "Madeireira que pegou fogo e atingiu lojas vizinhas não tem alvará, diz Prefeitura",
+      "imagem": "https://s2-g1.glbimg.com/7l6DSNGeGTYVDQMpDvWV-0f-Ies=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/M/DrkrCpSNW3AT5NwXbEVQ/capas-ana.jpg"
+    },
+    {
+      "titulo": "Colisão frontal deixa um morto e ferido grave na BR-235 em Nossa Senhora do Socorro",
+      "imagem": "https://s2-g1.glbimg.com/iXOXDVKj6L9fIyjOHGuEEf1UExk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/g/329uwdRYCryIL2SOiGXg/imagem-g1-33-.jpg"
+    },
+    {
+      "titulo": "Capão Bonito recebe evento gratuito sobre tecnologia e sustentabilidade no agronegócio; veja a programação",
+      "imagem": "https://s2-g1.glbimg.com/uKDWMc8vJag17S8PZXDncjTE4vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/j/O/jnFoPPT1Kcd8bAnyCJ9w/fatec-capao.jpg"
+    },
+    {
+      "titulo": "Fatec de Sorocaba recebe motores e célula de avião para curso de manutenção aeronáutica",
+      "imagem": "https://s2-g1.glbimg.com/Mr3tHHPn8TsIZdAIt0z-1BozLKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/H/3IL25cT6qyOq3Ip33uDQ/bdc-rede-130826-frame-90857.jpeg"
+    },
+    {
+      "titulo": "Corpo em estado avançado de decomposição é encontrado em plantação de eucaliptos em Novo Cruzeiro",
+      "imagem": "https://s2-g1.glbimg.com/Rt1C9MMrJdN9-lBmWXFuOKKA73s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/j/0i7s2DQBipG26KV5iYbQ/vitimasfatais-2-.png"
+    },
+    {
+      "titulo": "Suspeito de matar adolescente de 13 anos em Balsas é preso",
+      "imagem": "https://s2-g1.glbimg.com/V2gLvLUrK1schOauxuBhyY-19Z4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/f/gyDHimSzet0EM2VXmRWw/montagens-1920-x-1080-px-58-.png"
+    },
+    {
+      "titulo": "Suspeita de envolvimento na morte de policial militar em Parnaíba ganha liberdade provisória",
+      "imagem": "https://s2-g1.glbimg.com/675fDlzMsTTTdSF2t5kwFZg40Yc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/B/rndBVuTAaOd7wat6GpXQ/whatsapp-image-2026-08-14-at-16.47.19.jpeg"
+    },
+    {
+      "titulo": "Homem é levado para depor em Juiz de Fora suspeito de postar ameaça a Flávio Bolsonaro",
+      "imagem": "https://s2-g1.glbimg.com/REne0vhBIhN8QZUE_fLdwADr_tw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/D/CWauAJReeZz8tHBUTJ4w/thumb-fotos-2026-07-18t152844.169.jpg"
+    },
+    {
+      "titulo": "Estágio no MPF-AP com bolsas de até R$ 2,6 mil encerra inscrições neste domingo (16)",
+      "imagem": "https://s2-g1.glbimg.com/J_sldLVRisaRehk4afxxC_QaycM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/h/EfzThiRJyyeuHRSgOBDg/trabalhador-de-vista-lateral-digitando-no-laptop.jpg"
+    },
+    {
+      "titulo": "Davi Davino Filho, candidato ao Senado pelo Republicanos, declara R$ 1,4 milhão em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/F-5hyAHsYBCKLcN2aqW-LnD8zR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/p/fnf18wS9KCPuy1vsO6hA/whatsapp-image-2026-08-05-at-16.29.04.jpeg"
+    },
+    {
+      "titulo": "Van com prefeito de Guarapari e familiares sofre acidente a caminho de casamento em Pedra Azul",
+      "imagem": "https://s2-g1.glbimg.com/uF9RJp4eB9nOc4hqDd5rTwZNXcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/S/I0OzGrQhWpUGRsZnVFVw/thumb-fotos-24-1-.jpg"
+    },
+    {
+      "titulo": "Jovem morre após perder controle de moto e bater contra árvore no interior do TO, dizem testemunhas",
+      "imagem": "https://s2-g1.glbimg.com/YzRkqjl3Zi4T1HL1m97UbvLjYko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/S/iHFUtIRPWTsd2iyBA57Q/foto-e-montagem-vertical-49-.jpg"
+    },
+    {
+      "titulo": "Eleições no DF: Paula Belmonte declara R$ 10 milhões em bens; vice informa R$ 23 milhões",
+      "imagem": "https://s2-g1.glbimg.com/8P-ihumSNPDfTenL3UPjlwFC-UY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/k/k3LunrSyGkrXtFOACHZg/c2016-lu-debate-band-2-09082026-frame-4489.jpeg"
+    },
+    {
+      "titulo": "Túlio Gadêlha, candidato ao Senado pelo PSD, declara R$ 1,3 milhão em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/vCPw1n_t5vQTZzQ_QVp9tvI04dg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/K/N4wB5tTiao3CjcdvGTkA/tulio.jpeg"
+    },
+    {
       "titulo": "Caminhão carregado de pedras tomba e provoca rachaduras em asfalto de rodovia na Bahia",
       "imagem": "https://s2-g1.glbimg.com/ssyRipz7WUfLb_vNYjg1Kggm6sQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/b/5THdSUQCiRUs1a7vhm2A/rodovia-prf.jpeg"
     },
@@ -43,83 +119,7 @@
     {
       "titulo": "Adolescente tenta matar e roubar idoso; vítima é resgatada caída embaixo de ponte no ES",
       "imagem": "https://s2-g1.glbimg.com/0CynYAR4xGJxIeExDa2HZv1QOa0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/A/aRboOpTBKFK0sAbAOwhg/thumb-fotos-20-.jpg"
-    },
-    {
-      "titulo": "Uma pessoa morre e outra fica em estado grave após carro capotar em rodovia de Guatapará, SP",
-      "imagem": "https://s2-g1.glbimg.com/C2ySCac1YD3EBmDrJbJQMI9Bnts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/4/NK46FKStSXMGiwA5WnzQ/molduras-g1-1-.png"
-    },
-    {
-      "titulo": "Leilão da Caixa oferta 18 imóveis em Sergipe; saiba como participar",
-      "imagem": "https://s2-g1.glbimg.com/4kJf_F9_u7kjXWMB0AahOjmccT0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/n/sGdoLyQFqJ0z12ejsJ9w/martelo-2.jpg"
-    },
-    {
-      "titulo": "A menos de dois meses do 'Dia da Padroeira', Aparecida se prepara para festa de Nossa Senhora",
-      "imagem": "https://s2-g1.glbimg.com/WZBjoqTq0b8OBBK6Yyi72jSBmNo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/q/jfWYPUQESBlnN2CmvKMw/whatsapp-image-2025-10-11-at-09.52.29.jpeg"
-    },
-    {
-      "titulo": "Família da Paraíba viraliza ao mostrar rotina e desafios de filho que nasceu com múltiplas malformações",
-      "imagem": "https://s2-g1.glbimg.com/-oV1jeOdYASZ6qpZop9aGzsFOaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/n/BhVTjpR6On5IOEYjD6aw/gabrielesdraspb.jpeg"
-    },
-    {
-      "titulo": "Secretaria de Cultura abre consulta pública para edital de fomento da lei que substitui a antiga Linc",
-      "imagem": "https://s2-g1.glbimg.com/dlHIinkSB1k-xbolqqs0CD961dU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/T/UExBLRTaGtGQI2H2dq6w/secult-2-.jpg"
-    },
-    {
-      "titulo": "Fiuk diz enfrentar crise financeira após investir em filme que nunca foi lançado",
-      "imagem": "https://s2-g1.glbimg.com/wUK1v8V0yc7s7Xg6I-4XqKLI9pY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/M/XGX4Q5RrqLGc63GtCwBw/design-sem-nome-2026-08-15t131425.106.png"
-    },
-    {
-      "titulo": "Operação em ferros-velhos no litoral de SP mira receptação e flagra furtos de energia e água",
-      "imagem": "https://s2-g1.glbimg.com/NuHov1p45d4fDobO15HL9B5MxCY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/b/TVnT2fRxKcNttyDh6ToA/g1-phed-6-.png"
-    },
-    {
-      "titulo": "Filme brasileiro 'A Margem do Rio' vence Prêmio do Júri no Festival de Locarno, na Suíça: 'Honra muito grande'",
-      "imagem": "https://s2-g1.glbimg.com/pCi5ga4Kb_eoEnBl0mCYIeX5u1w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/8/QoeUNiQOOuAWeFjuc4zQ/premiacao-1-.jpg"
-    },
-    {
-      "titulo": "‘Era uma menina doce’, diz tia de mulher que sofreu acidente de carro e morreu após parto de emergência",
-      "imagem": "https://s2-g1.glbimg.com/ItiLKInC8EFStp7bMd8-5NnuBoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/o/lgBN7aQKiRgsHR92UM3Q/foto-e-montagem-vertical-83-.jpg"
-    },
-    {
-      "titulo": "Meses antes de ser morto a tiros, empresário reclamou de insegurança em Ribeirão Preto, SP",
-      "imagem": "https://s2-g1.glbimg.com/rsxveY5Us-QhUS1oTHwO5tg57LQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/8/5bvxXCRXapJBB7UZlR6Q/molduras-g1-2026-08-14t170720.893.png"
-    },
-    {
-      "titulo": "Comerciante é preso por venda ilegal de munições em Timon",
-      "imagem": "https://s2-g1.glbimg.com/IMLecq7Aom0aNkFXgMpTIOY9-fU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Y/2kAes5Riunwko4WtntSA/montagens-1920-x-1080-px-56-.png"
-    },
-    {
-      "titulo": "João Batista, candidato a senador pela Paraíba, declara não ter bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/rbpbZPrhg5yh2tcCCUUw_dTH7HE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/d/PkqYVuQpipLqfRLMJdBQ/imagem-candidato.png"
-    },
-    {
-      "titulo": "Ataques de Israel no sul do Líbano matam ao menos 11, diz ministério",
-      "imagem": "https://s2-g1.glbimg.com/ffUIqqM06-WJaieY1fMnOCP4obw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/t/lEsMfcQaG9gZQPAqwdAA/2026-06-26t102702z-1393571007-rc2m1mao0kuv-rtrmadp-3-iran-crisis-israel-lebanon.jpg"
-    },
-    {
-      "titulo": "Rosilene Santana, candidata a senadora pela Paraíba, declara não ter bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/d1YI-d08HWYtdUDynw0fQ-bPMTY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/j/fnyV1cTBqFBMOwynzBNA/rosilene-.png"
-    },
-    {
-      "titulo": "Danilo Soares não declara bens ao TSE; Eryck Veloso também não informa",
-      "imagem": "https://s2-g1.glbimg.com/McOBMi0deTxO4V8sL8fOGUZ81P0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/7/XBcAksR2W44ARTYVayYg/danilo-soares-nao-declara-bens-ao-tse-eryck-veloso-tambem-nao-informa.jpg"
-    },
-    {
-      "titulo": "Omar Aziz declara R$ 2 milhões em bens ao TSE; vice Alessandra Campêlo informa R$ 1,4 milhão",
-      "imagem": "https://s2-g1.glbimg.com/gFM3oVzUQBdq0nUJGExDZN4_RSI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/Z/3FjL4XQvmAYghZZwBsMQ/omar-aziz-entrevista-cbn.jpg"
-    },
-    {
-      "titulo": "Polícia Ambiental identifica corte irregular de mais de 50 árvores na Ilha Grande, em Angra dos Reis",
-      "imagem": "https://s2-g1.glbimg.com/TAjHoi56SwyXqwh7OO82xCVBDEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/4/78ovmSQ5mOsLGLc5g7sw/whatsapp-image-2026-08-15-at-15.18.55-1-.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: Incêndio em área de vegetação ameaça casas em cidade no Piauí",
-      "imagem": "https://s2-g1.glbimg.com/Dfs1IsbJb2V4uP36aKujw_8a_ic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/2/xP07JCQYaSzvFCAB7IEA/edicao-imagens-g1-5-.png"
-    },
-    {
-      "titulo": "Eleições no DF: José Roberto Arruda, do PSD, declara R$ 830 mil em bens; vice tem R$ 26,3 milhões",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T19:55:15.208Z"
+  "atualizadoEm": "2026-08-15T20:17:27.663Z"
 }

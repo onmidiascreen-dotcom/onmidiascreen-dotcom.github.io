@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Neymar joga? Veja a provável escalação do Santos para enfrentar o Vasco",
+      "imagem": null
+    },
+    {
+      "titulo": "Adolescente é apreendido por vender material de abuso infantil no Discord",
+      "imagem": null
+    },
+    {
+      "titulo": "Entrega de medicamentos por apps facilita acesso, diz especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "Judô brasileiro conquista dois ouros na abertura do Grand Prix de Lima",
+      "imagem": null
+    },
+    {
       "titulo": "Quem é Van de Zandschulp, rival de João Fonseca em Cincinnati",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "Marçal recebe liminar para voltar ao PRTB, mas continua inelegível",
       "imagem": null
-    },
-    {
-      "titulo": "Delegação da Bolívia visita fazendas e indústrias em Mato Grosso",
-      "imagem": null
-    },
-    {
-      "titulo": "Gabriela Pugliesi revela perda gestacional: &#8220;Estava vivendo dia mágico&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Disney lidera corrida entre parques temáticos com maior crescimento em anos",
-      "imagem": null
-    },
-    {
-      "titulo": "Amigo de Virginia, Lucas Guedez, é confirmado na &#8220;Dança dos Famosos&#8221;",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T19:55:13.921Z"
+  "atualizadoEm": "2026-08-15T20:17:27.423Z"
 }
