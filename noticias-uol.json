@@ -1,43 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Suécia reduz maioridade penal para 14 anos",
+      "imagem": null
+    },
+    {
+      "titulo": "Assassinatos de indígenas aumentam durante governo Lula",
+      "imagem": null
+    },
+    {
+      "titulo": "Motociclista é reanimado e hospitalizado em estado grave após forte colisão em Apucarana",
+      "imagem": null
+    },
+    {
+      "titulo": "Solicitações de certidão brasileira para menores nascidos nos EUA disparam",
+      "imagem": null
+    },
+    {
       "titulo": "Região Sul tem alerta de tempestade e acumulado de chuva no fim de semana",
       "imagem": null
     },
     {
-      "titulo": "Seis pessoas a tiros em ataques em Michigan, nos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula e Flávio Bolsonaro prometem mais saúde, mas nenhum diz quem vai pagar a conta",
-      "imagem": null
-    },
-    {
-      "titulo": "Exame de sangue para Alzheimer nos EUA desperta dúvidas e ansiedade; médicos pedem cautela",
-      "imagem": null
-    },
-    {
-      "titulo": "Teatro Cacilda Becker volta à atividade com peça sobre palhaça que teme a morte",
-      "imagem": null
-    },
-    {
-      "titulo": "Buscas por sobreviventes dão lugar à remoção de escombros e acolhimento de desabrigados",
-      "imagem": null
-    },
-    {
-      "titulo": "Com bikes de dois lugares, grupo leva pessoas cegas para pedalar por São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Da amizade à chantagem, como grupos coagem crianças e adolescentes no Discord",
-      "imagem": null
-    },
-    {
-      "titulo": "China escolhe o Brasil para extrair e a Ásia para produzir",
-      "imagem": null
-    },
-    {
-      "titulo": "Temporada europeia se inicia com luta de Mourinho para evitar tri do Barcelona",
+      "titulo": "Seis pessoas morrem em ataques a tiros em Michigan, nos EUA",
       "imagem": null
     },
     {
@@ -59,7 +43,23 @@
     {
       "titulo": "Alta do PIB acima de 2% se torna mais difícil em 2026, dizem economistas",
       "imagem": null
+    },
+    {
+      "titulo": "Gestão Tarcísio inicia demolições para nova sede no centro de SP, e proprietários temem redução de indenizações",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula mira jovens, e campanha deve destacar Janja após esquecer mulheres em convenção",
+      "imagem": null
+    },
+    {
+      "titulo": "TSE teme nova ofensiva contra sistema eleitoral após filiações fraudulentas",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula e Flávio Bolsonaro prometem mais saúde, mas nenhum diz quem vai pagar a conta",
+      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T02:18:28.315Z"
+  "atualizadoEm": "2026-08-15T03:11:31.413Z"
 }

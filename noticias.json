@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Terremoto de magnitude 7,7 deixa ao menos dois mortos na Indonésia",
+      "imagem": null
+    },
+    {
+      "titulo": "Reaproximação com Lula é gesto de &#8220;boa-vontade&#8221; de Alcolumbre, diz Arko",
+      "imagem": null
+    },
+    {
       "titulo": "&#8220;Camp Rock 4&#8221; vai acontecer? Veja o que se sabe",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "“Coração Acelerado”: veja os destaques do que aconteceu no último capítulo",
       "imagem": null
-    },
-    {
-      "titulo": "Congresso aprova projeto que pode ajudar a manter competitividade do etanol",
-      "imagem": null
-    },
-    {
-      "titulo": "Fala de Trump sobre Ormuz se tornar dos EUA não diz nada, diz especialista",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T02:18:28.171Z"
+  "atualizadoEm": "2026-08-15T03:11:31.937Z"
 }
