@@ -1,7 +1,31 @@
 {
   "noticias": [
     {
+      "titulo": "Morre no hospital motociclista de 49 anos vítima de colisão violenta em Apucarana",
+      "imagem": null
+    },
+    {
+      "titulo": "De 'Argh' a 'Zema', um abecedário do pôr do sol do que somos",
+      "imagem": null
+    },
+    {
+      "titulo": "'Sunshine': o luminoso quinto álbum do trio britânico de electrofunk Jungle",
+      "imagem": null
+    },
+    {
+      "titulo": "Imóvel desaba em São Bernardo (SP) e deixa vítima sob os escombros",
+      "imagem": null
+    },
+    {
+      "titulo": "Mulher é presa por tráfico após tentar se esconder da polícia em Califórnia",
+      "imagem": null
+    },
+    {
       "titulo": "'Alerta severo': São Paulo entra em estado de atenção para alagamentos",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio lidera interações nas redes sobre segurança, e Caiado, número de posts",
       "imagem": null
     },
     {
@@ -29,37 +53,13 @@
       "imagem": null
     },
     {
+      "titulo": "Trump ameaça declarar Estreito de Ormuz território dos EUA",
+      "imagem": null
+    },
+    {
       "titulo": "Cármen Lúcia defende sigilo da fonte: liberdade de imprensa 'não está em questão'",
-      "imagem": null
-    },
-    {
-      "titulo": "Fábrica de roupas esportivas é invadida e sofre arrastão com furto de equipamentos",
-      "imagem": null
-    },
-    {
-      "titulo": "Justiça suspende edital da Prefeitura de SP para gestão de escolas por organizações",
-      "imagem": null
-    },
-    {
-      "titulo": "Mulher denuncia assédio sexual no trabalho em Ivaiporã",
-      "imagem": null
-    },
-    {
-      "titulo": "Colisão na PR-090 deixa idosa de 72 anos morta no norte do Paraná",
-      "imagem": null
-    },
-    {
-      "titulo": "Previsão do tempo em Ivaiporã indica sábado de sol e até 26°C",
-      "imagem": null
-    },
-    {
-      "titulo": "Terremoto de magnitude 7,7 atinge a costa da Indonésia e deixa 38 mortos",
-      "imagem": null
-    },
-    {
-      "titulo": "Vídeo mostra impacto de acidente que deixou motociclista em estado grave",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-15T11:16:26.043Z"
+  "atualizadoEm": "2026-08-15T11:43:25.921Z"
 }
