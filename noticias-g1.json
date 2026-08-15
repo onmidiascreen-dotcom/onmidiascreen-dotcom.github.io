@@ -1,6 +1,74 @@
 {
   "noticias": [
     {
+      "titulo": "Nova tecnologia pode ajudar pesquisa por vacina contra sífilis ao superar obstáculo histórico da biologia",
+      "imagem": "https://s2-g1.glbimg.com/e2wPmzoy3R2Hedy2oV1sZYO8zPc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/Z/DdjthQSoirA1X7jBtLhQ/adobestock-876029328.jpeg"
+    },
+    {
+      "titulo": "James Webb revela detalhes inéditos da Nebulosa do Leão, a 5 mil anos-luz da Terra",
+      "imagem": "https://s2-g1.glbimg.com/bTUvYnA4jGz0buZdLe0EKrswwm4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/P3ZMniRBio5tCykwcRuA/imagem-cortada.jpg"
+    },
+    {
+      "titulo": "Livro selecionado para inaugurar biblioteca de Dua Lipa foi censurado em escola de Salvador",
+      "imagem": "https://s2-g1.glbimg.com/jfoL6NL5Fe7CJrIAXk89yyokYHk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/I/X86FvaTkOYNXzDxXKhRQ/olhos-dagua.png"
+    },
+    {
+      "titulo": "O que se sabe sobre o caso da mulher que matou idoso a facada enquanto ele andava de bicicleta em MG",
+      "imagem": "https://s2-g1.glbimg.com/6HsHzzckCsOjVkNZrSnr3JCxZxw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/dE0MQaSbALp9shsw6QNg/whatsapp-image-2026-08-12-at-09.37.43-1-.jpeg"
+    },
+    {
+      "titulo": "Por que Gusttavo Lima virou embaixador da Festa do Peão de Barretos e assume o tri na função",
+      "imagem": "https://s2-g1.glbimg.com/cGYnL0_aDcY1UCQ2oq2to8qq4Jg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/4/7/wnsMllSnA18Dr2PnkhXQ/dsc-5403.jpg"
+    },
+    {
+      "titulo": "Aulas de universidades públicas são abertas ao público? Entenda o que dizem as regras",
+      "imagem": "https://s2-g1.glbimg.com/RM6vktfVUm8TzNTTAdoL81dAqIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/G/b/0EVJCeQnqJ9dkQXWj27w/16720733420-3958eed9b9-h.jpg"
+    },
+    {
+      "titulo": "Grávida de 8 meses morre nos braços da mãe após atendimento em Santa Casa de MG",
+      "imagem": "https://s2-g1.glbimg.com/Z85tZjh0ApCncZEFuVvaEFbqow4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/W/Myc0LqQsWBNhAgIa6Ebg/design-sem-nome.png"
+    },
+    {
+      "titulo": "Promotor e juiz do Acre são alvos de ataques homofóbicos ao anunciarem casamento: 'Manifestações de ódio'",
+      "imagem": "https://s2-g1.glbimg.com/SF-JY7z_CVw5y9JO_eB77oSWZbY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/W/ZhkKwGRVaSLT67QYNV5A/midia-de-distribuicao-g1-10-.jpg"
+    },
+    {
+      "titulo": "Mulher de 38 anos que fingiu ter 12 e foi 'adotada' em SC passará por 1ª audiência; entenda passo até o julgamento",
+      "imagem": "https://s2-g1.glbimg.com/Uiaql1kvvei9mUrKDDIdVF7-Who=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/2/BQ1eCuTAaCArNcrCMkxw/captura-de-tela-2026-06-05-075147.png"
+    },
+    {
+      "titulo": "Criado entre Tom Jobim, João Gilberto e Dorival, Danilo Caymmi encontrou a própria voz: 'Ousando você atinge as coisas'",
+      "imagem": "https://s2-g1.glbimg.com/hF2lr_zlqPvZSs5G9zt3AY2Fd-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/R/jj2csRQASTb0oxSfLRmg/danilo-caymmi.jpeg"
+    },
+    {
+      "titulo": "Parque Zoobotânico do Museu Goeldi faz 131 anos com trilhas gratuitas em Belém",
+      "imagem": "https://s2-g1.glbimg.com/8g-RZw3e9QtKBF1tyUkoKYh2AJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/B0OrjXSYOaHetjpaQKRA/image-2026-08-14t203404.304.png"
+    },
+    {
+      "titulo": "Japão aposta em coletes com ventiladores para enfrentar o calor extremo; veja VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/a6OBz-bJzY72N26nj8sk5Y7MpC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/3/6rFzBOSpitJ0wi8bsJsw/blurred-frame.jpg"
+    },
+    {
+      "titulo": "'CALMA': cidade do interior de SP adota sinalização educativa após série de acidentes em rodovia",
+      "imagem": "https://s2-g1.glbimg.com/mULvCgAwWrPNlhI5Rr2SQDO2TDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/Y/NpwHZIRfOrmyrOVWyL5w/design-sem-nome-2026-08-14t205855.352.jpg"
+    },
+    {
+      "titulo": "Da direita à esquerda: como oposição se articula para enfrentar Riedel em MS",
+      "imagem": "https://s2-g1.glbimg.com/FUpDI5YU8CEirTHOLllsAkBGsE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/A/X3a3TgS2KibxVNpCXmJA/videogovernoparagifatualizado-ezgif.com-video-to-gif-converter.gif"
+    },
+    {
+      "titulo": "China tenta reduzir dependência de alimentos importados; o que isso significa para o agro brasileiro",
+      "imagem": "https://s2-g1.glbimg.com/paNBHQ5t8cPrqQMqfej9aBUBMDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/j/wIugndRF2Gj6Sv4VFI7g/54516546006-5c3ccfd9a2-k.jpg"
+    },
+    {
+      "titulo": "Médica americana que matou seus três filhos pesquisou antes sobre alucinações, psicose e efeitos de remédios",
+      "imagem": "https://s2-g1.glbimg.com/GJQjdTGCKoRGnRYOCYnccBVshwY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/R/QtanbzSOO2Gkr6I6iXpQ/ap26225622887558.jpg"
+    },
+    {
+      "titulo": "Cursos grátis de capacitação de jovens na Grande BH: veja como se inscrever",
+      "imagem": "https://s2-g1.glbimg.com/OyloeIjHhnWvnmTj2V8xmqCET9U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/r/P3fd8tTzeP50CPmz1zDw/role-pgm265-jovens-protagonistas-bl1-revisao-frame-39202.jpeg"
+    },
+    {
       "titulo": "TV Globinho de volta: cinco momentos inesquecíveis e uma polêmica",
       "imagem": "https://s2-g1.glbimg.com/E8NgCoTG7EiFsYWJlRUDEiajLWA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/I/SYppGIR5em4AHe7HMTgA/tv-globinho.png"
     },
@@ -41,7 +109,7 @@
       "imagem": "https://s2-g1.glbimg.com/8Iph6g4sZlkNngianoAbIFDO5PE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/V/IC6K7sQU2VNEPcErD13Q/thumbnail-frame1saoleopoldo.jpg"
     },
     {
-      "titulo": "Preços com ou sem imposto: reforma tributária deixou dúvida sobre como anunciar valor de produtos",
+      "titulo": "Preços com ou sem imposto: reforma tributária deixa dúvida sobre como anunciar valor de produtos",
       "imagem": "https://s2-g1.glbimg.com/8hlWIkl99rWrtrUfKAeoSIHpVrY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/f/f/gqREVhSL6kMXCIKTDMVg/eletros.jpeg"
     },
     {
@@ -51,75 +119,7 @@
     {
       "titulo": "Beber, fumar, usar pijama, fazer tarefas domésticas e mais: o que pode dar problema no home office?",
       "imagem": "https://s2-g1.glbimg.com/IA_6YHfou9TjaGEfX_dX-ILD6QQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/Q/KHToW6RdqrPG7boe3gCw/pexels-freestockpro-12517509.jpg"
-    },
-    {
-      "titulo": "Sistema Paraopeba, que abastece a Grande BH, opera com 75,5% da capacidade",
-      "imagem": "https://s2-g1.glbimg.com/kCU0VVovW5JClxiqamKxaDYDTWc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/G/i/VwECokQMWAcHztx6dc2Q/nivel-reservatorios.jpg"
-    },
-    {
-      "titulo": "Entenda por que o PT não terá candidato a governador no RS pela primeira vez na história",
-      "imagem": "https://s2-g1.glbimg.com/6H4tL_P7s2l8-YXjYqzkw4ntwaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/N/VmaEJvQv6LiBl3nAmm6g/g1-64-.jpg"
-    },
-    {
-      "titulo": "De estrela de Cambridge a acusado de mentir e plagiar: entenda caso de professor inglês negro achado morto",
-      "imagem": "https://s2-g1.glbimg.com/bk2oR6NNkCFhaeOpXpNE97gLN_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/j/HmBJBHQEKAK7JAXUyWOA/ap26218282881622.jpg"
-    },
-    {
-      "titulo": "Representatividade: irmãos de MG vencem preconceito e conquistam mercado com café especial LGBT",
-      "imagem": "https://s2-g1.glbimg.com/nAvCNTIoA3-H3QXROU8xS-eLx5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/s/g1goiETjK6WtadbHnUyA/irmaos-nhai.jpeg"
-    },
-    {
-      "titulo": "‘Amores vaporosos’: excesso de opções e falta de tempo desafiam relacionamentos em São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/cjS3p-DqCzIRMJP2Ena6-P9mC_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/P/9xCr9zTt6qMnxFvL4f9g/bloco-1-novo-frame-at-4m38s.jpg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens ao longo do dia; noite de céu limpo",
-      "imagem": "https://s2-g1.glbimg.com/WjuPnOPfexJJkMzXnUyYoP1s798=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/xCfrHmT8iGlfFXAJaUAA/previsao-tempo-bras-lia-20260815-030611.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "imagem": "https://s2-g1.glbimg.com/7mzfdw5P-RAs-aWBi2sh2dvj5pM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/0/Fpr4XrSyeWOywmCBPlAg/previsao-tempo-s-o-paulo-20260815-030552.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/0jTkSTreM2JrsmmmUW3wT1o9tJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/j/fCBZVRQ3eoQiXChCBwQg/previsao-tempo-s-o-bernardo-do-campo-20260815-030534.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/UgD7Aut2wS2QopmVFWz9T8_VFDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Q/So3UMxRcm5z0l104ZKlg/previsao-tempo-santo-andr-20260815-030509.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Osasco (SP): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/A3ucEwB8mWfapiQhn363oUZ3Lx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/b/Zj6qcQR3ioFO4jYol3Mg/previsao-tempo-osasco-20260815-030452.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/hEcfzfZbH56eTZwgaX9jU19ENC0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/y/6TBc5cTEqntFd1RNFptg/previsao-tempo-guarulhos-20260815-030436.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/Gr_73fLeluBIHgIdGz2urhq1EzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/0/g9H7IvRBe32OJuA8yeRg/previsao-tempo-s-o-gon-alo-20260815-030420.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/ftqwgU2uyd7fAmszb8mozpt9-Fs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/9/gycdgxT3utppRyidcBrw/previsao-tempo-rio-de-janeiro-20260815-030403.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/0WBHpbJu7CKQ1r3Kf32FHNiq7Vo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/j/ttbHQlQBmDxyfMWInaoQ/previsao-tempo-nova-igua-u-20260815-030344.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "imagem": "https://s2-g1.glbimg.com/sWU1Od6mBZzV_9biEsVE_xM7pVA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/V0yP64SCGLiGk5ggpauA/previsao-tempo-niter-i-20260815-030328.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/HaOgZXVMfmTO_HlKhZAQNrF7loc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/V/uOqtD2Sf2iJt2OdNXz9Q/previsao-tempo-duque-de-caxias-20260815-030311.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/kAkn53MtiZ49qc2AGgxPt69qy28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/p/SkTa1SSA6yG2bYul52QQ/previsao-tempo-sete-lagoas-20260815-030255.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-15T07:51:33.140Z"
+  "atualizadoEm": "2026-08-15T08:22:41.088Z"
 }
