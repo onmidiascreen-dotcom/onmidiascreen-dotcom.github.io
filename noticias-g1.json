@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Bienal do Livro de Brasília começa nesta segunda com entrada gratuita; veja programação",
+      "imagem": "https://s2-g1.glbimg.com/X2T4XS_A1FKZnFBJSuP7KRDQ3qI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/W/v/O4mrHwSj61IBZ6y2ANxg/foto-1-palestra-djamila-mundo-unifor-2019.jpg"
+    },
+    {
+      "titulo": "De servidora pública a dona de fábrica: a história da empreendedora do melhor chocolate do Brasil",
+      "imagem": "https://s2-g1.glbimg.com/Qd4B0nwIx4K-1DheR-p6p42NB6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/p/Gty8yBSNuXTmKdyPH1VA/captura-de-tela-2026-07-06-113018.png"
+    },
+    {
+      "titulo": "Festival de Cinema de Brasília: após atraso e risco de cancelamento, governo paga primeira parcela à organização do evento",
+      "imagem": "https://s2-g1.glbimg.com/UbeduxsFPvCGLc7ylfpyV3E2rzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/X/2alnF9QmAV4HLK61rApw/crd-coletiva-cine-00002-frame-31098.jpeg"
+    },
+    {
+      "titulo": "'Traficante novo na cidade': VÍDEOS mostram falas sobre aparência e origem de juiz indígena que diz ser vítima de perseguição",
+      "imagem": "https://s2-g1.glbimg.com/ttYXi_L7c1-fZbjXHQHIulTHUOc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/5/fTBZyGQCA8mpIoIZ0wBw/53817594051-78c202acad-k.jpg"
+    },
+    {
+      "titulo": "Merendeira é aplaudida por 'corredor' de alunos e colegas no último dia de trabalho antes de se aposentar; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/ycnWKga9yKIinaaMxhJmKqXQYqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/e/DC7pI0SLK5Hn9Uy2nrHg/homenagem-dirce-1.jpg"
+    },
+    {
+      "titulo": "'Eu atirei nele e ele morreu': o que Luigi Mangione confessou em audiência e o que acontece a partir de agora",
+      "imagem": "https://s2-g1.glbimg.com/c_1uwP-tTkOEQZMk5jpKlbi-DnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/t/pgwfgmQhWkhlO1UbbpgA/imagem-1200x800-4-.jpg"
+    },
+    {
       "titulo": "Mais de 50 contas ligadas a golpe de R$ 37 milhões são bloqueadas para tentar ressarcir idosa que foi vítima",
       "imagem": "https://s2-g1.glbimg.com/QpJOpphvGwcKMveRqWLF-aMiPu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/U/7HmfQfQiAEPL7gQAaekQ/g1-27-.jpg"
     },
@@ -95,31 +119,7 @@
     {
       "titulo": "Justiça marca audiência de acusado de matar homem a facadas em Belém",
       "imagem": "https://s2-g1.glbimg.com/SKwlJtf3Db7sZCbO0Gqy2AaydHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Q/Kr07SITmSLxlWi7GVUSQ/image-2026-08-14t220059.681.png"
-    },
-    {
-      "titulo": "Quaest: no 2º turno, Lula tem 43%; Flávio Bolsonaro, 40%",
-      "imagem": "https://s2-g1.glbimg.com/VEASi8GFpLVh2IcGVr6tYYKlXXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/D/yb9QlBS7Gayl2JReRTQw/globo-canal-4-20260814-2000-frame-100265.jpeg"
-    },
-    {
-      "titulo": "Homem invade loja de materiais de construção e executa funcionário a tiros em MS",
-      "imagem": "https://s2-g1.glbimg.com/jve-eOSLk_wMAwQVaQ8u8DokbLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/V/SX0AiQQk6SzGWAjxXswg/1200-x-800-40-.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 14 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/0tcFtTYgnB5n5mx6vb1ZOzw8_qI=/s01.video.glbimg.com/deo/vi/60/09/14870960"
-    },
-    {
-      "titulo": "BDXP 2026 fortalece o ecossistema de Inteligência Artificial em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/Ud_aprRiZiaAjb_kWnjTBHDO_X4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/Sq1omEQJmzzcORqolueg/foto-4-1-.jpg"
-    },
-    {
-      "titulo": "VÍDEO mostra momento em que torcedores fazem gesto racista contra Hugo Souza",
-      "imagem": "https://s2-g1.glbimg.com/35Zd-O-WVpGPYJSOQyTPuX28Dfg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/V/6UYvcSQjmDNgJApoJGLw/globo-canal-4-20260814-2000-frame-138073.jpeg"
-    },
-    {
-      "titulo": "Super Sete hoje: resultado do concurso 886 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/S6heRWLl0V7tBFFFhsqqWLVq8Os=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/t/gtT0XATUynJmmaWlBMAQ/supersete-886-wjdml.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-15T04:56:20.867Z"
+  "atualizadoEm": "2026-08-15T05:23:13.184Z"
 }
