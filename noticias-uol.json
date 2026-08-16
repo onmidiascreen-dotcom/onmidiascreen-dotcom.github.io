@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Advogado de Heleno acusado de agredir ex grávida renuncia à candidatura",
+      "imagem": null
+    },
+    {
+      "titulo": "Irã executa homem condenado por atropelar policiais durante protestos em janeiro",
+      "imagem": null
+    },
+    {
+      "titulo": "Defesa Civil envia 17,4 mil telhas para municípios afetados por granizo no Paraná",
+      "imagem": null
+    },
+    {
       "titulo": "Lula 'volta ao passado', aposta em mulheres e emoção em 1º ato de campanha",
       "imagem": null
     },
@@ -47,19 +59,7 @@
     {
       "titulo": "Mega-sena acumula para R$ 45 milhões; confira os números",
       "imagem": null
-    },
-    {
-      "titulo": "Tarcísio relembra vitória na abertura da campanha e diz: 'Osasco precisa de mais atenção'",
-      "imagem": null
-    },
-    {
-      "titulo": "Sobe para 53 o número de mortos após terremoto na Indonésia",
-      "imagem": null
-    },
-    {
-      "titulo": "Janja dá 'guinada raiz' e faz o impensável: homenageia Marisa Letícia",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T15:44:38.529Z"
+  "atualizadoEm": "2026-08-16T15:59:47.152Z"
 }

@@ -1,14 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Virada em &#8220;Quem Ama Cuida&#8221;: como Adriana achará fortuna deixada por Arthur",
-      "imagem": null
-    },
-    {
-      "titulo": "Quatro obras de Antonello da Messina são roubadas na Itália",
-      "imagem": null
-    },
-    {
       "titulo": "Veja depoimento de mulher agredida por empresário em São Paulo",
       "imagem": null
     },
@@ -119,7 +111,15 @@
     {
       "titulo": "Viih Tube usa dois vestidos em casamento; um deles tem detalhe fofo",
       "imagem": null
+    },
+    {
+      "titulo": "Candidatos ao governo de SP iniciam campanha neste domingo; veja agendas",
+      "imagem": null
+    },
+    {
+      "titulo": "Anitta revela como &#8220;Altas Horas&#8221; a ajudou a encontrar seu irmão mais velho",
+      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T15:44:38.349Z"
+  "atualizadoEm": "2026-08-16T15:59:46.811Z"
 }
