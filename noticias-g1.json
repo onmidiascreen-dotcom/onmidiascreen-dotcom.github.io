@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "Mega-Sena acumula e aposta de Andradas acerta a quina; veja cidades do Sul de Minas premiadas",
+      "imagem": "https://s2-g1.glbimg.com/ivNgWH30Of_3BFE2V34YvPsErcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/m/rlAxrcRQymsifAesUrLA/captura-de-tela-2026-08-16-110228.png"
+    },
+    {
+      "titulo": "Kiko Caputo inaugura comitê e encontra apoiadores em início de campanha ao governo do DF",
+      "imagem": "https://s2-g1.glbimg.com/OsCQTBGGDU76H10LWuUF31vaW_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/x/eEwNSBTgWVVDPefZ9Kww/kiko.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: veja a agenda dos candidatos ao Governo de Alagoas neste domingo (16)",
+      "imagem": "https://s2-g1.glbimg.com/Zsd1SSDlBASKeRXOjaRXLKMS2gY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/w/E3VVBjQ5ABe07D09B2Gw/whatsapp-image-2026-08-16-at-12.23.44.jpeg"
+    },
+    {
+      "titulo": "Isso é Fantástico — Os impactos da Grande Seca na História do Brasil",
+      "imagem": "https://s2-g1.glbimg.com/yd7zw9SGY0CVEi6VXfuGfpzWqcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/O/T7fn2wRjWpyFHBk9vQRQ/fant-el-nino-campos-ceara-jn-frame-3891.jpeg"
+    },
+    {
+      "titulo": "Homem é preso com cabo de guarda-chuva, faca e garrafa de vidro após matar aves em praça no Litoral Norte do RS",
+      "imagem": "https://s2-g1.glbimg.com/wQDwaZ63Nm7dh_FGNcNd5Jsuq78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/K/Rg0uzZT9irT9hkSJiEtw/morte-quero-quero-bdrg-1608-1-.jpeg"
+    },
+    {
+      "titulo": "Suspeito de matar policial militar no Lago Corumbá é preso em Goiás",
+      "imagem": "https://s2-g1.glbimg.com/PIZ0I9Gsiu4mLCCfTEYsvnDiOsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/g/KizszoTBaFGIGAHrLCzQ/image.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Gretchen cancela show logo após subir ao palco em Vitória: 'Em respeito a vocês'",
+      "imagem": "https://s2-g1.glbimg.com/rCFfbfNJbalhoIo9UFILGzZf9_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/i/3uXp4NQ9ALxg7xGghEZQ/thumb-fotos-44-.jpg"
+    },
+    {
+      "titulo": "Homem é morto com 5 tiros nas costas durante competição de cavalos em MT",
+      "imagem": "https://s2-g1.glbimg.com/Zuyr8R4RzN0EbmLoPhmqXWreXkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/z/72zM7RTYqXKp98ebcNBw/videos-g1-19-.jpg"
+    },
+    {
+      "titulo": "Centenas de imigrantes protestam em Ceuta e pedem asilo",
+      "imagem": "https://s2-g1.glbimg.com/pm8OQ5jQziyidwqStz6ksfjRVWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/J/rA4ZZgQBWFoxU0AfVKsw/2026-08-16t150528z-1610338803-rc2bzmavb96y-rtrmadp-3-migration-europe-spain-ceuta.jpg"
+    },
+    {
       "titulo": "Corrida em celebração ao aniversário de Presidente Prudente está com inscrições abertas; saiba como participar",
       "imagem": "https://s2-g1.glbimg.com/K5bnD-rkQZnTFNT2xpgq5mJ2RZI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/C/5UhIoSQQSc0ZoEZFOmdQ/1757966217.jpg"
     },
@@ -10,7 +46,7 @@
     },
     {
       "titulo": "Renan Santos inicia campanha à Presidência em São Paulo",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/_11j8H4fHjSX8clpNtA5VPtkI_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/8/mzsEooQRKGGrilBSBMCw/captura-de-tela-2026-08-16-153247.png"
     },
     {
       "titulo": "Mulher morre após companheiro incendiar casa e deixar ela presa em Cacoal, RO",
@@ -25,7 +61,7 @@
       "imagem": "https://s2-g1.glbimg.com/UpD1StHVnjGW11YiG9HMfm2k11k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/P/Ka1TdtTH2GHgshW8a47A/vitimasfatais-2-.png"
     },
     {
-      "titulo": "Em primeiro discurso de campanha, Flávio Bolsonaro promete ‘tesouraço’, homenageia Jair e critica Lula: ‘caloteiro da esperança’",
+      "titulo": "Em 1º discurso de campanha, Flávio Bolsonaro promete ‘tesouraço’, homenageia Jair e critica Lula: ‘Caloteiro da esperança’",
       "imagem": "https://s2-g1.glbimg.com/_NcrQROvwf7MtFa6aHvYpwxzzqs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/l/034Es6QGa8EuQwF0Yf4A/2026-08-16t150838z-929700340-rc2qzma8i2tx-rtrmadp-3-brazil-election-bolsonaro.jpg"
     },
     {
@@ -83,43 +119,7 @@
     {
       "titulo": "Mulher é vítima de feminicídio dentro de supermercado na Zona Norte de SP",
       "imagem": "https://s2-g1.glbimg.com/vz91xI_VSldezhgLOBnmFwmFj2A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/V/o2vl1CSl24E3n3t5tZEA/feminicidio-sp.jpg"
-    },
-    {
-      "titulo": "Índio da Cuíca lança em setembro o álbum 'Zing zing', com Siba, Ana Frango Elétrico e samba de Juçara Marçal",
-      "imagem": "https://s2-g1.glbimg.com/YCuAc3_TGMZgNJip2Ljr0it6O0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/P/qTuX7bTiGSQCznT0BNsA/indiodacuicafoto-rafael-meliga.jpg"
-    },
-    {
-      "titulo": "Governo dos EUA discute novas sanções contra Alexandre de Moraes, diz jornal",
-      "imagem": "https://s2-g1.glbimg.com/MRreBizXUV_LFbm0MI9hYDcsItE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/3/WP35AXQoyABqb7pnl3Gg/55339513099-92223a623a-4k.jpg"
-    },
-    {
-      "titulo": "Buscas por menino de 8 anos desaparecido em rio são encerradas no Acre",
-      "imagem": "https://s2-g1.glbimg.com/5Cqq1ZI4LKLqIEnfTJzJYm6xCGo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/A/SV1tRbRHaUbNWZ5oxhag/midia-de-distribuicao-g1-18-.png"
-    },
-    {
-      "titulo": "Patrimônio de candidatos ao Senado pela Paraíba vai de R$ 900 a R$ 1,9 milhão",
-      "imagem": "https://s2-g1.glbimg.com/uH_ZTVEkEhcIUvRduwR4Xo5ZZJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/B/O/KX0brYSbO6jbmz6mMiSw/whatsapp-image-2024-10-15-at-16.03.16.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: Motorista sem habilitação fica ferido após capotar carro na entrada de fazenda em MG",
-      "imagem": "https://s2-g1.glbimg.com/iIJMiASpm-VdSvmU1BSqcJyvGrM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/e/QCQdGiQrCoBRqyxdXMBw/montagemcapota.jpg"
-    },
-    {
-      "titulo": "Criança desaparecida é encontrada morta em tanque de granja em Goiás",
-      "imagem": "https://s2-g1.glbimg.com/DcBDUCsRPbBGAhFmyac5Ib0u59w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/5/0lAASCT7GRyhhrMmhG7A/whatsapp-image-2026-08-16-at-14.34.26.jpeg"
-    },
-    {
-      "titulo": "Jovem com mandado de prisão em aberto por tráfico de drogas é preso em Barra do Piraí",
-      "imagem": "https://s2-g1.glbimg.com/BODSrvV8FrabYdHLXbMfsYkxCJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/x/9/FmGv6KTVqlB9iRJmb6Mw/whatsapp-image-2023-03-02-at-08.41.30.jpeg"
-    },
-    {
-      "titulo": "Mulher é achada morta com sinais de estrangulamento dentro de casa em Criciúma",
-      "imagem": "https://s2-g1.glbimg.com/Q3oDIyEByTpwAP7zPPl7SAir7yI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/w/G/XDK3AfTaOQpBvaSTIb1w/whatsapp-image-2023-01-25-at-10.10.11.jpeg"
-    },
-    {
-      "titulo": "Livros de Paulo Setúbal ganham versões em braille e audiolivro em Tatuí",
-      "imagem": "https://s2-g1.glbimg.com/kLt1YtvjWej-IQVrCecRyKDIvTs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/r/R3OlWaQuqG7OBBXX1vzw/m-271-0-1-07082026153855-vale-este.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T18:32:48.810Z"
+  "atualizadoEm": "2026-08-16T19:01:31.061Z"
 }
