@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "A estupidificação da espécie",
+      "titulo": "PF apreende no Paraguai avião de Vorcaro que continuou voando mesmo após prisão de ex-banqueiro",
+      "imagem": null
+    },
+    {
+      "titulo": "Filho de policial é morto após pai reagir a tentativa de roubo de moto",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula decide não ir a debate da Band e alega desigualdade de condições",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro diz ter sido alvo de mais de 1,8 mil ameaças de morte",
       "imagem": null
     },
     {
@@ -9,7 +21,7 @@
       "imagem": null
     },
     {
-      "titulo": "Flávio Bolsonaro diz ter sido alvo de mais de 1,8 mil ameaças de morte",
+      "titulo": "A estupidificação da espécie",
       "imagem": null
     },
     {
@@ -47,19 +59,7 @@
     {
       "titulo": "IA vai inundar o serviço público como um tsunami",
       "imagem": null
-    },
-    {
-      "titulo": "Homem usa faca, garrafa de vidro e cabo de guarda-chuva para matar aves em praça",
-      "imagem": null
-    },
-    {
-      "titulo": "Gestante está entre os 10 mortos no acidente com ônibus no Rio de Janeiro",
-      "imagem": null
-    },
-    {
-      "titulo": "Por boa relação com Kim, Trump diz que reduzirá os exercícios militares com a Coreia do Sul",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T23:15:26.564Z"
+  "atualizadoEm": "2026-08-16T23:43:06.107Z"
 }
