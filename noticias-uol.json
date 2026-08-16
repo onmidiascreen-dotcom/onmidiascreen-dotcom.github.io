@@ -1,7 +1,31 @@
 {
   "noticias": [
     {
+      "titulo": "Chuvas matam 9 no Japão e inundam mais de mil casas",
+      "imagem": null
+    },
+    {
+      "titulo": "Denúncia anônima ajuda Polícia Militar a recuperar carro furtado em Arapongas",
+      "imagem": null
+    },
+    {
+      "titulo": "Previsão do tempo em Ivaiporã neste domingo (16)",
+      "imagem": null
+    },
+    {
+      "titulo": "Motociclista que morreu após grave acidente em Apucarana será sepultado neste domingo",
+      "imagem": null
+    },
+    {
+      "titulo": "Caça espanhol da Otan derruba drone que entrou no espaço aéreo da Romênia",
+      "imagem": null
+    },
+    {
       "titulo": "Ucrânia lança quase 900 drones contra a Rússia, que revida; seis morreram",
+      "imagem": null
+    },
+    {
+      "titulo": "Campanha eleitoral nas ruas e propaganda virtual começam neste domingo",
       "imagem": null
     },
     {
@@ -35,31 +59,7 @@
     {
       "titulo": "Em campanha pela reeleição, Lula quer trazer de volta os trabalhadores ao Partido dos Trabalhadores",
       "imagem": null
-    },
-    {
-      "titulo": "Indonésia decreta 2 semanas de estado de emergência após terremoto que deixou milhares de desalojados",
-      "imagem": null
-    },
-    {
-      "titulo": "Países bálticos viram \"paraíso red pill\" para brasileiros",
-      "imagem": null
-    },
-    {
-      "titulo": "Clubes europeus movimentam bilhões na janela de transferência para nova temporada",
-      "imagem": null
-    },
-    {
-      "titulo": "Petrobras prevê gastar R$ 3,3 bi em poços na Foz do Amazonas",
-      "imagem": null
-    },
-    {
-      "titulo": "Confira os falecimentos deste domingo (16) em Apucarana",
-      "imagem": null
-    },
-    {
-      "titulo": "Signos: confira seu horóscopo deste domingo (16)",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T11:43:27.192Z"
+  "atualizadoEm": "2026-08-16T11:58:17.254Z"
 }
