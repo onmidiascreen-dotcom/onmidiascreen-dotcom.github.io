@@ -1,6 +1,62 @@
 {
   "noticias": [
     {
+      "titulo": "Defesa Civil recomenda demolição de madeireira e três comércios atingidos por incêndio em Campinas",
+      "imagem": "https://s2-g1.glbimg.com/7l6DSNGeGTYVDQMpDvWV-0f-Ies=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/M/DrkrCpSNW3AT5NwXbEVQ/capas-ana.jpg"
+    },
+    {
+      "titulo": "Candidatos a governador da Bahia começam campanhas eleitorais no estado",
+      "imagem": "https://s2-g1.glbimg.com/7jwxvqjJ4VKJEGaeEEzYlLB0MxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/m/XemjHTR9aNrS48wS7G8Q/candidatos-ao-governo-da-bahia.jpg"
+    },
+    {
+      "titulo": "Haddad lança campanha ao governo de SP em comício de Lula em São Bernardo do Campo",
+      "imagem": "https://s2-g1.glbimg.com/5sIyxmIZpPUNUNJQpJgv_mANl_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/v/7YRAKTRfyUCtxMhTtgQg/fant-geral-fant-lula-20260816-0846-frame-299597.jpeg"
+    },
+    {
+      "titulo": "Leandro Grass abre campanha ao governo do DF com comício em São Sebastião",
+      "imagem": "https://s2-g1.glbimg.com/bSs0XX8UbG1tHOX5IcgDaChFFtk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/d/VrTehaTXSUnZ14Z8ReBA/whatsapp-image-2026-08-16-at-12.33.32.jpeg"
+    },
+    {
+      "titulo": "Corpo de empresário de 32 anos que morreu após doença rara chega ao AC; enterro ocorre neste domingo (16)",
+      "imagem": "https://s2-g1.glbimg.com/7HXAx-cVPWfXgEkY_40drlXsGCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/n/VsMLBKRz2eZbSZGnqkhg/copia-de-midia-de-distribuicao-g1-7-.png"
+    },
+    {
+      "titulo": "Homem é preso com 3,6 mil cigarros eletrônicos em caminhonete transportada por caminhão-cegonha no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/xCvEjZfvaQ9DXywUlyZakxhMyw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/M/NKL4KkReCRR9apHl9smg/apreensao-12-.png"
+    },
+    {
+      "titulo": "Duas pessoas sofrem ferimentos leves após carro bater contra mureta central da Via Dutra em Jacareí",
+      "imagem": "https://s2-g1.glbimg.com/DORBtL4fDbCqzEFfV2CT0XeZX5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Q/q5G5eNRS6RC2rdoVhRdQ/acidente.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Estação Agrícola, 16 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/2i1WGPZgiqkV6LHhBBuhG_lHiyk=/s01.video.glbimg.com/deo/vi/84/25/14872584"
+    },
+    {
+      "titulo": "Aposta do Paraná na Mega-Sena acerta cinco números e leva mais de R$ 260 mil; veja a cidade",
+      "imagem": "https://s2-g1.glbimg.com/uWWg9r_YnVxE7_QFtTBUrk-gadY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/F/07GIU5TCe25kklNrTGXg/mega-sena-1200.webp"
+    },
+    {
+      "titulo": "Filho de policial civil morre baleado durante tentativa de roubo de moto na Zona Norte de SP",
+      "imagem": "https://s2-g1.glbimg.com/F0invi6uE6YIQHyimAzKX9cJNno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/1/FHUFzzTzKJDV22Y2XXyA/morte-zona-norte-sp.jpg"
+    },
+    {
+      "titulo": "Mulher é estrangulada pelo ex-companheiro em Montes Claros e Polícia Civil apura feminicídio",
+      "imagem": "https://s2-g1.glbimg.com/L6OeF8cOm_y0M0VeRBCtyEHBQw4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/l/GPhYc8QAGLOboqvTeHLQ/vitimasfatais-1-.png"
+    },
+    {
+      "titulo": "Incêndio destrói igreja da Assembleia de Deus em avenida do Recife; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/--ouV_En4TUikRLumD5UdSoMp0U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/T/Ag3FegSgy6WJt1qzUffA/igreja-incendio.jpg"
+    },
+    {
+      "titulo": "PSB destitui direção em RO e cancela candidaturas",
+      "imagem": "https://s2-g1.glbimg.com/u46pfmw6girfY2HxMXSQKWU2Xqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/0VpFxcQBSS3eWOQswSmQ/whatsapp-image-2026-07-20-at-20.06.47.jpeg"
+    },
+    {
+      "titulo": "Arquiteto vira designer de sapatos por acaso e tem criações usadas por Madonna e Sabrina Sato",
+      "imagem": "https://s2-g1.glbimg.com/6LyrXa4-RnfxKNtPeekQZsf7Hcg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/A/OwI90lQxCF1RkOU2Ld5g/fernando-pires-2-.jpg"
+    },
+    {
       "titulo": "Mulher morre após moto ser atingida por carro no interior do Tocantins",
       "imagem": "https://s2-g1.glbimg.com/C-9W0p5IPVcEnaIDCwPalaY2S5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Q/CTJS3LRtCBMuPEHvwCMQ/foto-e-montagem-vertical-86-.jpg"
     },
@@ -49,6 +105,10 @@
       "imagem": "https://s2-g1.glbimg.com/HzhHHAYU9h2dd5DOz18hFVWsZKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/r/JS0LueTHeCvURvneMbHQ/whatsapp-image-2026-08-16-at-12.47.39-2-.jpeg"
     },
     {
+      "titulo": "Em primeiro discurso de campanha, Lula exalta trajetória pessoal e promete combate ao crime organizado",
+      "imagem": "https://s2-g1.glbimg.com/EZOoFFN680m8Zaj_s3C1DfHWmPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/U/ToR7LBQoGYsF8gKY8HBw/captura-de-tela-2026-08-16-115551.png"
+    },
+    {
       "titulo": "O que está levando cada vez mais homens a fazer preenchimento no pênis, apesar dos riscos",
       "imagem": "https://s2-g1.glbimg.com/KhAO6eKHsjQ08ljEpTOQOZVhdKg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/y/MkqtAQSMmcs69CBN7IAA/953e6ee0-877b-11f1-a7ab-8b30adf0800a.jpg.webp"
     },
@@ -59,67 +119,7 @@
     {
       "titulo": "Búfalo que era 'amigo' de pecuarista participa de cortejo fúnebre no RS",
       "imagem": "https://s2-g1.glbimg.com/AazEhxs6tP3czgUn0i2jcWMDIO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/q/Si3W93QCy8zXLaABeq7w/g1-30-.jpg"
-    },
-    {
-      "titulo": "Dono de casa de eventos é preso suspeito de corrupção de menores e poluição sonora em Teresina",
-      "imagem": "https://s2-g1.glbimg.com/KH5dcXyL8XUcJrjSemKpHQHQUyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/H/WSwIL9QwAnKdnYRPNe5A/edicao-imagens-g1-2026-08-16t122802.314.png"
-    },
-    {
-      "titulo": "De nenhum bem a R$ 2,2 milhões: veja o patrimônio dos candidatos ao governo de Alagoas declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/Zsd1SSDlBASKeRXOjaRXLKMS2gY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/w/E3VVBjQ5ABe07D09B2Gw/whatsapp-image-2026-08-16-at-12.23.44.jpeg"
-    },
-    {
-      "titulo": "Ronaldo Mansur inicia campanha eleitoral com panfletagem em bairro de Salvador",
-      "imagem": "https://s2-g1.glbimg.com/vMLFRawZhpH3ouLIjQTKzv6HqDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/p/8nc1KORi2B9yImiver3g/ronaldo-mansur-inicio-de-campanha.jpg"
-    },
-    {
-      "titulo": "Irã planeja criminalizar entrevistas a veículos de mídia considerados hostis ao regime",
-      "imagem": "https://s2-g1.glbimg.com/jyUmVA0ay_QB8n8dE__xV7xA59Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Q/SMVSQ0QhW2yGaLZvqQzA/fa33b480-94b5-11f1-a7ab-8b30adf0800a.jpg.webp"
-    },
-    {
-      "titulo": "Bairros de Manaus e Zona Rural ficam sem energia nesta segunda-feira; veja locais e horários",
-      "imagem": "https://s2-g1.glbimg.com/wGVfvvr1SFR62iCCeuCYdkVSa2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/i/CsxYg8TGWMFpR8rTDyhQ/whatsapp-image-2020-03-25-at-11.30.22-1-.webp"
-    },
-    {
-      "titulo": "Adriano Trajano, candidato a senador pela Paraíba, declara patrimônio de R$ 900 ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/7BBnoLc7hnRE1xLQNmStvIs2kLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/3/q/H8Z1s2Sby3L69DJbMheQ/candidato-02.jpg"
-    },
-    {
-      "titulo": "Produtores utilizam técnica de hidroponia para o cultivo de frutas, flores e hortaliças no Curimataú da PB",
-      "imagem": "https://s2-g1.glbimg.com/sxJJZJ8lyj_Hveu11rzOoQd9V5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/B/egDiiaTOCAyVdCmAdUyA/captura-de-tela-409-.png"
-    },
-    {
-      "titulo": "Sergio Moro diz que foco da campanha para o governo do Paraná é o combate à corrupção",
-      "imagem": "https://s2-g1.glbimg.com/zwi2WL9io9143fYcs-w-CBnLFQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/K/UT5LhAQuWLPTe1LpAPFQ/g1-13-.png"
-    },
-    {
-      "titulo": "Sandro Alex inicia campanha para o governo do Paraná falando em não deixar o estado 'parar'",
-      "imagem": "https://s2-g1.glbimg.com/ZkfR0rdoXEJ79Qhb8PXuF5lIExs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/9/bIABMKQb2iBHwlXKAWYA/g1-12-.png"
-    },
-    {
-      "titulo": "Engavetamento deixa um ferido e motorista envolvido foge sem prestar socorro em Itupeva",
-      "imagem": "https://s2-g1.glbimg.com/fPp0_NRFEzKm2ZcWN70vK9ZRzXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/e/9rDF71TlmHx2iFyb0nIw/e8b5585a-e789-4a33-9e05-fcda5f94e7ff.jpg"
-    },
-    {
-      "titulo": "Mulher é presa com drogas escondidas nas partes íntimas ao tentar entrar em presídio de Governador Valadares",
-      "imagem": "https://s2-g1.glbimg.com/4dAFlr8oyBGQ9JCLiIzpYAZwRwA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/J/PXYzODSciCE4i97fTJqw/whatsapp-image-2026-08-15-at-20.48.40.jpeg"
-    },
-    {
-      "titulo": "Aroldo Félix dá início à campanha eleitoral com ato em bairro de Salvador",
-      "imagem": "https://s2-g1.glbimg.com/sdpGw81pNKxt2v_LOq3nheDABaI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/A/pnyCOARqKxsoUibKnK1g/aroldo-felix-up-inicio-de-campanha.jpg"
-    },
-    {
-      "titulo": "Juliana Brizola declara R$ 376,1 mil em bens ao TSE; Edegar Pretto informa R$ 670,4 mil",
-      "imagem": "https://s2-g1.glbimg.com/ON4BEhM3zKeWa-6zxqQhZcBfluU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/s/3J3pA9ThC4AyBa06b99Q/camila-hermes-gzh.jpg.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: Câmera mostra SUV em alta velocidade atingir picape e invadir casa em Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/SxmbCEGK51Smxx5WBb73Coe__uQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/z/nN1ELRSCuCqAlNfO8dhQ/design-sem-nome-19-.jpg"
-    },
-    {
-      "titulo": "Loteria Federal hoje: resultado do concurso 6092 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/ZOAlu7B4UENsREbr08TuCOhps0E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/T/la3yBrTBu4FAAxTcjI5w/federal-6092-tkbdj.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-16T15:59:47.508Z"
+  "atualizadoEm": "2026-08-16T16:34:29.620Z"
 }
