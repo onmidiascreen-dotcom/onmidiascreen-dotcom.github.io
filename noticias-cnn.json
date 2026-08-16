@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Maya Massafera reclama de ressaca e promete: &#8220;Nunca mais vou beber&#8221;",
+      "imagem": null
+    },
+    {
       "titulo": "Isa Scherer choca ao exibir barriga: &#8220;Fazendo tudo menos parir&#8221;",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Ucrânia lança centenas de drones em um dos maiores ataques contra a Rússia",
       "imagem": null
-    },
-    {
-      "titulo": "Gaza: Plano de Trump depende do desarmamento do Hamas e retirada de Israel",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T14:18:18.202Z"
+  "atualizadoEm": "2026-08-16T14:47:39.069Z"
 }

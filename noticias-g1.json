@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEO: Homem é preso em flagrante por agredir cachorro a pauladas em Atibaia (SP)",
+      "imagem": "https://s2-g1.glbimg.com/F8bQN2d8HQ37yUAbxckI4jKR2-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/e/A8lyMIR7S6GSAj2iXVRw/agressao.jpg"
+    },
+    {
+      "titulo": "Homem de 27 anos é morto a tiros dentro de carro em Bom Despacho",
+      "imagem": "https://s2-g1.glbimg.com/Qqdd-Y3KZskNzLXNstSonZHtKUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/sBNteyQbKLMJFe4SzUpA/sirene-policia-1-.jpeg"
+    },
+    {
+      "titulo": "Márcio Jambo, candidato ao governo de Alagoas, declara não ter bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/5ollU2nnt8nSIke7i9UM_1-Stfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/S/i45eIYSlqmRwVzgfFM4g/marcio-jambo-widexl.jpg"
+    },
+    {
+      "titulo": "Joel Rodrigues inicia campanha ao Governo do Piauí em Teresina",
+      "imagem": "https://s2-g1.glbimg.com/spt1pGVzNOrvPbiCKodRx9LF_1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/z/KC2Tu3QRuUceA5JxA05Q/edicao-imagens-g1-2026-08-16t113215.066.png"
+    },
+    {
+      "titulo": "Ricardo Cappelli abre campanha ao governo do DF com passeata em Samambaia Sul",
+      "imagem": "https://s2-g1.glbimg.com/ISl_agK6yM6az_3hnCQZu9gNDM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/h/Vb8QY5SqWnt3ljtC4BBQ/whatsapp-image-2026-08-16-at-10.17.50.jpeg"
+    },
+    {
+      "titulo": "Motociclista fica gravemente ferido após colisão e helicóptero Águia é acionado em Tietê",
+      "imagem": "https://s2-g1.glbimg.com/QbCXo1IIMzxwAVjnQWjfTAOWvjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/M/IDqN1xSvGDyTU2QHPa7g/ab003292-f91d-44c0-b615-63aef99c05fb.jpg"
+    },
+    {
+      "titulo": "Dupla é detida por extração ilegal de palmito no interior de SP e recebe multa de R$ 187 mil",
+      "imagem": "https://s2-g1.glbimg.com/aaqne1vPJbebomqPWsiGTr8MH84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/S/JzziKmRj6zjxj7cWtN7g/fotos-materias-2026-08-15t113653.800.jpg"
+    },
+    {
+      "titulo": "Caiado começa campanha eleitoral com carreata no Entorno do DF e diz que, se eleito, agirá com 'garra' e 'determinação'",
+      "imagem": "https://s2-g1.glbimg.com/JnP6W17dJVgw0loE93-UBw25ngI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/5/D5nOdWSsyAk2LB9KQVuA/copia-de-copia-de-copia-de-padrao-foto-g1-goias-5-.jpg"
+    },
+    {
+      "titulo": "Lotofácil hoje: resultado do concurso 3763 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/KXreiHNqkJkv5htLoQnfTwqZO5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/H/B6CtbsTxyxm7ilZWBBIA/lotofacil-3763-pewfu.jpeg"
+    },
+    {
+      "titulo": "Quina hoje: resultado do concurso 7093 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/QogM4D21_YBDpkfDEq2BcR-r4so=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/s/qAGKGJSIuicJtsla8GUQ/quina-7093-kwidm.jpeg"
+    },
+    {
+      "titulo": "Flávio Bolsonaro inicia campanha à Presidência no Rio de Janeiro",
+      "imagem": "https://s2-g1.glbimg.com/e3aX1M7YXYPE0MIoYXgGCtjuDWs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/e/OqNMoMSUmZVUqvHfLQNg/16flavio3.jpeg"
+    },
+    {
+      "titulo": "De R$ 353 a R$ 2,5 milhões: veja patrimônio dos candidatos a governador da Paraíba declarados ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 2ª edição deste sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/5AecfcdUjBRAQ_RqwAh38mEUb0U=/s01.video.glbimg.com/deo/vi/26/33/14873326"
+    },
+    {
+      "titulo": "Manifestantes protestam contra Tarcísio na porta de clube do Sindicato dos Metalúrgicos de Osasco",
+      "imagem": "https://s2-g1.glbimg.com/bgBZvEDyNeKMet65k2HgiCvsxiY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/X/8WxF1XSQGP907bKH5edA/whatsapp-image-2026-08-16-at-11.01.53-2-.jpeg"
+    },
+    {
+      "titulo": "Lenilda Luna, candidata ao governo de Alagoas, declara R$ 115 mil em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/Aqd-T42YVDD77wEbSHPnHdSQvGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/L/2nUyTOSQGm97cw4sqZzQ/whatsapp-image-2024-07-28-at-16.06.06.jpeg"
+    },
+    {
+      "titulo": "Corpo de kitesurfista desaparecido é encontrado em praia da região do Itaqui-Bacanga, em São Luís",
+      "imagem": "https://s2-g1.glbimg.com/lMge6eCswHMrbg0SAA1TtJ6ovWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/3/Vo6VmnRnSGwucnACn4gQ/montagens-1920-x-1080-px-1-.png"
+    },
+    {
+      "titulo": "Psicóloga com câncer de mama 'bate o sino' após última quimioterapia no interior de SP: ‘Misto de sentimentos positivos'",
+      "imagem": "https://s2-g1.glbimg.com/jhL2ZgiFVBB1JhuoYHcROPLecOo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/q/iQpxaIQi6w5KocS9yAcg/1200x800-3-2026-08-14t165023.290.png"
+    },
+    {
+      "titulo": "VÍDEOS: Amazônia Agro - Acre deste domingo, 16 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/LutyOnyqGTvGjgpWnV3I5JWdUko=/s01.video.glbimg.com/deo/vi/71/07/14870771"
+    },
+    {
+      "titulo": "Mapeamento de terras na BR-319 é iniciado para regularizar imóveis de moradores do AM",
+      "imagem": "https://s2-g1.glbimg.com/6g2yUGdWSBM8ULs5ITuR0OlOeOU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/t/WvtqjAQ8CuqokrBwZ2rQ/whatsapp-image-2026-08-11-at-13.50.18.jpeg"
+    },
+    {
       "titulo": "JHC, candidato ao governo de Alagoas, declara R$ 2,2 milhões em bens ao TSE",
       "imagem": "https://s2-g1.glbimg.com/08BK4P7OyJVeJGn9Aq0hFVF9hVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/T/veU877TPCnTZrqUIXiBw/prefeito-jhc.png"
     },
@@ -37,89 +113,13 @@
       "imagem": "https://s2-g1.glbimg.com/_Go5JZ988MPyNp88f0uxfuSXQMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/Z/dA7CdNRNe6ZqaIAGJNpg/whatsapp-image-2026-08-16-at-10.32.57.jpeg"
     },
     {
-      "titulo": "Jerônimo Rodrigues inicia campanha eleitoral ao lado de Rui Costa e Jaques Wagner em Salvador",
+      "titulo": "Jerônimo Rodrigues inicia campanha eleitoral com concentração no Bonfim, em Salvador",
       "imagem": "https://s2-g1.glbimg.com/9YOvqbnuv7iSeDkkzDxv4GVdmYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/5/s53M94TCixrKr7Yh7e1Q/jeronimo-rodrigues-inicio-de-campanha.jpg"
     },
     {
       "titulo": "Número de mortos em acidente com balsa superlotada no Zimbábue sobe para 80",
       "imagem": "https://s2-g1.glbimg.com/_5ksZt7uHdQXzjTo97mSwlDFf6g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/6/6TbqWrQESFrbSp3f5k4w/2026-08-12t212330z-1624684030-rc29xma8ww2n-rtrmadp-3-zimbabwe-boat-accident.jpg"
-    },
-    {
-      "titulo": "Rafael Fonteles inicia campanha ao Governo do Piauí em Teresina",
-      "imagem": "https://s2-g1.glbimg.com/hhJMUO9LVeuI5zLMH6iRDt0hxY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/B/isKE80QRmkgouYEN642Q/edicao-imagens-g1-100-.png"
-    },
-    {
-      "titulo": "Camilo Duarte, candidato a governador da Paraíba, declara não ter bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/EfuWyNLaav1JzOiRlir1dnWKmi8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/y/Z/BmI90bT3mZNYkNYSHW5A/camilo.jpg"
-    },
-    {
-      "titulo": "Lula faz primeiro evento de campanha à reeleição no berço político do PT, em São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/rQL8ZXJtDWD6xpGODYP4-IYBVM8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/A/1t6mGRSJ6eGkNgEebu5w/lula-campanha.jpg"
-    },
-    {
-      "titulo": "Justiça declara inconstitucional lei de Piracicaba que previa multa de R$ 3 mil a quem doar alimentos sem aval da prefeitura",
-      "imagem": "https://s2-g1.glbimg.com/Q5bJsfQhdZCJ_f198ep2XuwPxGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/B/e/arrH5cTXGvu3lJqQLFpg/marmita-4.png"
-    },
-    {
-      "titulo": "VÍDEO: carro fica destruído após bater de frente com ônibus com turistas a caminho do Convento da Penha; sete ficaram feridos",
-      "imagem": "https://s2-g1.glbimg.com/qT-ZUOe-yaVPCgl_eBaEM3STiX0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/v/abr6tRQ4eGzGbwBXbaJw/thumb-fotos-37-.jpg"
-    },
-    {
-      "titulo": "De R$ 844,06 a R$ 34,6 milhões: veja o patrimônio dos candidatos ao Senado pelo Piauí declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/PPeGeXYOgF0YNwJXdqXb1TiRWL4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/x/8HsDbhSSAcFBerQBWL1A/senado-ok-.png"
-    },
-    {
-      "titulo": "Paraná entra em nova onda de calor; entenda o que significa e veja a previsão do tempo por região",
-      "imagem": "https://s2-g1.glbimg.com/bKxxCCyPTH1UZbzdB3MFc8s5t0E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/y/b3VBteRli7XaQrnTOehw/g1-10-.png"
-    },
-    {
-      "titulo": "Duas pessoas morrem e três ficam feridas em acidente envolvendo carro de aplicativo em Uberlândia",
-      "imagem": "https://s2-g1.glbimg.com/6XgXc8fBmJD4QsxgsE051iC8HhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/2/aTYAGQRLOn08iaO9R57A/design-sem-nome-1-.png"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
-    },
-    {
-      "titulo": "Festival Gastronômico de Taquaruçu terá plataforma digital para votação dos pratos",
-      "imagem": "https://s2-g1.glbimg.com/5Ut4EEjOYS7nwM7mpn7HZ67TL9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/p/mvlssER0yWb27AQEMKpw/34c7fb51-8c2e-4efe-9c05-6bb7ba323859.jpeg"
-    },
-    {
-      "titulo": "Voluntários se juntam a bombeiros nas buscas por kitesurfista desaparecido no mar em São Luís",
-      "imagem": "https://s2-g1.glbimg.com/mHRegfvkLg0ZVLY0BaMujKV-42E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/3/pBBvuoSs6tf6R34lL8sw/montagens-1920-x-1080-px-.png"
-    },
-    {
-      "titulo": "Vídeos do g1 e TV Bahia - domingo, 16 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/AN3kascyu1bKgz9HsIdgumHm4Kg=/s01.video.glbimg.com/deo/vi/32/01/14870132"
-    },
-    {
-      "titulo": "Acidente com 7 mortes na BR-251 e homem que caçava javalis: veja as notícias mais lidas da semana",
-      "imagem": "https://s2-g1.glbimg.com/53sWwkebytMe526x1vnJrYTZ1r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/j/J0rQ4yTQqEGajcepApEw/whatsapp-image-2026-08-08-at-18.12.52.jpeg"
-    },
-    {
-      "titulo": "Ciro Gomes promete apoio ao microempreendedor e mudança na gestão da saúde no primeiro ato de campanha ao governo",
-      "imagem": "https://s2-g1.glbimg.com/kalLLUoWNEd5CR1gekbNIMBYQCA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/y/ABBVmtRPKszdPPWedjLA/whatsapp-image-2026-08-16-at-08.58.24.jpg"
-    },
-    {
-      "titulo": "Acidente entre duas motos deixa homem ferido em Resende",
-      "imagem": "https://s2-g1.glbimg.com/AzMZa2_GrhGU8DYwjIpBOvxyt9s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/Q/T4yjdnRtucJvYifmDrfg/whatsapp-image-2025-04-03-at-07.48.04-1-1-.jpeg"
-    },
-    {
-      "titulo": "Fogo na Igreja Matriz de São Vicente, SP, provoca fumaça intensa e mobiliza bombeiros",
-      "imagem": "https://s2-g1.glbimg.com/T1yUfW5H4JvCRzLg5G9ecUI4BnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/c/Gub0ZbT22vZkpFsyj6NA/inserir-um-titulo-2026-08-16t100318.233.jpg"
-    },
-    {
-      "titulo": "Advogado acusado de agredir noiva grávida renuncia à candidatura de deputado federal no DF",
-      "imagem": "https://s2-g1.glbimg.com/gGjyh5gUd788LfDLj25GMyVnAJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/r/tqlSPqRfCcLmSQuekGWQ/54577158107-a75564691c-k.jpg"
-    },
-    {
-      "titulo": "Médico indiciado por morte de menino picado por escorpião é afastado de atendimento no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/8q9xXEtSUW6fj7QkQ0kyiurFhUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/r/GuDcCMSrOEkFAD5nAPEg/design-sem-nome-2026-08-11t190658.784.png"
-    },
-    {
-      "titulo": "Idoso mata vizinho, interdição da BR-116 e calamidade financeira: veja as notícias mais lidas da semana",
-      "imagem": "https://s2-g1.glbimg.com/RQ4FGj7J6vT2JZjVkVZ4xxMM8Yc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/T/puLno4SXmBmnPpcfjNaw/vitimasfatais-77-.png"
     }
   ],
-  "atualizadoEm": "2026-08-16T14:18:18.703Z"
+  "atualizadoEm": "2026-08-16T14:47:41.459Z"
 }
