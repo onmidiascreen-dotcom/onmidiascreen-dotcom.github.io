@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Santos negocia contratação de Alexsander, do Atlético-MG",
+      "imagem": null
+    },
+    {
+      "titulo": "Noivo, Fabio Porchat anuncia casamento em 2027",
+      "imagem": null
+    },
+    {
+      "titulo": "Incêndio florestal na Grécia deixa dois mortos e casas destruídas",
+      "imagem": null
+    },
+    {
+      "titulo": "Por que Neymar e Thiago Mendes não se cumprimentaram em Vasco x Santos",
+      "imagem": null
+    },
+    {
       "titulo": "Pix contribui para expansão do empreendedorismo brasileiro, diz estudo",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "Chefe do comando central dos EUA visita porta-aviões USS Abraham Lincoln",
       "imagem": null
-    },
-    {
-      "titulo": "Presença militar israelense acompanha tensão na Cisjordânia",
-      "imagem": null
-    },
-    {
-      "titulo": "Cristiano Ronaldo ensaia aposentadoria: “Deve ser meu último ano”",
-      "imagem": null
-    },
-    {
-      "titulo": "Atlético-MG e Grêmio se enfrentam buscando aumentar sequência invicta",
-      "imagem": null
-    },
-    {
-      "titulo": "Arthur Aguiar e Jheny Santucci anunciam segunda gravidez: &#8220;Uma nova vida&#8221;",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T19:32:14.659Z"
+  "atualizadoEm": "2026-08-16T19:53:48.951Z"
 }

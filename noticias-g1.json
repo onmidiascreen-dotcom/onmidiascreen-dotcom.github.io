@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "Policlínica de Campina Grande é alvo de arrombamento e furto pela quarta vez em uma semana; atendimentos foram suspensos",
+      "imagem": "https://s2-g1.glbimg.com/Ne0aB9mJ1bhFcTk6s8Nt-w1Mh4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/v/TGwFLkQSSJqXORurB6tg/captura-de-tela-2026-08-16-164436.png"
+    },
+    {
+      "titulo": "Fernanda Lopes declara que não possui bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/T_7EleBIaM-GJe5B8JB_qVvwVJc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/N/A8PxErS4yKgmJBEQWWkw/whatsapp-image-2026-08-06-at-10.43.10.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: nuvem funil é registrada em Aracaju e chama atenção",
+      "imagem": "https://s2-g1.glbimg.com/o_X1KzHjJs4H6qxGsfw7MiJGc5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/B/pAjgb6RWi627Poxd7qqQ/nuvem-funil.jpg"
+    },
+    {
+      "titulo": "Presidente da Colômbia pede que Trump suspenda tarifas após terremoto",
+      "imagem": "https://s2-g1.glbimg.com/YauTni3RweqqW2EcrtjkazqKW68=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/8/WMABYOSiGXStKwzKS66w/2026-08-15t184551z-371052360-rc25zma0vvce-rtrmadp-3-colombia-quake.jpg"
+    },
+    {
+      "titulo": "Miss Brasil Gay, Parada e Baile do Manifesto: veja programação da Semana LGBTQIA+ em Juiz de Fora",
+      "imagem": "https://s2-g1.glbimg.com/FD1spmcRL2e1GbM2tKOX3JdHtSU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/B/Kbj9SCRmKWlP4GWpsCHg/whatsapp-image-2025-07-08-at-16.39.09.jpeg"
+    },
+    {
+      "titulo": "Homem morre após ser ferido com faca durante briga em Três Pontas; companheira e enteada chegaram a ser detidas",
+      "imagem": "https://s2-g1.glbimg.com/xcBA0zpYBygv2cd3hYRmQc-sLq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/D/KIwZHsQxC6IC4tApwocQ/whatsapp-image-2026-08-16-at-13.58.31.jpeg"
+    },
+    {
+      "titulo": "Vestígios na mata, policiais a cavalo e drones: entenda como foi a busca pelo ‘Lázaro de Ermida’ que se escondeu por quase um ano em MG",
+      "imagem": "https://s2-g1.glbimg.com/xm_d0lt8zNtM1QQJEd3YHqnaKeI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/T/xfRW26TaCoVFwPgpFVNQ/jl-tm-2026-08-14t130040.431.jpg"
+    },
+    {
+      "titulo": "Pesquisa da UFU cria relógio com sensor para monitorar doença de Parkinson em casa; iniciativa é a primeira do modelo no país",
+      "imagem": "https://s2-g1.glbimg.com/bCcunHuwuV4MDdyRS5yMO0PYaS4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/8/oWfjK6QHqxSslumyYsWQ/jl-tm-14-.jpg"
+    },
+    {
+      "titulo": "João Campos começa campanha em caminhada com aliados no Recife e promete investimentos na saúde",
+      "imagem": "https://s2-g1.glbimg.com/T46fOeL7vOeHHepi32RhrgAlxAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/11qfQ9RPeBVwIiclA3Cw/joao-campos.jpeg"
+    },
+    {
       "titulo": "Vídeo mostra momento em que filho de policial civil é baleado no peito durante tentativa de roubo em SP",
       "imagem": "https://s2-g1.glbimg.com/F0invi6uE6YIQHyimAzKX9cJNno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/1/FHUFzzTzKJDV22Y2XXyA/morte-zona-norte-sp.jpg"
     },
@@ -83,43 +119,7 @@
     {
       "titulo": "Genro de Trump se reúne com líder do Hamas para tentar salvar acordo de paz em Gaza, diz agência",
       "imagem": "https://s2-g1.glbimg.com/3-RuZNWnCfwY4Rhk3AH2EACb2aU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/7/fBPkDSSX28XGB3JF1sIA/2025-01-16t131844z-1487337056-rc2kzaaopxs8-rtrmadp-3-albania-usa-kushner.jpg"
-    },
-    {
-      "titulo": "Prazer, Renata — o prazer sexual na maturidade",
-      "imagem": "https://s2-g1.glbimg.com/8_q1k10hvmO1Vjfjm29zccV-hDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/d/s9qqZWQ5mqpOYDVssdSg/capa-podcast-ep-02.jpg"
-    },
-    {
-      "titulo": "Mega-Sena acumula e aposta de Andradas acerta a quina; veja cidades do Sul de Minas premiadas",
-      "imagem": "https://s2-g1.glbimg.com/ivNgWH30Of_3BFE2V34YvPsErcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/m/rlAxrcRQymsifAesUrLA/captura-de-tela-2026-08-16-110228.png"
-    },
-    {
-      "titulo": "Kiko Caputo inaugura comitê e encontra apoiadores em início de campanha ao governo do DF",
-      "imagem": "https://s2-g1.glbimg.com/OsCQTBGGDU76H10LWuUF31vaW_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/x/eEwNSBTgWVVDPefZ9Kww/kiko.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: veja a agenda dos candidatos ao Governo de Alagoas neste domingo (16)",
-      "imagem": "https://s2-g1.glbimg.com/Zsd1SSDlBASKeRXOjaRXLKMS2gY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/w/E3VVBjQ5ABe07D09B2Gw/whatsapp-image-2026-08-16-at-12.23.44.jpeg"
-    },
-    {
-      "titulo": "Isso é Fantástico — Os impactos da Grande Seca na História do Brasil",
-      "imagem": "https://s2-g1.glbimg.com/yd7zw9SGY0CVEi6VXfuGfpzWqcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/O/T7fn2wRjWpyFHBk9vQRQ/fant-el-nino-campos-ceara-jn-frame-3891.jpeg"
-    },
-    {
-      "titulo": "Homem é preso com cabo de guarda-chuva, faca e garrafa de vidro após matar aves em praça no Litoral Norte do RS",
-      "imagem": "https://s2-g1.glbimg.com/wQDwaZ63Nm7dh_FGNcNd5Jsuq78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/K/Rg0uzZT9irT9hkSJiEtw/morte-quero-quero-bdrg-1608-1-.jpeg"
-    },
-    {
-      "titulo": "Suspeito de matar policial militar no Lago Corumbá é preso em Goiás",
-      "imagem": "https://s2-g1.glbimg.com/PIZ0I9Gsiu4mLCCfTEYsvnDiOsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/g/KizszoTBaFGIGAHrLCzQ/image.jpg"
-    },
-    {
-      "titulo": "VÍDEO: Gretchen cancela show logo após subir ao palco em Vitória: 'Em respeito a vocês'",
-      "imagem": "https://s2-g1.glbimg.com/rCFfbfNJbalhoIo9UFILGzZf9_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/i/3uXp4NQ9ALxg7xGghEZQ/thumb-fotos-44-.jpg"
-    },
-    {
-      "titulo": "Homem é morto com 5 tiros nas costas durante competição de cavalos em MT",
-      "imagem": "https://s2-g1.glbimg.com/Zuyr8R4RzN0EbmLoPhmqXWreXkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/z/72zM7RTYqXKp98ebcNBw/videos-g1-19-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T19:32:16.106Z"
+  "atualizadoEm": "2026-08-16T19:53:49.438Z"
 }

@@ -1,6 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "Policial fica ferido, e filho de 14 anos morre em tentativa de roubo em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Bolsonaro tem mais nomes na urna que Lula, mas prática é questionada",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é hospitalizado após ser esfaqueado por companheiro da ex-mulher",
+      "imagem": null
+    },
+    {
+      "titulo": "Migrantes protestam e pedem asilo em Ceuta, território da Espanha na África",
+      "imagem": null
+    },
+    {
+      "titulo": "Irmão do ex-prefeito Ulisses Maia morre aos 63 anos em Maringá",
+      "imagem": null
+    },
+    {
+      "titulo": "EUA avaliam novas sanções a Moraes em meio a tensões, diz Financial Times",
+      "imagem": null
+    },
+    {
+      "titulo": "CORREÇÃO: 'Aqui é eleição raiz, não é sabor eleição', diz Caiado em Goiás",
+      "imagem": null
+    },
+    {
       "titulo": "João Fonseca iguala Guga e avança à 3ª rodada do Masters 1000 de Cincinnati",
       "imagem": null
     },
@@ -9,7 +37,11 @@
       "imagem": null
     },
     {
-      "titulo": "Apucarana acumula 1,8 mil CNHs 'esquecidas' por motoristas na Ciretran",
+      "titulo": "Apucarana acumula 1,8 mil CNHs 'esquecidas' por motoristas na 15ª Ciretran",
+      "imagem": null
+    },
+    {
+      "titulo": "'Aqui é eleição raiz, não é sabor eleição', diz Caiado em Goiás",
       "imagem": null
     },
     {
@@ -27,39 +59,7 @@
     {
       "titulo": "Atores de cinebiografia dos Beatles recriam a famosa capa do disco 'Abbey Road'",
       "imagem": null
-    },
-    {
-      "titulo": "Sébastien Pocognoli é o novo técnico da seleção da Escócia",
-      "imagem": null
-    },
-    {
-      "titulo": "Velha guarda petista se diz aliviada com elogios de Janja a Marisa",
-      "imagem": null
-    },
-    {
-      "titulo": "Juliano Spyer lança 'O Brasil dos Evangélicos' em São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Mais de 100 mil pessoas estão sem energia elétrica no Havaí após furacão Lala",
-      "imagem": null
-    },
-    {
-      "titulo": "Vitórias e estreia de estrelas em amistosos de Real Madrid e Barcelona",
-      "imagem": null
-    },
-    {
-      "titulo": "Militar morre em incêndio em Aragão, na Espanha",
-      "imagem": null
-    },
-    {
-      "titulo": "Campanha eleitoral começa com Lula em SP e Flávio no RJ",
-      "imagem": null
-    },
-    {
-      "titulo": "Sandro Alex abre campanha ao lado de apoiadores em Curitiba e São José dos Pinhais",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T19:32:14.878Z"
+  "atualizadoEm": "2026-08-16T19:53:48.824Z"
 }
