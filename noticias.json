@@ -1,6 +1,38 @@
 {
   "noticias": [
     {
+      "titulo": "Acidente com ônibus deixa ao menos 12 mortos na Hungria",
+      "imagem": null
+    },
+    {
+      "titulo": "Mega-Sena: quanto rendem R$ 38 milhões na poupança, Tesouro Direto ou CDB",
+      "imagem": null
+    },
+    {
+      "titulo": "Buscas por sobreviventes continuam após forte terremoto na Indonésia",
+      "imagem": null
+    },
+    {
+      "titulo": "América-MG x Athletic Club: horário e onde assistir ao Brasileirão Série B",
+      "imagem": null
+    },
+    {
+      "titulo": "CRB x Novorizontino: horário e onde assistir ao Brasileirão Série B",
+      "imagem": null
+    },
+    {
+      "titulo": "Mega-Sena 3045: sorteio deste domingo (16) pode pagar R$ 38 milhões",
+      "imagem": null
+    },
+    {
+      "titulo": "Atlético-MG x Grêmio: horário e onde assistir ao jogo do Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Lens x PSG: horário e onde assistir ao jogo da Supercopa da França",
+      "imagem": null
+    },
+    {
       "titulo": "Entenda nova ordem de Trump que reformula vacinação infantil",
       "imagem": null
     },
@@ -87,39 +119,7 @@
     {
       "titulo": "Sobreviventes de terremoto na Indonésia acampam à espera de ajuda",
       "imagem": null
-    },
-    {
-      "titulo": "Furacão Lala atinge Havaí com ventos fortes e chuva intensa",
-      "imagem": null
-    },
-    {
-      "titulo": "Liverpool x Como: horário e onde assistir ao amistoso",
-      "imagem": null
-    },
-    {
-      "titulo": "Schalke 04 x Real Madrid: horário e onde assistir ao amistoso",
-      "imagem": null
-    },
-    {
-      "titulo": "Caça da Otan abate drone que violou espaço aéreo da Romênia",
-      "imagem": null
-    },
-    {
-      "titulo": "Terremoto na Indonésia: Número de mortos passa de 50; milhares deixam casas",
-      "imagem": null
-    },
-    {
-      "titulo": "Ataque de mísseis russos em Kiev provoca incêndio e deixa um ferido",
-      "imagem": null
-    },
-    {
-      "titulo": "São Paulo 1 x 1 Coritiba: veja os melhores momentos do jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "São Paulo empata com Coritiba e chega a 9 jogos sem vencer no Brasileirão",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T07:59:16.168Z"
+  "atualizadoEm": "2026-08-16T08:37:39.651Z"
 }
