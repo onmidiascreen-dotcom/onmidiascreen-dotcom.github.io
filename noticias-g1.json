@@ -1,6 +1,50 @@
 {
   "noticias": [
     {
+      "titulo": "Irmãos morrem após carro capotar na TO-070",
+      "imagem": "https://s2-g1.glbimg.com/TbpRRVF2Dga3VvXd1qkuPp6CClw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/ezSVAsSyCtmN576mpj6Q/foto-e-montagem-vertical.png"
+    },
+    {
+      "titulo": "Presidente do Brasil visita Oiapoque para acompanhar pesquisas de petróleo",
+      "imagem": "https://s2-g1.glbimg.com/dTQrHla31TrQfgvH3_McnKwn9WQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/L/0mSnBtSheJlJQBvz3CxQ/bbc00f9d-3bab-42f1-832a-3ae05e102a3e.webp"
+    },
+    {
+      "titulo": "Candidatos ao governo de SC têm 1° dia de campanha marcado por atos públicos e visitas a eventos",
+      "imagem": "https://s2-g1.glbimg.com/gs0vm_HOPNUn437lv-jlygKvkz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/k/Nnw31xT8qJIO1NAEHCxg/candidatos-governo-de-santa-catarina.jpg"
+    },
+    {
+      "titulo": "Motorista atropela PM e outras duas pessoas durante abordagem em rodovia no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/cJmk5DX1FlL_3Ke9XDeyVtO_0GI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/x0glQ1Q5mMuBfjhrJlqA/delpolbotucatu.png"
+    },
+    {
+      "titulo": "Idoso que teve até 90% do corpo queimado em incêndio em Varginha morre em hospital",
+      "imagem": "https://s2-g1.glbimg.com/1GIVnoklGP-7NjLX9yXNXcS7Ca8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/6/xffKOUSAAkYw5QzAJswQ/idosoqueimado.png"
+    },
+    {
+      "titulo": "Pivetta (Republicanos) inicia campanha ao Governo neste domingo (16)",
+      "imagem": "https://s2-g1.glbimg.com/mBhbqK9sLOVrGx103RWkLbuYP00=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/O/sHRLUITvqIfvIEp1vamw/videos-g1-22-.jpg"
+    },
+    {
+      "titulo": "De ciúmes a homicídio: 'violentômetro' instalado no interior de SP alerta para escalada da violência contra a mulher",
+      "imagem": "https://s2-g1.glbimg.com/PGEtRO-Gwo3ECd7P9k5vEmJkjok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/4/BhgyfTSXiqKZfj5BmVrA/os-tres-5-.png"
+    },
+    {
+      "titulo": "Candidatos ao Governo de Goiás iniciam campanha eleitoral; veja como foi o primeiro dia",
+      "imagem": null
+    },
+    {
+      "titulo": "Grávida de quatro meses está entre os 10 mortos no acidente em Petrópolis; Marido sofreu ferimentos leves",
+      "imagem": "https://s2-g1.glbimg.com/cg18U6kuHNMqQc-UpHpXL3mrwnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/R/2PkNtpQmOhQ0OwcYhU4A/design-sem-nome-16-.png"
+    },
+    {
+      "titulo": "Candidatos ao governo do DF abrem campanha com missas, atos de rua e jogo de futebol; veja resumo do primeiro dia",
+      "imagem": "https://s2-g1.glbimg.com/UKBAYz6wLFpXuzdVjhrLapUspew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/FzkaJDRGaZnMi4MVkeew/edicao-imagens-g1-33-.png"
+    },
+    {
+      "titulo": "PRF apreende 390 ampolas de remédio emagrecedor escondidas em banco de carro na BR-153",
+      "imagem": "https://s2-g1.glbimg.com/jGb0zSq5cudneWmKu3uKSJmSe8E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/W/wTBBR9RDiHX1uBKa9Xjw/design-sem-nome-75-.jpg"
+    },
+    {
       "titulo": "No 1º dia de campanha eleitoral, candidatos ao governo de Pernambuco participam de atos com aliados no Recife; confira",
       "imagem": "https://s2-g1.glbimg.com/yGTvV6TAOwg8T4h_1861ryDOyLU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/f/IDZVqjR921a4g5TOzhcg/capa-agenda-g1-2026-08-16t181145.721.jpg"
     },
@@ -13,7 +57,7 @@
       "imagem": "https://s2-g1.glbimg.com/L3cNFoG-JJr6NDN1QkMTzqVgk64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/h/bwyBJBTG2jKAqzrio8FQ/acoes-da-pmrr-durante-o-carnaval-2026-ascom-pmrr-4-.jpeg"
     },
     {
-      "titulo": "Carro fica partido ao meio em acidente que deixou um morto e nove feridos na Mogi-Bertioga; VEJA",
+      "titulo": "Carro fica partido ao meio após acidente que deixou um morto e nove feridos na Mogi-Bertioga; VEJA",
       "imagem": "https://s2-g1.glbimg.com/u06bJPNRnXnvUM4OMc0oveOhTZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/o/ruhSnBRYmV2UBBnS1ydQ/imagem-3-.jpg"
     },
     {
@@ -75,51 +119,7 @@
     {
       "titulo": "Crise de Ceuta: o dilema do que fazer com as crianças que chegaram sozinhas e que a Espanha não sabe a quem devolver",
       "imagem": "https://s2-g1.glbimg.com/-7tuutNhjcUkx4emfAHuuHpJ2uA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/b/RdpWAESbuBEQq4JWApWQ/2026-08-15t070153z-423636672-rc2uymaau177-rtrmadp-3-migration-europe-spain-ceuta.jpg"
-    },
-    {
-      "titulo": "Centenas de bateristas transformam Florianópolis em grande orquestra neste domingo",
-      "imagem": "https://s2-g1.glbimg.com/zItj_ITk7nIXf9Q8_lySu4gsOMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/d/uk1asiQAy3oAuf3B3Smg/whatsapp-image-2026-08-16-at-16.42.37.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: caminhonetes batem após um dos motoristas tentar acessar vicinal em Pedrinhas Paulista",
-      "imagem": "https://s2-g1.glbimg.com/8J1L6VV3vdoZhTc4IQzaI5YP9Qk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/V/VvJsX7TJC8AuPL8XY4iA/acidente-caminhonetes.jpg"
-    },
-    {
-      "titulo": "Polícia acha 100 kg de cocaína com rastreadores em ‘casa-bomba’ no litoral de SP; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/M3eoz6FiTEdwIJAsZzR2x8z1nOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/8wNd90TNe8kLm6g8RFPg/casa-cocaina.jpg"
-    },
-    {
-      "titulo": "PM recebe denúncia durante festa e encontra pistola no console de carro em Nova Belém",
-      "imagem": "https://s2-g1.glbimg.com/5EiBBaw6iv5DKpBoD_hRcY3e6bg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/A/jg9jiaRoujiApbt2h0pA/1200x675-17-.jpg"
-    },
-    {
-      "titulo": "Candidatos a governador do Paraná iniciam campanha eleitoral com presenças em eventos",
-      "imagem": "https://s2-g1.glbimg.com/2XCryHgoErTPn4M2xnHF2ewiTXk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/k/w/R7u0BUSbaBNvjnU4JweQ/1.jpg"
-    },
-    {
-      "titulo": "Projeto Guri abre inscrições para aulas gratuitas de música e canto em Cerquilho",
-      "imagem": "https://s2-g1.glbimg.com/UlB48Rgchv6el0iXCcXTXYHBQkQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/o/YCcKacTCK1eg2ioHPPIw/whatsapp-image-2025-04-01-at-10.22.48.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: duas mulheres furtam quase R$ 500 em produtos de perfumaria em Rio Preto",
-      "imagem": "https://s2-g1.glbimg.com/8CIZsGzkkSR6iUn9coTVtxGYiQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/n/vyT2mvRHAJ6TF3PLR4Ag/design-sem-nome-72-.jpg"
-    },
-    {
-      "titulo": "Mulher morre afogada na Praia da Rampa, em São José de Ribamar",
-      "imagem": "https://s2-g1.glbimg.com/BrI1Jx87mdjUzbC_EnxHd-vfJ4U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/X/viSipISuucYh3B88ZRng/montagens-1920-x-1080-px-2026-08-16t171510.643.png"
-    },
-    {
-      "titulo": "Arruda participa de missa e jogo de futebol no Gama no primeiro dia de campanha ao governo do DF",
-      "imagem": "https://s2-g1.glbimg.com/qZ8UtfF3aS-2qrJkqGrAa5RFl0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/a/jlBajFTQKilerD0fjpMQ/img-6133.jpg.jpeg"
-    },
-    {
-      "titulo": "Festival de samba e pagode marca encerramento da Expofeira do Amapá; veja programação",
-      "imagem": "https://s2-g1.glbimg.com/I58v2CtnuMPh1EkAiq8ZFcExnMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/d/aEnvqjS7W6xzGOtiazBA/whatsapp-image-2026-08-09-at-10.50.00.jpeg"
-    },
-    {
-      "titulo": "Duas pessoas morrem e outra fica ferida após ataque a tiros em cidade da Bahia",
-      "imagem": "https://s2-g1.glbimg.com/lz9s6DDKzZbE7w8GOic6yA3P4UE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/S/nDafvsSjO6AVzOBnb7AQ/mortos-ataque-em-una.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T21:15:57.805Z"
+  "atualizadoEm": "2026-08-16T21:42:58.032Z"
 }
