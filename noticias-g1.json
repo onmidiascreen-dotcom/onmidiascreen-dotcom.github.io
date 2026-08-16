@@ -1,6 +1,66 @@
 {
   "noticias": [
     {
+      "titulo": "O que está levando cada vez mais homens a fazer preenchimento no pênis, apesar dos riscos",
+      "imagem": null
+    },
+    {
+      "titulo": "VÍDEOS: Liberal Comunidade de domingo, 16 de agosto",
+      "imagem": "https://s2-g1.glbimg.com/Ts4j67zGpU_LkxYgW_aHmwViyPQ=/s01.video.glbimg.com/deo/vi/65/80/14868065"
+    },
+    {
+      "titulo": "Búfalo que era 'amigo' de pecuarista participa de cortejo fúnebre no RS",
+      "imagem": "https://s2-g1.glbimg.com/AazEhxs6tP3czgUn0i2jcWMDIO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/q/Si3W93QCy8zXLaABeq7w/g1-30-.jpg"
+    },
+    {
+      "titulo": "Dono de casa de eventos é preso suspeito de corrupção de menores e poluição sonora em Teresina",
+      "imagem": "https://s2-g1.glbimg.com/KH5dcXyL8XUcJrjSemKpHQHQUyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/H/WSwIL9QwAnKdnYRPNe5A/edicao-imagens-g1-2026-08-16t122802.314.png"
+    },
+    {
+      "titulo": "De nenhum bem a R$ 2,2 milhões: veja o patrimônio dos candidatos ao governo de Alagoas declarado ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/Zsd1SSDlBASKeRXOjaRXLKMS2gY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/w/E3VVBjQ5ABe07D09B2Gw/whatsapp-image-2026-08-16-at-12.23.44.jpeg"
+    },
+    {
+      "titulo": "Ronaldo Mansur inicia campanha eleitoral com panfletagem em bairro de Salvador",
+      "imagem": "https://s2-g1.glbimg.com/vMLFRawZhpH3ouLIjQTKzv6HqDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/p/8nc1KORi2B9yImiver3g/ronaldo-mansur-inicio-de-campanha.jpg"
+    },
+    {
+      "titulo": "Irã planeja criminalizar entrevistas a veículos de mídia considerados hostis ao regime",
+      "imagem": "https://s2-g1.glbimg.com/jyUmVA0ay_QB8n8dE__xV7xA59Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Q/SMVSQ0QhW2yGaLZvqQzA/fa33b480-94b5-11f1-a7ab-8b30adf0800a.jpg.webp"
+    },
+    {
+      "titulo": "Bairros de Manaus e Zona Rural ficam sem energia nesta segunda-feira; veja locais e horários",
+      "imagem": "https://s2-g1.glbimg.com/wGVfvvr1SFR62iCCeuCYdkVSa2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/i/CsxYg8TGWMFpR8rTDyhQ/whatsapp-image-2020-03-25-at-11.30.22-1-.webp"
+    },
+    {
+      "titulo": "Adriano Trajano, candidato a senador pela Paraíba, declara patrimônio de R$ 900 ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/7BBnoLc7hnRE1xLQNmStvIs2kLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/3/q/H8Z1s2Sby3L69DJbMheQ/candidato-02.jpg"
+    },
+    {
+      "titulo": "Produtores utilizam técnica de hidroponia para o cultivo de frutas, flores e hortaliças no Curimataú da PB",
+      "imagem": "https://s2-g1.glbimg.com/sxJJZJ8lyj_Hveu11rzOoQd9V5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/B/egDiiaTOCAyVdCmAdUyA/captura-de-tela-409-.png"
+    },
+    {
+      "titulo": "Sergio Moro diz que foco da campanha para o governo do Paraná é o combate à corrupção",
+      "imagem": "https://s2-g1.glbimg.com/zwi2WL9io9143fYcs-w-CBnLFQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/K/UT5LhAQuWLPTe1LpAPFQ/g1-13-.png"
+    },
+    {
+      "titulo": "Sandro Alex inicia campanha para o governo do Paraná falando em não deixar o estado 'parar'",
+      "imagem": "https://s2-g1.glbimg.com/ZkfR0rdoXEJ79Qhb8PXuF5lIExs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/9/bIABMKQb2iBHwlXKAWYA/g1-12-.png"
+    },
+    {
+      "titulo": "Engavetamento deixa um ferido e motorista envolvido foge sem prestar socorro em Itupeva",
+      "imagem": "https://s2-g1.glbimg.com/fPp0_NRFEzKm2ZcWN70vK9ZRzXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/e/9rDF71TlmHx2iFyb0nIw/e8b5585a-e789-4a33-9e05-fcda5f94e7ff.jpg"
+    },
+    {
+      "titulo": "Mulher é presa com drogas escondidas nas partes íntimas ao tentar entrar em presídio de Governador Valadares",
+      "imagem": "https://s2-g1.glbimg.com/4dAFlr8oyBGQ9JCLiIzpYAZwRwA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/J/PXYzODSciCE4i97fTJqw/whatsapp-image-2026-08-15-at-20.48.40.jpeg"
+    },
+    {
+      "titulo": "Aroldo Félix dá início à campanha eleitoral com ato em bairro de Salvador",
+      "imagem": "https://s2-g1.glbimg.com/sdpGw81pNKxt2v_LOq3nheDABaI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/A/pnyCOARqKxsoUibKnK1g/aroldo-felix-up-inicio-de-campanha.jpg"
+    },
+    {
       "titulo": "Juliana Brizola declara R$ 376,1 mil em bens ao TSE; Edegar Pretto informa R$ 670,4 mil",
       "imagem": "https://s2-g1.glbimg.com/ON4BEhM3zKeWa-6zxqQhZcBfluU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/s/3J3pA9ThC4AyBa06b99Q/camila-hermes-gzh.jpg.jpeg"
     },
@@ -59,67 +119,7 @@
     {
       "titulo": "VÍDEO: Homem é preso em flagrante por agredir cachorro a pauladas em Atibaia (SP)",
       "imagem": "https://s2-g1.glbimg.com/F8bQN2d8HQ37yUAbxckI4jKR2-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/e/A8lyMIR7S6GSAj2iXVRw/agressao.jpg"
-    },
-    {
-      "titulo": "Homem de 27 anos é morto a tiros dentro de carro em Bom Despacho",
-      "imagem": "https://s2-g1.glbimg.com/Qqdd-Y3KZskNzLXNstSonZHtKUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/sBNteyQbKLMJFe4SzUpA/sirene-policia-1-.jpeg"
-    },
-    {
-      "titulo": "Márcio Jambo, candidato ao governo de Alagoas, declara não ter bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/5ollU2nnt8nSIke7i9UM_1-Stfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/S/i45eIYSlqmRwVzgfFM4g/marcio-jambo-widexl.jpg"
-    },
-    {
-      "titulo": "Joel Rodrigues inicia campanha ao Governo do Piauí em Teresina",
-      "imagem": "https://s2-g1.glbimg.com/spt1pGVzNOrvPbiCKodRx9LF_1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/z/KC2Tu3QRuUceA5JxA05Q/edicao-imagens-g1-2026-08-16t113215.066.png"
-    },
-    {
-      "titulo": "Ricardo Cappelli abre campanha ao governo do DF com passeata em Samambaia Sul",
-      "imagem": "https://s2-g1.glbimg.com/ISl_agK6yM6az_3hnCQZu9gNDM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/h/Vb8QY5SqWnt3ljtC4BBQ/whatsapp-image-2026-08-16-at-10.17.50.jpeg"
-    },
-    {
-      "titulo": "Motociclista fica gravemente ferido após colisão e helicóptero Águia é acionado em Tietê",
-      "imagem": "https://s2-g1.glbimg.com/QbCXo1IIMzxwAVjnQWjfTAOWvjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/M/IDqN1xSvGDyTU2QHPa7g/ab003292-f91d-44c0-b615-63aef99c05fb.jpg"
-    },
-    {
-      "titulo": "Dupla é detida por extração ilegal de palmito no interior de SP e recebe multa de R$ 187 mil",
-      "imagem": "https://s2-g1.glbimg.com/aaqne1vPJbebomqPWsiGTr8MH84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/S/JzziKmRj6zjxj7cWtN7g/fotos-materias-2026-08-15t113653.800.jpg"
-    },
-    {
-      "titulo": "Caiado começa campanha eleitoral com carreata no Entorno do DF e diz que, se eleito, agirá com 'garra' e 'determinação'",
-      "imagem": "https://s2-g1.glbimg.com/JnP6W17dJVgw0loE93-UBw25ngI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/5/D5nOdWSsyAk2LB9KQVuA/copia-de-copia-de-copia-de-padrao-foto-g1-goias-5-.jpg"
-    },
-    {
-      "titulo": "Lotofácil hoje: resultado do concurso 3763 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/KXreiHNqkJkv5htLoQnfTwqZO5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/H/B6CtbsTxyxm7ilZWBBIA/lotofacil-3763-pewfu.jpeg"
-    },
-    {
-      "titulo": "Quina hoje: resultado do concurso 7093 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/QogM4D21_YBDpkfDEq2BcR-r4so=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/s/qAGKGJSIuicJtsla8GUQ/quina-7093-kwidm.jpeg"
-    },
-    {
-      "titulo": "Flávio Bolsonaro inicia campanha à Presidência no Rio de Janeiro",
-      "imagem": "https://s2-g1.glbimg.com/e3aX1M7YXYPE0MIoYXgGCtjuDWs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/e/OqNMoMSUmZVUqvHfLQNg/16flavio3.jpeg"
-    },
-    {
-      "titulo": "De R$ 353 a R$ 2,5 milhões: veja patrimônio dos candidatos a governador da Paraíba declarados ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Acre 2ª edição deste sábado, 15 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/5AecfcdUjBRAQ_RqwAh38mEUb0U=/s01.video.glbimg.com/deo/vi/26/33/14873326"
-    },
-    {
-      "titulo": "Manifestantes protestam contra Tarcísio na porta de clube do Sindicato dos Metalúrgicos de Osasco",
-      "imagem": "https://s2-g1.glbimg.com/bgBZvEDyNeKMet65k2HgiCvsxiY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/X/8WxF1XSQGP907bKH5edA/whatsapp-image-2026-08-16-at-11.01.53-2-.jpeg"
-    },
-    {
-      "titulo": "Lenilda Luna, candidata ao governo de Alagoas, declara R$ 115 mil em bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/Aqd-T42YVDD77wEbSHPnHdSQvGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/L/2nUyTOSQGm97cw4sqZzQ/whatsapp-image-2024-07-28-at-16.06.06.jpeg"
-    },
-    {
-      "titulo": "Corpo de kitesurfista desaparecido é encontrado em praia da região do Itaqui-Bacanga, em São Luís",
-      "imagem": "https://s2-g1.glbimg.com/lMge6eCswHMrbg0SAA1TtJ6ovWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/3/Vo6VmnRnSGwucnACn4gQ/montagens-1920-x-1080-px-1-.png"
     }
   ],
-  "atualizadoEm": "2026-08-16T15:17:04.713Z"
+  "atualizadoEm": "2026-08-16T15:44:39.123Z"
 }
