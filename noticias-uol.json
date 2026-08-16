@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Lula e Flávio escolhem redutos seguros para começar campanha",
+      "imagem": null
+    },
+    {
+      "titulo": "Alstom investe R$ 130 mi em 5 anos para ampliar produção de trens em SP",
+      "imagem": null
+    },
+    {
       "titulo": "Caneta emagrecedora faz chance de contratação de mulher saltar, diz estudo",
       "imagem": null
     },
@@ -51,15 +59,7 @@
     {
       "titulo": "Tarcísio abre campanha em Osasco ao lado do Podemos, partido em ascensão em São Paulo",
       "imagem": null
-    },
-    {
-      "titulo": "Mudanças no Nordeste edireita competitiva testamsolidez do eleitorado lulista",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula começa campanha no palanquesindical que o projetou para a política",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T02:46:10.490Z"
+  "atualizadoEm": "2026-08-16T03:43:50.544Z"
 }

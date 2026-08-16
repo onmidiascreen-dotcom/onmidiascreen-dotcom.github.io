@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Ataque de mísseis russos em Kiev provoca incêndio e deixa um ferido",
+      "imagem": null
+    },
+    {
+      "titulo": "São Paulo 1 x 1 Coritiba: veja os melhores momentos do jogo do Brasileirão",
+      "imagem": null
+    },
+    {
       "titulo": "São Paulo empata com Coritiba e chega a 9 jogos sem vencer no Brasileirão",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Veja os times que garantiram o acesso ao Brasileirão Série C 2027",
       "imagem": null
-    },
-    {
-      "titulo": "Entenda a cronologia do caso de estudante morta pelo namorado em SC",
-      "imagem": null
-    },
-    {
-      "titulo": "Nvidia planeja investir US$ 3 bi na SB Energy, diz jornal",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T02:46:10.344Z"
+  "atualizadoEm": "2026-08-16T03:43:51.029Z"
 }
