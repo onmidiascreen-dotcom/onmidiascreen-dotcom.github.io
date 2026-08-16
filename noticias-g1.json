@@ -1,6 +1,54 @@
 {
   "noticias": [
     {
+      "titulo": "Mulher é achada morta com sinais de estrangulamento dentro de casa em Criciúma",
+      "imagem": "https://s2-g1.glbimg.com/Q3oDIyEByTpwAP7zPPl7SAir7yI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/w/G/XDK3AfTaOQpBvaSTIb1w/whatsapp-image-2023-01-25-at-10.10.11.jpeg"
+    },
+    {
+      "titulo": "Livros de Paulo Setúbal ganham versões em braille e audiolivro em Tatuí",
+      "imagem": "https://s2-g1.glbimg.com/kLt1YtvjWej-IQVrCecRyKDIvTs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/r/R3OlWaQuqG7OBBXX1vzw/m-271-0-1-07082026153855-vale-este.jpg"
+    },
+    {
+      "titulo": "Inmet alerta para baixa umidade do ar em mais de 50 cidades do Sertão da PB; veja quais",
+      "imagem": "https://s2-g1.glbimg.com/MN1Nhu0R0IOOghX5PDunReKDa-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/L/CLNdALQT2vB8XcVQHwrw/imagem-02.jpg"
+    },
+    {
+      "titulo": "Alunos de Engenharia de Sorocaba vencem prêmio nacional com jogos e app de tecnologia nuclear",
+      "imagem": "https://s2-g1.glbimg.com/70K2dXqVnL8w0KUdQeNcCjbR2KY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/e/uMub68SDawi5hIf83w9g/whatsapp-image-2026-08-13-at-22.13.51.jpeg"
+    },
+    {
+      "titulo": "Eleições 2026: candidatos ao Governo do PI iniciam campanha neste domingo (16)",
+      "imagem": "https://s2-g1.glbimg.com/aN97tAFxCtKYLgX6c_3oJpJPZXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/T/4EGAbBRn2837jELkwbNQ/edicao-imagens-g1-4-.jpg.jpeg"
+    },
+    {
+      "titulo": "Motorista morre após invadir pista contrária e capotar carro na rodovia Washington Luís em Rio Preto",
+      "imagem": "https://s2-g1.glbimg.com/6HEv1caL5VqOdT_9ABDxhC8FYlY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Z/snEWwHS9GWLMHpsJbp5A/design-sem-nome-10-.png"
+    },
+    {
+      "titulo": "Polícia desmonta esquema clandestino de desbloqueio de celulares no litoral de SP",
+      "imagem": "https://s2-g1.glbimg.com/VN7Bs57dSSQV09c9cD2H809kTpY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/C/jpe0V0SyGACetEpUG2lQ/foto-furtos-celulares.jpg"
+    },
+    {
+      "titulo": "Paula Belmonte abre campanha ao governo do DF com caminhada no centro de Brasília",
+      "imagem": "https://s2-g1.glbimg.com/ZDE8QyjBvYXf8FlXOKD92ikhNFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/t/fJPCUcTtOzmsO1YOg9pQ/whatsapp-image-2026-08-16-at-13.20.39.jpeg"
+    },
+    {
+      "titulo": "Homem é preso após agredir cliente com arma e garrafa em bar de Juiz de Fora",
+      "imagem": "https://s2-g1.glbimg.com/59TAR1REg-KIbJzy644QjbYCU8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/V/kquNlZSEylBiA8t6qAJA/whatsapp-image-2026-08-16-at-13.16.36.jpeg"
+    },
+    {
+      "titulo": "Erro de digitação coloca candidato de MS entre os mais ricos do Brasil com R$ 1,8 bilhão em bens",
+      "imagem": "https://s2-g1.glbimg.com/QW2yUbp7TyeAqyZ14s5-PuN5ixY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/9/qQ4S79QZutCaFl6h8ijA/design-sem-nome-20-.jpg"
+    },
+    {
+      "titulo": "Mutirão de empregos oferece mais de 200 vagas em Mogi das Cruzes",
+      "imagem": "https://s2-g1.glbimg.com/yKsIR4jFlSj63QS3nwQTwGzMpao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/D/DuRjjdR7SxVRNO5xctHQ/mutirao.jpg"
+    },
+    {
+      "titulo": "Irã oferece US$ 30 mil por captura ou morte de soldados dos EUA",
+      "imagem": "https://s2-g1.glbimg.com/LSucrKNNLNTUnj2VMjpTL9gQeE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/a/WQb9ZAQIuVfboyjGKyTw/69617ed0-94b3-11f1-870d-5d08c49babb2.jpg.webp"
+    },
+    {
       "titulo": "Eleições 2026: veja a agenda de Renan Filho neste domingo (16)",
       "imagem": "https://s2-g1.glbimg.com/HUEzgcRVpzY5TtMA1c9rWOR1w7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/khMWGtTi6CshM7HUDnuA/whatsapp-image-2026-08-05-at-14.11.03.jpeg"
     },
@@ -17,8 +65,8 @@
       "imagem": "https://s2-g1.glbimg.com/EMTTR6lnk36Zyd1OFglHEpgaoZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/3/trVaH8RJKNjPhAsWataA/imagem-g1-59-.png"
     },
     {
-      "titulo": "ANTT diz que ônibus não estava habilitado para realizar transporte interestadual de passageiros",
-      "imagem": null
+      "titulo": "ANTT diz que ônibus de acidente em Petrópolis que matou 10 pessoas 'era clandestino'",
+      "imagem": "https://s2-g1.glbimg.com/ttJzZDUue9kO-lJ4_7ubOa9NOWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/W/C1LvuPTpuPKfBOTped5g/16bus4.jpeg"
     },
     {
       "titulo": "Homem é preso por suspeita de agredir  mulher em Barra Mansa",
@@ -71,55 +119,7 @@
     {
       "titulo": "'Caminhada do Amicão' reúne cerca de 500 cães em Três Rios",
       "imagem": "https://s2-g1.glbimg.com/Jl4jD1-ldfehNQdYa4-HI4lZi_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/s/9FG7wFQvm9xsr7L8utrw/whatsapp-image-2026-08-16-at-13.10.33.jpeg"
-    },
-    {
-      "titulo": "De nenhum bem a R$ 47 milhões: veja o patrimônio dos candidatos ao Senado por Alagoas declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/X8W4MF8LkuEoYn55q-VjrGrNEEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/D/1DXskyQ0aoHiqJcAwBxw/eleicoes.jpeg"
-    },
-    {
-      "titulo": "Eleições 2026: veja as agendas dos candidatos ao governo do Pará no 1º dia oficial de campanha",
-      "imagem": "https://s2-g1.glbimg.com/KVTGdMzDX-PY47GrSiKbV8bkDME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/D/0PHmsiT8yBtIBNQupm7A/1786898667888331.jpg"
-    },
-    {
-      "titulo": "Defesa Civil recomenda demolição de madeireira e três comércios atingidos por incêndio em Campinas",
-      "imagem": "https://s2-g1.glbimg.com/7l6DSNGeGTYVDQMpDvWV-0f-Ies=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/M/DrkrCpSNW3AT5NwXbEVQ/capas-ana.jpg"
-    },
-    {
-      "titulo": "Candidatos a governador da Bahia começam campanhas eleitorais no estado",
-      "imagem": "https://s2-g1.glbimg.com/7jwxvqjJ4VKJEGaeEEzYlLB0MxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/m/XemjHTR9aNrS48wS7G8Q/candidatos-ao-governo-da-bahia.jpg"
-    },
-    {
-      "titulo": "Haddad lança campanha ao governo de SP em comício de Lula em São Bernardo do Campo",
-      "imagem": "https://s2-g1.glbimg.com/5sIyxmIZpPUNUNJQpJgv_mANl_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/v/7YRAKTRfyUCtxMhTtgQg/fant-geral-fant-lula-20260816-0846-frame-299597.jpeg"
-    },
-    {
-      "titulo": "Leandro Grass abre campanha ao governo do DF com comício em São Sebastião",
-      "imagem": "https://s2-g1.glbimg.com/bSs0XX8UbG1tHOX5IcgDaChFFtk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/d/VrTehaTXSUnZ14Z8ReBA/whatsapp-image-2026-08-16-at-12.33.32.jpeg"
-    },
-    {
-      "titulo": "Corpo de empresário de 32 anos que morreu após doença rara chega ao AC; enterro ocorre neste domingo (16)",
-      "imagem": "https://s2-g1.glbimg.com/7HXAx-cVPWfXgEkY_40drlXsGCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/n/VsMLBKRz2eZbSZGnqkhg/copia-de-midia-de-distribuicao-g1-7-.png"
-    },
-    {
-      "titulo": "Homem é preso com 3,6 mil cigarros eletrônicos em caminhonete transportada por caminhão-cegonha no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/xCvEjZfvaQ9DXywUlyZakxhMyw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/M/NKL4KkReCRR9apHl9smg/apreensao-12-.png"
-    },
-    {
-      "titulo": "Duas pessoas sofrem ferimentos leves após carro bater contra mureta central da Via Dutra em Jacareí",
-      "imagem": "https://s2-g1.glbimg.com/DORBtL4fDbCqzEFfV2CT0XeZX5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Q/q5G5eNRS6RC2rdoVhRdQ/acidente.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Estação Agrícola, 16 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/2i1WGPZgiqkV6LHhBBuhG_lHiyk=/s01.video.glbimg.com/deo/vi/84/25/14872584"
-    },
-    {
-      "titulo": "Aposta do Paraná na Mega-Sena acerta cinco números e leva mais de R$ 260 mil; veja a cidade",
-      "imagem": "https://s2-g1.glbimg.com/uWWg9r_YnVxE7_QFtTBUrk-gadY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/F/07GIU5TCe25kklNrTGXg/mega-sena-1200.webp"
-    },
-    {
-      "titulo": "Filho de policial civil morre baleado durante tentativa de roubo de moto na Zona Norte de SP",
-      "imagem": "https://s2-g1.glbimg.com/F0invi6uE6YIQHyimAzKX9cJNno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/1/FHUFzzTzKJDV22Y2XXyA/morte-zona-norte-sp.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T17:26:07.405Z"
+  "atualizadoEm": "2026-08-16T17:44:03.444Z"
 }
