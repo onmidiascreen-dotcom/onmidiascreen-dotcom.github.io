@@ -1,6 +1,86 @@
 {
   "noticias": [
     {
+      "titulo": "De R$ 100 mil a R$ 2,9 milhões: veja o patrimônio dos candidatos ao governo do Rio Grande do Norte declarado ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/NS5c7hI2_VmZNSz8nkjIqCLC-pw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/U/OVdMwPQcAyvUd4UnnYqQ/mixcollage-13-aug-2026-02-41-pm-6828.jpg"
+    },
+    {
+      "titulo": "Homem é morto a tiros dentro de casa abandonada na Zona Leste de Manaus",
+      "imagem": "https://s2-g1.glbimg.com/G_vCC8VCTxe4RzjmfdAyxK7g1go=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/R/GQovTIQfWPguKZeeRb8A/homem-e-encontrado-morto-com-tiro-na-cabeca-dentro-de-casa-abandonada-em-manaus.webp"
+    },
+    {
+      "titulo": "Romeu Zema inicia campanha à Presidência em Montes Claros",
+      "imagem": "https://s2-g1.glbimg.com/qfOySkeLJL3TMIfQ8OUXQduXH18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/U/91BXggRzWAXdocBO9zeQ/zema-missa.jpeg"
+    },
+    {
+      "titulo": "Motociclista é encontrado morto em canteiro central da SP-300 em Pirajuí",
+      "imagem": "https://s2-g1.glbimg.com/SoOt2r02sMEpIPWSl24c5mxerug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/U/OQAQYAQ4aEGi8FOSOEEQ/edicao-g1-agenda-25-.png"
+    },
+    {
+      "titulo": "Mato Grosso terá 479 candidatos nas eleições de 2026, número menor que o registrado em 2022",
+      "imagem": "https://s2-g1.glbimg.com/jXdcYLOVCBnrUtdlH2AgltERI6k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/t/F9m2fpSQCOzZTeJhWoKA/videos-g1-29-.jpg"
+    },
+    {
+      "titulo": "De R$ 967,43 a R$ 1,8 milhão: veja o patrimônio dos candidatos ao governo do Piauí declarado ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/-j9k3lEm396y3tGFCr3oJyrvfpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/O/xP8A58ToypqLGnSPAZwQ/capa-govenro-.png"
+    },
+    {
+      "titulo": "Ladrões roubam quatro obras do Renascimento em museu da Sicília durante feriado italiano",
+      "imagem": "https://s2-g1.glbimg.com/0QAiMN3MH00l3uNRQzeghjhUfU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/U/AR85XeSsqyo8WqBB4Igw/ap26228358395642.jpg"
+    },
+    {
+      "titulo": "Artista de RO é selecionada para expor obras no Carrousel du Louvre, em Paris",
+      "imagem": "https://s2-g1.glbimg.com/Aem2hKNzqYpPnLYFs5PLfl7atKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/4/GK9AXdQTqfqp1K3IIeDA/1.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: veja a agenda dos candidatos ao Governo do MA no primeiro dia oficial de campanha",
+      "imagem": "https://s2-g1.glbimg.com/KeRnqKrvkaAlkDQuT5XEh2eB3Gw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/5/UGsIGHSJeekXKW9iU9zg/montagens-1920-x-1080-px-2026-08-14t083846.142.png"
+    },
+    {
+      "titulo": "Ivo Kos, empresário preso por agredir a mulher, já foi acusado de crime financeiro em processo de 2025",
+      "imagem": "https://s2-g1.glbimg.com/l84kqXnhwP0hu2N6qMJtz4K-0GU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/s/8PMBfMQs2rWzbABMqh5g/fotojet-2026-08-15t175903.291.jpg"
+    },
+    {
+      "titulo": "Missionário redentorista Padre César Moreira morre aos 81 anos",
+      "imagem": "https://s2-g1.glbimg.com/zzvYTfels-iL65nVnh0MpBFm9PM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/M/p5qRUbQUiSLJU5xPqD3w/pe.-cesar-moreira-arquivo-provincial-11-easy-resize.com-138483-1280-876-0-0.webp"
+    },
+    {
+      "titulo": "Nove morrem em tombamento de ônibus em Petrópolis",
+      "imagem": "https://s2-g1.glbimg.com/SzOMwKo2VfXdqwcVR_Hng3nW1hs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/7/Sl2rl0SpqcqlLtXgE4Vw/16bus1a.jpg"
+    },
+    {
+      "titulo": "Turismo de Atibaia e Região destaca parceria para impulsionar turismo inclusivo",
+      "imagem": "https://s2-g1.glbimg.com/zkb40EypAwXqJt6kO4P4cBCqkns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/n/tLZO3WQU6uKP9yCT3sfw/whatsapp-image-2026-08-12-at-11.01.02.jpeg"
+    },
+    {
+      "titulo": "Acompanhe a situação de consultas, exames e vacinas pelo aplicativo",
+      "imagem": "https://s2-g1.glbimg.com/mFjjKq0Lcfs-kOAImF9mxohfkKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/l/0HwDM8R6S27PwBQyAyFA/46-aplicativo-atendenet-saude-foto-carlos-poly04.jpg"
+    },
+    {
+      "titulo": "Feira do Empreendedor traz Roberta Miranda no domingo (16); confira",
+      "imagem": "https://s2-g1.glbimg.com/2a4NwE3DBLVMPwt61DVkUanoOV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/b/3igzojQDGu70KtapdR2A/31-01.jpg"
+    },
+    {
+      "titulo": "Eduardo Velloso declara R$ 9,8 milhões em bens, 12% a mais que em 2022",
+      "imagem": "https://s2-g1.glbimg.com/R8FUD9W5yO5Ybt6FWexdkGmY3ck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/G/n7y3udS9ePc46VC77yWw/midia-de-distribuicao-g1.png"
+    },
+    {
+      "titulo": "Você viu? Irmãos somem em rio, mulher morre em academia, terremoto é sentido no Acre e mais",
+      "imagem": "https://s2-g1.glbimg.com/NeKLwgRnZeA7Dnn4x5Di8WXuRzI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/y/LfXTi7RjmVVP6BBqROEQ/midia-de-distribuicao-g1-3-.png"
+    },
+    {
+      "titulo": "Adolescente de 14 anos é perseguido e morto a tiros por dupla em moto em Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/sYnRww6gcKlBt64gSmXbxIASrW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/grGw6uSTObCc6uVT7zrw/whatsapp-image-2026-08-16-at-07.45.11.jpeg"
+    },
+    {
+      "titulo": "Homem é espancado após tentar sequestrar criança de 5 anos em Itapemirim",
+      "imagem": "https://s2-g1.glbimg.com/yNGmxfgmVgAvgCUG2ef-VH2shzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/w/S/YVFILpR6WyrllfW645AQ/gaz-meio-dia-reg-2002-morte-de-bebe.mp4-snapshot-00.59.840.jpg"
+    },
+    {
+      "titulo": "De R$ 5 mil a R$ 47 milhões: veja o patrimônio dos candidatos ao governo do DF declarado ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
+    },
+    {
       "titulo": "Suspeito de matar sargento da PM é preso no litoral do Piauí; vídeo registrou crime",
       "imagem": "https://s2-g1.glbimg.com/cD9GfO4vn0PdP-TS-bnAU3uBVfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/B/BFXduFT7GyvKBVVWqTTQ/edicao-imagens-g1-99-.png"
     },
@@ -39,87 +119,7 @@
     {
       "titulo": "Proibição de deepfakes, showmícios e outdoors: VEJA o que não pode em propagandas eleitorais no Acre",
       "imagem": "https://s2-g1.glbimg.com/UKBAYz6wLFpXuzdVjhrLapUspew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/FzkaJDRGaZnMi4MVkeew/edicao-imagens-g1-33-.png"
-    },
-    {
-      "titulo": "K9 Kira e policial do Baep do interior de SP representam o Brasil em 'Olimpíada Canina' nos EUA",
-      "imagem": "https://s2-g1.glbimg.com/UnEOze6dwxaFyu-RutBdFmRkO4M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/m/Uyg96NTgunHNyidMD91A/canil-1-.png"
-    },
-    {
-      "titulo": "Criadores de vacas leiteiras usam ventilador e umidificador para evitar estresse térmico no noroeste de SP",
-      "imagem": "https://s2-g1.glbimg.com/8i9A9NCMN3YQsJCdzhA2rd1bBG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/U/AAYrB9QZuATWFeJaVLFg/whatsapp-image-2026-08-14-at-08.30.55.jpeg"
-    },
-    {
-      "titulo": "Músico de Itu ganha bolsa de doutorado em universidade de 900 anos que teve Copérnico como aluno",
-      "imagem": "https://s2-g1.glbimg.com/mfh33L-6VpNVHpOmrSNCmdaijUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/U/Ko1sSYRaeuGfSaIIcqOQ/leo.png"
-    },
-    {
-      "titulo": "Aguardente, kombucha e nozes: excesso de lichias colhidas na safra são transformadas em produtos variados no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/jaUC2dhBQsmgy97erRZxfV-uGwA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/A/mZKL7UQGCOQz3YY5RFxQ/lichia1.jpg"
-    },
-    {
-      "titulo": "Festival de Cinema do Subúrbio de Salvador abre inscrições para curtas e longas-metragens",
-      "imagem": "https://s2-g1.glbimg.com/CJhoI5cA4kbpVJ-2nqDSin6f520=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/I/N1nO2ORQyJBIESXAmyEw/whatsapp-image-2026-08-10-at-19.01.29.jpeg"
-    },
-    {
-      "titulo": "Ideb: 147 escolas do DF ficaram sem nota por não terem testado o ensino básico; entenda",
-      "imagem": "https://s2-g1.glbimg.com/2WwLT7IvbPaFmci4vTAxtkbwzKI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/A/n/pZV6fLQ6Gvense7qmoOg/volta-as-aulas-df2-frame-2261.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Campo - TO de domingo, 16 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/vBnGpuTe1S8RlifazMMNHuH8R-4=/s01.video.glbimg.com/deo/vi/97/09/14870997"
-    },
-    {
-      "titulo": "Conheça padre goiano de 33 anos autor de hinos que embalam missas e grandes festas católicas no Brasil",
-      "imagem": "https://s2-g1.glbimg.com/W9Ubj_i-qL6UI6rAzSHNzTJL03o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/X/aKEw6EQmOcQT2YLOwZ0A/copia-de-copia-de-copia-de-padrao-foto-g1-goias.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Campo GO de domingo, 16 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/psq5bngV2skmNhuh5Is3v_30R-g=/s01.video.glbimg.com/deo/vi/77/01/14870177"
-    },
-    {
-      "titulo": "Bolo de laranja champanhe: aprenda receita que combina sabor cítrico com massa macia",
-      "imagem": "https://s2-g1.glbimg.com/QrJ9NSa1_hXHYmPQSfOjQOFb4qg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/U/ZMsxaOQkOagwoJAn0xdA/still0815-00000-1-.png"
-    },
-    {
-      "titulo": "Couve-flor roxa, amarela e verde: agricultor transforma produção e conquista consumidores em Cascavel",
-      "imagem": "https://s2-g1.glbimg.com/IFagANE3HCii386w3ihBma1UPKA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/D/2XvIMXQBmAycaS04bJIQ/still0815-00002.png"
-    },
-    {
-      "titulo": "'Nunca cogitamos não lançar': o relato de um cientista que ajudou a fabricar a bomba atômica que devastou Nagasaki",
-      "imagem": "https://s2-g1.glbimg.com/9B9FO3ybrtkV6VR67OhNGfbDLxg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/3/JBSGfeTFOMvjCVDZdUJw/7eb54993-b8da-478c-a36c-455d47296cd3.png"
-    },
-    {
-      "titulo": "Receita Nosso Campo: aprenda a fazer uma broa de fubá com erva doce",
-      "imagem": "https://s2-g1.glbimg.com/zGEZh7JlOLCmHFZCZst--XECwB8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/x/n8CetoT9inGPw4qxvDuQ/sor-broa-fuba-060826.copy.01-frame-8652.jpeg"
-    },
-    {
-      "titulo": "Mosca-de-estábulo avança no inverno e causa prejuízo a pecuaristas no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/eipnVOmDnXFlfSGATUGQYNDRapY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/g/NgDMzdSDOXTc9UZ8HtnA/bau-surto-mosca-vale-video-mixdown-1-frame-270.jpeg"
-    },
-    {
-      "titulo": "Peão de Orindiúva viaja 10 mil km para divulgar cultura caipira",
-      "imagem": "https://s2-g1.glbimg.com/RBEO4ahyeMVUwS8sTXEh91zbjJY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/Q/rAlT1ITuq6fR03eT7cDw/sjp-berranteiro-volta-video-mixdown-1-frame-0.jpeg"
-    },
-    {
-      "titulo": "Pavê de graviola: veja como fazer sobremesa fácil e refrescante",
-      "imagem": "https://s2-g1.glbimg.com/akfBWHnc_nqHGRi92iptBmb1LA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/1/0hJLBURtOu64pc89jxSg/pave.jpeg"
-    },
-    {
-      "titulo": "Buscas por kitesurfista desaparecido são retomadas no mar neste domingo (16), em São Luís",
-      "imagem": "https://s2-g1.glbimg.com/vJDH_VZJko9qzwrN3MlYyyGC-tA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/7/CjWQJCSIKQqgoFL3pIag/montagens-1920-x-1080-px-1-.png"
-    },
-    {
-      "titulo": "Tião Bocalom aumenta patrimônio em 15% e declara mais de R$ 1,2 milhão ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/LJbRhFXOCBLXf4-nhb2vo9eCdNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/0/QZkSMeTvGEQvZ6DsKd5Q/copia-de-midia-de-distribuicao-g1.png"
-    },
-    {
-      "titulo": "Círio de Nazaré 2026: quem são a desenhista e o estilista responsáveis pelo manto de Nossa Senhora",
-      "imagem": "https://s2-g1.glbimg.com/0LW3cuvlMLVYhIFq2ZltwnmcJJQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/b/Lec8DFRNeuaK65hUB7kQ/geral-g1-14-.png"
-    },
-    {
-      "titulo": "Cenário de novela e terra do biscoito Amor Perfeito: conheça a cidade mais antiga do Tocantins",
-      "imagem": "https://s2-g1.glbimg.com/KDWoPdUfalGAgaiPhvqyCETwY4M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/r/B/B4AOeYQ6egB2WQlpigGg/imagem-aerea-mostra-praca-da-matriz-de-nossa-senhora-da-natividade-durante-do-encontro-das-folias-do-divino-flavio-cavalera.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T11:58:20.274Z"
+  "atualizadoEm": "2026-08-16T12:48:09.203Z"
 }

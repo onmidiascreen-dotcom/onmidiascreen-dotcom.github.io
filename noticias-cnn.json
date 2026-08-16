@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Onda de calor extrema pressiona economia europeia e força medidas drásticas",
+      "imagem": null
+    },
+    {
+      "titulo": "Botafogo busca reconstrução no Brasileirão após sofrer goleada histórica",
+      "imagem": null
+    },
+    {
+      "titulo": "Como uma rota de navegação congelada está aproximando a China e a Rússia",
+      "imagem": null
+    },
+    {
       "titulo": "Unicamp realiza feira de profissionalização para jovens pretos e pardos",
       "imagem": null
     },
@@ -107,19 +119,7 @@
     {
       "titulo": "Começa hoje autorização para propaganda eleitoral nas ruas e na internet",
       "imagem": null
-    },
-    {
-      "titulo": "Candidatos escolhem berço político para início da campanha eleitoral",
-      "imagem": null
-    },
-    {
-      "titulo": "Vitória x Botafogo: onde assistir ao jogo do Campeonato Brasileiro",
-      "imagem": null
-    },
-    {
-      "titulo": "Chapecoense x Bahia: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T11:58:17.790Z"
+  "atualizadoEm": "2026-08-16T12:48:08.682Z"
 }
