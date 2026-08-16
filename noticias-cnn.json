@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Furacão Lala atinge Havaí com ventos fortes e chuva intensa",
+      "imagem": null
+    },
+    {
       "titulo": "Liverpool x Como: horário e onde assistir ao amistoso",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "São Paulo x Coritiba: escalações e onde assistir ao jogo do Brasileirão",
       "imagem": null
-    },
-    {
-      "titulo": "Guepardo Investimentos compra 5,44% da Vivara, informa joalheria",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T05:34:55.125Z"
+  "atualizadoEm": "2026-08-16T06:00:58.570Z"
 }
