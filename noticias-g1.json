@@ -1,6 +1,46 @@
 {
   "noticias": [
     {
+      "titulo": "Pesquisa nacional levanta dados sobre a saúde dos brasileiros",
+      "imagem": "https://s2-g1.glbimg.com/FsEHJ9lEJRqjxeU68_hho7opKfA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/o/NUeDATSx2Pl9SIL26l7w/captura-de-tela-2026-08-15-214354.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: saiba como foi o dia dos candidatos ao Governo do Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/TPehTQBxgknbr3-zgqGbdPTiViE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/B/rerdyARNOs6L57P9Ru6A/andre-luis-.jpg"
+    },
+    {
+      "titulo": "El Niño deixa o verão amazônico com tempo seco e temperaturas altas, em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/8tLPBXFUCnxg6LuACqdxEDgpcFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/V/feP5jeSHq6T7k3UAFpOA/captura-de-tela-2026-08-15-213359.jpg"
+    },
+    {
+      "titulo": "Avião levanta voo fora da pista em Munique, raspa a cauda e retorna ao aeroporto",
+      "imagem": "https://s2-g1.glbimg.com/jqWJAoa1J86xDMSoEvz2dKA-DPE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/F/F3i0qWRZWCxpFr0ny03Q/captura-de-tela-2026-08-15-212845.png"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição deste sábado, 15 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/9FuXyIEOgLS-mEL03_N4rXSx2g8=/s01.video.glbimg.com/deo/vi/46/30/14873046"
+    },
+    {
+      "titulo": "Eleições 2026: propaganda eleitoral nas ruas e na internet começa neste domingo (16); veja as principais regras",
+      "imagem": "https://s2-g1.glbimg.com/gXLbwKsCW2pM0peltHJMwhnx7_g=/s.glbimg.com/jo/g1/f/original/2016/10/02/lixohorto.jpg"
+    },
+    {
+      "titulo": "Acidente entre van, carro e moto deixa quatro feridos em Santarém; motorista é suspeito de embriaguez",
+      "imagem": "https://s2-g1.glbimg.com/uX-J2Rl6Na0TfibGx8F8cy9DsRY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/c/YxwW9QQ32dpL5KHSDiGw/whatsapp-image-2026-08-15-at-18.32.08.jpeg"
+    },
+    {
+      "titulo": "Pablo Marçal declara patrimônio de R$ 7,4 bilhões; vice diz ter R$ 495 milhões",
+      "imagem": "https://s2-g1.glbimg.com/FlR0S7ZoNdniIiZadWO4brVvWLU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/d/JssFBGSSA7veHbKOjLGA/marcal-.jpg"
+    },
+    {
+      "titulo": "Imagens aéreas mostram buscas por kitesurfista desaparecido em praia de São Luís; operação segue à noite na faixa de areia",
+      "imagem": "https://s2-g1.glbimg.com/lMge6eCswHMrbg0SAA1TtJ6ovWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/3/Vo6VmnRnSGwucnACn4gQ/montagens-1920-x-1080-px-1-.png"
+    },
+    {
+      "titulo": "Incêndio ameaça um dos maiores complexos de cavernas na América Latina",
+      "imagem": "https://s2-g1.glbimg.com/P9EPSNW2WCzp3LTMr2DfhWUVfsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/5/odoV1ISAS9t5y7qn35yg/globo-canal-4-20260815-2000-frame-66066.jpeg"
+    },
+    {
       "titulo": "Ivan Moraes diz sofrer 'ataques' do PSB para retirar candidatura ao governo do estado às vésperas do início da campanha eleitoral",
       "imagem": "https://s2-g1.glbimg.com/8YUbaBwGLzucALvI3lH-wDWMrLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/0/Waig9VRY6QmoNjReBg2g/ivan-moraes-coletiva.jpeg"
     },
@@ -79,47 +119,7 @@
     {
       "titulo": "Show de Roberto Carlos é cancelado horas antes da apresentação no Rio",
       "imagem": "https://s2-g1.glbimg.com/9Em3v11bi69x_SwCMLex9C8nkJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/M/KUQiv8Qh20qvFqQlKeAg/robertocarlos85.jpg"
-    },
-    {
-      "titulo": "TRE valida apoio do Avante a Elizeu Aguiar ao governo do PI e invalida candidatura de Gustavo Henrique",
-      "imagem": "https://s2-g1.glbimg.com/jHydTq5ROvK7Gdx-2Xj6KR1T8ZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/A/7caFEwRLyuBPiJClB02g/edicao-imagens-g1-8-.png"
-    },
-    {
-      "titulo": "PM Ambiental apreende drogas com ajuda de cão farejador em área de mata no litoral de SP; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/ZHK49PHu-FmCslm7RYCCoAQ0ndA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/o/JpZZfaQM6OSv5Muwk5qQ/g1-phed-7-.png"
-    },
-    {
-      "titulo": "BDXP 2026 conecta especialistas a profissionais em Manaus e prova que a Inteligência Artificial já impulsiona carreiras no Norte do país",
-      "imagem": "https://s2-g1.glbimg.com/Eog8RaqUfOUPGbQ1np2WgoYjmds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Y/QBiIJNRPWlInw1upxsyQ/whatsapp-image-2026-08-15-at-18.45.03.jpeg"
-    },
-    {
-      "titulo": "Mulher morre após carro perder o controle e atropelar participantes da Marcha para Jesus em Terra Santa, no PA",
-      "imagem": "https://s2-g1.glbimg.com/1XQnc0pKdRxDX_LCeno70sk_9y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/o/FMmRMyQjCl8ANr0cty7Q/gemini-generated-image-a98hwda98hwda98h.jfif"
-    },
-    {
-      "titulo": "Sem radares móveis, Ribeirão Preto registra queda de 44,8% nas multas de trânsito no primeiro semestre",
-      "imagem": "https://s2-g1.glbimg.com/GOT464bjQ3BKqmoFku_v8x5sCG4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/y/snZk63QcmPm44LDkNY7w/radar-fixo-ribeirao.jpg"
-    },
-    {
-      "titulo": "Sexta e sábado concentram maior número de acidentes na região de Campinas, aponta Infosiga",
-      "imagem": "https://s2-g1.glbimg.com/MFPdwZaVpmL9FzDsr548VyfCpMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/z/hBvX2USLamjJUaiQdCtg/g1-2026-01-29t140352.230.png"
-    },
-    {
-      "titulo": "MTE interdita setor de estação de tratamento de esgoto em que trabalhador morreu afogado em Sorocaba",
-      "imagem": "https://s2-g1.glbimg.com/GCLCAEMx7AuDKOJqFRQIq8oN8aI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/b/IZb9uLRk6ABJQRqEcHsA/centro-de-distribuico-vitoria-regia.jpg"
-    },
-    {
-      "titulo": "Assista ao Boa Noite Espírito Santo",
-      "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
-    },
-    {
-      "titulo": "VÍDEOS: RJ2 de sábado, 15 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/ogDwFcvVoW95dofLu079dnCqHec=/s01.video.glbimg.com/deo/vi/97/26/14872697"
-    },
-    {
-      "titulo": "VÍDEOS: EPTV 2 Sul de Minas de sábado, 15 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/LQuc7mkE_RALlvnFudNk6gRzvjo=/s01.video.glbimg.com/deo/vi/19/27/14872719"
     }
   ],
-  "atualizadoEm": "2026-08-15T23:57:58.290Z"
+  "atualizadoEm": "2026-08-16T01:35:48.498Z"
 }
