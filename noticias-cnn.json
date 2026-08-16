@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Sigilo da fonte: &#8220;STF não é ministro X ou Y; é uma Corte&#8221;, diz especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "Controlar a dívida pública não é ideologia, é necessidade, diz economista",
+      "imagem": null
+    },
+    {
+      "titulo": "Sobreviventes de terremoto na Indonésia acampam à espera de ajuda",
+      "imagem": null
+    },
+    {
       "titulo": "Furacão Lala atinge Havaí com ventos fortes e chuva intensa",
       "imagem": null
     },
@@ -107,19 +119,7 @@
     {
       "titulo": "Empresário da Faria Lima é preso suspeito de agredir esposa em São Paulo",
       "imagem": null
-    },
-    {
-      "titulo": "Pablo Marçal registra candidatura a presidente apesar de inelegibilidade",
-      "imagem": null
-    },
-    {
-      "titulo": "Abel Ferreira pede calma após derrota: “Parece que está em último&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "São Paulo x Coritiba: escalações e onde assistir ao jogo do Brasileirão",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T06:00:58.570Z"
+  "atualizadoEm": "2026-08-16T06:57:46.176Z"
 }

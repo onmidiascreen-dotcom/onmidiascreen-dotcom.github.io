@@ -1,125 +1,125 @@
 {
   "noticias": [
     {
+      "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
+      "imagem": "https://s2-g1.glbimg.com/LgPsNw5uSBFV_v_e2jfJ6AFRxNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/t/2X1iStRGAS2ZD5ENQeCQ/previsao-tempo-bras-lia-20260816-030706.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/EfNly-WgAsNcqMU2oCtKi9anfLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/2/09CMxsTJAm6pkNSjN35Q/previsao-tempo-s-o-paulo-20260816-030649.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/qVmLT8_xaw-8o53qlH0eWT53Yeo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/d/fD5TfZTo6oyJyGfJ5q1w/previsao-tempo-s-o-bernardo-do-campo-20260816-030632.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/mYuU48-2JxMpQhLx_hV4ZDnlU3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/b40NfvQzG193X2dPZq1A/previsao-tempo-santo-andr-20260816-030614.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/VHVUJtV6gtwguXXZZfqxqnvYWj8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/3/eaElH9R5ylGup8Y2y62A/previsao-tempo-osasco-20260816-030557.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/VMH4EiW8hcDAKjCNuhK9vBDTPuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/e/Ht124YRk2UeIXbHGPC7Q/previsao-tempo-guarulhos-20260816-030541.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): dia de sol com algumas nuvens e névoa ao amanhecer; noite com poucas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/FDSJ9FgMrF68gyOALWemEUZ-jBo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/e/L011SMQzycAT0TMeTcAw/previsao-tempo-s-o-gon-alo-20260816-030524.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/bJxHwF5fp1MNkRV-pBrgCffMh0g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/R/fxfOl6SnaWQJVntZHhqw/previsao-tempo-rio-de-janeiro-20260816-030509.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/qLXjHcMbmjLIlJ2m20sjqoxrEPI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/U/bPmS3ZQlmf32BbhQJhcQ/previsao-tempo-nova-igua-u-20260816-030452.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol o dia todo, com muitas nuvens de manhã; à noite, pancadas de chuva",
+      "imagem": "https://s2-g1.glbimg.com/-oc3ALfD8E9fNpvTUsLPeHCbA6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/j/rmHzbtQFSc9imhlbKG7w/previsao-tempo-niter-i-20260816-030433.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): dia de sol com algumas nuvens e névoa ao amanhecer; noite com poucas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/yTke5CUL2DH56uhhpDlPpftWy_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/F/0ZQlVDR0At8NqwNnSIcg/previsao-tempo-duque-de-caxias-20260816-030416.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
+      "imagem": "https://s2-g1.glbimg.com/Yv-8tcSfcyk3KfqH7nfdMnDbqfA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/K/lVBg3rQhONBX02nF7bXw/previsao-tempo-sete-lagoas-20260816-030400.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
+      "imagem": "https://s2-g1.glbimg.com/Iu7LqSrzDfNm97IOGS-Sg1z6dyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/r/Z8jnKhSneCocePyegerw/previsao-tempo-ribeir-o-das-neves-20260816-030340.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Contagem (MG): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
+      "imagem": "https://s2-g1.glbimg.com/45cxaxBPYiitDo4B28CVp4eeETg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/z/3WtFp4QbuMAlhA78b4BA/previsao-tempo-contagem-20260816-030313.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Betim (MG): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
+      "imagem": "https://s2-g1.glbimg.com/pk3fs5GEt63EX3TWuXsNqkjmgsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/l/yMKyRQSwu3PwBWjFKLbg/previsao-tempo-betim-20260816-030246.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): sol com algumas nuvens; não chove",
+      "imagem": "https://s2-g1.glbimg.com/ZUm0EdtCtNVhd12e-qN1BLBOAnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/6/MfthwUS7epdA3VfBA2Gw/previsao-tempo-belo-horizonte-20260816-030228.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; não chove",
+      "imagem": "https://s2-g1.glbimg.com/81-lA8AEMSpkBofdSyuQ1zSe9cI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/Q/naoSFDTTicsF4SW3AKiw/previsao-tempo-recife-20260816-030204.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Paulista (PE): dia de sol, com muitas nuvens à tarde; à noite a nebulosidade diminui",
+      "imagem": "https://s2-g1.glbimg.com/lkzdOMrkLGzhaEhdmRUQQvRhtHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/3/axivPcRmyLzGYegYt2lQ/previsao-tempo-paulista-20260816-030137.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Olinda (PE): dia de sol, com muitas nuvens à tarde; à noite a nebulosidade diminui",
+      "imagem": "https://s2-g1.glbimg.com/gy6P1hefZ-AbtTKmsfPVg4IhM38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/t/e6maBjSxGpyfzYMsLRIA/previsao-tempo-olinda-20260816-030112.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Jaboatão dos Guararapes (PE): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
+      "imagem": "https://s2-g1.glbimg.com/AkHEzhKhGEtsyM93ipSCydrgxPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/B/za8HHgSEiUeG28EAScEA/previsao-tempo-jaboat-o-dos-guararapes-20260816-030045.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Cabo de Santo Agostinho (PE): dia de sol, com muitas nuvens à tarde; à noite a nebulosidade diminui",
+      "imagem": "https://s2-g1.glbimg.com/lkUM4YOm3aC8AhWUqshVfcJ-92M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/b/yozpQKQ7qTxYb6E20nUQ/previsao-tempo-cabo-de-santo-agostinho-20260816-030029.jpeg"
+    },
+    {
+      "titulo": "China domina mercado de robôs humanoides; entenda por que os EUA decidiram barrá-los",
+      "imagem": "https://s2-g1.glbimg.com/v9kINWoD9gKqYdWu0wLR8klpP3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/q/QtWwBxQNC7feJywGUBBA/78143445-1004.webp"
+    },
+    {
+      "titulo": "'Agora estamos juntos': como irmãos separados na infância se encontraram 56 anos depois em lar de idosos",
+      "imagem": "https://s2-g1.glbimg.com/CEBpAqKsdnF0hKPxikboEyi-0Nw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/k/QA1KL4RzKBfOPRtLAWXA/molduras-g1-3-.png"
+    },
+    {
+      "titulo": "Carlos Sant'Anna, candidato ao Senado pelo Novo, declara R$ 889 mil em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/eQh-y4DXESnhh76ANyy0kEcs-zU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/g/8iMT5ZQNmMTcy7B6xucw/convencao-novo.jpeg"
+    },
+    {
+      "titulo": "Mailson da Silva Neto, candidato ao Senado pelo PCO, não declara bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/_Oa-UU15pmPjaJzTrnbs7gPHCOU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/B/AGy6xTQYOofKNr7OfsgQ/mailson-neto.jpg"
+    },
+    {
+      "titulo": "Goret Bitu, candidata ao Senado pela UP, não declara nenhum bem ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/bSt7z05Uxa4Y3yb5h1jKbGTggTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/K/uXvXqEQbqoSA6PEqilTA/whatsapp-image-2026-08-03-at-16.20.36.jpeg"
+    },
+    {
+      "titulo": "Mariano Macedo, candidato ao Senado pelo PSTU, declara R$ 60 mil em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/0vziZjMYow-NFnfGTvb416Ftvmo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/e/BLrnBnTZCgJaf4YBLTvA/captura-de-tela-2026-08-13-094308.png"
+    },
+    {
+      "titulo": "Pastor Gilvan Costa, candidato ao Senado pelo Democrata, não declara nenhum bem ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/E62UC834XGGzzcjdyLYZ3ZK-WZY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/w/VP3CejQoK07eZVLSSZkQ/whatsapp-image-2026-08-03-at-12.36.00.jpeg"
+    },
+    {
+      "titulo": "Samuel Timóteo, candidato ao Senado pela UP, declara R$ 100 mil em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/77oOfVNP31cyYpwahvV-A0nKBDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/8Jxx7YSGieAyEXOjgkUg/whatsapp-image-2026-08-03-at-16.19.05.jpeg"
+    },
+    {
       "titulo": "Ela largou a carreira em Relações Internacionais para costurar e hoje fatura R$ 80 mil",
       "imagem": "https://s2-g1.glbimg.com/T-PXpzEhOnZtIzTDNauEOct-rdM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/2/V0x7aiTZanKN1qoWDDCA/captura-de-tela-2026-06-15-131150.png"
-    },
-    {
-      "titulo": "Solturas, perdão de dívidas, queixas de 'conduta': o que motivou o afastamento de juiz indígena que denuncia perseguição",
-      "imagem": "https://s2-g1.glbimg.com/LeMrlGl9f3HA9kwNSKO-Ge6Kjfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/A/kMPVVdSoa4MLxz1KOMtg/design-sem-nome-90-.png"
-    },
-    {
-      "titulo": "Mãe de 50 anos é incentivada a voltar aos estudos, entra na turma da filha e ambas se formam juntas no RS: 'Nunca é tarde'",
-      "imagem": "https://s2-g1.glbimg.com/hblG0YDUcWI1h1-nDtKjosHXh-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/V/Um6wXNT6y7G4FaHFwbGQ/whatsapp-image-2026-08-07-at-15.14.17.jpeg"
-    },
-    {
-      "titulo": "Militares da Coreia do Sul atiram após soldados norte-coreanos cruzarem a fronteira",
-      "imagem": "https://s2-g1.glbimg.com/sESeqsLgzzElTzZkD6cBmvHJLq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/U/Z/Pqz42qT3eWyB5pAKoIGg/ap20309052801861.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: Campanha eleitoral começa oficialmente neste domingo (16); veja cenário no Ceará",
-      "imagem": "https://s2-g1.glbimg.com/sttvfVUfZBgMTNY6psg5OY-66zw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/w/F7f1PLSaGlVPSIPO73og/palacio-da-abolicao.jpeg"
-    },
-    {
-      "titulo": "Inspiradas nas 'Patricinhas de Beverly Hills', estudantes do RS criam app para ajudar na escolha de looks antes de sair de casa",
-      "imagem": "https://s2-g1.glbimg.com/FDIDlXhMSweDbL4K8aOw79cHg0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/X/XjCHQcRWW4hBDf7hTtCA/g1-20-.jpg"
-    },
-    {
-      "titulo": "Caça abate drone militar que invadiu espaço aéreo da Romênia durante missão da Otan",
-      "imagem": "https://s2-g1.glbimg.com/B51eikdqd4N801fspcPG2daux9U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/F/DvGtAQQMa8dBJdxsbp9A/31950888963-9af52b09fb-k.jpg"
-    },
-    {
-      "titulo": "17ª Marcha para Jesus reúne fiéis em Macaé no próximo dia 22 de agosto",
-      "imagem": "https://s2-g1.glbimg.com/0vKan1EJxW2R0Jney6r37Z9bOHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/3/SFNGFxS5Kw7zUFxien6A/foto-1-marcha-para-jesus.jpeg"
-    },
-    {
-      "titulo": "Lavabos ganham protagonismo nos projetos residenciais",
-      "imagem": "https://s2-g1.glbimg.com/Bal3jVIYbzozZ3daiXVniIjcvmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/Y/aKQgT0QkCcE678bBfnFw/foto-1-5-.png"
-    },
-    {
-      "titulo": "Educaseg leva palestra sobre bullying e cyberbullying a alunos",
-      "imagem": "https://s2-g1.glbimg.com/v0-HXvGwr4B306Ll4bUM4HWOMY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/U/LtL11fQUqsjb1xbwMBZQ/320x180-foto-destaque-horizontal-15-.png"
-    },
-    {
-      "titulo": "Mega-Sena pode pagar R$ 38 milhões neste domingo; g1 transmite ao vivo",
-      "imagem": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
-    },
-    {
-      "titulo": "Quem são os candidatos ao Senado pelo RJ nas eleições de 2026?",
-      "imagem": "https://s2-g1.glbimg.com/X8W4MF8LkuEoYn55q-VjrGrNEEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/D/1DXskyQ0aoHiqJcAwBxw/eleicoes.jpeg"
-    },
-    {
-      "titulo": "Eleições ao Senado: Lula foca em governabilidade e Flávio em enfrentamento ao STF; veja candidatos e estratégias",
-      "imagem": "https://s2-g1.glbimg.com/ZOXJ-GSmqb-4iGjvN5l6-kBDgrU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/j/VE7JOFSt654BY2FRy1Xw/260814-info-candidatos-apoiados-1.png"
-    },
-    {
-      "titulo": "Eleições 2026: Veja a agenda dos candidatos ao Governo do RJ no domingo",
-      "imagem": "https://s2-g1.glbimg.com/3DnU8MRRTMrQnZ3s1iTeMhIgdGE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/B/dD8D7nS7C2OTWwMQyFLA/palacio-.jpeg"
-    },
-    {
-      "titulo": "Saiba como maior observatório astronômico do Brasil ajuda a desvendar mistérios do Universo",
-      "imagem": "https://s2-g1.glbimg.com/t-60xSNCer3Del5aqlrGJr3mBq4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/D/mgVOoCS4SBbQFYB4Y1BQ/via-lactea-sobre-o-telescopio-1-6-m-perkin-elmer-creditos-lna.jpg"
-    },
-    {
-      "titulo": "Justiça de RO autoriza bebê indígena a ter três pais na certidão",
-      "imagem": "https://s2-g1.glbimg.com/_R37Q6ps-LaJtOJpG-xQLyVf6Iw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/n/IBzW0ySxKA66IXIDAYpQ/2151889548.jpg"
-    },
-    {
-      "titulo": "Vento, granizo e calor de até 34°C: semana começa com previsão de chuva no RS",
-      "imagem": "https://s2-g1.glbimg.com/Epj6hpnwzh4vI2qotnF-LOY4OTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/2/Jul4IgQyaKO7hWhQQHXA/95d722e7-95c7-4456-8268-c799d87890ca.jpg"
-    },
-    {
-      "titulo": "Campanha eleitoral começa neste domingo; entenda o que muda e o que os candidatos podem fazer agora",
-      "imagem": "https://s2-g1.glbimg.com/nWKVPpXCkJeBNOOTGhAtAuAFS74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/n/PIBARRQBCrBnTSEBePeQ/montagem-horizontal-1280x720px-5-.jpg"
-    },
-    {
-      "titulo": "Candidatos à Presidência iniciam campanha neste domingo; veja eventos programados",
-      "imagem": "https://s2-g1.glbimg.com/swQA68ar04hfmA0YfQ-dmveW0i8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/h/itBUNsS1W6d10NDVpnXA/fotojet-4-.jpg"
-    },
-    {
-      "titulo": "Ataque russo com mísseis e drones provoca incêndios e deixa feridos na Ucrânia",
-      "imagem": "https://s2-g1.glbimg.com/8e79_Cnrz4OBgMPdrqyJNANe9oQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/c/mA6B5ARxOG3SBL510IuQ/afp-20260816-c4rf8g6-v1-midres-ukrainerussiaconflictwar.jpg"
-    },
-    {
-      "titulo": "Surto de sarampo leva São Paulo e cidades da Grande SP a ampliar vacinação contra a doença",
-      "imagem": "https://s2-g1.glbimg.com/9hfb4yfygK1NEmS_FQeUOrWqOW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/0/vvkWyqSyKJYBJhWJggdA/captura-de-tela-2026-08-15-215947.jpg"
-    },
-    {
-      "titulo": "Governador Carlos Brandão nega envolvimento em organização criminosa investigada pela PF no Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/e-oRYzbRMSIi3Z_LpoqU8iVkt4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/1XDcHqTfO5AIUp7ZNhAA/carlos-brandao-.jpg"
-    },
-    {
-      "titulo": "Pesquisa nacional levanta dados sobre a saúde dos brasileiros",
-      "imagem": "https://s2-g1.glbimg.com/FsEHJ9lEJRqjxeU68_hho7opKfA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/o/NUeDATSx2Pl9SIL26l7w/captura-de-tela-2026-08-15-214354.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia dos candidatos ao Governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/TPehTQBxgknbr3-zgqGbdPTiViE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/B/rerdyARNOs6L57P9Ru6A/andre-luis-.jpg"
-    },
-    {
-      "titulo": "El Niño deixa o verão amazônico com tempo seco e temperaturas altas, em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/8tLPBXFUCnxg6LuACqdxEDgpcFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/V/feP5jeSHq6T7k3UAFpOA/captura-de-tela-2026-08-15-213359.jpg"
-    },
-    {
-      "titulo": "Avião levanta voo fora da pista em Munique, raspa a cauda e retorna ao aeroporto",
-      "imagem": "https://s2-g1.glbimg.com/jqWJAoa1J86xDMSoEvz2dKA-DPE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/F/F3i0qWRZWCxpFr0ny03Q/captura-de-tela-2026-08-15-212845.png"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição deste sábado, 15 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/9FuXyIEOgLS-mEL03_N4rXSx2g8=/s01.video.glbimg.com/deo/vi/46/30/14873046"
-    },
-    {
-      "titulo": "Eleições 2026: propaganda eleitoral nas ruas e na internet começa neste domingo (16); veja as principais regras",
-      "imagem": "https://s2-g1.glbimg.com/gXLbwKsCW2pM0peltHJMwhnx7_g=/s.glbimg.com/jo/g1/f/original/2016/10/02/lixohorto.jpg"
-    },
-    {
-      "titulo": "Acidente entre van, carro e moto deixa quatro feridos em Santarém; motorista é suspeito de embriaguez",
-      "imagem": "https://s2-g1.glbimg.com/uX-J2Rl6Na0TfibGx8F8cy9DsRY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/c/YxwW9QQ32dpL5KHSDiGw/whatsapp-image-2026-08-15-at-18.32.08.jpeg"
-    },
-    {
-      "titulo": "Pablo Marçal declara patrimônio de R$ 7,4 bilhões; vice diz ter R$ 495 milhões",
-      "imagem": "https://s2-g1.glbimg.com/FlR0S7ZoNdniIiZadWO4brVvWLU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/d/JssFBGSSA7veHbKOjLGA/marcal-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T06:00:59.637Z"
+  "atualizadoEm": "2026-08-16T06:57:47.120Z"
 }
