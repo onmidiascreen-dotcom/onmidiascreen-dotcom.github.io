@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Clubes europeus movimentam bilhões na janela de transferência para nova temporada",
+      "imagem": null
+    },
+    {
+      "titulo": "Petrobras prevê gastar R$ 3,3 bi em poços na Foz do Amazonas",
+      "imagem": null
+    },
+    {
       "titulo": "Signos: confira seu horóscopo deste domingo (16)",
       "imagem": null
     },
@@ -9,11 +17,15 @@
       "imagem": null
     },
     {
+      "titulo": "Inteligência artificial avança em fraudes e ameaça educação online nos EUA",
+      "imagem": null
+    },
+    {
       "titulo": "Doadas por Marie Curie ao Brasil há cem anos, agulhas de rádio hoje são estudadas nos EUA",
       "imagem": null
     },
     {
-      "titulo": "Inteligência artificial avança em fraudes e ameaça educação online nos EUA",
+      "titulo": "Candidato do PT no MA menciona Dino 16 vezes em plano de governo",
       "imagem": null
     },
     {
@@ -22,10 +34,6 @@
     },
     {
       "titulo": "Fuvest aplica neste domingo a etapa de redação do simulado do vestibular 2027",
-      "imagem": null
-    },
-    {
-      "titulo": "Candidato do PT no MA menciona Dino 16 vezes em plano de governo",
       "imagem": null
     },
     {
@@ -51,15 +59,7 @@
     {
       "titulo": "Brigadas indígenas buscam unir saber tradicional a drones e mapas na prevenção de incêndios",
       "imagem": null
-    },
-    {
-      "titulo": "Temperatura volta a subir neste domingo (16) e São Paulo tem previsão de veranico",
-      "imagem": null
-    },
-    {
-      "titulo": "Moscou e Kiev voltam a trocar ataques em nova escalada do conflito",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T09:58:39.414Z"
+  "atualizadoEm": "2026-08-16T10:28:19.445Z"
 }
