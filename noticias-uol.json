@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Moscou e Kiev voltam a trocar ataques em nova escalada do conflito",
+      "imagem": null
+    },
+    {
+      "titulo": "Chuva extrema e enchentes deixam nove mortos no leste do Japão",
+      "imagem": null
+    },
+    {
       "titulo": "Lanterna Verde, na HBO, vai às profundezas da América e revê mitos dos super-heróis",
       "imagem": null
     },
@@ -51,15 +59,7 @@
     {
       "titulo": "Mesmo se Flávio perder, direita Master deve ganhar todo o resto",
       "imagem": null
-    },
-    {
-      "titulo": "Flávio Bolsonaro volta às origens do clã e lança campanha em Copacabana",
-      "imagem": null
-    },
-    {
-      "titulo": "A lição de Lascaux",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T07:33:38.489Z"
+  "atualizadoEm": "2026-08-16T07:59:16.258Z"
 }
