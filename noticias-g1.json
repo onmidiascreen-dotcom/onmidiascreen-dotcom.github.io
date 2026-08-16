@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Wellington Fagundes (PL) inicia campanha ao Governo neste domingo (16)",
+      "imagem": "https://s2-g1.glbimg.com/qY7LTWvm6O6Uuq5R1AVQCuSczJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/t/DaoXC2TveIy0grmSyw3A/videos-g1-23-.jpg"
+    },
+    {
+      "titulo": "Guindaste tomba sobre fios de alta tensão e provoca explosão na rede elétrica em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/23oUtV4ILQUOQ-oJow6fIXmlPbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/U/8NSAD2T2qlXDCaZEkLhQ/g1-guindaste-tomba-manaus.jpg"
+    },
+    {
+      "titulo": "Batida entre dois carros e moto deixa motociclista gravemente ferido na Ayrton Senna",
+      "imagem": "https://s2-g1.glbimg.com/-u1kc94jA1q7YltDZSQt0ulp8co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/f/u4ZlsHRKyMEEPfLgiD6g/imagem-4-.jpg"
+    },
+    {
       "titulo": "Irmãos morrem após carro capotar na TO-070",
       "imagem": "https://s2-g1.glbimg.com/TbpRRVF2Dga3VvXd1qkuPp6CClw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/ezSVAsSyCtmN576mpj6Q/foto-e-montagem-vertical.png"
     },
@@ -30,7 +42,7 @@
     },
     {
       "titulo": "Candidatos ao Governo de Goiás iniciam campanha eleitoral; veja como foi o primeiro dia",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/CELnOKmpdHlkhtW-_A03einQgmU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/2/JSV6wSTOGV8AErO4Y7Rg/copia-de-copia-de-padrao-foto-g1-goias-3-.jpg"
     },
     {
       "titulo": "Grávida de quatro meses está entre os 10 mortos no acidente em Petrópolis; Marido sofreu ferimentos leves",
@@ -107,19 +119,7 @@
     {
       "titulo": "Mulheres representam 34,8% das candidaturas registradas para as eleições de 2026",
       "imagem": "https://s2-g1.glbimg.com/sMAOEsZgy4LMsfut7c7eMiFQRQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/5/J/YgQaL1SU2XmNJ9Z2O7KQ/29465782546-6d3a82ac50-k.jpg"
-    },
-    {
-      "titulo": "Dra. Natasha (PSD) inicia campanha ao Governo neste domingo (16)",
-      "imagem": "https://s2-g1.glbimg.com/6OOomZRp0C0Sedz8U3WZOTjjDK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/V/Ohvl1FQKKsaWamNYPEnA/videos-g1-21-.jpg"
-    },
-    {
-      "titulo": "Motorista morre após carro sair da pista e cair de ribanceira na BR-040, na Grande BH",
-      "imagem": "https://s2-g1.glbimg.com/NqhMMna2vp84jWvIkQWGST-LyyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/mn1B9fSSeSg6K8jX9KTw/prf-viatura.jpg"
-    },
-    {
-      "titulo": "Crise de Ceuta: o dilema do que fazer com as crianças que chegaram sozinhas e que a Espanha não sabe a quem devolver",
-      "imagem": "https://s2-g1.glbimg.com/-7tuutNhjcUkx4emfAHuuHpJ2uA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/b/RdpWAESbuBEQq4JWApWQ/2026-08-15t070153z-423636672-rc2uymaau177-rtrmadp-3-migration-europe-spain-ceuta.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T21:42:58.032Z"
+  "atualizadoEm": "2026-08-16T21:57:14.488Z"
 }
