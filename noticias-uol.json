@@ -1,6 +1,38 @@
 {
   "noticias": [
     {
+      "titulo": "Gestante está entre os 10 mortos no acidente com ônibus no Rio de Janeiro",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump anuncia \"redução significativa\" dos exercícios militares conjuntos com a Coreia do Sul",
+      "imagem": null
+    },
+    {
+      "titulo": "Sabalenka vence Gibson e vai à 3ª rodada do WTA 1000 de Cincinnati",
+      "imagem": null
+    },
+    {
+      "titulo": "Marabraz pede recuperação judicial com dívidas de R$ 140 milhões",
+      "imagem": null
+    },
+    {
+      "titulo": "Sobe para dez o número de pessoas mortas em tombamento de ônibus no RJ",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump reduz exercício militar com Seul e diz que Coreia do Norte tem sido 'inofensiva e respeitosa'",
+      "imagem": null
+    },
+    {
+      "titulo": "Acidente com ônibus em Petrópolis mobiliza favela de Belo Horizonte",
+      "imagem": null
+    },
+    {
+      "titulo": "PF encontra no Paraguai avião de Vorcaro avaliado em R$ 120 milhões",
+      "imagem": null
+    },
+    {
       "titulo": "Autoridade do governo Trump acusa Brasil de censura após X alterar algoritmo para eleição",
       "imagem": null
     },
@@ -10,6 +42,10 @@
     },
     {
       "titulo": "Luciano Huck reforça sigilo para estreia da 'Dança dos Famosos'",
+      "imagem": null
+    },
+    {
+      "titulo": "Obras renascentistas históricas são roubadas de museu na Sicília",
       "imagem": null
     },
     {
@@ -23,43 +59,7 @@
     {
       "titulo": "Thiago Mendes nega aperto de mão e deixa Neymar no vácuo antes de partida",
       "imagem": null
-    },
-    {
-      "titulo": "Sobe para 84 o número de mortos em naufrágio de balsa no Zimbábue",
-      "imagem": null
-    },
-    {
-      "titulo": "Lens se segura com um a menos, bate PSG e conquista Supercopa da França",
-      "imagem": null
-    },
-    {
-      "titulo": "Energia solar supera marco global e acelera expansão",
-      "imagem": null
-    },
-    {
-      "titulo": "Lens surpreende PSG (1-0) e é campeão da Supercopa da França",
-      "imagem": null
-    },
-    {
-      "titulo": "Metade dos candidatos nas eleições de 2026 se declaram negros",
-      "imagem": null
-    },
-    {
-      "titulo": "Criança autista que sumiu em propriedade rural é achada morta em tanque de dejetos",
-      "imagem": null
-    },
-    {
-      "titulo": "Santos deslancha na etapa final, aproveita falhas do Vasco e deixa zona da degola",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávio volta ao cenário da facada em Bolsonaro; Lula viaja com Alcolumbre",
-      "imagem": null
-    },
-    {
-      "titulo": "Uma pessoa morre e três ficam feridas após deslizamento de terra em SC",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T21:57:14.191Z"
+  "atualizadoEm": "2026-08-16T22:22:04.562Z"
 }
