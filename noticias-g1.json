@@ -1,6 +1,50 @@
 {
   "noticias": [
     {
+      "titulo": "JHC, candidato ao governo de Alagoas, declara R$ 2,2 milhões em bens ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/08BK4P7OyJVeJGn9Aq0hFVF9hVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/T/veU877TPCnTZrqUIXiBw/prefeito-jhc.png"
+    },
+    {
+      "titulo": "De R$ 15 mil a R$ 2,75 milhões: veja o patrimônio dos candidatos ao Senado pelo Rio Grande do Norte declarado ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/e-vYxjNrtgwJQETyedA8DDr4W7k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/U/Qv5qs2RDmCsrZaNo2PoQ/mixcollage-13-aug-2026-05-07-pm-6355.jpg"
+    },
+    {
+      "titulo": "Mega-Sena, concurso 3045: confira os números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/ivNgWH30Of_3BFE2V34YvPsErcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/m/rlAxrcRQymsifAesUrLA/captura-de-tela-2026-08-16-110228.png"
+    },
+    {
+      "titulo": "Projeto de revitalização e combate a enchentes prevê retirada de 943 árvores em avenida de Rio Preto",
+      "imagem": "https://s2-g1.glbimg.com/jg1nAttM6c70mS_V7s53EvLQ6VM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/K/SBbJlYTuCfyMKhJj7giA/formato-padrao-imagens-g1-2026-08-14t172813.692.png"
+    },
+    {
+      "titulo": "Deslizamento atinge casa em SC e deixa família ferida; criança foi achada em parada cardíaca",
+      "imagem": "https://s2-g1.glbimg.com/oJidLm3AQQ53VkumVeeXJeFppJo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/v/FN9fQfQ56Bnyu0kB2Xdg/um-deslizamento-de-terra-soterrou-parte-de-uma-casa-e-deixou-quatro-pessoas-da-mesma-familia-feridas-em-santo-amaro-da-imperatriz-na-grande-florianopolis-na-madrugada-deste-domingo-16-.-uma-das-vitimas-de-10.jpeg"
+    },
+    {
+      "titulo": "Homem é morto a facadas em obra no bairro Areinha, em São Luís; colega de trabalho é suspeito do crime",
+      "imagem": "https://s2-g1.glbimg.com/7swovvg9217Xnse4a1SONmKasUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/s/7/5pOjtUTA6T8TMBRAruvQ/faca-de-cozinha.jpg"
+    },
+    {
+      "titulo": "Elmano de Freitas promete avançar na criação de empregos e na interiorização da saúde no primeiro ato de campanha ao governo",
+      "imagem": "https://s2-g1.glbimg.com/-h2vAZzZPowjX4zTYgYJid-JmWg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/G/veg7KBR2OHf917VXvCLw/elmano-1.jpeg"
+    },
+    {
+      "titulo": "Dois motociclistas morrem em acidente entre motos em Itatiba",
+      "imagem": "https://s2-g1.glbimg.com/TMPUhtUlmDMs6xlDpJ7Ec8FkgyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/T/huhAw7RcKL1ppA4sL6kA/whatsapp-image-2026-06-02-at-14.10.58.jpeg"
+    },
+    {
+      "titulo": "Homem é encontrado morto com sinais de violência em campo de futebol em Santarém",
+      "imagem": "https://s2-g1.glbimg.com/_Go5JZ988MPyNp88f0uxfuSXQMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/Z/dA7CdNRNe6ZqaIAGJNpg/whatsapp-image-2026-08-16-at-10.32.57.jpeg"
+    },
+    {
+      "titulo": "Jerônimo Rodrigues inicia campanha eleitoral ao lado de Rui Costa e Jaques Wagner em Salvador",
+      "imagem": "https://s2-g1.glbimg.com/9YOvqbnuv7iSeDkkzDxv4GVdmYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/5/s53M94TCixrKr7Yh7e1Q/jeronimo-rodrigues-inicio-de-campanha.jpg"
+    },
+    {
+      "titulo": "Número de mortos em acidente com balsa superlotada no Zimbábue sobe para 80",
+      "imagem": "https://s2-g1.glbimg.com/_5ksZt7uHdQXzjTo97mSwlDFf6g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/6/6TbqWrQESFrbSp3f5k4w/2026-08-12t212330z-1624684030-rc29xma8ww2n-rtrmadp-3-zimbabwe-boat-accident.jpg"
+    },
+    {
       "titulo": "Rafael Fonteles inicia campanha ao Governo do Piauí em Teresina",
       "imagem": "https://s2-g1.glbimg.com/hhJMUO9LVeuI5zLMH6iRDt0hxY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/B/isKE80QRmkgouYEN642Q/edicao-imagens-g1-100-.png"
     },
@@ -10,14 +54,14 @@
     },
     {
       "titulo": "Lula faz primeiro evento de campanha à reeleição no berço político do PT, em São Paulo",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/rQL8ZXJtDWD6xpGODYP4-IYBVM8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/A/1t6mGRSJ6eGkNgEebu5w/lula-campanha.jpg"
     },
     {
       "titulo": "Justiça declara inconstitucional lei de Piracicaba que previa multa de R$ 3 mil a quem doar alimentos sem aval da prefeitura",
       "imagem": "https://s2-g1.glbimg.com/Q5bJsfQhdZCJ_f198ep2XuwPxGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/B/e/arrH5cTXGvu3lJqQLFpg/marmita-4.png"
     },
     {
-      "titulo": "VÍDEO: carro fica destruído após bater de frente com ônibus com turistas a caminho do Convento da Penha no ES",
+      "titulo": "VÍDEO: carro fica destruído após bater de frente com ônibus com turistas a caminho do Convento da Penha; sete ficaram feridos",
       "imagem": "https://s2-g1.glbimg.com/qT-ZUOe-yaVPCgl_eBaEM3STiX0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/v/abr6tRQ4eGzGbwBXbaJw/thumb-fotos-37-.jpg"
     },
     {
@@ -75,51 +119,7 @@
     {
       "titulo": "Idoso mata vizinho, interdição da BR-116 e calamidade financeira: veja as notícias mais lidas da semana",
       "imagem": "https://s2-g1.glbimg.com/RQ4FGj7J6vT2JZjVkVZ4xxMM8Yc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/T/puLno4SXmBmnPpcfjNaw/vitimasfatais-77-.png"
-    },
-    {
-      "titulo": "Mãe é presa e filhos são resgatados vivendo sem comida e no meio de lixo em Cariacica",
-      "imagem": "https://s2-g1.glbimg.com/UCjfzQnWbo2ZZgqlQPeHZtZzjRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/r/PaqnD1SDKyPuoj8MnWQg/thumb-fotos-31-.jpg"
-    },
-    {
-      "titulo": "Candidatos à Presidência iniciam campanha neste domingo; confira atividades",
-      "imagem": "https://s2-g1.glbimg.com/OJZtUg2oxTFmn2YJMb6e2kWRPMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Z/1FBBysRDaiOBgPYNnakg/imagem-1200px.png"
-    },
-    {
-      "titulo": "Mostra de Teatro Águas de Manaus encerra programação com três atividades gratuitas neste domingo",
-      "imagem": "https://s2-g1.glbimg.com/Lltc4nF2htmoJ89unCfudtuFASk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/V/OUgTLDQbeIIA5yqAwfpA/whatsapp-image-2026-08-16-at-08.30.14.jpeg"
-    },
-    {
-      "titulo": "Batida entre dois veículos destrói muro de casa e interdita avenidas em Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/ZcBFba2fX0RWsBpOCRo9JB0ix4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/a/iFU3eBRd2OxPmkVZw8dQ/design-sem-nome-18-.jpg"
-    },
-    {
-      "titulo": "De R$ 100 mil a R$ 2,9 milhões: veja o patrimônio dos candidatos ao governo do Rio Grande do Norte declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/NS5c7hI2_VmZNSz8nkjIqCLC-pw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/U/OVdMwPQcAyvUd4UnnYqQ/mixcollage-13-aug-2026-02-41-pm-6828.jpg"
-    },
-    {
-      "titulo": "Homem é morto a tiros dentro de casa abandonada na Zona Leste de Manaus",
-      "imagem": "https://s2-g1.glbimg.com/G_vCC8VCTxe4RzjmfdAyxK7g1go=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/R/GQovTIQfWPguKZeeRb8A/homem-e-encontrado-morto-com-tiro-na-cabeca-dentro-de-casa-abandonada-em-manaus.webp"
-    },
-    {
-      "titulo": "Romeu Zema inicia campanha à Presidência em Montes Claros",
-      "imagem": "https://s2-g1.glbimg.com/qfOySkeLJL3TMIfQ8OUXQduXH18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/U/91BXggRzWAXdocBO9zeQ/zema-missa.jpeg"
-    },
-    {
-      "titulo": "Motociclista é encontrado morto em canteiro central da SP-300 em Pirajuí",
-      "imagem": "https://s2-g1.glbimg.com/SoOt2r02sMEpIPWSl24c5mxerug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/U/OQAQYAQ4aEGi8FOSOEEQ/edicao-g1-agenda-25-.png"
-    },
-    {
-      "titulo": "Mato Grosso terá 479 candidatos nas eleições de 2026, número menor que o registrado em 2022",
-      "imagem": "https://s2-g1.glbimg.com/jXdcYLOVCBnrUtdlH2AgltERI6k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/t/F9m2fpSQCOzZTeJhWoKA/videos-g1-29-.jpg"
-    },
-    {
-      "titulo": "De R$ 967,43 a R$ 1,8 milhão: veja o patrimônio dos candidatos ao governo do Piauí declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/-j9k3lEm396y3tGFCr3oJyrvfpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/O/xP8A58ToypqLGnSPAZwQ/capa-govenro-.png"
-    },
-    {
-      "titulo": "Ladrões roubam quatro obras do Renascimento em museu da Sicília durante feriado italiano",
-      "imagem": "https://s2-g1.glbimg.com/0QAiMN3MH00l3uNRQzeghjhUfU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/U/AR85XeSsqyo8WqBB4Igw/ap26228358395642.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T13:53:30.107Z"
+  "atualizadoEm": "2026-08-16T14:18:18.703Z"
 }
