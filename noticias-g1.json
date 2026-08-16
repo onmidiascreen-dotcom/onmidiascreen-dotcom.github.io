@@ -1,6 +1,110 @@
 {
   "noticias": [
     {
+      "titulo": "Corrida em celebração ao aniversário de Presidente Prudente está com inscrições abertas; saiba como participar",
+      "imagem": "https://s2-g1.glbimg.com/K5bnD-rkQZnTFNT2xpgq5mJ2RZI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/C/5UhIoSQQSc0ZoEZFOmdQ/1757966217.jpg"
+    },
+    {
+      "titulo": "Marcelo Maranata, candidato do PSDB ao governo do RS, começa campanha eleitoral com inauguração do comitê",
+      "imagem": "https://s2-g1.glbimg.com/TS16wb6Mhz1tOvTVM2nRjoD0Z6Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/m/81aOHNR0uHvAen8ML18g/maranata.jpg"
+    },
+    {
+      "titulo": "Renan Santos inicia campanha à Presidência em São Paulo",
+      "imagem": null
+    },
+    {
+      "titulo": "Mulher morre após companheiro incendiar casa e deixar ela presa em Cacoal, RO",
+      "imagem": "https://s2-g1.glbimg.com/Qqdd-Y3KZskNzLXNstSonZHtKUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/sBNteyQbKLMJFe4SzUpA/sirene-policia-1-.jpeg"
+    },
+    {
+      "titulo": "Chuva causa estragos, atinge casas, deixa mãe morta e filha ferida em SC",
+      "imagem": "https://s2-g1.glbimg.com/HIZJ0TXeNSaxzWaGjPDi2KOsAhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/KmbEpNSC2xQDu9fv8xvg/deslizamento-de-terra-atinge-casa-em-santo-amaro-da-imperatriz.jpg"
+    },
+    {
+      "titulo": "Criança de 3 anos morre após caminhão capotar e atingir carro na MGC-122",
+      "imagem": "https://s2-g1.glbimg.com/UpD1StHVnjGW11YiG9HMfm2k11k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/P/Ka1TdtTH2GHgshW8a47A/vitimasfatais-2-.png"
+    },
+    {
+      "titulo": "Em primeiro discurso de campanha, Flávio Bolsonaro promete ‘tesouraço’, homenageia Jair e critica Lula: ‘caloteiro da esperança’",
+      "imagem": "https://s2-g1.glbimg.com/_NcrQROvwf7MtFa6aHvYpwxzzqs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/l/034Es6QGa8EuQwF0Yf4A/2026-08-16t150838z-929700340-rc2qzma8i2tx-rtrmadp-3-brazil-election-bolsonaro.jpg"
+    },
+    {
+      "titulo": "Juliana Brizola, candidata do PDT ao governo do RS, começa campanha eleitoral no bairro Bom Fim",
+      "imagem": "https://s2-g1.glbimg.com/1QdYZ0dSE09wtpX5yDBDFO02ibI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/x/XWjC5QQTinAzCqTkus0w/juliana.jpg"
+    },
+    {
+      "titulo": "'Homem-Aranha: Um novo dia' bate marca de US$ 2 bilhões em bilheterias",
+      "imagem": "https://s2-g1.glbimg.com/xICkuV4QmPb8guFcrmGfuL01yAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/E/uPwBZCQPermFWAugX1Jg/homem-aranha-um-novo-dia-tom-holland-5.jpg"
+    },
+    {
+      "titulo": "Gabriel Souza, candidato do MDB ao governo do RS, começa campanha eleitoral com agendas em Porto Alegre e no Norte do estado",
+      "imagem": "https://s2-g1.glbimg.com/rNLkzgelmHJ4N2j3y6LuFE4zGXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/o/5BRY49S3iEfxNyVwRMXQ/gabriel.jpg"
+    },
+    {
+      "titulo": "De nenhum bem a R$ 4,7 milhões: veja o patrimônio dos candidatos ao Governo do Pará declarado ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/KVTGdMzDX-PY47GrSiKbV8bkDME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/D/0PHmsiT8yBtIBNQupm7A/1786898667888331.jpg"
+    },
+    {
+      "titulo": "Incêndio atinge depósito de borracha em Carmo do Cajuru",
+      "imagem": "https://s2-g1.glbimg.com/nPguymf8l5V63dOf8-1I2Vln6mc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/L/L2KalAQDGurAi5DF08Tg/whatsapp-image-2026-08-16-at-14.45.18.jpeg"
+    },
+    {
+      "titulo": "Luciano Zucco, candidato do PL ao governo do RS, começa campanha eleitoral com roteiro na Grande Porto Alegre",
+      "imagem": "https://s2-g1.glbimg.com/n-W6z4hhKMxyXbnm5-8rn4dX0kI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/4/2znAj4QsuwBfeDWLwPQw/4ba3565c-4304-46f7-b9da-bb644fb49830.jpg"
+    },
+    {
+      "titulo": "Veja como ocorreu atropelamento de participantes da Marcha pra Jesus, em Terra Santa; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/1XQnc0pKdRxDX_LCeno70sk_9y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/o/FMmRMyQjCl8ANr0cty7Q/gemini-generated-image-a98hwda98hwda98h.jfif"
+    },
+    {
+      "titulo": "Acidente deixa uma pessoa morta e interdita totalmente Mogi-Bertioga",
+      "imagem": "https://s2-g1.glbimg.com/x8bT6Aj_udoZL43d2g-afm-x8mw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/l763MTST6sUcmGB05csg/whatsapp-image-2026-01-04-at-12.38.40.jpeg"
+    },
+    {
+      "titulo": "Clécio Luís abre campanha à reeleição com caminhada em Santana e mobilizações simultâneas no Amapá",
+      "imagem": "https://s2-g1.glbimg.com/UFFYdOLhP-_E7fZsJCy4yQHGE6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/j/764JfASnubd5A2b3hfRQ/whatsapp-image-2026-08-16-at-13.05.24-2-.jpeg"
+    },
+    {
+      "titulo": "Dr. Furlan inicia campanha com caminhada e mobilizações em Macapá e Santana",
+      "imagem": "https://s2-g1.glbimg.com/-jHWlBR7mHHH13laz92D2LGRfnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/M/bU2AR6R6CkwcYSxmQy5w/whatsapp-image-2026-08-16-at-13.05.24.jpeg"
+    },
+    {
+      "titulo": "Caminhoneiro envolvido em acidente que matou líder indígena e família de 7 pessoas se apresenta à polícia em MS",
+      "imagem": "https://s2-g1.glbimg.com/fh4Hk5gOH1UImdpBepgYft_5tTE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/3/u8WsCsTOOHR667X9PMRA/canva-2026-08-15t164039.713.png"
+    },
+    {
+      "titulo": "Sobrevivente de violência transforma dor em apoio a outras mulheres: 'luto por elas'",
+      "imagem": "https://s2-g1.glbimg.com/7M7YQAEC0Lu2UlwlHO7VTjMOi7g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/zSfAtsS5Sv63H1btaOew/paulareferencia.jpg"
+    },
+    {
+      "titulo": "Resultado da Mega-Sena: apostas de Sergipe acertam números; veja valores",
+      "imagem": "https://s2-g1.glbimg.com/uWWg9r_YnVxE7_QFtTBUrk-gadY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/F/07GIU5TCe25kklNrTGXg/mega-sena-1200.webp"
+    },
+    {
+      "titulo": "Mulher é vítima de feminicídio dentro de supermercado na Zona Norte de SP",
+      "imagem": "https://s2-g1.glbimg.com/vz91xI_VSldezhgLOBnmFwmFj2A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/V/o2vl1CSl24E3n3t5tZEA/feminicidio-sp.jpg"
+    },
+    {
+      "titulo": "Índio da Cuíca lança em setembro o álbum 'Zing zing', com Siba, Ana Frango Elétrico e samba de Juçara Marçal",
+      "imagem": "https://s2-g1.glbimg.com/YCuAc3_TGMZgNJip2Ljr0it6O0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/P/qTuX7bTiGSQCznT0BNsA/indiodacuicafoto-rafael-meliga.jpg"
+    },
+    {
+      "titulo": "Governo dos EUA discute novas sanções contra Alexandre de Moraes, diz jornal",
+      "imagem": "https://s2-g1.glbimg.com/MRreBizXUV_LFbm0MI9hYDcsItE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/3/WP35AXQoyABqb7pnl3Gg/55339513099-92223a623a-4k.jpg"
+    },
+    {
+      "titulo": "Buscas por menino de 8 anos desaparecido em rio são encerradas no Acre",
+      "imagem": "https://s2-g1.glbimg.com/5Cqq1ZI4LKLqIEnfTJzJYm6xCGo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/A/SV1tRbRHaUbNWZ5oxhag/midia-de-distribuicao-g1-18-.png"
+    },
+    {
+      "titulo": "Patrimônio de candidatos ao Senado pela Paraíba vai de R$ 900 a R$ 1,9 milhão",
+      "imagem": "https://s2-g1.glbimg.com/uH_ZTVEkEhcIUvRduwR4Xo5ZZJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/B/O/KX0brYSbO6jbmz6mMiSw/whatsapp-image-2024-10-15-at-16.03.16.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: Motorista sem habilitação fica ferido após capotar carro na entrada de fazenda em MG",
+      "imagem": "https://s2-g1.glbimg.com/iIJMiASpm-VdSvmU1BSqcJyvGrM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/e/QCQdGiQrCoBRqyxdXMBw/montagemcapota.jpg"
+    },
+    {
       "titulo": "Criança desaparecida é encontrada morta em tanque de granja em Goiás",
       "imagem": "https://s2-g1.glbimg.com/DcBDUCsRPbBGAhFmyac5Ib0u59w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/5/0lAASCT7GRyhhrMmhG7A/whatsapp-image-2026-08-16-at-14.34.26.jpeg"
     },
@@ -15,111 +119,7 @@
     {
       "titulo": "Livros de Paulo Setúbal ganham versões em braille e audiolivro em Tatuí",
       "imagem": "https://s2-g1.glbimg.com/kLt1YtvjWej-IQVrCecRyKDIvTs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/r/R3OlWaQuqG7OBBXX1vzw/m-271-0-1-07082026153855-vale-este.jpg"
-    },
-    {
-      "titulo": "Inmet alerta para baixa umidade do ar em mais de 50 cidades do Sertão da PB; veja quais",
-      "imagem": "https://s2-g1.glbimg.com/MN1Nhu0R0IOOghX5PDunReKDa-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/L/CLNdALQT2vB8XcVQHwrw/imagem-02.jpg"
-    },
-    {
-      "titulo": "Alunos de Engenharia de Sorocaba vencem prêmio nacional com jogos e app de tecnologia nuclear",
-      "imagem": "https://s2-g1.glbimg.com/70K2dXqVnL8w0KUdQeNcCjbR2KY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/e/uMub68SDawi5hIf83w9g/whatsapp-image-2026-08-13-at-22.13.51.jpeg"
-    },
-    {
-      "titulo": "Eleições 2026: candidatos ao Governo do PI iniciam campanha neste domingo (16)",
-      "imagem": "https://s2-g1.glbimg.com/aN97tAFxCtKYLgX6c_3oJpJPZXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/T/4EGAbBRn2837jELkwbNQ/edicao-imagens-g1-4-.jpg.jpeg"
-    },
-    {
-      "titulo": "Motorista morre após invadir pista contrária e capotar carro na rodovia Washington Luís em Rio Preto",
-      "imagem": "https://s2-g1.glbimg.com/6HEv1caL5VqOdT_9ABDxhC8FYlY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Z/snEWwHS9GWLMHpsJbp5A/design-sem-nome-10-.png"
-    },
-    {
-      "titulo": "Polícia desmonta esquema clandestino de desbloqueio de celulares no litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/VN7Bs57dSSQV09c9cD2H809kTpY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/C/jpe0V0SyGACetEpUG2lQ/foto-furtos-celulares.jpg"
-    },
-    {
-      "titulo": "Paula Belmonte abre campanha ao governo do DF com caminhada no centro de Brasília",
-      "imagem": "https://s2-g1.glbimg.com/ZDE8QyjBvYXf8FlXOKD92ikhNFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/t/fJPCUcTtOzmsO1YOg9pQ/whatsapp-image-2026-08-16-at-13.20.39.jpeg"
-    },
-    {
-      "titulo": "Homem é preso após agredir cliente com arma e garrafa em bar de Juiz de Fora",
-      "imagem": "https://s2-g1.glbimg.com/59TAR1REg-KIbJzy644QjbYCU8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/V/kquNlZSEylBiA8t6qAJA/whatsapp-image-2026-08-16-at-13.16.36.jpeg"
-    },
-    {
-      "titulo": "Erro de digitação coloca candidato de MS entre os mais ricos do Brasil com R$ 1,8 bilhão em bens",
-      "imagem": "https://s2-g1.glbimg.com/QW2yUbp7TyeAqyZ14s5-PuN5ixY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/9/qQ4S79QZutCaFl6h8ijA/design-sem-nome-20-.jpg"
-    },
-    {
-      "titulo": "Mutirão de empregos oferece mais de 200 vagas em Mogi das Cruzes",
-      "imagem": "https://s2-g1.glbimg.com/yKsIR4jFlSj63QS3nwQTwGzMpao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/D/DuRjjdR7SxVRNO5xctHQ/mutirao.jpg"
-    },
-    {
-      "titulo": "Irã oferece US$ 30 mil por captura ou morte de soldados dos EUA",
-      "imagem": "https://s2-g1.glbimg.com/LSucrKNNLNTUnj2VMjpTL9gQeE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/a/WQb9ZAQIuVfboyjGKyTw/69617ed0-94b3-11f1-870d-5d08c49babb2.jpg.webp"
-    },
-    {
-      "titulo": "Eleições 2026: veja a agenda de Renan Filho neste domingo (16)",
-      "imagem": "https://s2-g1.glbimg.com/HUEzgcRVpzY5TtMA1c9rWOR1w7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/khMWGtTi6CshM7HUDnuA/whatsapp-image-2026-08-05-at-14.11.03.jpeg"
-    },
-    {
-      "titulo": "Incêndio destrói casa no distrito de Rubião Júnior em Botucatu",
-      "imagem": "https://s2-g1.glbimg.com/5tFqes6davnVKhpok7HxUXi900A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/U/NVzyADTdGJeuYN5uB9TA/incendio-casa.jpg"
-    },
-    {
-      "titulo": "Temporal com granizo atinge Porto Alegre e Região Metropolitana",
-      "imagem": "https://s2-g1.glbimg.com/QDD99OtU4cEcQjqfsKS8-CvIFs4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/q/NMBjZiTzmyPToXb7gyvw/granizo.jpg"
-    },
-    {
-      "titulo": "Resultado da Mega-Sena 3045: aposta do Piauí acerta quina e leva R$ 89 mil; veja cidades premiadas",
-      "imagem": "https://s2-g1.glbimg.com/EMTTR6lnk36Zyd1OFglHEpgaoZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/3/trVaH8RJKNjPhAsWataA/imagem-g1-59-.png"
-    },
-    {
-      "titulo": "ANTT diz que ônibus de acidente em Petrópolis que matou 10 pessoas 'era clandestino'",
-      "imagem": "https://s2-g1.glbimg.com/ttJzZDUue9kO-lJ4_7ubOa9NOWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/W/C1LvuPTpuPKfBOTped5g/16bus4.jpeg"
-    },
-    {
-      "titulo": "Homem é preso por suspeita de agredir  mulher em Barra Mansa",
-      "imagem": "https://s2-g1.glbimg.com/kQuR_Q5uL2I-uLPvyc3ZULwQj0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/Y/d99cTDSBmtQLtSO40UtQ/whatsapp-image-2026-08-16-at-13.47.37.jpeg"
-    },
-    {
-      "titulo": "Ex-servidores temporários da saúde denunciam atraso no pagamento de rescisões pela Prefeitura de Juiz de Fora",
-      "imagem": "https://s2-g1.glbimg.com/96aOTeAOTC3qXLX6dJ2xAORSXJI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/R/rAvUbUTMuzkqk1eTNKbA/whatsapp-image-2026-01-09-at-14.58.11.jpeg"
-    },
-    {
-      "titulo": "Homem que deveria estar em prisão domiciliar é flagrado na rua e levado à delegacia em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/gcBsI8u6WHdc8zwgvJ38sN2h2ms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/L/v410mCQEa9gMFepznWXA/preso-pelo-canil-da-pmrr.jpg"
-    },
-    {
-      "titulo": "De nenhum bem a R$ 2,3 milhões: veja o patrimônio dos candidatos ao senado por Sergipe declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/g9-2qhvELTe9iWGz1_gkfjg2aA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/k/UKlnWsS6O8SkQBcakoGg/foto-e-montagem-vertical-59-.png"
-    },
-    {
-      "titulo": "Eleições 2026: veja a agenda de Lenilda Luna neste domingo (16)",
-      "imagem": "https://s2-g1.glbimg.com/Aqd-T42YVDD77wEbSHPnHdSQvGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/L/2nUyTOSQGm97cw4sqZzQ/whatsapp-image-2024-07-28-at-16.06.06.jpeg"
-    },
-    {
-      "titulo": "Grave acidente envolvendo quatro carros deixa três feridos na Avenida Rodrigo Otávio, em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/Wt5s1Uagfyoq6wTVpASbwE6XDDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/G/EH1C6dRYASm1GAAMutJg/whatsapp-image-2026-08-16-at-12.28.40.jpeg"
-    },
-    {
-      "titulo": "Primeiro dia de campanha eleitoral tem adesivaços, atos e candidatos sem agenda pública em MS",
-      "imagem": "https://s2-g1.glbimg.com/9Qr28r4gBvO0yYWzM1vkdH38Iyc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/8/nzCi9OT6qRBmk9EGWAcg/8-candidatos-a-vice.jpg"
-    },
-    {
-      "titulo": "Raquel Lyra inicia campanha em ato com apoiadores no Recife e fala em estratégia com foco na Região Metropolitana",
-      "imagem": "https://s2-g1.glbimg.com/Spbo42YtYr-xP6SbnQr1ppS3aco=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/r/0Q3M7CQOWeX7YpYyDttA/whatsapp-image-2026-08-16-at-11.51.12.jpeg"
-    },
-    {
-      "titulo": "'Sabores, Sons e Memórias': Aos 103 anos, Dona Nem vive cercada por dois séculos de história em casarão de Itapecerica",
-      "imagem": "https://s2-g1.glbimg.com/RzjeMyvEsPq_EROsol1c0ri3Z5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/F/JVAB96TYGooQcFELBCqA/dona-nem.jfif"
-    },
-    {
-      "titulo": "‘Eu abracei meu noivo e disse que iríamos morrer’, relata sobrevivente de acidente com ônibus em Petrópolis",
-      "imagem": "https://s2-g1.glbimg.com/lDcHEYLjMZeHEfE-C6rvEZyL08Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Z/Bvxc87S5ypCG9PDQgrFg/whatsapp-image-2026-08-16-at-13.56.45.jpeg"
-    },
-    {
-      "titulo": "Você viu? Militar do Exército desaparecido, encontro de motos e mais em Roraima",
-      "imagem": "https://s2-g1.glbimg.com/akSMaPI-_G4uvb5jRWSwyJt8Cu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/e/ACfxo4Sg2CcZJOybNP9Q/militar-sumido-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T17:57:38.995Z"
+  "atualizadoEm": "2026-08-16T18:32:48.810Z"
 }
