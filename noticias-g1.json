@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEOS: Jornal do Campo GO de domingo, 16 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/psq5bngV2skmNhuh5Is3v_30R-g=/s01.video.glbimg.com/deo/vi/77/01/14870177"
+    },
+    {
+      "titulo": "Bolo de laranja champanhe: aprenda receita que combina sabor cítrico com massa macia",
+      "imagem": "https://s2-g1.glbimg.com/QrJ9NSa1_hXHYmPQSfOjQOFb4qg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/U/ZMsxaOQkOagwoJAn0xdA/still0815-00000-1-.png"
+    },
+    {
+      "titulo": "Couve-flor roxa, amarela e verde: agricultor transforma produção e conquista consumidores em Cascavel",
+      "imagem": "https://s2-g1.glbimg.com/IFagANE3HCii386w3ihBma1UPKA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/D/2XvIMXQBmAycaS04bJIQ/still0815-00002.png"
+    },
+    {
+      "titulo": "'Nunca cogitamos não lançar': o relato de um cientista que ajudou a fabricar a bomba atômica que devastou Nagasaki",
+      "imagem": "https://s2-g1.glbimg.com/9B9FO3ybrtkV6VR67OhNGfbDLxg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/3/JBSGfeTFOMvjCVDZdUJw/7eb54993-b8da-478c-a36c-455d47296cd3.png"
+    },
+    {
+      "titulo": "Receita Nosso Campo: aprenda a fazer uma broa de fubá com erva doce",
+      "imagem": "https://s2-g1.glbimg.com/zGEZh7JlOLCmHFZCZst--XECwB8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/x/n8CetoT9inGPw4qxvDuQ/sor-broa-fuba-060826.copy.01-frame-8652.jpeg"
+    },
+    {
+      "titulo": "Mosca-de-estábulo avança no inverno e causa prejuízo a pecuaristas no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/eipnVOmDnXFlfSGATUGQYNDRapY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/g/NgDMzdSDOXTc9UZ8HtnA/bau-surto-mosca-vale-video-mixdown-1-frame-270.jpeg"
+    },
+    {
+      "titulo": "Peão de Orindiúva viaja 10 mil km para divulgar cultura caipira",
+      "imagem": "https://s2-g1.glbimg.com/RBEO4ahyeMVUwS8sTXEh91zbjJY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/Q/rAlT1ITuq6fR03eT7cDw/sjp-berranteiro-volta-video-mixdown-1-frame-0.jpeg"
+    },
+    {
+      "titulo": "Pavê de graviola: veja como fazer sobremesa fácil e refrescante",
+      "imagem": "https://s2-g1.glbimg.com/akfBWHnc_nqHGRi92iptBmb1LA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/1/0hJLBURtOu64pc89jxSg/pave.jpeg"
+    },
+    {
+      "titulo": "Buscas por kitesurfista desaparecido são retomadas no mar neste domingo (16), em São Luís",
+      "imagem": "https://s2-g1.glbimg.com/vJDH_VZJko9qzwrN3MlYyyGC-tA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/7/CjWQJCSIKQqgoFL3pIag/montagens-1920-x-1080-px-1-.png"
+    },
+    {
       "titulo": "Tião Bocalom aumenta patrimônio em 15% e declara mais de R$ 1,2 milhão ao TSE",
       "imagem": "https://s2-g1.glbimg.com/LJbRhFXOCBLXf4-nhb2vo9eCdNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/0/QZkSMeTvGEQvZ6DsKd5Q/copia-de-midia-de-distribuicao-g1.png"
     },
@@ -83,43 +119,7 @@
     {
       "titulo": "A música brasileira está melhor ou pior do que antes? A resposta da pergunta pode causar sério incômodo em você...",
       "imagem": "https://s2-g1.glbimg.com/3pVuJQlK3Ray9kRRl490XOXi2Vs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/4/04Q9qdQf2LM0BM1rzEDw/bethaliniker.jpg"
-    },
-    {
-      "titulo": "VÍDEO: para que servem as pesquisas eleitorais",
-      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
-    },
-    {
-      "titulo": "'Estrela de buraco negro' pode ser novo tipo de objeto cósmico; entenda a descoberta",
-      "imagem": "https://s2-g1.glbimg.com/NjcYmzJd8rjl1G8PFy3L1tDVGKk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/R/ATrPpwSweri9aSzIqitQ/mit-blackholestar-01-press.jpg"
-    },
-    {
-      "titulo": "A Coreia do Norte está cada vez mais dentro da guerra da Ucrânia — e o próximo passo pode ser ainda maior",
-      "imagem": "https://s2-g1.glbimg.com/Db48LlRh-q5lj7WdCXucRXis86E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/K/GlpgxFQMOrWSOdJGAqHQ/2026-08-05t030200z-138109928-rc2xrma25c5b-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
-    },
-    {
-      "titulo": "'Ao me ver, chore': A história por trás das 'pedras da fome' da Europa",
-      "imagem": "https://s2-g1.glbimg.com/-ZIqryeY3EOMkMVU7ZkWyo9nKXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/A/DolxtJSD6ZssGjejksnw/2026-08-04t112609z-587197085-rc2mrmanmmpl-rtrmadp-3-europe-weather-germany.jpg"
-    },
-    {
-      "titulo": "Entrada da China na ação do Brasil na OMC ajuda a combater guerra tarifária contra os EUA?",
-      "imagem": "https://s2-g1.glbimg.com/gJ4oVe4z1jbYf0u4ybAO6BCXRRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/1/iBaThASbA7ngx6wdlkSw/china.jpg"
-    },
-    {
-      "titulo": "Trilionário por 2 meses: a ‘marcha à ré’ da SpaceX que fez Elon Musk perder bilhões de dólares",
-      "imagem": "https://s2-g1.glbimg.com/xWmSKn9yV6rKH8UykXW4OY4rh9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/W/KOhvE3TFajtip17A34hw/2026-06-12t134403z-1228447360-rc2dslascqpj-rtrmadp-3-spacex-ipo.jpg"
-    },
-    {
-      "titulo": "Como o tráfico de animais silvestres no Ceará tem migrado de feiras livres para as redes sociais; veja mensagens",
-      "imagem": "https://s2-g1.glbimg.com/myUf-cWSfMXG1x9eRo7-kZ--82U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/r/XYeDUuQ4qhFcXgXVPBNA/feira.jpeg"
-    },
-    {
-      "titulo": "Viscondessa de Campinas: quem foi a única mulher no Brasil a receber título de nobreza sem depender do marido",
-      "imagem": "https://s2-g1.glbimg.com/k-710ospIdzfrYzNtUG5PyrAGVY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/4aKTbmSYuZcu6UdyBWcg/design-sem-nome-24-.jpg"
-    },
-    {
-      "titulo": "Muro subterrâneo na orla de Balneário Camboriú tem traçado sinuoso e deve conter avanço do mar; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/EUB_7v71rneRJd6_4yfmlGUVzAs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/S/zDvLrDRPqfQXfIiBTygg/muro-de-protecao-costeira-balneario-camboriu.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T10:28:21.227Z"
+  "atualizadoEm": "2026-08-16T10:50:11.778Z"
 }

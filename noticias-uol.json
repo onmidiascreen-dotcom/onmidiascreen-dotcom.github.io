@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Indonésia decreta 2 semanas de estado de emergência após terremoto que deixou milhares de desalojados",
+      "imagem": null
+    },
+    {
       "titulo": "Clubes europeus movimentam bilhões na janela de transferência para nova temporada",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Indonésia busca sobreviventes após terremoto que deixou ao menos 47 mortos",
       "imagem": null
-    },
-    {
-      "titulo": "Brigadas indígenas buscam unir saber tradicional a drones e mapas na prevenção de incêndios",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T10:28:19.445Z"
+  "atualizadoEm": "2026-08-16T10:50:11.538Z"
 }
