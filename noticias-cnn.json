@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "Migrantes marroquinos protestam em Ceuta e pedem asilo à Espanha",
+      "imagem": null
+    },
+    {
+      "titulo": "1º dia de campanha: Lula fala de mulheres; Flávio cita de INSS e Lulinha",
+      "imagem": null
+    },
+    {
+      "titulo": "Campanha de Flávio articula encontro com aliados e artistas em Barretos",
+      "imagem": null
+    },
+    {
+      "titulo": "Sabonete em barra realmente reduz o odor no vaso sanitário?",
+      "imagem": null
+    },
+    {
+      "titulo": "Candidatos a governo começam campanha nos estados; veja as agendas",
+      "imagem": null
+    },
+    {
+      "titulo": "Ao lançar campanha, Tarcísio afirma que pauta da mulher dominará debates",
+      "imagem": null
+    },
+    {
+      "titulo": "Acidente de ônibus no RJ: Sobe para 10 número de mortos em viagem turística",
+      "imagem": null
+    },
+    {
+      "titulo": "TSE decide não analisar liminar sobre eventos do PT e projeto ligado a Lula",
+      "imagem": null
+    },
+    {
+      "titulo": "Lutador brasileiro Edson Barboza é nocauteado no UFC e se aposenta",
+      "imagem": null
+    },
+    {
       "titulo": "Matthew McConaughey diz que não quer filhos &#8220;exatamente como ele&#8221;; entenda",
       "imagem": null
     },
@@ -83,43 +119,7 @@
     {
       "titulo": "Veja depoimento de mulher agredida por empresário em São Paulo",
       "imagem": null
-    },
-    {
-      "titulo": "Incêndio florestal na Bélgica é o maior já registrado",
-      "imagem": null
-    },
-    {
-      "titulo": "Haddad lança campanha em evento exaltando Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Atendimento veterinário gratuito é ampliado em Pereira, na Colômbia",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasil faz história e conquista dois ouros no Mundial de ginástica rítmica",
-      "imagem": null
-    },
-    {
-      "titulo": "Papa Leão XIV pede fim da violência contra palestinos na Cisjordânia",
-      "imagem": null
-    },
-    {
-      "titulo": "Rússia ataca siderúrgica na Ucrânia e mata duas pessoas",
-      "imagem": null
-    },
-    {
-      "titulo": "Redação do Enem: professor aponta 7 temas que merecem atenção em 2026",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem de Ferro de volta? Downey Jr. revive personagem em novo projeto",
-      "imagem": null
-    },
-    {
-      "titulo": "Coreia do Sul dispara tiros de advertência contra soldados do norte",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T16:59:25.443Z"
+  "atualizadoEm": "2026-08-16T17:26:06.721Z"
 }

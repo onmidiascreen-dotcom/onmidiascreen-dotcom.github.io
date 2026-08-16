@@ -1,6 +1,66 @@
 {
   "noticias": [
     {
+      "titulo": "Eleições 2026: veja a agenda de Renan Filho neste domingo (16)",
+      "imagem": "https://s2-g1.glbimg.com/HUEzgcRVpzY5TtMA1c9rWOR1w7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/khMWGtTi6CshM7HUDnuA/whatsapp-image-2026-08-05-at-14.11.03.jpeg"
+    },
+    {
+      "titulo": "Incêndio destrói casa no distrito de Rubião Júnior em Botucatu",
+      "imagem": "https://s2-g1.glbimg.com/5tFqes6davnVKhpok7HxUXi900A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/U/NVzyADTdGJeuYN5uB9TA/incendio-casa.jpg"
+    },
+    {
+      "titulo": "Temporal com granizo atinge Porto Alegre e Região Metropolitana",
+      "imagem": "https://s2-g1.glbimg.com/QDD99OtU4cEcQjqfsKS8-CvIFs4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/q/NMBjZiTzmyPToXb7gyvw/granizo.jpg"
+    },
+    {
+      "titulo": "Resultado da Mega-Sena 3045: aposta do Piauí acerta quina e leva R$ 89 mil; veja cidades premiadas",
+      "imagem": "https://s2-g1.glbimg.com/EMTTR6lnk36Zyd1OFglHEpgaoZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/3/trVaH8RJKNjPhAsWataA/imagem-g1-59-.png"
+    },
+    {
+      "titulo": "ANTT diz que ônibus não estava habilitado para realizar transporte interestadual de passageiros",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é preso por suspeita de agredir  mulher em Barra Mansa",
+      "imagem": "https://s2-g1.glbimg.com/kQuR_Q5uL2I-uLPvyc3ZULwQj0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/Y/d99cTDSBmtQLtSO40UtQ/whatsapp-image-2026-08-16-at-13.47.37.jpeg"
+    },
+    {
+      "titulo": "Ex-servidores temporários da saúde denunciam atraso no pagamento de rescisões pela Prefeitura de Juiz de Fora",
+      "imagem": "https://s2-g1.glbimg.com/96aOTeAOTC3qXLX6dJ2xAORSXJI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/R/rAvUbUTMuzkqk1eTNKbA/whatsapp-image-2026-01-09-at-14.58.11.jpeg"
+    },
+    {
+      "titulo": "Homem que deveria estar em prisão domiciliar é flagrado na rua e levado à delegacia em Boa Vista",
+      "imagem": "https://s2-g1.glbimg.com/gcBsI8u6WHdc8zwgvJ38sN2h2ms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/L/v410mCQEa9gMFepznWXA/preso-pelo-canil-da-pmrr.jpg"
+    },
+    {
+      "titulo": "De nenhum bem a R$ 2,3 milhões: veja o patrimônio dos candidatos ao senado por Sergipe declarado ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/g9-2qhvELTe9iWGz1_gkfjg2aA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/k/UKlnWsS6O8SkQBcakoGg/foto-e-montagem-vertical-59-.png"
+    },
+    {
+      "titulo": "Eleições 2026: veja a agenda de Lenilda Luna neste domingo (16)",
+      "imagem": "https://s2-g1.glbimg.com/Aqd-T42YVDD77wEbSHPnHdSQvGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/L/2nUyTOSQGm97cw4sqZzQ/whatsapp-image-2024-07-28-at-16.06.06.jpeg"
+    },
+    {
+      "titulo": "Grave acidente envolvendo quatro carros deixa três feridos na Avenida Rodrigo Otávio, em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/Wt5s1Uagfyoq6wTVpASbwE6XDDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/G/EH1C6dRYASm1GAAMutJg/whatsapp-image-2026-08-16-at-12.28.40.jpeg"
+    },
+    {
+      "titulo": "Primeiro dia de campanha eleitoral tem adesivaços, atos e candidatos sem agenda pública em MS",
+      "imagem": "https://s2-g1.glbimg.com/9Qr28r4gBvO0yYWzM1vkdH38Iyc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/8/nzCi9OT6qRBmk9EGWAcg/8-candidatos-a-vice.jpg"
+    },
+    {
+      "titulo": "Raquel Lyra inicia campanha em ato com apoiadores no Recife e fala em estratégia com foco na Região Metropolitana",
+      "imagem": "https://s2-g1.glbimg.com/Spbo42YtYr-xP6SbnQr1ppS3aco=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/r/0Q3M7CQOWeX7YpYyDttA/whatsapp-image-2026-08-16-at-11.51.12.jpeg"
+    },
+    {
+      "titulo": "'Sabores, Sons e Memórias': Aos 103 anos, Dona Nem vive cercada por dois séculos de história em casarão de Itapecerica",
+      "imagem": "https://s2-g1.glbimg.com/RzjeMyvEsPq_EROsol1c0ri3Z5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/F/JVAB96TYGooQcFELBCqA/dona-nem.jfif"
+    },
+    {
+      "titulo": "‘Eu abracei meu noivo e disse que iríamos morrer’, relata sobrevivente de acidente com ônibus em Petrópolis",
+      "imagem": "https://s2-g1.glbimg.com/lDcHEYLjMZeHEfE-C6rvEZyL08Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Z/Bvxc87S5ypCG9PDQgrFg/whatsapp-image-2026-08-16-at-13.56.45.jpeg"
+    },
+    {
       "titulo": "Você viu? Militar do Exército desaparecido, encontro de motos e mais em Roraima",
       "imagem": "https://s2-g1.glbimg.com/akSMaPI-_G4uvb5jRWSwyJt8Cu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/e/ACfxo4Sg2CcZJOybNP9Q/militar-sumido-.jpg"
     },
@@ -59,67 +119,7 @@
     {
       "titulo": "Filho de policial civil morre baleado durante tentativa de roubo de moto na Zona Norte de SP",
       "imagem": "https://s2-g1.glbimg.com/F0invi6uE6YIQHyimAzKX9cJNno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/1/FHUFzzTzKJDV22Y2XXyA/morte-zona-norte-sp.jpg"
-    },
-    {
-      "titulo": "Mulher é estrangulada pelo ex-companheiro em Montes Claros e Polícia Civil apura feminicídio",
-      "imagem": "https://s2-g1.glbimg.com/L6OeF8cOm_y0M0VeRBCtyEHBQw4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/l/GPhYc8QAGLOboqvTeHLQ/vitimasfatais-1-.png"
-    },
-    {
-      "titulo": "Incêndio destrói igreja da Assembleia de Deus em avenida do Recife; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/--ouV_En4TUikRLumD5UdSoMp0U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/T/Ag3FegSgy6WJt1qzUffA/igreja-incendio.jpg"
-    },
-    {
-      "titulo": "PSB destitui direção em RO e cancela candidaturas",
-      "imagem": "https://s2-g1.glbimg.com/u46pfmw6girfY2HxMXSQKWU2Xqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/0VpFxcQBSS3eWOQswSmQ/whatsapp-image-2026-07-20-at-20.06.47.jpeg"
-    },
-    {
-      "titulo": "Arquiteto vira designer de sapatos por acaso e tem criações usadas por Madonna e Sabrina Sato",
-      "imagem": "https://s2-g1.glbimg.com/6LyrXa4-RnfxKNtPeekQZsf7Hcg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/A/OwI90lQxCF1RkOU2Ld5g/fernando-pires-2-.jpg"
-    },
-    {
-      "titulo": "Mulher morre após moto ser atingida por carro no interior do Tocantins",
-      "imagem": "https://s2-g1.glbimg.com/C-9W0p5IPVcEnaIDCwPalaY2S5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Q/CTJS3LRtCBMuPEHvwCMQ/foto-e-montagem-vertical-86-.jpg"
-    },
-    {
-      "titulo": "Casa com 3 crianças sozinhas pega fogo, uma se fere e mãe é presa por abandono no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/JTAUrxPWgK1dVQq7ycmF2lX9KTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/tBD27CSwKbQsmFqBovOQ/design-sem-nome-30-.png"
-    },
-    {
-      "titulo": "Professora e pesquisadora referência nos estudos sobre o Pantanal morre em MT",
-      "imagem": "https://s2-g1.glbimg.com/fN879z2qESTMiiUlTgqJ1DMox1w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/Q/33BAROTtOcraBySmU4YA/videos-g1-30-.jpg"
-    },
-    {
-      "titulo": "Suspeito de participar de assalto a carro-forte no Maranhão é preso em aeroporto de Campinas, em São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/W4BhxrIVGOoNuElXB6Cj3xP-WhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/p/Hdkln4TBqKSjlnMnpkQw/montagens-1920-x-1080-px-.png"
-    },
-    {
-      "titulo": "Motorista sem carteira atinge trailer de lanches em praça de Linhares; funcionário se queima com óleo quente",
-      "imagem": "https://s2-g1.glbimg.com/wNSOfQOQ3xWMkCSTreq6H10ezkI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/f/pBQtjvQjmh0gODjDm9nQ/thumb-fotos-40-.jpg"
-    },
-    {
-      "titulo": "Família denuncia agressão a jovem em crise psiquiátrica dentro de unidade de saúde de Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/JaKSxjWF1l9eJ-LpdTmxyxx5wBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/P/7aj8gZSAqpP7b87tZSug/design-sem-nome-21-.jpg"
-    },
-    {
-      "titulo": "Cinco pessoas são presas suspeitas de manter delivery de drogas em João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/i5dyOlrQCPgKQqZI0kwZAeN3yo0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/v/5NSe81TaC5839bvNANCA/apreensao-delivery-de-drogas-joao-pessoa.jpeg"
-    },
-    {
-      "titulo": "ACM Neto começa campanha eleitoral em cidades do interior da Bahia",
-      "imagem": "https://s2-g1.glbimg.com/Q2ySwoMl5cWUF7fhFZ10KcsBL78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/K/i7uO4VTKGJdn7WbYqnKQ/acm-neto-e-ze-coca-iniciam-campanha.jpg"
-    },
-    {
-      "titulo": "Incêndio atinge barracas e parte de construção em Romaria; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/-f-owZabcqHiZ7tzenZkTCKySyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/5/cHPkRVSUu30bbJDRhYoQ/design-sem-nome-3-.png"
-    },
-    {
-      "titulo": "Agência de classificação de risco Fitch eleva nota de crédito do município do Rio de Janeiro para o grau mais alto",
-      "imagem": "https://s2-g1.glbimg.com/IXeLR3c5O375FJsVSRUJZqKTX_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/5/v5pqR6T7y36E4iytYQEQ/9127507772-9b3e599d53-k.jpg"
-    },
-    {
-      "titulo": "Tarcísio inicia campanha em Osasco com presença de 14 prefeitos e lideranças partidárias",
-      "imagem": "https://s2-g1.glbimg.com/RxGf_-0TEzlN8N5TX1Ma0-EpgjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/n/43PLNTQc2LiRGY6nZYAw/whatsapp-image-2026-08-16-at-12.08.41.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-16T16:59:26.810Z"
+  "atualizadoEm": "2026-08-16T17:26:07.405Z"
 }
