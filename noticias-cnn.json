@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Caça da Otan abate drone que violou espaço aéreo da Romênia",
+      "imagem": null
+    },
+    {
+      "titulo": "Terremoto na Indonésia: Número de mortos passa de 50; milhares deixam casas",
+      "imagem": null
+    },
+    {
       "titulo": "Ataque de mísseis russos em Kiev provoca incêndio e deixa um ferido",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Presidente da Colômbia solicita a Trump fim de tarifas após terremoto",
       "imagem": null
-    },
-    {
-      "titulo": "Catar nega estar detendo pilotos iranianos",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja os times que garantiram o acesso ao Brasileirão Série C 2027",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T04:21:14.083Z"
+  "atualizadoEm": "2026-08-16T04:59:40.355Z"
 }
