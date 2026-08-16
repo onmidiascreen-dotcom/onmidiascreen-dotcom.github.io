@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "Pix contribui para expansão do empreendedorismo brasileiro, diz estudo",
+      "imagem": null
+    },
+    {
+      "titulo": "Ônibus que tombou e deixou 10 mortos no RJ era clandestino, diz ANTT",
+      "imagem": null
+    },
+    {
+      "titulo": "Beatles: atores de cinebiografia são flagrados recriando capa icônica",
+      "imagem": null
+    },
+    {
+      "titulo": "Insights da Semana: Apple enfrenta restrições e eleva preço do iPhone",
+      "imagem": null
+    },
+    {
+      "titulo": "Musiala desmaia em amistoso do Bayern de Munique",
+      "imagem": null
+    },
+    {
+      "titulo": "Grávida, Tainá Militão revela se mostrará o rosto do filho; confira",
+      "imagem": null
+    },
+    {
+      "titulo": "João Fonseca derrota holandês e avança no Masters de Cincinnati",
+      "imagem": null
+    },
+    {
+      "titulo": "Decisão de Moraes sobre sigilo da fonte não tem fundamentos, diz advogado",
+      "imagem": null
+    },
+    {
+      "titulo": "Zeca Pagodinho sobre neto Noah: “Ele já nasceu pronto”",
+      "imagem": null
+    },
+    {
       "titulo": "Morte de Elke Maravilha completa 10 anos; relembre trajetória da artista",
       "imagem": null
     },
@@ -73,7 +109,7 @@
       "imagem": null
     },
     {
-      "titulo": "Cristiano Ronaldo afirma que o próximo ano pode marcar fim da carreira",
+      "titulo": "Cristiano Ronaldo ensaia aposentadoria: “Deve ser meu último ano”",
       "imagem": null
     },
     {
@@ -83,43 +119,7 @@
     {
       "titulo": "Arthur Aguiar e Jheny Santucci anunciam segunda gravidez: &#8220;Uma nova vida&#8221;",
       "imagem": null
-    },
-    {
-      "titulo": "Kim Jong-Un e Putin reafirmam laços no Dia da Libertação da Coreia",
-      "imagem": null
-    },
-    {
-      "titulo": "Irã oferece 30 mil dólares por soldados americanos mortos ou capturados",
-      "imagem": null
-    },
-    {
-      "titulo": "Migrantes marroquinos protestam em Ceuta e pedem asilo à Espanha",
-      "imagem": null
-    },
-    {
-      "titulo": "1º dia de campanha: Lula fala de mulheres; Flávio cita INSS e Lulinha",
-      "imagem": null
-    },
-    {
-      "titulo": "Campanha de Flávio articula encontro com aliados e artistas em Barretos",
-      "imagem": null
-    },
-    {
-      "titulo": "Sabonete em barra realmente reduz o odor no vaso sanitário?",
-      "imagem": null
-    },
-    {
-      "titulo": "Candidatos a governo começam campanha nos estados; veja as agendas",
-      "imagem": null
-    },
-    {
-      "titulo": "Ao lançar campanha, Tarcísio afirma que pauta da mulher dominará debates",
-      "imagem": null
-    },
-    {
-      "titulo": "Acidente de ônibus no RJ: Sobe para 10 número de mortos em viagem turística",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T19:01:29.216Z"
+  "atualizadoEm": "2026-08-16T19:32:14.659Z"
 }
