@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Militares da Coreia do Sul atiram após soldados norte-coreanos cruzarem a fronteira",
+      "imagem": "https://s2-g1.glbimg.com/sESeqsLgzzElTzZkD6cBmvHJLq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/U/Z/Pqz42qT3eWyB5pAKoIGg/ap20309052801861.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: Campanha eleitoral começa oficialmente neste domingo (16); veja cenário no Ceará",
+      "imagem": "https://s2-g1.glbimg.com/sttvfVUfZBgMTNY6psg5OY-66zw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/w/F7f1PLSaGlVPSIPO73og/palacio-da-abolicao.jpeg"
+    },
+    {
+      "titulo": "Inspiradas nas 'Patricinhas de Beverly Hills', estudantes do RS criam app para ajudar na escolha de looks antes de sair de casa",
+      "imagem": "https://s2-g1.glbimg.com/FDIDlXhMSweDbL4K8aOw79cHg0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/X/XjCHQcRWW4hBDf7hTtCA/g1-20-.jpg"
+    },
+    {
+      "titulo": "Caça abate drone militar que invadiu espaço aéreo da Romênia durante missão da Otan",
+      "imagem": "https://s2-g1.glbimg.com/B51eikdqd4N801fspcPG2daux9U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/F/DvGtAQQMa8dBJdxsbp9A/31950888963-9af52b09fb-k.jpg"
+    },
+    {
       "titulo": "17ª Marcha para Jesus reúne fiéis em Macaé no próximo dia 22 de agosto",
       "imagem": "https://s2-g1.glbimg.com/0vKan1EJxW2R0Jney6r37Z9bOHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/3/SFNGFxS5Kw7zUFxien6A/foto-1-marcha-para-jesus.jpeg"
     },
@@ -49,8 +65,8 @@
       "imagem": "https://s2-g1.glbimg.com/swQA68ar04hfmA0YfQ-dmveW0i8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/h/itBUNsS1W6d10NDVpnXA/fotojet-4-.jpg"
     },
     {
-      "titulo": "Ataque russo com mísseis provoca incêndios em Kiev e deixa um ferido, dizem autoridades",
-      "imagem": "https://s2-g1.glbimg.com/Db48LlRh-q5lj7WdCXucRXis86E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/K/GlpgxFQMOrWSOdJGAqHQ/2026-08-05t030200z-138109928-rc2xrma25c5b-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
+      "titulo": "Ataque russo com mísseis e drones provoca incêndios e deixa feridos na Ucrânia",
+      "imagem": "https://s2-g1.glbimg.com/8e79_Cnrz4OBgMPdrqyJNANe9oQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/c/mA6B5ARxOG3SBL510IuQ/afp-20260816-c4rf8g6-v1-midres-ukrainerussiaconflictwar.jpg"
     },
     {
       "titulo": "Surto de sarampo leva São Paulo e cidades da Grande SP a ampliar vacinação contra a doença",
@@ -103,23 +119,7 @@
     {
       "titulo": "Ivan Moraes diz sofrer 'ataques' do PSB para retirar candidatura ao governo do estado às vésperas do início da campanha eleitoral",
       "imagem": "https://s2-g1.glbimg.com/8YUbaBwGLzucALvI3lH-wDWMrLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/0/Waig9VRY6QmoNjReBg2g/ivan-moraes-coletiva.jpeg"
-    },
-    {
-      "titulo": "Após hiato, Jaloo e Strobo se reúnem e apresentam álbum do trio Os Amantes entre o brega paraense e o indie rock",
-      "imagem": "https://s2-g1.glbimg.com/hrTGAMf4SAWIwNauBPZFT_Q9Eiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/8/NdVkefQNGTIXB8liBMUA/amantes-fotoernacost.jpg"
-    },
-    {
-      "titulo": "Mesmo inelegível até 2032, PRTB lança Pablo Marçal como candidato à Presidência",
-      "imagem": "https://s2-g1.glbimg.com/rV-nx8jQ-B_n1zeE-_6z0PgZjAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/L/vqCnYsQrO6deB6nrOXyw/whatsapp-image-2026-08-15-at-20.23.46-1-.jpeg"
-    },
-    {
-      "titulo": "Terremoto de magnitude 7,7 mata 47 pessoas e provoca destruição na Indonésia",
-      "imagem": "https://s2-g1.glbimg.com/rBhoM_Z0lTd0k7rlS-AAyAlU9Yw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/Z1r2bzTzKNSUA5Ijb6Gg/globo-canal-4-20260815-2000-frame-56522.jpeg"
-    },
-    {
-      "titulo": "Nilton Santos, candidato ao Senado, declara R$ 2 milhões em bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/fEXlmpR_hGIU3D13Cfx3AJlvYys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/DUVlKGSxm4AVEvX0blJw/whatsapp-image-2026-08-06-at-14.30.38.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-16T03:43:52.054Z"
+  "atualizadoEm": "2026-08-16T04:21:16.413Z"
 }
