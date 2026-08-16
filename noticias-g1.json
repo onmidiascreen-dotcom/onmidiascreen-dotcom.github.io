@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Criança desaparecida é encontrada morta em tanque de granja em Goiás",
+      "imagem": "https://s2-g1.glbimg.com/DcBDUCsRPbBGAhFmyac5Ib0u59w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/5/0lAASCT7GRyhhrMmhG7A/whatsapp-image-2026-08-16-at-14.34.26.jpeg"
+    },
+    {
+      "titulo": "Jovem com mandado de prisão em aberto por tráfico de drogas é preso em Barra do Piraí",
+      "imagem": "https://s2-g1.glbimg.com/BODSrvV8FrabYdHLXbMfsYkxCJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/x/9/FmGv6KTVqlB9iRJmb6Mw/whatsapp-image-2023-03-02-at-08.41.30.jpeg"
+    },
+    {
       "titulo": "Mulher é achada morta com sinais de estrangulamento dentro de casa em Criciúma",
       "imagem": "https://s2-g1.glbimg.com/Q3oDIyEByTpwAP7zPPl7SAir7yI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/w/G/XDK3AfTaOQpBvaSTIb1w/whatsapp-image-2023-01-25-at-10.10.11.jpeg"
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Você viu? Militar do Exército desaparecido, encontro de motos e mais em Roraima",
       "imagem": "https://s2-g1.glbimg.com/akSMaPI-_G4uvb5jRWSwyJt8Cu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/e/ACfxo4Sg2CcZJOybNP9Q/militar-sumido-.jpg"
-    },
-    {
-      "titulo": "De nenhum bem a R$ 1,6 mi: veja o patrimônio dos candidatos ao governo de Sergipe declarado ao  TSE",
-      "imagem": "https://s2-g1.glbimg.com/QxL4YiZijs-v8b7ICfUDKUbM-Rg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/V/13Gh2HRPaP7SsnvlrG4Q/design-sem-nome-1-.jpg"
-    },
-    {
-      "titulo": "'Caminhada do Amicão' reúne cerca de 500 cães em Três Rios",
-      "imagem": "https://s2-g1.glbimg.com/Jl4jD1-ldfehNQdYa4-HI4lZi_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/s/9FG7wFQvm9xsr7L8utrw/whatsapp-image-2026-08-16-at-13.10.33.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-16T17:44:03.444Z"
+  "atualizadoEm": "2026-08-16T17:57:38.995Z"
 }
