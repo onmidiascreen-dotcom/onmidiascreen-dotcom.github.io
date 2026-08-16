@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "São Paulo empata com Coritiba e chega a 9 jogos sem vencer no Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Ameaçado por stalker da namorada, ex-Arsenal pede para sair do Galatasaray",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasil soma mais 3 medalhas no Grand Prix de Judô",
+      "imagem": null
+    },
+    {
+      "titulo": "Rogério Caboclo desiste da disputa à presidência do São Paulo",
+      "imagem": null
+    },
+    {
       "titulo": "Tifanny é ovacionada pela torcida do Osasco após nova decisão da CBV",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "Nvidia planeja investir US$ 3 bi na SB Energy, diz jornal",
       "imagem": null
-    },
-    {
-      "titulo": "Arroz engorda? Especialistas e Dr. Kalil desmontam mitos sobre alimentação",
-      "imagem": null
-    },
-    {
-      "titulo": "Lázaro Ramos entra para calçada da fama em Gramado; confira",
-      "imagem": null
-    },
-    {
-      "titulo": "Fluminense 3 x 2 Palmeiras: veja os melhores momentos pelo Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Tempestades e inundações deixam seis mortos em Indiana, dizem autoridades",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T01:35:46.867Z"
+  "atualizadoEm": "2026-08-16T02:46:10.344Z"
 }

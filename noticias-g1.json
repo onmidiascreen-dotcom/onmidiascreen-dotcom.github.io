@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Ataque russo com mísseis provoca incêndios em Kiev e deixa um ferido, dizem autoridades",
+      "imagem": "https://s2-g1.glbimg.com/Db48LlRh-q5lj7WdCXucRXis86E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/K/GlpgxFQMOrWSOdJGAqHQ/2026-08-05t030200z-138109928-rc2xrma25c5b-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
+    },
+    {
+      "titulo": "Surto de sarampo leva São Paulo e cidades da Grande SP a ampliar vacinação contra a doença",
+      "imagem": "https://s2-g1.glbimg.com/9hfb4yfygK1NEmS_FQeUOrWqOW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/0/vvkWyqSyKJYBJhWJggdA/captura-de-tela-2026-08-15-215947.jpg"
+    },
+    {
+      "titulo": "Governador Carlos Brandão nega envolvimento em organização criminosa investigada pela PF no Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/e-oRYzbRMSIi3Z_LpoqU8iVkt4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/1XDcHqTfO5AIUp7ZNhAA/carlos-brandao-.jpg"
+    },
+    {
       "titulo": "Pesquisa nacional levanta dados sobre a saúde dos brasileiros",
       "imagem": "https://s2-g1.glbimg.com/FsEHJ9lEJRqjxeU68_hho7opKfA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/o/NUeDATSx2Pl9SIL26l7w/captura-de-tela-2026-08-15-214354.jpg"
     },
@@ -107,19 +119,7 @@
     {
       "titulo": "Gustavo Galassi, candidato ao Senado, declara R$ 5,5 milhões em bens ao TSE",
       "imagem": "https://s2-g1.glbimg.com/ucYIoDEYW7LR-n-RNfyOM8VGvoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/S/flZkdLRV2cbz6HOwpiUg/captura-de-tela-2026-08-15-194127.png"
-    },
-    {
-      "titulo": "VÍDEOS: JL2 de sábado, 15 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/QO2kmhh0HEJpQHQWJsWOWBVu7aA=/s01.video.glbimg.com/deo/vi/77/28/14872877"
-    },
-    {
-      "titulo": "Marcelo Heringer, candidato ao Senado, indica ao TSE que não tem bens a declarar",
-      "imagem": "https://s2-g1.glbimg.com/EmH3zGupCISKktmWnpM4U9JDSfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/j/KU4b5KSVuAXNEi8yBnCw/captura-de-tela-2026-08-15-192700.png"
-    },
-    {
-      "titulo": "Show de Roberto Carlos é cancelado horas antes da apresentação no Rio",
-      "imagem": "https://s2-g1.glbimg.com/9Em3v11bi69x_SwCMLex9C8nkJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/M/KUQiv8Qh20qvFqQlKeAg/robertocarlos85.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T01:35:48.498Z"
+  "atualizadoEm": "2026-08-16T02:46:11.820Z"
 }
