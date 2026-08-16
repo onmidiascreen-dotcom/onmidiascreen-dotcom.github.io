@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Terremoto na Indonésia: número de mortos sobe para 53; país decreta estado de emergência de 2 semanas",
+      "imagem": "https://s2-g1.glbimg.com/YdOuqHsKssvO-MlNXLuK9SBP33s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/N/ywhk5ATHC4s8kFAmnlaw/2026-08-15t014457z-1040189082-rc2pyma8kquy-rtrmadp-3-indonesia-quake-1-.jpg"
+    },
+    {
+      "titulo": "Nevoeiro cobre litoral de SP e paralisa maior porto do país; VEJA",
+      "imagem": "https://s2-g1.glbimg.com/KuBY2y7yMVzgf9C_nFlt_QlM0A8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/6/1eC9rMTRKS3bfyyyJSDQ/inserir-um-titulo-2026-08-16t081947.674.jpg"
+    },
+    {
+      "titulo": "Incêndio atinge loja de colchões em São José de Ribamar, na Grande São Luís",
+      "imagem": "https://s2-g1.glbimg.com/HWDeWxFGo7T7ZA4J1Tox_Nw-Zd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/M6TfLCTwyI2IkPVkF4rg/montagens-1920-x-1080-px-5-.png"
+    },
+    {
+      "titulo": "Gêmeas que nasceram unidas pela cabeça morrem em cirurgia final de separação em Ribeirão Preto",
+      "imagem": "https://s2-g1.glbimg.com/abbCUS4_ooZTE-Qxz6kw95GGYJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/i/kLTjrnRWG9Wp7iXjV6iQ/molduras-g1-.png"
+    },
+    {
       "titulo": "Maioria dos brasileiros rejeita eutanásia e suicídio assistido, mas se divide sobre interromper tratamentos, diz Datafolha",
       "imagem": "https://s2-g1.glbimg.com/xibwBusVYpWoiin9X3Qc9vs9T0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/wgVYyiTI2qdTMt0aAwmA/pexels-rdne-6129685.jpg"
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "'Michael Jacksons' roraimenses encontram cover oficial do rei do pop em evento de motos de alta cilindrada",
       "imagem": "https://s2-g1.glbimg.com/nddIgwAUdC1gQPdvKsJELxXRhbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/deKTPlRQWOMEofQrIawQ/3-michael.jpeg"
-    },
-    {
-      "titulo": "Arroz carreteiro com abóbora: Sabores do Campo ensina receita feita com abóbora gigante",
-      "imagem": "https://s2-g1.glbimg.com/N0VYfuwS2rn_t3PzfBNVoXxGKCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/2/s6SdUaSlGRHOGlnJ6jUw/padrao-foto-g1-goias-michely-loures-12-.jpg"
-    },
-    {
-      "titulo": "Ucrânia lança quase 900 drones contra a Rússia; ataque deixou 6 mortos",
-      "imagem": "https://s2-g1.glbimg.com/egDwZ6eFLKGhQUfAy6KnVXtfaN0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/K/rdVIW9QKOFKlPlO60BBg/2026-08-16t090834z-1069700491-rc2ezma4clah-rtrmadp-3-ukraine-crisis-russia-wildberries-moscow.jpg"
-    },
-    {
-      "titulo": "Catedral de Santos abriga capela subterrânea com restos mortais de mais de 1,5 mil pessoas; VEJA",
-      "imagem": "https://s2-g1.glbimg.com/QTmRGFLokQnVDtczB8DUtYMOBXs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/7/ocNuJLQ52VLFogLNV09A/ossuario-catedral-1-.jpg"
-    },
-    {
-      "titulo": "Caso de brasileiro internado após agredir a mãe é levado à Organização de Estados Americanos; entenda",
-      "imagem": "https://s2-g1.glbimg.com/zmwyCioa_mcqEqBAyZotqZM3zx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/D/7mMgEyTOKBNYnIBQrOCw/caso-rafael.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T11:16:40.679Z"
+  "atualizadoEm": "2026-08-16T11:43:28.269Z"
 }

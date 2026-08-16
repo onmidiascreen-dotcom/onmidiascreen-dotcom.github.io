@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Unicamp realiza feira de profissionalização para jovens pretos e pardos",
+      "imagem": null
+    },
+    {
       "titulo": "Defesa Civil envia dois alertas vermelhos para chuvas em quatro horas no RS",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Chapecoense x Bahia: horário e onde assistir ao jogo do Brasileirão",
       "imagem": null
-    },
-    {
-      "titulo": "DNA artesanal: a fórmula da Fuel Eyewear para ganhar o mercado de óculos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T11:16:38.659Z"
+  "atualizadoEm": "2026-08-16T11:43:27.463Z"
 }
