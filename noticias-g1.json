@@ -1,6 +1,78 @@
 {
   "noticias": [
     {
+      "titulo": "Arroz carreteiro com abóbora: Sabores do Campo ensina receita feita com abóbora gigante",
+      "imagem": "https://s2-g1.glbimg.com/N0VYfuwS2rn_t3PzfBNVoXxGKCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/2/s6SdUaSlGRHOGlnJ6jUw/padrao-foto-g1-goias-michely-loures-12-.jpg"
+    },
+    {
+      "titulo": "Ucrânia lança quase 900 drones contra a Rússia; ataque deixou 6 mortos",
+      "imagem": "https://s2-g1.glbimg.com/8e79_Cnrz4OBgMPdrqyJNANe9oQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/c/mA6B5ARxOG3SBL510IuQ/afp-20260816-c4rf8g6-v1-midres-ukrainerussiaconflictwar.jpg"
+    },
+    {
+      "titulo": "Catedral de Santos abriga capela subterrânea com restos mortais de mais de 1,5 mil pessoas; VEJA",
+      "imagem": "https://s2-g1.glbimg.com/QTmRGFLokQnVDtczB8DUtYMOBXs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/7/ocNuJLQ52VLFogLNV09A/ossuario-catedral-1-.jpg"
+    },
+    {
+      "titulo": "Caso de brasileiro internado após agredir a mãe é levado à Organização de Estados Americanos; entenda",
+      "imagem": "https://s2-g1.glbimg.com/zmwyCioa_mcqEqBAyZotqZM3zx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/D/7mMgEyTOKBNYnIBQrOCw/caso-rafael.jpg"
+    },
+    {
+      "titulo": "Advogado sequestrado pelo PCC escapa de tribunal do crime: 'Pensei que fosse perder minha vida'",
+      "imagem": "https://s2-g1.glbimg.com/0eSoLjp-PmBYX84l4Szukn7e7Is=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/w/7UBK52QL6yYzwfj7bJmw/inserir-um-titulo-2026-08-15t092300.399.jpg"
+    },
+    {
+      "titulo": "Parque do Sítio do Picapau Amarelo em Atibaia: atrações para crianças e adultos",
+      "imagem": "https://s2-g1.glbimg.com/85dEw5W7S8MHA8tVe8ZFivZDgaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/7/mZZvkeRCK6DrYMNgKFtw/parque-sitio-do-picapau-amarelo-em-atibaia.jpg"
+    },
+    {
+      "titulo": "São José dos Campos e Taubaté têm média diária de 53 novos veículos nas ruas em 2026; alta é de 15%",
+      "imagem": "https://s2-g1.glbimg.com/i1Nu5kR1kRy2dT0m32yQkofs36s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/O/P/lsl13LRzenoecPDUNsuQ/whatsapp-image-2025-06-22-at-17.12.08.jpeg"
+    },
+    {
+      "titulo": "6 em cada 10 mães negras ainda não conseguiram entrar no audiovisual em SP, aponta pesquisa",
+      "imagem": "https://s2-g1.glbimg.com/9qK6u5zRuqNiJbwhkdY2p_R4qzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/F/qkixO7T0m9Cjr30FWIGQ/montagem-horizontal-1200px-4-.jpg"
+    },
+    {
+      "titulo": "O estranho caso da jovem mexicana que fingiu estar grávida e acabou sequestrando uma bebê recém-nascida",
+      "imagem": "https://s2-g1.glbimg.com/SO7NJWQDBM8jvcqRiHcPwSSvpUk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/P/H8XMjITrCr4wbZE2EYHA/baby-6823431-1280.jpg"
+    },
+    {
+      "titulo": "‘Vi minha filha morrer e renascer’, diz mãe de bebê salva após engasgo com tampa de pomada em MG",
+      "imagem": "https://s2-g1.glbimg.com/0GYMuWCBi3W_7_BA3YFubRQJ-nk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/D/U8G6ElTRayKTIANNZmNQ/bebe-engasgada.png"
+    },
+    {
+      "titulo": "O bunker da Guerra Fria transformado em apartamentos de luxo para 'sobreviver ao fim do mundo'",
+      "imagem": "https://s2-g1.glbimg.com/ZF99pOL-wEUzDaC0nfUJyi-BKds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/L/AezBHmSIqt7WucnOlEsg/54492274-97bf-4a99-ac1c-15a3db0fdb24.jpg"
+    },
+    {
+      "titulo": "Falta de chuva faz produtores perderem plantações de milho e reduz produtividade da soja em Roraima",
+      "imagem": "https://s2-g1.glbimg.com/YbQrTO8ET6K9tp4kdA6xEnzDB2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/x/HblTZuSyADqDxIDUZAkw/img-2164-1-.jpg"
+    },
+    {
+      "titulo": "Família carrega cruz em procissão para manter tradição de fé iniciada há 114 anos em MG",
+      "imagem": "https://s2-g1.glbimg.com/EMxE0imdUkJK83gVMJefZc1XiFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/0/lGV65fSDKBbSc66OLvaA/design-sem-nome-1-.png"
+    },
+    {
+      "titulo": "Conheça a história da médica que perdeu 3 gestações e criou banco de leite pioneiro em MG",
+      "imagem": "https://s2-g1.glbimg.com/QoVnDjvQ0lLdfH4LcpJHCjfgNFc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/v/7gkJHhRkSbU06rxBG0VQ/eliana-martins-cortada.jpg"
+    },
+    {
+      "titulo": "De farda, casal de PMs transforma viaturas em cenário para chá revelação da 1ª filha no Acre: 'Momento único'",
+      "imagem": "https://s2-g1.glbimg.com/D06JE8VTyu7vKLBY9oC00h_P6JE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/J/Y737QAQyW4MMvXdslApg/midia-de-distribuicao-g1-2-.png"
+    },
+    {
+      "titulo": "Primeira capital planejada do Brasil, Teresina completa 174 anos; conheça projeto urbano em formato de ‘tabuleiro de xadrez'",
+      "imagem": "https://s2-g1.glbimg.com/lqcCgU5DlvOcRcWJP6SSDeV883c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/T/qrIX8kTUuyZgqITlZ7AA/edicao-imagens-g1-9-.png"
+    },
+    {
+      "titulo": "A música brasileira está melhor ou pior do que antes? A resposta da pergunta pode causar sério incômodo em você...",
+      "imagem": "https://s2-g1.glbimg.com/3pVuJQlK3Ray9kRRl490XOXi2Vs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/4/04Q9qdQf2LM0BM1rzEDw/bethaliniker.jpg"
+    },
+    {
+      "titulo": "VÍDEO: para que servem as pesquisas eleitorais",
+      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
+    },
+    {
       "titulo": "'Estrela de buraco negro' pode ser novo tipo de objeto cósmico; entenda a descoberta",
       "imagem": "https://s2-g1.glbimg.com/NjcYmzJd8rjl1G8PFy3L1tDVGKk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/R/ATrPpwSweri9aSzIqitQ/mit-blackholestar-01-press.jpg"
     },
@@ -47,79 +119,7 @@
     {
       "titulo": "Por que 142857 é um número mágico que fascina os matemáticos há séculos",
       "imagem": "https://s2-g1.glbimg.com/dXPddmXo3OmSc-xVwC-w5IRinis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/1/glwG52SU60maFlJLBjug/imagem-cortada-4-.jpg"
-    },
-    {
-      "titulo": "A jovem cuja missão é aproximar gerações",
-      "imagem": "https://s2-g1.glbimg.com/bHgrSHrvPbrpcpoNGNFyoncjevA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/x/BVeODITyy4eooOZQUjpg/ariellegalinsky1.avif"
-    },
-    {
-      "titulo": "ANTES E DEPOIS: imagens de satélite mostram efeitos da seca extrema na Europa",
-      "imagem": "https://s2-g1.glbimg.com/TmlKKpZY-I6YaVBHi49alnJlNHU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/7/kgXgXkStm37NRb6Tx6BA/danube-s-waters-fall-to-record-lows.jpg"
-    },
-    {
-      "titulo": "Sem janelas e mais econômico: como será voar no 'avião-arraia', aposta de aéreas americanas",
-      "imagem": "https://s2-g1.glbimg.com/IJ6YWHZYh2ZmZqcXtaZ38ITI9mo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/e/1Ez9k2QaulAF37fTabeQ/jetzero-6.png"
-    },
-    {
-      "titulo": "Mecânico paranaense que perdeu a visão na infância usa tato, audição e tecnologia para consertar carros",
-      "imagem": "https://s2-g1.glbimg.com/2JbeQf2BMfqT7FuKzuCiJ-pv3cs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/J/zSI2bfSZCRcUxYghbZbQ/httpsportalnorte.com.brwp-adminpost.phppost-292629-action-edit-44-.png"
-    },
-    {
-      "titulo": "Curral eclético: vacas escutam de forró a música clássica e produzem mais leite em fazenda no ES; veja VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/xjIB-9bNipJ7idhln5FvVU8SNyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/M/WCt9amTVGkyijxJjAhRg/thumb-videos-g1-1-.jpg"
-    },
-    {
-      "titulo": "Como recordista 'negociou' com a mente para correr 866 km em 7 dias em SC: 'não podia pensar no que tinha pela frente'",
-      "imagem": "https://s2-g1.glbimg.com/a7CrY__GPA-T0kg_XTlwqWib3Co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/R/OivxfITSipfpyYmlRbsQ/whatsapp-image-2026-08-09-at-12.11.11.jpeg"
-    },
-    {
-      "titulo": "Aos 96 anos, avó viaja mais de 400 km para ir ao cinema pela 1ª vez e assistir ao neto com síndrome de Down em filme",
-      "imagem": "https://s2-g1.glbimg.com/FZpzKL9G9aNjykNEJi_n2raWbVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/R/qNRn4nQ1aqB3ix7ZgAVw/g1-9-.png"
-    },
-    {
-      "titulo": "Esquizofrenia: falta de enzima na gestação pode estar ligada à origem da doença, diz Unicamp",
-      "imagem": "https://s2-g1.glbimg.com/fyu7wQCrB-IlCi-CYaS4DxJDfqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/O/DrmeY7QYAiImKSWeeOYQ/alicia-petresc-xvpdpkvxfp4-unsplash.jpg"
-    },
-    {
-      "titulo": "De R$ 479 a R$ 13,3 milhões: veja o patrimônio dos candidatos ao governo de MG declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/Os3QgI_Sp9CQHTtiFO1SeyO7qVA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/A/r1fXcWTbKYNmsByYssAg/imagem.jpg"
-    },
-    {
-      "titulo": "De R$ 2 mil a R$ 939,6 milhões: veja o patrimônio declarado ao TSE pelos candidatos ao Senado por MG",
-      "imagem": "https://s2-g1.glbimg.com/6YdZdE5p8yNzWF_HF24bOCSb6zA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/9/devXxiT1apmeyhmwkXYA/senadores-valendo-2.png"
-    },
-    {
-      "titulo": "Os 100 anos da histórica visita da cientista Marie Curie a Belo Horizonte",
-      "imagem": "https://s2-g1.glbimg.com/2cPV-mdNvvhbXY8f1N49s0PSXZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/7T8D4NTqKTg3eNsVe3FA/design-sem-nome-5-1-.png"
-    },
-    {
-      "titulo": "De nenhum bem a R$ 2,9 milhões: veja os patrimônios dos candidatos ao governo de Pernambuco declarados ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/dBnQpd9h3l-rttYUArrIxhu4UEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/v/zTchS3QBmv16YEDRICcg/candidatos.png"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/LgPsNw5uSBFV_v_e2jfJ6AFRxNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/t/2X1iStRGAS2ZD5ENQeCQ/previsao-tempo-bras-lia-20260816-030706.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/EfNly-WgAsNcqMU2oCtKi9anfLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/2/09CMxsTJAm6pkNSjN35Q/previsao-tempo-s-o-paulo-20260816-030649.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/qVmLT8_xaw-8o53qlH0eWT53Yeo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/d/fD5TfZTo6oyJyGfJ5q1w/previsao-tempo-s-o-bernardo-do-campo-20260816-030632.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/mYuU48-2JxMpQhLx_hV4ZDnlU3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/b40NfvQzG193X2dPZq1A/previsao-tempo-santo-andr-20260816-030614.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/VHVUJtV6gtwguXXZZfqxqnvYWj8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/3/eaElH9R5ylGup8Y2y62A/previsao-tempo-osasco-20260816-030557.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/VMH4EiW8hcDAKjCNuhK9vBDTPuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/e/Ht124YRk2UeIXbHGPC7Q/previsao-tempo-guarulhos-20260816-030541.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-16T09:02:25.377Z"
+  "atualizadoEm": "2026-08-16T09:40:21.213Z"
 }
