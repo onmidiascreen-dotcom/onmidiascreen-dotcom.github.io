@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Ela largou a carreira em Relações Internacionais para costurar e hoje fatura R$ 80 mil",
+      "imagem": "https://s2-g1.glbimg.com/T-PXpzEhOnZtIzTDNauEOct-rdM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/2/V0x7aiTZanKN1qoWDDCA/captura-de-tela-2026-06-15-131150.png"
+    },
+    {
+      "titulo": "Solturas, perdão de dívidas, queixas de 'conduta': o que motivou o afastamento de juiz indígena que denuncia perseguição",
+      "imagem": "https://s2-g1.glbimg.com/LeMrlGl9f3HA9kwNSKO-Ge6Kjfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/A/kMPVVdSoa4MLxz1KOMtg/design-sem-nome-90-.png"
+    },
+    {
+      "titulo": "Mãe de 50 anos é incentivada a voltar aos estudos, entra na turma da filha e ambas se formam juntas no RS: 'Nunca é tarde'",
+      "imagem": "https://s2-g1.glbimg.com/hblG0YDUcWI1h1-nDtKjosHXh-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/V/Um6wXNT6y7G4FaHFwbGQ/whatsapp-image-2026-08-07-at-15.14.17.jpeg"
+    },
+    {
       "titulo": "Militares da Coreia do Sul atiram após soldados norte-coreanos cruzarem a fronteira",
       "imagem": "https://s2-g1.glbimg.com/sESeqsLgzzElTzZkD6cBmvHJLq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/U/Z/Pqz42qT3eWyB5pAKoIGg/ap20309052801861.jpg"
     },
@@ -107,19 +119,7 @@
     {
       "titulo": "Pablo Marçal declara patrimônio de R$ 7,4 bilhões; vice diz ter R$ 495 milhões",
       "imagem": "https://s2-g1.glbimg.com/FlR0S7ZoNdniIiZadWO4brVvWLU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/d/JssFBGSSA7veHbKOjLGA/marcal-.jpg"
-    },
-    {
-      "titulo": "Imagens aéreas mostram buscas por kitesurfista desaparecido em praia de São Luís; operação segue à noite na faixa de areia",
-      "imagem": "https://s2-g1.glbimg.com/lMge6eCswHMrbg0SAA1TtJ6ovWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/3/Vo6VmnRnSGwucnACn4gQ/montagens-1920-x-1080-px-1-.png"
-    },
-    {
-      "titulo": "Incêndio ameaça um dos maiores complexos de cavernas na América Latina",
-      "imagem": "https://s2-g1.glbimg.com/P9EPSNW2WCzp3LTMr2DfhWUVfsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/5/odoV1ISAS9t5y7qn35yg/globo-canal-4-20260815-2000-frame-66066.jpeg"
-    },
-    {
-      "titulo": "Ivan Moraes diz sofrer 'ataques' do PSB para retirar candidatura ao governo do estado às vésperas do início da campanha eleitoral",
-      "imagem": "https://s2-g1.glbimg.com/8YUbaBwGLzucALvI3lH-wDWMrLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/0/Waig9VRY6QmoNjReBg2g/ivan-moraes-coletiva.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-16T04:59:42.875Z"
+  "atualizadoEm": "2026-08-16T05:34:56.573Z"
 }
