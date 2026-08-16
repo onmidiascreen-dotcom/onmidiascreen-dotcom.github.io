@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Governo aposta na reputação do agro para abrir mercados no mundo",
+      "imagem": null
+    },
+    {
       "titulo": "Acidente com ônibus deixa ao menos 12 mortos na Hungria",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Controlar a dívida pública não é ideologia, é necessidade, diz economista",
       "imagem": null
-    },
-    {
-      "titulo": "Sobreviventes de terremoto na Indonésia acampam à espera de ajuda",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T08:37:39.651Z"
+  "atualizadoEm": "2026-08-16T09:02:23.935Z"
 }
