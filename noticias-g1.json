@@ -1,6 +1,58 @@
 {
   "noticias": [
     {
+      "titulo": "Vídeos do g1 e TV Bahia - domingo, 16 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/AN3kascyu1bKgz9HsIdgumHm4Kg=/s01.video.glbimg.com/deo/vi/32/01/14870132"
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
+    },
+    {
+      "titulo": "Acidente com 7 mortes na BR-251 e homem que caçava javalis: veja as notícias mais lidas da semana",
+      "imagem": "https://s2-g1.glbimg.com/53sWwkebytMe526x1vnJrYTZ1r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/j/J0rQ4yTQqEGajcepApEw/whatsapp-image-2026-08-08-at-18.12.52.jpeg"
+    },
+    {
+      "titulo": "Ciro Gomes promete apoio ao microempreendedor e mudança na gestão da saúde no primeiro ato de campanha ao governo",
+      "imagem": "https://s2-g1.glbimg.com/kalLLUoWNEd5CR1gekbNIMBYQCA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/y/ABBVmtRPKszdPPWedjLA/whatsapp-image-2026-08-16-at-08.58.24.jpg"
+    },
+    {
+      "titulo": "Acidente entre duas motos deixa homem ferido em Resende",
+      "imagem": "https://s2-g1.glbimg.com/AzMZa2_GrhGU8DYwjIpBOvxyt9s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/Q/T4yjdnRtucJvYifmDrfg/whatsapp-image-2025-04-03-at-07.48.04-1-1-.jpeg"
+    },
+    {
+      "titulo": "Fogo na Igreja Matriz de São Vicente, SP, provoca fumaça intensa e mobiliza bombeiros",
+      "imagem": "https://s2-g1.glbimg.com/T1yUfW5H4JvCRzLg5G9ecUI4BnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/c/Gub0ZbT22vZkpFsyj6NA/inserir-um-titulo-2026-08-16t100318.233.jpg"
+    },
+    {
+      "titulo": "Advogado acusado de agredir noiva grávida renuncia à candidatura de deputado federal no DF",
+      "imagem": "https://s2-g1.glbimg.com/gGjyh5gUd788LfDLj25GMyVnAJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/r/tqlSPqRfCcLmSQuekGWQ/54577158107-a75564691c-k.jpg"
+    },
+    {
+      "titulo": "Médico indiciado por morte de menino picado por escorpião é afastado de atendimento no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/8q9xXEtSUW6fj7QkQ0kyiurFhUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/r/GuDcCMSrOEkFAD5nAPEg/design-sem-nome-2026-08-11t190658.784.png"
+    },
+    {
+      "titulo": "Idoso mata vizinho, interdição da BR-116 e calamidade financeira: veja as notícias mais lidas da semana",
+      "imagem": "https://s2-g1.glbimg.com/RQ4FGj7J6vT2JZjVkVZ4xxMM8Yc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/T/puLno4SXmBmnPpcfjNaw/vitimasfatais-77-.png"
+    },
+    {
+      "titulo": "Mãe é presa e filhos são resgatados vivendo sem comida e no meio de lixo em Cariacica",
+      "imagem": "https://s2-g1.glbimg.com/UCjfzQnWbo2ZZgqlQPeHZtZzjRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/r/PaqnD1SDKyPuoj8MnWQg/thumb-fotos-31-.jpg"
+    },
+    {
+      "titulo": "Candidatos à Presidência iniciam campanha neste domingo; confira atividades",
+      "imagem": "https://s2-g1.glbimg.com/OJZtUg2oxTFmn2YJMb6e2kWRPMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Z/1FBBysRDaiOBgPYNnakg/imagem-1200px.png"
+    },
+    {
+      "titulo": "Mostra de Teatro Águas de Manaus encerra programação com três atividades gratuitas neste domingo",
+      "imagem": "https://s2-g1.glbimg.com/Lltc4nF2htmoJ89unCfudtuFASk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/V/OUgTLDQbeIIA5yqAwfpA/whatsapp-image-2026-08-16-at-08.30.14.jpeg"
+    },
+    {
+      "titulo": "Batida entre dois veículos destrói muro de casa e interdita avenida em Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/ZcBFba2fX0RWsBpOCRo9JB0ix4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/a/iFU3eBRd2OxPmkVZw8dQ/design-sem-nome-18-.jpg"
+    },
+    {
       "titulo": "De R$ 100 mil a R$ 2,9 milhões: veja o patrimônio dos candidatos ao governo do Rio Grande do Norte declarado ao TSE",
       "imagem": "https://s2-g1.glbimg.com/NS5c7hI2_VmZNSz8nkjIqCLC-pw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/U/OVdMwPQcAyvUd4UnnYqQ/mixcollage-13-aug-2026-02-41-pm-6828.jpg"
     },
@@ -46,7 +98,7 @@
     },
     {
       "titulo": "Nove morrem em tombamento de ônibus em Petrópolis",
-      "imagem": "https://s2-g1.glbimg.com/SzOMwKo2VfXdqwcVR_Hng3nW1hs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/7/Sl2rl0SpqcqlLtXgE4Vw/16bus1a.jpg"
+      "imagem": "https://s2-g1.glbimg.com/Ld4HZZaC3Ot0MfINkxL3QSr17xY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/s/9XA5FGTVCls9iLSMHZmg/16bus3.jpg"
     },
     {
       "titulo": "Turismo de Atibaia e Região destaca parceria para impulsionar turismo inclusivo",
@@ -67,59 +119,7 @@
     {
       "titulo": "Você viu? Irmãos somem em rio, mulher morre em academia, terremoto é sentido no Acre e mais",
       "imagem": "https://s2-g1.glbimg.com/NeKLwgRnZeA7Dnn4x5Di8WXuRzI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/y/LfXTi7RjmVVP6BBqROEQ/midia-de-distribuicao-g1-3-.png"
-    },
-    {
-      "titulo": "Adolescente de 14 anos é perseguido e morto a tiros por dupla em moto em Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/sYnRww6gcKlBt64gSmXbxIASrW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/grGw6uSTObCc6uVT7zrw/whatsapp-image-2026-08-16-at-07.45.11.jpeg"
-    },
-    {
-      "titulo": "Homem é espancado após tentar sequestrar criança de 5 anos em Itapemirim",
-      "imagem": "https://s2-g1.glbimg.com/yNGmxfgmVgAvgCUG2ef-VH2shzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/w/S/YVFILpR6WyrllfW645AQ/gaz-meio-dia-reg-2002-morte-de-bebe.mp4-snapshot-00.59.840.jpg"
-    },
-    {
-      "titulo": "De R$ 5 mil a R$ 47 milhões: veja o patrimônio dos candidatos ao governo do DF declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
-    },
-    {
-      "titulo": "Suspeito de matar sargento da PM é preso no litoral do Piauí; vídeo registrou crime",
-      "imagem": "https://s2-g1.glbimg.com/cD9GfO4vn0PdP-TS-bnAU3uBVfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/B/BFXduFT7GyvKBVVWqTTQ/edicao-imagens-g1-99-.png"
-    },
-    {
-      "titulo": "Terremoto na Indonésia: número de mortos sobe para 53; país decreta estado de emergência de 2 semanas",
-      "imagem": "https://s2-g1.glbimg.com/YdOuqHsKssvO-MlNXLuK9SBP33s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/N/ywhk5ATHC4s8kFAmnlaw/2026-08-15t014457z-1040189082-rc2pyma8kquy-rtrmadp-3-indonesia-quake-1-.jpg"
-    },
-    {
-      "titulo": "Nevoeiro cobre litoral de SP e paralisa maior porto do país; VEJA",
-      "imagem": "https://s2-g1.glbimg.com/KuBY2y7yMVzgf9C_nFlt_QlM0A8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/6/1eC9rMTRKS3bfyyyJSDQ/inserir-um-titulo-2026-08-16t081947.674.jpg"
-    },
-    {
-      "titulo": "Incêndio atinge loja de colchões em São José de Ribamar, na Grande São Luís",
-      "imagem": "https://s2-g1.glbimg.com/HWDeWxFGo7T7ZA4J1Tox_Nw-Zd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/M6TfLCTwyI2IkPVkF4rg/montagens-1920-x-1080-px-5-.png"
-    },
-    {
-      "titulo": "Gêmeas que nasceram unidas pela cabeça morrem em cirurgia final de separação em Ribeirão Preto",
-      "imagem": "https://s2-g1.glbimg.com/abbCUS4_ooZTE-Qxz6kw95GGYJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/i/kLTjrnRWG9Wp7iXjV6iQ/molduras-g1-.png"
-    },
-    {
-      "titulo": "Maioria dos brasileiros rejeita eutanásia e suicídio assistido, mas se divide sobre interromper tratamentos, diz Datafolha",
-      "imagem": "https://s2-g1.glbimg.com/xibwBusVYpWoiin9X3Qc9vs9T0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/wgVYyiTI2qdTMt0aAwmA/pexels-rdne-6129685.jpg"
-    },
-    {
-      "titulo": "Salão adapta rotina para acolher crianças atípicas e neurodivergentes em Macapá",
-      "imagem": "https://s2-g1.glbimg.com/Ufrzdjq5ekL3SMUOUg9ollxwHr8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/R/IjDwFTTxeBymd6JAtXig/design-sem-nome-5-.png"
-    },
-    {
-      "titulo": "Paraíba tem quatro açudes secos e 18 com menos de 10% da capacidade, aponta Aesa",
-      "imagem": "https://s2-g1.glbimg.com/xA5giQuJ702mmH3k7EdFOKuQYPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/V/bRAjjuTtKH5A9WI8gOAg/acude-boequeirao.jpeg"
-    },
-    {
-      "titulo": "Dos R$ 10 à Bolsa: jovens do interior de SP contam como começaram a investir e especialistas dão dicas",
-      "imagem": "https://s2-g1.glbimg.com/tKRdPmhQTHP56OGIzsN6EaWGLsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/m/7BCYLiSvAtSTc2Sb34Ag/investimentos.jpg"
-    },
-    {
-      "titulo": "Proibição de deepfakes, showmícios e outdoors: VEJA o que não pode em propagandas eleitorais no Acre",
-      "imagem": "https://s2-g1.glbimg.com/UKBAYz6wLFpXuzdVjhrLapUspew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/FzkaJDRGaZnMi4MVkeew/edicao-imagens-g1-33-.png"
     }
   ],
-  "atualizadoEm": "2026-08-16T12:48:09.203Z"
+  "atualizadoEm": "2026-08-16T13:27:29.970Z"
 }

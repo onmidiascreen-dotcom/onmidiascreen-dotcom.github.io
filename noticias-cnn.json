@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Brasil leva ouro no Mundial de ginástica rítmica com a maior nota do ano",
+      "imagem": null
+    },
+    {
+      "titulo": "Acidente com ônibus deixa oito pessoas mortas na região serrana do RJ",
+      "imagem": null
+    },
+    {
+      "titulo": "Corpo de Bonnie Tyler é velado mais de um mês após morte",
+      "imagem": null
+    },
+    {
+      "titulo": "Rivais na 23ª rodada, Mirassol e Flamengo têm &#8220;dívida&#8221; no Brasileirão",
+      "imagem": null
+    },
+    {
       "titulo": "Onda de calor extrema pressiona economia europeia e força medidas drásticas",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "Entenda nova ordem de Trump que reformula vacinação infantil",
       "imagem": null
-    },
-    {
-      "titulo": "Brasil aciona Lei da Reciprocidade contra EUA e setor produtivo vê riscos",
-      "imagem": null
-    },
-    {
-      "titulo": "Mirassol x Flamengo: horário e onde assistir ao Brasileirão Série A",
-      "imagem": null
-    },
-    {
-      "titulo": "Com campanha nas ruas, PF reforça segurança de presidenciáveis",
-      "imagem": null
-    },
-    {
-      "titulo": "Começa hoje autorização para propaganda eleitoral nas ruas e na internet",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T12:48:08.682Z"
+  "atualizadoEm": "2026-08-16T13:27:28.187Z"
 }
