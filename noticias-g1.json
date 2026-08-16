@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Morre Luiz Gutemberg, referência no jornalismo em Brasília, aos 88 anos",
+      "imagem": "https://s2-g1.glbimg.com/ejYTZQ8crX_9_2XCRz8HmWHXnT0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/1/vyar3ERtaHzkFoeyKumA/c5fdc0a6-7760-4bda-8092-13583fa47ad7.png"
+    },
+    {
+      "titulo": "Mãe de 3 filhos e foragido por matar adolescente: quem é o casal preso por sequestrar bebê Ayla em MS",
+      "imagem": "https://s2-g1.glbimg.com/bwXhTI0Cq1hU4apo0NBnFMQm_3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/O/QaGTsSSZC7hKnDbp8bOw/canva-2026-08-09t150711.643.png"
+    },
+    {
+      "titulo": "Falsa gravidez, sequestro e resgate internacional: como a bebê Ayla voltou para a mãe em MS",
+      "imagem": "https://s2-g1.glbimg.com/ewSOJc4CePkIP4G6-ae-grYTrwc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/K/0AajZGSfSpDhfdb6DweA/design-sem-nome-82-.jpg"
+    },
+    {
+      "titulo": "Drones com explosivos viram nova arma na disputa entre facções no Rio de Janeiro",
+      "imagem": "https://s2-g1.glbimg.com/zrU2LwQb0yii0LevgW5_M9lNFvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/B/S2xfw4ScOGYVK6ek1vhA/drones-1-.png"
+    },
+    {
       "titulo": "Vídeo mostra atos de vandalismo no Terminal Cehab em Macaé",
       "imagem": "https://s2-g1.glbimg.com/-NdnL4VLa7JNuwFcTCfhio8Qebw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/l/y0ls9pTQedwKZkUl8ipw/whatsapp-image-2026-08-16-at-19.10.41-3-.jpeg"
     },
@@ -45,7 +61,7 @@
       "imagem": "https://s2-g1.glbimg.com/Rvg_VlGbPGoYzFLQqzhCLHFrrp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/d/BFKA5DTo6vB8karcXE3A/danca-dos-famosos-2026.jpg"
     },
     {
-      "titulo": "Acidente entre caminhões deixa um morto e dois feridos na BR-153",
+      "titulo": "Acidente entre caminhões deixa três mortos na BR-153",
       "imagem": "https://s2-g1.glbimg.com/jPZMdAjp3VNo4dIPUrJXJPGXkf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/2/3A1LHaTtueed0lycChfQ/foto-e-montagem-vertical-50-.jpg"
     },
     {
@@ -103,23 +119,7 @@
     {
       "titulo": "Pivetta (Republicanos) inicia campanha ao Governo neste domingo (16)",
       "imagem": "https://s2-g1.glbimg.com/mBhbqK9sLOVrGx103RWkLbuYP00=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/O/sHRLUITvqIfvIEp1vamw/videos-g1-22-.jpg"
-    },
-    {
-      "titulo": "De ciúmes a homicídio: 'violentômetro' instalado no interior de SP alerta para escalada da violência contra a mulher",
-      "imagem": "https://s2-g1.glbimg.com/PGEtRO-Gwo3ECd7P9k5vEmJkjok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/4/BhgyfTSXiqKZfj5BmVrA/os-tres-5-.png"
-    },
-    {
-      "titulo": "Candidatos ao Governo de Goiás iniciam campanha eleitoral; veja como foi o primeiro dia",
-      "imagem": "https://s2-g1.glbimg.com/CELnOKmpdHlkhtW-_A03einQgmU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/2/JSV6wSTOGV8AErO4Y7Rg/copia-de-copia-de-padrao-foto-g1-goias-3-.jpg"
-    },
-    {
-      "titulo": "Grávida de quatro meses está entre os 10 mortos no acidente em Petrópolis; Marido relata alta velocidade e medo",
-      "imagem": "https://s2-g1.glbimg.com/cg18U6kuHNMqQc-UpHpXL3mrwnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/R/2PkNtpQmOhQ0OwcYhU4A/design-sem-nome-16-.png"
-    },
-    {
-      "titulo": "Candidatos ao governo do DF abrem campanha com missas, atos de rua e jogo de futebol; veja resumo do primeiro dia",
-      "imagem": "https://s2-g1.glbimg.com/UKBAYz6wLFpXuzdVjhrLapUspew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/FzkaJDRGaZnMi4MVkeew/edicao-imagens-g1-33-.png"
     }
   ],
-  "atualizadoEm": "2026-08-16T23:43:06.769Z"
+  "atualizadoEm": "2026-08-16T23:57:36.687Z"
 }

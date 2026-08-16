@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Surto de Ebola na República Democrática do Congo se torna o mais mortal da história do país",
+      "imagem": null
+    },
+    {
       "titulo": "PF apreende no Paraguai avião de Vorcaro que continuou voando mesmo após prisão de ex-banqueiro",
       "imagem": null
     },
@@ -10,6 +14,10 @@
     },
     {
       "titulo": "Lula decide não ir a debate da Band e alega desigualdade de condições",
+      "imagem": null
+    },
+    {
+      "titulo": "Renan Santos inicia campanha com colete à prova de balas e ataques a Lula e Flávio",
       "imagem": null
     },
     {
@@ -51,15 +59,7 @@
     {
       "titulo": "Eles se apaixonaram e violaram a lei para ter certeza de que não eram irmãos",
       "imagem": null
-    },
-    {
-      "titulo": "IA vai inundar o serviço público como um tsunami",
-      "imagem": null
-    },
-    {
-      "titulo": "IA vai inundar o serviço público como um tsunami",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T23:43:06.107Z"
+  "atualizadoEm": "2026-08-16T23:57:35.739Z"
 }
