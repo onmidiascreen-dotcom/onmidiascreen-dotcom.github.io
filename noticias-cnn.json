@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Defesa Civil envia dois alertas vermelhos para chuvas em quatro horas no RS",
+      "imagem": null
+    },
+    {
+      "titulo": "Contra o Santos, Vasco retoma foco na fuga do rebaixamento no Brasileirão",
+      "imagem": null
+    },
+    {
       "titulo": "Resultados na rodada podem colocar Santos em penúltimo lugar no Brasileirão",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "DNA artesanal: a fórmula da Fuel Eyewear para ganhar o mercado de óculos",
       "imagem": null
-    },
-    {
-      "titulo": "Corinthians x Cruzeiro: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Vasco x Santos: horário e onde assistir ao jogo da Série B",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T10:50:11.234Z"
+  "atualizadoEm": "2026-08-16T11:16:38.659Z"
 }

@@ -1,7 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Michelle Bolsonaro declara R$ 4,5 milhões de patrimônio e um Fusca ao TSE",
+      "imagem": null
+    },
+    {
+      "titulo": "José de Abreu completa 45 anos de Globo e diz que nunca foi censurado pela emissora",
+      "imagem": null
+    },
+    {
+      "titulo": "Empreendedorismo após os 60 cresce e redefine trabalho no Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Em campanha pela reeleição, Lula quer trazer de volta os trabalhadores ao Partido dos Trabalhadores",
+      "imagem": null
+    },
+    {
       "titulo": "Indonésia decreta 2 semanas de estado de emergência após terremoto que deixou milhares de desalojados",
+      "imagem": null
+    },
+    {
+      "titulo": "Países bálticos viram \"paraíso red pill\" para brasileiros",
       "imagem": null
     },
     {
@@ -39,27 +59,7 @@
     {
       "titulo": "Fuvest aplica neste domingo a etapa de redação do simulado do vestibular 2027",
       "imagem": null
-    },
-    {
-      "titulo": "Aliados patinam em pesquisas a governos do NE e apostam em Lula para virada",
-      "imagem": null
-    },
-    {
-      "titulo": "Pai, filho, sobrinho e irmã: o palanque familiar de Motta na Paraíba",
-      "imagem": null
-    },
-    {
-      "titulo": "Tarcísio faz mega-aliança por reeleição em SP, e Haddad gruda em Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Kotscho: Lula volta ao estádio de Vila Euclides, onde tudo começou",
-      "imagem": null
-    },
-    {
-      "titulo": "Indonésia busca sobreviventes após terremoto que deixou ao menos 47 mortos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-16T10:50:11.538Z"
+  "atualizadoEm": "2026-08-16T11:16:38.115Z"
 }
