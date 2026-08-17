@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Hayden Panettiere, atriz de 'Heroes', morre aos 36 anos",
+      "imagem": null
+    },
+    {
       "titulo": "Novo terremoto de magnitude 5,7 atinge Indonésia após tremor deixar mortos",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Interesse dos EUA por minerais críticos testa nossas escolhas",
       "imagem": null
-    },
-    {
-      "titulo": "Festival na cidade de Milton Nascimento e Wagner Tiso honra legado dos mineiros",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-17T04:25:06.967Z"
+  "atualizadoEm": "2026-08-17T05:07:14.858Z"
 }

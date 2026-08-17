@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "De uma portinha a um bar de três andares: a história de um negócio que virou símbolo da Lapa",
+      "imagem": "https://s2-g1.glbimg.com/SR7ngJ_Qh0TSD2d3gJvRmjpsWFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/M/OsT25nTpmD2hXif0VN9g/captura-de-tela-2026-07-06-105528.png"
+    },
+    {
+      "titulo": "Mulher que sobreviveu a 17 facadas do ex em SP fala sobre culpa e recomeço: ‘Cada um carrega o que é seu’",
+      "imagem": "https://s2-g1.glbimg.com/V9-b1VAlhlRNU3o6fIlE1KpTQFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/M/605fYfTbeMFx1tnBA3NA/chatgpt-image-10-de-ago.-de-2026-15-42-50.png"
+    },
+    {
+      "titulo": "6ª Bienal Internacional do Livro de Brasília começa nesta segunda com entrada gratuita",
+      "imagem": "https://s2-g1.glbimg.com/J-SroK1h62LfE5L5EKZSRSAoWhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/r/hMYQRRToeFhbdrmn2D5Q/bienal.jpeg"
+    },
+    {
+      "titulo": "Mãe admite que deixou 3 crianças sozinhas em casa com vela acesa para ir a forró; menina se feriu em incêndio",
+      "imagem": "https://s2-g1.glbimg.com/JTAUrxPWgK1dVQq7ycmF2lX9KTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/tBD27CSwKbQsmFqBovOQ/design-sem-nome-30-.png"
+    },
+    {
+      "titulo": "Correios: balanço prévio aponta prejuízo de R$ 5,4 bilhões no 1º semestre de 2026",
+      "imagem": "https://s2-g1.glbimg.com/I48NdnkTHrxIDBnIxaTqo2E0jj0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/7/HbXVolQCe4MIU1I9AE6g/globo-canal-4-20260423-2000-frame-83867.jpeg"
+    },
+    {
       "titulo": "PM e marido presos, relação extraconjugal e carro apreendido: o que se sabe sobre caso de soldado encontrado carbonizado",
       "imagem": "https://s2-g1.glbimg.com/2cJGgzOdVH9jQ63r1ZbZ8tJ8PwQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/hLZZ0hTDayAMOKuBcAEg/fotojet-2-.jpg"
     },
@@ -99,27 +119,7 @@
     {
       "titulo": "União Europeia planeja pacote de sanções mais abrangente contra a Rússia nos próximos meses",
       "imagem": "https://s2-g1.glbimg.com/DbdVgOJmn4UvSKWx8_R2NaNY6oc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/i/ppMLTZTyyLXrl9DgGq3w/2026-07-24t012848z-1616045005-rc20kman9g6v-rtrmadp-3-asean-philippines.jpg"
-    },
-    {
-      "titulo": "Mais carros elétricos levam carregadores para o centro da disputa em condomínios",
-      "imagem": "https://s2-g1.glbimg.com/5_keyXahNWbufggOx0WBawMcjow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/O/hD5OmxR4qd61Cuf2ooOg/carroeletrico-1-.png"
-    },
-    {
-      "titulo": "Empresário preso por agredir mulher em SP é investigado por ameaçar e atacar homem em sinagoga",
-      "imagem": "https://s2-g1.glbimg.com/RBHB9VXbE4aQStkZ7e-lAXnznrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/V/4xIVWFSQ2ZZG3Brl7VLw/captura-de-tela-2026-08-15-174155.jpg"
-    },
-    {
-      "titulo": "Brigadista emociona ao dar água a lagarto que fugia de incêndio em parque de Goiás; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/8WOO4Hp4fxZcD3uzMA1MF7QMI4c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/k/GvVZqfRBKN4JPxFWqncg/copia-de-copia-de-padrao-foto-g1-goias-1-.jpg"
-    },
-    {
-      "titulo": "Acidente entre carretas causa explosão e deixa 4 mortos na BR-163, em MS",
-      "imagem": "https://s2-g1.glbimg.com/6xHTDKf1ZZsJohxqcoFJqI1reS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/C/0vuqkUSAirtVnfBEd5dQ/br-163-acidente.jpg"
-    },
-    {
-      "titulo": "Super El Niño pode estar entre os mais intensos já registrados; veja o que esperar",
-      "imagem": "https://s2-g1.glbimg.com/Th_1maIQ8Y1-_N8I2VilyBlFx8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/x/hAxhg6TLeUhFA9fNQn2A/elnino-1-.png"
     }
   ],
-  "atualizadoEm": "2026-08-17T04:25:09.024Z"
+  "atualizadoEm": "2026-08-17T05:07:16.811Z"
 }

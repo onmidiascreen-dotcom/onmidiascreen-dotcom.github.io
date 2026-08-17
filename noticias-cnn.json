@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Tumulto em templo deixa ao menos seis mortos e vários feridos na Índia",
+      "imagem": null
+    },
+    {
       "titulo": "Hayden Panettiere, atriz de Heroes e Nashville, morre aos 36 anos",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Candidatos ao governo de Minas chegam para o primeiro debate eleitoral",
       "imagem": null
-    },
-    {
-      "titulo": "Ebola na República Democrática do Congo é o mais mortal da história",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-17T04:25:07.399Z"
+  "atualizadoEm": "2026-08-17T05:07:15.170Z"
 }
