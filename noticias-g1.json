@@ -1,6 +1,66 @@
 {
   "noticias": [
     {
+      "titulo": "Incêndio em UTI de hospital de Sete Lagoas provoca retirada de pacientes às pressas",
+      "imagem": "https://s2-g1.glbimg.com/Rh7dm0QwyUkK0c9Zva7yhDZYZtA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/Q/vouOa7SBqppRoezieLLQ/incendio-hospital-sete-lagoas-1-.jpeg"
+    },
+    {
+      "titulo": "Tebet, Salles e Geraldo Rufino declaram os maiores patrimônios entre os candidatos ao Senado por SP; Marina e Schiavetto os menores",
+      "imagem": "https://s2-g1.glbimg.com/p_KQZ-qiDCaDRrr3-ze8Wna724U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/S/XrrbtBQD6JAPuOyxeDWQ/fotojet-2026-08-17t114835.559.jpg"
+    },
+    {
+      "titulo": "Quest: 80% dos eleitores independentes estão pouco ou nada interessados nas eleições",
+      "imagem": "https://s2-g1.glbimg.com/FNm0tfASBzSHwrNN2OoDN446roA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/n/fCJXoZSQGmVsULGZH15Q/agenciabrasil270912-mca2323.jpg"
+    },
+    {
+      "titulo": "De zero a R$ 2,8 milhões: veja o patrimônio declarado ao TSE pelos candidatos ao governo de SC",
+      "imagem": "https://s2-g1.glbimg.com/G4C2cBwU0eQJGUnJ2EtCrqmk_ts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/v/zYYXZ3TSe84y6piGaGfg/captura-de-tela-2026-08-17-123124.png"
+    },
+    {
+      "titulo": "Jovem confessa matar adolescente de 14 anos por tapa no rosto durante briga em tabacaria em Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/0WHUvTXi_J9Y8005MERX5O8XvRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/g/MVBVKmQMeuVDjO9kBx0Q/untitled-design-9-.png"
+    },
+    {
+      "titulo": "Eleições 2026 no PR: Sergio Moro diz que tem plano para tornar Paraná o estado mais seguro do país",
+      "imagem": "https://s2-g1.glbimg.com/4I6QAvIir6lEbDYC8oJArKxLOxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/l/I/VTk2KpRzAMajfBL46geA/agf20220315002.jpg"
+    },
+    {
+      "titulo": "Cão atacado a pauladas tem dificuldade para andar e corre risco de perder a visão: 'Ele estar vivo é surpreendente'",
+      "imagem": "https://s2-g1.glbimg.com/SQ4FaYfH3uRb8Zo6mzWZe1jY92A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/M/uTlpCISqqU5Bo4DeRhjg/foto-g1-27-.png"
+    },
+    {
+      "titulo": "Eleições 2026: Mulheres representam 36% das candidaturas registradas na Paraíba, diz TRE-PB",
+      "imagem": "https://s2-g1.glbimg.com/X8W4MF8LkuEoYn55q-VjrGrNEEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/D/1DXskyQ0aoHiqJcAwBxw/eleicoes.jpeg"
+    },
+    {
+      "titulo": "Embarcação naufraga e mulher é resgatada pela Defesa Civil em Imperatriz",
+      "imagem": "https://s2-g1.glbimg.com/EE6mhgBHG9Iniq_DW9U8lUUHGc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/Z/UsBBYPTZeSa4Gbsq2wBA/montagens-1920-x-1080-px-5-.png"
+    },
+    {
+      "titulo": "TRE-RS defende jornalismo profissional como aliado contra a desinformação",
+      "imagem": "https://s2-g1.glbimg.com/cm7nOOdrzaaHWwovsTUoEgaq7I4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/e/mSRozMTnGmhocetqMq9w/documento.png"
+    },
+    {
+      "titulo": "Torcedores de organizada do Atlético são detidos após briga na Arena MRV em BH",
+      "imagem": "https://s2-g1.glbimg.com/nj5W8t1DuEVdrLbBzFBcR9mVCvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/s/uRmJHvTSSXkTRv2cMNLA/55470160334-59f33ffe1a-k.jpg"
+    },
+    {
+      "titulo": "Suspeito de matar sargento da PM tem prisão mantida no litoral do PI; vídeo registrou crime",
+      "imagem": "https://s2-g1.glbimg.com/cD9GfO4vn0PdP-TS-bnAU3uBVfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/B/BFXduFT7GyvKBVVWqTTQ/edicao-imagens-g1-99-.png"
+    },
+    {
+      "titulo": "Caso Lucas Lopes: homem preso por morte de advogado confessa o crime em Mogi Mirim",
+      "imagem": "https://s2-g1.glbimg.com/21AijvIxBORr11TRCQNcKedmcqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/J/MCG2zxRvefEJyi1YjHZg/vlcsnap-2026-08-17-12h28m53s033.png"
+    },
+    {
+      "titulo": "CrediSIS amplia atuação no Paraná com constituição da CrediSIS Copacol",
+      "imagem": "https://s2-g1.glbimg.com/FD6FzYPisR3kqQFrA6BsWEsqFxE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/C/A6IquYTa6UI8oBszTKvQ/credisis-copacol-1.jpg"
+    },
+    {
+      "titulo": "Idoso é morto a tiros dentro de casa na Praia do Meio em Natal",
+      "imagem": "https://s2-g1.glbimg.com/mWdcTccNPn3mJSRxpM1rWJB76LQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/n/EW3w7LRR2wr4M1dWfCcg/whatsapp-image-2026-08-17-at-11.46.41.jpeg"
+    },
+    {
       "titulo": "Carro fica destruído após capotar diversas vezes e atingir poste no litoral de SP; VEJA",
       "imagem": "https://s2-g1.glbimg.com/enMzLfo8vxjqAo-LsrfcE9CraKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/5/I8JQdAR6ulhfeY4gXPaw/inserir-um-titulo-2026-08-17t102505.420.jpg"
     },
@@ -13,7 +73,7 @@
       "imagem": "https://s2-g1.glbimg.com/Agi-HZdDqYumSj6u_NN5aFQg5Xk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/H/4/ousRILTBSkzxAe2ulSUw/whatsapp-image-2023-11-22-at-18.53.28.jpeg"
     },
     {
-      "titulo": "Primeiro debate de candidatos ao governo de MS tem ataques contra atual gestão, sem tumulto",
+      "titulo": "Sem Riedel, 1º debate entre candidatos ao governo de MS foca em ataques à atual gestão",
       "imagem": "https://s2-g1.glbimg.com/vNgmuI7Gln0RN53FsvKRu-VpN6k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/M/kg1ro3TOmB3Fq71AxB6A/debate-morena-fm-e-pp.jpeg"
     },
     {
@@ -21,7 +81,7 @@
       "imagem": null
     },
     {
-      "titulo": "TJMT anula lei que permitiu doação de terrenos públicos para igreja em MT",
+      "titulo": "Justiça anula lei que permitiu doação de terrenos públicos para igreja em MT",
       "imagem": "https://s2-g1.glbimg.com/aiUCA8gW6dWqrjUU48tzIAB3G-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/n/r/G4HjLOTvSO9waMUdzuSg/a9de22c24e09a1e66785a2d77f96d356.jpg"
     },
     {
@@ -45,7 +105,7 @@
       "imagem": "https://s2-g1.glbimg.com/VulbQGCndz9U-utTMKsPc4U7UJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/l9H4wAQY265kajHkaVZA/imagem-cortada-2026-08-17t115518.819.jpg"
     },
     {
-      "titulo": "Ataque a tiros deixa três mortos e uma mulher ferida na Zona Oeste de Manaus",
+      "titulo": "Ataque a tiros deixa três mortos e uma mulher ferida em Manaus",
       "imagem": "https://s2-g1.glbimg.com/puUxIJUsDS6U2t1z9e2TM8KgIIM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/s/BdkMvaToABbgzswYUQOA/design-sem-nome-82-.png"
     },
     {
@@ -59,67 +119,7 @@
     {
       "titulo": "Quaest: para 60% dos eleitores, partido do candidato influencia escolha de voto para presidente",
       "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
-    },
-    {
-      "titulo": "Dez mulheres morreram em acidente em Petrópolis; veja quem eram",
-      "imagem": "https://s2-g1.glbimg.com/cg18U6kuHNMqQc-UpHpXL3mrwnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/R/2PkNtpQmOhQ0OwcYhU4A/design-sem-nome-16-.png"
-    },
-    {
-      "titulo": "Blogueirinha, personagem do ator e influenciador Bruno Matos, terá programa ao vivo no Multishow",
-      "imagem": "https://s2-g1.glbimg.com/UlnI1hpiaAfNcYdNEDX_iS1lvp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/AQoOFgSyqwuP3t9ndTEA/novo-projeto-32-.jpg"
-    },
-    {
-      "titulo": "Quem é o 'Rei do Lixo', empresário baiano indiciado por desvios de emendas parlamentares",
-      "imagem": "https://s2-g1.glbimg.com/z7lthLKebc7UwLrGXqgPmYnFpPI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/t/V5nmHbTGGpce3BAbAKUg/rei-do-lixo.jpeg"
-    },
-    {
-      "titulo": "Dona do TikTok assina acordo sobre direitos autorais de IA com grupo de Hollywood",
-      "imagem": "https://s2-g1.glbimg.com/FUULwFt5nMKOeZd_CA1cJJjvkLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/4/awDZ8iRBOibmSDJYzvSA/ap26023052378716.jpg"
-    },
-    {
-      "titulo": "Dupla invade obra, faz funcionários reféns e leva máquina avaliada em mais de R$ 600 mil em Jundiaí",
-      "imagem": "https://s2-g1.glbimg.com/PH1GDxC26fC-eDt7hX9ylRrdoSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/u/c/fBTIQhS6iiaOEfAO8zBA/1-dp-jundiai.jpg"
-    },
-    {
-      "titulo": "System of a Down anuncia show único no Brasil em 2027",
-      "imagem": "https://s2-g1.glbimg.com/S8IpCsQcGn8uXtEXOX17gLpbwSQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/D/e/49njRlTyOeMKa3SoiVWQ/systemofadown.jpg"
-    },
-    {
-      "titulo": "Mulher é esfaqueada no rosto pelo companheiro em Piracicaba, diz Guarda",
-      "imagem": "https://s2-g1.glbimg.com/keOwk2vDHv53cXdDpdhK1ZpRaAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/v/3O2uFqS9imkAeBATh0tw/delegacia-de-defesa-da-mulher-de-piracicaba.jpg"
-    },
-    {
-      "titulo": "Quem era PM do DF assassinado no Lago Corumbá, em GO",
-      "imagem": "https://s2-g1.glbimg.com/PIZ0I9Gsiu4mLCCfTEYsvnDiOsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/g/KizszoTBaFGIGAHrLCzQ/image.jpg"
-    },
-    {
-      "titulo": "Motorista sobrevive após Fusca se partir ao meio em acidente na PRC-280, no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/4YhcWRFqx1lzPTdIRwNC1_lcIlU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/D/SnHigmQzi64rsfBYDHJg/g1-pr-2026-08-17t120148.317.jpg"
-    },
-    {
-      "titulo": "Homem é preso suspeito de aplicar golpes em turistas em Fernando de Noronha",
-      "imagem": "https://s2-g1.glbimg.com/JQbm6dXukTLQHviG2fZUzUsXgDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/d/wVwW7eQuqF370XCMVMMw/delegacia-de-noronha-agosto-26.jpg"
-    },
-    {
-      "titulo": "Israel concorda e general dos EUA supervisionará desarmamento do Hamas, diz agência",
-      "imagem": "https://s2-g1.glbimg.com/sPyTUkIkPbNqIKlhW86yNWOAM9E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/j/9dWM9pTuujDp0QzRPN7Q/2026-07-31t071043z-380827661-rc2uomapsjh1-rtrmadp-3-israel-palestinians-gaza.jpg"
-    },
-    {
-      "titulo": "Marçal, Garotinho, Arruda: entenda por que candidatos inelegíveis conseguiram registrar candidatura",
-      "imagem": "https://s2-g1.glbimg.com/6d5V0OP7U6FXBM6eoyWnJQzslmU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/3/uZT1G1SRiYGKVmKF9vQw/55006841028-2e3bd01ddb-k.jpg"
-    },
-    {
-      "titulo": "Piauí registra quatro denúncias no 1º dia de propaganda eleitoral; veja o que é proibido e o que é liberado",
-      "imagem": "https://s2-g1.glbimg.com/9ryT3sOfZjZeNSMoxogi0-j-9-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/E/7/iBCaDcSYOD7VBWJFON5Q/santinhoclose-ralph-siqueira.jpg"
-    },
-    {
-      "titulo": "Casal é morto a tiros dentro de casa no interior do Ceará",
-      "imagem": "https://s2-g1.glbimg.com/gol1Lx3FKBLCG5ycH7_jVfWLMMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/x/rEpjw4Tp2k6979cgi5Lw/duplo-guaraciaba.jpg"
-    },
-    {
-      "titulo": "'A investigação vai dizer se foi vítima de tortura', afirma delegado sobre morte de criança de 4 anos em Porto Alegre",
-      "imagem": "https://s2-g1.glbimg.com/Z6eM7lfwioQRPL3zbsW-WZGwNpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/y/eGBMhfQTqmCCHLN0bGow/g1-38-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-17T15:38:04.496Z"
+  "atualizadoEm": "2026-08-17T15:58:39.759Z"
 }
