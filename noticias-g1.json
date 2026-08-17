@@ -1,6 +1,46 @@
 {
   "noticias": [
     {
+      "titulo": "Polícia faz operação contra traficantes acusados de torturar moradores da Zona Norte do Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "AO VIVO: assista à programação da NSC TV",
+      "imagem": null
+    },
+    {
+      "titulo": "Assista ao Bom Dia ES",
+      "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif"
+    },
+    {
+      "titulo": "Do forno de barro ao recheio de ovo frito: pão de queijo ganha sabores e histórias no Centro-Oeste de MG",
+      "imagem": "https://s2-g1.glbimg.com/D9zAxZGhRU380m-ShFVLXAL2M_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/s/o4A9uvReCDqALcPMQ3Xw/paode-02.jfif"
+    },
+    {
+      "titulo": "Concursos em cidades do TO encerram inscrições nesta semana; veja as datas",
+      "imagem": "https://s2-g1.glbimg.com/F_VD1uOABJ1JUB-evjEP1Udy89c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/h/iLi7IwTyu4dXUHCqxNfA/imagem-ilustrativa-para-concurso-foto-divulgacao.jpg"
+    },
+    {
+      "titulo": "Argilas brilhantes e rochas antigas: como é a área onde pesquisadores estudam terras raras em Roraima",
+      "imagem": "https://s2-g1.glbimg.com/Bf2x4IYgVJ_xYDe2JrkrkeJUKqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/d/kPGdfbRoGWcwhiK2fuxg/terras-raras-rr.jpeg"
+    },
+    {
+      "titulo": "De R$ 0 a R$ 118,4 milhões: veja o patrimônio dos candidatos ao Governo do Amazonas declarado ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/9F82pwztuM5imVigLP38uW08MSE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/6/mGOp5ORZqHJHASNnRXbQ/colagem-26-.jpg"
+    },
+    {
+      "titulo": "De R$ 0 a R$ 60 milhões: veja o patrimônio dos candidatos ao Senado pelo Amazonas declarado ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/_ZkCXwNADx_-EpVZNvKQVg4qcyg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/x/aLqrwdSNe2il1GRAzBZQ/candidatos-ao-senado-pelo-amazonas-nas-eleicoes-2026-fotos-divulgacandcontas.jpg"
+    },
+    {
+      "titulo": "Assista ao Jornal da Manhã",
+      "imagem": null
+    },
+    {
+      "titulo": "Quem era Rafael Brito, empresário acreano que morreu aos 32 anos durante tratamento de doença rara",
+      "imagem": "https://s2-g1.glbimg.com/cl63SSEhy9sYkZufP8Ya_379zsg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/E/3i0fZARDer2fonuR1TUA/midia-de-distribuicao-g1-2026-08-15t092328.317.png"
+    },
+    {
       "titulo": "MP pede à Justiça aumento de 24 para 38 anos da pena de condenado por estuprar e matar estudante em SP",
       "imagem": "https://s2-g1.glbimg.com/-NFIGHodqV_pMdGhD0avyUPo8A8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/m/6daC35TROwsFIcHMc74w/preso-ianca.jpg"
     },
@@ -77,49 +117,9 @@
       "imagem": "https://s2-g1.glbimg.com/sMwlPpLD5bH6eXCmYNEFw0LE9g8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/P/wYOsSSSBqsg3RaMyqAeg/thumb-fotos-30-.jpg"
     },
     {
-      "titulo": "Após estragos e morte por causa da chuva, SC terá sol e calor com máximas que passam de 32°C",
+      "titulo": "Após estragos e morte por causa da chuva, SC terá sol e calor com máximas que passam de 30°C",
       "imagem": "https://s2-g1.glbimg.com/HIZJ0TXeNSaxzWaGjPDi2KOsAhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/KmbEpNSC2xQDu9fv8xvg/deslizamento-de-terra-atinge-casa-em-santo-amaro-da-imperatriz.jpg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/vlqPkG_nvbU3nHJSNtVnP3PTc28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/Q/FBAR3VR0SbXVY8GStbgg/previsao-tempo-bras-lia-20260817-030640.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/G4l5VBlL9UyJxAkJ0YmheR8ZP8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/O/21mFqRSsCaOmcJoVWcKw/previsao-tempo-s-o-paulo-20260817-030626.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/FC8W56utOzdW3lxiQKmHdqhJa7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/T/hAraAeRUmD4l2SWplLVg/previsao-tempo-s-o-bernardo-do-campo-20260817-030609.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/rTDZeujYEiPlYaKI7-15_31V3cM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/T/xB1WRcS0iYQ9rNn088nw/previsao-tempo-santo-andr-20260817-030552.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/plYpXsqAev17oNNaoIlQ5_Isc80=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/q/T9zNMQSfK03yZB7cl2Yg/previsao-tempo-osasco-20260817-030537.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/8TOyFuzInfFNEr0kKZM1s90_b00=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/88ZF7aRlivlUMWKMAaBQ/previsao-tempo-guarulhos-20260817-030521.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): dia de sol com névoa fraca ao amanhecer e à noite",
-      "imagem": "https://s2-g1.glbimg.com/7gULdZV-tKplEdd6W7mkI2wlvHM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/q/aIoFnCRyaOSrqWQTYCHw/previsao-tempo-s-o-gon-alo-20260817-030505.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/oV7Bb0nTAiRo1-TQUQ_mvWG8E00=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/p/RJ7V7ZRyCnwbJlZXnbBw/previsao-tempo-rio-de-janeiro-20260817-030448.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/eHrPw_00S6tn-waiXQr7TX7_nuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/x/hUlhjjQguWOTwAZPoMRA/previsao-tempo-nova-igua-u-20260817-030424.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): dia de sol com névoa fraca ao amanhecer e à noite",
-      "imagem": "https://s2-g1.glbimg.com/tb9KmJW-WoPrn3rTTEWb_A57vQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/Q/G4InGYQkC6Tk0TSInqtA/previsao-tempo-niter-i-20260817-030408.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-17T08:38:04.270Z"
+  "atualizadoEm": "2026-08-17T09:23:28.170Z"
 }
