@@ -1,6 +1,50 @@
 {
   "noticias": [
     {
+      "titulo": "Eleições 2026: veja como foi o 1º dia oficial de campanha dos candidatos ao governo do Amapá",
+      "imagem": "https://s2-g1.glbimg.com/t-ikfzpy6v0BXu2kWMbsdg0UMD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/v/FZoXNfQ72XTE3G8Qa7Bg/candidatos.jpg"
+    },
+    {
+      "titulo": "Candidatos ao governo de MG fazem 1º debate marcado por dívida do estado, segurança, privatização, IPVA e terras raras",
+      "imagem": "https://s2-g1.glbimg.com/IIwuYPMnI7Cu-Y50Y07v8fsvcKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/u/n75oxrRrWXylhVUrsP4A/debate-band-mg.png"
+    },
+    {
+      "titulo": "União Europeia planeja pacote de sanções mais abrangente contra a Rússia nos próximos meses",
+      "imagem": "https://s2-g1.glbimg.com/DbdVgOJmn4UvSKWx8_R2NaNY6oc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/i/ppMLTZTyyLXrl9DgGq3w/2026-07-24t012848z-1616045005-rc20kman9g6v-rtrmadp-3-asean-philippines.jpg"
+    },
+    {
+      "titulo": "Mais carros elétricos levam carregadores para o centro da disputa em condomínios",
+      "imagem": "https://s2-g1.glbimg.com/5_keyXahNWbufggOx0WBawMcjow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/O/hD5OmxR4qd61Cuf2ooOg/carroeletrico-1-.png"
+    },
+    {
+      "titulo": "Empresário preso por agredir mulher em SP é investigado por ameaçar e atacar homem em sinagoga",
+      "imagem": "https://s2-g1.glbimg.com/RBHB9VXbE4aQStkZ7e-lAXnznrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/V/4xIVWFSQ2ZZG3Brl7VLw/captura-de-tela-2026-08-15-174155.jpg"
+    },
+    {
+      "titulo": "Brigadista emociona ao dar água a lagarto que fugia de incêndio em parque de Goiás; vídeo",
+      "imagem": "https://s2-g1.glbimg.com/8WOO4Hp4fxZcD3uzMA1MF7QMI4c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/k/GvVZqfRBKN4JPxFWqncg/copia-de-copia-de-padrao-foto-g1-goias-1-.jpg"
+    },
+    {
+      "titulo": "Acidente entre carretas causa explosão e deixa 4 mortos na BR-163, em MS",
+      "imagem": "https://s2-g1.glbimg.com/6xHTDKf1ZZsJohxqcoFJqI1reS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/C/0vuqkUSAirtVnfBEd5dQ/br-163-acidente.jpg"
+    },
+    {
+      "titulo": "Super El Niño pode estar entre os mais intensos já registrados; veja o que esperar",
+      "imagem": "https://s2-g1.glbimg.com/Th_1maIQ8Y1-_N8I2VilyBlFx8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/x/hAxhg6TLeUhFA9fNQn2A/elnino-1-.png"
+    },
+    {
+      "titulo": "Tarcísio e Haddad iniciam campanha ao governo de SP com atos na Grande São Paulo",
+      "imagem": "https://s2-g1.glbimg.com/k_l63p5x9v_lk4sdmI3OXTFMGeQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/T/cCRNhLQtuGrGAwKGXDbg/montagem-horizontal-1200px-10-.jpg"
+    },
+    {
+      "titulo": "Surto de Ebola na República Democrática do Congo se torna o mais mortal da história do país",
+      "imagem": "https://s2-g1.glbimg.com/fmBpsyVeUrSdBfyOMEjCRKZoTd4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/X/aO7BlnTcaHKAA28pS8Hw/2026-08-11t080847z-1899286590-rc24tmatjlw8-rtrmadp-3-health-ebola.jpg"
+    },
+    {
+      "titulo": "Terremoto de magnitude 7,4 causa destruição na Colômbia e mata mais de 290 pessoas",
+      "imagem": "https://s2-g1.glbimg.com/V2Wz2SET-i6NWa09QA26uZeVIEU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/1/Bl9UY0TlWP32HhgGK1cQ/terremoto3-1-.png"
+    },
+    {
       "titulo": "Morre Luiz Gutemberg, referência no jornalismo em Brasília, aos 88 anos",
       "imagem": "https://s2-g1.glbimg.com/ejYTZQ8crX_9_2XCRz8HmWHXnT0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/1/vyar3ERtaHzkFoeyKumA/c5fdc0a6-7760-4bda-8092-13583fa47ad7.png"
     },
@@ -75,51 +119,7 @@
     {
       "titulo": "Projeto oferece 420 vagas gratuitas em oficinas de dança, tecnologia e audiovisual no litoral de SP",
       "imagem": "https://s2-g1.glbimg.com/1_t9NmQLy5NMLWbPCEreJFfM9Zg=/s.glbimg.com/jo/g1/f/original/2016/06/19/ballet-renata-de-brito-11.jpg"
-    },
-    {
-      "titulo": "Dupla é presa com arma e drogas dentro de cemitério em Imperatriz, no MA",
-      "imagem": "https://s2-g1.glbimg.com/2WACSR2YMBVSsLZTYWqusce-nAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/z/BQ101LQiCEXAKPFbklFw/montagens-1920-x-1080-px-2026-08-16t185557.771.png"
-    },
-    {
-      "titulo": "Recém-nascida de apenas 3 dias é encontrada abandonada em terreno baldio em Araruama",
-      "imagem": "https://s2-g1.glbimg.com/QgglXHC_1p89iZjXtgRgqruNn6U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/3/NjMdhdSAGBmDv0tK8LXw/pm-bebe.jpg"
-    },
-    {
-      "titulo": "Wellington Fagundes (PL) inicia campanha ao Governo neste domingo (16)",
-      "imagem": "https://s2-g1.glbimg.com/qY7LTWvm6O6Uuq5R1AVQCuSczJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/t/DaoXC2TveIy0grmSyw3A/videos-g1-23-.jpg"
-    },
-    {
-      "titulo": "Guindaste tomba sobre fios de alta tensão e provoca explosão na rede elétrica em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/23oUtV4ILQUOQ-oJow6fIXmlPbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/U/8NSAD2T2qlXDCaZEkLhQ/g1-guindaste-tomba-manaus.jpg"
-    },
-    {
-      "titulo": "Batida entre dois carros e moto deixa motociclista gravemente ferido na Ayrton Senna",
-      "imagem": "https://s2-g1.glbimg.com/-u1kc94jA1q7YltDZSQt0ulp8co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/f/u4ZlsHRKyMEEPfLgiD6g/imagem-4-.jpg"
-    },
-    {
-      "titulo": "Irmãos morrem após carro capotar na TO-070",
-      "imagem": "https://s2-g1.glbimg.com/TbpRRVF2Dga3VvXd1qkuPp6CClw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/ezSVAsSyCtmN576mpj6Q/foto-e-montagem-vertical.png"
-    },
-    {
-      "titulo": "Presidente do Brasil visita Oiapoque para acompanhar pesquisas de petróleo",
-      "imagem": "https://s2-g1.glbimg.com/dTQrHla31TrQfgvH3_McnKwn9WQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/L/0mSnBtSheJlJQBvz3CxQ/bbc00f9d-3bab-42f1-832a-3ae05e102a3e.webp"
-    },
-    {
-      "titulo": "Candidatos ao governo de SC têm 1° dia de campanha marcado por atos públicos e visitas a eventos",
-      "imagem": "https://s2-g1.glbimg.com/gs0vm_HOPNUn437lv-jlygKvkz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/k/Nnw31xT8qJIO1NAEHCxg/candidatos-governo-de-santa-catarina.jpg"
-    },
-    {
-      "titulo": "Motorista atropela PM e outras duas pessoas durante abordagem em rodovia no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/cJmk5DX1FlL_3Ke9XDeyVtO_0GI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/x0glQ1Q5mMuBfjhrJlqA/delpolbotucatu.png"
-    },
-    {
-      "titulo": "Idoso que teve até 90% do corpo queimado em incêndio em Varginha morre em hospital",
-      "imagem": "https://s2-g1.glbimg.com/1GIVnoklGP-7NjLX9yXNXcS7Ca8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/6/xffKOUSAAkYw5QzAJswQ/idosoqueimado.png"
-    },
-    {
-      "titulo": "Pivetta (Republicanos) inicia campanha ao Governo neste domingo (16)",
-      "imagem": "https://s2-g1.glbimg.com/mBhbqK9sLOVrGx103RWkLbuYP00=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/O/sHRLUITvqIfvIEp1vamw/videos-g1-22-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-16T23:57:36.687Z"
+  "atualizadoEm": "2026-08-17T01:23:22.036Z"
 }
