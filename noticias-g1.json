@@ -1,11 +1,103 @@
 {
   "noticias": [
     {
-      "titulo": "Maconha é apreendida escondida em carga de polvo congelado em Fernando de Noronha; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/raUBd5mrCSYnCL-IiI1-yYmwuB0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/U/xB5Ms8RAAZrxq2qnRhMg/cao-polvo-e-maconha.jpg"
+      "titulo": "Semana da Pátria 2026: confira ordem dos desfiles de escolas em Santarém",
+      "imagem": "https://s2-g1.glbimg.com/Em1DYokhFKkjYZG9QUWcwscMfk0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/i/ktRsQfSk2QRptAfS8WlA/whatsapp-image-2026-08-17-at-143250-op02x5.jpg"
     },
     {
-      "titulo": "Justiça mandar solta influenciador Buzeira, investigado na Operação Narco Bet, após 10 meses de prisão",
+      "titulo": "Resultados das Loterias Caixa",
+      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
+    },
+    {
+      "titulo": "Wilder Morais (PL) declara R$ 65,1 milhões ao TSE; vice informa R$ 7,3 milhões",
+      "imagem": "https://s2-g1.glbimg.com/kWAJ6QPNB8tYGVixztrOgYDENtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/p/AApBYmR1KkckE28zgLWA/imagens-g1-28-.png"
+    },
+    {
+      "titulo": "Mulher é encontrada morta com tiro no rosto no interior de SC; adolescente companheiro dela é apreendido",
+      "imagem": "https://s2-g1.glbimg.com/AuwvLOlyy53q3zrQJCsow9i8ImE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/X/25V41QQjyauvYOfG3nWA/palmitos.png"
+    },
+    {
+      "titulo": "Um mês antes de matar os 3 filhos, enfermeira americana contou à mãe que pensava em machucar as crianças",
+      "imagem": "https://s2-g1.glbimg.com/GJQjdTGCKoRGnRYOCYnccBVshwY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/R/QtanbzSOO2Gkr6I6iXpQ/ap26225622887558.jpg"
+    },
+    {
+      "titulo": "Vídeo mostra momento em que avião levanta voo fora da pista em Munique, raspa a cauda e retorna ao aeroporto",
+      "imagem": "https://s2-g1.glbimg.com/f3dyKSIldWkQAsj8-WayuvFgl3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/J/uQ7OoER9Sw4zPjrzoOZg/meow-meow-meow-meow-38-.png"
+    },
+    {
+      "titulo": "Homem diz que já foi condenado duas vezes por crimes cometidos pelo irmão e tem medo de ser preso injustamente",
+      "imagem": "https://s2-g1.glbimg.com/cAcAj2CicUCNEMc84yonFDB4BFc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/J/QBA1riTSAT4wSDoAYhlw/copia-de-copia-de-padrao-foto-g1-goias-7-.jpg"
+    },
+    {
+      "titulo": "Motociclista morre após ser atingido por carro e cair de viaduto em BH",
+      "imagem": "https://s2-g1.glbimg.com/_UNEPVxTv3NQHjZykc2RLlCsAtk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/i/K9ILZ4QhyfazUdlS2VsQ/acidente-dona-helena-greco-1-1-.png"
+    },
+    {
+      "titulo": "Julgamento de Luigi Mangione é adiado após réu se decalrar culpado por assassinato de CEO",
+      "imagem": "https://s2-g1.glbimg.com/c_1uwP-tTkOEQZMk5jpKlbi-DnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/t/pgwfgmQhWkhlO1UbbpgA/imagem-1200x800-4-.jpg"
+    },
+    {
+      "titulo": "Sol, temperaturas acima dos 30 ºC e baixa umidade: veja a previsão para a semana em Divinópolis e região",
+      "imagem": "https://s2-g1.glbimg.com/dIQbbPMKDCqpVzCdDbvSsovzaSw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/M/Y/YpLoL8SAeNvVbBUbL7sA/tarde-em-divinopolis.jfif"
+    },
+    {
+      "titulo": "VÍDEOS: JL1 de segunda-feira, 17 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/22EaqAITDLkjTWQSN4DCmXfpPaY=/s01.video.glbimg.com/deo/vi/62/53/14875362"
+    },
+    {
+      "titulo": "Vestibulinho das Etecs: saiba como pedir redução na taxa de inscrição até 1º de setembro no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/xSlecPZxwLYAYP-gqTPQ36F9Ua0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/6/AIvfhQQvC3U0sR1m1wMg/etec-itapetininga.png"
+    },
+    {
+      "titulo": "Trabalho da imprensa é 'essencial' para eleições e democracia, diz Kassio Nunes Marques",
+      "imagem": null
+    },
+    {
+      "titulo": "Os influencers que arriscam a vida para ter uma foto perfeita com tubarões",
+      "imagem": "https://s2-g1.glbimg.com/gtegA8K2BWLtXzhaiHqU6uR7K-0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Z/GxrSozTl2gEBcUM2BD7w/infl.png"
+    },
+    {
+      "titulo": "Homem é preso após ameaçar ex e atirar para intimidá-la em Itamarandiba",
+      "imagem": "https://s2-g1.glbimg.com/Ol8-ZLlN7sNTi1_zM5sZMKw1N-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/B/gExiSLTsSO2lh2iHUWIQ/whatsapp-image-2026-08-16-at-10.58.18-2-.jpeg"
+    },
+    {
+      "titulo": "Agenda Ribeirão",
+      "imagem": null
+    },
+    {
+      "titulo": "JHC, Renan Filho, Alfredo Gaspar: entenda as reviravoltas nas chapas em Alagoas",
+      "imagem": "https://s2-g1.glbimg.com/NMkrpOl-0ZfjyZZRfr8JskcY1X8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/l/cqgIVzTu2KL4VHK9gJow/whatsapp-image-2026-08-13-at-18.26.08.jpeg"
+    },
+    {
+      "titulo": "Combate ao desmatamento no AP resulta em prisões e apreensão de armas",
+      "imagem": "https://s2-g1.glbimg.com/CozFDidiWcgn7Ng2xnXB5uW7-J0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/W/8gcrzeRkqJWq6m8fhWPg/aleixo-g1-50-.jpg"
+    },
+    {
+      "titulo": "Homem morre após ser atropelado por caminhão na SP-340, em Jaguariúna",
+      "imagem": "https://s2-g1.glbimg.com/JrC4dEBbJDDtMEutm_w6SXF7Ed4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/L/Y0ZwN4SACz86YnVqpLoA/1200px-x-800px-14-.jpg"
+    },
+    {
+      "titulo": "Batida entre caminhões deixa feridos e causa congestionamento na Anhanguera, em Vinhedo",
+      "imagem": "https://s2-g1.glbimg.com/njII8P58Vf6Wo-8_H83IQGTIHC4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/6/u7AB02SS29LR7FOmQUkQ/design-sem-nome-2026-08-17t160959.167.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição Regiões de segunda-feira, 17 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/h_NAmm8UmfVcJyKZ6pAcPSJqyJI=/s01.video.glbimg.com/deo/vi/72/63/14876372"
+    },
+    {
+      "titulo": "Ponta das Lajes tem parada programada para reforço de sistema para a estiagem",
+      "imagem": "https://s2-g1.glbimg.com/PQMyMKmoG9etu8K2H2r219ngFNM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/D/bLUFBSQzO5s5cxUI1Vow/retorno-do-abastecimento-1-1-.jpeg"
+    },
+    {
+      "titulo": "Obras da Sabesp interditam ruas e avenidas de seis cidades da Baixada Santista; confira",
+      "imagem": "https://s2-g1.glbimg.com/ZmQDT_L9f3w529oTB7DIHtlItrw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/0/2EjNEnSNKltzN7lFiGHw/fotos-materias-2026-08-17t094018.920.jpg"
+    },
+    {
+      "titulo": "Maconha é apreendida em carga de polvo congelado em Fernando de Noronha; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/jzwWhdmg8VhEAX9zR_FRuJXzhKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/y/cO4SAYSNG0tATfuifB4g/cao-drogas-2.jpg"
+    },
+    {
+      "titulo": "Advogado diz que Justiça mandou soltar influenciador Buzeira, investigado na Operação Narco Bet, após 10 meses de prisão",
       "imagem": "https://s2-g1.glbimg.com/i3R0uaC-HFy1uolDOj78QzUf3tI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/t/mL8D0iSIWSZ5YNBdAj7A/fotojet-65-.jpg"
     },
     {
@@ -25,101 +117,9 @@
       "imagem": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
     },
     {
-      "titulo": "Agenda Ribeirão",
-      "imagem": null
-    },
-    {
       "titulo": "Estação da Ponta das Lajes passa por parada programada na terça-feira (18)",
       "imagem": "https://s2-g1.glbimg.com/PS7BFbt6Rsp23ikX6hZoovs_kUM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/c/owER8USTGIdy5S3r6snQ/retorno-do-abastecimento-1-.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: Pescadores capturam peixe de 60 kg e mais de 1 metro em rio no interior do Acre",
-      "imagem": "https://s2-g1.glbimg.com/hlOHouczXqk2FiC03BjJltVwYPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/d/aVMYRPRZSoWyAzvlsTHA/midia-de-distribuicao-g1-2026-08-17t130051.230.png"
-    },
-    {
-      "titulo": "Produtor nega que Fiuk teria perdido dinheiro em filme: 'Não investiu um único real'",
-      "imagem": "https://s2-g1.glbimg.com/JSF0x1dJnHpP1J7yF39-eMa80RM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/x/rPXcuFQFiWv8HVbK9jRQ/semana-1-3-.png"
-    },
-    {
-      "titulo": "Câncer do sistema linfático pode começar com uma íngua que não dói",
-      "imagem": "https://s2-g1.glbimg.com/qQbBktx_kgSA0cWZdDhg0lftCJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/C/jMET08TLyGR9BdlATmsQ/dra.-gabriela-matias-hematologista.jpg"
-    },
-    {
-      "titulo": "Casal é encontrado morto em residência no município de Lagarto",
-      "imagem": "https://s2-g1.glbimg.com/-43al0T_hvzw-w5_4gwv3xaFuKs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/n/BGf9BpRxqhDQjcNWTPmQ/policia-lagarto.jpg"
-    },
-    {
-      "titulo": "Pets e energia elétrica: Equatorial orienta sobre prevenção de acidentes",
-      "imagem": "https://s2-g1.glbimg.com/uLuFjKw_oue3ixXl5GPGhmCBzO8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/L/BWwLNJTjGuzhBfqceBLw/evite-o-uso-de-extensoes-e-proteja-as-tomadas-1-.jpeg"
-    },
-    {
-      "titulo": "Paramount pede garantia de US$ 1,88 bilhão a estados americanos que contestam fusão com Warner",
-      "imagem": "https://s2-g1.glbimg.com/49K3CAnwbf-e5wP-V-6ZZ3DyKK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/I/AfCMzFTBmN6Yym7rbtfw/2026-02-27t003234z-1-lynxmpem1q018-rtroptp-4-empresas-netflix-warner-bros-dis.jpg"
-    },
-    {
-      "titulo": "Prefeitura de São João del Rei anuncia concurso público com 256 vagas; salários chegam a R$ 15 mil",
-      "imagem": "https://s2-g1.glbimg.com/ymzn-kruUuol6C55fdMsnNMVXMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/d/r/c5FnPPQBq31R5qevXgMQ/still1103-00000.bmp"
-    },
-    {
-      "titulo": "Vale do Paraíba registra 216 mortes no trânsito até julho; número é 7,3% menor que em 2025",
-      "imagem": "https://s2-g1.glbimg.com/i1Nu5kR1kRy2dT0m32yQkofs36s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/O/P/lsl13LRzenoecPDUNsuQ/whatsapp-image-2025-06-22-at-17.12.08.jpeg"
-    },
-    {
-      "titulo": "Filho de policial que foi morto em tentativa de assalto é enterrado na Zona Norte de SP",
-      "imagem": "https://s2-g1.glbimg.com/F0invi6uE6YIQHyimAzKX9cJNno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/1/FHUFzzTzKJDV22Y2XXyA/morte-zona-norte-sp.jpg"
-    },
-    {
-      "titulo": "ExpoFeira na Rede Amapá encerra com mais de 4 mil participações",
-      "imagem": "https://s2-g1.glbimg.com/WLlZ7z9NugazgkYtaTRZ0DnVW3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/o/AEXiSvRBGw1aIKZlzoeQ/whatsapp-image-2026-08-17-at-10.54.08-1-.jpeg"
-    },
-    {
-      "titulo": "'Meu maior medo era ser passada como mentirosa', diz dentista após agressões de empresário",
-      "imagem": "https://s2-g1.glbimg.com/6XjSN4JuyWEUTB56F6oGNGxmbcY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/U/aKMcoBTBaq9P1FuGImdw/fotojet-2026-08-16t091439.454.jpg"
-    },
-    {
-      "titulo": "Veja quais são os crimes investigados no caso do presidente do TCE do Maranhão afastado por Flávio Dino",
-      "imagem": "https://s2-g1.glbimg.com/5zjPOR7TCRfAa1vj_Z5v30qTFt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/p/m40LdESaGlLEj4uokAWQ/dsc00083.jpg"
-    },
-    {
-      "titulo": "Polícia Civil apreende veículo de luxo durante nova ação da Operação Vérnix",
-      "imagem": "https://s2-g1.glbimg.com/HYk1VXbVMOoul0QnU2Ni8mGAYSo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/N/FJ1u9ARgWsyHELVscgzA/apreensao-14-.png"
-    },
-    {
-      "titulo": "Falso advogado é indiciado por aplicar golpes e causar prejuízo de R$ 19 mil em Boa Vista",
-      "imagem": null
-    },
-    {
-      "titulo": "Moradores denunciam abandono, acúmulo de lixo e insegurança no Parque Lagoas do Norte, em Teresina",
-      "imagem": "https://s2-g1.glbimg.com/QPscp4Tpz1aVmxc2TrDGwFGG5qs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/z/dfU3NnR6Cx95pKBnn4MQ/edicao-imagens-g1-2026-08-17t121313.409.png"
-    },
-    {
-      "titulo": "Pai e filho são presos suspeitos de atirar na cabeça de universitário no ES; vítima descobriu disparo no hospital",
-      "imagem": "https://s2-g1.glbimg.com/-0ZMo7d43ha0Jn74AscQUVdCEbA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/b/GBIoyiRxiKfreFtpTm8A/thumb-fotos-2026-08-17t130407.431.jpg"
-    },
-    {
-      "titulo": "13º Festival de Cinema de Caruaru reúne 39 filmes em quatro noites de sessões gratuitas; veja programação",
-      "imagem": "https://s2-g1.glbimg.com/_ceAcXjJuVdL-MwwFPZuGZ5lsrs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/U/aWHiIQTAWAGD00sJDENg/whatsapp-image-2026-08-17-at-12.23.26.jpeg"
-    },
-    {
-      "titulo": "Carnaval de Rua 2027: Riotur abre inscrições para blocos no dia 24 de agosto; desfiles começam 16 de janeiro",
-      "imagem": "https://s2-g1.glbimg.com/SJsRlC1dY-hVSjME7BTOADyRt7s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/y/PPWwEyROCfeWq4hjVxIg/55109876351-9f54da534e-k.jpg"
-    },
-    {
-      "titulo": "Quatro unidades do Grupo Med Imagem conquistam Selo Segurança do Paciente 2026",
-      "imagem": "https://s2-g1.glbimg.com/YoH3ooOFiVI0IHbhVbEouIWaZRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/D/1q43uFSUiqYGx73jPdAQ/whatsapp-image-2026-08-13-at-17.23.38.jpeg"
-    },
-    {
-      "titulo": "Militar do Exército é denunciado por moradores e acaba preso com arsenal escondido em sítio de MS",
-      "imagem": "https://s2-g1.glbimg.com/B3mq_yji431nI96S_bnSMM-z3qU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/f/DCnIPjSdSA6gkwT3k1uQ/1200-x-800-43-.jpg"
-    },
-    {
-      "titulo": "MP entra na Justiça por supostos descontos na folha de pagamento de servidores para custear programa social, no Sertão da Paraíba",
-      "imagem": "https://s2-g1.glbimg.com/JDUViqOxLUAMJrS8NjhGYNvsZeY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/P/0Mos6BRHa7g9UOi6bAAA/whatsapp-image-2023-08-09-at-12.56.07.jpeg"
-    },
-    {
-      "titulo": "Vítimas de acidente envolvendo caminhões na BR-153 são identificadas",
-      "imagem": "https://s2-g1.glbimg.com/jPZMdAjp3VNo4dIPUrJXJPGXkf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/2/3A1LHaTtueed0lycChfQ/foto-e-montagem-vertical-50-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-17T19:27:24.390Z"
+  "atualizadoEm": "2026-08-17T19:51:47.221Z"
 }
