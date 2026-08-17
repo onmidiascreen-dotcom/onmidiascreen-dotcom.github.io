@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Hayden Panettiere, atriz de Heroes e Nashville, morre aos 36 anos",
+      "imagem": null
+    },
+    {
       "titulo": "Após descoberta da Petrobras e reunião com Alcolumbre, Lula vai ao Amapá",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Ebola na República Democrática do Congo é o mais mortal da história",
       "imagem": null
-    },
-    {
-      "titulo": "João Fonseca iguala marca de Guga de 23 anos atrás e “repete” Pete Sampras",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-17T03:32:26.811Z"
+  "atualizadoEm": "2026-08-17T04:25:07.399Z"
 }

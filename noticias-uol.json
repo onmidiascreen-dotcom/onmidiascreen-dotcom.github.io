@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Novo terremoto de magnitude 5,7 atinge Indonésia após tremor deixar mortos",
+      "imagem": null
+    },
+    {
       "titulo": "Candidato ao Governo do Paraná pelo PSD, Sandro Alex participa de sabatina Folha/UOL nesta segunda",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Festival na cidade de Milton Nascimento e Wagner Tiso honra legado dos mineiros",
       "imagem": null
-    },
-    {
-      "titulo": "Candidatos ao governo de MG focam em crise fiscal do estado em 1º debate",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-17T03:32:26.564Z"
+  "atualizadoEm": "2026-08-17T04:25:06.967Z"
 }
