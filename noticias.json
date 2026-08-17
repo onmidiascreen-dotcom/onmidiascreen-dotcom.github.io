@@ -1,7 +1,99 @@
 {
   "noticias": [
     {
+      "titulo": "Inter anuncia contratação de atacante sueco; saiba detalhes",
+      "imagem": null
+    },
+    {
+      "titulo": "Em meio a rumores, Anitta e Danilo Mesquita são vistos saindo de espetáculo",
+      "imagem": null
+    },
+    {
+      "titulo": "Fim da &#8220;taxa das blusinhas&#8221; prejudica a economia, diz Fiemg",
+      "imagem": null
+    },
+    {
+      "titulo": "Leila Pereira defende Abel Ferreira no Palmeiras: &#8220;vamos em frente&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Soja sobe quase 2% em Chicago com novas compras da China nos EUA",
+      "imagem": null
+    },
+    {
+      "titulo": "Christian Chávez chega ao Brasil para shows da &#8220;Para Siempre Tour&#8221;; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Casas Bahia: Clientes podem ser prejudicados por pedido de recuperação?",
+      "imagem": null
+    },
+    {
+      "titulo": "Renan Santos critica Pablo Marçal por candidatura: &#8220;Folclórico&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: A largada dos dois passados",
+      "imagem": null
+    },
+    {
+      "titulo": "Reuters/Ipsos: Aprovação de Trump cai ao menor nível do segundo mandato",
+      "imagem": null
+    },
+    {
+      "titulo": "Luciano Huck abre o jogo sobre possibilidade de aposentadoria",
+      "imagem": null
+    },
+    {
+      "titulo": "Unitree revela robô de alta velocidade dias antes de abrir capital",
+      "imagem": null
+    },
+    {
+      "titulo": "Apple vai alterar regras de consentimento em apps, diz órgão alemão",
+      "imagem": null
+    },
+    {
+      "titulo": "ByteDance assina acordo de direitos autorais de IA com grupo de Hollywood",
+      "imagem": null
+    },
+    {
+      "titulo": "Uber e Zipline firmam parceria para entrega de comida com drones nos EUA",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;10 Coisas que Eu Odeio em Você&#8221; ganhará adaptação teatral na Broadway",
+      "imagem": null
+    },
+    {
+      "titulo": "TSE aceita ação contra Lula por suposto &#8220;abuso&#8221; em desfile de Carnaval",
+      "imagem": null
+    },
+    {
+      "titulo": "Cacau avança mais de 5% em Nova York com dólar mais fraco",
+      "imagem": null
+    },
+    {
+      "titulo": "Renan Santos chama políticos do Centrão de &#8220;viciados em emendas&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Conheça as pessoas-chave no julgamento do assassinato de Tupac",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump conversa com Kim Jong-un após reduzir exercícios com a Coreia do Sul",
+      "imagem": null
+    },
+    {
+      "titulo": "Ator de &#8220;Harry Potter&#8221; relembra noite de bebidas com elenco do filme",
+      "imagem": null
+    },
+    {
       "titulo": "Nova Mercedes Classe C foca em IA e motorização e deixa design de lado",
+      "imagem": null
+    },
+    {
+      "titulo": "Ação do Magazine Luiza dispara cerca de 7% em dia de queda de Casas Bahia",
       "imagem": null
     },
     {
@@ -27,99 +119,7 @@
     {
       "titulo": "Análise: Em aceno ao Congresso, Lula tira 6&#215;1 de discursos recentes",
       "imagem": null
-    },
-    {
-      "titulo": "Mamografia de rastreamento revela desigualdade entre regiões do Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "À CNN, Celina diz que 8 de Janeiro &#8220;não irá se repetir no Distrito Federal&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Uma Vida de Esperança&#8221;: conheça história real que inspirou o filme",
-      "imagem": null
-    },
-    {
-      "titulo": "Mulher é condenada após chamar cantor de &#8220;meia tigela&#8221; e &#8220;pé rapado&#8221; em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Vídeo: carro capota e atinge poste em Bertioga, no litoral de SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Ex-premiê britânico participa de reuniões sobre plano de paz em Gaza",
-      "imagem": null
-    },
-    {
-      "titulo": "Natação: Kate Douglass bate recorde mundial duas vezes em nove horas",
-      "imagem": null
-    },
-    {
-      "titulo": "TSE terá &#8220;sala de situação&#8221; com big techs nos dias das eleições em 2026",
-      "imagem": null
-    },
-    {
-      "titulo": "Falta de enzima na gravidez pode originar esquizofrenia, diz estudo",
-      "imagem": null
-    },
-    {
-      "titulo": "À CNN, Celina diz: &#8220;Se fosse do PT, já teria falado com Lula sobre o BRB&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Problemas no sono aos 40 anos podem aumentar a chance de Alzheimer aos 80",
-      "imagem": null
-    },
-    {
-      "titulo": "Discord diz que suspendeu lives no Brasil após determinação da ANPD",
-      "imagem": null
-    },
-    {
-      "titulo": "Genro de Trump finaliza conversas com Israel e Hamas sem avanços sobre Gaza",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Braço&#8221; financeiro do PCC teria movimentado US$ 13 milhões no litoral de SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Saiba o que o árbitro falou para Messi na final da Copa do Mundo",
-      "imagem": null
-    },
-    {
-      "titulo": "Dino fala em &#8220;ecossistema criminoso&#8221; de desvio de verba no Maranhão",
-      "imagem": null
-    },
-    {
-      "titulo": "Bolsas da Europa fecham em queda com impasse no Oriente Médio",
-      "imagem": null
-    },
-    {
-      "titulo": "Cooperativas iniciam operação de esmagadora de soja que pertenceu à Dreyfus",
-      "imagem": null
-    },
-    {
-      "titulo": "Militares do Irã negam que país negocia com os EUA apesar de fala de Trump",
-      "imagem": null
-    },
-    {
-      "titulo": "Netanyahu diz que não retirará forças de Gaza até desarmamento do Hamas",
-      "imagem": null
-    },
-    {
-      "titulo": "Carolina Dieckmmann celebra 80 anos de Drão, mãe de Preta Gil: &#8220;Agradecer&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Eleitor hoje presta atenção somente em Lula e Flávio, diz CEO da Nexus",
-      "imagem": null
-    },
-    {
-      "titulo": "Sheilla sobre CBV barrar Tifanny: &#8220;Precisamos olhar para a pessoa&#8221;",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-17T18:56:32.572Z"
+  "atualizadoEm": "2026-08-17T19:27:23.101Z"
 }
