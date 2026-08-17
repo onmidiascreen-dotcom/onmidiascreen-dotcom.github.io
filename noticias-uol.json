@@ -1,7 +1,55 @@
 {
   "noticias": [
     {
-      "titulo": "PE: RealTime Big Data mostra empate entre João Campos e Raquel Lyra",
+      "titulo": "Morre suspeito de matar filho de policial civil durante assalto em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Motorista embriagado quase atropela crianças e é preso em Apucarana",
+      "imagem": null
+    },
+    {
+      "titulo": "BTG/Nexus: 68% pretendem acompanhar o horário eleitoral gratuito; 30% dizem que não",
+      "imagem": null
+    },
+    {
+      "titulo": "BTG/Nexus: Para 42%, governo Lula é ruim ou péssimo; 34% consideram ótimo ou bom e 23% regular",
+      "imagem": null
+    },
+    {
+      "titulo": "BTG/Nexus: Flávio Bolsonaro e Lula seguem como mais rejeitados, com 50 % e 48%, respectivamente",
+      "imagem": null
+    },
+    {
+      "titulo": "Casas Bahia entra com pedido de recuperação judicial",
+      "imagem": null
+    },
+    {
+      "titulo": "Pisoteamento em templo na Índia deixa sete mortos",
+      "imagem": null
+    },
+    {
+      "titulo": "No 1º turno, Lula lidera com 41% e Flávio Bolsonaro tem 36%, aponta pesquisa BTG/Nexus",
+      "imagem": null
+    },
+    {
+      "titulo": "BTG/Nexus: Lula tem 47% e Flávio 44 % no 2º turno, seguem empatados tecnicamente",
+      "imagem": null
+    },
+    {
+      "titulo": "Três ficam feridos após acidente entre dois carros na PR-444 em Arapongas",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula mantém vantagem numérica sobre Flávio, mas empate técnico persiste, diz BTG/Nexus",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump manda reduzir exercícios militares com a Coreia do Sul",
+      "imagem": null
+    },
+    {
+      "titulo": "Prazo para inscrições em processos seletivos de Apucarana começa nesta segunda",
       "imagem": null
     },
     {
@@ -11,55 +59,7 @@
     {
       "titulo": "Entre CV e PCC não há apenas guerra, e ainda sabemos muito pouco",
       "imagem": null
-    },
-    {
-      "titulo": "Filho de policial morto em tentativa de roubo será enterrado nesta segunda (17)",
-      "imagem": null
-    },
-    {
-      "titulo": "Saiba qual é a previsão do tempo para esta segunda-feira em Apucarana",
-      "imagem": null
-    },
-    {
-      "titulo": "BTG/Nexus: Lula e Flávio estabilizam com empate técnico no 2º turno",
-      "imagem": null
-    },
-    {
-      "titulo": "Campanha no Brasil começa em clima de tensão com EUA, comparações entre governos e até chamado divino",
-      "imagem": null
-    },
-    {
-      "titulo": "Confira os falecimentos desta segunda-feira (17) em Apucarana e região",
-      "imagem": null
-    },
-    {
-      "titulo": "Ataque de drones a partir do Irã atinge gabinete do primeiro-ministro do Curdistão iraquiano",
-      "imagem": null
-    },
-    {
-      "titulo": "Em gesto à Coreia do Norte, Trump decide reduzir manobras militares dos EUA com Seul",
-      "imagem": null
-    },
-    {
-      "titulo": "Vendas no varejo sobem menos que o esperado em julho na China",
-      "imagem": null
-    },
-    {
-      "titulo": "Mulher morre após ataque a faca em supermercado de São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Incêndios perto de Atenas sob controle após a morte de duas pessoas",
-      "imagem": null
-    },
-    {
-      "titulo": "Missionário americano sequestrado no Níger retornará aos Estados Unidos",
-      "imagem": null
-    },
-    {
-      "titulo": "Signos: confira seu horóscopo desta segunda (17)",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-17T10:04:16.744Z"
+  "atualizadoEm": "2026-08-17T10:47:30.844Z"
 }

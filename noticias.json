@@ -1,125 +1,125 @@
 {
   "noticias": [
     {
+      "titulo": "Semana em Palmas será marcada por calor intenso e ausência de chuvas",
+      "imagem": null
+    },
+    {
+      "titulo": "PF faz operação contra fraudes em emissão de CPFs no RJ",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasília terá semana de céu aberto e temperaturas elevadas; veja previsão",
+      "imagem": null
+    },
+    {
+      "titulo": "Previsão semanal aponta calor intenso e tempo seco em Goiânia; confira",
+      "imagem": null
+    },
+    {
+      "titulo": "Chuvas de monção nas Filipinas inundam casas e deixam estradas submersas",
+      "imagem": null
+    },
+    {
+      "titulo": "Cuiabá terá uma semana de céu predominantemente aberto e sem chuvas",
+      "imagem": null
+    },
+    {
+      "titulo": "Operação no RJ mira integrantes do CV suspeitos de tortura contra moradores",
+      "imagem": null
+    },
+    {
+      "titulo": "Campo Grande terá extremos de calor e frio na semana; veja previsão",
+      "imagem": null
+    },
+    {
+      "titulo": "Curitiba terá uma semana marcada por céu aberto e ausência de chuva",
+      "imagem": null
+    },
+    {
+      "titulo": "Porto Alegre terá semana de chuvas e queda de temperatura; veja previsão",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Time: Em Pernambuco, Flávio é rejeitado por 53%; Lula, por 33%",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Time PE: Lula tem 60% no 2º turno; Flávio, 35%",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Time: Em PE, Lula tem 58% e Flávio, 24% no 1º turno",
+      "imagem": null
+    },
+    {
+      "titulo": "Florianópolis terá semana marcada por cenários climáticos distintos",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Time PE: Raquel Lyra é rejeitada por 40%; João Campos, por 35%",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Time PE: No 2º turno, João Campos e Raquel Lyra empatam com 44%",
+      "imagem": null
+    },
+    {
+      "titulo": "Especialistas contestam risco de concentração de mercado em Santos",
+      "imagem": null
+    },
+    {
+      "titulo": "Setor elétrico tem agenda de consenso e propõe medidas ao próximo governo",
+      "imagem": null
+    },
+    {
+      "titulo": "ICTSI faz novo apelo ao Cade contra operação entre MSC e Maersk em Santos",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Time PE: João Campos e Raquel Lyra empatam com 43% no 1º turno",
+      "imagem": null
+    },
+    {
+      "titulo": "AD Ports quer Tecon Santos 10 e Emirados Árabes pedem leilão sem veto",
+      "imagem": null
+    },
+    {
+      "titulo": "Nexus/BTG: Lula empata com Flávio e Caiado no 2º turno",
+      "imagem": null
+    },
+    {
+      "titulo": "Vitória terá semana de chuva e sol com temperaturas de até 28°c",
+      "imagem": null
+    },
+    {
+      "titulo": "Filho de policial morto em tentativa de assalto será velado hoje em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Belo Horizonte terá semana de céu aberto e sem previsão de chuva",
+      "imagem": null
+    },
+    {
+      "titulo": "Nexus/BTG: No 1º turno, Lula tem 41% e Flávio, 36%",
+      "imagem": null
+    },
+    {
+      "titulo": "Rio terá semana de calor e tempo aberto antes da chuva no fim de semana",
+      "imagem": null
+    },
+    {
+      "titulo": "São Paulo terá semana de calor intenso e queda brusca na temperatura",
+      "imagem": null
+    },
+    {
       "titulo": "Copacol cria cooperativa de crédito para associados",
       "imagem": null
     },
     {
       "titulo": "Casas Bahia pede recuperação judicial após confirmar fechamento de lojas",
       "imagem": null
-    },
-    {
-      "titulo": "Morte de Silvio Santos completa 2 anos nesta segunda (17)",
-      "imagem": null
-    },
-    {
-      "titulo": "Dr. Kalil: Saiba fatores que aumentam as chances de transtornos alimentares",
-      "imagem": null
-    },
-    {
-      "titulo": "Etanol e biometano avançam no transporte de cargas no Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Anne Hathaway e Jonas Brothers se tornam lendas da Disney; veja como foi",
-      "imagem": null
-    },
-    {
-      "titulo": "Lei do Bem: empresas do agro têm até 31 de agosto para reduzir impostos",
-      "imagem": null
-    },
-    {
-      "titulo": "Empresas de mobilidade querem fomento a investimentos na reforma tributária",
-      "imagem": null
-    },
-    {
-      "titulo": "Partidos têm até quarta para responder Dino sobre gestão de emendas",
-      "imagem": null
-    },
-    {
-      "titulo": "Fuvest abre inscrições para vestibular 2027 nesta segunda (17); saiba mais",
-      "imagem": null
-    },
-    {
-      "titulo": "42 mulheres participaram da corrida presidencial desde a redemocratização",
-      "imagem": null
-    },
-    {
-      "titulo": "TSE deve se reunir nesta semana para esclarecer regra sobre deepfakes",
-      "imagem": null
-    },
-    {
-      "titulo": "Mercado pede responsabilidade fiscal no centro da discussão para 2027",
-      "imagem": null
-    },
-    {
-      "titulo": "Após reviravoltas, 33 senadores miram reeleição e 10 governo estadual",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávio e Zema propõem mudanças no STF em planos de governo",
-      "imagem": null
-    },
-    {
-      "titulo": "Termina hoje prazo do Discord para suspender lives; entenda proibição",
-      "imagem": null
-    },
-    {
-      "titulo": "Caramuru eleva área de girassol em 5% na safra 2025/26",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula vai ao Amapá e adversários concentram agendas no sudeste",
-      "imagem": null
-    },
-    {
-      "titulo": "BC realiza leilões de linha de até US$ 1 bilhão nesta segunda (17)",
-      "imagem": null
-    },
-    {
-      "titulo": "Internacional x Remo: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula e Flávio focam em Minas na primeira semana da campanha eleitoral",
-      "imagem": null
-    },
-    {
-      "titulo": "Segurança, corrupção e mulheres são temas de início de campanhas",
-      "imagem": null
-    },
-    {
-      "titulo": "Autoridade do governo Trump acusa Brasil de impor censura após mudança no X",
-      "imagem": null
-    },
-    {
-      "titulo": "O problema não é o celular: é o que acontece com você quando fica sem ele",
-      "imagem": null
-    },
-    {
-      "titulo": "“Fiz de tudo para sair com vida”, diz advogado sequestrado pelo PCC em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Polícia investiga acidente de ônibus de turismo que deixou 10 mortos no RJ",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasil é o segundo maior usuário mundial do Discord, aponta levantamento",
-      "imagem": null
-    },
-    {
-      "titulo": "O que sabemos sobre o caso do empresário preso por agredir esposa em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Juristas veem risco ao sigilo da fonte em decisão de Moraes",
-      "imagem": null
-    },
-    {
-      "titulo": "Lucas de Aragão: Não há negociação política para câmbio, juro e inflação",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-17T10:04:16.402Z"
+  "atualizadoEm": "2026-08-17T10:47:31.417Z"
 }
