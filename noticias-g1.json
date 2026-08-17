@@ -1,12 +1,52 @@
 {
   "noticias": [
     {
+      "titulo": "Idoso é preso suspeito de estupro após vizinhos encontrarem criança de 5 anos em quarto de casa no PI",
+      "imagem": "https://s2-g1.glbimg.com/IcmPs_BfRVrrUqD5LgIJfOk8GcY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/I/jqaZshQYmdtM5qxwiZNA/edicao-imagens-g1-12-.png"
+    },
+    {
+      "titulo": "VÍDEO: dupla solta fogos de artifício em frente a uma escola e assusta moradores em Cabo Frio",
+      "imagem": "https://s2-g1.glbimg.com/G6W9yE9PEK9D4wZWJ7gBnZQJNFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/T/nbMow5TpCijyWaN8Lbpw/fogos.jpg"
+    },
+    {
+      "titulo": "Após 6 anos de espera, pedido de vista tira de pauta projeto voltado à população LGBT em Campinas",
+      "imagem": "https://s2-g1.glbimg.com/Y_t8HR2Rs0_h0D64VCBWQqSj-w8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/O/Bl0c6MQUmyuEIOp9fnng/55355218200-1936f3c329-k.jpg"
+    },
+    {
+      "titulo": "Confira as vagas de emprego para Salvador e RMS nesta terça-feira (18)",
+      "imagem": "https://s2-g1.glbimg.com/sHdJIKSjEH41JmWvRXcR_K8rhuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/G/AuICD5Smiju7zH4vkGQA/gil-leonardi-imprensamg-img-3025.jpg"
+    },
+    {
+      "titulo": "Saec é multada em R$ 76,8 mil por vazamento de esgoto no Rio São Domingos em Catanduva",
+      "imagem": "https://s2-g1.glbimg.com/QIff1LXky0DOa2TyKgtT8uQZY04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/A/SAa01zSCKKtBIaFUwynA/whatsapp-image-2026-07-30-at-15.39.39.jpeg"
+    },
+    {
+      "titulo": "Presidente da Câmara de Cacoal cai de cavalo, vai para UTI e recebe alta em RO",
+      "imagem": "https://s2-g1.glbimg.com/mTRIqI99iyFDFdROEn4qpFcp7GM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/b/WBcvEyQe2B0BzBoahTAQ/g1-ro-2026-7-.jpg"
+    },
+    {
+      "titulo": "Homem é preso suspeito de envolvimento na chacina que deixou três mortos e uma ferida em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/puUxIJUsDS6U2t1z9e2TM8KgIIM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/s/BdkMvaToABbgzswYUQOA/design-sem-nome-82-.png"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 17 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/VLtp6zoFPI9I1Q1dZJ88eGZkHTU=/s01.video.glbimg.com/deo/vi/70/71/14877170"
+    },
+    {
+      "titulo": "VÍDEOS: AB2 de segunda-feira, 17 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/XzdQ1sI9giPCppDToBIG1SUsAX8=/s01.video.glbimg.com/deo/vi/19/71/14877119"
+    },
+    {
+      "titulo": "PM baleado na cabeça por colega durante ocorrência em Pernambuco é alagoano",
+      "imagem": "https://s2-g1.glbimg.com/aA9bhmAzKYSYyK76hT7szcgAmYI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/dSp4hIQP6exiUHIx6UsA/snapinsta-1787008239307.jpg"
+    },
+    {
       "titulo": "DNA será decisivo para identificar 7 indígenas mortos em acidente na MS-295",
       "imagem": "https://s2-g1.glbimg.com/AwZEbUmaN7UkyaFnUfkqg5c1bF0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/4/m0asklRpqrSjn6gwqQ2g/dfghjmk-l.c.png"
     },
     {
       "titulo": "Cães de indígenas Warao são abandonados após transferência de famílias para novo abrigo em Belém",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/p1OY-l6VgCI5XIX7gsRK1lnjfaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/3/JQLAb7QrqY4xJVAE0BnA/caes0.jpg"
     },
     {
       "titulo": "Cinco pessoas são presas pela morte de turista de 22 anos em rodoviária de Barra do Bugres (MT)",
@@ -46,7 +86,7 @@
     },
     {
       "titulo": "Beija-Flor em Belém: Bole-Bole e Xodó da Nega vencem seletiva de samba-enredo e vão para a final no Rio",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/abLgFNSr58zOaSv2lVEoPe1YCdw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/I/86ShJ8ScC1fSRrGUTgsA/zeneida0.jpg"
     },
     {
       "titulo": "Polícia investiga como roda de ônibus do BRT se soltou e matou mulher",
@@ -79,47 +119,7 @@
     {
       "titulo": "VÍDEOS: EPTV 2 Sul de Minas de segunda-feira, 17 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/wIZ9cA8dq1WyFjJkGmEoYWXxudc=/s01.video.glbimg.com/deo/vi/62/69/14876962"
-    },
-    {
-      "titulo": "De R$ 215 mil a R$ 65,1 milhões: veja o patrimônio dos candidatos ao governo de Goiás declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/VfpCcGCITMraEEpq53mKt6EdLw8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/1/llyh0uQBO2yStkltGZ0Q/g1-foto-5-.jpg"
-    },
-    {
-      "titulo": "Rapaz de 18 anos é preso suspeito de esfaquear homem por ciúmes da ex-namorada em Teodoro Sampaio",
-      "imagem": "https://s2-g1.glbimg.com/ARVREXqf4F_QVnOXcwcnRTmS7Y0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/1/iyhV4cSQeBRAxR9rZ3kw/apreensao-16-.png"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Bahia",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Subaé",
-      "imagem": null
-    },
-    {
-      "titulo": "Helio Gurovitz lança no Rio 'Meia-palavra', seu primeiro romance",
-      "imagem": "https://s2-g1.glbimg.com/atDB-u0TfXtK0YLGp8-3036ejLo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/r/xMV7JGTyum7ojFkKLVow/gnews-livro-helio-frame-98354.jpeg"
-    },
-    {
-      "titulo": "Caso Jennifer: suspeitos de matar jovem de 18 anos teriam feito 'pacto de silêncio', diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/78YHUqFRf5wOup2bIisbf5cBUjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/K/3AnpA4TsSJJEqBFKs2hQ/jovem-1-.jpg"
-    },
-    {
-      "titulo": "Laudo revela causa da morte de estudante de biologia assassinada pelo namorado em SC",
-      "imagem": "https://s2-g1.glbimg.com/Qn0Bi1oQOb-ZV7YqBKgCPfEO-Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/G/EBCqqRTBilZnZRd1Y7LA/joviana-e-jose.jpg"
-    },
-    {
-      "titulo": "Famílias esperam horas por liberação de corpos no IML de Nova Iguaçu: 'Descaso'",
-      "imagem": "https://s2-g1.glbimg.com/ybAPb12Fidvs7ulwu7EGFw8keYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/k/Z/NXM4wwR0AOB7kU4OusIw/rj1-iml.jpeg"
-    },
-    {
-      "titulo": "Caiado troca de marqueteiro após início da campanha",
-      "imagem": "https://s2-g1.glbimg.com/-0Kg9Hlu2C7vxHCCLawgr8LP0p0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/w/Y7Q6DYTHa7vq2xDOFDig/tn220260812044.jpg"
-    },
-    {
-      "titulo": "Ruas estão 'sumindo' no Complexo do Alemão para impedir vigília de drones; veja imagens",
-      "imagem": "https://s2-g1.glbimg.com/5SF-S6MFq8zMRRr9i9eEv1ELjU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/B/M1fAUoSKyClv0wP2VuJA/rj2-limpo-20260817-1830-frame-69524.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-17T23:18:52.351Z"
+  "atualizadoEm": "2026-08-17T23:45:33.737Z"
 }
