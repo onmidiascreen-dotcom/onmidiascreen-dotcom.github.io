@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Juristas veem risco a sigilo da fonte em decisão de Moraes",
+      "imagem": null
+    },
+    {
+      "titulo": "Lucas de Aragão: Não há negociação política para câmbio, juro e inflação",
+      "imagem": null
+    },
+    {
       "titulo": "Tumulto em templo deixa ao menos seis mortos e vários feridos na Índia",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Luciano Huck &#8220;desaparece&#8221; após tecido cair nele ao vivo; confira",
       "imagem": null
-    },
-    {
-      "titulo": "Nova onda de calor deve atingir o Brasil nos próximos dias; veja previsão",
-      "imagem": null
-    },
-    {
-      "titulo": "Candidatos ao governo de Minas chegam para o primeiro debate eleitoral",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-17T05:49:25.986Z"
+  "atualizadoEm": "2026-08-17T06:45:49.989Z"
 }
