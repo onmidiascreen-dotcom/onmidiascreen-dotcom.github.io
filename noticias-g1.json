@@ -1,6 +1,46 @@
 {
   "noticias": [
     {
+      "titulo": "Os 5 melhores shows do Rock in Rio nos últimos 15 anos",
+      "imagem": "https://s2-g1.glbimg.com/h8MG-6JVeLF8NimW9FKoNJPVH-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/N/l/6xyKGnQzyUyXgd4SxObw/ludmilla-palco-sunset-rock-in-rio-2022.jpg"
+    },
+    {
+      "titulo": "Veteranos da dramaturgia retornam à TV em 'Por Você'",
+      "imagem": "https://s2-g1.glbimg.com/JV836x5Lrld9sl7c8ns3iB-kcso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/W/0t2YSqTviuaRcBVLpJEg/montagem-por-vc-2.jpg"
+    },
+    {
+      "titulo": "De 'liberou geral' a objeto de desejo: camping da Festa do Peão de Barretos vira espaço disputado por artistas e público",
+      "imagem": "https://s2-g1.glbimg.com/L6KdGoruWee1IR5d0M0hJgNYP-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/D/j4KDBrRp2J3MDyjsrhsg/dsc-0301.jpg"
+    },
+    {
+      "titulo": "Emprego: veja as vagas disponíveis em Petrolina e Salgueiro",
+      "imagem": "https://s2-g1.glbimg.com/UOOkTlIZMb7oKCRvbCs5o56h2ok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/C/fWQyfERe6aJDutv1MTuQ/copia-de-copia-de-copia-de-copia-de-mcs.jpg"
+    },
+    {
+      "titulo": "Sinais de trânsito apagados: furtos de cabos já custaram R$ 26,6 milhões ao Rio desde 2021",
+      "imagem": "https://s2-g1.glbimg.com/6brF8uDBBkS8ntq3-MZ4TpLsrpw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/I/38fVEbRxKoh7zeTcuKbg/rj1-limpo-20260805-1115-frame-121608.jpeg"
+    },
+    {
+      "titulo": "Confira concursos e vagas de emprego no Ceará com inscrições abertas nesta segunda-feira (17)",
+      "imagem": "https://s2-g1.glbimg.com/l_atNoOvDwEdPyTKEcC4KvsZjUo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/Y/LS99sWSgmJi1zfIRN7Bw/veja-vagas-no-ceara-com-inscricoes-abertas-a-partir-desta-segunda-6-.jpg"
+    },
+    {
+      "titulo": "Rede de restaurantes abre 80 vagas de emprego em Uberaba, MG; veja como se inscrever",
+      "imagem": "https://s2-g1.glbimg.com/tkDg-TNESFm0wWLCVIUNaJBfmho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/7/yACTzmTGuaGdNOz0YFeQ/outback.png"
+    },
+    {
+      "titulo": "Suspeito de envolvimento em queda de homem do 14º andar no Paraná pediu pizza após agressões, diz delegado",
+      "imagem": "https://s2-g1.glbimg.com/IXQ_h8xwGsqawLlF4o5Mosy76Hw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/C/MYzo2wT3KZPOATTIwNvg/janela3.png"
+    },
+    {
+      "titulo": "'Sonhava ser oficial e construir uma família': quem era PM que morreu após ser baleado na cabeça durante abordagem no ES",
+      "imagem": "https://s2-g1.glbimg.com/sMwlPpLD5bH6eXCmYNEFw0LE9g8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/P/wYOsSSSBqsg3RaMyqAeg/thumb-fotos-30-.jpg"
+    },
+    {
+      "titulo": "Após estragos e morte por causa da chuva, SC terá sol e calor com máximas que passam de 32°C",
+      "imagem": "https://s2-g1.glbimg.com/HIZJ0TXeNSaxzWaGjPDi2KOsAhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/KmbEpNSC2xQDu9fv8xvg/deslizamento-de-terra-atinge-casa-em-santo-amaro-da-imperatriz.jpg"
+    },
+    {
       "titulo": "Previsão do tempo hoje para Brasília (DF): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
       "imagem": "https://s2-g1.glbimg.com/vlqPkG_nvbU3nHJSNtVnP3PTc28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/Q/FBAR3VR0SbXVY8GStbgg/previsao-tempo-bras-lia-20260817-030640.jpeg"
     },
@@ -79,47 +119,7 @@
     {
       "titulo": "Previsão do tempo hoje para Jaboatão dos Guararapes (PE): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
       "imagem": "https://s2-g1.glbimg.com/y29lP5BI5QWcxx67K6wzjwtr8qM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/E/oCCCH5SGaQA0krwiPAZg/previsao-tempo-jaboat-o-dos-guararapes-20260817-030115.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Cabo de Santo Agostinho (PE): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
-      "imagem": "https://s2-g1.glbimg.com/K6O5y52eoRcJtFnNzAP83UBzVaI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/9/zfq2JtQfSymym7rO8nBw/previsao-tempo-cabo-de-santo-agostinho-20260817-030059.jpeg"
-    },
-    {
-      "titulo": "Usar o ChatGPT prejudica o cérebro? O que sabemos, e o que não sabemos, sobre a 'dívida cognitiva'",
-      "imagem": "https://s2-g1.glbimg.com/_6ZyiVx0ZFH9B48kgd5dJeReQnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/2QDIvUTmuV4oP2QYlmqg/ap26105015984564.jpg"
-    },
-    {
-      "titulo": "Série especial do Jornal Hoje discute o uso de IA nas eleições e o combate a desinformação",
-      "imagem": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
-    },
-    {
-      "titulo": "Os riscos do remédio para insônia mais consumido no Brasil",
-      "imagem": "https://s2-g1.glbimg.com/eHAbAgZi4NQMcpe8Vi08XNd5JIM=/s.glbimg.com/jo/g1/f/original/2013/01/11/sleeping_pills-fda_fran.jpg"
-    },
-    {
-      "titulo": "'Super El Niño' vem aí: saiba escolher o ar-condicionado antes da alta da temperatura (e dos preços)",
-      "imagem": "https://s2-g1.glbimg.com/qoJodkEILCa7J2miq3hL6ZU6Eek=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/g/GtjGKpTaa7LzWiRlWaWA/620.jpg"
-    },
-    {
-      "titulo": "Alimentos gordurosos aumentam risco de câncer colorretal",
-      "imagem": "https://s2-g1.glbimg.com/NRc5fJQVLAvSDUj9ewN6_-i5UTg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/y/Cic6fuQgiBoCbWBKZ9tA/alimentos-e-aditivos-ultraprocessados.jpg"
-    },
-    {
-      "titulo": "Sarampo: morte, inflamação no cérebro e infecções; entenda os riscos da doença que pode ser evitada com vacinação",
-      "imagem": "https://s2-g1.glbimg.com/OFV5J0quoawijHJvnSY3om5jwoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/X/tII8BIQHWkdeDy3jjesQ/adobestock-198035521.jpeg"
-    },
-    {
-      "titulo": "De uma portinha a um bar de três andares: a história de um negócio que virou símbolo da Lapa",
-      "imagem": "https://s2-g1.glbimg.com/SR7ngJ_Qh0TSD2d3gJvRmjpsWFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/M/OsT25nTpmD2hXif0VN9g/captura-de-tela-2026-07-06-105528.png"
-    },
-    {
-      "titulo": "Mulher que sobreviveu a 17 facadas do ex em SP fala sobre culpa e recomeço: ‘Cada um carrega o que é seu’",
-      "imagem": "https://s2-g1.glbimg.com/V9-b1VAlhlRNU3o6fIlE1KpTQFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/M/605fYfTbeMFx1tnBA3NA/chatgpt-image-10-de-ago.-de-2026-15-42-50.png"
-    },
-    {
-      "titulo": "6ª Bienal Internacional do Livro de Brasília começa nesta segunda com entrada gratuita",
-      "imagem": "https://s2-g1.glbimg.com/J-SroK1h62LfE5L5EKZSRSAoWhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/r/hMYQRRToeFhbdrmn2D5Q/bienal.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-17T06:45:50.970Z"
+  "atualizadoEm": "2026-08-17T07:49:20.596Z"
 }
