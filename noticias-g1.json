@@ -1,8 +1,80 @@
 {
   "noticias": [
     {
-      "titulo": "Polícia faz operação contra traficantes acusados de torturar moradores da Zona Norte do Rio",
+      "titulo": "Danilo Pinheiro (PCO) declara R$ 215 mil ao TSE; vice informa não ter bens a declarar",
+      "imagem": "https://s2-g1.glbimg.com/1pQ_RnrGk5r1w8I91a2vSjDLils=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/y/VA7X3UT4S3f8AvZxXHrw/danilo-pinheiro-e-maria-joana-candidatos-pco.jpg"
+    },
+    {
+      "titulo": "Quatro feridos em acidente com ônibus que matou 10 na Serra de Petrópolis são levados para hospital em BH",
       "imagem": null
+    },
+    {
+      "titulo": "Anvisa aprova registro de canetas emagrecedoras brasileiras como 'genérico'",
+      "imagem": null
+    },
+    {
+      "titulo": "Vídeos do g1 e TV Bahia - segunda-feira, 17 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/q_ajKJohbgHFFdpUct4-mSHsesU=/s01.video.glbimg.com/deo/vi/06/41/14874106"
+    },
+    {
+      "titulo": "Assista ao Bom Dia Amapá desta segunda (17)",
+      "imagem": "https://s2-g1.glbimg.com/aNgPL1gZDoV03IUhylVHhrMswYM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/O/6/RLTusCTLeM6cAcmSYEeg/whatsapp-image-2025-12-02-at-06.59.26.jpeg"
+    },
+    {
+      "titulo": "Anvisa proíbe suplementos alimentares por substâncias irregulares e falhas na fabricação; veja marcas",
+      "imagem": "https://s2-g1.glbimg.com/vazLsk_K_c7lRdBaeOoetQanA4U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/l/BsZIs5QhqQtfhwNkV7Dw/adobestock-305770488.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: Bom Dia Goiás desta segunda-feira,  17 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/QThZbL5x5O9uF9CW2snuyHHp3Sc=/s01.video.glbimg.com/deo/vi/21/41/14874121"
+    },
+    {
+      "titulo": "Dupla é presa após ser flagrada invadindo e furtando comércio pelo telhado em Teresina",
+      "imagem": "https://s2-g1.glbimg.com/JUsvHgNXgK5mlb3aFFbHo-eKKIg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/h9X2XGRVAo5xCJfXHr0w/edicao-imagens-g1-48-.jpg"
+    },
+    {
+      "titulo": "Europa enfrenta incêndios florestais: Bélgica, Grécia, Espanha, França e Portugal lutam contra o fogo",
+      "imagem": "https://s2-g1.glbimg.com/_5q9qJv7fhHQRhzYBw7eWmV0GmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/UeCFEdQC6gFTl3TfxDmQ/2026-08-17t084926z-492359182-rc280nacuv2c-rtrmadp-3-europe-weather-belgium-wildfire.jpg"
+    },
+    {
+      "titulo": "Filho de Carla Perez e Xanddy se casa em ilha particular na Bahia em cerimônia com o mesmo padre dos pais",
+      "imagem": "https://s2-g1.glbimg.com/q9mx8L3u6hx9MKy-l6xrMUiUdMw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/C/WRuh4oT5AevBSLvE1xCg/casamento-victor-alexandre.jpg"
+    },
+    {
+      "titulo": "Ouve, mas tem dificuldade para entender? Conheça o transtorno do processamento auditivo",
+      "imagem": "https://s2-g1.glbimg.com/z_osxNsovdwGHLi4sDgZfmmmfyI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/L/m2MPbSRxCgfPlWoGEQyA/bebe-grep-frame-at-2m31s.jpg"
+    },
+    {
+      "titulo": "Alto Tietê tem mais de 5 mil vagas de emprego nesta segunda-feira; confira lista",
+      "imagem": "https://s2-g1.glbimg.com/400CGRb3IS1onIokgRFpqIlz1rE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/b/6/I8PDSnTfma02XbDh6Xow/design-sem-nome-6-.png"
+    },
+    {
+      "titulo": "Vídeo mostra momento em que dentista é agredida por empresário da Faria Lima; vítima relata episódio: 'tentou me matar'",
+      "imagem": "https://s2-g1.glbimg.com/XtlGdeSLlgkQCO2Vo5W5KrenNnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Y/bDIEN6TMa20n4qkFvngw/captura-de-tela-2026-08-17-064234-1-.jpg"
+    },
+    {
+      "titulo": "Homem é morto a tiros e outro fica ferido, em João Pessoa",
+      "imagem": "https://s2-g1.glbimg.com/paQD7L4Wml23mHT0ubvHa3DOA1k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/d/YABckATbAWQc9YQLAvgA/colinashomicidiojp.jpg"
+    },
+    {
+      "titulo": "Tiroteio interrompe missa transmitida ao vivo em igreja na Bahia; padre manda fechar portas e tenta acalmar fiéis com oração",
+      "imagem": "https://s2-g1.glbimg.com/n5PpXvuAyOPkON8oLjQm2AG7nig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/z/EQ3QeeQR2PRSP1k5fKlg/foto-no-tamanho-home-11-.png"
+    },
+    {
+      "titulo": "Avô e neto morrem afogados durante pescaria em rio no Piauí",
+      "imagem": "https://s2-g1.glbimg.com/IvW7x_b_cMk_4Vg8lCOsqGUs0iY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Y/6RjGAVSiqhArUCg6D21g/whatsapp-image-2026-03-17-at-15.00.18.jpeg"
+    },
+    {
+      "titulo": "Chuva e granizo causam danos em 17 cidades do RS; confira a previsão do tempo",
+      "imagem": "https://s2-g1.glbimg.com/exv8k1Pn1q81M0mXkQanvYs5Q3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/S/S9IdkHTIuWyrumwrpUVg/g1-35-.jpg"
+    },
+    {
+      "titulo": "Trump manda reduzir exercícios militares com a Coreia do Sul e cita 'boa relação' com Kim Jong-un",
+      "imagem": "https://s2-g1.glbimg.com/JDupy2e0qnii3cesU00qemQp91U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/7/5ktCyjRKiYBXEz0Lz71g/2026-08-16t220034z-841932401-rc2wzmauq7a1-rtrmadp-3-usa-trump.jpg"
+    },
+    {
+      "titulo": "Polícia faz operação contra traficantes acusados de torturar moradores da Zona Norte do Rio",
+      "imagem": "https://s2-g1.glbimg.com/z7Y6nAsyrNUfbI36VWQVzNVe3u8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/n/GOOPA4R9uH1kP9ivHzeA/bdrj-quitungo1.jpeg"
     },
     {
       "titulo": "AO VIVO: assista à programação da NSC TV",
@@ -47,79 +119,7 @@
     {
       "titulo": "Brasileiro segue detido há mais de 15 dias em embarcação na Islândia após missão contra caça de baleias",
       "imagem": "https://s2-g1.glbimg.com/2kj4gEU4YjHQ8c-eCDGC3z17Tsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/M/xe6F9UQa2cKnvCL86juQ/detido-islandia.jpg"
-    },
-    {
-      "titulo": "Advogado sequestrado pelo PCC pediu socorro a cliente em 'tribunal do crime', mas foi ignorado",
-      "imagem": "https://s2-g1.glbimg.com/pG_biBFLjs1YUJJU4NqaUnb_3FU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/e/kpgdzwRYAuaZM4Q5rfNg/inserir-um-titulo-2026-08-15t115424.089.jpg"
-    },
-    {
-      "titulo": "Estudo no RS tenta entender quais adolescentes têm maior risco de depressão; saiba como funciona",
-      "imagem": "https://s2-g1.glbimg.com/p1ZlA9jQiWJshxzAuLzck1UN79I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/I/E5iAoHSI6ncmGBuhA08w/g1-32-.jpg"
-    },
-    {
-      "titulo": "Novo golpe do Desenrola exibe CPF e dados da vítima para cobrar acordo por PIX; saiba como se proteger",
-      "imagem": "https://s2-g1.glbimg.com/DHNb5OaDrG-IvqcIF-pZHHIpX3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/Y/jB4AF9QjSVcFM46UBkZA/fta20240520073-1-.jpg"
-    },
-    {
-      "titulo": "Conheça segredo de receita de pão de queijo que virou atração em cafeteria com jeitinho de casa de vó no interior de MG",
-      "imagem": "https://s2-g1.glbimg.com/RRqadBh7KfM85CauP0-yanUAI1k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/x/iBYk6CTK275avUKhex9Q/4.png"
-    },
-    {
-      "titulo": "Barbalha celebra 180 anos com o desafio de manter história e memória preservadas no Cariri",
-      "imagem": "https://s2-g1.glbimg.com/lTRwnEkfSJncNh8SuaP1X-nLMHQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/6/ApP2AcTDC2BIrDM6PGew/solar-maria-olimpia.jpg"
-    },
-    {
-      "titulo": "PAT de São José dos Campos abre semana com 620 vagas de emprego; saiba como se candidatar",
-      "imagem": "https://s2-g1.glbimg.com/DplCEzRSDhbzOEWiqdBXeovG060=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/q/SsGRCZS1uhKwwMJbUezQ/20231030172318654002a6abd0c.jpg"
-    },
-    {
-      "titulo": "Menino de 10 anos baleado durante tentativa de roubo em SP será enterrado nesta segunda",
-      "imagem": "https://s2-g1.glbimg.com/F0invi6uE6YIQHyimAzKX9cJNno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/1/FHUFzzTzKJDV22Y2XXyA/morte-zona-norte-sp.jpg"
-    },
-    {
-      "titulo": "A vida em El Salvador 4 anos sob Bukele: 'O medo agora é outro'",
-      "imagem": "https://s2-g1.glbimg.com/i8LLa_QoHkK9xvjPAg4_Mg2vNyg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/x/YnuraARbW5AuPFP95E1A/3ba87130-95b5-11f1-a7ab-8b30adf0800a.jpg.webp"
-    },
-    {
-      "titulo": "Os 5 melhores shows do Rock in Rio nos últimos 15 anos",
-      "imagem": "https://s2-g1.glbimg.com/h8MG-6JVeLF8NimW9FKoNJPVH-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/N/l/6xyKGnQzyUyXgd4SxObw/ludmilla-palco-sunset-rock-in-rio-2022.jpg"
-    },
-    {
-      "titulo": "Veteranos da dramaturgia retornam à TV em 'Por Você'",
-      "imagem": "https://s2-g1.glbimg.com/JV836x5Lrld9sl7c8ns3iB-kcso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/W/0t2YSqTviuaRcBVLpJEg/montagem-por-vc-2.jpg"
-    },
-    {
-      "titulo": "De 'liberou geral' a objeto de desejo: camping da Festa do Peão de Barretos vira espaço disputado por artistas e público",
-      "imagem": "https://s2-g1.glbimg.com/L6KdGoruWee1IR5d0M0hJgNYP-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/D/j4KDBrRp2J3MDyjsrhsg/dsc-0301.jpg"
-    },
-    {
-      "titulo": "Emprego: veja as vagas disponíveis em Petrolina e Salgueiro",
-      "imagem": "https://s2-g1.glbimg.com/UOOkTlIZMb7oKCRvbCs5o56h2ok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/C/fWQyfERe6aJDutv1MTuQ/copia-de-copia-de-copia-de-copia-de-mcs.jpg"
-    },
-    {
-      "titulo": "Sinais de trânsito apagados: furtos de cabos já custaram R$ 26,6 milhões ao Rio desde 2021",
-      "imagem": "https://s2-g1.glbimg.com/6brF8uDBBkS8ntq3-MZ4TpLsrpw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/I/38fVEbRxKoh7zeTcuKbg/rj1-limpo-20260805-1115-frame-121608.jpeg"
-    },
-    {
-      "titulo": "Confira concursos e vagas de emprego no Ceará com inscrições abertas nesta segunda-feira (17)",
-      "imagem": "https://s2-g1.glbimg.com/l_atNoOvDwEdPyTKEcC4KvsZjUo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/Y/LS99sWSgmJi1zfIRN7Bw/veja-vagas-no-ceara-com-inscricoes-abertas-a-partir-desta-segunda-6-.jpg"
-    },
-    {
-      "titulo": "Rede de restaurantes abre 80 vagas de emprego em Uberaba, MG; veja como se inscrever",
-      "imagem": "https://s2-g1.glbimg.com/tkDg-TNESFm0wWLCVIUNaJBfmho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/7/yACTzmTGuaGdNOz0YFeQ/outback.png"
-    },
-    {
-      "titulo": "Suspeito de envolvimento em queda de homem do 14º andar no Paraná pediu pizza após agressões, diz delegado",
-      "imagem": "https://s2-g1.glbimg.com/IXQ_h8xwGsqawLlF4o5Mosy76Hw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/C/MYzo2wT3KZPOATTIwNvg/janela3.png"
-    },
-    {
-      "titulo": "'Sonhava ser oficial e construir uma família': quem era PM que morreu após ser baleado na cabeça durante abordagem no ES",
-      "imagem": "https://s2-g1.glbimg.com/sMwlPpLD5bH6eXCmYNEFw0LE9g8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/P/wYOsSSSBqsg3RaMyqAeg/thumb-fotos-30-.jpg"
-    },
-    {
-      "titulo": "Após estragos e morte por causa da chuva, SC terá sol e calor com máximas que passam de 30°C",
-      "imagem": "https://s2-g1.glbimg.com/HIZJ0TXeNSaxzWaGjPDi2KOsAhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/KmbEpNSC2xQDu9fv8xvg/deslizamento-de-terra-atinge-casa-em-santo-amaro-da-imperatriz.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-17T09:23:28.170Z"
+  "atualizadoEm": "2026-08-17T10:04:17.784Z"
 }

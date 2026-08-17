@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Copacol cria cooperativa de crédito para associados",
+      "imagem": null
+    },
+    {
       "titulo": "Casas Bahia pede recuperação judicial após confirmar fechamento de lojas",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Lucas de Aragão: Não há negociação política para câmbio, juro e inflação",
       "imagem": null
-    },
-    {
-      "titulo": "Tumulto em templo deixa ao menos seis mortos e vários feridos na Índia",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-17T09:23:26.826Z"
+  "atualizadoEm": "2026-08-17T10:04:16.402Z"
 }
