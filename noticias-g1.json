@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Assista ao BATV",
+      "imagem": null
+    },
+    {
+      "titulo": "Em evento com investidores em SP, Renan, Caiado e Zema defendem corte fiscal e combate ao crime organizado",
+      "imagem": null
+    },
+    {
+      "titulo": "Assista ao BATV da TV Subaé",
+      "imagem": null
+    },
+    {
+      "titulo": "AO VIVO: Assista ao GR2",
+      "imagem": "https://s2-g1.glbimg.com/75nYMfj43UHs89N4E4HyaPWBWVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/A/n9BXJQSDe6xbPnD8Lcbg/img-20260620-115332373-hdr.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Motorista invade contramão, arrasta estrutura e abandona carro após batida em SC; polícia investiga",
+      "imagem": "https://s2-g1.glbimg.com/q965nCwWjDTbF4T1uoQ66UMzRRc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/d/SuZ3pzQayYxfGfVz8Ucg/image-7-.png"
+    },
+    {
+      "titulo": "Funcionário de escola é preso por suspeita de assédio contra alunos em Volta Redonda",
+      "imagem": "https://s2-g1.glbimg.com/mOJxOADYiF_IwOI9ddkqYSOwoHQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/P/diRCjtRKyX0rC4gZ0x5g/whatsapp-image-2023-10-27-at-17.45.25.jpeg"
+    },
+    {
+      "titulo": "'Carinhoso e muito inteligente': saiba quem era o professor universitário morto durante chacina em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/X72pu_1_vq68C1RcUaKvWxu_gx4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/l/Yq009NQD2QIbLuxdnG7A/g1-morto-chacina.jpg"
+    },
+    {
+      "titulo": "EPTV 2 Piracicaba ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "VetMóvel leva atendimento veterinário gratuito aos bairros Damas e Novo Mondubim, em Fortaleza",
+      "imagem": "https://s2-g1.glbimg.com/oTzOsp-xtLxo37Ye8ywbFNK72xs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/j/ELFlZCRBupjNE1PbyRow/foto-1.jpg"
+    },
+    {
+      "titulo": "MP Eleitoral se manifestou a favor de liminar que permitiu filiação de Marçal, mas apontou dúvidas e pediu documentos originais",
+      "imagem": "https://s2-g1.glbimg.com/rV-nx8jQ-B_n1zeE-_6z0PgZjAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/L/vqCnYsQrO6deB6nrOXyw/whatsapp-image-2026-08-15-at-20.23.46-1-.jpeg"
+    },
+    {
+      "titulo": "Prefeitura de Serrinha amplia vacinação antirrábica canina para zona rural",
+      "imagem": "https://s2-g1.glbimg.com/_RJwixz0VmGhl1Pg5FukpViGuPA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/Z/qwllRYRHmgmlcIAJ8gqg/pets.jpg"
+    },
+    {
+      "titulo": "Dr. Furlan faz caminhadas em Macapá e Santana no segundo dia de campanha ao governo do Amapá",
+      "imagem": "https://s2-g1.glbimg.com/NIWGvLyKUmpTrRBE47_ghHdBvAY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/U/xAhw9dSXWqVEO5EnDBaQ/whatsapp-image-2026-08-17-at-18.21.02.jpeg"
+    },
+    {
+      "titulo": "Como ex-comunista pode fazer Alemanha ter 1º governador de ultradireita após a 2ª Guerra Mundial",
+      "imagem": "https://s2-g1.glbimg.com/d8fH9MUsQh8hjxiyac6UuPbG9BM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/0/ibB7GHTyKVAAl1w6UUYw/alemanha.jpg"
+    },
+    {
+      "titulo": "Suspeito de participar de troca de tiros que matou policial militar na Grande João Pessoa é transferido para a carceragem",
+      "imagem": "https://s2-g1.glbimg.com/OIaMR3aFe7hq5MOXQIyq-qI9sHA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/H/n8Pz2yR7CSKBbzqlBUGg/tiroteio.png"
+    },
+    {
+      "titulo": "Seis mortos em acidente entre carro e caminhão na TO-010 voltavam de passeio em balneário, diz secretária",
+      "imagem": "https://s2-g1.glbimg.com/BNZGLxhpmZmRgtNXi_FlBbUw5xw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/q/GYdKMhQLyEOogONrCLYg/whatsapp-image-2026-08-17-at-08.19.06.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: passageiro registra Pedra Azul cercada por 'cobertor' de nuvens durante voo no ES; 'Mais bonito do Brasil'",
+      "imagem": "https://s2-g1.glbimg.com/0AOXiplY6n09c8mHqKev-kKKF2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/Y/ErkBdbTHStxFAGSbm0EQ/thumb-fotos-2026-08-17t180507.578.jpg"
+    },
+    {
+      "titulo": "Seca severa aumenta preços da carne em até 28% e causa falta do produto em açougues no Acre",
+      "imagem": "https://s2-g1.glbimg.com/LNNXw171e1whR5pAtK9wWwCV4fs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/S/lm9lVQTIGA8v3DQhLKhQ/whatsapp-image-2023-09-12-at-10.19.09-scaled.jpeg"
+    },
+    {
+      "titulo": "Mulher é presa suspeita de aplicar golpes na venda de piscinas de fibra no extremo sul da Bahia",
+      "imagem": "https://s2-g1.glbimg.com/jdsCDXVbU70XDM2Q4Lm774xmhxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/m/3iOV8uRGCV9cHVRZCudw/design-sem-nome-2026-08-17t181748.082.png"
+    },
+    {
+      "titulo": "Mulher é detida após acidente que matou motociclista na Bahia e liberada após pagar fiança",
+      "imagem": "https://s2-g1.glbimg.com/IGfAJp9zK5o36XWqwoxGUikgHq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/k/Q02WYBQiCAB3kxmjAcOg/foto-no-tamanho-home-5-.png"
+    },
+    {
+      "titulo": "Pescador é multado em R$ 2 mil por usar equipamento proibido no Rio Sorocaba em Tatuí",
+      "imagem": "https://s2-g1.glbimg.com/nJkO3ej5_nxj9rwLdbrzzrxlMOU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/2/FbrhgRQR2Uk7SkvTzlBw/whatsapp-image-2026-08-17-at-14.42.37.jpeg"
+    },
+    {
+      "titulo": "Família procura por brasileira desaparecida há mais de 40 dias na Espanha",
+      "imagem": "https://s2-g1.glbimg.com/woSJFKFE9jTHzzzMfqiM8rXz8Fc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/2/SBjYKvRpKtLLQFgbt4DQ/fiscalizacao-esgoto-semam.jpg"
+    },
+    {
       "titulo": "UNIFEB ganha destaque nacional com publicações sobre avanços no setor florestal",
       "imagem": "https://s2-g1.glbimg.com/hX5RO3fVRMi6E0py_FXowzGZ1HA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/W/j1tupJRCG5fqdpHh62Qw/foto-1.jpg"
     },
@@ -33,93 +117,9 @@
       "imagem": "https://s2-g1.glbimg.com/sq-o-QeL5go0sJWV1-MPYzM9GvA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/r/1mOZMvQNK2WSu0kuOT7Q/novo-projeto-2026-08-17t125939.674.png"
     },
     {
-      "titulo": "Losartana: Campinas compra 20,4 milhões de comprimidos para pressão alta após atraso de fornecedor",
+      "titulo": "Remédio para pressão alta some dos postinhos e Campinas compra 20,4 milhões de comprimidos após atraso de fornecedor",
       "imagem": "https://s2-g1.glbimg.com/rLxcxE9et19ZUhian4ruMMwW-Rc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/a/f/GkKPDvTa6mNYhqdnPoVw/losartana-jpeg.jpg"
-    },
-    {
-      "titulo": "Vacas são encontradas mortas em fazenda e dono suspeita de envenenamento em MG",
-      "imagem": "https://s2-g1.glbimg.com/ZOgFsEjRx3h_KkK9dpkE_dOJXgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/P/QpOpz9Rv6ZDAUCDR2JUw/jl-tm-37-.jpg"
-    },
-    {
-      "titulo": "Homem que matou jovem em emboscada é condenado a 22 anos de prisão em MG",
-      "imagem": "https://s2-g1.glbimg.com/LUGihMzlQQhAScSYIzNEZWx2tAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/B/vqD25eTYANpZjJdGtdBQ/julgamento-2.jpg"
-    },
-    {
-      "titulo": "Projetos Integradores transformam conhecimento em prática no UNIFEB",
-      "imagem": "https://s2-g1.glbimg.com/PFZeuOft3NVezSTWDtlsU6JvvnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/B/nLoZHGRRy5HX9zbU03MA/foto-1.jpg"
-    },
-    {
-      "titulo": "Concerto Travessias promove encontro cultural entre Brasil e China na Uefs",
-      "imagem": "https://s2-g1.glbimg.com/WcTvD0OHGz42l9cQHf6jdc2DJ_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/G/Ob0MzDRHG74RUTBGiZvw/uefsfotodivulgacao.png"
-    },
-    {
-      "titulo": "Grupo Casas Bahia fecha duas lojas em Juiz de Fora; empresa pede recuperação judicial",
-      "imagem": "https://s2-g1.glbimg.com/qtgPaYUdqTExhTZPUG5rarJjIho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/h/L0P6MHQTSBxeNFZm2VWQ/casas-bahia.png"
-    },
-    {
-      "titulo": "Homem é preso por tentativa de feminicídio em Ouricuri",
-      "imagem": "https://s2-g1.glbimg.com/VzzZQE3XzqNued0tUnIQHLVXaGo=/s.glbimg.com/jo/g1/f/original/2018/09/14/delegacia_ouricuri.jpg"
-    },
-    {
-      "titulo": "Ibama suspende temporariamente recebimento de animais silvestres no Centro de Triagem de Belo Horizonte",
-      "imagem": "https://s2-g1.glbimg.com/jrc4b2FjJQScVxpnTE48eQuvYcA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/Q/YOaO5dSomtTxYiqP8aoQ/whatsapp-image-2026-02-02-at-18.54.16-1-.jpeg"
-    },
-    {
-      "titulo": "Moradora grava arara-canindé abrindo coco e bebendo a água em quintal de casa no interior de SP; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/n-g_EWjdUP5cvmzEvHQNaYDdTSI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/B/RB5JgCSfCuGVAmc9HZEA/14795582-96-.jpg"
-    },
-    {
-      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
-    },
-    {
-      "titulo": "Homem é preso por monitorar jovem antes de assassinato em distribuidora em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/8FLLhw_49rUTAgNpJjHf78G9mos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/R/phnU0ASLimt6lLXFgQBA/vitima-1-.jpg"
-    },
-    {
-      "titulo": "PT não desistiu do apoio do Centrão no primeiro turno, mesmo com neutralidade dos principais partidos",
-      "imagem": "https://s2-g1.glbimg.com/hM1ywBAo3sbQ5S_betLhaDbJdOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/H/GBTE8uR06wqyiBoCJILw/enq20260801008.jpg"
-    },
-    {
-      "titulo": "De R$ 0 a R$ 1,7 milhão: veja o patrimônio dos candidatos ao governo do Ceará declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
-    },
-    {
-      "titulo": "Juliane Gamboa se une a Ivan Lins para exaltar força de mulher que denunciou a PM pelo assassinato do irmão",
-      "imagem": "https://s2-g1.glbimg.com/vnkUZh_-tFR44-rwj4dC9Oi0KUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/J/BrOmYaQuWXC7ixxkvcNg/julianegamboa-feat-ivanlins-foto-isabelaespindola-2-de-3-.jpg"
-    },
-    {
-      "titulo": "Alunas de Direito do UNIFEB participam de congresso jurídico em Brasília",
-      "imagem": "https://s2-g1.glbimg.com/oL7wBmZ-OhysQRBfcq1X3CtsyC4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/P/LtAgSqSRm3vDKyLSWGrg/foto-1.png"
-    },
-    {
-      "titulo": "Sequestro de empresário que morreu em acidente com suspeito no RS foi planejado, diz polícia; quatro são indiciados",
-      "imagem": "https://s2-g1.glbimg.com/7-zw2d02xJCsjUbpKEnK3uvGUGs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/s/GUXfn0Q8KpcV6V5dDjLw/g1-43-.jpg"
-    },
-    {
-      "titulo": "Ex-dirigente do São Paulo, Marco Aurélio Cunha quebra cinco costelas após perseguir assaltante e cair de escada",
-      "imagem": "https://s2-g1.glbimg.com/FUjDNzWF48sQ3YhCyoKi2SE1UEM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/u/zspMXBSEagZ5K7mafr5g/captura-de-tela-2026-03-29-204345.png"
-    },
-    {
-      "titulo": "Farmácia é furtada pela 7ª vez em um ano no Centro de Campos; prejuízo chega a R$ 40 mil",
-      "imagem": "https://s2-g1.glbimg.com/R4D8qXyB5f9I9ywYuK9j6nhotuI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/L/JgvZyjQwqAYrYUwFpiBg/farmacia.jpg"
-    },
-    {
-      "titulo": "Novo luxo: a sofisticação que não precisa se anunciar",
-      "imagem": "https://s2-g1.glbimg.com/Yp0v8WhNhcbEVeNfqzaFRklSJlE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/0/I1lzyhS3AWVhpFUsRNJg/capa-suite-master-da-penthouse-do-taua.png"
-    },
-    {
-      "titulo": "Formação prática leva alunos do UNIFEB aos marcos do mercado financeiro",
-      "imagem": "https://s2-g1.glbimg.com/QSNGCtFRfgAQ82ZpqXIs659UVvk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/n/Ab4APZRVGxV4M8NDow4A/foto-1.png"
-    },
-    {
-      "titulo": "Raposa-do-campo é resgatada após ser atropelada em rodovia de Sorocaba; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/dttbgHi-nqANCMv4JOPPU_tM8w4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/v/9zls1WRW6AEcZnz9Oghg/whatsapp-image-2026-08-06-at-10.59.06-1-.jpg"
-    },
-    {
-      "titulo": "Contra queimadas na seca, 13 cidades do oeste do Pará debatem alternativas ao uso do fogo",
-      "imagem": "https://s2-g1.glbimg.com/R41Y3UCmbYZBRlTdLrq5K2W4EXw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/R/HWLDRTQ9S8y28Vj1afjQ/whatsapp-image-2026-08-17-at-17.10.34.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-17T21:21:43.961Z"
+  "atualizadoEm": "2026-08-17T21:49:26.156Z"
 }
