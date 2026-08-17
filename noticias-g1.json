@@ -1,6 +1,70 @@
 {
   "noticias": [
     {
+      "titulo": "Lava-louças pega fogo e provoca princípio de incêndio em Aracaju",
+      "imagem": "https://s2-g1.glbimg.com/k7CN5B0pTq2VfQ_gWBFOlEfBv3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/y/OOMvL5TwWx75YpTKm1Qw/principio-incendio-3-.jpeg"
+    },
+    {
+      "titulo": "PM é baleado na cabeça por policial de folga após discussão em Água Preta",
+      "imagem": "https://s2-g1.glbimg.com/jF9Bz-abemQQf9ieaSGWT6N0zqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/z/MAcYRPTlKeOI0BdjBgsw/ouvidas-caso-estupro-card-ne001615-ne1-7173-frame-135.jpeg"
+    },
+    {
+      "titulo": "Jovem morre após moto bater em poste na MS-166 em Antônio João",
+      "imagem": "https://s2-g1.glbimg.com/Auegzdp2g1SrKutOHkrg4oAzIOE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/G/wAaMwXQbmxpmH1k7A4lA/hjgvc.png"
+    },
+    {
+      "titulo": "Menina de 2 anos morre afogada em piscina na Zona da Mata de Pernambuco",
+      "imagem": "https://s2-g1.glbimg.com/AKzO2yqvJW1kKDJrust_5rpCR2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/F/VGgArISbiWiWMy443ZQA/menina.png"
+    },
+    {
+      "titulo": "Cetam abre 9,8 mil vagas em cursos gratuitos de qualificação profissional em Manaus; veja como se inscrever",
+      "imagem": "https://s2-g1.glbimg.com/jrtbafsTCd5Ne-pRe-BiEpefQLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/q/TBLAV9QQy3K944wE2XkQ/cursos-cetam-amazonas.avif"
+    },
+    {
+      "titulo": "Acidente entre moto e caminhão deixa dois mortos na BR-428 em Petrolina",
+      "imagem": "https://s2-g1.glbimg.com/VUzzd3mEcnQDR64HhsNhD2Pfpus=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/0/2tVLDERYOVYQLywkPLxg/whatsapp-image-2026-08-17-at-07.41.36.jpeg"
+    },
+    {
+      "titulo": "Homem morre atropelado por moto ao tentar atravessar rodovia no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/YsPtX5_Q0yxsbgUij4bX9SAbcJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/j/49pQL4S6SaAdGnBoOC8Q/acidente-moto.jpg"
+    },
+    {
+      "titulo": "Obras na Avenida do Povo avançam com troca de tubulação de décadas em Taubaté",
+      "imagem": "https://s2-g1.glbimg.com/UXdO-vgjHre4TOu4mq6xIuYSGxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/A/CkbmOQTPA19SaE9gKJWA/publi-obras-av-do-povo.jpeg"
+    },
+    {
+      "titulo": "Programa Asfalto Novo recupera mais de 150 ruas e avenidas em Pinda",
+      "imagem": "https://s2-g1.glbimg.com/GjXvSrsUdkMT5QP0oW-TiXb4vxk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/3/8AYCB7RkSPPNOlYHIsbA/1-interno-asfalto.png"
+    },
+    {
+      "titulo": "Petecão aumenta patrimônio em 3,1% desde 2022 e declara R$ 3,86 milhões em disputa ao Senado pelo Acre",
+      "imagem": "https://s2-g1.glbimg.com/ronP321SmAdPxNWbO02OgK3awv8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/l/m/ZHCpY7REiQaMR0bti8uA/whatsapp-image-2022-07-23-at-18.18.57.jpeg"
+    },
+    {
+      "titulo": "Jorge Viana declara R$ 5,5 milhões em bens na disputa pelo Senado; patrimônio é 52% maior que em 2022",
+      "imagem": "https://s2-g1.glbimg.com/YB3YwX-jsY35MlrC0NppiIJTm58=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/y/2rwXFAQASRBbACi5Gm1g/midia-de-distribuicao-g1.png"
+    },
+    {
+      "titulo": "Policiais penais são condenados por atear fogo, agredir e atirar contra detento em penitenciária de MG",
+      "imagem": "https://s2-g1.glbimg.com/Gaun_GWGoIh0CacoETU9WNNk08k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/LBNR9ZS9KfrNviY00gPw/design-sem-nome-2-.png"
+    },
+    {
+      "titulo": "‘Por Você’: nova novela das 7 se inspira em história real de mulher que acolheu seis crianças após assassinato do pai",
+      "imagem": "https://s2-g1.glbimg.com/9o4tjOKUGf5xyKF8aqaF6cO3b-k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/3/OolEaETHeJFXJdiccl5w/captura-de-tela-2026-08-17-074715.jpg"
+    },
+    {
+      "titulo": "Proibição de entrevistas a veículos de EUA e Israel amplia o isolamento do Irã",
+      "imagem": "https://s2-g1.glbimg.com/fjbKLB6IpRpcRSs8jaq0XrqMdUs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/U/jE8W40RL2LhHymHGev7g/novo-projeto.jpg"
+    },
+    {
+      "titulo": "Assista ao Bom Dia Vanguarda ao vivo no g1",
+      "imagem": "https://s2-g1.glbimg.com/eNmYHfknzzliwQJLsNi8qyf2BDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/r/qhMVONTJuDaQtelrYKjA/a64b4644-73da-40c5-b2f0-17b0321381f0.jpg"
+    },
+    {
+      "titulo": "Quem era a mulher achada morta com sinais de estrangulamento dentro de casa em Criciúma",
+      "imagem": "https://s2-g1.glbimg.com/UiSPtESw23EFwqzJG9Qs_H66FQM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/x/Ewm6waSPiE4iWbm06E2g/quem-era-a-mulher-achada-morta-com-sinais-de-estrangulamento-dentro-de-casa-em-criciuma.jpeg"
+    },
+    {
       "titulo": "Bispo de Goiás critica casamentos em clubes, praias e à beira de lago: 'Coração triste'",
       "imagem": "https://s2-g1.glbimg.com/elGrGjsFGSnoNisNqFBRy_f1vU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/I/gvTLiFRHSKbSLLGCZwCA/g1-foto-24-.jpg"
     },
@@ -9,7 +73,7 @@
       "imagem": "https://s2-g1.glbimg.com/vhLT6QxbwXVJgrk4rQ3pPm2QRpk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/7/JUErZcSnKRypMMTu836Q/whatsapp-image-2026-08-12-at-12.37.06.jpeg"
     },
     {
-      "titulo": "Homem é morto na Zona Sudoeste do Rio; PM é levado para Delegacia de Homicídios",
+      "titulo": "Policial penal é morto na Zona Sudoeste do Rio; PM é levado para Delegacia de Homicídios",
       "imagem": null
     },
     {
@@ -22,11 +86,11 @@
     },
     {
       "titulo": "‘Mamãe ama vocês duas daí do céu’, escreve mãe de gêmeas que morreram em cirurgia de separação em Ribeirão Preto, SP",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/abbCUS4_ooZTE-Qxz6kw95GGYJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/i/kLTjrnRWG9Wp7iXjV6iQ/molduras-g1-.png"
     },
     {
-      "titulo": "Adolescente é agredido com pedaço de madeira após bola bater em portão de casa na Bahia",
-      "imagem": null
+      "titulo": "VÍDEO: Adolescente é agredido com pedaço de madeira após bola bater em portão de casa na Bahia",
+      "imagem": "https://s2-g1.glbimg.com/wlejYttneg-QRSj5aZ3jJwmxjKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/D/eQ9pA6R2u7JM2ddfP1Iw/whatsapp-image-2026-08-17-at-07.36.04.jpeg"
     },
     {
       "titulo": "O que se sabe sobre a morte do sargento da PM agredido e baleado no litoral do PI",
@@ -55,71 +119,7 @@
     {
       "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
       "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Bom Dia Cidade - Ribeirão e Franca",
-      "imagem": "https://s2-g1.glbimg.com/5Db3pzqHzeCD6vSqEpxOFb9UvEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/v/FMd4ZuT8uJLkmIab6LLw/still0208-00000.jpg"
-    },
-    {
-      "titulo": "Amiga é barriga solidária de casal no interior de SP e caso estimula debate sobre vínculos após o parto; entenda",
-      "imagem": "https://s2-g1.glbimg.com/Ar9HamgOy73JI-l4uUitnIimxqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/M/FvPHWrSBAuaIR0kIM8wQ/whatsapp-image-2026-08-05-at-15.43.18.jpeg"
-    },
-    {
-      "titulo": "Competição desafia garçons em circuito com obstáculos no interior de SP: 'É uma homenagem', diz organizador",
-      "imagem": "https://s2-g1.glbimg.com/5wRyaqCazqpOBX0ay1_9eaTIizs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/j/I7MvLxRTCiPumBKLfBJg/captura-de-tela-2026-08-14-130515.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão nesta segunda-feira (17)",
-      "imagem": "https://s2-g1.glbimg.com/KeRnqKrvkaAlkDQuT5XEh2eB3Gw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/5/UGsIGHSJeekXKW9iU9zg/montagens-1920-x-1080-px-2026-08-14t083846.142.png"
-    },
-    {
-      "titulo": "FOTOS: mais de 400 amostras de fósseis de dinossauros, moluscos e mamíferos são achadas no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/R-0qnM8qfFvKrlp9C3S9XMz0Ldc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/FbqwqATACqZbj53K3ezw/1200x800-3-2026-08-14t150824.910.png"
-    },
-    {
-      "titulo": "Suspeito de matar homem de 57 anos a facada é identificado pela polícia em Santarém",
-      "imagem": "https://s2-g1.glbimg.com/zdrNSQwj6U3-eXrbdOqPuE1KkyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/z/EIjWr1SVmzl9CHT0Hk5g/whatsapp-image-2026-08-17-at-07.19.34.jpeg"
-    },
-    {
-      "titulo": "Com 271 kg, homem faz campanha para pagar hospital e fazer cirurgia bariátrica",
-      "imagem": "https://s2-g1.glbimg.com/biGjFRLw6Qm2pKb7pz2SwSltK8g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/A/W65Tx0RSSHZQufOIBOUw/design-sem-nome-2026-08-14t155651.623.png"
-    },
-    {
-      "titulo": "Porteiro é morto a tiros ao chegar para trabalhar em condomínio de Belford Roxo",
-      "imagem": "https://s2-g1.glbimg.com/EPTbGwYR49LPiFXeXENV6PR6NT4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/B/J1VvHuQEWXR6KAVprppw/cosme.jpeg"
-    },
-    {
-      "titulo": "Paraíba tem mais de 1,7 mil vagas de emprego oferecidas pelos Sines",
-      "imagem": "https://s2-g1.glbimg.com/wF4vGxFlNznk5CaVB4oqjVIquFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/P/4/2Gx8DdR0OlwdTTSxnBLA/sine-pb.jpg"
-    },
-    {
-      "titulo": "Afeto e superação: idoso de 80 anos conquista título de 'Mais longevo com síndrome de Down' do país",
-      "imagem": "https://s2-g1.glbimg.com/ekFKF6RKOwF0LC_WXlVjdUJg_io=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/5/o3ME26TIivZF3mAaBuWQ/edicao-g1-agenda-23-.png"
-    },
-    {
-      "titulo": "Prefeitura de SP abre inscrições para programas gratuitos de empreendedorismo, finanças e audiovisual; veja como participar",
-      "imagem": "https://s2-g1.glbimg.com/qdo9p_jvc_gEO6fEwY4kh89nEow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/6/r1m2rDTaW09rheGW2Hew/curso-ead.jpg"
-    },
-    {
-      "titulo": "10ª FliPassos começa nesta segunda com show de Ana Cañas e homenagem a chargistas; confira a programação",
-      "imagem": "https://s2-g1.glbimg.com/XkkYMxI5lFcyWKmsy3_zWo1dP_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/d/W4CpmNQiKqVjWF75zztg/anacanas2026.jpg"
-    },
-    {
-      "titulo": "Casas Bahia entra com pedido de recuperação judicial",
-      "imagem": "https://s2-g1.glbimg.com/6qTxGAranInbXogDZZwh44mUOoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/y/LAKKFXRvOnX0fqoMzRMA/foto-g1-1-.jpg"
-    },
-    {
-      "titulo": "Mãe reencontra bebê sequestrada no MS após sete dias de angústia: ‘Estou muito feliz’",
-      "imagem": "https://s2-g1.glbimg.com/X6QYe-Qu_SCY0It31DJ57ZLiCtw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/B/RMjvsTTnqNsAFPWkZZ4g/captura-de-tela-2026-08-17-072141.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-17T10:47:32.055Z"
+  "atualizadoEm": "2026-08-17T11:21:02.693Z"
 }
