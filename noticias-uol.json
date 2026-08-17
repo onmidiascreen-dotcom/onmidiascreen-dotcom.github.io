@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Candidato ao Governo do Paraná pelo PSD, Sandro Alex participa de sabatina Folha/UOL nesta segunda",
+      "imagem": null
+    },
+    {
+      "titulo": "'Jiraya' responsável por venda de anabolizantes é preso no Paraguai",
+      "imagem": null
+    },
+    {
       "titulo": "'Acho que desta vez ele tentou me matar', diz esposa agredida por empresário em SP",
       "imagem": null
     },
@@ -51,15 +59,7 @@
     {
       "titulo": "Candidatos ao governo de MG focam em crise fiscal do estado em 1º debate",
       "imagem": null
-    },
-    {
-      "titulo": "Debate em MG tem Cleitinho conciliador, Roscoe discreto e Simões, Kalil e Gabriel no ataque",
-      "imagem": null
-    },
-    {
-      "titulo": "Bebê é resgatada no Paraguai após ser sequestrada por casal no Brasil",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-17T02:39:09.378Z"
+  "atualizadoEm": "2026-08-17T03:32:26.564Z"
 }

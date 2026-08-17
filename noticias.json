@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Após descoberta da Petrobras e reunião com Alcolumbre, Lula vai ao Amapá",
+      "imagem": null
+    },
+    {
       "titulo": "Dívidas, impostos e privatizações marcam primeiro debate em Minas",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "João Fonseca iguala marca de Guga de 23 anos atrás e “repete” Pete Sampras",
       "imagem": null
-    },
-    {
-      "titulo": "Junno Andrade revela que Xuxa não o apoiou para &#8220;Dança dos Famosos&#8221;",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-17T02:39:09.233Z"
+  "atualizadoEm": "2026-08-17T03:32:26.811Z"
 }
