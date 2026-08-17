@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Lei do Bem: empresas do agro têm até 31 de agosto para reduzir impostos",
+      "imagem": null
+    },
+    {
       "titulo": "Empresas de mobilidade querem fomento a investimentos na reforma tributária",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Fisiculturista Dwayne Quamina, ex-top 10 do Mr. Olympia, morre aos 40 anos",
       "imagem": null
-    },
-    {
-      "titulo": "Chuva forte deixa um morto e causa estragos em ao menos 10 cidades de SC",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-17T07:49:17.902Z"
+  "atualizadoEm": "2026-08-17T08:38:03.725Z"
 }

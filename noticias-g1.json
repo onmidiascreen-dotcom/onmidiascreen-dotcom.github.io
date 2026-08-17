@@ -1,6 +1,46 @@
 {
   "noticias": [
     {
+      "titulo": "MP pede à Justiça aumento de 24 para 38 anos da pena de condenado por estuprar e matar estudante em SP",
+      "imagem": "https://s2-g1.glbimg.com/-NFIGHodqV_pMdGhD0avyUPo8A8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/m/6daC35TROwsFIcHMc74w/preso-ianca.jpg"
+    },
+    {
+      "titulo": "Brasileiro segue detido há mais de 15 dias em embarcação na Islândia após missão contra caça de baleias",
+      "imagem": "https://s2-g1.glbimg.com/2kj4gEU4YjHQ8c-eCDGC3z17Tsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/M/xe6F9UQa2cKnvCL86juQ/detido-islandia.jpg"
+    },
+    {
+      "titulo": "Advogado sequestrado pelo PCC pediu socorro a cliente em 'tribunal do crime', mas foi ignorado",
+      "imagem": "https://s2-g1.glbimg.com/pG_biBFLjs1YUJJU4NqaUnb_3FU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/e/kpgdzwRYAuaZM4Q5rfNg/inserir-um-titulo-2026-08-15t115424.089.jpg"
+    },
+    {
+      "titulo": "Estudo no RS tenta entender quais adolescentes têm maior risco de depressão; saiba como funciona",
+      "imagem": "https://s2-g1.glbimg.com/p1ZlA9jQiWJshxzAuLzck1UN79I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/I/E5iAoHSI6ncmGBuhA08w/g1-32-.jpg"
+    },
+    {
+      "titulo": "Novo golpe do Desenrola exibe CPF e dados da vítima para cobrar acordo por PIX; saiba como se proteger",
+      "imagem": "https://s2-g1.glbimg.com/DHNb5OaDrG-IvqcIF-pZHHIpX3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/Y/jB4AF9QjSVcFM46UBkZA/fta20240520073-1-.jpg"
+    },
+    {
+      "titulo": "Conheça segredo de receita de pão de queijo que virou atração em cafeteria com jeitinho de casa de vó no interior de MG",
+      "imagem": "https://s2-g1.glbimg.com/RRqadBh7KfM85CauP0-yanUAI1k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/x/iBYk6CTK275avUKhex9Q/4.png"
+    },
+    {
+      "titulo": "Barbalha celebra 180 anos com o desafio de manter história e memória preservadas no Cariri",
+      "imagem": "https://s2-g1.glbimg.com/lTRwnEkfSJncNh8SuaP1X-nLMHQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/6/ApP2AcTDC2BIrDM6PGew/solar-maria-olimpia.jpg"
+    },
+    {
+      "titulo": "PAT de São José dos Campos abre semana com 620 vagas de emprego; saiba como se candidatar",
+      "imagem": "https://s2-g1.glbimg.com/DplCEzRSDhbzOEWiqdBXeovG060=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/q/SsGRCZS1uhKwwMJbUezQ/20231030172318654002a6abd0c.jpg"
+    },
+    {
+      "titulo": "Menino de 10 anos baleado durante tentativa de roubo em SP será enterrado nesta segunda",
+      "imagem": "https://s2-g1.glbimg.com/F0invi6uE6YIQHyimAzKX9cJNno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/1/FHUFzzTzKJDV22Y2XXyA/morte-zona-norte-sp.jpg"
+    },
+    {
+      "titulo": "A vida em El Salvador 4 anos sob Bukele: 'O medo agora é outro'",
+      "imagem": "https://s2-g1.glbimg.com/i8LLa_QoHkK9xvjPAg4_Mg2vNyg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/x/YnuraARbW5AuPFP95E1A/3ba87130-95b5-11f1-a7ab-8b30adf0800a.jpg.webp"
+    },
+    {
       "titulo": "Os 5 melhores shows do Rock in Rio nos últimos 15 anos",
       "imagem": "https://s2-g1.glbimg.com/h8MG-6JVeLF8NimW9FKoNJPVH-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/N/l/6xyKGnQzyUyXgd4SxObw/ludmilla-palco-sunset-rock-in-rio-2022.jpg"
     },
@@ -79,47 +119,7 @@
     {
       "titulo": "Previsão do tempo hoje para Niterói (RJ): dia de sol com névoa fraca ao amanhecer e à noite",
       "imagem": "https://s2-g1.glbimg.com/tb9KmJW-WoPrn3rTTEWb_A57vQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/Q/G4InGYQkC6Tk0TSInqtA/previsao-tempo-niter-i-20260817-030408.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/z26OtJYKLT2NqBhLoMEKUL7lRL4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/2/Ehk1EoRXudFXVQJuho0w/previsao-tempo-duque-de-caxias-20260817-030353.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/gDAvTho3sxCDHg-CIcnONuNWVDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/K/DqCojAR1iTBGLwLyo4rQ/previsao-tempo-sete-lagoas-20260817-030336.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/ZD2rkMUGq90T-Fn-wmFfL82SsXA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/T/Qap52VQJ6Vyv2AUQvCsw/previsao-tempo-ribeir-o-das-neves-20260817-030319.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Contagem (MG): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/LtZEDPwJsJDjHZikTQN1xI2YyQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/J/tJwmswTnAJjQJ4UtDHjQ/previsao-tempo-contagem-20260817-030300.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Betim (MG): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/DfRXNYf0ZLS3MthodhNJwIvJR14=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/HkN05HTEaz3zg3CPj34A/previsao-tempo-betim-20260817-030243.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/VSmDS5Ed8BT3KC_cOHzGFcKHUVw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/q/8LTWi1RQ2NvYfApMkn5Q/previsao-tempo-belo-horizonte-20260817-030226.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Recife (PE): muitas nuvens o dia todo, com aberturas de sol",
-      "imagem": "https://s2-g1.glbimg.com/TsTSxEGwO1TRlyGGk0ovDDZa-1s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/u/rsfHsBSuyTAjjHYyPmcA/previsao-tempo-recife-20260817-030209.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Paulista (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/MxEMuR-S0v9H9DnaGkdWUeBLw_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/C/AvgIx3TjiAoPhCHRbd1w/previsao-tempo-paulista-20260817-030150.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Olinda (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/0PLxE_Dz3_-CWnWrSC0lWg-ztBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/0/AjSvCXSUmBZwz7uVwT3Q/previsao-tempo-olinda-20260817-030134.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Jaboatão dos Guararapes (PE): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
-      "imagem": "https://s2-g1.glbimg.com/y29lP5BI5QWcxx67K6wzjwtr8qM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/E/oCCCH5SGaQA0krwiPAZg/previsao-tempo-jaboat-o-dos-guararapes-20260817-030115.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-17T07:49:20.596Z"
+  "atualizadoEm": "2026-08-17T08:38:04.270Z"
 }
