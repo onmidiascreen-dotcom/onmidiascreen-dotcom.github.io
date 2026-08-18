@@ -1,6 +1,46 @@
 {
   "noticias": [
     {
+      "titulo": "Juliano Floss anuncia fim de namoro com Marina Sena",
+      "imagem": "https://s2-g1.glbimg.com/crkln_zPE4AXurgCFdrPWQb-n6c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/X/l/KmrqhZRfqb7Bd6NAVCxQ/marina-sena.jpg"
+    },
+    {
+      "titulo": "Antiga Cadeia Pública de Manaus aguarda restauração e sofre com abandono, vandalismo e insegurança",
+      "imagem": "https://s2-g1.glbimg.com/-Cvj4qF7Ad29ameA0HG74CU22Jo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/b/W/3SgNOmQ0OEI4v7SBsUuw/whatsapp-image-2023-11-06-at-16.38.24.jpeg"
+    },
+    {
+      "titulo": "‘JN nas Ruas – Brasil que ensina’ aborda temas que eleitores priorizam na hora de votar",
+      "imagem": "https://s2-g1.glbimg.com/I8adUKZUiV2XbKCCnfrdfXhOFvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/g/Zj7b0hTYuG25EWpHyvxg/globo-canal-4-20260817-2000-frame-133577.jpeg"
+    },
+    {
+      "titulo": "Prefeito de Tiradentes se recusa a soprar bafômetro ao dirigir carro oficial após beber cerveja",
+      "imagem": "https://s2-g1.glbimg.com/a38BdzVyyhEPesubNU_P6NxgbUw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/o/uYJH89QWubiAW2fApZBQ/design-sem-nome-7-.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: veja como foi o 2º dia oficial de campanha dos candidatos ao governo do Amapá",
+      "imagem": "https://s2-g1.glbimg.com/v5tLqN76FNpihKLim6bNTEPprTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/s/Sak2RCQemRNyGyXABgdQ/aleixo-g1-53-.jpg"
+    },
+    {
+      "titulo": "Jornal Nacional acompanha o dia dos candidatos à Presidência da República",
+      "imagem": null
+    },
+    {
+      "titulo": "Eleições 2026: saiba como foi o dia do candidato Reginaldo Lima ao governo do Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/cXOqV9tR1KbTeF_gMJr0p956HXw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/U/nb2eM7Rxi5YIH1PfAlDw/reginaldo-lima-.jpg"
+    },
+    {
+      "titulo": "Cinco adolescentes suspeitos de estupros coletivos dentro de escola municipal são apreendidos",
+      "imagem": "https://s2-g1.glbimg.com/ysP1pQFjRc2Eyx38waEfnhKjRHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/I/eFv2vOQl2ushXU2KjVZQ/maes-vitimas-estupro.01-frame-238.jpeg"
+    },
+    {
+      "titulo": "MPF cobra explicações do Ibama sobre pedido da Petrobras para explorar mais 3 poços na Foz do Amazonas",
+      "imagem": "https://s2-g1.glbimg.com/5OgIO1IAW75JNBTEPRbsWUYnC_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/e/njhANOTkKkPAg10sBxGA/whatsapp-image-2026-08-17-at-08.56.21-1-.jpeg"
+    },
+    {
+      "titulo": "Eleições 2026: saiba como foi o dia do candidato Orleans Brandão ao governo do Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/13y8MB5N3ir75WvJFYIoSP6p5BA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/V/PNynbJSM2YmiOzdX3VZA/agendaorleans.jpg"
+    },
+    {
       "titulo": "Adolescente de 14 anos é morta a facadas e polícia investiga ex-padrasto por feminicídio no RS",
       "imagem": "https://s2-g1.glbimg.com/aOlKn3Taq9avHkyOQNV3QWy8UqM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/k/OJf1wTT3SelHXMEHuVBw/whatsapp-image-2026-05-11-at-18.15.002.jpg"
     },
@@ -79,47 +119,7 @@
     {
       "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de segunda-feira, 117 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/fiALAwc1dEYniim2fWlNXsqIRKM=/s01.video.glbimg.com/deo/vi/56/73/14877356"
-    },
-    {
-      "titulo": "Augusto Cury diz que Brasil já é parlamentarista e que precisa de um primeiro-ministro como Tarcísio de Freitas",
-      "imagem": "https://s2-g1.glbimg.com/eOmkOWhuemOqvu-63zoDUFoCFw4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/b/j6VXnnT1mTWymdODRgWQ/0-41-card-103-lancamento-cury-0293.mxf.png"
-    },
-    {
-      "titulo": "Nunes Marques, presidente do TSE, afirma a embaixadores que processo eleitoral brasileiro é seguro: 'Referência mundial'",
-      "imagem": "https://s2-g1.glbimg.com/81mS42IyWgmOybY2GI1XcAhshqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/0MOtA8SkS04W4bmAyJvw/globo-canal-4-20260817-2000-frame-100655.jpeg"
-    },
-    {
-      "titulo": "Após 1º dia agitado, candidatos ao Governo do Ceará desaceleram e 2º dia de campanha tem poucos eventos",
-      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
-    },
-    {
-      "titulo": "Corpo de jovem desaparecido no rio Araguaia é localizado após dois dias de buscas",
-      "imagem": "https://s2-g1.glbimg.com/LYWkqo3ML7M8Tr0IsBK0K04-460=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/N/gdVx8PQkivjPudjRh4fw/videos-g1-75-.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de segunda-feira, 17 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/2GVuVlYn25vZ8FT4PLiXviepdx4=/s01.video.glbimg.com/deo/vi/54/73/14877354"
-    },
-    {
-      "titulo": "Micro-ônibus da frota da Ufba invade estacionamento após motorista sofrer mal súbito em Salvador",
-      "imagem": "https://s2-g1.glbimg.com/hy7gKQOeqrU_KTf6wyj7KbFntmc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/c/fsTER8QxGwmo7OSXGmrQ/micro-onibus-ufba-salvador.jpg"
-    },
-    {
-      "titulo": "EUA trocam chefe de escritório responsável pelas relações com Brasil e América Latina",
-      "imagem": "https://s2-g1.glbimg.com/agYP1Z5cLSJW1SSJ839vw5CssuE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/f/I9FGA2S2APYCH0DJYAuA/whatsapp-image-2026-08-17-at-21.40.07.jpeg"
-    },
-    {
-      "titulo": "Irã declara que pode começar nova ofensiva no Estreito de Ormuz se negociações com Estados Unidos fracassarem",
-      "imagem": "https://s2-g1.glbimg.com/K1nyV1sB7BovxZF-eAOfgSsIWOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/S/JAWEA5R1y6STxKknXyPw/globo-canal-4-20260817-2000-frame-74794.jpeg"
-    },
-    {
-      "titulo": "Elmano aponta segurança pública e conclusão de hospitais como prioridades em eventual segundo mandato",
-      "imagem": "https://s2-g1.glbimg.com/3e8rHWxzkF4877U8Sd5cRu4HkMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/s/l8DuyRRDqAJEVXEzuhAg/elmano-de-freitas.jpeg"
-    },
-    {
-      "titulo": "Trinta anos depois do crime, começa julgamento que vai tentar responder quem matou Tupac",
-      "imagem": "https://s2-g1.glbimg.com/fpdizv84vFRJkSNsQXgm84BxP1o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/5/TINE7vTvm3pmiMS36urA/globo-canal-4-20260817-2000-frame-79139.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-18T01:00:02.839Z"
+  "atualizadoEm": "2026-08-18T02:18:31.712Z"
 }
