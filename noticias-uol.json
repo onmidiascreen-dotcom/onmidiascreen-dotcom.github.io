@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Atriz Laura Cardoso morre aos 98 anos",
+      "imagem": null
+    },
+    {
       "titulo": "Ataque a tiros em escola nas Filipinas deixa dois mortos",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Paulo Blikstein rebate discurso de empresários de tecnologia sobre a educação estar \"falida\"",
       "imagem": null
-    },
-    {
-      "titulo": "Veja seleção de 41 restaurantes italianos em São Paulo",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-18T05:54:17.491Z"
+  "atualizadoEm": "2026-08-18T06:36:03.537Z"
 }

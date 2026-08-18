@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "TSE reúne ministros para discutir regras sobre IA e deepfakes nas eleições",
+      "imagem": null
+    },
+    {
+      "titulo": "Reestruturação no varejo é tendência com juros altos, dizem especialistas",
+      "imagem": null
+    },
+    {
+      "titulo": "Atriz Laura Cardoso morre aos 98 anos",
+      "imagem": null
+    },
+    {
       "titulo": "Estudante morre após ataque a tiros em escola nas Filipinas",
       "imagem": null
     },
@@ -107,19 +119,7 @@
     {
       "titulo": "Palhaços tentam dar golpe pedindo doação com máquinas de cartão no trânsito",
       "imagem": null
-    },
-    {
-      "titulo": "Mendonça suspende impulsionamento de vídeo que liga Lula ao Master e INSS",
-      "imagem": null
-    },
-    {
-      "titulo": "Anthropic ultrapassa US$ 65 bi em receita anualizada, afirma fonte",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Reações são esperadas&#8221;, dizem especialistas após procedimento de Virginia",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-18T05:54:18.035Z"
+  "atualizadoEm": "2026-08-18T06:36:03.316Z"
 }
