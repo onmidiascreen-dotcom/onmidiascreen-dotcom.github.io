@@ -1,8 +1,96 @@
 {
   "noticias": [
     {
+      "titulo": "Com 2 metros de altura, estátua de Carlo Acutis, o 'santo da internet', é instalada em praça no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/httIzA6nDpM-JmPo-SZRzQhBxmo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/p/3AZhvET0yeViQDbYOuwQ/design-sem-nome-64-.jpg"
+    },
+    {
+      "titulo": "Policlínica alvo de arrombamento e furto, em Campina Grande, deve manter atendimentos suspensos por uma semana",
+      "imagem": "https://s2-g1.glbimg.com/Ne0aB9mJ1bhFcTk6s8Nt-w1Mh4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/v/TGwFLkQSSJqXORurB6tg/captura-de-tela-2026-08-16-164436.png"
+    },
+    {
+      "titulo": "Casal é atropelado por adolescente bêbado e fica em estado gravíssimo",
+      "imagem": "https://s2-g1.glbimg.com/kmLPNWFGYa8CA1IAGSkPYucf2Ds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/8/020oBMTCSW5JzPry8hnQ/casal-atropelado-goiania-estado-gravissimo.jpg"
+    },
+    {
+      "titulo": "Italiano percorre mais de 10 mil km para intercâmbio gratuito em Itapetininga e relata experiência: 'Cidade cheia de coisas'",
+      "imagem": "https://s2-g1.glbimg.com/P_hR2rE4VnigXofaMpAfVNNmSQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/z/j81P4JRm6DXaMaCGRJ2g/whatsapp-image-2026-08-14-at-11.39.15.jpeg"
+    },
+    {
+      "titulo": "Eleitorado de Presidente Prudente envelhece e diminui 8,5% para as Eleições 2026, aponta TSE",
+      "imagem": "https://s2-g1.glbimg.com/owhi0bDUkXPy4Cr0WFS6JT_zINw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/H/Z/KdV5jkS0Kab6xQA4IvjQ/jn-limpo-20240921-1955-frame-97823.jpeg"
+    },
+    {
+      "titulo": "Bombardeio russo mata ao menos 10 pessoas na Ucrânia; Moscou relata ataques com mais de 600 drones",
+      "imagem": "https://s2-g1.glbimg.com/7f5XPv0pwr8Db7ZLnu1aW6-ZPn4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/0/ukqrCiQMOdpM1yNgDbxw/2026-08-18t085444z-1611771746-rc2w0na0682a-rtrmadp-3-ukraine-crisis-attack-kharkiv-region.jpg"
+    },
+    {
+      "titulo": "Veja cronologia do caso de mulher haitiana esquartejada pelo ex no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/g4gry0IYoMc8kMWPs28emmOJSZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/l/kxBOnZSBu6EWdtHY9bfg/esther.jpg"
+    },
+    {
+      "titulo": "Mais de mil vagas de emprego são ofertadas em Sergipe",
+      "imagem": "https://s2-g1.glbimg.com/3JMmbCWAgl_54cyBlp311RCdjVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Y/L0QhU8RyqAAu6DX7WAkg/cateira-1.jpg"
+    },
+    {
+      "titulo": "110ª Festa de São Benedito é celebrada em Machado com congadas e procissões; veja programação",
+      "imagem": "https://s2-g1.glbimg.com/bqtNCT00gU7ta4xn7jY5j-ks5SA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/3/UzrZ9LTYaTWkVCMXnc0g/festa-de-sao-benedito.png"
+    },
+    {
+      "titulo": "Bom Dia Cidade - Ribeirão e Franca",
+      "imagem": "https://s2-g1.glbimg.com/5Db3pzqHzeCD6vSqEpxOFb9UvEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/v/FMd4ZuT8uJLkmIab6LLw/still0208-00000.jpg"
+    },
+    {
+      "titulo": "Homem é preso por perseguir e ameaçar mãe de colega de trabalho no Ceará",
+      "imagem": "https://s2-g1.glbimg.com/T4mZHc4X6MLY_tICWvRoygDTMKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/m/WX6bv1SyqdlTlCY0ZRuw/homem-preso.png"
+    },
+    {
+      "titulo": "Homem é preso por ameaçar e agredir companheira com socos em Volta Redonda",
+      "imagem": "https://s2-g1.glbimg.com/vtqwIDt3_hNgLYOioghoKWsltnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/a/vjgdlDRsGxgV3AjetqXQ/whatsapp-image-2025-08-25-at-09.11.59.jpeg"
+    },
+    {
+      "titulo": "Operação investiga fraudes em concursos públicos de AL e PE; três pessoas foram presas",
+      "imagem": "https://s2-g1.glbimg.com/oruwbwd_y59ippcw3TLkiS6femo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/9/5AsummQdmAofqOqhZY5Q/whatsapp-image-2026-08-18-at-06.23.20.jpeg"
+    },
+    {
+      "titulo": "Assista ao Bom Dia Cidade Campinas",
+      "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
+    },
+    {
+      "titulo": "Operação interrompe 'rolezinho' e apreende mais de 100 motos em São Luís",
+      "imagem": "https://s2-g1.glbimg.com/UEirEcKwiEnXetYIbBS7JfNhyJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/N/dlykAnTZSdyojfTI6eCw/montagens-imi-9-.png"
+    },
+    {
+      "titulo": "Golpe do Falso Desenrola: criminosos usam dados de vítimas para aplicar fraudes no PI; saiba como se proteger",
+      "imagem": "https://s2-g1.glbimg.com/sEzk-4ER6rD7ipu7ZemzEb0E67o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/N/ONfbB6SriMWA68x5SWvg/thumb-fotos-2026-08-12t132632.785.jpg"
+    },
+    {
+      "titulo": "Gabi Amarantos, Baiana Sistem, Arnaldo Antunes e mais: veja artistas que se apresentam no Bananada 2026",
+      "imagem": "https://s2-g1.glbimg.com/Nia41pzLLRuYyoNSAhWEDOPYYis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/n/B3QdBpRiSORMpBI0jIyw/g1-61-.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Bom dia Goiás, 18 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/DvKG0EYxuEtUMia5hejqDUnxKIE=/s01.video.glbimg.com/deo/vi/94/77/14877794"
+    },
+    {
+      "titulo": "Laura Cardoso morre aos 98 anos; veja FOTOS da carreira",
+      "imagem": "https://s2-g1.glbimg.com/HcPkaNrV6NtPypIdSsGN8ebuzTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/G/4nJ4anR3y2EfrPDAyx4g/a-viagem-miguel-falabella-laura-cardoso-01.t47274b2f.m2048.xnj0sv-iycgmouedx.jpeg"
+    },
+    {
+      "titulo": "Polícia do DF faz buscas contra suspeito de usar 'deepfake' de famosos para vender produto falso contra disfunção erétil; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/CsW_tQPuP5-pYmiFKY58ct5M17c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/A/qmXoxUQnKZ3dq4A00ALQ/whatsapp-image-2026-08-17-at-19.38.23.jpeg"
+    },
+    {
+      "titulo": "Vídeos do g1 e TV Bahia - terça-feira, 18 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/seb_Rbxj9DdHpACu-R53nsr-AEk=/s01.video.glbimg.com/deo/vi/79/77/14877779"
+    },
+    {
+      "titulo": "Assista ao Bom Dia Amapá desta terça (18)",
+      "imagem": "https://s2-g1.glbimg.com/s0ltL-SokZIeDS1p7n3EznsAHis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/H/k/meFRVUQQqJ9QdQ07nPzg/whatsapp-image-2025-11-27-at-07.01.33.jpeg"
+    },
+    {
       "titulo": "Novo pré-sal? O que já se sabe e o que ainda falta descobrir sobre o petróleo na Foz do Amazonas",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/OBHx77A3VmPZUuPr49BdcUReoNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/4/cqS5nfTtW7liovtFzlMg/1.webp"
     },
     {
       "titulo": "Idosa de 95 anos é encontrada com vida após passar mais de 24h desaparecida em mata na Grande BH",
@@ -31,95 +119,7 @@
     {
       "titulo": "Síria condena à morte 4º membro da família Assad",
       "imagem": "https://s2-g1.glbimg.com/egZzACN4ppRI8JNnSV6YWGc79jE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/D/uYDnWSSauGmHaOqQB9mQ/ap26223320672770.jpg"
-    },
-    {
-      "titulo": "‘Banco do Pastor’: polícia mira esquema de pirâmide de igreja de Niterói que prometia 10% ao mês",
-      "imagem": "https://s2-g1.glbimg.com/yy3ZhGcmQUYGf0GbXxznFv250Zk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/w/WPADoLRiAGS48c93NBuQ/18pastor2a.png"
-    },
-    {
-      "titulo": "Assista ao Bom Dia ES",
-      "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif"
-    },
-    {
-      "titulo": "Primeira vez no Barretão? Veja 7 dicas que você precisa saber antes de ir à Festa do Peão",
-      "imagem": "https://s2-g1.glbimg.com/DO3PL7_0ogK_pjIZmQ9DVubl_Yc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/Z/g2zkfBTs2pDbEX0S4mgA/parque-peao.jpg"
-    },
-    {
-      "titulo": "AO VIVO: assista à programação da NSC TV",
-      "imagem": null
-    },
-    {
-      "titulo": "Busca por desaparecidos: Piauí terá 10 pontos para coleta de DNA; veja locais",
-      "imagem": "https://s2-g1.glbimg.com/g4WHxq-uS3ZgRFAXqNWNqeYO1SI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/B/d3sm8ZSX6862AzHW53RA/paternidade-amazonas.jpg"
-    },
-    {
-      "titulo": "Morre Laura Cardoso; reveja momentos marcantes da carreira da atriz",
-      "imagem": "https://s2-g1.glbimg.com/h76P8B93hpdl5dGjEFHP0I-nrMo=/s01.video.glbimg.com/deo/vi/52/04/12550452"
-    },
-    {
-      "titulo": "Dia do Estagiário: veja oportunidades de estágio abertas na Paraíba",
-      "imagem": "https://s2-g1.glbimg.com/MppPTPxo1tsa00EDh1bMXOQXauc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/W/myjQ7cTzSBPzt8OUcj4Q/cursos.jpg"
-    },
-    {
-      "titulo": "Roraimense realiza sonho e é aprovada para ser diplomata no Itamaraty: 'Convicção inabalável'",
-      "imagem": "https://s2-g1.glbimg.com/nwnX8iG2UCpaquZcIyDR2vIZbHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/a/MF00UkQJAx9KlFZY7euw/diplomata.jpeg"
-    },
-    {
-      "titulo": "Taubaté tem a maior taxa de mortalidade no trânsito entre cidades de SP com mais de 300 mil habitantes",
-      "imagem": "https://s2-g1.glbimg.com/d9Bfr2iYFenfZpbH1nqC2Gz6hDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/P/eKU1MoRmOFKUXM7fvPgA/whatsapp-image-2025-10-17-at-16.38.02.jpeg"
-    },
-    {
-      "titulo": "Violência virtual: psicólogos apontam sinais de alerta em menores após caso de suicídio de menina no Discord",
-      "imagem": "https://s2-g1.glbimg.com/G9FqRhGEi6XbpjI7aPBEXs4fnMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/buPHArRkWwcvnTMZussQ/discord-1200.jpg"
-    },
-    {
-      "titulo": "Adolescente dá à luz em casa, esconde bebê da família e sensibiliza delegado ao revelar a história 2 dias depois: 'Temos que tratar esse caso com humanidade'",
-      "imagem": "https://s2-g1.glbimg.com/A5XPY5HTqGlATvyMf6BZzZFtHEw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/f/SiersaT0OXRN1F54WQNA/bebe.jpg"
-    },
-    {
-      "titulo": "Assista ao Jornal da Manhã",
-      "imagem": null
-    },
-    {
-      "titulo": "De R$ 0 a R$ 3,9 milhões: veja o patrimônio dos candidatos ao Senado do RJ declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/g9-2qhvELTe9iWGz1_gkfjg2aA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/k/UKlnWsS6O8SkQBcakoGg/foto-e-montagem-vertical-59-.png"
-    },
-    {
-      "titulo": "Grávida de quatro meses é agredida e estuprada pelo ex no litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/bE1JH40iDWyutdXGyJXQ2xsg8PM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/3/v9pUbRRIaKVwf0qt5Axg/ddm-gravida.jpg"
-    },
-    {
-      "titulo": "Restaurante é condenado a indenizar ex-funcionária que se queimou fritando batatas; valor pode passar de R$ 90 mil",
-      "imagem": "https://s2-g1.glbimg.com/CrfysdGk59qKY1q3-kTUNiKoP5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/0/29us6AQHufflejyMRKsQ/mulher-queimada-1-.jpg"
-    },
-    {
-      "titulo": "Advogado diz que recebeu 'decreto de morte' do PCC após ser sequestrado: 'Viver tranquilamente?'",
-      "imagem": "https://s2-g1.glbimg.com/l5u23pWeUS-qJInKqBpHoxOIRws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/TPNDb5QCuseAQFeAX4qg/inserir-um-titulo-2026-08-15t092337.216.jpg"
-    },
-    {
-      "titulo": "Veja o que cada candidato ao governo do Amapá declarou de bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/t-ikfzpy6v0BXu2kWMbsdg0UMD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/v/FZoXNfQ72XTE3G8Qa7Bg/candidatos.jpg"
-    },
-    {
-      "titulo": "VÍDEO: Motociclista atingido por motorista embriagado parou em teto de viatura policial em MG",
-      "imagem": "https://s2-g1.glbimg.com/53Q_YJyXyapqaRgvAoVUUxg5Kvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/x/oamkRuThi9MJRP1wohsg/capturar.jpg"
-    },
-    {
-      "titulo": "Horas depois de pedir medida protetiva, mulher é quase atropelada e deixada seminua no meio da rua em MG",
-      "imagem": "https://s2-g1.glbimg.com/DndvkVbddQzC8wMnAJwk1B5qq8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/d/b/OqFEL0SuK8tu4A0pDeXQ/whatsapp-image-2024-08-21-at-10.15.04.jpeg"
-    },
-    {
-      "titulo": "Emissões de metano na Sibéria mais que dobram em uma década, mostra estudo",
-      "imagem": "https://s2-g1.glbimg.com/xGyfZt_bV048fH9GeHOCezVVWDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/2/AqHqHhR06aN9bTirerUA/arcticfireszm-oli-20240710-lrg.jpg"
-    },
-    {
-      "titulo": "Antes tomado pelo mato, ponto de ônibus vira galeria de arte a céu aberto em Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/YnEIbnQMyY1M97DmRAZmr28nAyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/d/i95Ot5QHa6RRibM52DnA/formato-g1-33-.png"
-    },
-    {
-      "titulo": "Família de amapaense morta em acidente em SC cobra justiça: 'crime não pode ficar impune'",
-      "imagem": "https://s2-g1.glbimg.com/xIA1Dwg_hotfD4k4uVtoi1D0dgQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/P/anmHcJSoK3axnRH9rgZw/whatsapp-image-2026-08-14-at-15.30.16.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-18T09:58:56.983Z"
+  "atualizadoEm": "2026-08-18T10:34:59.943Z"
 }
