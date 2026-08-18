@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Anitta é indicada ao VMA 2026 ao lado de Shakira",
+      "imagem": null
+    },
+    {
+      "titulo": "Especialista defende política integral no combate à violência contra mulher",
+      "imagem": null
+    },
+    {
+      "titulo": "Garoto de 13 anos recolheu 1,5 milhão de latinhas; veja o que ele salvou",
+      "imagem": null
+    },
+    {
+      "titulo": "Caiado defende vacinas e modernizar o SUS ao lançar medidas para saúde",
+      "imagem": null
+    },
+    {
       "titulo": "Queda de passarela interdita Fernão Dias nos dois sentidos; veja desvios",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "Vídeo: Passarela desaba após ser atingida por caminhão e dois morrem em SP",
       "imagem": null
-    },
-    {
-      "titulo": "BNDES quer Vale e Petrobras em terras raras e minerais críticos",
-      "imagem": null
-    },
-    {
-      "titulo": "Contran atualiza regras de fiscalização da Lei Seca; veja o que muda",
-      "imagem": null
-    },
-    {
-      "titulo": "RS emite alerta vermelho para risco de inundação do Rio Jaguarão; veja",
-      "imagem": null
-    },
-    {
-      "titulo": "OpenAI inaugura operações no Brasil e VP fala em otimismo ao CNN Money",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-18T16:26:18.642Z"
+  "atualizadoEm": "2026-08-18T16:57:55.869Z"
 }
