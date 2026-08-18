@@ -1,6 +1,110 @@
 {
   "noticias": [
     {
+      "titulo": "5 vinhos chilenos superpremiados que valem a pena provar",
+      "imagem": "https://s2-g1.glbimg.com/eDsVy0aQY52u3OriWNjirjZ9cjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/E/AEgO4YQH2xtepAZA3wFg/capa-tabali-roca-madre-1400px.jpg"
+    },
+    {
+      "titulo": "Sobrevivente de chacina em Manaus passa por cirurgia e permanece internada",
+      "imagem": "https://s2-g1.glbimg.com/easN_ltoUaQ27DzEYA2Qr670KqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/r/p/2SPBenRAqV4jBAGxwjvA/hps-joao-lucio-ses-am-foto-rodrigo-santos.jpeg"
+    },
+    {
+      "titulo": "Ministério da Justiça pede à PF e à ANPD bloqueio de 80 sites que usam IA para produzir 'deepnude'",
+      "imagem": "https://s2-g1.glbimg.com/Kp3hhCZsZZXWsbJAKtx83PDAE6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/p/d/OAwqf3RlSVYJv6BZu8mA/front-view-bad-habit-concept-with-copy-space.jpg"
+    },
+    {
+      "titulo": "VÍDEO: incêndio que já dura três dias  avança por áreas rurais e faz gado fugir em Jangada (MT)",
+      "imagem": "https://s2-g1.glbimg.com/hKuZ1cyghA6stulyKz7CdNLS9oE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/o/YCdPSiSFCBLj2i3SYCFQ/0728-13-.gif"
+    },
+    {
+      "titulo": "'Talento e coragem, tinham de sobra', diz presidente da Academia Brasileira de Cinema sobre mortes de Glória Menezes e Laura Cardoso",
+      "imagem": "https://s2-g1.glbimg.com/YPFLD7etz80bi9_tPArv_ZP5eNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/j/eGx4WMSem7tjTBBPC2mQ/g1-8-.png"
+    },
+    {
+      "titulo": "Veja como vive o jacaré filmado por visitante em lagoa no Parque Sabiá, em Uberlândia",
+      "imagem": "https://s2-g1.glbimg.com/x3i2j1FRfz9pJ9oU9npwxV4CGus=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/J/lWzuRlRymB2U5BfiLL0g/estufas-de-laboratorio-da-ufu-pegam-fogo-apos-serem-esquecidas-ligadas-em-uberlandia-13-.jpg"
+    },
+    {
+      "titulo": "Três mulheres são presas com R$ 250 mil em eletrônicos e remédios contrabandeados em Itu",
+      "imagem": "https://s2-g1.glbimg.com/6I25EFsz88_88PeFdt53L2pZAEs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/Y/33CHQARv6B94kkKQ8iQA/fotos-da-agenda.png"
+    },
+    {
+      "titulo": "VÍDEOS: JL1 de terça-feira, 18 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/Fcmkfv_sQy1jMAeOUQNt2EuPbKE=/s01.video.glbimg.com/deo/vi/69/02/14880269"
+    },
+    {
+      "titulo": "UFPB oferece 45 vagas para aulas de dança destinadas a bebês e cuidadores; saiba como participar",
+      "imagem": "https://s2-g1.glbimg.com/INdtOnLxf_oJk0mcpf2PTZE2Yyk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/u/D/IEe93cRtAazqea5tXgfg/9d313063-52d0-4d2e-bff8-84ef77835387.jpeg"
+    },
+    {
+      "titulo": "Plataformas digitais entregam planos de conformidade ao TSE para eleições",
+      "imagem": "https://s2-g1.glbimg.com/6d5V0OP7U6FXBM6eoyWnJQzslmU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/3/uZT1G1SRiYGKVmKF9vQw/55006841028-2e3bd01ddb-k.jpg"
+    },
+    {
+      "titulo": "Justiça condena a 14 anos e 3 meses de prisão mulher que matou outra com tiro na cabeça por ciúmes",
+      "imagem": "https://s2-g1.glbimg.com/pFooz44JG2qWdA7lvcIa4aCfOLU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/w/QnjylLRXAWDBkeV1msuA/forum-boituva.jpg"
+    },
+    {
+      "titulo": "Grupo que invadiu e roubou loja da Oxxo é identificado após câmeras flagrarem o crime; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/ovMwhgRt8OTR7eG_qxB85KLAgd4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/G/JQur7kTmG1MBGEwzDtMQ/adolescentes-identificados.jpg"
+    },
+    {
+      "titulo": "Homem é morto a tiros no distrito de Porto Primavera, em Rosana",
+      "imagem": "https://s2-g1.glbimg.com/nb5BzDOkYwvo9SXXhCMjlbHkfAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/6/I794QASQiA7EHIixoz4w/pm.png"
+    },
+    {
+      "titulo": "Fã pede Pix a Murilo Huff por não se lembrar de show, e reação do cantor diverte a web",
+      "imagem": "https://s2-g1.glbimg.com/_nt28KTmHWHqFSkgqy6WkR_lAdA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/J164c6RGegkuZg54Nexw/copia-de-copia-de-copia-de-padrao-foto-g1-goias-12-.jpg"
+    },
+    {
+      "titulo": "Gloria Menezes e Tarcisio moraram em sitio de SP; funcionários falaram sobre rotina durante pandemia",
+      "imagem": "https://s2-g1.glbimg.com/MVzEWqY9U8UatMUroNZNgxyt7KY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/j/r/sSJoN0ShABon2WA5gf4A/casal-em-sitio-de-porto-feliz.jpeg"
+    },
+    {
+      "titulo": "Pátio Limeira Shopping é pioneiro em Encontro de Multicolecionismo em Limeira",
+      "imagem": "https://s2-g1.glbimg.com/vlNbXVnlVFkU_geUJuFd61w65TE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/O/c3TxbgTSiVKAAGieVQYg/1.png"
+    },
+    {
+      "titulo": "Incêndio atinge apartamento na Cidade Operária, em São Luís",
+      "imagem": "https://s2-g1.glbimg.com/2szitDz3ZlkfIoLRPbFrdmrWn_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/e/B4uBkSRzG7vc0QaXgmng/montagens-1920-x-1080-px-2026-08-18t175310.153.png"
+    },
+    {
+      "titulo": "Helena da Asatur declara mais de R$ 10,6 milhões em bens na disputa ao Senado por Roraima",
+      "imagem": "https://s2-g1.glbimg.com/rIaEeDTtpeq4XtHgsp57FDRjglA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/o/eDxFWGTMGTWXKQCyAHGQ/helena-da-asatur.jpg"
+    },
+    {
+      "titulo": "EPTV 2 Piracicaba ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "TV Asa Branca é finalista no 13º Prêmio Sebrae de Jornalismo com reportagem sobre o Polo de Confecções do Agreste",
+      "imagem": null
+    },
+    {
+      "titulo": "STJ não reconhece união estável mesmo com filho e noivado",
+      "imagem": "https://s2-g1.glbimg.com/ECjeR4VA3qjw3Js3_423nnlyAQI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/r/T2DBAdSqmpNkyQAtnB1Q/condenacao-naufragio-c-05-06-2025.mp4-snapshot-00.35.946.jpg"
+    },
+    {
+      "titulo": "Adolescente encontrada em saco plástico em Maceió foi morta por vingança, diz polícia",
+      "imagem": "https://s2-g1.glbimg.com/mEykpI6gMfEhOFfVnsVeapF2bJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/A/BWdsipRwCvdoqc6H7pGA/suspeito-e-flagrado-descartando-corpo-de-mulher-dentro-de-um-saco-em-maceio.jpg"
+    },
+    {
+      "titulo": "Semana Espírita de Santarém comemora 90 anos com programação gratuita; veja",
+      "imagem": "https://s2-g1.glbimg.com/nrwcfQQ8Aki6Lcshwr9BUP4E9Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/P/AA0dc9Qx6AyniBxniQeA/images-1-.jfif"
+    },
+    {
+      "titulo": "Mais de R$ 10 milhões e luxuoso: veja detalhes de jatinho que Zezé Di Camargo se deu por aniversário de 64 anos",
+      "imagem": "https://s2-g1.glbimg.com/B59NvnMNBbrlBorKpBkVI0RGLSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/F/Neunu3SpWz4C2lBB6CVA/co-13-.png"
+    },
+    {
+      "titulo": "Com meta de imunizar 13 mil cães e gatos, cidade do AC inicia vacinação contra a raiva; VEJA cronograma",
+      "imagem": "https://s2-g1.glbimg.com/dJhgFuh2it-SgDb0FP2bCK85cnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/Q/4NB0SeRvOiRecnTyvLsQ/vacina-raiva-1-.jpeg"
+    },
+    {
+      "titulo": "Reforma Tributária e Zona Franca são temas centrais em congresso da OAB Amazonas",
+      "imagem": "https://s2-g1.glbimg.com/02jBOY4hedj1Ky38dVm6cCRv55s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/t/25Cj49Q5SEidkCYHfwgA/debate-oab.jpg"
+    },
+    {
       "titulo": "Justiça determina exame de insanidade mental de diarista acusada de matar casal de idosos em BH",
       "imagem": "https://s2-g1.glbimg.com/6GSBMhhSuno48l66mvkXvF4o68A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/4/b2o9t0SNadfs1bAI2lTQ/chuva-distrito-paulo-camilo-1-22-.png"
     },
@@ -15,111 +119,7 @@
     {
       "titulo": "Homem em situação de rua é preso após perseguir e jogar saco de lixo em mulher em Divinópolis",
       "imagem": "https://s2-g1.glbimg.com/ZCbh1nI3ae66hvYGpCkL_zF5tC4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/p/J/8vTtWiTTyYod80mTcPYg/whatsapp-image-2019-11-14-at-07.26.21.jpeg"
-    },
-    {
-      "titulo": "Ar-condicionado no calor de Cuiabá: aparelho ligado 8 horas por dia pode acrescentar mais de R$ 200 à conta de luz",
-      "imagem": "https://s2-g1.glbimg.com/w6fCX-0MXcmLL0e58Aa8Uau2uwI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/K/xR3L7PRk6s0ws3EpAsDA/foto-interna.jpeg"
-    },
-    {
-      "titulo": "Agência da ONU diz ter encontrado 'toneladas de material nuclear' na Síria",
-      "imagem": "https://s2-g1.glbimg.com/sIQDQlRRrey6PbS-CaaGWaA9t5I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/F/rRko5XSOWjjA54UodjaA/afp-20260818-c4xg2g3-v2-midres-syriaiaeapoliticsdiplomacynuclear.jpg"
-    },
-    {
-      "titulo": "Homem é investigado por suspeita de importunação sexual contra enteada no interior da Bahia",
-      "imagem": "https://s2-g1.glbimg.com/VNDrhcY0U3MKo4YDaPepAqtQLAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/o/ccV6jbQU6MySp4cKB0Nw/whatsapp-image-2026-04-24-at-10.22.46.jpeg"
-    },
-    {
-      "titulo": "Estagiária de direito denuncia secretário de Defesa Social de Guapó por assédio sexual após ele a colocar contra a parede e pedir beijo",
-      "imagem": "https://s2-g1.glbimg.com/zaDvkTkLcvA2j5hyaHH3fbt_Ee0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/N/VFjKJ9Tn69pRMRfrViJA/design-sem-nome.jpg"
-    },
-    {
-      "titulo": "Vídeo: caminhão com carga de louças pega fogo na Grande Fortaleza",
-      "imagem": "https://s2-g1.glbimg.com/Q_qWZZ9Shqr3vxRigpDjJn6B9r0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/js1Z3GTmeJ9R8OFt6v8g/incendio-anel-viario.jpg"
-    },
-    {
-      "titulo": "Homem é preso após manter a própria mãe em cárcere privado em Aracaju",
-      "imagem": "https://s2-g1.glbimg.com/IgXuwACl13DQgh_Y4FHa-w413jQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/d/U/XDSFi3S4O6BEU7dQndOA/carro-pm.jpg"
-    },
-    {
-      "titulo": "Sem merenda e estrutura: MPF investiga irregularidades em escolas de comunidade no interior do Amazonas",
-      "imagem": "https://s2-g1.glbimg.com/J1qF-W_LRBCoOkBhgOc0iXqERmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/M/1/bZqPBgQ1SJdLhiiZWPhw/jam1-tab-estiagem-plantacoes-.jpg"
-    },
-    {
-      "titulo": "Suspeito de homicídio é preso na região dos Lençóis Maranhenses",
-      "imagem": "https://s2-g1.glbimg.com/iMu-cnqSlcXJG_IeR1xdmACT_0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/a/frIMu1QhCDJYvW0CC76w/montagens-1920-x-1080-px-.png"
-    },
-    {
-      "titulo": "Mulheres com medida protetiva podem trocar local de votação em SC: veja como e até quando pedir",
-      "imagem": "https://s2-g1.glbimg.com/xxgrhfMUcu6_jaCjQmnicTW4QzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/X/D5CCAERTiNAmrVGK1Xqg/urna-eletronica-.png"
-    },
-    {
-      "titulo": "Prefeitura mapeia casas para instalar armadilhas contra Aedes aegypti em BV",
-      "imagem": "https://s2-g1.glbimg.com/M4A46zeY4d7v3KifPm5Jr6ahKt0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/h/sNPaLvRs6DKRsfHp9PqQ/foto-2.jpg"
-    },
-    {
-      "titulo": "Homem que atropelou e matou ex-companheira é condenado a 21 anos em São José de Ribamar",
-      "imagem": "https://s2-g1.glbimg.com/LUGihMzlQQhAScSYIzNEZWx2tAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/B/vqD25eTYANpZjJdGtdBQ/julgamento-2.jpg"
-    },
-    {
-      "titulo": "Glória Menezes morre aos 91 anos: Famosos lamentam; veja repercussão",
-      "imagem": "https://s2-g1.glbimg.com/KvqePdUQVHDe-zxBHRNjJERBZXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/Q/I6lNMBSHiBRvFH6jBZbw/gloria-menezes-em-totalmente-demais-2015-.jpg"
-    },
-    {
-      "titulo": "Operação contra grupo de pastor investigado por pirâmide financeira apreende 3 veículos; frota inteira era avaliada em R$ 700 mil",
-      "imagem": "https://s2-g1.glbimg.com/HwnbW5dFfloSnwvM6-orFQBgSHA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/t/bQlZfQSq6THh6LMeOB1g/imagem-cortada-29-.jpg"
-    },
-    {
-      "titulo": "Chácaras às margens do lago de Lajeado começam a ser demolidas após decisão da Justiça",
-      "imagem": "https://s2-g1.glbimg.com/XAjzNSFDq1ZZxRHcUx2NZhreLGo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/J/7nSPqxQGKxPGKJx1J69Q/copia-de-modelo-foto-fundo-borrado-27-.png"
-    },
-    {
-      "titulo": "Glória Menezes, uma das maiores atrizes do país, morre no Rio",
-      "imagem": "https://s2-g1.glbimg.com/OaKz-VkFpPjrhAZquAU7SBy3rDM=/s01.video.glbimg.com/deo/vi/58/01/14880158"
-    },
-    {
-      "titulo": "Rosamaria Murtinho celebra 93 anos em Salvador com espetáculo 'Uma Vida em Cores'",
-      "imagem": "https://s2-g1.glbimg.com/WNvr3Ro80bVtLlZvZLV4HbtuCzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/B/5t5WRuQu68sbT5wAbrOg/vlds5154.jpg"
-    },
-    {
-      "titulo": "Primeiro banco genético de Cannabis em universidade pública do Brasil é inaugurado em MG",
-      "imagem": "https://s2-g1.glbimg.com/ERNGHodZqHNIpLgAxllWUOiQwjo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/B/9aCIzwTxi0cze2ewl7qQ/21102024-dji-0937.jpg"
-    },
-    {
-      "titulo": "Glória Menezes e Tarcísio Meira foram internados juntos com Covid em 2021; filho revelou como atriz soube da morte do marido",
-      "imagem": "https://s2-g1.glbimg.com/pNWdf5XhMwHHhaMX9tMUJGAQmr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/9/AjAxWNSKGyKAAybzapIg/tarcisiogloria.png"
-    },
-    {
-      "titulo": "Criança de três anos morre após se afogar em piscina de condomínio em João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/CTiFr8K4i44ACMRuWps0f79r2rg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/ArnTYBSxAUb86rNZSP1Q/hosp-trauma-jp.jpg"
-    },
-    {
-      "titulo": "Tarcísio Meira e Glória Menezes se conheceram no teatro e foram casados por 59 anos",
-      "imagem": "https://s2-g1.glbimg.com/_QAK_XrR825nxeGtlp54oix-bGo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/v/J/Zx3Nv0SdGkZHiidlVpZA/torre-de-babel-tarcisio-meira-gloria-menezes.png"
-    },
-    {
-      "titulo": "Mulheres imigrantes relatam assédio sexual em Ceuta, na Espanha",
-      "imagem": "https://s2-g1.glbimg.com/j5atSHKQSwG0gvufrfg5cWiOG98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/7/oQbxs8RW2Nbj1n8QeHHQ/2026-08-14t200322z-1947681804-rc2iymarvtt5-rtrmadp-3-migration-europe-spain-ceuta.jpg"
-    },
-    {
-      "titulo": "100 dias: Via Campo acelera melhorias em 432 quilômetros de rodovias",
-      "imagem": "https://s2-g1.glbimg.com/VBMCDwSQP6qvxnz_0dxMIpE9tFc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/I/SKaEAVTfAvpfCiVESgSg/informe-100-dias-2.jpg"
-    },
-    {
-      "titulo": "Sorocaba confirma 9º caso de raiva em morcego em 2026",
-      "imagem": "https://s2-g1.glbimg.com/czshYC-NiTix1541BxE0d5Yt_48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/l/yRQNk2SeGxBQpGtTU1TQ/morcego-2.jpg"
-    },
-    {
-      "titulo": "Professora é denunciada por suspeita de dar tapas no rosto de aluno autista em escola municipal",
-      "imagem": "https://s2-g1.glbimg.com/j-mrYjmxneee0eO9HNBl-Us55jA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/M/91FxZTQIKyVMWxs5wGdQ/formato-padrao-imagens-g1-2026-08-18t152808.149.png"
-    },
-    {
-      "titulo": "Menino de 2 anos morre após ser atacado por pitbull da família em Agudos",
-      "imagem": "https://s2-g1.glbimg.com/GLhetFe9BObo-EHHGrz_SojIXHU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/Y/JZ0bBwS2WpYaPoqGWGxg/novo-projeto.png"
-    },
-    {
-      "titulo": "Homem é preso suspeito de agredir companheira e tentar atear fogo em casa no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/bM-GbgyloXtibLJK-vBHpJhrwSI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/G/msVe1nQsGyhBH6SAR1fA/g1-pp-2026-03-28t134232.227.png"
     }
   ],
-  "atualizadoEm": "2026-08-18T20:48:27.286Z"
+  "atualizadoEm": "2026-08-18T21:19:49.175Z"
 }
