@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Famosos lamentam morte de Laura Cardoso aos 98 anos: 'Eterna'",
+      "imagem": "https://s2-g1.glbimg.com/8THnkhIcFtqHLBcDMIc2mGiGdwc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/5/GzWLuTR3GarOjQCJd4zg/laura-cardoso.jpeg"
+    },
+    {
       "titulo": "Por que as mulheres devem ser uma prioridade nos estudos sobre longevidade",
       "imagem": "https://s2-g1.glbimg.com/RfNb0T2cq7vupVcgZ2-768Z8BYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/U/0RBXYtR2OsdkAzBEWrHQ/longevidademulhercomoprioridade1.jpg"
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com algumas nuvens ao longo do dia; noite de céu limpo",
       "imagem": "https://s2-g1.glbimg.com/akNY4b5MRq5C9TYAJhj6p7pMWJo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/N/B7G6b6TbWbMwYwoytxzA/previsao-tempo-ribeir-o-das-neves-20260818-030322.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Contagem (MG): sol com algumas nuvens ao longo do dia; noite de céu limpo",
-      "imagem": "https://s2-g1.glbimg.com/y7m4Qz_sE1sfQpsEcH5jwiGHd-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/L/4MMfxeSeqGwZUKGCrQVQ/previsao-tempo-contagem-20260818-030302.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-18T07:23:39.416Z"
+  "atualizadoEm": "2026-08-18T08:02:01.200Z"
 }

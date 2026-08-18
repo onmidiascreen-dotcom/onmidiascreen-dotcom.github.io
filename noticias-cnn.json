@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Goiás x Juventude: horário e onde assistir ao jogo da Série B",
+      "imagem": null
+    },
+    {
+      "titulo": "São Paulo x Bolívar: horário e onde assistir ao jogo da Sul-Americana",
+      "imagem": null
+    },
+    {
+      "titulo": "Os carros mais vendidos por estado no mês de julho; veja ranking",
+      "imagem": null
+    },
+    {
       "titulo": "Levski Sofia x AEK Atenas: horário e onde assistir ao jogo da Champions",
       "imagem": null
     },
@@ -107,19 +119,7 @@
     {
       "titulo": "Mortes de motociclistas disparam em SP e têm pior julho desde 2015",
       "imagem": null
-    },
-    {
-      "titulo": "Eleição presidencial será sobre escândalos, não propostas, diz Arko Advice",
-      "imagem": null
-    },
-    {
-      "titulo": "Corinthians autoriza Memphis a treinar no CT após aval do CORI",
-      "imagem": null
-    },
-    {
-      "titulo": "João Fonseca desiste do Masters 1000 de Cincinnati; entenda o motivo",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-18T07:23:38.728Z"
+  "atualizadoEm": "2026-08-18T08:01:59.762Z"
 }
