@@ -1,6 +1,70 @@
 {
   "noticias": [
     {
+      "titulo": "Por que as mulheres devem ser uma prioridade nos estudos sobre longevidade",
+      "imagem": "https://s2-g1.glbimg.com/RfNb0T2cq7vupVcgZ2-768Z8BYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/U/0RBXYtR2OsdkAzBEWrHQ/longevidademulhercomoprioridade1.jpg"
+    },
+    {
+      "titulo": "El Niño se intensifica e vai provocar mais tempestades fortes no Paraná até o início de 2027, diz Simepar",
+      "imagem": "https://s2-g1.glbimg.com/07Ra0EhZmboac-rJM0GakVeBomM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/0/VzkyCdQ1uhv0OeIIfB0Q/g1-16-.png"
+    },
+    {
+      "titulo": "Mumford &amp; Sons estreia no Rock in Rio 10 anos após auge do indie: 'Hoje temos músicas melhores'",
+      "imagem": "https://s2-g1.glbimg.com/tHoHgc3mqSvqX3eejZLB1LMcWHc=/s.glbimg.com/jo/g1/f/original/2016/03/12/mumford_fabio_tito-g1_img_1277.jpg"
+    },
+    {
+      "titulo": "MP-RO aponta atitude 'totalmente desproporcional' de estudante de medicina que matou idoso prensado",
+      "imagem": "https://s2-g1.glbimg.com/P9e7gr0QtmaDt9XtonJxrVB6eV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/Q/21CwFJTmuAFAp85XuebQ/1.png"
+    },
+    {
+      "titulo": "Trabalhadores veem empresas tolerarem abusos de chefes que entregam resultados",
+      "imagem": "https://s2-g1.glbimg.com/KbmX5Z_F2dWmMCJFdnfR5sMCE18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/0/BlgsqlTQ6KI3BoH6zipw/pexels-yankrukov-7794084.jpg"
+    },
+    {
+      "titulo": "Doméstica resgatada após trabalhar 55 anos sem salário não está mais na casa dos empregadores, diz MPT",
+      "imagem": "https://s2-g1.glbimg.com/Lm-Tef07ECHNtCgZWQW0Bw4Npj0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/1/WBfAwSQoi4wQ0zay5JTQ/trabalho-escravo.jpg"
+    },
+    {
+      "titulo": "Emprego: veja as vagas disponíveis em Petrolina e Salgueiro",
+      "imagem": "https://s2-g1.glbimg.com/400CGRb3IS1onIokgRFpqIlz1rE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/b/6/I8PDSnTfma02XbDh6Xow/design-sem-nome-6-.png"
+    },
+    {
+      "titulo": "Por que a Festa do Peão de Barretos faz milhares de pessoas mudarem de estilo por 11 dias",
+      "imagem": "https://s2-g1.glbimg.com/rJM7AhDuihDd6BGpMZnBa1WwgDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/6/AqbHAYRNKXKpFtZBtVuw/dsc-6145.jpg"
+    },
+    {
+      "titulo": "Grávida do ES é demitida por justa causa e Justiça confirma perda da estabilidade no trabalho",
+      "imagem": "https://s2-g1.glbimg.com/myFR_-MWegKeVqeYZ5xQztIncT8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/2/NrojeAQQueizAL0Zuu7A/gravidez.png"
+    },
+    {
+      "titulo": "Carros elétricos em garagens: quais são os riscos, os desafios e os cuidados para instalação de carregadores",
+      "imagem": "https://s2-g1.glbimg.com/5_keyXahNWbufggOx0WBawMcjow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/O/hD5OmxR4qd61Cuf2ooOg/carroeletrico-1-.png"
+    },
+    {
+      "titulo": "Acidente da Voepass: Justiça envia ao Núcleo de Combate à Corrupção do MPF provas para apurar improbidade na Anac",
+      "imagem": "https://s2-g1.glbimg.com/mL1ZzQDuxpw2sElBfZyP-osPAbc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/m/dDXKkwShmHYdpMpoAe4Q/fachada-da-pgr-ministerio-publico-federal-mpf-brasilia-05-08-2024.jpg"
+    },
+    {
+      "titulo": "Primo de bancário paulista desaparecido irá a Florianópolis para fazer buscas",
+      "imagem": "https://s2-g1.glbimg.com/KN18SFG5e12xIuMynYV17pag1S4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/9/AwAh6tQsiLrHB2Io5GdQ/bancario-de-30-anos-desaparece-apos-sair-de-hostel-em-florianopolis-e-familia-pede-ajuda-por-informacoes.jpg"
+    },
+    {
+      "titulo": "Tragédia na BR-163: o que se sabe sobre acidente com explosão de carretas que deixou 4 mortos em MS",
+      "imagem": "https://s2-g1.glbimg.com/6xHTDKf1ZZsJohxqcoFJqI1reS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/C/0vuqkUSAirtVnfBEd5dQ/br-163-acidente.jpg"
+    },
+    {
+      "titulo": "'Lesões na cabeça, nádegas e pernas', relata delegada sobre morte de criança de 4 anos em Porto Alegre",
+      "imagem": "https://s2-g1.glbimg.com/Z6eM7lfwioQRPL3zbsW-WZGwNpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/y/eGBMhfQTqmCCHLN0bGow/g1-38-.jpg"
+    },
+    {
+      "titulo": "Traumas na infância, depressão pós-parto e bissexualidade: as revelações de Hayden Panettiere em livro",
+      "imagem": "https://s2-g1.glbimg.com/ZYN_8fgKj-15oKf7hW2t6-ze3EM=/s.glbimg.com/jo/g1/f/original/2014/01/12/2014-01-13t001803z_1005480163_tb3ea1d00tsym_rtrmadp_3_film-goldenglobes.jpg"
+    },
+    {
+      "titulo": "Corpos de vítimas de acidente com ônibus na Serra de Petrópolis chegam a Belo Horizonte",
+      "imagem": "https://s2-g1.glbimg.com/ttJzZDUue9kO-lJ4_7ubOa9NOWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/W/C1LvuPTpuPKfBOTped5g/16bus4.jpeg"
+    },
+    {
       "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
       "imagem": "https://s2-g1.glbimg.com/BlmNtd-TCh47scbAATnZyDtZFFE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/V/q9VSc3SxAeLVcyTrAmmA/previsao-tempo-bras-lia-20260818-030650.jpeg"
     },
@@ -55,71 +119,7 @@
     {
       "titulo": "Previsão do tempo hoje para Contagem (MG): sol com algumas nuvens ao longo do dia; noite de céu limpo",
       "imagem": "https://s2-g1.glbimg.com/y7m4Qz_sE1sfQpsEcH5jwiGHd-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/L/4MMfxeSeqGwZUKGCrQVQ/previsao-tempo-contagem-20260818-030302.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Betim (MG): sol com algumas nuvens ao longo do dia; noite de céu limpo",
-      "imagem": "https://s2-g1.glbimg.com/QU9y3DuJbJRRa23cwjA5xVp73rE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/H/0b7x4mR0e582XPh6vClQ/previsao-tempo-betim-20260818-030246.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/-l-ByM8pZoQ8j-o1nxpmtf1pCM0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/c/Ok2pQVRvAbqzlLblHgqA/previsao-tempo-belo-horizonte-20260818-030220.jpeg"
-    },
-    {
-      "titulo": "Câmeras digitais e fones com fio estão de volta. Mas por quê?",
-      "imagem": "https://s2-g1.glbimg.com/16__PE7O8qtH6an5JzUO-T-gcZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/1/bi33wMSSmRaHyINQb8Bg/fones-ouvido-com-fio-2.jpg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/dWWpjSuwuE-yC8gCEyn1vJhCDmQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/A/S0EYuaRUqFcvXeTvDeiA/previsao-tempo-recife-20260818-030202.jpeg"
-    },
-    {
-      "titulo": "Por que Trump reduziu os exercícios militares com a Coreia do Sul? Entenda o que está em jogo",
-      "imagem": "https://s2-g1.glbimg.com/W76uzAxuYtmfdeECpICxwQWxBcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/u/qmfxMpSGe7EBrlgUUbdg/design-sem-nome-68-.jpg"
-    },
-    {
-      "titulo": "Polícia analisa imagens de câmeras sobre morte de policial penal em quiosque; PM foi liberado",
-      "imagem": "https://s2-g1.glbimg.com/VulbQGCndz9U-utTMKsPc4U7UJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/l9H4wAQY265kajHkaVZA/imagem-cortada-2026-08-17t115518.819.jpg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Paulista (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/g86ovXdP7e_1iIT4iLuIryo6m6A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/2FBBy7T1ytfT9WyJ0mUw/previsao-tempo-paulista-20260818-030146.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Olinda (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/QJoWj-w7CdBaqHHNak5URU5wLMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/f/nEmLhFTy6LNVqAMAJemw/previsao-tempo-olinda-20260818-030129.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Jaboatão dos Guararapes (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/IaaOMQjq3QZocTmC0B4FygPVyZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/o/dfjVBXSDGn8GGLqignKw/previsao-tempo-jaboat-o-dos-guararapes-20260818-030110.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Cabo de Santo Agostinho (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/yPiPqVktT9qiiXUCWR7O9uMSoOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/t/J3wb0oTAaAcrbuURrL1g/previsao-tempo-cabo-de-santo-agostinho-20260818-030053.jpeg"
-    },
-    {
-      "titulo": "Moradores denunciam motos em alta velocidade pelas calçadas de Icaraí, em Niterói",
-      "imagem": "https://s2-g1.glbimg.com/DjXlXbk3ukyZydgO4m9rpDOWV9E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/A/mF8MG0RsqAxMzKGLivkw/imagem-cortada-1-.jpg"
-    },
-    {
-      "titulo": "Fazer uma captura de tela para guardar uma informação pode fazer você esquecê-la, aponta estudo",
-      "imagem": "https://s2-g1.glbimg.com/5sd7Ct3TvVHJWrqoLLlUdv_VSXw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/NbZJ0ATiWJfaq7I7WPjA/pexels-rdne-7092416.jpg"
-    },
-    {
-      "titulo": "Cientista usa animes e mangás para ajudar jovens a se abrir na terapia",
-      "imagem": "https://s2-g1.glbimg.com/hjXSsfj3bZ8qOxoSbGz0GZ8JAgs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/K/OaG0TBSRGGUlviZz1jZg/blurred-frame.jpg"
-    },
-    {
-      "titulo": "Limões 'alienígenas' intrigam produtora; entenda o que causa a deformação",
-      "imagem": "https://s2-g1.glbimg.com/vgcwMLCN8NjMjeDKFyDN0fFdgls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/Q/1sNAkHS4acxK63GlLlPw/limao-deformado.png"
-    },
-    {
-      "titulo": "Chacina que deixou três mortos em Manaus ocorreu após vítima negar dinheiro para suspeito pagar dívida de R$ 16 mil, diz delegado",
-      "imagem": "https://s2-g1.glbimg.com/ZoYWWl5zwclsjs9eg52max2iMsM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/4/4hepjiScukULeLJU2mrw/g1-suspeito-chacina.jpg"
-    },
-    {
-      "titulo": "Guerra dos drones: como funcionam os equipamentos usados por criminosos para lançar explosivos no Rio",
-      "imagem": "https://s2-g1.glbimg.com/zrU2LwQb0yii0LevgW5_M9lNFvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/B/S2xfw4ScOGYVK6ek1vhA/drones-1-.png"
     }
   ],
-  "atualizadoEm": "2026-08-18T06:36:04.605Z"
+  "atualizadoEm": "2026-08-18T07:23:39.416Z"
 }
