@@ -1,11 +1,55 @@
 {
   "noticias": [
     {
+      "titulo": "Homem desaparece durante buscas a menino de 6 anos em rio e operação é ampliada em SC",
+      "imagem": "https://s2-g1.glbimg.com/ERgp6Idk61aEzibfsiuCV_Eic3E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/x/OCAdCuSuSvZTPXBrGZOA/whatsapp-image-2026-08-18-at-18.10.21.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: AB2 de terça-feira, 18 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/6cyqNhhy7GboyHojfZaIQT80bvg=/s01.video.glbimg.com/deo/vi/00/07/14880700"
+    },
+    {
+      "titulo": "'Vendi carros e investi': Associação reúne 170 vítimas de golpes com falsas operações na Bolsa no PI",
+      "imagem": "https://s2-g1.glbimg.com/mA884Q-xZFW4EoP-rDkJwkPQvCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/g/mYeCIzS6adsK1DV4bHSg/g1-bg-02.png"
+    },
+    {
+      "titulo": "RecuperaFone divulga lista com 1,5 mil nomes para devolução de celulares no AM; saiba como conferir",
+      "imagem": "https://s2-g1.glbimg.com/ikRzh52970f829uhuBd8vTMDbHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/i/m/Qm0GhdTxWmgqfgAzsnrQ/whatsapp-image-2024-10-26-at-12.31.51.jpeg"
+    },
+    {
+      "titulo": "Após greve, Alesp aprova projeto para absorver funcionários da CPTM afetados pela concessão das linhas 11, 12 e 13",
+      "imagem": "https://s2-g1.glbimg.com/-T53o6F1m8AzO17XyZ6p3j0n2Gg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/s/VMCoAiSoyMUhEtjgGuAQ/fotojet-2026-08-05t191543.528.jpg"
+    },
+    {
+      "titulo": "Defesa Civil alerta para frente fria após período de calor no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/jAN7CPTGISoe2Exx3cfP65kNEDk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/L/XHHkdlTzS72GjoQpOLiw/whatsapp-image-2026-04-16-at-16.47.52-2-.jpeg"
+    },
+    {
+      "titulo": "Pista sentido São Paulo da Fernão Dias é liberada após passarela ser atingida por caminhão, cair e matar mãe e filho",
+      "imagem": "https://s2-g1.glbimg.com/YT6i5RZJzjITomjHBHoGnN_xkZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/a/yGipGpQMKq8bL1lAA9dg/liberado.jpeg"
+    },
+    {
+      "titulo": "Laura Cardoso fez último trabalho com cineasta do interior de SP e se preparava para novo filme: 'Sempre a protagonista'",
+      "imagem": "https://s2-g1.glbimg.com/csoVjOek_vCj-z24RVoJWBVuPTc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/7/spSw2BREeAqTmF1b5sxg/whatsapp-image-2026-08-18-at-20.06.53.jpeg"
+    },
+    {
+      "titulo": "Trump tenta costurar encontro com Kim Jong-un para negociar acordo nuclear, diz jornal",
+      "imagem": "https://s2-g1.glbimg.com/irqYtqYEnwc6F7A1iI4umWj7bH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/k/Z/2lDBlcSmqTkb3rNCznyQ/hands1.jpg"
+    },
+    {
+      "titulo": "Defesa de coligação de Marina Silva pede investigação contra autor de ataque",
+      "imagem": "https://s2-g1.glbimg.com/WYw2PmXJTpvhfpPh1--1ptbI1Cs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/U/51QKpFSRy1Bn9xQv8ADw/54940179049-d60268770d-k.jpg"
+    },
+    {
+      "titulo": "Cinema ao ar livre com sessões gratuitas percorre quatro cidades do litoral de SP; confira a programação",
+      "imagem": "https://s2-g1.glbimg.com/0LFynWz2HtyjbWHD72SzmjZa-zc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/9/Alh6VKRZAFL2AeaSRs8Q/foto-tradicional-1-.png"
+    },
+    {
       "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 18 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/4kaXyCe8NmGC9fnBf-F7TISvYUw=/s01.video.glbimg.com/deo/vi/26/06/14880626"
     },
     {
-      "titulo": "Acidente que derrubou passarela na Fernão Dias causa congestionamento de 23 km e obriga motoristas a buscar rotas alternativas",
+      "titulo": "Acidente que derrubou passarela na Fernão Dias causa congestionamento de 23 km e obriga motoristas de MG a buscar rotas alternativas",
       "imagem": "https://s2-g1.glbimg.com/7_77jaCzy6xXvs3O_luHpxuK7UM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/H/xIAKziRMeZM1qQALdVtg/texto-do-seu-paragrafo-2026-08-18t132911.857.png"
     },
     {
@@ -75,51 +119,7 @@
     {
       "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
       "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Mulher de empresário preso por violência doméstica diz que não consegue entrar na própria casa em SP: 'Trocaram a fechadura'",
-      "imagem": "https://s2-g1.glbimg.com/l84kqXnhwP0hu2N6qMJtz4K-0GU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/s/8PMBfMQs2rWzbABMqh5g/fotojet-2026-08-15t175903.291.jpg"
-    },
-    {
-      "titulo": "Homem é preso suspeito de tortura e ameaça em caso de agiotagem, no Brejo da Paraíba",
-      "imagem": "https://s2-g1.glbimg.com/vmZbKjpX2jB2fe4DEcBSZl6mncU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/G/TPeVPWQNyNEdzUDeYA0A/prisao-alagoa-grande.jpeg"
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem é condenado a 35 anos de prisão por matar ex-sogra após separação no PI",
-      "imagem": "https://s2-g1.glbimg.com/YwMYGCRn8M59MwuiRhSXUoxUxsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/I/CMWAZ7Q4SyIjyGhWoquA/g1-bg-02.png"
-    },
-    {
-      "titulo": "Médica está foragida após condenação por tortura em clínica de dependentes químicos de Ribeirão Preto",
-      "imagem": "https://s2-g1.glbimg.com/Nw9TqOdQ0zzLl11S4pthln-2xKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/B/r4utyCSgSmIiUsHs0Bpw/design-sem-nome-9-.jpg"
-    },
-    {
-      "titulo": "Assista ao Boa Noite Espírito Santo",
-      "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
-    },
-    {
-      "titulo": "Motorista diz à polícia que perdeu controle de carro por causa de água na pista antes de atropelar e matar casal na PB",
-      "imagem": "https://s2-g1.glbimg.com/IgaeqHSzsU4SGiEA-4DIYC0yA7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/A/kVzsFiRLWmj4edGdBdaw/whatsapp-image-2026-08-18-at-19.18.20.jpeg"
-    },
-    {
-      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
-    },
-    {
-      "titulo": "Vídeo: Estrutura metálica é arrastada com vento forte durante chuva em Cujubim, RO",
-      "imagem": "https://s2-g1.glbimg.com/a4ODfRnYzSnaAIJagwCWj2Z3Y6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/W/dflPzCTJKYSe2NC0lofQ/design-sem-nome.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: JL2 de terça-feira, 18 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/eO0qwSEAqOTUjzjZcicWqWlpte4=/s01.video.glbimg.com/deo/vi/27/05/14880527"
     }
   ],
-  "atualizadoEm": "2026-08-18T23:17:37.643Z"
+  "atualizadoEm": "2026-08-18T23:45:26.062Z"
 }
