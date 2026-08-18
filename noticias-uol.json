@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Trump recusa prorrogar prazo para acordo com Irã após 60 dias",
+      "imagem": null
+    },
+    {
       "titulo": "Tarcísio manifesta solidariedade a Marina após hostilidade em SP",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Clube Folha Gourmet oferece delícias em dobro em restaurantes; veja 13 casas participantes",
       "imagem": null
-    },
-    {
-      "titulo": "Roteiro traz 29 bons restaurantes de carnes em São Paulo",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-18T04:50:39.309Z"
+  "atualizadoEm": "2026-08-18T05:24:35.258Z"
 }
