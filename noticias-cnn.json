@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Barcelona anuncia contratação de Rodri, melhor jogador da Copa de 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Alcolumbre acena, mas mantém controle sobre 6&#215;1",
+      "imagem": null
+    },
+    {
+      "titulo": "Zezé Di Camargo se presenteia com novo jatinho em aniversário de 64 anos",
+      "imagem": null
+    },
+    {
+      "titulo": "Morre Bill Rasmussen, fundador da ESPN, aos 93 anos",
+      "imagem": null
+    },
+    {
       "titulo": "Sindan defende segregação de animais para atender exigências União Europeia",
       "imagem": null
     },
@@ -77,7 +93,7 @@
       "imagem": null
     },
     {
-      "titulo": "CNN entrevista José Roberto Arruda, candidato ao governo do DF; assista",
+      "titulo": "CNN entrevista José Roberto Arruda, candidato ao governo do DF",
       "imagem": null
     },
     {
@@ -103,23 +119,7 @@
     {
       "titulo": "Santos acerta venda de Adonis Frías para futebol mexicano; veja detalhes",
       "imagem": null
-    },
-    {
-      "titulo": "Lesão de João Fonseca exige &#8220;evolução física&#8221;, diz comentarista",
-      "imagem": null
-    },
-    {
-      "titulo": "Funcionária será indenizada por se queimar ao fazer batata frita; entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Ao lado de Nikolas, Flávio diz que &#8220;quem vence em Minas ganha as eleições&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Motorista parado na blitz sem CNH física e bateria no celular: o que fazer?",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-18T17:29:36.426Z"
+  "atualizadoEm": "2026-08-18T17:56:23.343Z"
 }
