@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Baidu tem lucro 68% menor no 2º tri e receita cai, apesar de aposta em IA",
+      "imagem": null
+    },
+    {
+      "titulo": "Vin Diesel celebra 25 anos de &#8220;Velozes e Furiosos&#8221; com filha de Paul Walker",
+      "imagem": null
+    },
+    {
+      "titulo": "Laura Cardoso reencontrou estrelas da TV em gravação recente",
+      "imagem": null
+    },
+    {
+      "titulo": "Alta dos fertilizantes coloca inflação de alimentos no radar do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Exportações de café solúvel sobem 20% em julho",
+      "imagem": null
+    },
+    {
+      "titulo": "Rússia diz que Reino Unido sofrerá consequências por fornecer drones a Kiev",
+      "imagem": null
+    },
+    {
+      "titulo": "Semaglutida no Brasil: como atua substância genérica aprovada pela Anvisa?",
+      "imagem": null
+    },
+    {
+      "titulo": "Xiaomi registra outro tri fraco, com maior concorrência e custos de memória",
+      "imagem": null
+    },
+    {
+      "titulo": "Eleições 2026: Mulheres são 27% das candidaturas presidenciáveis",
+      "imagem": null
+    },
+    {
+      "titulo": "Virginia Fonseca exibe resultado de treino intenso de abdômen; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Operação da PM tem tiros e suspeitos presos em Paraisópolis (SP)",
+      "imagem": null
+    },
+    {
+      "titulo": "Em entrevista, Laura Cardoso falou sobre como gostaria de partir: &#8220;É santo&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Choque dos fertilizantes e El Niño ameaçam oferta global de alimentos",
+      "imagem": null
+    },
+    {
+      "titulo": "Etanol sobe 7,24% após quatro semanas de queda nas usinas de São Paulo",
+      "imagem": null
+    },
+    {
+      "titulo": "Mandato-tampão no RJ: STF retoma julgamento de eleição",
+      "imagem": null
+    },
+    {
+      "titulo": "Granizo causa estragos em municípios do RS; estado está em alerta",
+      "imagem": null
+    },
+    {
+      "titulo": "Jornalista opina sobre desistência de João Fonseca: &#8220;Geração de vidro&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Liquidação domina mercado de títulos dos EUA ao Japão com peso da inflação",
+      "imagem": null
+    },
+    {
+      "titulo": "Tiroteio em festa comunitária deixa criança e três adultos feridos no PR",
+      "imagem": null
+    },
+    {
+      "titulo": "Pai da filha de Hayden Panettiere lamenta morte da atriz: &#8220;Choque e dor&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Após votação, bancários aprovam greve de 24 horas quinta-feira (20)",
+      "imagem": null
+    },
+    {
       "titulo": "Memphis se reapresenta no CT do Corinthians após renovação de contrato",
       "imagem": null
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Raphinha será o novo capitão do Barcelona nesta temporada, diz jornal",
       "imagem": null
-    },
-    {
-      "titulo": "Suspeitos de matar amigos que foram cobrar dívida no PR são presos em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Mendonça manda Lula remover vídeos com pedidos de voto em convenção",
-      "imagem": null
-    },
-    {
-      "titulo": "O Grande Debate: Mandato de 12 anos no STF seria positivo ou negativo?",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump publica imagem do Estreito de Ormuz como &#8220;novo território dos EUA&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Da liderança no GLP às soluções que impulsionam a transição energética",
-      "imagem": null
-    },
-    {
-      "titulo": "Contra o Bolívar, São Paulo busca encerrar jejum incômodo pós-Copa",
-      "imagem": null
-    },
-    {
-      "titulo": "Corinthians: redução de valores e reunião garantiram renovação de Memphis",
-      "imagem": null
-    },
-    {
-      "titulo": "De 35°C a 5°C: após ciclone, frente fria derruba temperaturas pelo Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Guardiola expôs drama de divórcio em vestiário do City: &#8220;Perdemos a paixão&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Braskem Idesa entra com pedido de recuperação judicial nos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Ucrânia lança grande ataque com drones contra a Rússia",
-      "imagem": null
-    },
-    {
-      "titulo": "Galatasaray oferece o dobro do salário para tirar Bruno Fernandes do United",
-      "imagem": null
-    },
-    {
-      "titulo": "Positivo diz que exposição à Casas Bahia é baixa e não deve impactar contas",
-      "imagem": null
-    },
-    {
-      "titulo": "Houthis reivindicam ataque a refinaria de petróleo na Arábia Saudita",
-      "imagem": null
-    },
-    {
-      "titulo": "Técnico do Egito na Copa do Mundo desmaia durante briga entre suas esposas",
-      "imagem": null
-    },
-    {
-      "titulo": "Técnicos trocam socos após empate entre Vélez e Defensa pelo Argentino",
-      "imagem": null
-    },
-    {
-      "titulo": "Álvarez é barrado por Simeone em meio a interesse do Barcelona",
-      "imagem": null
-    },
-    {
-      "titulo": "Famosos lamentam morte de Laura Cardoso, ícone da TV brasileira",
-      "imagem": null
-    },
-    {
-      "titulo": "Bolsas da Ásia recuam com petróleo e inflação; Nikkei lidera perdas",
-      "imagem": null
-    },
-    {
-      "titulo": "Compra de joias liga amiga de Lulinha a ex-assessor de Lula; entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Laura Cardoso deixa duas filhas; veja quem são",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-18T13:00:58.480Z"
+  "atualizadoEm": "2026-08-18T13:55:49.549Z"
 }
