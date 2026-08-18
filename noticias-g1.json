@@ -1,6 +1,102 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEOS: Jornal do Acre 1ª Edição desta terça-feira, 18 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/8ckPZ7eBsdSnomvL44qiWy4_t3c=/s01.video.glbimg.com/deo/vi/67/00/14880067"
+    },
+    {
+      "titulo": "Prefeitura entrega UBS revitalizada e reforça os serviços de saúde no São Bento",
+      "imagem": "https://s2-g1.glbimg.com/9Ey-G9bvraYba_Utxk-lKbRfYS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/8/GF6dCyQ1W0o8coNR0Iig/foto-2.jpg"
+    },
+    {
+      "titulo": "Mulher morta por adolescente com tiro no rosto em SC era servidora pública e mãe de criança de 3 anos",
+      "imagem": "https://s2-g1.glbimg.com/vQqVmRtnjq6qDKiAum9RuNNmNCQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/x/fWTaEuTAi23nAmKSBwtw/servidora-publica-e-mae-mulher-morta-em-palmitos-.png"
+    },
+    {
+      "titulo": "Com greve de barqueiros por salários atrasados, alunos ficam sem transporte em zona rural no Acre",
+      "imagem": "https://s2-g1.glbimg.com/5fgiyUpzIDoGqXfxgHY_uclYWcQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/X/dvwzjjTEm2C3DuOQBsnA/midia-de-distribuicao-g1-73-.jpg"
+    },
+    {
+      "titulo": "Turista é preso suspeito de tráfico de drogas em Fernando de Noronha",
+      "imagem": "https://s2-g1.glbimg.com/Kbia1hqogjT20VTgiCS-4uP262g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/n/gOwkK9Q6qzCiFQdI13jA/delegadia-18.08.28.jpg"
+    },
+    {
+      "titulo": "Motorista de caminhonete morre após tentar ultrapassagem e bater de frente com carreta na BR-070 em MT",
+      "imagem": "https://s2-g1.glbimg.com/m6nHeIPv9LwlOiflItLrzzASa2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/Z/irAytpSw2U6LfgTcd8xw/foto-g1-2026-08-18t144505.582.png"
+    },
+    {
+      "titulo": "Custos maiores e clima incerto desafiam produção de grãos em Mato Grosso",
+      "imagem": "https://s2-g1.glbimg.com/ux0J-JtWjHgHBUK4QULwSlHt_Xc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/TOkS99SdyZRGTVPv1LWA/imagem-principal-g1-sicredi-custo-e-clima.jpg"
+    },
+    {
+      "titulo": "Gêmeas que morreram em cirurgia de separação das cabeças em SP sobreviveram por 2 e 12 minutos",
+      "imagem": "https://s2-g1.glbimg.com/q63w3yPDa2BiE7JmFIHHYMJtn9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/N/tttv35TsGhhp2BwAZBUw/design-sem-nome-2-.png"
+    },
+    {
+      "titulo": "De nenhum bem a R$ 400 milhões: veja o patrimônio declarado ao TSE pelos candidatos ao Senado no Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/ReaEV5fbbNdd5HdrCcHtEq0jC0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/s/vhVzDCRFuRJfRAos8eUQ/senado.jpg"
+    },
+    {
+      "titulo": "Quem são os Pablos? Além de Carlos Cesare, 4 atores fizeram o papel no 'Qual é a Música'; conheça",
+      "imagem": "https://s2-g1.glbimg.com/_dGQUG2JiFa1I1D2bpYyb6Nyt2g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/T/vbrc5sR82Bnw6zuNt0BQ/meow-meow-meow-meow-39-.png"
+    },
+    {
+      "titulo": "Motociclista de 18 anos morre após perder o controle e bater em árvore em avenida de Piracicaba",
+      "imagem": "https://s2-g1.glbimg.com/bRl-T9c-TnKzdF_XXc53LN7Dqsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/0/WxfguSTsyAt3N4gfO8cA/whatsapp-image-2026-08-18-at-16.02.54.jpeg"
+    },
+    {
+      "titulo": "De nenhum bem a R$ 5,2 milhões: veja o patrimônio dos candidatos ao governo do MA declarado ao TSE",
+      "imagem": "https://s2-g1.glbimg.com/5IzCTdtf88UgAqqFcfbgbZbtGvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/0/eYYAtPTeWwdcdZMLt1SQ/montagens-1920-x-1080-px-2026-08-17t095134.479.png"
+    },
+    {
+      "titulo": "Como os EUA ajudaram a financiar pesquisa que criou cães-robôs chineses vendidos no mundo todo",
+      "imagem": "https://s2-g1.glbimg.com/KnrLN3FW90iJCyS9Hl-twkfezXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/a/ykrxIlTIOBSTBJrJZBiA/2026-08-18t102224z-1126358045-rc2md8aw0jyf-rtrmadp-3-china-tech-robot.jpg"
+    },
+    {
+      "titulo": "Açude rompe e água destrói parte de casa e arrasta carro em Bonito",
+      "imagem": "https://s2-g1.glbimg.com/VfGFSXMZQgxr3T-JEk6bQSItk6c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/x/kLtTOMQCWhcGp6YxURiw/design-sem-nome-2026-08-18t161930.475.png"
+    },
+    {
+      "titulo": "Guarani é multado em R$ 12,3 mil por cortar cinco árvores sem autorização em Campinas",
+      "imagem": "https://s2-g1.glbimg.com/FVSNKdtxVPwqubpaB-nE-Q_y5vA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/d/edr66nSNm2dsFAnBcn5w/whatsapp-image-2025-02-13-at-18.32.21.jpeg"
+    },
+    {
+      "titulo": "Colisão entre moto e cavalo deixa homem morto em Italva; câmera registra outro acidente",
+      "imagem": "https://s2-g1.glbimg.com/WSyRGsChiue7WXC0ncLgBbcy3xA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/b/eXK3vsRmuUP7D3YYylKA/acidentes-em-italva.jpg"
+    },
+    {
+      "titulo": "VÍDEO mostra atentado contra a ex-mulher de Fernando Cerimedo, influencer de direita preso na Bolívia",
+      "imagem": "https://s2-g1.glbimg.com/88ATOgmZyZeFtO0j8tmCZO-QaPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/g/5JMPiKQoAfQKQZotcelw/2025-12-04t025112z-532248225-rc2v8iawbqe1-rtrmadp-3-honduras-election-results.jpg"
+    },
+    {
+      "titulo": "Sampaio e Arthur têm os maiores patrimônios entre os candidatos ao governo de Roraima",
+      "imagem": "https://s2-g1.glbimg.com/PStzG4_gb8J5-6pZePjp-rqTfuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/s/KggOBrQMCUW4XzEJ6AnA/candidatos.jpg"
+    },
+    {
+      "titulo": "VÍDEO: jovens tentam matar rival adolescente dentro de padaria após briga por WhatsApp no ES",
+      "imagem": "https://s2-g1.glbimg.com/p204XVK_lnf76UqK_JXeSwanARY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/E/APMBjMRSemBEA9PPFfSw/thumb-fotos-2026-08-18t153421.828.jpg"
+    },
+    {
+      "titulo": "Servidor público sai para trabalhar e tem portão de casa furtado, diz polícia",
+      "imagem": "https://s2-g1.glbimg.com/T_v5rVNywVpo5_hOo4NnjU38_sY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/F/O21U0qTXuDNi41joOODA/foto-e-montagem-vertical-88-.jpg"
+    },
+    {
+      "titulo": "Vítimas de queda de passarela atingida por caminhão na Fernão Dias eram mãe e filho, diz polícia",
+      "imagem": "https://s2-g1.glbimg.com/QbgxZJjxicX_YxxdzpQ3XamTy8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/Q/CVAjEuSR2LA0HtSyhQ4g/texto-do-seu-paragrafo-2026-08-18t111604.815.png"
+    },
+    {
+      "titulo": "Idosa morre após engasgar com carne durante almoço na Bahia",
+      "imagem": "https://s2-g1.glbimg.com/lRgbUN_qK8Yt_UvKllDG8U6hk-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/Z/t2IR86TwiEFHlUDA4fBg/morte-idosa-jequie.jpg"
+    },
+    {
+      "titulo": "Mulher é presa por suspeita de tentativa de homicídio em Resende",
+      "imagem": "https://s2-g1.glbimg.com/jy1NQLeKOSvG1lDTv10KvVyKMc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/b/BBp4amRZ2jnkGcnkcFAQ/image-10-1-.png"
+    },
+    {
+      "titulo": "Adolescente é morto a tiros dentro de casa em Itaocara; dois suspeitos são presos",
+      "imagem": "https://s2-g1.glbimg.com/Czp3jNnbckyq-v5gAdG-REyIGYI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/2/WOUAdCTOafSofbytwnrg/adolescente.jpg"
+    },
+    {
       "titulo": "VÍDEOS: AB1 de terça-feira, 18 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/8bdgcDP72_XQoQ5qZEK-20sExnc=/s01.video.glbimg.com/deo/vi/78/98/14879878"
     },
@@ -9,12 +105,12 @@
       "imagem": "https://s2-g1.glbimg.com/A7CyFe7lzprBO2iVWYPr2RjmA70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/z/YKM4g3QHiKwtn942iXFQ/whatsapp-image-2026-08-18-at-11.51.53-1-.jpeg"
     },
     {
-      "titulo": "Operação investiga empresas por suspeita de fraude em internações de dependentes químicos em MS",
+      "titulo": "Polícia prende trio suspeito de fraudar clínicas de dependentes químicos e manter pessoa em cárcere em MS",
       "imagem": "https://s2-g1.glbimg.com/Ovz4ijjk_fZxgEh01rQT2RupM-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/F/yIBMy3S8qraXEMBPRMKg/design-sem-nome-8-.jpg"
     },
     {
       "titulo": "Homens são maioria entre quem disputa e mulheres entre quem vota no PI; veja comparativo dos perfis",
-      "imagem": "https://s2-g1.glbimg.com/XXYOIapmlghoqi6ypjluj4lWFnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/1/yFSnF9TNAFDMJfMXDszQ/whatsapp-image-2026-08-18-at-16.01.50.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/Qr-6hantlAI5QKFJZzORj1R8uqY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/I/z/9b2qAbTA6EZgZwDcBdYA/dsc0634.jpg"
     },
     {
       "titulo": "TRE-SP manda retirar do ar vídeo em que vereador Pavanato chama Érika Hilton de 'travesti do Lula'",
@@ -23,103 +119,7 @@
     {
       "titulo": "Ceará vai receber primeira fábrica do Brasil de curativos à base de pele de tilápia",
       "imagem": "https://s2-g1.glbimg.com/EeJGso7ldI7Tjv6gOF5MNRmBXIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/bAH0jeSfCem1Bfkosvlg/ceara-fortalece-polo-de-biotecnologia-com-primeira-fabrica-do-brasil-de-curativos-a-base-de-pele-de.jpg"
-    },
-    {
-      "titulo": "PF apreende 702 kg de cocaína escondidos em carga de café no Porto de Santos",
-      "imagem": "https://s2-g1.glbimg.com/QOmjBWlNbaJHXZv4zFZ0GP0HH78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/8/t3UBLATvuDYuceen9FAg/droga-porto-1-.jpg"
-    },
-    {
-      "titulo": "Pet que teve despedida emocionante em funerária foi adotado após ser abandonado em estacionamento, diz tutor",
-      "imagem": "https://s2-g1.glbimg.com/7HqoafzVWyZib5oTE8Nc6k7Ti3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/HwgCq6Svyrx0aTxwz4OQ/padrao-foto-texto-g1-2026-08-13t131531.993.jpg"
-    },
-    {
-      "titulo": "Açougueiro que matou e esquartejou mulher comprou cerveja após jogar as partes do corpo em lixeiras",
-      "imagem": "https://s2-g1.glbimg.com/Ldfq64erd6hAHVXsw3g-I-VhIZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/t/ncwigPTnCqAV56CXowZg/foto-g1-58-.png"
-    },
-    {
-      "titulo": "Professora é demitida por abandono de emprego e terá que devolver R$ 12 mil em Rondonópolis (MT)",
-      "imagem": "https://s2-g1.glbimg.com/wkg6-3v7LXc6zlcu1C_Pyefh8B4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/x/Z7BPvpSMAjZB2HtVdzrg/foto.jpeg"
-    },
-    {
-      "titulo": "Como algoritmos criam bolhas de informação, reforçam o que você já pensa e ameaçam a democracia; saiba como fugir delas",
-      "imagem": "https://s2-g1.glbimg.com/KPqYWF420-obxJoQTUcg3PthLLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/k/Lz359LROarZE1xNO20jQ/captura-de-tela-2026-08-18-155836.png"
-    },
-    {
-      "titulo": "Eduardo Razuk: quem é o influenciador preso e ligado a rifas de carros de luxo nas redes sociais",
-      "imagem": "https://s2-g1.glbimg.com/c5beAYamOaBnxbytUbJwqfBTsXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/P/c2xTqjRRmkkoARxVgoAQ/menino-preso.jpg"
-    },
-    {
-      "titulo": "Mãe de Hayden Panettiere diz que namorado da atriz era 'alguém de quem a família queria se livrar'",
-      "imagem": "https://s2-g1.glbimg.com/PXG9pFyPMtLREqFT9ACIxXA-Z8A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/F/u3g76CQkAQe8nISoucjQ/2026-08-17t031919z-49133298-rc2noz9en05m-rtrmadp-3-people-hayden-panettiere.jpg"
-    },
-    {
-      "titulo": "O que garante a qualidade da carne antes de chegar ao consumidor?",
-      "imagem": "https://s2-g1.glbimg.com/kQlHU3SoXdPaf7ec9XoQiFls1Ew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/5/npVLfnSBq2Wx0tSUGTKw/foto-divulgacao-junior-frigometal-4-.png"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Bahia",
-      "imagem": null
-    },
-    {
-      "titulo": "Polícia do DF prende homem que ofereceu R$ 300 para estuprar criança de 11 anos",
-      "imagem": "https://s2-g1.glbimg.com/GVXvuzU9V55l4hCxS8Sr0OEq-EY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/5/o/bbxBUMRFOKwD3WRU0icQ/a1145-df1-limpo-13062023-frame-91626.jpeg"
-    },
-    {
-      "titulo": "Justiça revoga prisão de homem apontado como autor da morte de Ianny Marry, na PB",
-      "imagem": "https://s2-g1.glbimg.com/H_aHE0mZYHMv5IHF8BF72UPUJHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/l/fFAXB6Stq5ni0pBhuJqQ/david-arayam-ianny-marry.jpg"
-    },
-    {
-      "titulo": "BR-259 é totalmente interditada por falhas estruturais em viaduto e desvios aumentam trajeto em até 74 km no ES; veja rotas alternativas",
-      "imagem": "https://s2-g1.glbimg.com/i1cH6sCfKEr8Qlrpp0n0_bPiSj8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/L/Aqiry3QnWFKa6Bkk1LCg/thumb-videos-g1-9-.jpg"
-    },
-    {
-      "titulo": "Furto de fios de cobre deixa unidade de saúde sem energia e provoca perda de vacinas em Santo Antônio de Pádua; suspeito é identificado",
-      "imagem": "https://s2-g1.glbimg.com/RIU5jjs3c_vVGxvCo2dZtH7J8oA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/o/bOXtPMSzOzNojrHcNarA/fios.jpg"
-    },
-    {
-      "titulo": "Carga de 1,8 mil garrafas de whisky tomba e é saqueada em rodovia de SC; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/CnNmSRA0sBcsn71y9LrpAFmssEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/3/4nxEFqSuCg9Be5BX4vJg/garrafas.jpeg"
-    },
-    {
-      "titulo": "Dois homens são presos e adolescente é apreendido por suspeita de estupro coletivo e morte de indígena no MA",
-      "imagem": "https://s2-g1.glbimg.com/31wkr_zt7rZ7sRGgsDqO4xfveUw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/F/e3WXUOSr6Ruq4QAH4Stw/montagens-1920-x-1080-px-5-.png"
-    },
-    {
-      "titulo": "Ex-presidente da Apae de Bauru participa audiência sobre desvios milionários na entidade, mas não é ouvido",
-      "imagem": "https://s2-g1.glbimg.com/t2sQbUs99KfRbJWj5MgpBYQkwuE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/S/XWxvu4SF2cTgatJ3wHVQ/whatsapp-image-2026-08-18-at-13.26.57.jpeg"
-    },
-    {
-      "titulo": "Ibovespa tem 2º pior desempenho entre 21 bolsas em agosto",
-      "imagem": "https://s2-g1.glbimg.com/6tYFg4Q1F5oU6E97quDrPnFi_rI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/z/I/qCZVPnQWAGehPMho85rA/microsoftteams-image-23-.png"
-    },
-    {
-      "titulo": "Acidentes com bicicletas sobem 5,5% em Macapá no primeiro semestre, aponta PM",
-      "imagem": "https://s2-g1.glbimg.com/Q24pRJbH-m07hV82BpMMkumXKyg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/T/V/2P2M0mSi6d4QYXaYQWOg/whatsapp-image-2021-02-12-at-16.39.39.jpeg"
-    },
-    {
-      "titulo": "Polícia Civil prende dois suspeitos de roubar pertences em residências de Timon",
-      "imagem": "https://s2-g1.glbimg.com/rDBttf-sJu6Mitbe9ULyq2dzMXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/i/vgspi8R7qNL2sQuMBK7w/montagens-1920-x-1080-px-68-.png"
-    },
-    {
-      "titulo": "Falta de mão de obra na indústria frigorífica impulsiona avanço da automação",
-      "imagem": "https://s2-g1.glbimg.com/-1F3NXfXazA4iGNasFTh4yjCJn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/w/ImhQn7TsGYLvSMyV8ZAQ/foto-divulgacao-junior-frigometal-1-.png"
-    },
-    {
-      "titulo": "Primeira Turma do STF torna réu o deputado Gilvan da Federal por fala em que deseja morte de Lula",
-      "imagem": "https://s2-g1.glbimg.com/zGO1Tc9_2VtgDLbso8fUeozn9v0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/0M6ZUOSK6CpKOEX96eAw/thumb-videos-g1.jpg"
-    },
-    {
-      "titulo": "De R$ 0 a R$ 54,4 milhões: veja o patrimônio dos candidatos ao governo do TO declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/n927WZVeFq5HIvxOyx9Am7MMDc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/PJn1chTzGEJMMmJ08xNA/foto-e-montagem-vertical-2026-08-17t085314.433.png"
-    },
-    {
-      "titulo": "City Farm FAG terá quatro dias de programação que aproxima famílias do campo",
-      "imagem": "https://s2-g1.glbimg.com/fa697rUDuRoRlsFfCyUX9CUSe9c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/k/aBzFm5SAa70Lr8W9wsJw/destaque.png"
-    },
-    {
-      "titulo": "OpenAI reduz desenvolvimento de IA após agente em teste invadir sistemas de outra empresa",
-      "imagem": "https://s2-g1.glbimg.com/ZfKAzrEJwgtN80ljq3Xm_ZKYEVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/7/E9EqvJSQmtpA4O5ba3cg/19bf2440-8770-11f1-b430-afa19a42b819.jpg.webp"
     }
   ],
-  "atualizadoEm": "2026-08-18T19:15:46.582Z"
+  "atualizadoEm": "2026-08-18T19:48:06.398Z"
 }
