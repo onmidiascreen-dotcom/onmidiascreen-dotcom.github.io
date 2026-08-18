@@ -1,11 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Estudante morre após ataque a tiros em escola nas Filipinas",
+      "imagem": null
+    },
+    {
       "titulo": "Vídeo: Mulher é quase arrastada pela água enquanto pilotava moto na Índia",
       "imagem": null
     },
     {
-      "titulo": "Osmar Stábile confirma acerto para a renovação de Memphis com o Corinthians",
+      "titulo": "Osmar Stabile confirma acerto para a renovação de Memphis com o Corinthians",
       "imagem": null
     },
     {
@@ -115,11 +119,7 @@
     {
       "titulo": "&#8220;Reações são esperadas&#8221;, dizem especialistas após procedimento de Virginia",
       "imagem": null
-    },
-    {
-      "titulo": "Arcabouço fiscal perdeu a credibilidade, diz Marcos Mendes",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-18T03:22:15.682Z"
+  "atualizadoEm": "2026-08-18T04:06:19.552Z"
 }

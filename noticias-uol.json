@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Tiroteio em escola nas Filipinas deixa dois estudantes mortos",
+      "imagem": null
+    },
+    {
       "titulo": "Tarcísio começa campanha em SP com discurso nacional, calibrado para 2030",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Wagner Moura diz que errou ao usar na TV a expressão 'fascisminho de esquerda'",
       "imagem": null
-    },
-    {
-      "titulo": "Roteiro lista 26 endereços para comer comida asiática em São Paulo",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-18T03:22:15.051Z"
+  "atualizadoEm": "2026-08-18T04:06:19.095Z"
 }
