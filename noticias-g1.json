@@ -1,15 +1,83 @@
 {
   "noticias": [
     {
-      "titulo": "Medicamentos para perder peso podem ser considerados doping no esporte?",
+      "titulo": "Virginia posa em mansão de Vini Jr. e reclama do calor europeu",
+      "imagem": "https://s2-g1.glbimg.com/BPkGFU8egr6SsRWrx-IOrYG_xkY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/u/ARAQz0Tla4Qp6p4dsAvw/imagens-g1-32-.png"
+    },
+    {
+      "titulo": "Eleições 2026: Dos oito deputados federais do AC, seis tentam reeleição",
+      "imagem": "https://s2-g1.glbimg.com/TJnO4QLdMXUeOPvWmi-kYiaWCGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/y/I0l4YRQ4uzzSt0tB2Bnw/design-sem-nome.jpg"
+    },
+    {
+      "titulo": "Eleições 2026 têm 406 candidatos que se declaram LGBTQIA+",
+      "imagem": "https://s2-g1.glbimg.com/bYcPIK8kZ3x7JbXQlHAUKT-OZ-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/J/N7XQaEQ8yw882tPc514w/bandeira-lgbt.jpg"
+    },
+    {
+      "titulo": "Eleições 2026 no PR: Sandro Alex tem agenda com representantes de segurança, saúde e turismo",
+      "imagem": "https://s2-g1.glbimg.com/qSW1pgbqWXE3IA-S1b7k71d6Oi8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/v/ts68xGTJmTvdEnfLtoDA/whatsapp-image-2026-08-17-at-09.02.18.jpeg"
+    },
+    {
+      "titulo": "Eleições 2026 no PR: Sérgio Moro tem agenda com empresários, imprensa e lideranças na Grande Curitiba",
+      "imagem": "https://s2-g1.glbimg.com/zwi2WL9io9143fYcs-w-CBnLFQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/K/UT5LhAQuWLPTe1LpAPFQ/g1-13-.png"
+    },
+    {
+      "titulo": "Galpão de reciclagem pega fogo e levanta torre de fumaça em Saquarema; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/45kiT1HPDnwyk8a_pf10XNc5E_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/P/QxrRrTSzKkwABAz4FqfQ/incendio-levanta-torre-de-fumaca-em-saquarema.jpg"
+    },
+    {
+      "titulo": "De R$ 116 mil a R$ 4,5 milhões: veja o patrimônio e bens dos candidatos ao Senado pelo ES",
+      "imagem": "https://s2-g1.glbimg.com/XS4Mf_KMzpyn5ei7Ktqm_rH24z4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/h/CEPS2bRzKtACwNNHVSDw/thumb-fotos-2026-08-06t152513.486.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de terça-feira, 18 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/5cfGJAo0Yq5eMPDvpLl3xQ7iMQE=/s01.video.glbimg.com/deo/vi/99/93/14879399"
+    },
+    {
+      "titulo": "'Nossa amizade é tão forte que decidimos casar': as amigas que optaram por união platônica",
+      "imagem": "https://s2-g1.glbimg.com/n0DLwEFMXMoth8vr4rpy9t8w-oc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/d/tUfu8mRquJwM9SasqC2g/amigas.png"
+    },
+    {
+      "titulo": "Taxista é ferido com canivete após passageiro anunciar assalto durante corrida em Santos, SP",
+      "imagem": "https://s2-g1.glbimg.com/mZbTa_vOUjxhZtNmAAM00FBXnNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/j/JxhQBqSBatihmuYH1Rvw/prisao-gcm-2-.jpg"
+    },
+    {
+      "titulo": "Pós-graduação na UniAraguaia: conceito máximo no MEC",
+      "imagem": "https://s2-g1.glbimg.com/T1iPZV6qcSL-5UiY1fXbXLF8-xE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/O/zMA0hyTYqkHORUbhlPvA/chamada-1.jpg"
+    },
+    {
+      "titulo": "EUA impõem sanções a Tomoko Akane, presidente do Tribunal Penal Internacional",
       "imagem": null
+    },
+    {
+      "titulo": "Empresário é baleado e assaltante é morto durante roubo a loja de tintas em MT",
+      "imagem": "https://s2-g1.glbimg.com/q7weCRJubCqvEdEJSqfJ7pIciPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/l/ZzO4dzSTaBsUVmB45KpA/videos-g1-41-.jpg"
+    },
+    {
+      "titulo": "Idosa de 80 anos morre em queda do 2º andar de prédio; filho é preso suspeito de feminicídio",
+      "imagem": "https://s2-g1.glbimg.com/vsZhjZWGlrGzKpCUrKP62Ivu-mA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/n/K5AudrRr2NbBj2MvfkGQ/deam.jpg"
+    },
+    {
+      "titulo": "Homem é preso após furtar cabos elétricos às margens da BR-381, em Ipatinga",
+      "imagem": "https://s2-g1.glbimg.com/u9J8EPU_dlq0pKpC9d2v_GHyq_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/V/uckxLvRduoJkRvj2fQ1g/whatsapp-image-2026-08-18-at-10.29.00.jpeg"
+    },
+    {
+      "titulo": "Lula lamenta morte de Laura Cardoso e destaca legado da atriz: 'Sua imagem estará sempre na memória de gerações'",
+      "imagem": "https://s2-g1.glbimg.com/3WK3nBZOZtJzBOQj3H-nf1JOpHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/U/VQdtcBQy66qVAtpzPW6g/20161011-sz-sol-nascente-12.t5b770d0a.m2048.xtsq8plypmsopbj14.jpg"
+    },
+    {
+      "titulo": "Região do Barigui se consolida como um dos endereços mais desejados de Curitiba",
+      "imagem": "https://s2-g1.glbimg.com/YdqYes06VCrqF7xyUVjFend65hc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/c/POSpASQpCTgahTMZNwuA/foto-destaque.jfif"
+    },
+    {
+      "titulo": "Medicamentos para perder peso podem ser considerados doping no esporte?",
+      "imagem": "https://s2-g1.glbimg.com/2WJaH2fO-bXkgzexH7KwOHtv8r8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/Y/AZ6A3CTHeJ7ZbiHXqR3Q/md.png"
     },
     {
       "titulo": "Maringaense Habanero é eleito o segundo melhor restaurante do Paraná",
       "imagem": "https://s2-g1.glbimg.com/tk_Hh2qB25ttfYwlhiraHvGJEj8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/5/dJnfkcRz2XQHaFXSh8NA/fachada-1-.jfif"
     },
     {
-      "titulo": "Polícia de MT liga esquema de apostas que envolve influenciadora capa de revista e ação que prendeu MC Ryan e MC Poze",
+      "titulo": "Polícia liga esquema de apostas que envolve influenciadora de MT e ação que prendeu MC Ryan e MC Poze",
       "imagem": "https://s2-g1.glbimg.com/sE2VMNbdEiekKJ9sQHnuAQvJ5_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/3/ARbcwKQmOj2DFtp5FeYA/videos-g1-3-.png"
     },
     {
@@ -26,7 +94,7 @@
     },
     {
       "titulo": "Emirados Árabes acusam Irã de disparar dois mísseis contra o país",
-      "imagem": "https://s2-g1.glbimg.com/gpRDhEfGn5NU0Vmqe464OAqLgRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Q/hczGqLRrClaRPwiIuV1w/2026-08-18t101219z-788622351-rc2c6maaliss-rtrmadp-3-iran-crisis-hormuz.jpg"
+      "imagem": "https://s2-g1.glbimg.com/Bz7rvfFU9zaBCsYk7ce1Od1ylz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/h/38FesAQ2Gekr2TzmMRrw/2026-07-30t103635z-958657427-rc27omawqqqd-rtrmadp-3-iran-crisis.jpg"
     },
     {
       "titulo": "Adolescente de 14 anos morta a facadas no RS era dançarina, escrevia poesia e jogava futsal: 'Cheia de vivacidade', diz professora",
@@ -46,80 +114,12 @@
     },
     {
       "titulo": "Ministério da Fazenda suspende ZeroumBet, criada pela influenciadora Deolane Bezerra, e outras empresas de apostas online",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/pN521y38_oe_gZuFwXo2liz6MHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/W/xhgARnSrWR2ApcWXFQKQ/globo-canal-5-20260524-2000-frame-55347.jpeg"
     },
     {
       "titulo": "Morte de Hayden Panettiere: namorado e cunhado da atriz estavam presentes no local, diz site",
       "imagem": "https://s2-g1.glbimg.com/PXG9pFyPMtLREqFT9ACIxXA-Z8A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/F/u3g76CQkAQe8nISoucjQ/2026-08-17t031919z-49133298-rc2noz9en05m-rtrmadp-3-people-hayden-panettiere.jpg"
-    },
-    {
-      "titulo": "AO VIVO: Assista ao JAC1 com Quésia Melo",
-      "imagem": "https://s2-g1.glbimg.com/jQxjC0QIqgQXP3244MLgvTyf4EU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/e/i5KREyTlypQ3zLfSqeLw/whatsapp-image-2026-03-11-at-11.24.06.jpeg"
-    },
-    {
-      "titulo": "Cearense é achado morto na Bahia após mais de uma semana desaparecido",
-      "imagem": "https://s2-g1.glbimg.com/mIZIaCXOB2hGH51khjSqd6-KJnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/MbS0A6QEO0AwUm7Zlzyg/jailton-1.jpg"
-    },
-    {
-      "titulo": "Bill Rasmussen, fundador da ESPN, morre aos 93 anos",
-      "imagem": "https://s2-g1.glbimg.com/bXtrrkP98-cOnbzB_9OsN9f8j5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/t/sblHRKSI2X89ZIN7v7RA/20190906-jaf08106.jpg"
-    },
-    {
-      "titulo": "Vorcaro e Master vão a julgamento na CVM em processo que apura fraudes em mercado de capitais",
-      "imagem": "https://s2-g1.glbimg.com/lCykfWp1EYWtsn0Skdi3BQVpNis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/M/DDWT4VQqa1fRTSdKsqxQ/fotojet-2025-11-19t074050.097.jpg"
-    },
-    {
-      "titulo": "Boni lamenta morte de Laura Cardoso e destaca legado da artista: ‘Uma atriz de primeira grandeza’",
-      "imagem": "https://s2-g1.glbimg.com/_eghAtrqiuwgkmIWPSsgFdexuzw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/r/izxRMuQS6p4ALayILMMA/foto-g1.jpg"
-    },
-    {
-      "titulo": "Queda de passarela na Fernão Dias: carreta com caminhão atingiu passarela, que desabou sobre carro e matou casal; veja como foi",
-      "imagem": "https://s2-g1.glbimg.com/7_77jaCzy6xXvs3O_luHpxuK7UM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/H/xIAKziRMeZM1qQALdVtg/texto-do-seu-paragrafo-2026-08-18t132911.857.png"
-    },
-    {
-      "titulo": "Chacina em Manaus: entenda como o crime aconteceu durante cerca de 2 horas",
-      "imagem": "https://s2-g1.glbimg.com/gJSbF9QINUtFkpyD2rI7ZYELJ3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Q/p7n6KwTimRCuxuBL1pOg/captura-de-tela-2026-08-17-193628.png"
-    },
-    {
-      "titulo": "Efeito dominó: crises de Casas Bahia e Marabraz podem deixar crédito mais difícil ao varejo",
-      "imagem": "https://s2-g1.glbimg.com/Q6A47zyQCPFRDCQix09CykyqRU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/s/3/KsxjYyR1ysKxThJWITRw/ato20240429117.jpg"
-    },
-    {
-      "titulo": "Romero Jucá desiste de disputar vaga de deputado federal por Roraima nas eleições 2026",
-      "imagem": "https://s2-g1.glbimg.com/0nfoKHbkwYYSpz0Fa5N-SqIzoI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/v/87oy3bQsCjvIHnAX6VKg/54579983762-51de93863b-o.jpg"
-    },
-    {
-      "titulo": "Palhaços presos no ES tinham mandados da Justiça de MT por estelionato",
-      "imagem": "https://s2-g1.glbimg.com/4ll2-8ulhNBY9G1ZRQz7_OndaZ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/7/HBgb54Q2ehavnk5DVvnQ/videos-g1-40-.jpg"
-    },
-    {
-      "titulo": "Caruaru e outros 44 municípios são notificados com alerta de chuvas intensas com grau de 'perigo' no interior de PE",
-      "imagem": "https://s2-g1.glbimg.com/1WngS22rB2z17gRPr6aBcVJ55uQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/p/NDPp5xQC66F47vXti2EQ/design-sem-nome-2026-08-18t132911.496.png"
-    },
-    {
-      "titulo": "Prefeitura na Bahia abre concurso com salários que podem chegar a R$ 15 mil",
-      "imagem": "https://s2-g1.glbimg.com/cVXdSXVxtYeDzRmqrXG4ekqgNWg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/I/BfvTf3Sjqkrf0qHKx1TQ/closeup-businessman-hand-analyzing-management-graphs-typing-company-strategy-laptop-keyboard-working-marketing-project-executive-manager-planning-business-investment-startup-office-1-.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de terça-feira, 18 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/brVb7uYRvZFdmJvJZAgw88zS4p4=/s01.video.glbimg.com/deo/vi/33/89/14878933"
-    },
-    {
-      "titulo": "Saiba como evitar ligações abusivas: Procon de Taubaté orienta consumidores",
-      "imagem": "https://s2-g1.glbimg.com/qP58SaTwOel2teH2FhnTknUyib4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/3/j/b7LfNwT8CzmoALJNNIlw/chamada.jpg"
-    },
-    {
-      "titulo": "Razuk, influencer preso por rifas on-line, ostentava coleção milionária de Golfs-GTI vindos da Europa para MS",
-      "imagem": "https://s2-g1.glbimg.com/xWhJrVFC12T5jeRLCq9im7krL-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/H/xiYEKSTB6DiT3WPBqy9Q/untitled-design-12-.png"
-    },
-    {
-      "titulo": "Marina Silva condena ataque e afirma que violência política contra mulheres não pode ser naturalizada",
-      "imagem": "https://s2-g1.glbimg.com/baK0RbVzNaSSVvFgtyK_7OtXZ70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/4/7RhXFZR6i0Lu8QB43Sjg/marina.png"
-    },
-    {
-      "titulo": "Ex-vereador de Suzano é absolvido em caso de ‘rachadinha’",
-      "imagem": "https://s2-g1.glbimg.com/Ik0O7IuB42gwfsb63XrvDd3IDag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/4/OvlELSQauT5RvohPIQug/foto-lisandro-ri8bse0tw60k3ofbyd.png"
     }
   ],
-  "atualizadoEm": "2026-08-18T16:57:56.456Z"
+  "atualizadoEm": "2026-08-18T17:29:37.026Z"
 }
