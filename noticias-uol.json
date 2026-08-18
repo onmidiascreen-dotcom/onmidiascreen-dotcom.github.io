@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Tarcísio manifesta solidariedade a Marina após hostilidade em SP",
+      "imagem": null
+    },
+    {
       "titulo": "Tiroteio em escola nas Filipinas deixa dois estudantes mortos",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Roteiro traz 29 bons restaurantes de carnes em São Paulo",
       "imagem": null
-    },
-    {
-      "titulo": "Wagner Moura diz que errou ao usar na TV a expressão 'fascisminho de esquerda'",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-18T04:06:19.095Z"
+  "atualizadoEm": "2026-08-18T04:50:39.309Z"
 }
