@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Cargill retomará produção de carne bovina nos EUA após acordo trabalhista",
+      "imagem": null
+    },
+    {
+      "titulo": "Governo avalia usar sobras do Proagro no combate ao El Niño",
+      "imagem": null
+    },
+    {
+      "titulo": "Glória Menezes faleceu 6 dias após aniversário de morte de Tarcísio Meira",
+      "imagem": null
+    },
+    {
       "titulo": "Quem são os candidatos ao governo de Tocantins em 2026",
       "imagem": null
     },
@@ -107,19 +119,7 @@
     {
       "titulo": "Cosan comunica intenção de deixar Bolsa de Nova York e manter ações na B3",
       "imagem": null
-    },
-    {
-      "titulo": "Polícia fecha laboratório clandestino de remédios para emagrecimento em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Wall Street prolonga baixa com juro dos Treasuries em nível elevado",
-      "imagem": null
-    },
-    {
-      "titulo": "Após renovar com Memphis, Corinthians rebate provocação do Palmeiras; veja",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-18T22:49:10.256Z"
+  "atualizadoEm": "2026-08-18T23:17:37.143Z"
 }
