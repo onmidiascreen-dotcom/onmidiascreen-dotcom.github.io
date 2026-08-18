@@ -1,6 +1,74 @@
 {
   "noticias": [
     {
+      "titulo": "Milei volta a criticar Lula nas redes sociais: &#8220;Socialismo empobrecedor&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "F1 confirma Verstappen para 2027, mas deixa Bortoleto fora de lista",
+      "imagem": null
+    },
+    {
+      "titulo": "Aves podem voltar à UE antes da carne bovina, diz ministro",
+      "imagem": null
+    },
+    {
+      "titulo": "Cármen Lúcia é eleita presidente da Primeira Turma do STF",
+      "imagem": null
+    },
+    {
+      "titulo": "Advogado avalia pedir nulidade de inquéritos de Lulinha",
+      "imagem": null
+    },
+    {
+      "titulo": "Glória Menezes: conheça vida e obra da primera-dama da TV brasileira",
+      "imagem": null
+    },
+    {
+      "titulo": "Quem foi Carlos Cesare, ator que morreu aos 60 anos",
+      "imagem": null
+    },
+    {
+      "titulo": "Soja tem leve alta em Chicago com expectativa de maior demanda da China",
+      "imagem": null
+    },
+    {
+      "titulo": "MPF processa Renan Santos e MBL e pede R$ 500 mil por ataques a indígenas",
+      "imagem": null
+    },
+    {
+      "titulo": "Amigas de Hayden Panettiere falam sobre atriz: “Parecia estar melhorando”",
+      "imagem": null
+    },
+    {
+      "titulo": "Memphis Depay celebra a renovação de contrato: &#8220;O Corinthians é gigante&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "OpenAI reduz ritmo de treinamento de IA para reforçar segurança após ataque",
+      "imagem": null
+    },
+    {
+      "titulo": "Atriz Glória Menezes morre aos 91 anos",
+      "imagem": null
+    },
+    {
+      "titulo": "Café sobe 4,58% em Nova York com colheita brasileira em ritmo lento",
+      "imagem": null
+    },
+    {
+      "titulo": "França vai expulsar diplomatas iranianos do país, diz chanceler",
+      "imagem": null
+    },
+    {
+      "titulo": "Vídeo: Acidente de helicóptero deixa três mortos na Grécia",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja as opções do Botafogo para jogo decisivo pela Sul-Americana",
+      "imagem": null
+    },
+    {
       "titulo": "Anne Hathaway lança 5 filmes em 2026; veja os mais populares no Brasil",
       "imagem": null
     },
@@ -51,75 +119,7 @@
     {
       "titulo": "Callum Turner diz que &#8220;começar uma família&#8221; com Dua Lipa é uma prioridade",
       "imagem": null
-    },
-    {
-      "titulo": "Secretário da Asean vê margem para Brasil ser incluído em rol de parceiros",
-      "imagem": null
-    },
-    {
-      "titulo": "Sebastian Stan revela participação em &#8220;The Batman: Parte 2&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Renan Santos defende reduzir maioridade penal para 14 anos",
-      "imagem": null
-    },
-    {
-      "titulo": "Phyllida Law, atriz de cinema e teatro, morre aos 94 anos",
-      "imagem": null
-    },
-    {
-      "titulo": "Justiça inglesa contraria STF e mantém uso de provas da Lava Jato",
-      "imagem": null
-    },
-    {
-      "titulo": "Policial é preso suspeito de ajudar entrada de celulares em presídio baiano",
-      "imagem": null
-    },
-    {
-      "titulo": "Sol desaparecerá por vários minutos em cidade do Egito em eclipse do século",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: Irã está perdendo o controle de Ormuz, ponto central da guerra",
-      "imagem": null
-    },
-    {
-      "titulo": "Ouro fecha em queda com alta dos rendimentos dos títulos e do petróleo",
-      "imagem": null
-    },
-    {
-      "titulo": "Anac suspende metade das aeronaves fiscalizadas em voos panorâmicos no Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "MPF ajuíza ação contra faculdade por uso de cadáveres do Hospital Colônia",
-      "imagem": null
-    },
-    {
-      "titulo": "STF torna Gilvan da Federal réu por injúria contra Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Via Láctea engoliu uma outra galáxia menor há cerca de 11,8 bilhões de anos",
-      "imagem": null
-    },
-    {
-      "titulo": "PIB da Colômbia cresce 3,5% no 2º trimestre ante mesmo período de 2025",
-      "imagem": null
-    },
-    {
-      "titulo": "EUA sancionam autoridades do TPI em campanha para desmantelar tribunal",
-      "imagem": null
-    },
-    {
-      "titulo": "Corinthians anuncia renovação de contrato com Memphis Depay até 2028",
-      "imagem": null
-    },
-    {
-      "titulo": "Novas ferramentas digitais enfrentam resistência de Lula na campanha do PT",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-18T20:18:32.344Z"
+  "atualizadoEm": "2026-08-18T20:48:25.839Z"
 }
