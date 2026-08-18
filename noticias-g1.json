@@ -1,8 +1,84 @@
 {
   "noticias": [
     {
+      "titulo": "Montes Claros inaugura clínica gratuita de fisioterapia",
+      "imagem": "https://s2-g1.glbimg.com/sY9oL_z48gBXcc9O6Hn2u-vHmQk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/H/kjfvZXRNAzWkvxFkfgwg/clinica-clamacia.jpeg"
+    },
+    {
+      "titulo": "Metais DAX unem design, desempenho e 10 anos de garantia",
+      "imagem": "https://s2-g1.glbimg.com/s3GieZDUJa5QlJvzLcHnMxqenMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/B/bVbfxNS3i78IZiABytLA/foto-1-6-.png"
+    },
+    {
+      "titulo": "Projeto de Trabalho Social para obras no Canal de Medeiros é apresentado",
+      "imagem": "https://s2-g1.glbimg.com/1W4GSzL18_Tzlkd1G5w5eSNyENE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/i/RbCqanQNecIt7c0z0scg/320x180-foto-destaque-horizontal-17-.png"
+    },
+    {
+      "titulo": "Macaé terá audiência para propor monitoramento eletrônico de agressores",
+      "imagem": "https://s2-g1.glbimg.com/nnbs5Pz-qoVyyJw7TTITm7Szl_Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/7/wujWW1S8SF17qzimFbMA/foto-1-monitoramento-eletronico.jpeg"
+    },
+    {
+      "titulo": "Mega-Sena pode pagar prêmio de R$ 45 milhões nesta terça-feira; g1 transmite ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/ta-_PCbXeOCvNKWb9Sx3SZHdMBI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/5/MJd3u6SCGT2G7x4M0U5A/captura-de-tela-2026-07-16-205336.png"
+    },
+    {
+      "titulo": "Até quando vai o calor? Frente fria avança na quinta pelo Sul; ar frio ganha força no fim de semana no Sudeste",
+      "imagem": "https://s2-g1.glbimg.com/tFKOpzgja37rPH_tDwQM2jcDZOU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/x/V/nZ6SD3SSeTweTCFQuMzQ/rua20190717012-fabio-vieira-estadao-conteudo.jpg"
+    },
+    {
+      "titulo": "Mais de 3 mil candidatos trocaram de partido desde 2022; veja as legendas que mais ganharam e perderam nomes",
+      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
+    },
+    {
+      "titulo": "'O Brasil pronto pra mais'; 'O Brasil vai vencer' e mais: veja slogans dos candidatos à Presidência do Brasil",
+      "imagem": "https://s2-g1.glbimg.com/2Ev5iREojP5j2LVQRVqJtPtvpvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/y/I51THoSPytgLWMsZ1Vow/copia-de-sem-nome-1200-x-900-px-.jpg"
+    },
+    {
+      "titulo": "Em levantamento, moradores de 18 favelas do Rio apontam falta de política contínua de urbanização",
+      "imagem": "https://s2-g1.glbimg.com/GyA2bTyQpuuYgkntWmDLMmj4c60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/A/JJmcK5SNGB0jLjIgPtsA/rj1-limpo-20251205-1115-frame-116168.jpeg"
+    },
+    {
+      "titulo": "Número de mulheres candidatas à Presidência cai pela metade em 2026",
+      "imagem": "https://s2-g1.glbimg.com/MTF02-k5O13SKeRGr-d7PUPB8J0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/B/mGEYv8TqKcWB8biARVDg/ok-260817-info-candidaturas-femininas.png"
+    },
+    {
+      "titulo": "Bolsa Família 2026: pagamentos de agosto começam nesta terça; veja calendário",
+      "imagem": "https://s2-g1.glbimg.com/PO0iKlR8KpT1zOOYPg35i2nBfHQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/X/p/m9WC1JRNGCSTELVKKrBA/fta20240801129.jpg"
+    },
+    {
+      "titulo": "Pedras, varetas e mais: Macacos-prego usam ferramentas há 3 mil anos na Serra da Capivara, apontam estudos",
+      "imagem": "https://s2-g1.glbimg.com/jvVqZ5adgHU61i5O8XdCX7VuXU0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/6/5kqjpJTXSLMez2HuQekw/copia-de-edicao-imagens-g1-6-.png"
+    },
+    {
+      "titulo": "Ministros do TSE se reúnem nesta terça para discutir uso de deepfakes na campanha eleitoral",
+      "imagem": "https://s2-g1.glbimg.com/Exr-ICO7Bi7v7sYcR4i7qodao6A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/C/hclASYQOAHBg5fWnMHWQ/fotojet-2026-07-25t140044.696.jpg"
+    },
+    {
+      "titulo": "Padre que interrompeu missa durante tiroteio na Bahia lamenta violência: 'Meu coração dói'",
+      "imagem": "https://s2-g1.glbimg.com/n5PpXvuAyOPkON8oLjQm2AG7nig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/z/EQ3QeeQR2PRSP1k5fKlg/foto-no-tamanho-home-11-.png"
+    },
+    {
+      "titulo": "Eleições 2026: Veja a agenda dos candidatos ao Governo do RJ nesta terça-feira (18)",
+      "imagem": "https://s2-g1.glbimg.com/3DnU8MRRTMrQnZ3s1iTeMhIgdGE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/B/dD8D7nS7C2OTWwMQyFLA/palacio-.jpeg"
+    },
+    {
+      "titulo": "Suspeito de matar PM teria discutido com vítima antes do crime, diz polícia",
+      "imagem": "https://s2-g1.glbimg.com/8o7y5pFBuwrXt2Ttsy55uHMq6zc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/K/sD89qgTKKWBNtkWc6ZIA/g1-2026-08-17t222141.725.jpg"
+    },
+    {
+      "titulo": "Temporais com granizo e ventos acima de 90 km/h devem atingir regiões do RS nesta terça; veja previsão do tempo",
+      "imagem": "https://s2-g1.glbimg.com/ADlClsZWfCTK3KcFRPIdms7pXpg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/c/yFLHXbQ0Ktjx3GC2rnRQ/g1-2-.png"
+    },
+    {
+      "titulo": "Novo chefe de escritório dos EUA para América Latina já criticou Brasil por decisão do STF",
+      "imagem": "https://s2-g1.glbimg.com/agYP1Z5cLSJW1SSJ839vw5CssuE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/f/I9FGA2S2APYCH0DJYAuA/whatsapp-image-2026-08-17-at-21.40.07.jpeg"
+    },
+    {
+      "titulo": "Vídeo mostra criminosos apontando armas para tripulantes durante assalto à embarcação no Amazonas",
+      "imagem": "https://s2-g1.glbimg.com/-fCbkoydqEiiF0Qs1huYiI5BUhI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/T/HvAaFmQ42cPywNsbyZzA/assalto-a-embarcacao-amazonas.jpg"
+    },
+    {
       "titulo": "Juliano Floss anuncia fim de namoro com Marina Sena",
-      "imagem": "https://s2-g1.glbimg.com/crkln_zPE4AXurgCFdrPWQb-n6c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/X/l/KmrqhZRfqb7Bd6NAVCxQ/marina-sena.jpg"
+      "imagem": "https://s2-g1.glbimg.com/6FiwnCgOC_ga2hPNRhCfGMu6vMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/S/2EHyz6RSSGZs4v1kkUYA/fotos-g1-1920-x-1080-px-2026-08-17t231336.968.png"
     },
     {
       "titulo": "Antiga Cadeia Pública de Manaus aguarda restauração e sofre com abandono, vandalismo e insegurança",
@@ -43,83 +119,7 @@
     {
       "titulo": "Adolescente de 14 anos é morta a facadas e polícia investiga ex-padrasto por feminicídio no RS",
       "imagem": "https://s2-g1.glbimg.com/aOlKn3Taq9avHkyOQNV3QWy8UqM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/k/OJf1wTT3SelHXMEHuVBw/whatsapp-image-2026-05-11-at-18.15.002.jpg"
-    },
-    {
-      "titulo": "Polícia apreende 140 kg de pasta base de cocaína escondidos em caminhão de combustível em Paulínia",
-      "imagem": "https://s2-g1.glbimg.com/x9dBn3YLsjfl2bCiE9ygrskbLi4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/d/i5TpcxSnKTYGNYevGZrA/whatsapp-image-2026-08-17-at-21.40.39.jpeg"
-    },
-    {
-      "titulo": "Itaú Unibanco recebe autorização preliminar para ter banco múltiplo nos EUA",
-      "imagem": "https://s2-g1.glbimg.com/p1wE1SVbt7CLvsD9tO4CKZW7dbM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/H/7RShsGTmadKQ5K9zMgBg/itau.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato André Luís ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/6xjl5r2lI0StPKn_d58m9qlzSx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/h/mzQpn4SbO0oJpn2LT0aA/andreluis.jpg"
-    },
-    {
-      "titulo": "Resumão diário do JN: Dino afasta presidente do TCE do Maranhão após suspeita de envolvimento em assassinato; Discord suspende transmissões ao vivo no Brasil",
-      "imagem": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
-    },
-    {
-      "titulo": "Há 30 anos, pesquisas de opinião registram os temas que eleitores consideram prioridade; saiba quais",
-      "imagem": "https://s2-g1.glbimg.com/y_IOO_tdPeE_Kbv2wMRFaTVRf9c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/p/Bb7j4DSV6eNh8UCDlkPw/globo-canal-4-20260817-2000-frame-118032.jpeg"
-    },
-    {
-      "titulo": "Super Sete hoje: resultado do concurso 887 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/lCNRfScQmXFDM2igGJVxrS3lS20=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/B/0g2HNvQ6W6ACN6pjyc8Q/supersete-887-pgacq.jpeg"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
-    },
-    {
-      "titulo": "Black Pantera abre álbum 'Continental' com fala do geógrafo Milton Santos",
-      "imagem": "https://s2-g1.glbimg.com/kvQWRGWJ6Y5znXb93OUU-M0Se0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/m/CS7W7uTnuoUJcJzo8K7A/creditos-hugo-brito-black-pantera-dsc09933.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo de Pernambuco nesta segunda",
-      "imagem": "https://s2-g1.glbimg.com/yGTvV6TAOwg8T4h_1861ryDOyLU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/f/IDZVqjR921a4g5TOzhcg/capa-agenda-g1-2026-08-16t181145.721.jpg"
-    },
-    {
-      "titulo": "Lotofácil hoje: resultado do concurso 3764 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/HxXtgRfPVFwpLRG0EwROa7agyrQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/O/AW5D9VTEaimclM4mWwwg/lotofacil-3764-pnbet.jpeg"
-    },
-    {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1274 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/P62EqT6ULmdaIJGPhT2CzNrGziA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/o2IiOKTIi7QBWanHPIcQ/diadesorte-1274-cgoic.jpeg"
-    },
-    {
-      "titulo": "Dupla Sena hoje: resultado do concurso 2997 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/bwYgI7g366350gJzlkfKfjenhVo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/S/hKqksAScA6cyZC4QgJeA/duplasena-2997-feyat.jpeg"
-    },
-    {
-      "titulo": "Lotomania hoje: resultado do concurso 2964 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/op_dY3W8KkTvqx5Wx41j8OhE-Io=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/k/xsBDCcTfmyuW3ge4lMEA/lotomania-2964-dbouj.jpeg"
-    },
-    {
-      "titulo": "Quina hoje: resultado do concurso 7094 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/TSQsv-37PA3fHV-hRMz4_3MtVpA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/L/GiKemQSwKXpjVRuBYOxQ/quina-7094-nvqdu.jpeg"
-    },
-    {
-      "titulo": "Mateus Simões inicia campanha no interior em Araxá e fala em aumento do efetivo da Polícia Civil de MG",
-      "imagem": "https://s2-g1.glbimg.com/6dErsXl-4EUMuNTSLNNNvzoIh0E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/f/3NhIA6T9GlbNB6Bz2k7g/visita-mateus-simoes-araxa.jpg"
-    },
-    {
-      "titulo": "Justiça mantém bloqueio de R$ 42,4 milhões da taxa de preservação ambiental de Ubatuba",
-      "imagem": "https://s2-g1.glbimg.com/I2iBGcfZs4ALtHgk4xyqBZqOz_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/X/pQRSX5QmK10QSouMBJHA/dsc02735.jpg"
-    },
-    {
-      "titulo": "Cotuca 2027: inscrições para processo seletivo seguem até quinta; veja como participar",
-      "imagem": "https://s2-g1.glbimg.com/a-qq0ou5bVBiM_BWPHrRGclEkv8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/l6U5RsQAejRPMvodJ4zA/design-sem-nome-2026-08-17t212903.647.jpg"
-    },
-    {
-      "titulo": "Suspeito de atirar em motorista de aplicativo por causa de valor da corrida é identificado em Ribeirão Preto",
-      "imagem": "https://s2-g1.glbimg.com/7MRGbNYY-CQrGpfb0d7hTMAh3fY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/V/KQRZMLSpecGPoLf8dZqw/design-sem-nome-7-.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de segunda-feira, 117 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/fiALAwc1dEYniim2fWlNXsqIRKM=/s01.video.glbimg.com/deo/vi/56/73/14877356"
     }
   ],
-  "atualizadoEm": "2026-08-18T02:18:31.712Z"
+  "atualizadoEm": "2026-08-18T03:22:16.943Z"
 }
