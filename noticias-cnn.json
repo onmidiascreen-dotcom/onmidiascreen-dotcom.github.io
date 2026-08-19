@@ -1,11 +1,79 @@
 {
   "noticias": [
     {
+      "titulo": "CNE lança parecer orientando escolas sobre &#8220;lei das férias&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Geopolítica faz maiores produtores de café reverem comércio global",
+      "imagem": null
+    },
+    {
+      "titulo": "Campeonato Brasileiro já teve 15 técnicos demitidos; veja a lista",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Time/DF: Flávio tem 44% das intenções de voto no 2º turno; Lula, 39%",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Time: Michelle Bolsonaro lidera intenções de voto ao Senado no DF",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Time: Celina lidera todos os cenários 1º e 2º turnos ao governo do DF",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Time/DF: Lula é rejeitado por 48% dos eleitores e Flávio, por 40",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Time/DF: Lula é aprovado por 54% dos eleitores; 45% desaprovam",
+      "imagem": null
+    },
+    {
+      "titulo": "Otan promete &#8220;defender aliados&#8221; após possível ameaça do Irã contra a Europa",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Time/DF: Lula e Flávio têm empate técnico no 1º turno",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Visitante indigesto&#8221;, Cruzeiro enfrenta Flamengo por vaga na Libertadores",
+      "imagem": null
+    },
+    {
+      "titulo": "Clima extremo exige transformação agrícola no Reino Unido",
+      "imagem": null
+    },
+    {
+      "titulo": "Rivadavia se despede da Libertadores invicto e com artilheiro do torneio",
+      "imagem": null
+    },
+    {
+      "titulo": "Traficante ‘Cascão’, operador de armas e drogas do CV, é preso no Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Pogba deixa o Monaco e segue buscando reerguer a carreira após doping",
+      "imagem": null
+    },
+    {
+      "titulo": "Fisioterapeuta de Glória Menezes recorda rotina da atriz; confira",
+      "imagem": null
+    },
+    {
+      "titulo": "Presidente do Chile declara estado de catástrofe após chuvas intensas",
+      "imagem": null
+    },
+    {
       "titulo": "O Grande Debate: Denúncias contra Marcola vão atingir Lula até as eleições?",
       "imagem": null
     },
     {
-      "titulo": "22 mortos: Ônibus envolvido em acidente levava pacientes de Imbituva (PR)",
+      "titulo": "23 mortos: Ônibus envolvido em acidente levava pacientes de Imbituva (PR)",
       "imagem": null
     },
     {
@@ -37,7 +105,7 @@
       "imagem": null
     },
     {
-      "titulo": "Acidente entre micro-ônibus e carreta deixa pelo menos 22 mortos no Paraná",
+      "titulo": "Acidente entre micro-ônibus e carreta deixa 23 mortos no Paraná",
       "imagem": null
     },
     {
@@ -51,75 +119,7 @@
     {
       "titulo": "Coquimbo Unido x Platense: horário e onde assistir ao jogo da Libertadores",
       "imagem": null
-    },
-    {
-      "titulo": "Brasil projeta alta de 20% nas exportações de etanol",
-      "imagem": null
-    },
-    {
-      "titulo": "Di María em Itaquera: argentino volta ao palco de seu primeiro gol em Copas",
-      "imagem": null
-    },
-    {
-      "titulo": "Kia Sorento passa por segundo corte e acumula R$ 55 mil de desconto",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasil tem recorde de apreensão de emagrecedores na fronteira com Paraguai",
-      "imagem": null
-    },
-    {
-      "titulo": "Avaí x Sport: horário e onde assistir ao jogo da Série B",
-      "imagem": null
-    },
-    {
-      "titulo": "Falta de vacinas na pecuária deve continuar até início de 2027, diz Sindan",
-      "imagem": null
-    },
-    {
-      "titulo": "Fortaleza x São Bernardo: horário e onde assistir ao jogo da Série B",
-      "imagem": null
-    },
-    {
-      "titulo": "Vila Nova x Ponte Preta: horário e onde assistir ao jogo da Série B",
-      "imagem": null
-    },
-    {
-      "titulo": "Amapá mira retomada da mineração com aporte e expansão da produção de ouro",
-      "imagem": null
-    },
-    {
-      "titulo": "Geração distribuída entra em ajuste e acende alerta para reestruturações",
-      "imagem": null
-    },
-    {
-      "titulo": "Cuiabá x Operário-PR: horário e onde assistir ao jogo da Série B",
-      "imagem": null
-    },
-    {
-      "titulo": "Amapá prepara infraestrutura para nova fronteira de petróleo e gás no Norte",
-      "imagem": null
-    },
-    {
-      "titulo": "IA e TikTok estão comprometendo preparo real para vestibular e Enem",
-      "imagem": null
-    },
-    {
-      "titulo": "NFL inicia parceria para desenvolvimento do flag football no Paraná",
-      "imagem": null
-    },
-    {
-      "titulo": "Os novos desafios dos BCs com a venda em massa no mercado de títulos",
-      "imagem": null
-    },
-    {
-      "titulo": "Salomão toma posse como novo presidente do STJ nesta quarta (19)",
-      "imagem": null
-    },
-    {
-      "titulo": "Campanha de Flávio avalia se defende ou não proibição total de bets",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T11:01:00.624Z"
+  "atualizadoEm": "2026-08-19T11:38:35.334Z"
 }
