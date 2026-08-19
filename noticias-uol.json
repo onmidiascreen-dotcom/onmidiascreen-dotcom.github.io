@@ -1,6 +1,38 @@
 {
   "noticias": [
     {
+      "titulo": "TSE encerra ação do PT após desistência e destrava repasses do fundo eleitoral",
+      "imagem": null
+    },
+    {
+      "titulo": "Filme estrelado pela apucaranense Luiza Godoi Acosta será exibido em Apucarana",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump manda repórter se calar, e Casa Branca diz que filhos 'vão se envergonhar' dela",
+      "imagem": null
+    },
+    {
+      "titulo": "Juíza diz que medidas cautelares não são suficientes para proteger mulher do marido empresário em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Chefs, empresários e sommeliers prestigiam especial O Melhor de São Paulo Gastronomia, da Folha",
+      "imagem": null
+    },
+    {
+      "titulo": "Candidatas mulheres são um terço do total há quatro eleições nacionais; veja perfil de 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Além de Carlos Cesare, relembre outros artistas que interpretaram Pablo no 'Qual é a Música'",
+      "imagem": null
+    },
+    {
+      "titulo": "Médica é denunciada pela morte de 6 crianças em UTI neonatal no Paraná",
+      "imagem": null
+    },
+    {
       "titulo": "São Paulo vence primeira após a Copa, derruba Bolívar e vai pegar Boca Juniors",
       "imagem": null
     },
@@ -10,42 +42,6 @@
     },
     {
       "titulo": "Eleições 2026: Confira a agenda de Lula, Flávio Bolsonaro e outros presidenciáveis",
-      "imagem": null
-    },
-    {
-      "titulo": "Plano de governo de Tarcísio destaca social em contraste com imagem de bolsonarista; conheça propostas",
-      "imagem": null
-    },
-    {
-      "titulo": "Plano registrado por Haddad foca segurança em contraste com imagem da esquerda; conheça propostas",
-      "imagem": null
-    },
-    {
-      "titulo": "Partidos lançam candidatos suspeitos de elo com facções apesar de pressão do Ministério Público",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávio toca um disco velho",
-      "imagem": null
-    },
-    {
-      "titulo": "Crédito para motoristas de apps libera só 11% do previsto, e governo admite falhas",
-      "imagem": null
-    },
-    {
-      "titulo": "Reforma tributária aumenta emissão de carbono com desoneração de proteína animal e energia",
-      "imagem": null
-    },
-    {
-      "titulo": "Sequência de gafes do governo da Colômbia após terremoto desgasta Espriella e ameaça ministro",
-      "imagem": null
-    },
-    {
-      "titulo": "Talibã aprofunda repressão e apaga mulheres da vida pública no Afeganistão",
-      "imagem": null
-    },
-    {
-      "titulo": "A espiral de Ulam e seus primos",
       "imagem": null
     },
     {
@@ -59,7 +55,11 @@
     {
       "titulo": "Caso de agressão de mulher por empresário em SP expõe dever de agir diante de violência",
       "imagem": null
+    },
+    {
+      "titulo": "Michel Alcoforado apresenta derivado de 'Coisa de Rico' no teatro, em São Paulo",
+      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T02:31:04.859Z"
+  "atualizadoEm": "2026-08-19T03:28:35.746Z"
 }
