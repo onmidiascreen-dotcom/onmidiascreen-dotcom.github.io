@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Astronauta Sophie Adenot se torna a primeira francesa a confrontar 'o vazio espacial'",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump suspende tarifas 50% sobre produtos importados do Canadá",
+      "imagem": null
+    },
+    {
       "titulo": "Incêndio em hotel deixa ao menos 9 mortos e 6 feridos na Índia",
       "imagem": null
     },
@@ -51,15 +59,7 @@
     {
       "titulo": "Estados Unidos avaliam não reconstruir bases militares atingidas pelo Irã",
       "imagem": null
-    },
-    {
-      "titulo": "Trump pressiona por encontro com Kim Jong Un ainda este ano",
-      "imagem": null
-    },
-    {
-      "titulo": "Palmeiras tem prova de fogo em Assunção contra o Cerro Porteño na Libertadores",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T07:24:22.203Z"
+  "atualizadoEm": "2026-08-19T08:01:49.273Z"
 }
