@@ -1,6 +1,106 @@
 {
   "noticias": [
     {
+      "titulo": "Polícia passa a investigar seguranças acusados de não ajudar mulher agredida pelo marido em frente de casa",
+      "imagem": "https://s2-g1.glbimg.com/3xq8CskxnnC6GU6rUNuSdA0gcq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/d/yq7BO7RKO6ypSwmF4pTw/fotojet-2026-08-19t161556.798.jpg"
+    },
+    {
+      "titulo": "Em resposta a Moraes, PGR diz que apoia plano de reocupação territorial do RJ, com ressalvas",
+      "imagem": "https://s2-g1.glbimg.com/4g0uuPUosG2xmRMwQmNWPE3Tnr0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/c/9hTAXVT0eo3hu42f6nCA/bdrj-limpo-20260128-0545-frame-145149.jpeg"
+    },
+    {
+      "titulo": "'Enquanto há vida, há esperança': mulher que descobriu bebê vivo após curetagem luta para manter gravidez",
+      "imagem": "https://s2-g1.glbimg.com/mQH-EXbEdFBS02oZCeRE3XMDLB0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/R/CGXesqQjat62fGrSBwAw/eptv1-1908-negligencia-cp004ena-2026-08-19-12-49-19.mxf-snapshot-00.29.189.jpg"
+    },
+    {
+      "titulo": "Sítio do Pica-Pau Amarelo ganha parque temático em shopping de Salvador",
+      "imagem": "https://s2-g1.glbimg.com/c8s_SmcfoZXmIw6mDvLueuZ-JHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/d/qCrhYsQE6kSjJJBkQqlg/whatsapp-image-2026-08-18-at-15.22.33.jpeg"
+    },
+    {
+      "titulo": "Escola indígena e Ceeja encerram atividades em Rondônia; governo justifica com falta de alunos",
+      "imagem": "https://s2-g1.glbimg.com/QUWYc5bvyIZo53X0T7TmsDyy5Rw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/H/ya9IOHRJiPpRsIFEh75Q/5ea83b11-d639-4be1-9232-9ec82cce2c59.jpeg"
+    },
+    {
+      "titulo": "Esposa de jóquei Leandro Henrique se despede nas redes: 'Um dia a gente se encontra de novo'",
+      "imagem": "https://s2-g1.glbimg.com/v2Tp0auyBmLQbCIez-t-2hncNwo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/J/5YVRlVQFuRMXNGrggEAg/773820574-18437588278133560-5235794006767818114-n..jpg"
+    },
+    {
+      "titulo": "Falsa médica é condenada a pagar R$ 15 mil por usar nome e CRM de ginecologista para atender pacientes em Goiânia",
+      "imagem": "https://s2-g1.glbimg.com/UwAaoFiPZsaKe2Z1xl-rTEF-LTs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/v/OBHuZFQSyhfZIudqtqLg/co-14-.png"
+    },
+    {
+      "titulo": "Fogo em terreno baldio assusta moradores no bairro Santo André, em Santarém",
+      "imagem": "https://s2-g1.glbimg.com/gN_QLfak7NEbzH6IKMfckkuueOE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/f/z7NgQATRWrxQP8IBi2Ow/whatsapp-image-2026-08-19-at-15.41.07.jpeg"
+    },
+    {
+      "titulo": "Candidata ao governo de SP, Vera Lúcia diz que combate ao crime organizado deve focar a Faria Lima, não a periferia",
+      "imagem": null
+    },
+    {
+      "titulo": "Cruzamento no Grande Recife é palco de segunda colisão com arremesso de motociclista em menos de uma semana; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/6zkjIeTtwfv6k17oBxyJgeGhtpc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/h/EqJASgT3WHGRAxKPUaxQ/acidente-candeias.jpg"
+    },
+    {
+      "titulo": "Veja plano de governo de Daniel Vilela (MDB), candidato ao governo de Goiás",
+      "imagem": "https://s2-g1.glbimg.com/b-ZZWXjwGodjbDtHYmcXnVRJuKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/w/c015CQRveps4ZDPtBXzA/padrao-foto-g1-goias-michely-loures-9-.png"
+    },
+    {
+      "titulo": "Futuridade 60+ debate mercado prateado na Feira do Empreendedor",
+      "imagem": "https://s2-g1.glbimg.com/xHo9tPJS-arSPUfRx_zHQAUdTWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/X/ZQbmASTzeX9MbGAVCtHw/34-01.png"
+    },
+    {
+      "titulo": "Caso Jennifer: Polícia prende terceira suspeita de envolvimento no homicídio da jovem em Avaré",
+      "imagem": "https://s2-g1.glbimg.com/78YHUqFRf5wOup2bIisbf5cBUjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/K/3AnpA4TsSJJEqBFKs2hQ/jovem-1-.jpg"
+    },
+    {
+      "titulo": "Pirarucu gigante impressiona em lago no meio de bairro de Goiânia",
+      "imagem": "https://s2-g1.glbimg.com/e4CSsR6elq7AQh5ByrhQSA-Jz6A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/A/10Vh9WSnCqNBp3nKKH1A/design-sem-nome-2-.jpg"
+    },
+    {
+      "titulo": "Fogo destrói Kombi e bloqueia trecho de avenida em Campinas",
+      "imagem": "https://s2-g1.glbimg.com/8XE7y1lDxGAPjgKcjI0tuxO5RVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/D/sWVX67QA65Cc1JeVvIeA/design-sem-nome-2026-08-19t155708.065.jpg"
+    },
+    {
+      "titulo": "Projeto oferece cursos profissionalizantes e apoio para pessoas em situação de rua no Centro do Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é esfaqueado seis vezes durante roubo e suspeito é preso no interior de Roraima",
+      "imagem": "https://s2-g1.glbimg.com/-uv7sAFsbVvb3xgSrdv1wirAnVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/B/GySrydR9CizBnquOLB6w/suspeito-foi-preso.jpg"
+    },
+    {
+      "titulo": "Homem é preso em Itabaiana após exigir fotos íntimas e enviar imagens sem consentimento",
+      "imagem": "https://s2-g1.glbimg.com/LdgWLEbaqKaq6WEZBYIgsopFswM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/C/J/ogl05jQrS3sUoEs02AoQ/policia-civil.jpg"
+    },
+    {
+      "titulo": "Homem suspeito de desaparecimento de servidora pública é preso na Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "Pai é preso suspeito de estuprar e explorar sexualmente filha adolescente no ES; ele ofereceu R$ 300 para cometer o crime",
+      "imagem": "https://s2-g1.glbimg.com/OjYtr-mfU6NbGO-7cN-QjOMv4VI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/9/yVzxCeQpWQiPE0eCbAtw/thumb-fotos-2026-08-19t152054.824.jpg"
+    },
+    {
+      "titulo": "'Stray Kids: The dominATE Experience' estreia no Globoplay antes de show no Rock in Rio",
+      "imagem": "https://s2-g1.glbimg.com/Ss7N50X2fnpAYtgdygLR7DBUeRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/P/0/wRkIVtQla6gNshRib9JQ/sk.jpg"
+    },
+    {
+      "titulo": "Pesquisa traça perfil de 1.476 pessoas em situação de rua em Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/f_q1TckuBQiJNXwdgH1nJ2VpIzE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/b/5eqqn8RWiSL2LOqncGhQ/whatsapp-image-2025-05-28-at-18.36.35.jpeg"
+    },
+    {
+      "titulo": "Homem condenado por furtar celulares, tablets, aneis de ouro e R$ 62 mil é preso em Boa Vista",
+      "imagem": "https://s2-g1.glbimg.com/cIJEjHWgMiAYjx8Nu0hpTDg_c9E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/U/8MggSoTxGGuJiTMlG6XA/condenado-por-furto.jpg"
+    },
+    {
+      "titulo": "Univasf abre inscrições para Encontro de Carreiras e simpósio sobre indústrias no Vale",
+      "imagem": "https://s2-g1.glbimg.com/I3ZT4r1fZPGGM-l_wieceJKrmvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/a/Sgozf1RLCPWHvEPAkqJg/img-20241015-094710850.jpg"
+    },
+    {
+      "titulo": "Em votação unânime, CNJ mantém afastamento de três juízes do Amazonas suspeitos de irregularidades",
+      "imagem": "https://s2-g1.glbimg.com/RYWILiIYCkqVIoARmfIoKkQtxmg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/v/p/WnbQvZQvGcY3IoXtUZAg/foto-romulo-serpa-agencia-cnj.jpg"
+    },
+    {
       "titulo": "Shopping Rio Poty sorteia PlayStation 5 em nova campanha promocional",
       "imagem": "https://s2-g1.glbimg.com/Zo7nQXuC4UXGfBhJuAUziTWuqDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/S/tYpw0vSSGkBxEG5isFCg/ferias-divertidas-1400x788.png"
     },
@@ -19,107 +119,7 @@
     {
       "titulo": "Conhecido como 'Xuxão', suspeito é preso por tráfico internacional de drogas em Cubatão, SP",
       "imagem": "https://s2-g1.glbimg.com/u3WkS8VWPmpu80WE7DIe2vqt_Gs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/D/rOe8xBRsW06NLeERnHBg/trafico.jpg"
-    },
-    {
-      "titulo": "Candidaturas envelhecem em 2026, e cresce a participação de candidatos com 60 anos ou mais",
-      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
-    },
-    {
-      "titulo": "Sobreviventes de acidente que deixou 23 mortos passam por exames no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/QhGdtjsGTtqmneHWHt8hwZ4RuHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/n/DvW4leSBeYeU4SqRBAvg/fundo-vermelho-10-.png"
-    },
-    {
-      "titulo": "De R$ 0 a R$ 12,3 milhões: veja o patrimônio dos candidatos ao Senado no TO declarado ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/g9-2qhvELTe9iWGz1_gkfjg2aA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/k/UKlnWsS6O8SkQBcakoGg/foto-e-montagem-vertical-59-.png"
-    },
-    {
-      "titulo": "KFC chega ao Shopping Rio Poty e amplia mix gastronômico em Teresina",
-      "imagem": "https://s2-g1.glbimg.com/k7wWVv7osTqHoHp5x7J-7hlBaH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/l/YdkQr5TteE6cWy00B3gg/kfc.png"
-    },
-    {
-      "titulo": "VÍDEO: onça-parda atropelada em Botucatu se recupera e é solta na natureza",
-      "imagem": "https://s2-g1.glbimg.com/EctjQGAzM4fLeohpHvhDgyq_2Xw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/C/iBj2N0RTGjY4AduPJk6A/design-sem-nome-67-.jpg"
-    },
-    {
-      "titulo": "Incêndio destrói parte de casa e mata cão e gato em Araçoiaba da Serra",
-      "imagem": "https://s2-g1.glbimg.com/6dIkeQRdB47L-rm2EwOg9e3kS9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/z/I6GmiaS6GYTGpSdYAAHg/whatsapp-image-2026-08-19-at-15.41.54.jpeg"
-    },
-    {
-      "titulo": "Advogada morta ao passear com cão pode ter sido confundida com mulher de traficante, diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/Gye-qmkvwcR8-LLTnq_vk7IsnCU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/J/XHyF8hSaKRdN9piJHBjw/b059b70ce9dc88b41d6d8a90c0bf3469d87.webp"
-    },
-    {
-      "titulo": "Shopping Rio Poty e Levi's® lançam campanha de Dia dos Pais com boné exclusivo",
-      "imagem": "https://s2-g1.glbimg.com/NcHAQGMomMzQVdbvZ39I7qaqX6U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/W1NaBCRGWtYRp37CA4KA/pais-banner-g1-menor-destaque-horizontal-1200x765px.png"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de quarta-feira, 19 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/XFcy4IY11VS642BXPzerZu7jx4E=/s01.video.glbimg.com/deo/vi/14/35/14883514"
-    },
-    {
-      "titulo": "Homem desaparece após barco bater em balsa em Pimenteiras do Oeste, RO",
-      "imagem": "https://s2-g1.glbimg.com/T1Y5g7AeVHR_o86h1tFqYblFzig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/w/k/BHrcB7QK6C8v98lgs1vA/programacao-comemoracao-29.06.2018-fotos-frank-nery-2.jpg"
-    },
-    {
-      "titulo": "Homem é levado à delegacia por manter jiboia em apartamento em Piracicaba",
-      "imagem": "https://s2-g1.glbimg.com/27fwiNrCtYWtLetft-Crof_G5VI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/S/BRtztqQoqOtf6RgBE3YA/jiboia.jpg"
-    },
-    {
-      "titulo": "STF forma maioria para aplicar medidas protetivas da Lei Maria da Penha em casos sem vínculo doméstico",
-      "imagem": null
-    },
-    {
-      "titulo": "VÍDEOS: AB1 de quarta-feira, 19 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/mHs-JoOD9apzMvdJz7ga5nxxyfM=/s01.video.glbimg.com/deo/vi/73/33/14883373"
-    },
-    {
-      "titulo": "Chefe da inteligência do Equador e outras 6 pessoas morrem em queda de helicóptero turístico no Quênia",
-      "imagem": "https://s2-g1.glbimg.com/iDQss5nI6Vi7nW_vrIDGza6aGoI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/e/MOHxbqRp6yaXhW8mvKzg/2026-08-19t123632z-1187684725-rc2o1naa1pep-rtrmadp-3-kenya-helicopter-crash-tourism.jpg"
-    },
-    {
-      "titulo": "Filho suspeito de matar mãe em Gravatá nega crime e apresenta falas confusas, diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/FNbptsTmdS_EBDSJ6ky9PwW-fC4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/M/DD0FfsSp2m8xtqv0VBsA/localizada-no-bairro-luiz-gonzaga-a-maternidade-municipal-santa-dulce-dos-pobres-mmsdp-fica-por-tras-do-hospital-mestre-vitalino-hmv-.-44-.png"
-    },
-    {
-      "titulo": "VÍDEO: jovem sofre queimaduras de 2º e 3º graus após explosão causada por etanol em tacho durante churrasco",
-      "imagem": "https://s2-g1.glbimg.com/i0cq01kiDOuWT_P9Hu4G0N38yto=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/Z/xq7pYpSciBpAjNqT26NA/14795582-2026-08-19t155308.357.jpg"
-    },
-    {
-      "titulo": "Prazo para pedir voto em trânsito termina nesta quinta; veja como funciona no Vale do Paraíba e região",
-      "imagem": "https://s2-g1.glbimg.com/u_MnXL-I4_wAHojHkXkSIaGE7kM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/B/lKbjpeQiWTsnDN8bYBFg/foto-g1-4-.jpg"
-    },
-    {
-      "titulo": "Influencer relata tentativa de sequestro e 3 são presos em Balneário Camboriú: 'Achavam que tinha R$ 80 milhões'",
-      "imagem": "https://s2-g1.glbimg.com/bA5B9DXuevjUfE9nnBggoEY4_yI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/m/JKu7uiToCcVgbztIyKhw/fotojet.jpg"
-    },
-    {
-      "titulo": "Falta de água: manutenção de emergência da Cesan afeta 235 bairros de Vitória, Vila Velha, Cariacica e Viana; veja a lista",
-      "imagem": "https://s2-g1.glbimg.com/FpVr61CeN4qgr5Cf3ohOgIWTmGs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/R/k/YY4utNR0CvyiT9go46wg/es1-vix-pgm-nota-cesan.mp4-snapshot-00.23.676.jpg"
-    },
-    {
-      "titulo": "Apóstolo Flávio Braga, candidato ao Senado, declara não ter bens ao TSE",
-      "imagem": "https://s2-g1.glbimg.com/rsoikuvezeJfSO51muDOE31lk2Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/V/w0FK7ITHSW3wPIBe0KAg/foto-e-montagem-vertical-55-.png"
-    },
-    {
-      "titulo": "Universidade Ceuma realiza X Fórum do Meio Ambiente; veja programação",
-      "imagem": "https://s2-g1.glbimg.com/RIrYjcd1iyxUp996ubF-_PbuqPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/p/JRAaWDRWaz6iUYReUJHQ/foto-x-forum-do-meio-ambiente.png"
-    },
-    {
-      "titulo": "Raquel Lyra promete investir em inovação e internacionalização da economia de Pernambuco",
-      "imagem": "https://s2-g1.glbimg.com/OgWZYIET7IVIaxq_7ZlYhL3Dcuo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/I/EbHiHsTLmAp2sLfWRIoQ/raquel-sabatina-porto.png"
-    },
-    {
-      "titulo": "Mulher que enfrentou o preconceito e revolucionou a saúde em MS celebra 95 anos",
-      "imagem": "https://s2-g1.glbimg.com/ZuoJdAZ4VvuZDXxfWL7FASgOOuw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/f/BO9liBRQKsGcUQhvY14w/para-o-g1-2026-08-19t145331.027.jpg"
-    },
-    {
-      "titulo": "R$ 100 milhões em rifas: polícia revela como esquema de influencer preso em MS parecia legal",
-      "imagem": "https://s2-g1.glbimg.com/Yxtk7ZgqT2ZvJ4uJbSbMMkd_xps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/N/U7t8mbTUW9xuyfaUgmCw/whatsapp-image-2026-08-18-at-10.34.39.jpeg"
-    },
-    {
-      "titulo": "Campo Verde transforma produção de algodão em oportunidades de investimento",
-      "imagem": "https://s2-g1.glbimg.com/8tQK2Lmn_xjPdLcmN1w2YTVIuUA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/a/N3zFJBRHGzz3wGknK2VQ/imagem1.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-19T19:37:58.094Z"
+  "atualizadoEm": "2026-08-19T19:58:31.859Z"
 }
