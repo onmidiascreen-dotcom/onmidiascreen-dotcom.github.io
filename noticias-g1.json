@@ -1,6 +1,46 @@
 {
   "noticias": [
     {
+      "titulo": "Veja o que é #FATO ou #FAKE na entrevista de Fernando Haddad ao 'Globo', 'Valor' e CBN",
+      "imagem": "https://s2-g1.glbimg.com/1Y9xWD5tuuz4hNRSTsQXbAHcqok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/U/ZEVCqNTqWajTlbH5sUuA/whatsapp-image-2026-08-19-at-14.01.10.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: MG2 de quarta-feira, 19 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/U-CaFzSqLFcf1jgnbwgrwTJUFbo=/s01.video.glbimg.com/deo/vi/01/41/14884101"
+    },
+    {
+      "titulo": "Motorista morre após carreta se envolver em acidente e cair em barranco em Cáceres (MT); vídeo",
+      "imagem": "https://s2-g1.glbimg.com/PtBO0BnJUdfGZDZtVb39PGy3Xww=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/a/2UjIZaS5yDjmoa8Qhchg/videos-g1-15-.jpg"
+    },
+    {
+      "titulo": "Michelle publica vídeo com bastidores de gravação com Flávio Bolsonaro para campanha eleitoral",
+      "imagem": "https://s2-g1.glbimg.com/CJrJDOUNNKY623B-WV7OUQZOX10=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/V/TvCESnTR2rfj8I9ooTkA/55457812401-0e04dbc056-k.jpg"
+    },
+    {
+      "titulo": "Mais de 4 anos de guerra colocam pressão política sobre Volodymyr Zelensky e Vladimir Putin",
+      "imagem": "https://s2-g1.glbimg.com/G7I4SmROn-JNHAoeOsqWWEXPrmQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/j/Xc7riVT2qkLTMw8R4dJQ/globo-canal-4-20260819-1600-frame-427911.jpeg"
+    },
+    {
+      "titulo": "Detran-RO se prepara para uso de drogômetros em blitze da Lei Seca",
+      "imagem": "https://s2-g1.glbimg.com/Wc2Boq6fhz_XQ_SkQPErsV9XSnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/T/CQ2AMxTYWOR2VkbrrMsg/imagem-cortada-16-.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: NSC Notícias de quarta-feira, 19 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/ASGNYsaSsyUjtdRJw56NSbhpMHU=/s01.video.glbimg.com/deo/vi/20/41/14884120"
+    },
+    {
+      "titulo": "Casal é preso com 1.432 remédios emagrecedores e anabolizantes em ônibus no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/WJ_E20Tr_f3nUXPJOOwOskZHe50=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/m/OOd7VcTuqCvPzizfcTCA/apreende-medicamentos-1-.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Homem tem moto e celular roubados e é agredido por criminosos em Rio Branco",
+      "imagem": "https://s2-g1.glbimg.com/0Qo6uPPkcqofVdkc70zvAPzGP4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/U/Mcs4aHQyaEgomJump8Yw/midia-de-distribuicao-g1-28-.png"
+    },
+    {
+      "titulo": "Maria da Penha: lei poderá ser aplicada mesmo quando não há relação doméstica, familiar ou afetiva com o agressor",
+      "imagem": "https://s2-g1.glbimg.com/-FpHTOyGcz1FeLVDJEduSn5ua5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/P/7B5bHnQoOK91BMrt0n5Q/globo-canal-4-20260819-1600-frame-413777.jpeg"
+    },
+    {
       "titulo": "Tribunal de Contas suspende análise das contas do DF por ausência de balanços do BRB",
       "imagem": "https://s2-g1.glbimg.com/zLDJ7u4XR3LvwM4LgaDk5DF6wsE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/x/7h3vM2TbGKtwQ5owcmlA/whatsapp-image-2025-11-26-at-14.45.44.jpeg"
     },
@@ -78,48 +118,8 @@
     },
     {
       "titulo": "Selton Mello recebe Kikito de Cristal no Festival de Cinema de Gramado",
-      "imagem": "https://s2-g1.glbimg.com/0ud0lX1gBt-xeSSICf8rrjUEh8A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/y/lpZtAaSVq18un3IIB6dw/54fcg-19082026-14008.jpg"
-    },
-    {
-      "titulo": "João Campos promete construir hospital com 900 leitos no Grande Recife",
-      "imagem": "https://s2-g1.glbimg.com/1NxCxb9L5ZapLyOc-IE9psRa4_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/u/DtcQ2ISg2H38AMVdjApg/joao-campos.png"
-    },
-    {
-      "titulo": "Ministério Público Eleitoral pede que TSE rejeite registro de candidatura de Pablo Marçal",
-      "imagem": "https://s2-g1.glbimg.com/QCOMowDqH4ZWNovb3EeWa4lK89E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/D/jLwDHUTvGjM7e5xed1Aw/fotojet-2026-08-17t131334.601.jpg"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Subaé",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Bahia",
-      "imagem": null
-    },
-    {
-      "titulo": "Com popularidade caindo e em meio a impasse com Irã, Trump se volta a uma obsessão: reformar a Casa Branca",
-      "imagem": "https://s2-g1.glbimg.com/1v3Xv6e1narZlmOqvOzP1REI-no=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/C/bilc0iTHOTSctZ8NdCuw/2026-08-19t152419z-249889895-rc2r1na6djfq-rtrmadp-3-usa-trump.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato Reginaldo Lima ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/LtrR1F8PdTFNRFnmLXcNes1wF2E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/T/1fpmVuTZC2piAXcu89cA/reginal-lima-.jpg"
-    },
-    {
-      "titulo": "Clécio Luís participa de caminhada à tarde e de plenária à noite em Macapá",
-      "imagem": "https://s2-g1.glbimg.com/ztAE5kCfrFNJ1FlF9MPVeI772S8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/7/miq7LFToKI1E6gVUZn6A/whatsapp-image-2026-08-19-at-19.10.18.jpeg"
-    },
-    {
-      "titulo": "Com mandado de prisão em aberto, candidato a suplente para o senado na PB renuncia",
-      "imagem": "https://s2-g1.glbimg.com/Zkm4LMLJoTMBY7w4ZyqKJo2vNWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/g/0sB3pxTcKOSM3AdUUHZw/imagem-okv.png"
-    },
-    {
-      "titulo": "VÍDEOS: AB2 de quarta-feira, 19 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/1yiYjnluj9duq3NRJOPliOl6-kE=/s01.video.glbimg.com/deo/vi/57/42/14884257"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
+      "imagem": "https://s2-g1.glbimg.com/0QlwI3Y_rVCq2vTG2Vb20eefWYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/C/WHa8vCRlWIrC1sNdr1gg/54fcg-19082026-14766.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-19T23:30:06.756Z"
+  "atualizadoEm": "2026-08-19T23:50:37.476Z"
 }
