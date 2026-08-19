@@ -1,6 +1,62 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEOS: GR1 de quarta-feira, 19 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/TtHsY_W6tjolJUu3gY1ZCyM4I-w=/s01.video.glbimg.com/deo/vi/08/22/14882208"
+    },
+    {
+      "titulo": "TRE-SE define regras para eleição suplementar em Porto da Folha",
+      "imagem": "https://s2-g1.glbimg.com/UKBAYz6wLFpXuzdVjhrLapUspew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/FzkaJDRGaZnMi4MVkeew/edicao-imagens-g1-33-.png"
+    },
+    {
+      "titulo": "Acidente entre carreta e caminhonete interdita trecho da SP-79 em Votorantim",
+      "imagem": "https://s2-g1.glbimg.com/1tXWssWcvTDW7D4xAi8wuRTr9zI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/V/N3WhfVTIWQmaPzsJb7cQ/ad2f75d0-3593-49b3-9387-c820806855a6-3-.jpg"
+    },
+    {
+      "titulo": "Chile decreta estado de catástrofe após enchentes e deslizamentos no norte do país",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem tem mais de 20% do corpo queimado após ser atacado no DF",
+      "imagem": "https://s2-g1.glbimg.com/ychVrrVrI2LcRJ7VQwzAG-Wqw0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/q/Ppatp8RB6KB2aKIKG8zA/a1120-df1-ge-limpo-19082026-frame-94072.jpeg"
+    },
+    {
+      "titulo": "Operação recupera mais de 6 mil celulares roubados ou furtados em 10 dias, diz Ministério da Justiça",
+      "imagem": "https://s2-g1.glbimg.com/YdBR54M0CMvQMnzv0hxYSm-7toU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/H/V7tdHgRB29drGn532DxQ/whatsapp-image-2026-08-19-at-10.00.48.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: Cúpula do Teatro Amazonas aparece encoberta por tons de laranja em manhã de calor intenso em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/wDdXuIr0yqbOgaPtw4H9Q9WAPMs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/B/sanePXRTmhNY3bMvDMIw/cupula-do-teatro-amazonas-aparece-encoberta-por-tons-de-laranja-em-manha-de-calor-intenso-em-manaus-foto-alcides-neto.jpg"
+    },
+    {
+      "titulo": "Jóquei Leandro Henrique morre três dias depois de cair de cavalo durante prova na Gávea",
+      "imagem": "https://s2-g1.glbimg.com/8f_NxXDE0lP61d3i-JiaPxJ3syw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/y/iEc6lmQke7PnTxfsSj8g/imagem-cortada-2026-08-19t124842.308.jpg"
+    },
+    {
+      "titulo": "Toyota implanta Centro de Desenvolvimento de Tecnologias para Biocombustíveis no interior de SP com R$ 120 mi do BNDES",
+      "imagem": "https://s2-g1.glbimg.com/TzVcZHzCuXIx0-I9gADGtDPKU18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/N/35y43hSvejc7tH3pX4AQ/whatsapp-image-2026-04-17-at-12.46.50.jpeg"
+    },
+    {
+      "titulo": "Eleições 2026: Senado tem 54 cadeiras em disputa; 32 titulares tentam reeleição",
+      "imagem": "https://s2-g1.glbimg.com/lsrZ3eMiXQoU2Hq8xWXZxi6v7L8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/t/G5dwIDRUGCGlwUfyPBSg/55310885879-ca4abcfc67-k.jpg"
+    },
+    {
+      "titulo": "Manutenção na Ponta das Lajes é concluída e sistema começa a ser restabelecido",
+      "imagem": "https://s2-g1.glbimg.com/IiE0k0YKBhekc62X2oxbMyb_dXw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/H/ThdORnRSCPwXDDTdrZlA/retorno-do-abastecimento-1-.jpeg"
+    },
+    {
+      "titulo": "Mulher se finge de morta para escapar de agressões do companheiro e homem é preso em Borborema",
+      "imagem": "https://s2-g1.glbimg.com/mn6S_aYiFEaezSE7GqjYy7VFQz8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/o/it2wTARbKO36AN0fCzdg/novo-projeto-2026-08-19t123110.191.png"
+    },
+    {
+      "titulo": "Samuel Costa declara R$ 3,6 milhões em bens ao TSE; Sargento Machado informa R$ 400 mil",
+      "imagem": "https://s2-g1.glbimg.com/y-CULtl0UR9ezZUl5MJuPCZ9mGQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/F/XhXNnSSvKgtt4mxBEaGQ/samu-e-vice.jpg"
+    },
+    {
+      "titulo": "Carreta que causou engavetamento com 2 mortos na BR-277, no Paraná, tinha freios manipulados, diz PRF",
+      "imagem": "https://s2-g1.glbimg.com/ZpBg_iSqZygTqaNjDw05wCVoo4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/C/2tg3bZQ7q2LkAQE1whSg/fundo-vermelho-12-.png"
+    },
+    {
       "titulo": "Hungria, Seu Jorge e mais: veja programação com horários do Festival Pernambuco Meu País em Buíque",
       "imagem": "https://s2-g1.glbimg.com/emIctsJypIWM6UvuHOFm-j_zwdw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/9/ZJkDlvQ16k5nd6kEOEIA/homem-e-preso-por-tentativa-de-feminicidio-apos-agredir-esposa-com-marreta-em-agua-preta-o-suspeito-passou-por-audiencia-de-custodia-e-permanece-preso.-um-homem-de-45-anos-foi-preso-em-flagrante-p-40-.png"
     },
@@ -63,63 +119,7 @@
     {
       "titulo": "A indignação com os danos ambientais causados ​​por um homem com seu caminhão em ecossistema único na Argentina",
       "imagem": "https://s2-g1.glbimg.com/C_E4x1Y7Drix3AveV_67Td8wHYg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/m/LPDJatQ5W7BvVuLTNXOQ/01.png"
-    },
-    {
-      "titulo": "Corridas esportivas de Petrolina: veja regras para uso das Orlas 1, 2 e 3",
-      "imagem": "https://s2-g1.glbimg.com/1asP66mvWIOh3lQVAt0HQZvf5xI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/k/yOttbNRBm3S3nu5ZYxSA/whatsapp-image-2026-08-19-at-10.02.18.jpeg"
-    },
-    {
-      "titulo": "Influenciador Buzeira deixa presídio do interior de SP após 10 meses de prisão",
-      "imagem": "https://s2-g1.glbimg.com/Sp89NlTZIQPRKMpY4cEnpQnskjg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/8/9LWtLWTuC1QePCBMcVAA/g1-indiana-19-.png"
-    },
-    {
-      "titulo": "Homem furta carro da prefeitura, dirige desgovernado e bate em outros veículos no litoral de SP; VEJA",
-      "imagem": "https://s2-g1.glbimg.com/P2owFpHdGBWQVMcyZOH8nGpIHaA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/A/PD7fALRm6P872U8zLFnQ/whatsapp-image-2026-08-19-at-10.46.34.jpeg"
-    },
-    {
-      "titulo": "Hiperion de Oliveira declara R$ 40 mil em bens na disputa ao Senado por Roraima",
-      "imagem": "https://s2-g1.glbimg.com/AU2r05ar47v78Jc5fU7102wnM7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/m/P20Ba0SiarAx1heYOXeA/hiperion.png"
-    },
-    {
-      "titulo": "Jovem de 23 anos é encontrado morto três dias após se afogar em praia na Bahia",
-      "imagem": "https://s2-g1.glbimg.com/m76KLy7EsglBW1rq7rEsEesjJp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/B/jpiBUDTyOXR8AH8x5Vag/whatsapp-image-2026-08-19-at-11.52.32.jpg"
-    },
-    {
-      "titulo": "VÍDEO: motociclista fica gravemente ferido em colisão no Alto, em Teresópolis",
-      "imagem": "https://s2-g1.glbimg.com/ZsC_sCBlPNDENNU2OhDXGbBWog4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/ABHhDOROC28RknRzOtJQ/acidente-grave-em-teresopolis.jpg"
-    },
-    {
-      "titulo": "Vídeo mostra suspeito atacando ex-mulher em mercado e filho tentando conter as agressões em MT",
-      "imagem": "https://s2-g1.glbimg.com/eMGQuOKermqW8msriSMzo24upVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/h/hXswYvRHCzM0a57tXbAQ/foto-g1-2026-08-19t110624.547.png"
-    },
-    {
-      "titulo": "VÍDEO: dupla invade imobiliária e causa prejuízo de R$ 20 mil em Santa Bárbara d'Oeste",
-      "imagem": "https://s2-g1.glbimg.com/pweWRC20sRczOCEPZdaSSbFb6po=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/M/eaRTrsS0y6ISGsUJMLIg/nery-1-.jpg"
-    },
-    {
-      "titulo": "Atem Distribuidora completa 26 anos com presença em 13 estados",
-      "imagem": "https://s2-g1.glbimg.com/4imBk11CcJCqHWEPWptWC6r3Kbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/S/IQ2wAwTVWkgagBk2entQ/distribuidora-atem.jpeg"
-    },
-    {
-      "titulo": "TSE recebe mais de mil denúncias de propaganda eleitoral irregular em apenas quatro dias",
-      "imagem": null
-    },
-    {
-      "titulo": "Em sabatina, Haddad defende 'privatização bem feita' e critica modelos de Tarcísio em SP",
-      "imagem": "https://s2-g1.glbimg.com/2avqijCH7A4QUlj_eC23kVditzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/j/XDDAPfTbe3n1hX2hzI8w/fotojet-2026-08-19t103527.368.jpg"
-    },
-    {
-      "titulo": "Onça-pintada aparece em estrada de terra de Juruti, no Pará",
-      "imagem": "https://s2-g1.glbimg.com/QJd4qIKTpHPkzkvevK8MU0U6o4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/z/zHo32GTq2BIoESqu1x6w/whatsapp-image-2026-08-19-at-12.03.23.jpeg"
-    },
-    {
-      "titulo": "Fala Macuxi estreia 7ª temporada com aventura no Tepequém, curiosidades e sabores de Roraima",
-      "imagem": "https://s2-g1.glbimg.com/dqRxduk--ekNyoBvfUxQMANn2w8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/e/BsWs2tSZuW4b0A1Al10Q/08.jpg"
-    },
-    {
-      "titulo": "Jiboia de mais de 2 metros é capturada nos fundos de oficina em Goiás; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/jPE4MRnyZl6fdyzQ0u5-EtcZQgY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/O/3cuqqsSq20GTyE4AI0ZQ/imagens-g1-36-.png"
     }
   ],
-  "atualizadoEm": "2026-08-19T15:45:12.328Z"
+  "atualizadoEm": "2026-08-19T16:11:43.340Z"
 }
