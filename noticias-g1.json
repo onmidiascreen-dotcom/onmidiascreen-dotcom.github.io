@@ -1,6 +1,62 @@
 {
   "noticias": [
     {
+      "titulo": "Universidade oferece terapia de voz gratuita para adultos e idosos em Salvador",
+      "imagem": null
+    },
+    {
+      "titulo": "Assista ao Bom Dia ES",
+      "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif"
+    },
+    {
+      "titulo": "Acidente entre ônibus e carreta deixa pelo menos 21 mortos e quatro feridos no Paraná",
+      "imagem": "https://s2-g1.glbimg.com/zpr-HFAzBPnxbdWDFZlxU7mOLY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/G/MLNnkdSjaRKMiUANxitg/vlcsnap-2026-07-04-13h15m20s740.png"
+    },
+    {
+      "titulo": "Caminhos do Frio 2026: rota cultural do Brejo paraibano chega a Bananeiras nesta quarta (19)",
+      "imagem": "https://s2-g1.glbimg.com/uzX9tzSZh3g5ffvLDsGN9txqEZg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/u/ogdOFqT3mSK77WmJY60A/img-7501.jpg"
+    },
+    {
+      "titulo": "Os gêmeos que se casaram com irmãs gêmeas em celebração feita por padres gêmeos e com coroinhas gêmeos",
+      "imagem": null
+    },
+    {
+      "titulo": "Incêndios Zero: causas, impactos e como prevenir incêndios irregulares",
+      "imagem": "https://s2-g1.glbimg.com/G_2Qrhyypw7YEtGZINzfF8Q42z0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/p/Ce0oXuQGAi5PvfMbCWBw/imagem-1.png"
+    },
+    {
+      "titulo": "São Sebastião registra 2,3 mil admissões e fecha 2º trimestre com saldo positivo",
+      "imagem": "https://s2-g1.glbimg.com/wgjkH942MChG8vIMxYz_wzZlwFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/J/KAqtJ8TZOAM3WsdVmCiA/20268171512444711033.jpg"
+    },
+    {
+      "titulo": "Etéra Udi Complex: projeto em Uberlândia integra moradia, trabalho e serviços",
+      "imagem": "https://s2-g1.glbimg.com/OjC2loltJtmXWRybHWXh6jMAAIU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/S/SISqFyRLueetIdzakUXg/1200x750-px-01.png"
+    },
+    {
+      "titulo": "Pix Pensão: entenda a lei que cria transferências automáticas para pagamento de pensão alimentícia",
+      "imagem": "https://s2-g1.glbimg.com/dyE5c8_HSMVmgeg6RRhm8oJVjIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/H/l/KDENNdRx2ujoz4lrweiQ/pensao.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: veja as logos e slogans dos candidatos ao governo de MS",
+      "imagem": "https://s2-g1.glbimg.com/lV4x8yyPuySLQBefg3RAP8tK1hY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/B/elFJwsTESJcXc5IeIk8Q/logos-campanha-2026.jpg"
+    },
+    {
+      "titulo": "AO VIVO: assista à programação da NSC TV",
+      "imagem": null
+    },
+    {
+      "titulo": "Assista ao Jornal da Manhã",
+      "imagem": null
+    },
+    {
+      "titulo": "Casal é preso em operação contra venda ilegal de emagrecedores e anabolizantes em Fortaleza",
+      "imagem": "https://s2-g1.glbimg.com/j1TXNzBF8s29UPkmMefNlrjkSaw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/0/bXBiZLRAuA37bUerNr8g/emagre-4.jpg"
+    },
+    {
+      "titulo": "‘Bazar do Jô’: chapéus, suspensórios e móveis do apresentador serão vendidos no Retiro dos Artistas",
+      "imagem": "https://s2-g1.glbimg.com/XFLe7_5FXdcN8wRUs7IrcgZSdsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/K/B6YA70RxSVyKYCxAHYpA/g1-jo-bazar2.gif"
+    },
+    {
       "titulo": "Pescador mergulhou nove metros para localizar casa e maquinários submersos no Lago de Palmas; VÍDEO",
       "imagem": "https://s2-g1.glbimg.com/NuAb7exKaokZtrFOa5cIfe11E2w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/l/HktS71Tjy6XIBHqFaagA/foto-e-montagem-vertical-66-.jpg"
     },
@@ -63,63 +119,7 @@
     {
       "titulo": "Entenda o que é o 'petróleo chique' do Amapá, óleo leve que Lula comparou ao Pré-Sal",
       "imagem": "https://s2-g1.glbimg.com/oxtPIgkb22erUBjGgRsgZ9hyX0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/T/Q/bFzL6ZSduW1rMrEhp78w/whatsapp-image-2025-06-24-at-09.32.41.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: Ladrão usa vara para 'pescar' e furtar encomendas deixadas na porta de empresa em MG",
-      "imagem": "https://s2-g1.glbimg.com/TOgfu-SaALG2p2Qt9iFCKUa4D-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/x/RpZd5bSIAV5J5VDPPPtw/design-sem-nome.png"
-    },
-    {
-      "titulo": "Quem são os peões de rodeio que lideram a temporada 2026 e já faturaram quase R$ 1,5 milhão",
-      "imagem": "https://s2-g1.glbimg.com/mVhNeQs1Zou-QIOc4gNb8EVyBmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/X/CDk2AmTkeUzwwrBue4UQ/peoes-1.jpg"
-    },
-    {
-      "titulo": "Ex-padrasto suspeito de matar adolescente de 14 anos a facadas foi preso na própria casa, onde crime teria acontecido, diz PM",
-      "imagem": "https://s2-g1.glbimg.com/De4GAM08Ymc_yI-BseRACagkIm4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/o/SLPavEScK3hcu3HLazNA/documento.png"
-    },
-    {
-      "titulo": "De Porsche a BMW: polícia apreende 22 carros de luxo avaliados em R$ 20 milhões em galpão de influencer Razuk",
-      "imagem": "https://s2-g1.glbimg.com/9jdc19jKW-Cvg_yg47rr7-H3BZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/d/xUVlqEQ1aMvuAPUrFROg/jhjuklcl.png"
-    },
-    {
-      "titulo": "Cães farejadores da Core ganham missão pioneira de localizar corpos em cemitérios clandestinos",
-      "imagem": "https://s2-g1.glbimg.com/3PxmhYGBLZR0VSaCre2r8_pyEvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/X/tVtnadTvSiha3U4BqPyg/imagem-cortada-2026-08-18t095714.853.jpg"
-    },
-    {
-      "titulo": "Seca histórica faz rios da Europa revelarem embarcações da Segunda Guerra Mundial e vestígios de milhares de anos",
-      "imagem": null
-    },
-    {
-      "titulo": "TV com brilho demais? Veja como desativar o 'modo loja' no seu aparelho",
-      "imagem": "https://s2-g1.glbimg.com/yCuwPhOW3XbSASyf6CkB6q5nG4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/A/bo9tTfSCyoTA7vrYNi9Q/pexels-freestockpro-12956039.jpg"
-    },
-    {
-      "titulo": "Emprego: veja as vagas disponíveis em Petrolina e Salgueiro",
-      "imagem": "https://s2-g1.glbimg.com/RBjBohaLFKrMwF4LmcBB6NYZDbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/W/5/UalNASS3SAdTDp04ALAA/systemuploadsnews49b234f3cab285e8bd2-700x460xfit-00db2.jpg"
-    },
-    {
-      "titulo": "Barretos busca manter grade sertaneja atrativa em mercado com pouca renovação de estrelas",
-      "imagem": "https://s2-g1.glbimg.com/LpoH4ykIMskh4eImzEOrExwsOuA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/V/AovaVDSz2TrAH5A1CUEg/dsc-2760.jpg"
-    },
-    {
-      "titulo": "Vale do Paraíba deve ter calor acima dos 30°C e baixa umidade nesta quarta; frente fria muda cenário no fim da semana",
-      "imagem": "https://s2-g1.glbimg.com/Bw5JsEruYQ3j2WQcvlFSzcl0KLk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/V/sYE7j1QqCqUnnXYK70Aw/foto-g1-9-.jpg"
-    },
-    {
-      "titulo": "Por que montanha-russa mais antiga do Beto Carrero será desativada após 3 décadas e 33 milhões de visitantes",
-      "imagem": "https://s2-g1.glbimg.com/XqS4Ulp570Nj5GVdRh345EZldQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/x/Z5uvZ2QnSZbrAPscuKAQ/star-mountain-2.jpeg"
-    },
-    {
-      "titulo": "Segurança: veja propostas dos candidatos ao governo do RJ",
-      "imagem": "https://s2-g1.glbimg.com/TbtlYxT6q8jVV-alE9VLTzB3GKY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/M/W/9aMVO0RBAhAuckwJwBkw/pgm-globonews-limpo-ao-vivo-20231023-1559-frame-34469.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: idosa de 84 anos chama a atenção com flexibilidade em exercícios de academia em Vitória",
-      "imagem": "https://s2-g1.glbimg.com/JV4Umcn6aXtMWh2bxIzLL4J3_fI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/k/JYAQ9bQ4iAiIA13fohEA/thumb-videos-g1-11-.jpg"
-    },
-    {
-      "titulo": "Veja cronologia do atendimento médico de grávida que morreu pedindo para fazer cesárea em MG",
-      "imagem": "https://s2-g1.glbimg.com/Z85tZjh0ApCncZEFuVvaEFbqow4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/W/Myc0LqQsWBNhAgIa6Ebg/design-sem-nome.png"
     }
   ],
-  "atualizadoEm": "2026-08-19T08:53:24.854Z"
+  "atualizadoEm": "2026-08-19T09:29:15.573Z"
 }
