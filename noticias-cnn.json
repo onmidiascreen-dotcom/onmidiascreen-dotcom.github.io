@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Após anúncio de Trump, Canadá confirma suspensão de tarifas de 50% dos EUA",
+      "imagem": null
+    },
+    {
       "titulo": "São Paulo 3 x 1 Bolívar: veja os melhores momentos pela Sul-Americana",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "MPE se manifesta a favor de elegibilidade de Deltan Dallagnol",
       "imagem": null
-    },
-    {
-      "titulo": "Conheça 10 curiosidades sobre o novo GAC GS9",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T04:08:47.081Z"
+  "atualizadoEm": "2026-08-19T04:50:42.359Z"
 }
