@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "O Grande Debate: Denúncias contra Marcola vão atingir Lula até as eleições?",
+      "imagem": null
+    },
+    {
       "titulo": "22 mortos: Ônibus envolvido em acidente levava pacientes de Imbituva (PR)",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Campanha de Flávio avalia se defende ou não proibição total de bets",
       "imagem": null
-    },
-    {
-      "titulo": "NEC x Bodo Glimt: horário e onde assistir aos playoffs da Champions League",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T10:37:01.298Z"
+  "atualizadoEm": "2026-08-19T11:01:00.624Z"
 }

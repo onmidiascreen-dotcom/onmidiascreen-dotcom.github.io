@@ -1,8 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Ônibus com 44 passageiros bate em carreta na BR-349, no oeste da Bahia; 13 ficam feridos",
-      "imagem": null
+      "titulo": "Assista ao Bom Dia Vanguarda ao vivo no g1",
+      "imagem": "https://s2-g1.glbimg.com/eNmYHfknzzliwQJLsNi8qyf2BDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/r/qhMVONTJuDaQtelrYKjA/a64b4644-73da-40c5-b2f0-17b0321381f0.jpg"
+    },
+    {
+      "titulo": "Explosão de botijão de gás atinge três casas e deixa três pessoas feridas no interior da Bahia",
+      "imagem": "https://s2-g1.glbimg.com/8Qj2xYbfvbO19th6pYmcQsIvgyQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/f/wH73lyRxixZ0xecphm2w/foto-no-tamanho-home-2026-08-19t072918.983.png"
+    },
+    {
+      "titulo": "Mãe é presa suspeita de maus-tratos contra filhos em casa com lixo, mau cheiro e animal morto",
+      "imagem": "https://s2-g1.glbimg.com/HLrH8Df1dpF6k_r3vFN9urOdOBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/F/E9dKZ1Roa9Vb3xnEbYAw/casa-4.jpg"
+    },
+    {
+      "titulo": "Homem morre após ser espancado em Copacabana; família diz que ele foi confundido com um ladrão",
+      "imagem": "https://s2-g1.glbimg.com/4eDG29-bESrRWqVa511kQVOalYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/b/YFt1OcSZGZ52fRkemvwg/19agressao1.jpeg"
+    },
+    {
+      "titulo": "Aos 69 anos, marceneiro coleciona medalhas em provas de ciclismo: 'Não tem limite para o esporte'",
+      "imagem": "https://s2-g1.glbimg.com/gYCxEyOhCD4LCMuvjESUhazr_QA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/8/AAUBnZQg2YEBzmYS7mAg/design-sem-nome-79-.jpg"
+    },
+    {
+      "titulo": "Mega-Sena 3046: 5 apostas do oeste do PA acertam a quadra; prêmio vai a R$ 50 milhões",
+      "imagem": "https://s2-g1.glbimg.com/lfq4Sn9Gzx7L59i6U9TRItx8DFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/2/EK5gX1TOi999VK1DyhBA/whatsapp-image-2026-01-03-at-12.29.30-9-.jpeg"
+    },
+    {
+      "titulo": "Operação resgata centenas de quelônios e aplica R$ 2 milhões em multas no Amazonas",
+      "imagem": "https://s2-g1.glbimg.com/LCh3KMeXz3BGZ-zBJvgFJO6SXjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/A/lHpQqGQi6wB0cGCwBGPA/design-sem-nome-86-.png"
+    },
+    {
+      "titulo": "Bom Dia Cidade Piracicaba ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
+    },
+    {
+      "titulo": "Ônibus de turismo com 44 passageiros bate em carreta no interior da Bahia; 13 ficam feridos",
+      "imagem": "https://s2-g1.glbimg.com/RtvcxA9KtJZiRPXn-9-sTNOOjwo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/c/GOj5ATSHajZ98ZcbEVzQ/foto-no-tamanho-home-2026-08-19t074016.085.jpg"
     },
     {
       "titulo": "VÍDEO: enfermeira é esfaqueada por colega de trabalho durante discussão em União dos Palmares",
@@ -21,8 +53,8 @@
       "imagem": "https://s2-g1.glbimg.com/oM1SAK_Lxm-9KXscGE5qaMMs518=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Y/RzACrSSb6VyLQ48bXkVA/3-2-.jpg"
     },
     {
-      "titulo": "Operação cumpre mandados de prisão contra suspeitos de homicídio em Goiás",
-      "imagem": null
+      "titulo": "Operação prende sete suspeitos se passarem por policiais e matarem um homem a tiros em Goiás",
+      "imagem": "https://s2-g1.glbimg.com/2Q1yFgQ0YfTyputuU6CePL8zLVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/m/kYLBtuSaGVMAl5sTymTA/operacao-suspeitos-homicidio.jpg"
     },
     {
       "titulo": "Fotógrafo usa IA para dar 'vida' a fotos antigas e criar filmes de memórias no interior de SP",
@@ -50,7 +82,7 @@
     },
     {
       "titulo": "Interesses pessoais de Trump influenciam suas decisões como presidente para 69% dos americanos, diz pesquisa",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/3vDa7M5J9GDxT58tHLFLhUHSwoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/d/Np7kZcTlGXgF104gSNFQ/2026-08-14t200613z-1795537502-rc2jymam5ni2-rtrmadp-3-usa-trump.jpg"
     },
     {
       "titulo": "Decreto que limita horário de bares e restaurantes deixa comerciantes descontentes em Muzambinho",
@@ -58,7 +90,7 @@
     },
     {
       "titulo": "Descoberta na Foz do Amazonas só será 'passaporte para o futuro' se modelo adotado no pré-sal mudar, diz ex-diretor da Petrobras",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/Q-wVRrnnOJbckXzMu91Mo1g858U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Y/uy8quBTZaARAuOIPpKxg/aleixo-g1-44-.jpg"
     },
     {
       "titulo": "Homem é preso com cerca de 80 frascos de substâncias emagrecedoras em apartamento em Cordovil",
@@ -87,39 +119,7 @@
     {
       "titulo": "Beira-Mar de Niterói: polícia prende fornecedor de drogas e armas do Comando Vermelho na cidade",
       "imagem": "https://s2-g1.glbimg.com/1jGQc338rJIsnqmESITGe17YfS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/C/BqWaMYSueQfjgulAfdPw/cascao.jpeg"
-    },
-    {
-      "titulo": "Cachorro faz buraco com água de banheira para se refrescar do calorão em Campo Grande; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/CYutN78irqkvEPDOFLuyGOXXSk8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/c/mT9MzDTSOfRA4YGUm4fw/cachorro-buraco.jpg"
-    },
-    {
-      "titulo": "Últimos três corpos de vítimas de acidente em Petrópolis são velados na Grande BH",
-      "imagem": "https://s2-g1.glbimg.com/-Usnpde-3718mjST-D15vvvvsSE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/U/s6YqVNRJ2rInZDwzJsZg/amigas.png"
-    },
-    {
-      "titulo": "Assista ao Bom Dia Amapá desta quarta (19)",
-      "imagem": "https://s2-g1.glbimg.com/f1SjcTFpyiNsOXGoy1KfrYkPiZk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/U/Icoa6zRiWw3tAEoONq9A/whatsapp-image-2025-12-04-at-07.15.21.jpeg"
-    },
-    {
-      "titulo": "Criança autista encontrada morta em tanque de granja brincava no quintal com os primos antes de desaparecer, diz família",
-      "imagem": "https://s2-g1.glbimg.com/AH3d2kDmpNXjdrJOsU_fVYDMKvo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/i/PgNQM2QtOUfPheBFD1Cg/tiago-silva-lopes.jpg"
-    },
-    {
-      "titulo": "Resultado da Mega-Sena 3046: 19 apostas do Piauí acertam números; veja valores",
-      "imagem": "https://s2-g1.glbimg.com/EMTTR6lnk36Zyd1OFglHEpgaoZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/3/trVaH8RJKNjPhAsWataA/imagem-g1-59-.png"
-    },
-    {
-      "titulo": "Cliente que ignorou conselho de advogada e foi condenado: ex-mulher tinha admitido que começou a briga, diz advogada",
-      "imagem": "https://s2-g1.glbimg.com/DYrE2Cf-KtKEmJAZQybmGnc-Ktw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/J/krbeU9QMiGtXACfQGWTA/copia-de-copia-de-padrao-foto-g1-goias-2026-08-15t173740.948.jpg"
-    },
-    {
-      "titulo": "Homem que fabricava armas com impressoras 3D para facções é preso no RS: 'Funcionavam com boa precisão'",
-      "imagem": "https://s2-g1.glbimg.com/gtWuwEMaKfTIthxmtxIOFnQAqVY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/t/y8mRuhSPirUXQukkyKHA/g1-48-.jpg"
-    },
-    {
-      "titulo": "Câmara analisa autorização para Campinas renegociar dívidas com a União e regra para focinheira em cães",
-      "imagem": "https://s2-g1.glbimg.com/5XTztHKW3I8_LWhOFJqucr3TWWg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/v/sAdIZxTrSDG4J3ONTqQg/design-sem-nome-9-.png"
     }
   ],
-  "atualizadoEm": "2026-08-19T10:37:02.045Z"
+  "atualizadoEm": "2026-08-19T11:01:00.942Z"
 }
