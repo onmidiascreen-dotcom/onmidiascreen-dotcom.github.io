@@ -1,11 +1,39 @@
 {
   "noticias": [
     {
+      "titulo": "Ministério Público Federal afirma que igreja histórica de Salvador corre o risco de desabar",
+      "imagem": null
+    },
+    {
+      "titulo": "Candidatos declaram mais de R$ 100 milhões no exterior; Novo lidera a lista",
+      "imagem": null
+    },
+    {
+      "titulo": "Nem tão inimigos assim: Renan e Lira ganham campanha de voto casado em AL",
+      "imagem": null
+    },
+    {
+      "titulo": "Os motivos do AGU para não bancar a queixa da PF contra André Mendonça",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio estreia campanha com eventos esvaziados no Rio e em Minas",
+      "imagem": null
+    },
+    {
+      "titulo": "Empresário de AL declara R$ 30 milhões em dinheiro vivo; veja ranking",
+      "imagem": null
+    },
+    {
+      "titulo": "São Paulo terá dias quentes com alerta para tempo seco; Sul do país terá pancadas de chuva",
+      "imagem": null
+    },
+    {
       "titulo": "Astronauta Sophie Adenot se torna a primeira francesa a confrontar 'o vazio espacial'",
       "imagem": null
     },
     {
-      "titulo": "Trump suspende tarifas 50% sobre produtos importados do Canadá",
+      "titulo": "Trump suspende tarifas de 50% sobre produtos importados do Canadá",
       "imagem": null
     },
     {
@@ -21,11 +49,7 @@
       "imagem": null
     },
     {
-      "titulo": "'Túmulo dos Vagalumes' volta aos cinemas com retrato sensível da guerra",
-      "imagem": null
-    },
-    {
-      "titulo": "Por que Odisseu virou Ulisses e, depois, personagem moderno de James Joyce",
+      "titulo": "Empresário suspeito de agredir mulher é de família com negócios nos setores imobiliário e financeiro",
       "imagem": null
     },
     {
@@ -33,33 +57,9 @@
       "imagem": null
     },
     {
-      "titulo": "Iniciativa permite paciente comparar dados de hospitais como mortalidade e infecção antes de internação",
-      "imagem": null
-    },
-    {
-      "titulo": "Empresário suspeito de agredir mulher é de família com negócios nos setores imobiliário e financeiro",
-      "imagem": null
-    },
-    {
       "titulo": "Mulheres aproximam ultradireita de Portugal e agenda evangélica brasileira",
-      "imagem": null
-    },
-    {
-      "titulo": "Guerra no Irã virou 'círculo difícil de romper', e mundo pode sofrer falta de diesel, diz especialista",
-      "imagem": null
-    },
-    {
-      "titulo": "Países do Oriente Médio buscam ampliar estoques de petróleo no exterior com prolongamento da guerra",
-      "imagem": null
-    },
-    {
-      "titulo": "24% das empresas não sabem impacto da reforma tributária, aponta levantamento",
-      "imagem": null
-    },
-    {
-      "titulo": "Estados Unidos avaliam não reconstruir bases militares atingidas pelo Irã",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T08:01:49.273Z"
+  "atualizadoEm": "2026-08-19T08:53:23.312Z"
 }

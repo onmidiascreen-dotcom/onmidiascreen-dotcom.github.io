@@ -1,16 +1,92 @@
 {
   "noticias": [
     {
+      "titulo": "Pescador mergulhou nove metros para localizar casa e maquinários submersos no Lago de Palmas; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/NuAb7exKaokZtrFOa5cIfe11E2w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/l/HktS71Tjy6XIBHqFaagA/foto-e-montagem-vertical-66-.jpg"
+    },
+    {
+      "titulo": "Sete meses após explosão, novo foguete sul-coreano será lançado nesta quarta-feira no MA",
+      "imagem": "https://s2-g1.glbimg.com/revVIhR1_xxg6RRpx7wjJYKjYpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/J/8B8YQCRriPbrgIhABCFA/montagens-1920-x-1080-px-49-.jpg"
+    },
+    {
+      "titulo": "Ex-detento inicia internato após cursar Medicina a mais de 2 mil km de casa: 'Atender como gostaria de ser atendido'",
+      "imagem": "https://s2-g1.glbimg.com/JU3jqDnep2B-Sd7H-1CAzMEM8F4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/J/W73Ff9SCqUCXNZBRJSVA/wallace-medicina-retangular.jpg"
+    },
+    {
+      "titulo": "Justiça condena ex-jogadora por difamar ex-técnico do Santos e Seleção com acusação de assédio",
+      "imagem": "https://s2-g1.glbimg.com/jcJB1X7-yiF7wVdhFO2jHjosFoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/K/4M1jBhSKCdsaM5kKF7eg/caso-kleiton-1-.jpg"
+    },
+    {
+      "titulo": "Médica descobre esclerose múltipla após crise em vestibular e usa experiência como paciente para ajudar",
+      "imagem": "https://s2-g1.glbimg.com/4dTtqpj5WkOgJeIvPPMwpWp-k7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/O/Bbe4g6SdOPkqIRutAXEQ/medica-sv.jpg"
+    },
+    {
+      "titulo": "Alemão se assusta com prédios tortos de Santos e reação viraliza: 'isso é perigoso, né?'; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/ycY2BP8uA9ep6RFh8gAjCTGJh-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/s/WAkGVsRsytD81o7pdnfQ/alemao-predios.jpg"
+    },
+    {
+      "titulo": "Atração do Rock in Rio, Zara Larsson deu um salto na carreira desde a última vinda ao Brasil",
+      "imagem": "https://s2-g1.glbimg.com/08WFQHX3JF6LVU09kvfvVFKx3N8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/D/Xc4vPCSLiiE5UYpfEKhA/captura-de-tela-2025-09-25-131904.png"
+    },
+    {
+      "titulo": "O caso da menina de 10 anos traficada do Peru para o Equador para se casar com um homem de 50",
+      "imagem": "https://s2-g1.glbimg.com/n0kzKTgRQ9kfaqM1rnGuzW0PB9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/O/eCemFeTHSZuksCoAmJxQ/exercito.jpg"
+    },
+    {
+      "titulo": "Crise do varejo? Por que algumas gigantes estão em crise e outras seguem crescendo",
+      "imagem": "https://s2-g1.glbimg.com/mPxZT_RzKRPMX334ye_dVeLdhXY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/s/R/4QWm36SnilgLlWwDkYPA/shopping2.jpg"
+    },
+    {
+      "titulo": "Dia Mundial da Fotografia: histórias de quem mantém álbuns e fotos físicas em tempos de registros digitais",
+      "imagem": "https://s2-g1.glbimg.com/7O0V6N5iIOkQjXOPuJiW9IeB7W4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/m/PUHCepSwmGl2BWO9ysQw/fotos-camera-analogica.jpg"
+    },
+    {
+      "titulo": "É #FAKE que família de Luiz Carlos Barreto brigou na TV por causa de testamento; site falso impulsiona plataforma de criptomoeda",
+      "imagem": "https://s2-g1.glbimg.com/WuUPlONJtKv1QiPC4LQ6UtEcE-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/j/AY1GtZQjaZHeGOohKgVw/selo-plataforma-fake.jpg"
+    },
+    {
+      "titulo": "'É difícil levar policiais ao banco dos réus, mas mais difícil é a Justiça ser justa', diz mãe de vítima do massacre de Paraisópolis após decisão por júri",
+      "imagem": "https://s2-g1.glbimg.com/N_Tlvcji-2Py_Fsr0i1V7Z6cPs4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/v/qKT58jR1uqqcAi1axQig/4-consolidacao-do-cerco.jpg"
+    },
+    {
+      "titulo": "Diagnosticada aos 24 anos, jovem convive com doença rara que imita o Parkinson",
+      "imagem": "https://s2-g1.glbimg.com/bpfZnlSIQAmM6fVf-s3Vr37NdB0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/F/APsKxBT2eJRlzSwR7LGg/captura-de-tela-2026-08-12-134550.png"
+    },
+    {
+      "titulo": "VÍDEO: entenda o que são votos válidos e como eles são calculados nas pesquisas eleitorais",
+      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
+    },
+    {
+      "titulo": "Dia da Fotografia: entre rios e comunidades, fotógrafos registram as mudanças da Amazônia",
+      "imagem": "https://s2-g1.glbimg.com/3POntQonbwD-XvlI5rXaFa59Hkg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/e/nEoWrPRSuIkWXW1J9vSQ/whatsapp-image-2026-08-18-at-09.47.09.jpeg"
+    },
+    {
+      "titulo": "Entenda o que é o 'petróleo chique' do Amapá, óleo leve que Lula comparou ao Pré-Sal",
+      "imagem": "https://s2-g1.glbimg.com/oxtPIgkb22erUBjGgRsgZ9hyX0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/T/Q/bFzL6ZSduW1rMrEhp78w/whatsapp-image-2025-06-24-at-09.32.41.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: Ladrão usa vara para 'pescar' e furtar encomendas deixadas na porta de empresa em MG",
+      "imagem": "https://s2-g1.glbimg.com/TOgfu-SaALG2p2Qt9iFCKUa4D-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/x/RpZd5bSIAV5J5VDPPPtw/design-sem-nome.png"
+    },
+    {
+      "titulo": "Quem são os peões de rodeio que lideram a temporada 2026 e já faturaram quase R$ 1,5 milhão",
+      "imagem": "https://s2-g1.glbimg.com/mVhNeQs1Zou-QIOc4gNb8EVyBmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/X/CDk2AmTkeUzwwrBue4UQ/peoes-1.jpg"
+    },
+    {
+      "titulo": "Ex-padrasto suspeito de matar adolescente de 14 anos a facadas foi preso na própria casa, onde crime teria acontecido, diz PM",
+      "imagem": "https://s2-g1.glbimg.com/De4GAM08Ymc_yI-BseRACagkIm4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/o/SLPavEScK3hcu3HLazNA/documento.png"
+    },
+    {
+      "titulo": "De Porsche a BMW: polícia apreende 22 carros de luxo avaliados em R$ 20 milhões em galpão de influencer Razuk",
+      "imagem": "https://s2-g1.glbimg.com/9jdc19jKW-Cvg_yg47rr7-H3BZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/d/xUVlqEQ1aMvuAPUrFROg/jhjuklcl.png"
+    },
+    {
       "titulo": "Cães farejadores da Core ganham missão pioneira de localizar corpos em cemitérios clandestinos",
       "imagem": "https://s2-g1.glbimg.com/3PxmhYGBLZR0VSaCre2r8_pyEvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/X/tVtnadTvSiha3U4BqPyg/imagem-cortada-2026-08-18t095714.853.jpg"
     },
     {
       "titulo": "Seca histórica faz rios da Europa revelarem embarcações da Segunda Guerra Mundial e vestígios de milhares de anos",
       "imagem": null
-    },
-    {
-      "titulo": "Atração do Rock in Rio, Zara Larsson deu um salto na carreira desde a última vinda ao Brasil",
-      "imagem": "https://s2-g1.glbimg.com/08WFQHX3JF6LVU09kvfvVFKx3N8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/D/Xc4vPCSLiiE5UYpfEKhA/captura-de-tela-2025-09-25-131904.png"
     },
     {
       "titulo": "TV com brilho demais? Veja como desativar o 'modo loja' no seu aparelho",
@@ -43,83 +119,7 @@
     {
       "titulo": "Veja cronologia do atendimento médico de grávida que morreu pedindo para fazer cesárea em MG",
       "imagem": "https://s2-g1.glbimg.com/Z85tZjh0ApCncZEFuVvaEFbqow4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/W/Myc0LqQsWBNhAgIa6Ebg/design-sem-nome.png"
-    },
-    {
-      "titulo": "Dois feminicídios no intervalo de uma hora: o que se sabe e o que falta esclarecer sobre os crimes",
-      "imagem": "https://s2-g1.glbimg.com/JQnZU55F1-t471X3cqm7uIDe2LI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/J/d2dHckRu2E73LLuyH1fA/silvani.png"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/F164C-UbGx0ZmIs6qRXpvwAYQuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/V/AF9z5nT8KGBj4AvLP4Xw/previsao-tempo-bras-lia-20260819-030646.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol o dia todo sem nuvens no céu; noite de tempo aberto ainda sem nuvens",
-      "imagem": "https://s2-g1.glbimg.com/2ZO-MhBOATwB4CxYIegUcdq1FcA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/F/3NtH2QTBOv4IsSxBXYOw/previsao-tempo-s-o-paulo-20260819-030629.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): dia ensolarado, com nevoeiro ao amanhecer; as nuvens aumentam à noite",
-      "imagem": "https://s2-g1.glbimg.com/AoO7ERehWWdty3h1CaPrl1txZjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/f/HUU0FYRBa3CeRNzWI6Ew/previsao-tempo-s-o-bernardo-do-campo-20260819-030613.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Santo André (SP): dia ensolarado, com nevoeiro ao amanhecer; as nuvens aumentam à noite",
-      "imagem": "https://s2-g1.glbimg.com/eLj3CunbdG32zpCHSnEH0-YHGE4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/D/0pAxkkTYAuSFIU2seAoA/previsao-tempo-santo-andr-20260819-030556.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Osasco (SP): dia ensolarado, com nevoeiro ao amanhecer; as nuvens aumentam à noite",
-      "imagem": "https://s2-g1.glbimg.com/r-BB2obC4WN0i0poepJsiHF_7rY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/k/LAoOmATdahfDeLMMt1Sw/previsao-tempo-osasco-20260819-030539.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): dia ensolarado, com nevoeiro ao amanhecer; as nuvens aumentam à noite",
-      "imagem": "https://s2-g1.glbimg.com/hsx89DBMGUNsjS00M2qUsdQrF-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/N/VTBYJATeyGeb2bBdrtrQ/previsao-tempo-guarulhos-20260819-030520.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): tempo ensolarado, com nevoeiro ao amanhecer; noite de céu limpo",
-      "imagem": "https://s2-g1.glbimg.com/MJxTmdsYtVoGxwr4e-HSUoyI_yU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/P/ueR1E1QIWAS2xtBBbDkA/previsao-tempo-s-o-gon-alo-20260819-030503.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol o dia todo sem nuvens no céu; noite de tempo aberto ainda sem nuvens",
-      "imagem": "https://s2-g1.glbimg.com/fjHcAlqbaifo1_Pv-6khyBG8Y5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/H/DT0XKvTryORRc5fjc3qA/previsao-tempo-rio-de-janeiro-20260819-030446.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): tempo ensolarado, com nevoeiro ao amanhecer; noite de céu limpo",
-      "imagem": "https://s2-g1.glbimg.com/Gh5g52LVKWS7Rgw_DTqdAn6vIKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/U/uKKMOFR5ur5kamZY8crQ/previsao-tempo-nova-igua-u-20260819-030430.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): dia de sol, com nevoeiro ao amanhecer; as nuvens aumentam no decorrer da tarde",
-      "imagem": "https://s2-g1.glbimg.com/RtKcb6OVnOG4VJpB6zzxva3QEXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/y/XmHHlhRkGTCOxMuSRahA/previsao-tempo-niter-i-20260819-030414.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): tempo ensolarado, com nevoeiro ao amanhecer; noite de céu limpo",
-      "imagem": "https://s2-g1.glbimg.com/CsNg7Q-vLclEYGPktJy0y69zGUE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/i/fbvh9nR66nWWw1vlWz7g/previsao-tempo-duque-de-caxias-20260819-030356.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): dia de sol, com nevoeiro ao amanhecer e algumas nuvens à tarde; noite de céu limpo",
-      "imagem": "https://s2-g1.glbimg.com/Ibe3hEBwAxsLcKLKnA1GcmDKFH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/o/VLW2cEScuyM1K1me94LQ/previsao-tempo-sete-lagoas-20260819-030337.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite de céu limpo",
-      "imagem": "https://s2-g1.glbimg.com/DcscRazRLjaNMIYWXFajeHudb4c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/0/4VdiLDTPClBPtmGYYnvw/previsao-tempo-ribeir-o-das-neves-20260819-030321.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Contagem (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/QxwwE0TVCrE4XTlc3TR_XTD8naw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/2/sUSSAATVe0m51rLFyDEQ/previsao-tempo-contagem-20260819-030304.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Betim (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/GfNloRypBKiv4T1IkkshwlcbjTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/bWLFaAQ1uzZrT5EIQDKw/previsao-tempo-betim-20260819-030247.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): dia de sol com névoa fraca ao amanhecer",
-      "imagem": "https://s2-g1.glbimg.com/VYmOd84d4PJ7JOkJ_3pGmGp-SSA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/t/TBUWaUSJu6UbLfUw5Smg/previsao-tempo-belo-horizonte-20260819-030231.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/vpDXsQs5EHQ4xtABAopStMleOno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/F/7hpnhlTOGA0ScGqQX1Dw/previsao-tempo-recife-20260819-030215.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Paulista (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/FMD7ddoATU_O-J3D-xajMgNsnLs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/0/kzpIJYRpqNKTNLeeWqSA/previsao-tempo-paulista-20260819-030150.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-19T08:01:50.340Z"
+  "atualizadoEm": "2026-08-19T08:53:24.854Z"
 }
