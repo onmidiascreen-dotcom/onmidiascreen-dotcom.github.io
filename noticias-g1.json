@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "Novela da vida real: demissão leva empreendedora a criar ateliê de costura",
+      "imagem": "https://s2-g1.glbimg.com/VC6pD9De7TCwOJZ48_NWYMAJgDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/X/nYoSPBRjOlmS33QNJYUg/captura-de-tela-2026-07-27-102720.png"
+    },
+    {
+      "titulo": "UnB e Escola de Saúde Pública do DF abrem 600 vagas para cursos técnicos e de graduação",
+      "imagem": "https://s2-g1.glbimg.com/XkwSTnl64xCrOBkBOtm2pB9sbDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/7/G/VfwEg9TauF2c991DbJGQ/poupatempo-unb-20072021-frame-281.jpeg"
+    },
+    {
+      "titulo": "Psicólogo escolar, professora de zumba: como vivia o casal preso em Portugal por tortura em clínica no Brasil",
+      "imagem": "https://s2-g1.glbimg.com/WhmYBv40UfUuKXy7Q8rW8aXfx5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/E/PIBIl1S828khVPC86wrg/design-sem-nome-8-.jpg"
+    },
+    {
+      "titulo": "Brasil tem menos transparência em anúncios nas redes sociais que União Europeia e Reino Unido, aponta estudo",
+      "imagem": "https://s2-g1.glbimg.com/EltdEqGcNV5PDSmaUGrqZVNybpU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/9/p4wC8YSpOFgtGa4c4jhQ/2026-07-07t062504z-175072374-rc2u8may7ofr-rtrmadp-3-australia-socialmedia.jpg"
+    },
+    {
+      "titulo": "Tarcísio e Haddad gastaram ao menos R$ 2,2 milhões em anúncios no Instagram e no Facebook em 2026, mesmo antes do início da campanha",
+      "imagem": "https://s2-g1.glbimg.com/k_l63p5x9v_lk4sdmI3OXTFMGeQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/T/cCRNhLQtuGrGAwKGXDbg/montagem-horizontal-1200px-10-.jpg"
+    },
+    {
+      "titulo": "Macaco foge de zoológico na Escócia e volta sozinho no dia seguinte",
+      "imagem": "https://s2-g1.glbimg.com/8jXGdMdDtaOfIo30M78RF0c2J-0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/U/zdCrokQ8SVQZloIowPNQ/26-08-luka-japanese-macaque-resize.jpg"
+    },
+    {
+      "titulo": "Eleições 2026 têm 8 candidatos 'Lulas' e 20 'Bolsonaros' sem parentesco com o presidente e o ex-presidente",
+      "imagem": "https://s2-g1.glbimg.com/1Col5_RIHiwAf4bX_WfA6scBJK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/O/KPAnPOSaA9eMtxZcF2Bw/lula-bolsonaro.jpg"
+    },
+    {
+      "titulo": "Como pai e filho na lista da Interpol foram encontrados em zona rural do interior de SP um ano após assassinato de amigos no Paraná",
+      "imagem": "https://s2-g1.glbimg.com/RWSAlRDvB-eHiC4Qn2KKZiEutsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/E/oHEmYHQviHAUD9A0w2Rg/novo-projeto.jpg"
+    },
+    {
+      "titulo": "Trump suspende por três dias tarifas de 50% sobre importações canadenses",
+      "imagem": "https://s2-g1.glbimg.com/dL-N5wR32EpVThz6zIpo6G3S73I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/R/3mrwFlQRe7CZLBIfkWlw/fotos-materias-2026-08-06t094308.224.jpg"
+    },
+    {
       "titulo": "Jovem que fotografa partos desde os 19 anos fala da responsabilidade: 'momento que não se repete'",
       "imagem": "https://s2-g1.glbimg.com/bNs_vM3NGmzRNhLBg0HqSDaWyy4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/S/GdiggjR2CRjJEM9DmxeA/edicao-imagens-g1-55-.jpg"
     },
@@ -83,43 +119,7 @@
     {
       "titulo": "Navio da Marinha dos EUA fica 4 dias sem água potável, comida e banheiro após falha de energia",
       "imagem": "https://s2-g1.glbimg.com/DL341wsbRID2YzV-avXMXMF-GJw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/u/N8eG7xTi2mRNIoeWWzzg/ap26230731513594.jpg"
-    },
-    {
-      "titulo": "'A vida é esperança e amor': o que pensava Glória Menezes sobre viver; confira relato de atriz gaúcha que morreu aos 91",
-      "imagem": "https://s2-g1.glbimg.com/KvqePdUQVHDe-zxBHRNjJERBZXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/Q/I6lNMBSHiBRvFH6jBZbw/gloria-menezes-em-totalmente-demais-2015-.jpg"
-    },
-    {
-      "titulo": "Romeu Zema, candidato do Partido Novo à Presidência, passa o dia em São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/iF4hFhvnxyZp2sSlXNTilc7qmyo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/d/j1LBalRXeWhmZcv6ecQQ/globo-canal-4-20260818-2000-frame-98910.jpeg"
-    },
-    {
-      "titulo": "Augusto Cury, candidato pelo Avante à Presidência, tem agenda em Brasília",
-      "imagem": "https://s2-g1.glbimg.com/GRzDkRHJJ7MaT648n4jJvBvfAJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/C/ZEEck7RtSoVSxZJtQDcA/globo-canal-4-20260818-2000-frame-96822.jpeg"
-    },
-    {
-      "titulo": "Ronaldo Caiado, candidato do PSD à Presidência, faz campanha em Brasília e em São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/yl_0OKaP_ncuQrWDs1l-0pmUh90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/R/QC9nLdSRAGWjCO3ddz0A/globo-canal-4-20260818-2000-frame-94700.jpeg"
-    },
-    {
-      "titulo": "Renan Santos, candidato do Missão à Presidência, faz campanha em Brasília",
-      "imagem": "https://s2-g1.glbimg.com/joJD4N_62i2Lk9tDhXKY0k7f3K0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/n/EmAIScRYuWtjnS0sEpFw/globo-canal-4-20260818-2000-frame-92568.jpeg"
-    },
-    {
-      "titulo": "Flávio Bolsonaro, candidato do PL à Presidência, faz campanha em BH",
-      "imagem": "https://s2-g1.glbimg.com/DkzxEEz8LSkLylGPNWlvyvO1x0g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/a/FqKOahSgSJWx4suDzpLA/globo-canal-4-20260818-2000-frame-90550.jpeg"
-    },
-    {
-      "titulo": "Amigos e colegas de trabalho homenageiam Laura Cardoso e Glória Menezes",
-      "imagem": "https://s2-g1.glbimg.com/KrYAxDttUSY-dCuj26xn9T7H2GA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/X/mfA9CwTRCMDhoq6lONPw/globo-canal-4-20260818-2000-frame-166761.jpeg"
-    },
-    {
-      "titulo": "Defensoria pede interdição de lixão em Iranduba onde incêndio dura cinco dias",
-      "imagem": "https://s2-g1.glbimg.com/hnkHLNaQPemiorLDpdJZPdAbdDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/s/tzMT6SSz6gP52JosoZbw/whatsapp-image-2026-08-18-at-15.58.44.jpeg"
-    },
-    {
-      "titulo": "Bolão de 50 cotas leva quase R$ 2 milhões da Lotofácil em Porto Alegre; confira os números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/bx77Bvf7OUj0LB_0AVRAt8Nhcvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/k/XjWWbsSw2eKWY4E5RBsA/edicao-imagens-g1-11-.png"
     }
   ],
-  "atualizadoEm": "2026-08-19T04:50:44.245Z"
+  "atualizadoEm": "2026-08-19T05:25:09.204Z"
 }
