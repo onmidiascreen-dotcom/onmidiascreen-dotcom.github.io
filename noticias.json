@@ -1,6 +1,114 @@
 {
   "noticias": [
     {
+      "titulo": "Libertadores: no caminho do Corinthians, Estudiantes bate Católica e avança",
+      "imagem": null
+    },
+    {
+      "titulo": "Morre Frank Beard, baterista do ZZ Top, aos 77 anos",
+      "imagem": null
+    },
+    {
+      "titulo": "Produção interna de fertilizantes seria melhor ao Brasil, diz especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "Glória Menezes raspou a cabeça duas vezes para viver personagens; relembre",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Canetas emagrecedoras genéricas podem facilitar acesso&#8221;, diz especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "Galvão se rende a Fábio em classificação do Fluminense: &#8220;Espetacular&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "STJ libera penhora de milhas para pagamento de dívidas",
+      "imagem": null
+    },
+    {
+      "titulo": "Veterinária é atacada por cão do Senado Federal em Brasília",
+      "imagem": null
+    },
+    {
+      "titulo": "Diplomatas do Irã publicam mapa reivindicando a Califórnia",
+      "imagem": null
+    },
+    {
+      "titulo": "Lisa Kudrow diz que sofreu rejeições na carreira por não se encaixar",
+      "imagem": null
+    },
+    {
+      "titulo": "Nathália Timberg sobre mortes de Cardoso e Menezes: &#8220;Logo estaremos juntas&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "TSE diz que reunião sobre IA foi “produtiva” e que casos irão a plenário",
+      "imagem": null
+    },
+    {
+      "titulo": "EA Sports FC 27: veja os maiores overalls do novo jogo",
+      "imagem": null
+    },
+    {
+      "titulo": "Glória Menezes era nome artístico da atriz; saiba o verdadeiro",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump pressiona por reunião com Kim Jong-un ainda este ano, diz jornal",
+      "imagem": null
+    },
+    {
+      "titulo": "Quem são os candidatos ao governo de Sergipe em 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "MPE se manifesta a favor de elegibilidade de Deltan Dallagnol",
+      "imagem": null
+    },
+    {
+      "titulo": "Conheça 10 curiosidades sobre o novo GAC GS9",
+      "imagem": null
+    },
+    {
+      "titulo": "Moraes dá 30 dias para PGR opinar sobre plano de reocupação no Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Lei Seca: Fiscalização vai detectar o uso de drogas, diz especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "CBF define árbitros para jogos de ida das quartas da Copa do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Waack: Alcolumbre é a mais nova esperança de Lula",
+      "imagem": null
+    },
+    {
+      "titulo": "China consegue feito inédito ao pousar foguete de ré em terra firme; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Melhores momentos de Ind. Rivadavia 1 x 1 Fluminense pela Libertadores",
+      "imagem": null
+    },
+    {
+      "titulo": "Aos 90 anos, Glória Menezes acolheu enteado trans de filho: &#8220;E daí?&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Glória Menezes estrelou o único longa vencedor da Palma de Ouro em Cannes",
+      "imagem": null
+    },
+    {
+      "titulo": "Rússia convoca embaixador em meio à crise com Japão sobre ilhas disputadas",
+      "imagem": null
+    },
+    {
       "titulo": "Mega-Sena 3046: loteria acumula e pode pagar R$ 50 milhões na quinta (20)",
       "imagem": null
     },
@@ -11,115 +119,7 @@
     {
       "titulo": "Al-Hilal faz proposta milionária por atacante do Aston Villa; veja valores",
       "imagem": null
-    },
-    {
-      "titulo": "Nasa divulga imagens de cratera feita por colisão da Falcon 9 na Lua",
-      "imagem": null
-    },
-    {
-      "titulo": "Ameaça de Trump de bombardear Omã “não é crível”, diz especialista",
-      "imagem": null
-    },
-    {
-      "titulo": "Polícia apreende droga avaliada em R$ 14 milhões escondida em carga de café",
-      "imagem": null
-    },
-    {
-      "titulo": "Polícia recupera bolsas de luxo furtadas em loja no Aeroporto de Guarulhos",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja qual foi a última aparição de Glória Menezes",
-      "imagem": null
-    },
-    {
-      "titulo": "Moody’s mantém rating da Austrália em &#8220;Aaa&#8221; e perspectiva estável",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja classificados e confrontos das quartas de final da Libertadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Fluminense cede empate no fim, mas avança nos pênaltis contra o Rivadavia",
-      "imagem": null
-    },
-    {
-      "titulo": "Eleições 2026: &#8220;Quem vence em Minas, ganha a eleição&#8221;, diz Flávio em evento",
-      "imagem": null
-    },
-    {
-      "titulo": "Franclim Carvalho é demitido do Botafogo após resultados ruins",
-      "imagem": null
-    },
-    {
-      "titulo": "PM prende 17 e apreende grande arsenal em megaoperação no Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Boca Juniors goleia o Recoleta e confirma classificação na Sul-Americana",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja classificados e confrontos das quartas de final da Copa Sul-Americana",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: Eleições e cenário fiscal afastam investidor estrangeiro",
-      "imagem": null
-    },
-    {
-      "titulo": "Indústria naval supera recorde de empregos de 2014, diz Sinaval",
-      "imagem": null
-    },
-    {
-      "titulo": "Relembre vezes em que Glória Menezes e Tarcísio Meira atuaram juntos",
-      "imagem": null
-    },
-    {
-      "titulo": "Motorista é preso em flagrante por colisão com passarela na Fernão Dias",
-      "imagem": null
-    },
-    {
-      "titulo": "Glória Menezes foi a 1ª atriz a protagonizar novela diária; entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "JBS propõe comprar ações restantes da Pilgrim’s Pride e sair da Nasdaq",
-      "imagem": null
-    },
-    {
-      "titulo": "São Paulo x Bolívar: escalações e onde assistir à Copa Sul-Americana",
-      "imagem": null
-    },
-    {
-      "titulo": "Exercícios EUA-Coreia do Sul devem ser reduzidos pela metade, diz mídia",
-      "imagem": null
-    },
-    {
-      "titulo": "Líder do PT na Câmara recebe alta após sofrer AVC",
-      "imagem": null
-    },
-    {
-      "titulo": "Elera aponta baterias como próximo grande investimento no Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Elera vê GD como causa de desequilíbrio entre oferta e demanda de energia",
-      "imagem": null
-    },
-    {
-      "titulo": "Ciclone extratropical gera alerta: quais os efeitos esperados em São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Pesquisador e família morrem a caminho de casamento em MS",
-      "imagem": null
-    },
-    {
-      "titulo": "Glória Menezes se casou com o primo aos 17 anos para estudar teatro",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T01:00:55.233Z"
+  "atualizadoEm": "2026-08-19T02:31:05.150Z"
 }

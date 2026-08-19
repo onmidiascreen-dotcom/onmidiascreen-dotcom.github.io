@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "Renan Santos, candidato do Missão à Presidência, faz campanha em Brasília",
+      "imagem": "https://s2-g1.glbimg.com/joJD4N_62i2Lk9tDhXKY0k7f3K0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/n/EmAIScRYuWtjnS0sEpFw/globo-canal-4-20260818-2000-frame-92568.jpeg"
+    },
+    {
+      "titulo": "Flávio Bolsonaro, candidato do PL à Presidência, faz campanha em BH",
+      "imagem": "https://s2-g1.glbimg.com/DkzxEEz8LSkLylGPNWlvyvO1x0g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/a/FqKOahSgSJWx4suDzpLA/globo-canal-4-20260818-2000-frame-90550.jpeg"
+    },
+    {
+      "titulo": "Amigos e colegas de trabalho homenageiam Laura Cardoso e Glória Menezes",
+      "imagem": "https://s2-g1.glbimg.com/KrYAxDttUSY-dCuj26xn9T7H2GA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/X/mfA9CwTRCMDhoq6lONPw/globo-canal-4-20260818-2000-frame-166761.jpeg"
+    },
+    {
+      "titulo": "Defensoria pede interdição de lixão em Iranduba onde incêndio dura cinco dias",
+      "imagem": "https://s2-g1.glbimg.com/hnkHLNaQPemiorLDpdJZPdAbdDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/s/tzMT6SSz6gP52JosoZbw/whatsapp-image-2026-08-18-at-15.58.44.jpeg"
+    },
+    {
+      "titulo": "Bolão de 50 cotas leva quase R$ 2 milhões da Lotofácil em Porto Alegre; confira os números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/bx77Bvf7OUj0LB_0AVRAt8Nhcvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/k/XjWWbsSw2eKWY4E5RBsA/edicao-imagens-g1-11-.png"
+    },
+    {
+      "titulo": "Principal suspeito de matar nutricionista em destino turístico na Bahia se entrega à polícia",
+      "imagem": "https://s2-g1.glbimg.com/SCQbCkPn79iTal_6Bk1DaoFJ5M0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/1/iV8RWJTdWBEojcmrHNGg/larissa.png"
+    },
+    {
+      "titulo": "Glória Menezes, a grande dama das novelas, morre aos 91 anos",
+      "imagem": "https://s2-g1.glbimg.com/Ec9eKzaSAxaB2S9hSnHOy_xlVl4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/i/Shs4dhQym23t5KADeAtg/globo-canal-4-20260818-2000-frame-166109.jpeg"
+    },
+    {
+      "titulo": "Adriana Calcanhotto, Arnaldo Antunes, Carlinhos Brown, Marisa Monte e Nando Reis ganham as vozes do coletivo Lado Alado no álbum 'Pelo tempo que durar'",
+      "imagem": "https://s2-g1.glbimg.com/TdqeIbm-HyJ0ckP86nn2VSrhG4A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/z/kAB7aZTCauPUnZZaQuGA/pelotempoqu-durar.png"
+    },
+    {
+      "titulo": "GR2 de terça-feira, 18 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/26b7hzXzEr1avua3RdT6ubUjTwE=/s01.video.glbimg.com/deo/vi/05/11/14881105"
+    },
+    {
+      "titulo": "Disputa entre candidatos com o mesmo nome nas eleições provoca polêmica e vira alvo de investigação nos EUA",
+      "imagem": "https://s2-g1.glbimg.com/nQVRPSRnOmw-Ka53dt5qURpIimI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/l/7kZS4tQYGAAcqMXWXd5g/ap26230525970727.jpg"
+    },
+    {
+      "titulo": "Advogado Nelson Wilians depõe, mas não apresenta documentos para comprovar versão sobre esquema de sonegação de ICMS",
+      "imagem": "https://s2-g1.glbimg.com/SpsNZZVZoUlbxFRZF24dZLvh0Qk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/C/W/RAK11bR6eKxVhvEIrBjQ/fotojet-2025-09-18t132030.188.jpg"
+    },
+    {
+      "titulo": "Candidatos ao governo do Ceará concentraram atos de campanha em Fortaleza nesta terça (18)",
+      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é preso suspeito de comercializar drogas disfarçado de vendedor de frutas em Salvador",
+      "imagem": "https://s2-g1.glbimg.com/P_VeEPy7R-_3kRq5yNWykKoVPWM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/5/FzOTp6QSOSZVAcipU7vw/whatsapp-image-2026-08-18-at-14.40.38.jpeg"
+    },
+    {
+      "titulo": "Nem dipirona: MP investiga falta de medicamentos em postos de saúde de Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/bjS0HOzk6AU9JFsKuhu3lurXFpE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/h/gmcklgQYW14lxsZBVqXg/para-o-g1-99-.jpg"
+    },
+    {
+      "titulo": "Apoiado por PL e Federação União PP, Ciro diz que deixou diferenças com ex-adversários de lado para 'unir o Ceará'",
+      "imagem": "https://s2-g1.glbimg.com/nvAUPsuTUmr1U6BbDEC_ndET-ZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/w/Y5OWxMSbKzMofjCUldqA/ciro-gomes-em-evento.jpg"
+    },
+    {
+      "titulo": "‘JN nas Ruas’ reúne brasileiros de origens e opiniões diferentes para falar de agro e respeito à natureza",
+      "imagem": "https://s2-g1.glbimg.com/GDnxq4xYnAd3iRkknhIzs7bWTVw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/O/I4HhMpRg2l8J5dDAKs6A/globo-canal-4-20260818-2000-frame-131335.jpeg"
+    },
+    {
+      "titulo": "Circulação de água em aterro provocou cratera na BR-324, diz DNIT",
+      "imagem": "https://s2-g1.glbimg.com/ErBQoU5cHPl_a87cJigLWsp1AFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/d/YjLlQmSpycbvupDpmXTQ/whatsapp-image-2026-07-14-at-22.04.36.jpg"
+    },
+    {
+      "titulo": "Resumão diário do JN: Brasil perde Laura Cardoso e Glória Menezes, duas das maiores atrizes do teatro e da televisão; começa primeiro julgamento contra a Meta por danos à saúde mental",
+      "imagem": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
+    },
+    {
       "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de terça-feira, 18 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/xv_E--04duhoNHZjzYVKF1Wae10=/s01.video.glbimg.com/deo/vi/90/09/14880990"
     },
@@ -9,7 +85,7 @@
       "imagem": "https://s2-g1.glbimg.com/yGTvV6TAOwg8T4h_1861ryDOyLU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/f/IDZVqjR921a4g5TOzhcg/capa-agenda-g1-2026-08-16t181145.721.jpg"
     },
     {
-      "titulo": "Ex-padrasto suspeito de matar adolescente de 14 anos a facadas no RS é preso após fuga, diz PM; crime é investigado como feminicídio",
+      "titulo": "Ex-padrasto suspeito de matar adolescente de 14 anos a facadas é preso após fuga, diz PM; crime é investigado como feminicídio",
       "imagem": "https://s2-g1.glbimg.com/De4GAM08Ymc_yI-BseRACagkIm4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/o/SLPavEScK3hcu3HLazNA/documento.png"
     },
     {
@@ -17,7 +93,7 @@
       "imagem": "https://s2-g1.glbimg.com/J2Oy4AelM3rWBu4bVqBc6uwUD5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/y/C2ch6FTdGg0HknYQBZag/globo-canal-4-20260818-2000-frame-146239.jpeg"
     },
     {
-      "titulo": "Perfil de Razuk mostra galpão vazio onde influencer guardava carros de luxo e manda recado para os seguidores",
+      "titulo": "Galpão onde influencer Razuk guardava carros de luxo aparece vazio em vídeo nas redes sociais após prisão",
       "imagem": "https://s2-g1.glbimg.com/NfP4QA5naKatDXM15N5sBRTF0Ow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/R/pINYuQQkq8D8AI2Iv2CA/1200-x-800-49-.jpg"
     },
     {
@@ -43,83 +119,7 @@
     {
       "titulo": "Dominguinho na sexta, Ludmilla no sábado e Belo no domingo: confira as atrações de cada noite do Festival de Inverno Bahia 2026",
       "imagem": "https://s2-g1.glbimg.com/1pp6R4SDLTUm8T4RsxyDF5E8FtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/e/QWnUUAS3q2AdAeiOXngg/fib.jpeg"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
-    },
-    {
-      "titulo": "Debate entre candidatos ao governo do Tocantins tem críticas e embates sobre gestão pública, saúde e geração de empregos",
-      "imagem": "https://s2-g1.glbimg.com/wnX3EZVrMtD_mukIvXFCULAr_-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/b/AfmXOFT4C2ABPYAhX2Yg/whatsapp-image-2026-08-18-at-20.50.48.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato Roberto Rocha ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/-_II4IKVkf4ywR-GPAUv6j0R--A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/A/TWk204SOidUUzXoasM7Q/roberto-rocha.jpg"
-    },
-    {
-      "titulo": "Cartilha do Conselho Nacional de Justiça detalha penduricalhos pagos a magistrados que podem ir além do teto constitucional",
-      "imagem": "https://s2-g1.glbimg.com/gU_OBwHMB7r9ghvHuYM4cf5gdiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/z/Q6MUwoT1q5Afo83Ty9fA/globo-canal-4-20260818-2000-frame-85940.jpeg"
-    },
-    {
-      "titulo": "Empresário morre durante procedimento estético em clínica de Fortaleza",
-      "imagem": "https://s2-g1.glbimg.com/kl23sBN7RuvuVJ3mIXMsWBkTeww=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/U/ne0nOVSSm0OJqY1fcl9g/empresario-lifting.jpg"
-    },
-    {
-      "titulo": "Juiz ferido em desabamento de ponte no Acre recebe alta após 2 dois meses internado",
-      "imagem": "https://s2-g1.glbimg.com/iTZqdlzKKKPmafNtepfwXw1WLZk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/A/bXCvAET1SD0ffXr0v1Pw/midia-de-distribuicao-g1-4-.png"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato Eduardo Braide ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/6usqwqRNxUAAY8JwKVFsuOT87NQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/zUHMFRSA2tG2kbUNBK9w/eduardo-braide.jpg"
-    },
-    {
-      "titulo": "No segundo trimestre de 2026, número de empresas que pediram recuperação judicial aumenta 20% em relação a 2025",
-      "imagem": "https://s2-g1.glbimg.com/KQZmFGqxzv9uEOub_E1BIdDDfTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/P/QPdNTQSHW2zevf5w5dGA/globo-canal-4-20260818-2000-frame-73051.jpeg"
-    },
-    {
-      "titulo": "Corrida Deu Match Run une percursos de até 10 km, em Goiânia; veja como se inscrever",
-      "imagem": "https://s2-g1.glbimg.com/Qu5mTA5NnSWxAYZv9q-_PvSsyZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/E/KrT1QzQtysMGf7fe5nEg/exportacao-3-.jpg"
-    },
-    {
-      "titulo": "Clécio Luís reúne setor imobiliário no terceiro dia de campanha ao governo do Amapá",
-      "imagem": "https://s2-g1.glbimg.com/0gq81yvUNTouvxCaK7cjBayFcbc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/F/a1uqbVRkO4qweAEBZCzg/whatsapp-image-2026-08-18-at-19.41.42.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de terça-feira, 18 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/n-ZzK79q0ZYWq7HUKdAOQkbwY4o=/s01.video.glbimg.com/deo/vi/12/09/14880912"
-    },
-    {
-      "titulo": "Mateus Simões pretende que pagamento da dívida de MG com a União seja feito através de investimentos no estado",
-      "imagem": "https://s2-g1.glbimg.com/q68fWZjobpLMnk7XJMJgInlFccA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/D/H4YUcdRXi4mpqapL7Vtg/mateus-simoes-uberaba-01.jpg"
-    },
-    {
-      "titulo": "Réu recebe pena de 21 anos por matar pastor a tiros em Teresina",
-      "imagem": "https://s2-g1.glbimg.com/l0W3FoqR1seYHKYAQNloILnf2VQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/x/S5OCE4T2aotDPAcFWWOQ/g1-bg-02-1-.png"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato Felipe Camarão ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/f89HfwB3-jHpzKruaCd7W0r8FhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/b/iWUXHwTWWr4rEyMxFHPg/felipecamarao.jpg"
-    },
-    {
-      "titulo": "Mega-Sena 3046 acumula e vai a R$ 50 milhões; veja os números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/_8JeaSGVqY5A-KhTgESvOrxUmBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/RtHPdITrAqXbDbAIXHsQ/captura-de-tela-2026-08-18-210237.png"
-    },
-    {
-      "titulo": "Mais de 170 cidades da Bahia estão sob alerta de baixa umidade; estado está entre atingidos por onda de calor",
-      "imagem": "https://s2-g1.glbimg.com/Dv7SVywth3s6t2kcbQjGwcWlXg0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/o/6/jkB80qSB2lcCDJ8eVe2A/hotel-colombo-2024-09-18t074901.421.png"
-    },
-    {
-      "titulo": "Começa julgamento contra Meta por danos à saúde mental de crianças e adolescentes; multas podem chegar a US$ 1,4 trilhão",
-      "imagem": "https://s2-g1.glbimg.com/1Wd1JFIZUL1eOca95FgI2ub9gXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/o/W6twVSQjGJXCVB86gA4A/globo-canal-4-20260818-2000-frame-65998.jpeg"
-    },
-    {
-      "titulo": "'Legado gigante': artistas lamentam morte de Glória Menezes no Festival de Cinema de Gramado",
-      "imagem": "https://s2-g1.glbimg.com/L7L2dfWlkL2yYL8sx_G-M8x0t7E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/r/fRlCV8T3aLm8hL3HjbQw/54fcg-18082026-13110.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: veja como foi o 3º dia oficial de campanha dos candidatos ao governo do Amapá",
-      "imagem": "https://s2-g1.glbimg.com/v5tLqN76FNpihKLim6bNTEPprTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/s/Sak2RCQemRNyGyXABgdQ/aleixo-g1-53-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-19T01:00:56.186Z"
+  "atualizadoEm": "2026-08-19T02:31:06.392Z"
 }
