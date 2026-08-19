@@ -1,6 +1,58 @@
 {
   "noticias": [
     {
+      "titulo": "Petrolina reforça multivacinação com polo extra; veja pontos de atendimento",
+      "imagem": "https://s2-g1.glbimg.com/1SmFfSt04Rg-0OZdfVvfBu9Ttm0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/8/c8BtoeRAOnMhvXKA3qpQ/whatsapp-image-2026-08-19-at-15.52.24.jpeg"
+    },
+    {
+      "titulo": "'Não teve nenhum motivo', lamenta irmã sobre homem espancado até morrer após ser confundido com ladrão em Copacabana",
+      "imagem": "https://s2-g1.glbimg.com/4eDG29-bESrRWqVa511kQVOalYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/b/YFt1OcSZGZ52fRkemvwg/19agressao1.jpeg"
+    },
+    {
+      "titulo": "Homens condenados por estupro de vulnerável são presos no PI; penas ultrapassam 27 anos",
+      "imagem": "https://s2-g1.glbimg.com/KLGM23TbWzpXwXVqph7Q6rXWwAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/r/efoEIZQaaYt3s9iuTvbQ/g1-bg-02-1-.png"
+    },
+    {
+      "titulo": "Veja plano de governo de Danilo Pinheiro (PCO), candidato ao governo de Goiás",
+      "imagem": "https://s2-g1.glbimg.com/fSUziy9sgOR1uiusyXL0uTy5Irs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/o/9cRWGPQnWtIrjPGOQaUQ/padrao-foto-g1-goias-35-.jpg"
+    },
+    {
+      "titulo": "Pedro Turra: ministro do STJ nega mais um pedido de soltura do ex-piloto, preso pela morte de adolescente no DF",
+      "imagem": "https://s2-g1.glbimg.com/OFfDnd3zue2igRERTtuAKTwmdys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/5/BvVDQlQ9SZevXAFErHJg/chuva-onibus-2026-01-23t184453.080.jpg"
+    },
+    {
+      "titulo": "Gasolina tem queda de preço em João Pessoa, aponta pesquisa do Procon; veja valores",
+      "imagem": "https://s2-g1.glbimg.com/xfbnk-sKQegLmEw_8vNtW3BYWss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/O/AEcwv3RIqYezhbH4h7sg/procon-pesquisa-combustiveis.jpg"
+    },
+    {
+      "titulo": "'Foca EPronto': Grupo EP lança concurso inédito de jornalismo universitário",
+      "imagem": "https://s2-g1.glbimg.com/iPz2p0ob8dS97_EQsOjmBIJLN84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/t/exlR2eSjK8ZAeyFBUfVA/passaro8347.mxf-snapshot-00.01.252.jpg"
+    },
+    {
+      "titulo": "Chacina em Manaus: suspeito revela detalhes sobre como atacou vítimas dentro de casa; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/GzSXBr_XR-W-i9rBzb6x058yf1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/b/dJSEm8TB2zQDBHWvsvcQ/g1-suspeito-revela-detalhes-chacina.jpg"
+    },
+    {
+      "titulo": "Chacina, corpos decapitados e assassinato com 80 tiros: facções brasileiras expandem poder com violência nas fronteiras da Bolívia",
+      "imagem": "https://s2-g1.glbimg.com/IW1h9MsSMsBgo1XbbfSW-RtwZiE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/f/AzEi2TQqGCHINMSlPdXg/afp-20260813-c4lq2x3-v1-midres-boliviabrazilbordersecurity.jpg"
+    },
+    {
+      "titulo": "Agenda Ribeirão",
+      "imagem": "https://s2-g1.glbimg.com/nzxgc0-W-CsZG733P55xs76L-QE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/6/R8IDitREy7B8t4O6x50Q/shared-image.jpg"
+    },
+    {
+      "titulo": "Assista ao BATV",
+      "imagem": null
+    },
+    {
+      "titulo": "Candidatos a presidente intensificam gravações a nove dias do início da propaganda em rádio e televisão",
+      "imagem": "https://s2-g1.glbimg.com/dWlmeb-v2SC5A_AxePwFzcC692U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/e/BH5MAcRWCEpBTtvhFY9g/montagem-horizontal-1280x720px.jpg"
+    },
+    {
+      "titulo": "Recusa por doação de órgãos aumenta no ES: 'A espera é uma dor muito grande', diz filha de paciente na fila por fígado",
+      "imagem": "https://s2-g1.glbimg.com/ykQC2AGGOzNsSW2ohFJS-Z85wow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/z/wQZH02QNi4LnG3he5GDA/thumb-fotos-2026-08-19t180748.388.jpg"
+    },
+    {
       "titulo": "Assista ao Boa Noite Espírito Santo",
       "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
     },
@@ -9,12 +61,8 @@
       "imagem": "https://s2-g1.glbimg.com/uirywvzph4cl18jzMvhHoXm4FtQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/n/vomgCjQpSczhUICjjCUg/montagens-1920-x-1080-px-1-.png"
     },
     {
-      "titulo": "Assista ao BATV",
-      "imagem": null
-    },
-    {
       "titulo": "Foguete dá ré? China consegue feito inédito ao fazer propulsor voltar e pousar em terra firme; VÍDEO",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/Wyfrjj6lixm4G28KMAxAtyCJEiM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/G/cCHUsKTOGyVciArw2Qlw/2026-08-19t030813z-555294732-rc2c1najh4y5-rtrmadp-3-space-china-landspace.jpg"
     },
     {
       "titulo": "Assista ao JRO2 desta quarta-feira, 19",
@@ -53,7 +101,7 @@
       "imagem": "https://s2-g1.glbimg.com/gcVSOFBZzA9vN9g_zvEyWZEMF1M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/n/BL5qYLRSOJs6L2Iz3Xmg/foto-1.jpg"
     },
     {
-      "titulo": "Homem morre após carro capotar na BR-174, em Amajari",
+      "titulo": "Comerciante morre após carro capotar na BR-174, em Amajari",
       "imagem": "https://s2-g1.glbimg.com/pWTfcwP4AOue8JVrhp-P6FUakUE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/B/7xikWDS8WQBxLvMZC1nw/acidente-3-.jpeg"
     },
     {
@@ -71,55 +119,7 @@
     {
       "titulo": "AO VIVO: Assista ao JAC2 com Murilo Lima",
       "imagem": "https://s2-g1.glbimg.com/CA_KJSDtjxup58vGTlh98nObU2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/N/sb0TtISFOITAmfCbpwiQ/jac-2-18082026-3o-bloco.jpg"
-    },
-    {
-      "titulo": "Latam diz que falha de segurança expôs nome, endereço e parte do cartão de crédito de clientes",
-      "imagem": "https://s2-g1.glbimg.com/693g5sBiDxN5roOytgn9RwVEVNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/Z/fEp7ieRX66wBzMNIbAmw/gabriel-magachodivulgacao-cazm.jpg"
-    },
-    {
-      "titulo": "Advogado é sequestrado após sacar R$ 40 mil e trancado em porta-malas em Pederneiras",
-      "imagem": "https://s2-g1.glbimg.com/k2NE30EXXX1w0vMK4Umt--1t6i0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/N/ci0QMyTC6QRwDT7qcgQQ/novo-projeto.png"
-    },
-    {
-      "titulo": "Varanda despenca e nove policiais caem durante operação nos EUA; VÍDEO mostra momento",
-      "imagem": "https://s2-g1.glbimg.com/lP1-DvjwLph2eVD4cULlgozHEMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/l/56A5xkQliuAtCCEFtrdg/man-down.png"
-    },
-    {
-      "titulo": "A 46 dias do 1º turno das eleições 2026, MPT da região apura dez denúncias de assédio eleitoral",
-      "imagem": "https://s2-g1.glbimg.com/VaFbRcXaYuw154l96kl6_5ApMFY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/V/x/wo6yGhQ5iVUgN6AELAXQ/dsc-0170.jpg"
-    },
-    {
-      "titulo": "Acidente entre moto e bicicleta deixa três pessoas feridas em Três Rios",
-      "imagem": "https://s2-g1.glbimg.com/siJqwa56VFuCxYwCUZxREMjXpQI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/J/f8nijMTq6fDeTE7Rl9UQ/image.png"
-    },
-    {
-      "titulo": "Vestido de Jesus e com coroa de espinhos, candidato a suplente de senador usa foto em registro e TRE-PI manda trocar imagem",
-      "imagem": "https://s2-g1.glbimg.com/txSLH6pco0ynODcvDa4ubY4KC9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/m/xQD8KdQnup7wUPjtx2bA/g1-bg-02-1-.png"
-    },
-    {
-      "titulo": "Incêndio atinge vegetação na Serra do Curral, em Belo Horizonte",
-      "imagem": "https://s2-g1.glbimg.com/eCbsHewbvhHmOsQzTCeIiK08IiA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/p/XqjOGsR3Or2mr2Guffzg/2.png"
-    },
-    {
-      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Humanoide, robô quadrúpede e IA são atrações da Innovation Week",
-      "imagem": "https://s2-g1.glbimg.com/M9-2SohEwvt2uijt-L8cQvK68KQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/KLV7HBTrWYe4alvGbUQQ/imagem-1-materia-8.png"
-    },
-    {
-      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "OAB de Itaperuna é homenageada pelos 60 anos durante conferência no Rio",
-      "imagem": "https://s2-g1.glbimg.com/ma_Lx5TbO0u0Ehpt76ZkrRR2XjU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/q/zltTF0QuKJ9wT8po9WCA/oab.jpg"
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T21:39:25.809Z"
+  "atualizadoEm": "2026-08-19T21:59:39.698Z"
 }
