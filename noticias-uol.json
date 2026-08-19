@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Palmeiras tem prova de fogo em Assunção contra o Cerro Porteño na Libertadores",
+      "imagem": null
+    },
+    {
+      "titulo": "Com tudo em aberto, Flamengo recebe Cruzeiro no jogo de volta das oitavas da Libertadores",
+      "imagem": null
+    },
+    {
       "titulo": "TSE encerra ação do PT após desistência e destrava repasses do fundo eleitoral",
       "imagem": null
     },
@@ -51,15 +59,7 @@
     {
       "titulo": "Especialistas elogiam nova Lei Seca; fiscalização em SP vai aguardar publicação de regras",
       "imagem": null
-    },
-    {
-      "titulo": "Caso de agressão de mulher por empresário em SP expõe dever de agir diante de violência",
-      "imagem": null
-    },
-    {
-      "titulo": "Michel Alcoforado apresenta derivado de 'Coisa de Rico' no teatro, em São Paulo",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T03:28:35.746Z"
+  "atualizadoEm": "2026-08-19T04:08:47.362Z"
 }
