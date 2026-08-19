@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "MPE pede impugnação de atos do Missão no DF por cota de gênero",
+      "imagem": null
+    },
+    {
+      "titulo": "Número de mortos após terremoto na Colômbia sobe para 314, diz presidente",
+      "imagem": null
+    },
+    {
       "titulo": "Vox Radar: 1 em cada 12 comentários citam acusação de Gaspar",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Análise: Novas investidas de Israel em Gaza geram tensão com Estados Unidos",
       "imagem": null
-    },
-    {
-      "titulo": "Hayden Panettiere: polícia visita casa do namorado da atriz, diz site",
-      "imagem": null
-    },
-    {
-      "titulo": "Caiado aposta em &#8220;cansaço da polarização&#8221; para crescer",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T22:32:19.652Z"
+  "atualizadoEm": "2026-08-19T23:00:00.488Z"
 }
