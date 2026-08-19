@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Libertadores: Palmeiras encara o Cerro para evitar pior campanha da década",
+      "imagem": null
+    },
+    {
+      "titulo": "Tenista Nick Kyrgios é suspenso após testar positivo para cocaína",
+      "imagem": null
+    },
+    {
       "titulo": "Coquimbo Unido x Platense: horário e onde assistir ao jogo da Libertadores",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Especialista orienta pacientes oncológicos sobre vacinação contra a gripe",
       "imagem": null
-    },
-    {
-      "titulo": "Criação de deepfakes com nudez é desenfreada entre os jovens",
-      "imagem": null
-    },
-    {
-      "titulo": "Eclipse lunar no Brasil: data, horário e onde observar",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T09:29:15.257Z"
+  "atualizadoEm": "2026-08-19T09:59:54.373Z"
 }

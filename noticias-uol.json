@@ -1,7 +1,31 @@
 {
   "noticias": [
     {
+      "titulo": "Cenipa aponta falhas no freio e possível piloto não habilitado em saída de pista de jatinho no RS",
+      "imagem": null
+    },
+    {
+      "titulo": "Acidente entre ônibus e carreta deixa 21 mortos e quatro feridos na BR-373 no Paraná",
+      "imagem": null
+    },
+    {
+      "titulo": "Rússia e Ucrânia trocam 103 prisioneiros de guerra de cada lado",
+      "imagem": null
+    },
+    {
+      "titulo": "Acidente com micro-ônibus e carreta deixa ao menos 21 mortos na BR-373",
+      "imagem": null
+    },
+    {
+      "titulo": "Tenista australiano Nick Kyrgios é suspenso pelo consumo de cocaína",
+      "imagem": null
+    },
+    {
       "titulo": "Ataque russo contra ônibus deixa quatro mortos no sul da Ucrânia",
+      "imagem": null
+    },
+    {
+      "titulo": "Aceno de Trump à Coreia do Norte preocupa aliados",
       "imagem": null
     },
     {
@@ -35,31 +59,7 @@
     {
       "titulo": "Brasil vê disparada na apreensão de 'maconha gourmet' produzida nos EUA",
       "imagem": null
-    },
-    {
-      "titulo": "Trump tem pior índice de aprovação e não dá sinais de que mudará de rumo",
-      "imagem": null
-    },
-    {
-      "titulo": "Via Láctea devorou galáxia anã cerca de 11,8 bilhões de anos atrás",
-      "imagem": null
-    },
-    {
-      "titulo": "Irã amplia pressão sobre países do Golfo em meio à crise no Estreito de Ormuz",
-      "imagem": null
-    },
-    {
-      "titulo": "Ministério Público Federal afirma que igreja histórica de Salvador corre o risco de desabar",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávio estreia campanha com eventos esvaziados no Rio e em Minas",
-      "imagem": null
-    },
-    {
-      "titulo": "Empresário de AL declara R$ 30 milhões em dinheiro vivo; veja ranking",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T09:29:15.278Z"
+  "atualizadoEm": "2026-08-19T09:59:53.972Z"
 }
