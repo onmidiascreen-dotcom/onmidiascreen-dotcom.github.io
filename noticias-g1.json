@@ -1,6 +1,54 @@
 {
   "noticias": [
     {
+      "titulo": "Cães farejadores da Core ganham missão pioneira de localizar corpos em cemitérios clandestinos",
+      "imagem": "https://s2-g1.glbimg.com/3PxmhYGBLZR0VSaCre2r8_pyEvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/X/tVtnadTvSiha3U4BqPyg/imagem-cortada-2026-08-18t095714.853.jpg"
+    },
+    {
+      "titulo": "Seca histórica faz rios da Europa revelarem embarcações da Segunda Guerra Mundial e vestígios de milhares de anos",
+      "imagem": null
+    },
+    {
+      "titulo": "Atração do Rock in Rio, Zara Larsson deu um salto na carreira desde a última vinda ao Brasil",
+      "imagem": "https://s2-g1.glbimg.com/08WFQHX3JF6LVU09kvfvVFKx3N8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/D/Xc4vPCSLiiE5UYpfEKhA/captura-de-tela-2025-09-25-131904.png"
+    },
+    {
+      "titulo": "TV com brilho demais? Veja como desativar o 'modo loja' no seu aparelho",
+      "imagem": "https://s2-g1.glbimg.com/yCuwPhOW3XbSASyf6CkB6q5nG4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/A/bo9tTfSCyoTA7vrYNi9Q/pexels-freestockpro-12956039.jpg"
+    },
+    {
+      "titulo": "Emprego: veja as vagas disponíveis em Petrolina e Salgueiro",
+      "imagem": "https://s2-g1.glbimg.com/RBjBohaLFKrMwF4LmcBB6NYZDbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/W/5/UalNASS3SAdTDp04ALAA/systemuploadsnews49b234f3cab285e8bd2-700x460xfit-00db2.jpg"
+    },
+    {
+      "titulo": "Barretos busca manter grade sertaneja atrativa em mercado com pouca renovação de estrelas",
+      "imagem": "https://s2-g1.glbimg.com/LpoH4ykIMskh4eImzEOrExwsOuA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/V/AovaVDSz2TrAH5A1CUEg/dsc-2760.jpg"
+    },
+    {
+      "titulo": "Vale do Paraíba deve ter calor acima dos 30°C e baixa umidade nesta quarta; frente fria muda cenário no fim da semana",
+      "imagem": "https://s2-g1.glbimg.com/Bw5JsEruYQ3j2WQcvlFSzcl0KLk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/V/sYE7j1QqCqUnnXYK70Aw/foto-g1-9-.jpg"
+    },
+    {
+      "titulo": "Por que montanha-russa mais antiga do Beto Carrero será desativada após 3 décadas e 33 milhões de visitantes",
+      "imagem": "https://s2-g1.glbimg.com/XqS4Ulp570Nj5GVdRh345EZldQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/x/Z5uvZ2QnSZbrAPscuKAQ/star-mountain-2.jpeg"
+    },
+    {
+      "titulo": "Segurança: veja propostas dos candidatos ao governo do RJ",
+      "imagem": "https://s2-g1.glbimg.com/TbtlYxT6q8jVV-alE9VLTzB3GKY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/M/W/9aMVO0RBAhAuckwJwBkw/pgm-globonews-limpo-ao-vivo-20231023-1559-frame-34469.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: idosa de 84 anos chama a atenção com flexibilidade em exercícios de academia em Vitória",
+      "imagem": "https://s2-g1.glbimg.com/JV4Umcn6aXtMWh2bxIzLL4J3_fI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/k/JYAQ9bQ4iAiIA13fohEA/thumb-videos-g1-11-.jpg"
+    },
+    {
+      "titulo": "Veja cronologia do atendimento médico de grávida que morreu pedindo para fazer cesárea em MG",
+      "imagem": "https://s2-g1.glbimg.com/Z85tZjh0ApCncZEFuVvaEFbqow4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/W/Myc0LqQsWBNhAgIa6Ebg/design-sem-nome.png"
+    },
+    {
+      "titulo": "Dois feminicídios no intervalo de uma hora: o que se sabe e o que falta esclarecer sobre os crimes",
+      "imagem": "https://s2-g1.glbimg.com/JQnZU55F1-t471X3cqm7uIDe2LI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/J/d2dHckRu2E73LLuyH1fA/silvani.png"
+    },
+    {
       "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
       "imagem": "https://s2-g1.glbimg.com/F164C-UbGx0ZmIs6qRXpvwAYQuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/V/AF9z5nT8KGBj4AvLP4Xw/previsao-tempo-bras-lia-20260819-030646.jpeg"
     },
@@ -71,55 +119,7 @@
     {
       "titulo": "Previsão do tempo hoje para Paulista (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
       "imagem": "https://s2-g1.glbimg.com/FMD7ddoATU_O-J3D-xajMgNsnLs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/0/kzpIJYRpqNKTNLeeWqSA/previsao-tempo-paulista-20260819-030150.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Olinda (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/6PiHac31cSAo-ndP2LfFjWKWIQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/a/Y1TVBFSlmTJBbQtGeP2g/previsao-tempo-olinda-20260819-030134.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Jaboatão dos Guararapes (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/ztuX010JVSQroJtkBHWWscA_7RE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/u/eOacobTRiZaYulNvRxBQ/previsao-tempo-jaboat-o-dos-guararapes-20260819-030117.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Cabo de Santo Agostinho (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/WuBWkQQBpDUpZAFaGpsVUHImnY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/e/FZBbAAQf6QX3kuvv1Bzg/previsao-tempo-cabo-de-santo-agostinho-20260819-030102.jpeg"
-    },
-    {
-      "titulo": "Canetas emagrecedoras já mudam gastos com comida e até o PIB de países; entenda os efeitos",
-      "imagem": "https://s2-g1.glbimg.com/1LOcg7acix-kenTUdHlaAMp7tUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/H/I9Dk7STbW2AB0YA81ckA/thumb-horizontal-21-g1-explica.jpg"
-    },
-    {
-      "titulo": "Quem era o trabalhador que morreu atropelado por empilhadeira em Patrocínio",
-      "imagem": "https://s2-g1.glbimg.com/-UjaK4NIqRNXhEuseHIVTFlcTps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/p/4PAPrCRxCU6S3R2Y1qpw/design-sem-nome-6-.png"
-    },
-    {
-      "titulo": "Infográfico: veja linha do tempo da investigação sobre morte de homens que foram cobrar dívida no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/5fMn6qa6qP6KHMC9pKu8okHJ-qw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/g/zrkt4QTQC7fFnlfgJC0g/image-1-.png"
-    },
-    {
-      "titulo": "Chacina deixa três mortos em Manaus: o que se sabe sobre o caso",
-      "imagem": "https://s2-g1.glbimg.com/ZoYWWl5zwclsjs9eg52max2iMsM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/4/4hepjiScukULeLJU2mrw/g1-suspeito-chacina.jpg"
-    },
-    {
-      "titulo": "De nada declarado a R$ 935 mil, candidatos ao governo do RS informam bens à Justiça Eleitoral",
-      "imagem": "https://s2-g1.glbimg.com/0a8QA8rtriTHgVxNo9HIf_9ksVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/7/nxfv32RNCcM3OOWb1y8w/g1-15-.jpg"
-    },
-    {
-      "titulo": "Brasileiros nos países bálticos: como é viver à sombra da Rússia",
-      "imagem": "https://s2-g1.glbimg.com/nuBGwbzXykgUlUElTzEoHX_OstM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Q/6HuiSRTdWGZSeNwFBflA/design-sem-nome-72-.jpg"
-    },
-    {
-      "titulo": "Gratidão aumenta satisfação com a vida e reduz sentimento de inveja, mostra estudo global",
-      "imagem": "https://s2-g1.glbimg.com/F4nYOCXEH3SIzAcwcCddWAVq6SE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/8/jtXOHMRBiPDG4BAxQV7w/4409.jpg"
-    },
-    {
-      "titulo": "Bom desempenho em matemática pode render bolsas de até R$ 700 mensais para estudantes; conheça oportunidades",
-      "imagem": "https://s2-g1.glbimg.com/zyb1NK9qAHrALJHXIY4rzuRRWEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/z/VPUZm0SFeotvYnPuUdVA/imagem-cortada-6-.jpg"
-    },
-    {
-      "titulo": "Entre coletes, capacetes e ameaças: como jornalistas trabalham no front da guerra da Ucrânia",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T06:36:56.580Z"
+  "atualizadoEm": "2026-08-19T07:24:23.570Z"
 }
