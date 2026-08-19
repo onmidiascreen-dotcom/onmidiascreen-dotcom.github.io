@@ -1,6 +1,114 @@
 {
   "noticias": [
     {
+      "titulo": "Ônibus com 44 passageiros bate em carreta na BR-349, no oeste da Bahia; 13 ficam feridos",
+      "imagem": null
+    },
+    {
+      "titulo": "VÍDEO: enfermeira é esfaqueada por colega de trabalho durante discussão em União dos Palmares",
+      "imagem": "https://s2-g1.glbimg.com/OREC6ICSArx-TG-sEitb8B0NwuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/8/AAOETnSPykDAIQkUKPmg/enfermeira-e-esfaqueada-por-colega-de-trabalho-em-uniao-dos-palmares.jpg"
+    },
+    {
+      "titulo": "Incêndio em prédio deixa 11 cachorros mortos e duas pessoas feridas em Volta Redonda",
+      "imagem": "https://s2-g1.glbimg.com/fGxY23Lm4wzvyEyq9G-jr2dwmjs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/X/DIFLiHT3mAFS8Q8ITBuQ/image-5-.jpg"
+    },
+    {
+      "titulo": "Falta de funcionários afeta postos de saúde e creches em cidade do interior de SP: 'Conta não fecha'",
+      "imagem": "https://s2-g1.glbimg.com/p_bg6ciQMAw6HyOX3ynDDbLz4hE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/g/ZQStf9QHq8ZXCt3DXDRg/trabalhadores-falta.jpg"
+    },
+    {
+      "titulo": "Aulas de defesa pessoal resgatam confiança de vítimas de violência em academia de Sorocaba: 'Cansei de contar com a sorte', diz aluna",
+      "imagem": "https://s2-g1.glbimg.com/oM1SAK_Lxm-9KXscGE5qaMMs518=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Y/RzACrSSb6VyLQ48bXkVA/3-2-.jpg"
+    },
+    {
+      "titulo": "Operação cumpre mandados de prisão contra suspeitos de homicídio em Goiás",
+      "imagem": null
+    },
+    {
+      "titulo": "Fotógrafo usa IA para dar 'vida' a fotos antigas e criar filmes de memórias no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/bd40VUQhf3IJUZCHHl31s4o4XiM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/3w9tFISm2UeTcNNIcM5A/g1-indiana-7-.png"
+    },
+    {
+      "titulo": "Com investimento de R$ 255 mil, clínica veterinária móvel segue parada sem equipamentos em Angatuba",
+      "imagem": "https://s2-g1.glbimg.com/eTMUznw9DULO53_vui7a7g-kyKI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/S/96JHHjTd6zSH4AKeAceA/whatsapp-image-2026-08-18-at-16.30.57.jpeg"
+    },
+    {
+      "titulo": "Parceria entre Unesp de Bauru e Ibama descobre pelo DNA espécies marinhas traficadas no Aeroporto de Guarulhos",
+      "imagem": "https://s2-g1.glbimg.com/noSIkAA1uu9_a7uKwZ_cwonWd2w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/n/5d9tOiQFq8FiKrpnJyTA/design-sem-nome-1-.png"
+    },
+    {
+      "titulo": "Concurso público em Sergipe: CREF20/SE tem vagas para cargos de níveis médio e superior",
+      "imagem": "https://s2-g1.glbimg.com/cT-WfAvm6DCDqKh6qNk5X3B21p8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/b/w6g1n5TD6h1UG4zxwBMw/captura-de-tela-2026-03-22-220139.png"
+    },
+    {
+      "titulo": "Bom Dia Cidade - Ribeirão e Franca",
+      "imagem": "https://s2-g1.glbimg.com/5Db3pzqHzeCD6vSqEpxOFb9UvEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/v/FMd4ZuT8uJLkmIab6LLw/still0208-00000.jpg"
+    },
+    {
+      "titulo": "Operação prende três por roubos de eletrônicos em Salvador; prejuízo estimado foi de mais de R$ 100 mil",
+      "imagem": "https://s2-g1.glbimg.com/kdGA00Nfa1hZn19dMCGabcKMPsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/n/rxbd4eTcqx4dvDntXkvw/whatsapp-image-2026-08-19-at-06.30.46.jpeg"
+    },
+    {
+      "titulo": "Interesses pessoais de Trump influenciam suas decisões como presidente para 69% dos americanos, diz pesquisa",
+      "imagem": null
+    },
+    {
+      "titulo": "Decreto que limita horário de bares e restaurantes deixa comerciantes descontentes em Muzambinho",
+      "imagem": "https://s2-g1.glbimg.com/oemM6cI79WAbJ3OV1HTg4ULMmlY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/I/R0o0RSTYGlHNFwxre8Mw/0c2f6857-f37c-4a05-94e8-79f03cfb0042.jpg"
+    },
+    {
+      "titulo": "Descoberta na Foz do Amazonas só será 'passaporte para o futuro' se modelo adotado no pré-sal mudar, diz ex-diretor da Petrobras",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é preso com cerca de 80 frascos de substâncias emagrecedoras em apartamento em Cordovil",
+      "imagem": "https://s2-g1.glbimg.com/VEspuwAT2xljgguypDp_bFzL2P8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/y/O1mSrzQQyGfNo7DOsjUQ/bdrj-remedios3.jpeg"
+    },
+    {
+      "titulo": "Hemocentro tem estoque de sangue abaixo de 40% em Juiz de Fora; veja novas regras de doação",
+      "imagem": "https://s2-g1.glbimg.com/Lis4G4jrgwy0vJE04VD9yJfaasw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/7/LRtLhvSRayetiUQrNSXg/campanha-cooperar-corre-em-nossas-veias-incentiva-doacao-de-sangue.jpg"
+    },
+    {
+      "titulo": "Vídeos do g1 e TV Bahia - quarta-feira, 19 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/rabxmgQ8DbSOHf4986qhnu6oMRw=/s01.video.glbimg.com/deo/vi/46/12/14881246"
+    },
+    {
+      "titulo": "Filho de Tarcísio Meira e Glória Menezes falou sobre amor dos pais e como contou à mãe sobre a morte do ator; relembre",
+      "imagem": "https://s2-g1.glbimg.com/jUpgrgTVgJd2gJa87tU0xrwyJI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/n/MzA9NoTUAEiI7b8WTAxg/captura-de-tela-2026-08-19-072312.jpg"
+    },
+    {
+      "titulo": "Assista ao Bom Dia Cidade Campinas",
+      "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Pai de aluna é preso no Jardim Peri, Zona Norte de SP, após quebrar creche e agredir funcionários",
+      "imagem": "https://s2-g1.glbimg.com/1Np5wfO4SSml7cZs0bGrCCxhmog=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/h/aP3BjPShqyKi7dBDk9tA/fotojet-2026-08-19t064915.584.jpg"
+    },
+    {
+      "titulo": "Beira-Mar de Niterói: polícia prende fornecedor de drogas e armas do Comando Vermelho na cidade",
+      "imagem": "https://s2-g1.glbimg.com/1jGQc338rJIsnqmESITGe17YfS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/C/BqWaMYSueQfjgulAfdPw/cascao.jpeg"
+    },
+    {
+      "titulo": "Cachorro faz buraco com água de banheira para se refrescar do calorão em Campo Grande; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/CYutN78irqkvEPDOFLuyGOXXSk8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/c/mT9MzDTSOfRA4YGUm4fw/cachorro-buraco.jpg"
+    },
+    {
+      "titulo": "Últimos três corpos de vítimas de acidente em Petrópolis são velados na Grande BH",
+      "imagem": "https://s2-g1.glbimg.com/-Usnpde-3718mjST-D15vvvvsSE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/U/s6YqVNRJ2rInZDwzJsZg/amigas.png"
+    },
+    {
+      "titulo": "Assista ao Bom Dia Amapá desta quarta (19)",
+      "imagem": "https://s2-g1.glbimg.com/f1SjcTFpyiNsOXGoy1KfrYkPiZk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/U/Icoa6zRiWw3tAEoONq9A/whatsapp-image-2025-12-04-at-07.15.21.jpeg"
+    },
+    {
+      "titulo": "Criança autista encontrada morta em tanque de granja brincava no quintal com os primos antes de desaparecer, diz família",
+      "imagem": "https://s2-g1.glbimg.com/AH3d2kDmpNXjdrJOsU_fVYDMKvo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/i/PgNQM2QtOUfPheBFD1Cg/tiago-silva-lopes.jpg"
+    },
+    {
+      "titulo": "Resultado da Mega-Sena 3046: 19 apostas do Piauí acertam números; veja valores",
+      "imagem": "https://s2-g1.glbimg.com/EMTTR6lnk36Zyd1OFglHEpgaoZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/3/trVaH8RJKNjPhAsWataA/imagem-g1-59-.png"
+    },
+    {
       "titulo": "Cliente que ignorou conselho de advogada e foi condenado: ex-mulher tinha admitido que começou a briga, diz advogada",
       "imagem": "https://s2-g1.glbimg.com/DYrE2Cf-KtKEmJAZQybmGnc-Ktw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/J/krbeU9QMiGtXACfQGWTA/copia-de-copia-de-padrao-foto-g1-goias-2026-08-15t173740.948.jpg"
     },
@@ -11,115 +119,7 @@
     {
       "titulo": "Câmara analisa autorização para Campinas renegociar dívidas com a União e regra para focinheira em cães",
       "imagem": "https://s2-g1.glbimg.com/5XTztHKW3I8_LWhOFJqucr3TWWg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/v/sAdIZxTrSDG4J3ONTqQg/design-sem-nome-9-.png"
-    },
-    {
-      "titulo": "Alto Tietê tem mais de 4,6 mil vagas de emprego nesta quarta-feira; veja lista",
-      "imagem": "https://s2-g1.glbimg.com/MKB-1U-d_YwoH9VOsVF1XDPYf0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/b/8bGwPCRxe0Ct1qYTAiOw/edicao-imagens-g1-29-.png"
-    },
-    {
-      "titulo": "Após 15 anos, Campinas vai pagar multa de R$ 257 mil em ação que cobrava melhorias na saúde no Oziel",
-      "imagem": "https://s2-g1.glbimg.com/rLvvKC7_BLSCQNMOZtb9dFoKjeI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/i/eV1FFsRwmeOu5BJUBGGg/centro-de-saude-oziel.jpg"
-    },
-    {
-      "titulo": "PF mira fraude em migração com declarações de união estável falsas",
-      "imagem": null
-    },
-    {
-      "titulo": "Polícia Civil deflagra operação contra tráfico, homicídios e roubos na Grande João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/d3qFxlQ1CJBz5rapivnAF2ev9WU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/p/E/rC5VPoQdKnpAuoOVKpDw/whatsapp-image-2023-02-08-at-06.58.58.jpeg"
-    },
-    {
-      "titulo": "Morre menina de 10 anos atingida por deslizamento de terra em Santo Amaro da Imperatriz",
-      "imagem": "https://s2-g1.glbimg.com/HIZJ0TXeNSaxzWaGjPDi2KOsAhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/KmbEpNSC2xQDu9fv8xvg/deslizamento-de-terra-atinge-casa-em-santo-amaro-da-imperatriz.jpg"
-    },
-    {
-      "titulo": "Advogada morre após ser baleada enquanto passeava com cachorro no Benedito Bentes, em Maceió",
-      "imagem": "https://s2-g1.glbimg.com/JUxFd39Bp5DrkPbEjy5paZiD4iM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/O/DG4biOQDWO8CrClUlUxQ/advogada-ana-walesca-do-nascimento-gomes-foi-morta-a-tiros-em-maceio.jpg"
-    },
-    {
-      "titulo": "Metrô Bahia abre 20 vagas gratuitas para mulheres na área de manutenção",
-      "imagem": "https://s2-g1.glbimg.com/Ay48kATxCLqsjjxXkKgR4DRI9Gc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/W/kQ6unzQA6m4APA5HiJRQ/whatsapp-image-2025-10-28-at-10.24.30.jpeg"
-    },
-    {
-      "titulo": "Irã considera atacar alvos militares dos EUA na Europa em caso de nova escalada na guerra, diz jornal",
-      "imagem": null
-    },
-    {
-      "titulo": "Universidade oferece terapia de voz gratuita para adultos e idosos em Salvador",
-      "imagem": "https://s2-g1.glbimg.com/9Yt8p8rEEIBorBjmWMYzreihQqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/o/dRsBgTQguNR7baQTRDvA/download-5-.png"
-    },
-    {
-      "titulo": "Assista ao Bom Dia ES",
-      "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif"
-    },
-    {
-      "titulo": "Acidente entre ônibus e carreta deixa 21 mortos e quatro feridos no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/kUH4V5UCNb6taSLq6thqDdg27H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/Z/YwYAaESHSNwQsmDyA9BA/fundo-vermelho-7-.png"
-    },
-    {
-      "titulo": "Caminhos do Frio 2026: rota cultural do Brejo paraibano chega a Bananeiras nesta quarta (19)",
-      "imagem": "https://s2-g1.glbimg.com/uzX9tzSZh3g5ffvLDsGN9txqEZg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/u/ogdOFqT3mSK77WmJY60A/img-7501.jpg"
-    },
-    {
-      "titulo": "Os gêmeos que se casaram com irmãs gêmeas em celebração feita por padres gêmeos e com coroinhas gêmeos",
-      "imagem": "https://s2-g1.glbimg.com/CG7iJG2KnznPlNarwpHGty_2jjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/N/N8R47tQSWB0bMBMZ2SFQ/design-sem-nome-73-.jpg"
-    },
-    {
-      "titulo": "Incêndios Zero: causas, impactos e como prevenir incêndios irregulares",
-      "imagem": "https://s2-g1.glbimg.com/G_2Qrhyypw7YEtGZINzfF8Q42z0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/p/Ce0oXuQGAi5PvfMbCWBw/imagem-1.png"
-    },
-    {
-      "titulo": "São Sebastião registra 2,3 mil admissões e fecha 2º trimestre com saldo positivo",
-      "imagem": "https://s2-g1.glbimg.com/wgjkH942MChG8vIMxYz_wzZlwFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/J/KAqtJ8TZOAM3WsdVmCiA/20268171512444711033.jpg"
-    },
-    {
-      "titulo": "Etéra Udi Complex: projeto em Uberlândia integra moradia, trabalho e serviços",
-      "imagem": "https://s2-g1.glbimg.com/OjC2loltJtmXWRybHWXh6jMAAIU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/S/SISqFyRLueetIdzakUXg/1200x750-px-01.png"
-    },
-    {
-      "titulo": "Pix Pensão: entenda a lei que cria transferências automáticas para pagamento de pensão alimentícia",
-      "imagem": "https://s2-g1.glbimg.com/dyE5c8_HSMVmgeg6RRhm8oJVjIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/H/l/KDENNdRx2ujoz4lrweiQ/pensao.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: veja as logos e slogans dos candidatos ao governo de MS",
-      "imagem": "https://s2-g1.glbimg.com/lV4x8yyPuySLQBefg3RAP8tK1hY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/B/elFJwsTESJcXc5IeIk8Q/logos-campanha-2026.jpg"
-    },
-    {
-      "titulo": "AO VIVO: assista à programação da NSC TV",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista ao Jornal da Manhã",
-      "imagem": null
-    },
-    {
-      "titulo": "Casal é preso em operação contra venda ilegal de emagrecedores e anabolizantes em Fortaleza",
-      "imagem": "https://s2-g1.glbimg.com/j1TXNzBF8s29UPkmMefNlrjkSaw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/0/bXBiZLRAuA37bUerNr8g/emagre-4.jpg"
-    },
-    {
-      "titulo": "‘Bazar do Jô’: chapéus, suspensórios e móveis do apresentador serão vendidos no Retiro dos Artistas",
-      "imagem": "https://s2-g1.glbimg.com/XFLe7_5FXdcN8wRUs7IrcgZSdsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/K/B6YA70RxSVyKYCxAHYpA/g1-jo-bazar2.gif"
-    },
-    {
-      "titulo": "Pescador mergulhou nove metros para localizar casa e maquinários submersos no Lago de Palmas; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/NuAb7exKaokZtrFOa5cIfe11E2w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/l/HktS71Tjy6XIBHqFaagA/foto-e-montagem-vertical-66-.jpg"
-    },
-    {
-      "titulo": "Sete meses após explosão, novo foguete sul-coreano será lançado nesta quarta-feira no MA",
-      "imagem": "https://s2-g1.glbimg.com/revVIhR1_xxg6RRpx7wjJYKjYpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/J/8B8YQCRriPbrgIhABCFA/montagens-1920-x-1080-px-49-.jpg"
-    },
-    {
-      "titulo": "Ex-detento inicia internato após cursar Medicina a mais de 2 mil km de casa: 'Atender como gostaria de ser atendido'",
-      "imagem": "https://s2-g1.glbimg.com/JU3jqDnep2B-Sd7H-1CAzMEM8F4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/J/W73Ff9SCqUCXNZBRJSVA/wallace-medicina-retangular.jpg"
-    },
-    {
-      "titulo": "Justiça condena ex-jogadora por difamar ex-técnico do Santos e Seleção com acusação de assédio",
-      "imagem": "https://s2-g1.glbimg.com/jcJB1X7-yiF7wVdhFO2jHjosFoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/K/4M1jBhSKCdsaM5kKF7eg/caso-kleiton-1-.jpg"
-    },
-    {
-      "titulo": "Médica descobre esclerose múltipla após crise em vestibular e usa experiência como paciente para ajudar",
-      "imagem": "https://s2-g1.glbimg.com/4dTtqpj5WkOgJeIvPPMwpWp-k7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/O/Bbe4g6SdOPkqIRutAXEQ/medica-sv.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-19T09:59:55.905Z"
+  "atualizadoEm": "2026-08-19T10:37:02.045Z"
 }
