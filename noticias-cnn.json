@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "Agiota é preso após emprestar R$ 30 mil e cobrar mais de R$ 1 mi de juros",
+      "imagem": null
+    },
+    {
+      "titulo": "Ex-Atlético de Madrid, artilheiro da Série C rescinde por atraso de salário",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia prende 16 suspeitos de fabricarem armas em impressoras 3D no RS",
+      "imagem": null
+    },
+    {
+      "titulo": "Mais de seis mil celulares roubados são recuperados em menos de dez dias",
+      "imagem": null
+    },
+    {
+      "titulo": "STF torna Bacellar e TH Joias réus por vazamento de informações",
+      "imagem": null
+    },
+    {
+      "titulo": "Power Minerals mira produzir terras raras em 2030 e afasta capital chinês",
+      "imagem": null
+    },
+    {
+      "titulo": "Tumba no Egito revela 16 corpos humanos e um cachorro mumificados",
+      "imagem": null
+    },
+    {
+      "titulo": "Explosão em prédio residencial deixa quatro feridos no Rio; veja vídeos",
+      "imagem": null
+    },
+    {
+      "titulo": "Dona da CazéTV transmitirá Champions e Premier League no YouTube; entenda",
+      "imagem": null
+    },
+    {
       "titulo": "MPE pede impugnação de atos do Missão no DF por cota de gênero",
       "imagem": null
     },
@@ -83,43 +119,7 @@
     {
       "titulo": "Vasco vai com força máxima contra o Olimpia pela Sul-Americana",
       "imagem": null
-    },
-    {
-      "titulo": "Stripe compra OpenRouter, plataforma de IA para desenvolvedores",
-      "imagem": null
-    },
-    {
-      "titulo": "Dívida dos EUA supera US$ 40 tri após dobrar nos governos Trump e Biden",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump: Fed deveria cortar juros, não subir por medo da inflação",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem são os candidatos a governador do Ceará em 2026",
-      "imagem": null
-    },
-    {
-      "titulo": "Presidente do Botafogo critica Textor e revela planos de reestruturação",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump diz que a situação com o Irã está “muito boa”",
-      "imagem": null
-    },
-    {
-      "titulo": "TIM aprova novo programa de recompra de ações de até 55,2 milhões",
-      "imagem": null
-    },
-    {
-      "titulo": "Hayden Panettiere: polícia investiga se morte teve conduta criminosa",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: Novas investidas de Israel em Gaza geram tensão com Estados Unidos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T23:00:00.488Z"
+  "atualizadoEm": "2026-08-19T23:30:06.113Z"
 }
