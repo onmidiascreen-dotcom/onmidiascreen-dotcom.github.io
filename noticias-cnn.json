@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Bolsas da Ásia fecham em baixa após perdas em WS; Kospi despenca 5,8%",
+      "imagem": null
+    },
+    {
+      "titulo": "Morte em casa: entenda o que fazer em casos como o de Glória Menezes",
+      "imagem": null
+    },
+    {
+      "titulo": "PF investiga fraude em processos de imigração com documentos falsos no Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Suspensório e mais: itens do acervo de Jô Soares serão vendidos em bazar",
+      "imagem": null
+    },
+    {
+      "titulo": "Rainha Camilla relata dificuldade em guardar segredo sobre câncer do rei",
+      "imagem": null
+    },
+    {
+      "titulo": "Destaque do Japão na Copa, Suzuki é anunciado por clube inglês",
+      "imagem": null
+    },
+    {
       "titulo": "CNE lança parecer orientando escolas sobre &#8220;lei das férias&#8221;",
       "imagem": null
     },
@@ -95,31 +119,7 @@
     {
       "titulo": "Atlético-MG x Bragantino: horário e onde assistir a Sul-Americana",
       "imagem": null
-    },
-    {
-      "titulo": "Após sofrer na janela, Flamengo encara um Cruzeiro cheio de caras novas",
-      "imagem": null
-    },
-    {
-      "titulo": "Montevideo City Torque x Tigre: horário e onde assistir a Sul-Americana",
-      "imagem": null
-    },
-    {
-      "titulo": "Acidente entre micro-ônibus e carreta deixa 23 mortos no Paraná",
-      "imagem": null
-    },
-    {
-      "titulo": "Libertadores: Palmeiras encara o Cerro para evitar pior campanha da década",
-      "imagem": null
-    },
-    {
-      "titulo": "Tenista Nick Kyrgios é suspenso após testar positivo para cocaína",
-      "imagem": null
-    },
-    {
-      "titulo": "Coquimbo Unido x Platense: horário e onde assistir ao jogo da Libertadores",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T11:38:35.334Z"
+  "atualizadoEm": "2026-08-19T11:59:55.234Z"
 }
