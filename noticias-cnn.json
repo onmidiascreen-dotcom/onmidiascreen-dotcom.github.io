@@ -1,125 +1,125 @@
 {
   "noticias": [
     {
+      "titulo": "Cartões movimentam R$ 2,3 tri no 1º semestre, em alta de 8%, mostra Abecs",
+      "imagem": null
+    },
+    {
+      "titulo": "Aneel aprova alta média de quase 11% nas tarifas da Celesc",
+      "imagem": null
+    },
+    {
+      "titulo": "Astrônomos descobrem estrela mais &#8216;rápida&#8217; conhecida na Via Láctea",
+      "imagem": null
+    },
+    {
+      "titulo": "Normani vem ao Brasil pela primeira vez como carreira solo; saiba mais",
+      "imagem": null
+    },
+    {
+      "titulo": "Esposa troféu? Flávia Alessandra analisa Fábia em &#8220;Quem Ama Cuida&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Filho de bicampeão olímpico conquista título mundial Sub-19 na Vela",
+      "imagem": null
+    },
+    {
+      "titulo": "Joanna de Assis se pronuncia pela 1ª vez após sair da Globo: &#8220;Um choque&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Fórmula 1: Carlos Sainz renova com a Williams e garante vaga até 2027",
+      "imagem": null
+    },
+    {
+      "titulo": "Houthis alegam ter atingido oito petroleiros sauditas desde o bloqueio",
+      "imagem": null
+    },
+    {
+      "titulo": "Cacau, café e açúcar já estão mais caros diante dos riscos do El Niño",
+      "imagem": null
+    },
+    {
+      "titulo": "Acidente com 23 mortos: o que se sabe sobre batida na BR-373 no Paraná",
+      "imagem": null
+    },
+    {
+      "titulo": "Otan diz estar pronta para enfrentar ameaças do Irã; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Previsão do tempo: Ciclone extratropical deve se formar na quinta (20)",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Estrelas da Casa&#8221; terá um reality vertical; entenda a dinâmica",
+      "imagem": null
+    },
+    {
+      "titulo": "Sou um homem que acredita na ciência, na vacina, diz Caiado",
+      "imagem": null
+    },
+    {
+      "titulo": "Brava troca conselheiros e elege três nomes ligados à Ecopetrol",
+      "imagem": null
+    },
+    {
+      "titulo": "Caiado minimiza saída de marqueteiro de campanha: &#8220;Tititi não é meu perfil&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Paraná Pesquisas/SP: Tebet, Marina e Derrite têm empate técnico para Senado",
+      "imagem": null
+    },
+    {
+      "titulo": "Iraque pede “status especial” ao Irã para seu petróleo passar por Ormuz",
+      "imagem": null
+    },
+    {
+      "titulo": "São Paulo x Boca Juniors na Sul-Americana: veja quando serão os confrontos",
+      "imagem": null
+    },
+    {
+      "titulo": "De Hailey Bieber a Bruna Marquezine: os produtos de K-beauty das famosas",
+      "imagem": null
+    },
+    {
+      "titulo": "Mortes na aviação brasileira caem 59% em 2025",
+      "imagem": null
+    },
+    {
+      "titulo": "Turquia condena Israel e Emirados suspendem comércio com o Irã; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Tesouro dos EUA afirma que vai dobrar algumas operações de recompra",
+      "imagem": null
+    },
+    {
+      "titulo": "Harry Kane, do Bayern de Munique, vira o principal alvo do Al-Hilal",
+      "imagem": null
+    },
+    {
+      "titulo": "Bianca Andrade com pielonefrite: entenda doença e riscos aos rins",
+      "imagem": null
+    },
+    {
+      "titulo": "Pesquisa: Americanos acreditam que Trump obteve lucros indevidos no poder",
+      "imagem": null
+    },
+    {
+      "titulo": "Meta volta ao tribunal para enfrentar maior julgamento sobre vício em redes",
+      "imagem": null
+    },
+    {
+      "titulo": "Bolsa Família de agosto tem pagamentos iniciados; veja calendário",
+      "imagem": null
+    },
+    {
       "titulo": "Rússia e Ucrânia trocam 103 prisioneiros de guerra de cada lado",
-      "imagem": null
-    },
-    {
-      "titulo": "Paraná Pesquisas: Tarcísio tem 50% no 1º turno em SP; Haddad, 33,8%",
-      "imagem": null
-    },
-    {
-      "titulo": "Campanha precifica rejeição e aposta em Janja para engajar eleitoras",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasil no Sul-Americano Feminino de Vôlei: datas e onde assistir",
-      "imagem": null
-    },
-    {
-      "titulo": "Ex-BBB Clara Aguilar recua em acusação de violência contra ex-marido",
-      "imagem": null
-    },
-    {
-      "titulo": "Saída de diretor é “gota d’água” e agrava crise de Infantino na Fifa",
-      "imagem": null
-    },
-    {
-      "titulo": "Paleta, gloss e mais: &#8220;Alice no País das Maravilhas&#8221; ganha coleção de make",
-      "imagem": null
-    },
-    {
-      "titulo": "Sem parentesco, urnas terão ao menos 8 candidatos &#8220;Lula&#8221; e 20 &#8220;Bolsonaro&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Funeral de Glória Menezes será cerimônia privada para família e amigos",
-      "imagem": null
-    },
-    {
-      "titulo": "Alesp aprova absorção de funcionários da CPTM por outros órgãos públicos",
-      "imagem": null
-    },
-    {
-      "titulo": "Insights da Semana: Tether conclui primeira auditoria completa",
-      "imagem": null
-    },
-    {
-      "titulo": "Fernão Dias é liberada após queda de passarela deixar dois mortos",
-      "imagem": null
-    },
-    {
-      "titulo": "OpenAI lança ChatGPT para adolescentes com filtros e controle parental",
-      "imagem": null
-    },
-    {
-      "titulo": "Tarcísio prepara grande ato no ABC de olho em região onde perdeu em 2022",
-      "imagem": null
-    },
-    {
-      "titulo": "Juliano Floss viaja com cunhado de Marquezine após término com Marina Sena",
-      "imagem": null
-    },
-    {
-      "titulo": "Câmeras, obras e foco nas mulheres: plano de Tarcísio para um 2º mandato",
-      "imagem": null
-    },
-    {
-      "titulo": "Automutilação e drogas: os dramas enfrentados por Nick Kyrgios na carreira",
-      "imagem": null
-    },
-    {
-      "titulo": "Crianças da Maré participam de projeto de beach tennis na praia do Flamengo",
-      "imagem": null
-    },
-    {
-      "titulo": "Coreia do Sul realiza exercícios militares após redução anunciada por Trump",
-      "imagem": null
-    },
-    {
-      "titulo": "Delegado da PF é alvo de operação por vazamento de informações de operações",
-      "imagem": null
-    },
-    {
-      "titulo": "Deslizamento de terra no Peru gera fila de caminhões de 10 km em rodovia",
-      "imagem": null
-    },
-    {
-      "titulo": "Correios passam a entregar compras do Paraguai no Brasil; veja regras",
-      "imagem": null
-    },
-    {
-      "titulo": "Após hiato, Jão vai fazer 1ª show com experiência exclusiva para fãs",
-      "imagem": null
-    },
-    {
-      "titulo": "Dólar abre em queda enquanto mercado aguarda ata do Fed",
-      "imagem": null
-    },
-    {
-      "titulo": "Marilyn Monroe ganha boneca Barbie em celebração aos 100 anos",
-      "imagem": null
-    },
-    {
-      "titulo": "Ouro Safra foge de dívidas e mantém negócio com arrendamento e revendas",
-      "imagem": null
-    },
-    {
-      "titulo": "Mourinho sobre caso Vini Jr x Prestianni: &#8220;Ele sabe de que lado estou&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Casas Bahia afirma que negocia e busca alternativas para crise financeira",
-      "imagem": null
-    },
-    {
-      "titulo": "Acidente com 23 mortos: caminhão teria invadido pista contrária, diz PRF",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;MasterChef 2026&#8221;: veja quem deixou o reality com prato &#8220;ruim e incomível&#8221;",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T14:32:59.970Z"
+  "atualizadoEm": "2026-08-19T15:06:17.535Z"
 }
