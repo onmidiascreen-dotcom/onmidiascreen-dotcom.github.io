@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "Primeira Turma do STF tem unanimidade para tornar réus Bacellar, TH Joias e desembargador por vazamento de ação contra o CV",
+      "imagem": null
+    },
+    {
+      "titulo": "A cibersegurança corporativa começa pelas pessoas",
+      "imagem": "https://s2-g1.glbimg.com/K1iP0N_DX-yZIoBVYh_iJEc33oE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/B/HLg18tS2up7g7BCIiwAA/foto-destaque.png"
+    },
+    {
+      "titulo": "Prefeitura de Andradas negocia transferência da gestão da Santa Casa para hospital de Poços de Caldas",
+      "imagem": "https://s2-g1.glbimg.com/NUwerfS-3AVTIYe71vztNfV9WDU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/E/A/QFD1jtT4WVEp79BTPzaA/santacasaandradas.jpg"
+    },
+    {
+      "titulo": "Resumão diário #2112: 9 candidatos disputam eleições com mandados de prisão em aberto; Micro-ônibus de acidente no PR levava pacientes do interior para hospitais; Delegado da PF é investigado por venda de informações sigilosas e mais",
+      "imagem": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
+    },
+    {
+      "titulo": "Ex-executivo da Meta diz que Zuckerberg deixou segurança infantil em segundo plano",
+      "imagem": "https://s2-g1.glbimg.com/XKU9OBFZsGQ5ZSW4qwbp8wG9wMs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/I/QQBLvhRmOmHNdpfu4B0w/000-42b49cp.jpg"
+    },
+    {
+      "titulo": "Caso Kathlen Romeu: júri popular de PMs acusados de morte é marcado para novembro",
+      "imagem": "https://s2-g1.glbimg.com/fXq5DxzdHNeBcKXoNjcYqiOqy8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/P/tZ7TiuTYyaOTJD3RBWrw/imagem-cortada-2026-08-19t140720.577.jpg"
+    },
+    {
+      "titulo": "4 mitos e verdades sobre a Pinot Noir",
+      "imagem": "https://s2-g1.glbimg.com/-wcozuKPmGdPPZnlUE_SvbnhUu0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/3/RY5DnWQ4AqusRbUvxcDQ/capa-b-1.jpg"
+    },
+    {
+      "titulo": "Homem é encontrado morto dentro de carro na BR-356, em Campos",
+      "imagem": "https://s2-g1.glbimg.com/ZoaDmPET9oKQsdK8l8SMzBISL38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/c/MW3m14STynHAq5W3nlMw/146-dp.jpg"
+    },
+    {
+      "titulo": "Candidatos à Presidência informam primeiras doações para a campanha",
+      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
+    },
+    {
+      "titulo": "Vídeo: mulher leva soco no rosto de desconhecido enquanto estava na calçada no Paraná",
+      "imagem": "https://s2-g1.glbimg.com/n-O0QksbYOqSoNM1CvBtOyhi_i4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/F/P1l1LJShKjF4e38EozAA/captura-de-tela-2026-08-19-133204.png"
+    },
+    {
+      "titulo": "'Tony dos Teclados' é indiciado por matar a sogra após briga por causa da produção de café no ES",
+      "imagem": "https://s2-g1.glbimg.com/X-Q6eK4naCMc63VP89HCLnHlReo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/iF4GjZRCCSoPJ9iOsqHA/thumb-videos-g1-22-.jpg"
+    },
+    {
+      "titulo": "Justiça manda Casas Bahia reverter demissões; veja como ficam os funcionários",
+      "imagem": "https://s2-g1.glbimg.com/AFNsUYpRuTNOPsM-FKnt3DbUskc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/r/jMkBR5QQuoYtiorLGHqw/casasbahia-fotoalanoliveirag1.jpeg"
+    },
+    {
+      "titulo": "Resultado da Mega-Sena 3046: apostas de Sergipe acertam números; veja valores",
+      "imagem": "https://s2-g1.glbimg.com/Cg2VR0dvryAW52aJuER4shoKyN8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/Y/UOSwbxStenDii6Acfknw/whatsapp-image-2026-01-03-at-12.29.30-6-.jpeg"
+    },
+    {
+      "titulo": "Diploma de ‘influenciador’? Faculdades dos EUA criam cursos para formar criadores de conteúdo, mas críticos questionam utilidade",
+      "imagem": "https://s2-g1.glbimg.com/nIF_CCsy1KvmxGCfR5xLPKjLcsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/V/qIWFRtTgqAhZWWUw0HKQ/ap26226633341990.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição de quarta-feira, 19 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/4Xu-z_iP8864X_Z0CbfmEwEfDzY=/s01.video.glbimg.com/deo/vi/60/25/14882560"
+    },
+    {
+      "titulo": "Saiba quem é Luciana Ortega, ex-jogadora condenada por difamar ex-técnico da Seleção após acusação de assédio",
+      "imagem": "https://s2-g1.glbimg.com/s_Lx7e7wc8JDyU9BpcHJzBdg5ME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/g/UDHjhMSGuwRNaknza8gA/inserir-um-titulo-2026-08-19t115520.954.jpg"
+    },
+    {
+      "titulo": "Motociclista de 18 anos morre após bater moto contra táxi na BR-343",
+      "imagem": "https://s2-g1.glbimg.com/8zLU0W2FZ7t37dtPzn2UAVBVHog=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/N/UUC7xsR62NZzsv6csgdw/colagem-3-imagens.jpg-1-.jpeg"
+    },
+    {
+      "titulo": "Clínica psiquiátrica é interditada após pacientes serem encontrados trancados e em condições insalubres em MG",
+      "imagem": "https://s2-g1.glbimg.com/sap0KY7r9VSgR2YDdlGrL_KRuOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/p/Mj0bIUROqhIFxPeiCFDg/178715152987758.jpg"
+    },
+    {
+      "titulo": "Ex-chefe de gabinete de Lula recebeu de empresária ligada a Lulinha minuta de contrato de venda de canabidiol ao Ministério da Saúde",
+      "imagem": "https://s2-g1.glbimg.com/h9Yz_YCQWH4AqhjS4008jcoha88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/I/ABcMjgRHOTRP4NTQhinw/marcola.jpg"
+    },
+    {
       "titulo": "Prefeitura de Nova Porteirinha abre processo seletivo com 23 vagas",
       "imagem": "https://s2-g1.glbimg.com/asCyQvs4Cn_NexJNxJx6ssauot8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/d/7PV5o0TdysVqlTQUWb3g/hand-with-pen-application-form-1-.jpg"
     },
@@ -18,7 +94,7 @@
     },
     {
       "titulo": "Ana Castela põe bronzeado em dia antes de pegar estrada para a Festa do Peão de Barretos",
-      "imagem": "https://s2-g1.glbimg.com/fiHXDhpZcJ-X55h1B6TIHx3abtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/v/Wdeo5vQ2auCGXJRErDwA/whatsapp-image-2026-08-19-at-13.31.07.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/L9NkhpgDqtRNdZVPMJPr3zCwQ-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/V/JBL5FnSlaAQHZjNr21Dg/ana-castela.png"
     },
     {
       "titulo": "Homem encontra e desenterra corpo de cunhado da BA que estava desaparecido no ES",
@@ -43,83 +119,7 @@
     {
       "titulo": "Lula diz que Brasil não pode andar de 'cabeça baixa' e defende enriquecimento de urânio para fins pacíficos",
       "imagem": "https://s2-g1.glbimg.com/TNw0qnBB8qviZ73II7ngtM2nGH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/0/ZRJrSrTS6btAJK5Q8mCw/lula-aramar.jpeg"
-    },
-    {
-      "titulo": "Vídeo mostra crianças correndo na calçada durante tiros contra motorista de aplicativo em Ribeirão Preto, SP",
-      "imagem": "https://s2-g1.glbimg.com/OVOlL9RdtgLVob7jiItVssaJIyI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/j/ELC1snSOCSuB533kvDVA/design-sem-nome.png"
-    },
-    {
-      "titulo": "Pai e filho são mortos a tiros na zona rural de Santa Maria, no RN",
-      "imagem": "https://s2-g1.glbimg.com/JMbLLtXd98-KirGLXahSvQYJPTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/d/t4hhvHRYS4PrxktwqIzA/whatsapp-image-2026-08-19-at-13.13.56-1-.jpeg"
-    },
-    {
-      "titulo": "Cachorro foge de casa, é atropelado e morre no litoral de SP; motorista fugiu",
-      "imagem": "https://s2-g1.glbimg.com/yYrj4nBIlpCZbRBlI9V0Ywx-qdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/A/OUwr1nTO2NNjzwdFXm8g/whatsapp-image-2026-08-19-at-12.16.09-1-.jpeg"
-    },
-    {
-      "titulo": "Festival Gastronômico de Taquaruçu terá Marina Sena, Vanessa da Mata e Jorge Vercillo",
-      "imagem": "https://s2-g1.glbimg.com/JEUkoCEW4v78YtvuPFNZFN9Rsg4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/y/M82SBCRPeHecttnniFrQ/foto-e-montagem-vertical-70-.jpg"
-    },
-    {
-      "titulo": "PM prende quatro homens com munições de uso restrito em rota de garimpo no Cantá",
-      "imagem": "https://s2-g1.glbimg.com/rjr6UCrx9xk89tJDqL2tJxWzwcc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/C/7JNSsSR6CIYR3AzXaVVA/municoes.png"
-    },
-    {
-      "titulo": "Acidente com 23 mortos e 5 feridos no PR: PRF diz que caminhão invadiu pista contrária e bateu de frente com micro-ônibus",
-      "imagem": "https://s2-g1.glbimg.com/QkHACimw2R87MgDxdbm31oBO4sk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/a/ckH0z7Qm6tyu0e4dethg/g1-25-.png"
-    },
-    {
-      "titulo": "Conta de luz mais cara em SC? Veja o que muda após aumento de até 14% aprovado pela Aneel",
-      "imagem": "https://s2-g1.glbimg.com/Vra_tcONJ-7mL7K80klhiXKUCMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/l/DdspRRT1GIjHbyNw3fhQ/conta-de-luz-1-.png"
-    },
-    {
-      "titulo": "Motorista que derrubou passarela e matou mãe e filho na Fernão Dias diz à polícia que não previu acidente: 'Lamento profundamente'",
-      "imagem": "https://s2-g1.glbimg.com/39L2JxqRjmilm4UBsh7jnngwqvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/W/5dPXBtToSKNdT1G1S4Zw/foto-g1-29-.png"
-    },
-    {
-      "titulo": "Google paga US$ 10 milhões por dados de companhia aérea falida para treinar IA",
-      "imagem": "https://s2-g1.glbimg.com/wDNWZiSzAlBMjoUzhX-LDp5nGx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/3/vXl5BUScaNbYF88bwCaQ/2025-03-19t004843z-819161003-rc2zfdartfqk-rtrmadp-3-wiz-m-a-alphabet.jpg"
-    },
-    {
-      "titulo": "Homem mata companheira de 28 anos na Zona Leste de SP e alega ciúmes",
-      "imagem": "https://s2-g1.glbimg.com/pfcEDMUcYXY-37zyIKQnQsVDRuE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/u/1guRPVTWaU8J1BYAbmHw/recorde-de-feminicidios.jpg"
-    },
-    {
-      "titulo": "Suspeito de homicídio morre em confronto com a Polícia Militar em Codó",
-      "imagem": "https://s2-g1.glbimg.com/ABmMgU-DhETZKKHzygqmvNklvys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/d/A/AvMkr0TQKbO1YWnDgBYQ/disparo-de-arma-de-fogo.png"
-    },
-    {
-      "titulo": "Exportações de carne bovina caem 26% em agosto com temor de tarifa maior na China",
-      "imagem": "https://s2-g1.glbimg.com/Rz6CsLNUf4LOCW8kuDfQURAm52M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/2/0SbRBjRDq2vkw5Yx7LWA/cindie-hansen-cvj-7tzjva0-unsplash.jpg"
-    },
-    {
-      "titulo": "PF aguarda depoimento de Daniel Vorcaro nesta quinta em investigação sobre ataques ao BC",
-      "imagem": "https://s2-g1.glbimg.com/UbaB3Zkd0Z7QDPNr9CD3Re7S6_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/c/kRcOA6T6iPwbqAzIPUjA/globo-canal-4-20260709-2000-frame-59721.jpeg"
-    },
-    {
-      "titulo": "Grávida passa por curetagem após diagnóstico errado de aborto e descobre bebê vivo um mês depois",
-      "imagem": "https://s2-g1.glbimg.com/mQH-EXbEdFBS02oZCeRE3XMDLB0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/R/CGXesqQjat62fGrSBwAw/eptv1-1908-negligencia-cp004ena-2026-08-19-12-49-19.mxf-snapshot-00.29.189.jpg"
-    },
-    {
-      "titulo": "Voto em trânsito: prazo para solicitar acaba nesta quinta-feira (20); saiba como solicitar no Piauí",
-      "imagem": "https://s2-g1.glbimg.com/xxgrhfMUcu6_jaCjQmnicTW4QzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/X/D5CCAERTiNAmrVGK1Xqg/urna-eletronica-.png"
-    },
-    {
-      "titulo": "Amazonas registra 11 denúncias de propaganda eleitoral irregular nos primeiros três dias de campanha",
-      "imagem": "https://s2-g1.glbimg.com/xCz7vvRMaWVKWx4z8KC16Y8P0OU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/e/F/ezqKcSRpKBOsRHYcpo5A/denuncias-campanhas-.transfer-frame-1439.png"
-    },
-    {
-      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista ao Gazeta Meio Dia",
-      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
-    },
-    {
-      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T16:46:42.274Z"
+  "atualizadoEm": "2026-08-19T17:22:58.147Z"
 }
