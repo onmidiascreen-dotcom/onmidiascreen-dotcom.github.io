@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Ministro do Desenvolvimento diz que tarifaço dos EUA é ilegal e espera amenizar efeitos até dezembro",
+      "imagem": null
+    },
+    {
+      "titulo": "QUIZ: sua equipe conseguiria identificar uma tentativa de phishing?",
+      "imagem": "https://s2-g1.glbimg.com/nAN0tF4K8OLK1zdOPKbJPuAD7hk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/E/L15w3lSIWgJCh0b0f0Zg/foto-destaque.png"
+    },
+    {
+      "titulo": "VÍDEOS: JL1 de quarta-feira, 19 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/gNydNPIkTfGule1EAYsXsv29yEY=/s01.video.glbimg.com/deo/vi/80/25/14882580"
+    },
+    {
+      "titulo": "Sabesp abre vagas para Jovem Aprendiz com bolsa-auxílio de até R$ 1,1 mil; saiba mais",
+      "imagem": "https://s2-g1.glbimg.com/gbppm4xMhy8ymKtoe9x_yu0aSNk=/s.glbimg.com/jo/g1/f/original/2016/10/11/palacio.jpg"
+    },
+    {
+      "titulo": "Inscrições para 16 vagas de mestrado gratuito na Unifap encerram nesta quinta-feira (20)",
+      "imagem": "https://s2-g1.glbimg.com/bMbXuxXWf3B_66oG000l6hZkZFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/K/l2YxSnRuqMOZCX6dMJPA/aleixo-g1-27-.jpg"
+    },
+    {
+      "titulo": "Homem é morto com tiro na cabeça após cobrança de dívida em Itu",
+      "imagem": "https://s2-g1.glbimg.com/EcVgsueK2yX7eDrmy8QgZYpAV5E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/a/SnLLOMRQKaSQjAPgOZBw/whatsapp-image-2026-08-19-at-15.18.29.jpeg"
+    },
+    {
+      "titulo": "Polícia apreende mais de 300 kg de folhas de coca em rodovia do interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/jUQ_wdpTCAP2tY9c35u5XqwKuSU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/W/A4CLgzQPe3pjoF2Oi3aQ/g1-indiana-16-.png"
+    },
+    {
+      "titulo": "VÍDEO: PM dá tapa no rosto de homem durante abordagem em Itápolis",
+      "imagem": "https://s2-g1.glbimg.com/gCFWNxbb1k9e2MGk3d5rSjZEeL8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/Z/5ZghXKSBasGgYxVJ4AAA/novo-projeto-2026-08-19t113753.592.png"
+    },
+    {
+      "titulo": "Denúncia anônima leva policiais a esconderijo com 13 kg de cocaína em São Pedro da Aldeia",
+      "imagem": "https://s2-g1.glbimg.com/AlPcsz9jz8vIKjZa8O4L8ESBUvo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/7/d5EkzwTaWhm2ag13L6Ew/apreensao-de-drogas-em-sao-pedro-da-aldeia.jpg"
+    },
+    {
+      "titulo": "De aliados a adversários: entenda a disputa entre Brandão e Dino no Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/rywuOYEWdx7xnsFQxxajSN9LX8o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/I/klun7uQ5SmtG3TtP45kg/bd.jpg"
+    },
+    {
+      "titulo": "Aulas são suspensas após casos de catapora em escola de João Pessoa",
+      "imagem": "https://s2-g1.glbimg.com/W0VbgcjYs0WH88lArwlrC5LpEnc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/W/g/K3BxiZQrOhrAErIKmGOQ/image003-15-.jpg"
+    },
+    {
+      "titulo": "Homem descumpre medida protetiva e tenta contato com ex-companheira por mensagens e PIX em Búzios",
+      "imagem": "https://s2-g1.glbimg.com/_pMTGd7zpRzlFoRWSVxeM0U_U40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/z/1THABtTAa2gC8iUcZQLQ/homem-preso-por-usar-ate-pix-para-tentar-contato-com-a-ex-companheira-em-buzios.jpg"
+    },
+    {
+      "titulo": "Festival do Frio do Vitorino terá Edson Gomes, Mastruz com Leite, Joyce Alane e mais; confira programação",
+      "imagem": "https://s2-g1.glbimg.com/sqLqVcIqb2Ia4jcf4uu951Z8Sbs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/O/sPbKAdTjApHr1utTcbIQ/homem-e-preso-por-tentativa-de-feminicidio-apos-agredir-esposa-com-marreta-em-agua-preta-o-suspeito-passou-por-audiencia-de-custodia-e-permanece-preso.-um-homem-de-45-anos-foi-preso-em-flagrante-p-41-.png"
+    },
+    {
+      "titulo": "PF desarticula quadrilha que invadiu sistemas de bancos e desviou R$ 227 milhões com transferências e boletos",
+      "imagem": "https://s2-g1.glbimg.com/YqWM-XcmZT9VsMkNrwB3ab4an6g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/I/kGQQI0TZSVkVEbO9QZFw/thumb-videos-g1-24-.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Bom Dia Acre desta quarta-feira, 19 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/JtpCm89TUzOi7DauJu250GH96xg=/s01.video.glbimg.com/deo/vi/30/30/14883030"
+    },
+    {
+      "titulo": "Polícia vai investigar denúncia de agressão envolvendo prefeito de Estiva em ginásio da cidade",
+      "imagem": "https://s2-g1.glbimg.com/Wv8lVhyYUnVLioPhMh9eKAcNLKY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/9/5aQLz0Rwu1Ow5qV2cD7Q/montagm.jpg"
+    },
+    {
+      "titulo": "MP denuncia homem que matou ex-mulher a facadas em supermercado em SP após matar cachorro da vítima",
+      "imagem": "https://s2-g1.glbimg.com/PSQDBxKny023xbmdx3CxdzWV3s4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/K/aheg0ZRB62jz90kbguSQ/fotojet-2026-08-17t171005.485.jpg"
+    },
+    {
+      "titulo": "Homem é condenado a 37 anos de prisão por matar ex-companheira em Campinas",
+      "imagem": "https://s2-g1.glbimg.com/l0pGMvkTjD5waQOU7LE5kng-22I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/g/LoOO1AQLucWpIDabsfqw/design-sem-nome.png"
+    },
+    {
+      "titulo": "Jornalista e radialista João Garcia morre aos 77 anos em Porto Alegre",
+      "imagem": "https://s2-g1.glbimg.com/eh3XGryAIUPldS1A1WRmbgRKoMs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/T/r0pfAkRk6TiRMskmRCSw/g1-2026-08-19t144110.686.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição Regiões desta quarta-feira, 19/08/2026",
+      "imagem": "https://s2-g1.glbimg.com/kfDpe7gip8wXsNU3sHsdgWlz_Tw=/s01.video.glbimg.com/deo/vi/34/30/14883034"
+    },
+    {
+      "titulo": "O que acontece nos bastidores quando uma empresa sofre um ataque cibernético?",
+      "imagem": "https://s2-g1.glbimg.com/HoI60leBPFTNQemXK0t1d7riwlk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/r/vaBkx0SAeKjhCYHQlozw/foto-destaque.png"
+    },
+    {
       "titulo": "União é condenada a pagar R$ 500 mil de indenização após homem que ficou sete anos preso ser absolvido",
       "imagem": "https://s2-g1.glbimg.com/WyNwJQl84aHy9LRrvWJCLew9nIg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/m/NJbjbMR7KOcc4CcSf5lA/foto-e-montagem-vertical-63-.png"
     },
@@ -26,7 +110,7 @@
     },
     {
       "titulo": "STJ suspende decisão judicial e restabelece punições do MEC a cursos de baixo desempenho no Enamed",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/KSuArvhHX3YTij0UT-24_vcHoHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/V/EXCAsBSBmr2kLADAu3WQ/adobestock-294385361-1-.jpeg"
     },
     {
       "titulo": "VÍDEOS: EPTV 1 Sul de Minas de quarta-feira, 19 de agosto de 2026",
@@ -35,91 +119,7 @@
     {
       "titulo": "Caso Hayden Panettiere: polícia investiga se houve conduta criminosa em morte de atriz, diz site",
       "imagem": "https://s2-g1.glbimg.com/PXG9pFyPMtLREqFT9ACIxXA-Z8A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/F/u3g76CQkAQe8nISoucjQ/2026-08-17t031919z-49133298-rc2noz9en05m-rtrmadp-3-people-hayden-panettiere.jpg"
-    },
-    {
-      "titulo": "Após queda de passarela que matou mãe e filho, veja como é a fiscalização na Fernão Dias no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/7a0o2WgLFWG7_Ub6nYwGlmPSMUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/L/Afzpt0Qg21C1hws4odLA/globo-canal-4-20260818-2000-frame-60077.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: Assalto a motorista de aplicativo termina com motoboy atropelado em estado grave no Acre",
-      "imagem": "https://s2-g1.glbimg.com/roO7yGgvMC53Xlv-O4FQe7wk2U0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/P/e2r30OT2e8QYBQ4JVJLg/midia-de-distribuicao-g1-2026-08-19t115709.511.png"
-    },
-    {
-      "titulo": "Hospital Unimed Cuiabá amplia atendimentos e consolida resultados em 2026",
-      "imagem": "https://s2-g1.glbimg.com/HmMnidBbZiwJrRk4yQhqAkdhY64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/J/HZhibBTZC80m3xh7JCtA/whatsapp-image-2026-08-19-at-08.57.50.jpeg"
-    },
-    {
-      "titulo": "Juiz de Fora tem mutirão de empregos com quase 300 vagas; veja oportunidades",
-      "imagem": "https://s2-g1.glbimg.com/u6yWKON8G8sUG1r9VIcCbe4si8s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/t/HdCPsZRyAWdiaJ6HLd9w/mutirao-de-emprego-juiz-de-fora.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Almoço Florianópolis de quarta-feira, 19 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/Nxfyg0W8_EaYThpUXahHIbGN8TA=/s01.video.glbimg.com/deo/vi/22/22/14882222"
-    },
-    {
-      "titulo": "Atenção aos riscos de deixar o carregador de celular conectado na tomada",
-      "imagem": "https://s2-g1.glbimg.com/9Twt_mA9zaJnLA6YjJN1FzrPIpg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/z/wi3M1ASU2JK4WTEffngQ/desconecte-o-carregador-da-tomada-apos-o-uso-1-.jpeg"
-    },
-    {
-      "titulo": "PRF e PM apreendem 115 cabeças de gado com GTA falsa em Porto Franco",
-      "imagem": "https://s2-g1.glbimg.com/ovsljVmTiWzPZVcS3-E6zqmlkCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/Q/cMkrVRQRCrmbFiDWniaQ/montagens-1920-x-1080-px-70-.png"
-    },
-    {
-      "titulo": "Condenado por homicídio em Governador Valadares é preso pelo ICE nos EUA",
-      "imagem": "https://s2-g1.glbimg.com/jhgTsCLI5t8_halkByfkenQBIV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/t/egpAoJRISBTrGkldSmEw/carol-88-.png"
-    },
-    {
-      "titulo": "John Boyd Dunlop é a via com mais acidentes com queda de postes em Campinas em 2026; veja ranking",
-      "imagem": "https://s2-g1.glbimg.com/iQNqbipMTIqR9texvrx8vPYi1BQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/Z/Z8JsYmRmunzcgdx6EVDQ/design-sem-nome-2026-08-19t135914.857.jpg"
-    },
-    {
-      "titulo": "Menino procura PM para denunciar tio que o derrubou, e final surpreende; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/7ToZk3nrfwF-DGVd1t3OXM2-2JA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/U/jtXVPXRfWR7tBcWZ9ixg/copia-de-copia-de-padrao-foto-g1-goias-9-.jpg"
-    },
-    {
-      "titulo": "Polícia Civil recupera quase 700 celulares roubados ou furtados no Rio Grande do Norte",
-      "imagem": "https://s2-g1.glbimg.com/MQYGqERR2jkhn67tmk1odFe0sPI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/x/Tyay1vQpGwbwYMDp0pSg/whatsapp-image-2026-08-19-at-12.35.57.jpeg"
-    },
-    {
-      "titulo": "Mulher é hospitalizada após ex-companheiro tentar invadir casa e atirar 20 vezes no sudeste do Pará",
-      "imagem": "https://s2-g1.glbimg.com/WiBdtyfJpKZDZjxW02ZG0GVEWCY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/e/ksGiAMQBSM5srKrX0u1w/arma-e-suspeito.jpg"
-    },
-    {
-      "titulo": "Tecnologia na lavoura faz nova geração olhar a agricultura com outros olhos",
-      "imagem": "https://s2-g1.glbimg.com/qNzRpVPZwkcEmxtrNMruEzJrg0U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/g/CqipxOQaaZqIXP70ltLA/foto-1.png"
-    },
-    {
-      "titulo": "'Só rezava para Deus segurar aquela pilastra', diz caminhoneiro que sobreviveu à queda de passarela na Fernão Dias",
-      "imagem": "https://s2-g1.glbimg.com/KahkGudU4ySMxuO1TaG9WS2xP-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/a/0gPQfCRrifmXWjRCPidA/caminhao.jpg"
-    },
-    {
-      "titulo": "Primeira Turma do STF tem unanimidade para tornar réus Bacellar, TH Joias e desembargador por vazamento de ação contra o CV",
-      "imagem": "https://s2-g1.glbimg.com/NGUA_vrQfcgf0KCjYxppdTYRpqo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/Z/HMat2CRDCNTZ1XUdsHUA/bacellar.jpg"
-    },
-    {
-      "titulo": "A cibersegurança corporativa começa pelas pessoas",
-      "imagem": "https://s2-g1.glbimg.com/K1iP0N_DX-yZIoBVYh_iJEc33oE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/B/HLg18tS2up7g7BCIiwAA/foto-destaque.png"
-    },
-    {
-      "titulo": "Prefeitura de Andradas negocia transferência da gestão da Santa Casa para hospital de Poços de Caldas",
-      "imagem": "https://s2-g1.glbimg.com/NUwerfS-3AVTIYe71vztNfV9WDU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/E/A/QFD1jtT4WVEp79BTPzaA/santacasaandradas.jpg"
-    },
-    {
-      "titulo": "Resumão diário #2112: 9 candidatos disputam eleições com mandados de prisão em aberto; Micro-ônibus de acidente no PR levava pacientes do interior para hospitais; Delegado da PF é investigado por venda de informações sigilosas e mais",
-      "imagem": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
-    },
-    {
-      "titulo": "Ex-executivo da Meta diz que Zuckerberg deixou segurança infantil em segundo plano",
-      "imagem": "https://s2-g1.glbimg.com/XKU9OBFZsGQ5ZSW4qwbp8wG9wMs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/I/QQBLvhRmOmHNdpfu4B0w/000-42b49cp.jpg"
-    },
-    {
-      "titulo": "Caso Kathlen Romeu: júri popular de PMs acusados de morte é marcado para novembro",
-      "imagem": "https://s2-g1.glbimg.com/fXq5DxzdHNeBcKXoNjcYqiOqy8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/P/tZ7TiuTYyaOTJD3RBWrw/imagem-cortada-2026-08-19t140720.577.jpg"
-    },
-    {
-      "titulo": "4 mitos e verdades sobre a Pinot Noir",
-      "imagem": "https://s2-g1.glbimg.com/-wcozuKPmGdPPZnlUE_SvbnhUu0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/3/RY5DnWQ4AqusRbUvxcDQ/capa-b-1.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-19T17:49:22.887Z"
+  "atualizadoEm": "2026-08-19T18:29:01.966Z"
 }
