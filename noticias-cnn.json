@@ -1,6 +1,106 @@
 {
   "noticias": [
     {
+      "titulo": "Caiado aposta em &#8220;cansaço da polarização&#8221; para crescer",
+      "imagem": null
+    },
+    {
+      "titulo": "China tentará controlar o trânsito caótico com robôs humanoides",
+      "imagem": null
+    },
+    {
+      "titulo": "Agroterenas capta R$ 160 milhões para converter pastagens em cana-de-açúcar",
+      "imagem": null
+    },
+    {
+      "titulo": "Três são presos após tentativa de sequestro contra influenciador em SC",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia busca suspeito de balear ex-namorada e matar ex-sogro em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Israel e Síria discutiram movimentações da Turquia antes de ataques",
+      "imagem": null
+    },
+    {
+      "titulo": "Justiça autoriza remoção de tornozeleira eletrônica da &#8220;Japa do PCC&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Lamborghini Revuelto SV é revelada na Monterey Car Week",
+      "imagem": null
+    },
+    {
+      "titulo": "Inter&#038;Co atinge recordes de lucro, carteira de crédito e clientes no 2º Tri",
+      "imagem": null
+    },
+    {
+      "titulo": "Setor do café foca no multilateralismo para driblar barreiras comerciais",
+      "imagem": null
+    },
+    {
+      "titulo": "Foguete sul-coreano é lançado no Maranhão &#8220;conforme o previsto&#8221;; saiba mais",
+      "imagem": null
+    },
+    {
+      "titulo": "Essity compra marcas Carefree, Sempre Livre e o.b. em acordo bilionário",
+      "imagem": null
+    },
+    {
+      "titulo": "Embrapa pede a presidenciáveis mais recursos e estabilidade para ciência",
+      "imagem": null
+    },
+    {
+      "titulo": "MBRF vê América Latina como chave para expansão da National Beef",
+      "imagem": null
+    },
+    {
+      "titulo": "Com gol de Raphinha, Barcelona vence Al-Ahly e conquista Troféu Joan Gamper",
+      "imagem": null
+    },
+    {
+      "titulo": "Criptomoedas superam ações e CDBs entre investidores brasileiros",
+      "imagem": null
+    },
+    {
+      "titulo": "Mercado de vinhos movimenta R$ 9,8 bilhões e bate recorde no Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Ataque de Israel mata nove em posto policial em Gaza, dizem equipes médicas",
+      "imagem": null
+    },
+    {
+      "titulo": "Irlanda questiona TikTok após trend de vídeos com direção perigosa",
+      "imagem": null
+    },
+    {
+      "titulo": "Atlético-MG x RB Bragantino: escalações e onde assistir à Sul-Americana",
+      "imagem": null
+    },
+    {
+      "titulo": "Inmet alerta para forte vendaval em São Paulo e no Rio nesta sexta-feira",
+      "imagem": null
+    },
+    {
+      "titulo": "Rebeca Andrade vai voltar a disputar etapa de Copa após dois anos e meio",
+      "imagem": null
+    },
+    {
+      "titulo": "Shakira visita área destruída por terremoto na Colômbia: &#8220;Meu compromisso&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Crossover Energy concluirá acordo com Venezuela, diz CEO",
+      "imagem": null
+    },
+    {
+      "titulo": "Cerro Porteño x Palmeiras: escalações e onde assistir à Libertadores",
+      "imagem": null
+    },
+    {
       "titulo": "Trump ordena suspensão das negociações com Irã; Teerã nega diálogo direto",
       "imagem": null
     },
@@ -19,107 +119,7 @@
     {
       "titulo": "Exportações de grãos da Rússia e Ucrânia pelo Mar Negro praticamente param",
       "imagem": null
-    },
-    {
-      "titulo": "Ações da Pilgrim&#8217;s Pride disparam com nova oferta de aquisição pela JBS",
-      "imagem": null
-    },
-    {
-      "titulo": "Banda ZZ Top veja como está shows no Brasil após morte de baterista",
-      "imagem": null
-    },
-    {
-      "titulo": "Apple avisou sobre vírus? Entenda por que não ignorar a notificação",
-      "imagem": null
-    },
-    {
-      "titulo": "Sandra Bullock relembra morte do namorado: &#8220;Partiu antes do corpo&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Nick Jonas revela que quase dublou personagem de &#8220;Frozen&#8221;; saiba qual",
-      "imagem": null
-    },
-    {
-      "titulo": "Fred marca data para estrear pelo Atlético-MG e manda recado sobre clássico",
-      "imagem": null
-    },
-    {
-      "titulo": "Petróleo fecha em alta com incertezas sobre Estreito de Ormuz no radar",
-      "imagem": null
-    },
-    {
-      "titulo": "Grass à CNN: &#8220;Governador tem que cuidar do DF, independente do presidente&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasil pode deixar reciprocidade contra EUA para 2027, diz Márcio Rosa",
-      "imagem": null
-    },
-    {
-      "titulo": "Fiuk revela que pagou imposto atrasado após venda de carro por R$ 51 mil",
-      "imagem": null
-    },
-    {
-      "titulo": "Abra recorre contra aval ao negócio Azul-American e pede revisão ao Cade",
-      "imagem": null
-    },
-    {
-      "titulo": "Trigo sobe mais de 2% com tensão no Mar Negro e risco para exportações",
-      "imagem": null
-    },
-    {
-      "titulo": "Sete brasileiros aparecem entre os 50 melhores da Premier League",
-      "imagem": null
-    },
-    {
-      "titulo": "Governo da Austrália faz acordo com Roblox sobre usuários jovens",
-      "imagem": null
-    },
-    {
-      "titulo": "Anne Hathaway tentou convencer Julie Andrews a fazer “Diário da Princesa 3”",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump diz que conseguiu &#8220;ótimo acordo&#8221; com o Canadá",
-      "imagem": null
-    },
-    {
-      "titulo": "Estoque de CPR chega a R$ 580,7 bi em julho, mostra boletim",
-      "imagem": null
-    },
-    {
-      "titulo": "Fluxo cambial de 2026 é positivo em US$ 21,2 bi até 14 de agosto, diz BC",
-      "imagem": null
-    },
-    {
-      "titulo": "Cacau sobe quase 2% em Nova York com dólar mais fraco",
-      "imagem": null
-    },
-    {
-      "titulo": "Bitcoin sobe 5% e supera US$ 68 mil após recompra do Tesouro dos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Rosamaria defende Tiffany e critica decisão da CBV",
-      "imagem": null
-    },
-    {
-      "titulo": "Stellantis anuncia investimento de US$ 800 milhões para Jeep Cherokee",
-      "imagem": null
-    },
-    {
-      "titulo": "Dirigentes discutiram riscos ligados a Treasuries e IA, diz ata do Fed",
-      "imagem": null
-    },
-    {
-      "titulo": "Autoridade do Equador e americanos morrem em queda de helicóptero no Quênia",
-      "imagem": null
-    },
-    {
-      "titulo": "Tiroteio é registrado em frente ao tribunal que julga caso Tupac, diz site",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T21:01:57.177Z"
+  "atualizadoEm": "2026-08-19T21:39:25.092Z"
 }
