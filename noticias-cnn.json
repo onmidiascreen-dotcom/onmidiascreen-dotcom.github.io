@@ -1,6 +1,98 @@
 {
   "noticias": [
     {
+      "titulo": "Correios passam a entregar compras do Paraguai no Brasil; veja regras",
+      "imagem": null
+    },
+    {
+      "titulo": "Após hiato, Jão vai fazer 1ª show com experiência exclusiva para fãs",
+      "imagem": null
+    },
+    {
+      "titulo": "Dólar abre em queda enquanto mercado aguarda ata do Fed",
+      "imagem": null
+    },
+    {
+      "titulo": "Marilyn Monroe ganha boneca Barbie em celebração aos 100 anos",
+      "imagem": null
+    },
+    {
+      "titulo": "Ouro Safra foge de dívidas e mantém negócio com arrendamento e revendas",
+      "imagem": null
+    },
+    {
+      "titulo": "Mourinho sobre caso Vini Jr x Prestianni: &#8220;Ele sabe de que lado estou&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Casas Bahia afirma que negocia e busca alternativas para crise financeira",
+      "imagem": null
+    },
+    {
+      "titulo": "Acidente com 23 mortos: caminhão teria invadido pista contrária, diz PRF",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;MasterChef 2026&#8221;: veja quem deixou o reality com prato &#8220;ruim e incomível&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "A barreira regulatória do setor elétrico e o leilão das baterias",
+      "imagem": null
+    },
+    {
+      "titulo": "Grupo Multi anuncia provisão de R$ 20 milhões para perdas com Casas Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "Liverpool prepara proposta milionária para tirar Endrick do Real Madrid",
+      "imagem": null
+    },
+    {
+      "titulo": "Influencer Eduardo Razuk é preso por lavagem de dinheiro em MS",
+      "imagem": null
+    },
+    {
+      "titulo": "Cosan vai deixar bolsa de Nova York",
+      "imagem": null
+    },
+    {
+      "titulo": "Calleri projeta reencontro com o Boca Juniors: &#8220;Jogo especial&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Unitree, fabricante de robôs humanoides, dispara quase 500% em IPO na China",
+      "imagem": null
+    },
+    {
+      "titulo": "Atlético-MG tenta ampliar marca de “maior invicto do país” na Sul-Americana",
+      "imagem": null
+    },
+    {
+      "titulo": "Hind Rajab: Israel admite pela 1ª vez tiros em carro de palestina de 5 anos",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja imagens do acidente que deixou ao menos 23 mortos no Paraná",
+      "imagem": null
+    },
+    {
+      "titulo": "RJ: Ônibus são usados como barricadas durante operação na Cidade de Deus",
+      "imagem": null
+    },
+    {
+      "titulo": "Presidente de time europeu viraliza ao distribuir dinheiro em vestiário",
+      "imagem": null
+    },
+    {
+      "titulo": "EUA não oferecem contrapartida equivalente ao que a China oferece, diz Arko",
+      "imagem": null
+    },
+    {
+      "titulo": "Técnico da NBA surpreende e acompanha Náutico x Ceará nos Aflitos",
+      "imagem": null
+    },
+    {
       "titulo": "Bolsas da Ásia fecham em baixa após perdas em WS; Kospi despenca 5,8%",
       "imagem": null
     },
@@ -27,99 +119,7 @@
     {
       "titulo": "CNE lança parecer orientando escolas sobre &#8220;lei das férias&#8221;",
       "imagem": null
-    },
-    {
-      "titulo": "Geopolítica faz maiores produtores de café reverem comércio global",
-      "imagem": null
-    },
-    {
-      "titulo": "Campeonato Brasileiro já teve 15 técnicos demitidos; veja a lista",
-      "imagem": null
-    },
-    {
-      "titulo": "Real Time/DF: Flávio tem 44% das intenções de voto no 2º turno; Lula, 39%",
-      "imagem": null
-    },
-    {
-      "titulo": "Real Time: Michelle Bolsonaro lidera intenções de voto ao Senado no DF",
-      "imagem": null
-    },
-    {
-      "titulo": "Real Time: Celina lidera todos os cenários 1º e 2º turnos ao governo do DF",
-      "imagem": null
-    },
-    {
-      "titulo": "Real Time/DF: Lula é rejeitado por 48% dos eleitores e Flávio, por 40",
-      "imagem": null
-    },
-    {
-      "titulo": "Real Time/DF: Lula é aprovado por 54% dos eleitores; 45% desaprovam",
-      "imagem": null
-    },
-    {
-      "titulo": "Otan promete &#8220;defender aliados&#8221; após possível ameaça do Irã contra a Europa",
-      "imagem": null
-    },
-    {
-      "titulo": "Real Time/DF: Lula e Flávio têm empate técnico no 1º turno",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Visitante indigesto&#8221;, Cruzeiro enfrenta Flamengo por vaga na Libertadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Clima extremo exige transformação agrícola no Reino Unido",
-      "imagem": null
-    },
-    {
-      "titulo": "Rivadavia se despede da Libertadores invicto e com artilheiro do torneio",
-      "imagem": null
-    },
-    {
-      "titulo": "Traficante ‘Cascão’, operador de armas e drogas do CV, é preso no Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Pogba deixa o Monaco e segue buscando reerguer a carreira após doping",
-      "imagem": null
-    },
-    {
-      "titulo": "Fisioterapeuta de Glória Menezes recorda rotina da atriz; confira",
-      "imagem": null
-    },
-    {
-      "titulo": "Presidente do Chile declara estado de catástrofe após chuvas intensas",
-      "imagem": null
-    },
-    {
-      "titulo": "O Grande Debate: Denúncias contra Marcola vão atingir Lula até as eleições?",
-      "imagem": null
-    },
-    {
-      "titulo": "23 mortos: Ônibus envolvido em acidente levava pacientes de Imbituva (PR)",
-      "imagem": null
-    },
-    {
-      "titulo": "Provão Paulista: inscrições acabam esta quarta-feira (19)",
-      "imagem": null
-    },
-    {
-      "titulo": "Santa Fe x River Plate: horário e onde assistir a Sul-Americana",
-      "imagem": null
-    },
-    {
-      "titulo": "Vídeo: EUA divulgam imagens de porta-aviões a caminho do Oriente Médio",
-      "imagem": null
-    },
-    {
-      "titulo": "Fórmula 1: Isack Hadjar, da Red Bull, deve perder GP da Holanda por lesão",
-      "imagem": null
-    },
-    {
-      "titulo": "Atlético-MG x Bragantino: horário e onde assistir a Sul-Americana",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-19T11:59:55.234Z"
+  "atualizadoEm": "2026-08-19T13:01:29.969Z"
 }
