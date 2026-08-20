@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Venda de Savinho pode ser a maior da história do Manchester City",
+      "imagem": null
+    },
+    {
       "titulo": "Quem são os candidatos a governador do Alagoas em 2026",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Terremoto de magnitude 6,7 atinge o Peru",
       "imagem": null
-    },
-    {
-      "titulo": "Veja quando estreia o 8º episódio de &#8220;Silo&#8221;",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T19:44:38.340Z"
+  "atualizadoEm": "2026-08-20T20:03:59.014Z"
 }

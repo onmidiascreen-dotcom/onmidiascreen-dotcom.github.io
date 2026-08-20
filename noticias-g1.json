@@ -1,11 +1,75 @@
 {
   "noticias": [
     {
-      "titulo": "Incêndio atinge área rural de Jardinópolis, SP",
+      "titulo": "Homem que estava desaparecido há uma semana é encontrado morto no Sertão da PB",
+      "imagem": "https://s2-g1.glbimg.com/W6makRouPZ47rnWb0EsC-6bUfLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/c/F/JPNgFQTW2NDMKrYM85fQ/whatsapp-image-2023-03-21-at-10.50.53.jpeg"
+    },
+    {
+      "titulo": "Receita Federal tem até 14 de setembro para entregar proposta de cálculo da CBS ao TCU",
+      "imagem": "https://s2-g1.glbimg.com/letMCREeORxK6rzN5OE-hzczEkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/a/UQzJcISlACzA1q08V8jQ/globo-canal-4-20260430-2000-frame-129379.jpeg"
+    },
+    {
+      "titulo": "Campeão dedicado: saiba quem era Diego Feltran, lutador de jiu-jitsu morto em grave acidente no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/BzV98Tfw-0E4KrFGpv-ydDCr_iU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/j/8ln47LQ5CBtUvfM4etRQ/o-lutador-de-jiu-jitsu-diego-henrique-feltran-1-.jpg"
+    },
+    {
+      "titulo": "Aulão na Rede retoma gravações e amplia conteúdos de preparação para o Enem 2026",
+      "imagem": "https://s2-g1.glbimg.com/HJUNzSnLodgNRi1ECf7w_533V7I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/8/sS9OShRKGji1NsAXLBCA/aulao-na-rede.jpg"
+    },
+    {
+      "titulo": "Delegado da PF é preso por tentar furtar R$ 500 em produtos em supermercado da Barra da Tijuca",
       "imagem": null
     },
     {
-      "titulo": "Acreanos sentem 2º tremor em 10 dias após novo terremoto no Peru: 'Achei que estava tonto'",
+      "titulo": "Advogado diz que se Lulinha não fosse filho do presidente caso teria sido arquivado",
+      "imagem": "https://s2-g1.glbimg.com/TodQjHDZLMnghp77VKnqD1BAKJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/q/fllSUsTdOsrIhAAxNxzA/whatsapp-image-2026-06-29-at-10.37.31.jpeg"
+    },
+    {
+      "titulo": "Marçal diz esperar que decisão proibindo debates, campanha na TV e acesso a fundos \"seja revista\"",
+      "imagem": "https://s2-g1.glbimg.com/QCOMowDqH4ZWNovb3EeWa4lK89E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/D/jLwDHUTvGjM7e5xed1Aw/fotojet-2026-08-17t131334.601.jpg"
+    },
+    {
+      "titulo": "Como julgamento de uma mãe acusada de matar os 3 filhos impulsiona o debate sobre psicose pós-parto",
+      "imagem": "https://s2-g1.glbimg.com/zo1-XsW46ZtndsrmYCfaWPlmc3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/B/hFmYHGQ92Kmd4hlpraww/imagem-1200px-1-.webp"
+    },
+    {
+      "titulo": "Ele vendia carros sem saber que era filho de um príncipe; DNA revelou a verdade aos 26 anos",
+      "imagem": "https://s2-g1.glbimg.com/lZbVzsAlATKR5q-7mpIURjpTQ7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/e/AG8AdATwS1Rp0vaZHEnA/202ecd60-9c9e-11f1-a5a0-114ca9d4a1bc.jpg"
+    },
+    {
+      "titulo": "Virada no tempo pode trazer ventos de até 80 km/h ao Vale do Paraíba; veja o que diz a Defesa Civil e orientações",
+      "imagem": "https://s2-g1.glbimg.com/XS4SEpQ-CD3_nZozEaZ5Kt8IDlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/5/SW4H0oS3mo3A6zXyOJxw/vento1.jpg"
+    },
+    {
+      "titulo": "Pedestre morre atropelado e sete veículos batem no Rodoanel Mário Covas",
+      "imagem": "https://s2-g1.glbimg.com/l0r7sVQUzcGhOirhSoxPbBP-2Yw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/F/JXBxHzSHuiQF15TlGRzQ/acidente-1-.jpg"
+    },
+    {
+      "titulo": "Pastor Isamar declara mais de R$ 1,1 milhão em bens na disputa ao Senado por Roraima",
+      "imagem": "https://s2-g1.glbimg.com/042OexM_llA0bgQUapRJuu0sbYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/Y/L9X7tAQAWUvo7uAapQCg/pastor-isamar-ramalho.jpg"
+    },
+    {
+      "titulo": "Acidente entre carro e moto deixa homem ferido na BR-393, em Barra Mansa",
+      "imagem": "https://s2-g1.glbimg.com/xWoG7HAXdQ5p-lgBEFHw8n9NMM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/0/S/er2Eg0R1A2bFz8xTPYBQ/whatsapp-image-2021-12-06-at-10.37.31.jpeg"
+    },
+    {
+      "titulo": "Com novos jardins e moinho gigante, Expoflora anuncia novidades para 43ª edição em Holambra",
+      "imagem": "https://s2-g1.glbimg.com/rMOVjj8I0iSeiIvfQHOiA3cW1k4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/o/YXmdZVTCWxUvKjeqSB0Q/pinceis.jpg"
+    },
+    {
+      "titulo": "Suspeito de fazer live com imagens de abuso sexual infantojuvenil é preso em Guanhães",
+      "imagem": "https://s2-g1.glbimg.com/S31jSixPg_N6QMEzs8FxT-ZTqmo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/4/uPN9E7RRAoQj9ekilcVw/full-shot-anxious-woman-holding-laptop2.jpg"
+    },
+    {
+      "titulo": "Uma nova secretaria pode facilitar a instalação de indústrias em Manaus?",
+      "imagem": "https://s2-g1.glbimg.com/MgXMXtbW2Lb_IJvMk7i6Rm2jWAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/Z/j3BcwaT265r9bPYHi7JQ/polo-industrial-de-manaus-1200.jpg"
+    },
+    {
+      "titulo": "Incêndio atinge área rural de Jardinópolis, SP",
+      "imagem": "https://s2-g1.glbimg.com/vKhzDSl_YlwHaz7BtyKFdSAHuFY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/I/sfDACTS1KBG9IiH4EWOA/jvlogs.png"
+    },
+    {
+      "titulo": "Terremoto no Peru é sentido no Acre; é o segundo tremor percebido no estado em menos de um mês",
       "imagem": "https://s2-g1.glbimg.com/GGRxGcZousEwj0ciWuRke5VHvB0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/F/T0E4ZhSAAgb2BfRDILhA/midia-de-distribuicao-g1.png"
     },
     {
@@ -26,7 +90,7 @@
     },
     {
       "titulo": "Mulher de 38 anos que fingiu ter 12 é condenada por estelionato e falsa identidade",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/Uiaql1kvvei9mUrKDDIdVF7-Who=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/2/BQ1eCuTAaCArNcrCMkxw/captura-de-tela-2026-06-05-075147.png"
     },
     {
       "titulo": "MP pede bloqueio de R$ 128 mil de médico suspeito de cobrar por cirurgias gratuitas pelo SUS em Piraju",
@@ -49,77 +113,13 @@
       "imagem": "https://s2-g1.glbimg.com/jxJ0ErVhyEEkBuxcucOAPPx4zC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/v54C5zSKyJABDLFhjj4g/corpo-do-texto-informe-01.jpg"
     },
     {
-      "titulo": "Polícia prende suspeito que fingia ser entregador para roubar celulares  no Engenho de Dentro",
+      "titulo": "Polícia prende homem por fingir ser entregador para roubar celulares  no Engenho de Dentro",
       "imagem": null
     },
     {
       "titulo": "VÍDEO mostra terremoto de magnitude 6.7 no norte do Peru",
-      "imagem": null
-    },
-    {
-      "titulo": "Peru registra terremoto dias após simular abalo de 8,8; país prevê grande tremor no futuro",
-      "imagem": "https://s2-g1.glbimg.com/L5Agfn55X9MPqqVOlI0w34N4_JY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/M/jp7w8SQuqU8ZB6hSawbg/captura-de-tela-2026-08-20-162412.png"
-    },
-    {
-      "titulo": "B•Kids lança franquia de imersão em inglês infantil no contraturno escolar",
-      "imagem": "https://s2-g1.glbimg.com/7k1xViFsrJpSoDGA0MYHn84_xp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/5/ahT4IuTcyD2MaG8yBbnQ/foto-de-capa-bkids.jpeg"
-    },
-    {
-      "titulo": "MP pede cobrança de R$ 443 mil da Prefeitura de Presidente Prudente por falhas na gestão de resíduos",
-      "imagem": "https://s2-g1.glbimg.com/IDSAxW55ubv2Ns2EX5v-sFV8ckY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/B/jNA0GwQIuBnG7xUaLDPA/bau-img-lixo-pp-200826.transfer-frame-0.jpeg"
-    },
-    {
-      "titulo": "Operação prende três pessoas e cumpre 13 mandados contra suspeitos de homicídio e tráfico de drogas na PB",
-      "imagem": "https://s2-g1.glbimg.com/wwPujtZKWweI1-W1PSBBwOYpeD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/X/ERMSuPQs6NrK17gzBG5Q/img-8621.jpg"
-    },
-    {
-      "titulo": "Oficina gratuita oferece formação audiovisual para comunicadores indígenas no Acre",
-      "imagem": "https://s2-g1.glbimg.com/2X9IkhOsEalBgHI49ELDIrgkkak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/x/vVOSSKRoq7JbOm8ZaSgQ/midia-de-distribuicao-g1-2026-08-20t124903.078.png"
-    },
-    {
-      "titulo": "Jon Vlogs dá spoilers de vila no camping de Barretos com piscina e vizinhos como Ana Castela",
-      "imagem": "https://s2-g1.glbimg.com/ESqrgJfxA2T0ZleRXMD8gYAedHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/K/gVYJWoS0WmuACBOJNhUA/3.png"
-    },
-    {
-      "titulo": "Investigado por planejar matar servidora após reprovar em concurso de SC é alvo de operação em GO",
-      "imagem": "https://s2-g1.glbimg.com/ydtgw4iynU4HRIfJLoC0d3VnujM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/n/2o5x5VQAmwyuRJBwz7gQ/55476636900-6e42b08329-h.jpg"
-    },
-    {
-      "titulo": "Carreta carregada de detergente tomba e interdita Fernão Dias no sentido BH",
-      "imagem": "https://s2-g1.glbimg.com/vIbRpQ-WUo3LfDeeSRp-oIju5PY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/h/Ia2y1JQoCL42QlVdjr1Q/carreta-tomba-fernao-dias.png"
-    },
-    {
-      "titulo": "Cachorro é 'esquecido' em farmácia e faz bagunça na madrugada, e vídeo diverte a web: ‘Esperando para contar que as fraldas atacaram ele’",
-      "imagem": "https://s2-g1.glbimg.com/B1PFlBiTACwewy5y4CF68YjYIFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/7/X5J8NIQK28QKnml8KrtA/whatsapp-image-2026-08-20-at-16.11.29.jpeg"
-    },
-    {
-      "titulo": "Homem é preso suspeito de envolvimento em tentativa de homicídio de ex-diretor de presídio na BA",
-      "imagem": "https://s2-g1.glbimg.com/XeUDDAM8R1HLfXl7kBUY7lV2Wmo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/N/uSl7HiSKWVBRgCi0A9xQ/suspeito-envolvimento-tentativa-homicidio-ex-diretor.jpg"
-    },
-    {
-      "titulo": "Preso por extorsão é autuado novamente após polícia encontrar drogas em sua residência em Valença",
-      "imagem": "https://s2-g1.glbimg.com/3JYoFbCFQ5c0ICTg65L7evKP3s4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/L/deSgyJRvAzU51fQm0ADg/whatsapp-image-2026-08-20-at-15.04.28.jpeg"
-    },
-    {
-      "titulo": "Agricultor agride garota de programa por não receber atenção em bar de Rorainópolis",
-      "imagem": "https://s2-g1.glbimg.com/qZfTmH2c7K0MqW1kkzDyiXNLf9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/D/1CP9IvSGmCFoPZAAvOIQ/policiacivilrorainopolis.jpeg"
-    },
-    {
-      "titulo": "Em sabatina, Tarcísio diz que pretende retirar Linha 17-Ouro da Motiva e manter operação sob controle do Metrô",
-      "imagem": "https://s2-g1.glbimg.com/JViT091CjSkBTJeiGktOkEwi7Og=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/R/kidr1PTZAbGWIi2wdjbA/whatsapp-image-2026-08-20-at-11.09.20.jpeg"
-    },
-    {
-      "titulo": "Raquel Lyra não declara apoio para presidente, mas diz ser grata ao presidente Lula por parcerias",
-      "imagem": "https://s2-g1.glbimg.com/z-C-ty7_BVRkk1kkuYnWA2ITOQU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/N/tstX6MR7O9WiC6AkErMw/captura-de-tela-2026-08-20-133229.png"
-    },
-    {
-      "titulo": "Agrodefesa encontra bois mortos e desnutridos abandonados em fazenda de Goiás",
-      "imagem": "https://s2-g1.glbimg.com/q8mgBq0C_oka3awnrQmytSpYceA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/v/G1mJKYToat6SOlWfmeBg/g1-2026-08-20t154900.632.jpg"
-    },
-    {
-      "titulo": "Prisão de técnica de enfermagem suspeita de desviar remédios em Sergipe é convertida em preventiva",
-      "imagem": "https://s2-g1.glbimg.com/psIAUvDPFMdSPF9YyoC3eq1JW78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/b/uwGE3GQ9eTVSHpyn16Xw/imagem-g1-42-.jpg"
+      "imagem": "https://s2-g1.glbimg.com/FM2BRLXSX0tchMbhJwYVfnYERgg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/0/t7rdnoTzuhBd3kelAj7g/terremoto-peru.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-20T19:44:40.487Z"
+  "atualizadoEm": "2026-08-20T20:03:59.929Z"
 }
