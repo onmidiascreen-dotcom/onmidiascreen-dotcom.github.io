@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Ciclone extratropical deve derrubar as temperaturas em São Paulo a partir de sexta (21)",
+      "imagem": null
+    },
+    {
+      "titulo": "O que é o 'cofre secreto' do centrão com a verba bilionária do 5G | Podcast UOL Prime #136",
+      "imagem": null
+    },
+    {
       "titulo": "Grande volume de lixo flutuando no rio Pinheiros chama atenção após forte chuva em SP",
       "imagem": null
     },
@@ -41,7 +49,7 @@
       "imagem": null
     },
     {
-      "titulo": "Vítimas de acidente que matou 23 na BR-373, no PR, terão velório coletivo",
+      "titulo": "Vítimas de acidente que matou 23 na BR-373, no PR, têm velório coletivo",
       "imagem": null
     },
     {
@@ -51,15 +59,7 @@
     {
       "titulo": "Piloto morre após avião bater em helicóptero da polícia durante voo nos EUA",
       "imagem": null
-    },
-    {
-      "titulo": "Selton Mello se emociona ao receber prêmio no Festival de Gramado",
-      "imagem": null
-    },
-    {
-      "titulo": "Elenco de 'Emergência 53' celebra estreia da série em festa em São Paulo",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T07:27:30.668Z"
+  "atualizadoEm": "2026-08-20T08:05:47.146Z"
 }
