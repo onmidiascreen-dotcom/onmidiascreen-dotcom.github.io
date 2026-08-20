@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Ex-número 1 do mundo alfineta Kyrgios após suspensão por cocaína",
+      "imagem": null
+    },
+    {
       "titulo": "Israel avança com plano que pode impossibilitar solução de dois Estados",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Proliferação de satélites deixa astrônomos loucos com erros em observações",
       "imagem": null
-    },
-    {
-      "titulo": "Tiago Leifert: &#8220;Quase chorei&#8221; com fala de Pedrinho do Cruzeiro",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T21:52:27.611Z"
+  "atualizadoEm": "2026-08-20T22:22:19.170Z"
 }
