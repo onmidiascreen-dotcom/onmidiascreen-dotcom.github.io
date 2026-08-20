@@ -1,11 +1,91 @@
 {
   "noticias": [
     {
+      "titulo": "Candidaturas femininas seguem abaixo de 35%, aponta especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "Cantinho de boas energias em casa? Saiba como montar o seu",
+      "imagem": null
+    },
+    {
+      "titulo": "Astro mirim do hit &#8220;Baby Shark&#8221; estreia como idol de k-pop",
+      "imagem": null
+    },
+    {
+      "titulo": "Bessent: Decisão de aumentar recompra de Treasuries não tem relação com Fed",
+      "imagem": null
+    },
+    {
+      "titulo": "Internacional anuncia contratação do atacante paraguaio Antonio Sanabria",
+      "imagem": null
+    },
+    {
+      "titulo": "Mourinho elogia Barcelona, mas afirma: &#8220;Não gostaria de ter Lamine Yamal&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Bolsas da Europa fecham mistas de olho em juros e tensão no Oriente Médio",
+      "imagem": null
+    },
+    {
+      "titulo": "Quem são os candidatos a governador do Acre em 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "José Loreto aparece com sensor para controlar diabetes em &#8220;Quem Ama Cuida&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Michelle será &#8220;importantíssima&#8221; na campanha de Flávio, diz Valdemar à CNN",
+      "imagem": null
+    },
+    {
+      "titulo": "Quem são os candidatos a governador de Pernambuco em 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "SP: Operação em Paraisópolis tem trocas de tiros e morte de suspeito",
+      "imagem": null
+    },
+    {
+      "titulo": "Secretário do Tesouro dos EUA diz que recompras de títulos podem aumentar",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasileiros marcam presença e mudam o patamar da Premier League; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Mariana e mais 18 municípios aderem ao acordo de reparação do Rio Doce",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Sintonia da Baixada&#8221;: entenda como funciona o núcleo do PCC no litoral",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Memphis precisa ganhar títulos no Corinthians para &#8220;se pagar&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Onda de calor na França força PSG a mudar local de estreia na Ligue 1",
+      "imagem": null
+    },
+    {
+      "titulo": "Messi faz gol e homenageia pai morto pela primeira vez; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Candidato a deputado preso em SP foi condenado por tentativa de homicídio",
+      "imagem": null
+    },
+    {
       "titulo": "Passagens aéreas ficam 5,2% mais baratas em julho",
       "imagem": null
     },
     {
-      "titulo": "Câmeras registraram linchamento de ciclista confundido com ladrão no Rio",
+      "titulo": "Câmeras registraram linchamento de ciclista; segurança se entrega à Polícia",
       "imagem": null
     },
     {
@@ -39,87 +119,7 @@
     {
       "titulo": "Taiwan propõe aumentar gastos com defesa em 2027 para recorde histórico",
       "imagem": null
-    },
-    {
-      "titulo": "Morre Antônio Calixto, cover de Junior em documentário de Sandy e Junior",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula ficou decepcionado com Marcola por compra de joias, dizem fontes",
-      "imagem": null
-    },
-    {
-      "titulo": "Que países são os parceiros comerciais do Irã ameaçados por Trump?",
-      "imagem": null
-    },
-    {
-      "titulo": "CNN entrevista Ricardo Cappelli, candidato ao governo do DF; assista",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem é o fundador da Evergrande condenado à prisão perpétua na China",
-      "imagem": null
-    },
-    {
-      "titulo": "China registra crescimento de 22% nas importações de mais de 150 parceiros",
-      "imagem": null
-    },
-    {
-      "titulo": "Na era dos minerais críticos, o maior risco está na jurisdição",
-      "imagem": null
-    },
-    {
-      "titulo": "Conheça o clube da 3ª divisão que contratou Ronaldinho Gaúcho",
-      "imagem": null
-    },
-    {
-      "titulo": "Czarnikow elevará projeção de produção de açúcar do centro-sul",
-      "imagem": null
-    },
-    {
-      "titulo": "Palmeiras define postura sobre Allan, alvo do Manchester City",
-      "imagem": null
-    },
-    {
-      "titulo": "Dívida pública recorde nas américas impacta financiamentos, avalia BIS",
-      "imagem": null
-    },
-    {
-      "titulo": "Ronaldinho retorna ao futebol profissional em time da 3ª divisão da Itália",
-      "imagem": null
-    },
-    {
-      "titulo": "Enel SP pede à Aneel arquivamento de processo de caducidade",
-      "imagem": null
-    },
-    {
-      "titulo": "Ao menos 34 alunos passam mal na Índia após comerem merenda escolar",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávio inclui Marçal em aliança contra PT: “Um cara preparado”",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: Trump prometeu esmagar a economia do Irã. O que ele pode fazer?",
-      "imagem": null
-    },
-    {
-      "titulo": "Apostadores nos EUA tiveram acesso a informações do Exército, diz estudo",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Monstro: A História de Lizzie Borden&#8221;: série de Ryan Murphy lança trailer",
-      "imagem": null
-    },
-    {
-      "titulo": "Cofco confirma seu primeiro embarque de sorgo do Brasil para a China",
-      "imagem": null
-    },
-    {
-      "titulo": "Caiado diz que terá &#8220;mão pesada&#8221; contra bets se for eleito",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T17:05:16.603Z"
+  "atualizadoEm": "2026-08-20T17:44:27.880Z"
 }

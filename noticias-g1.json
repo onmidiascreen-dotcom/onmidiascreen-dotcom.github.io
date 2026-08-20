@@ -1,6 +1,110 @@
 {
   "noticias": [
     {
+      "titulo": "Bancários das regiões de Sorocaba e Itapetininga aderem à paralisação nacional por reajuste salarial",
+      "imagem": "https://s2-g1.glbimg.com/1gu9owYV02By63b4V0vb1nlnz_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/0/Y5Mp0mQx6rWv5hX8w7Fw/captura-de-tela-2026-08-20-125251-3-.jpg"
+    },
+    {
+      "titulo": "Move Brasil: após baixa procura, governo aumenta limite de crédito para motoristas de app comprarem carros",
+      "imagem": "https://s2-g1.glbimg.com/cWvLW76Nbu5o16hVyvvIJjs96r0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/K/1vPf60QuyJyX3BgeklFg/taxistas.jpeg"
+    },
+    {
+      "titulo": "Eleições no DF: Rico Pinheiro declara R$ 4,3 milhões em bens; vice informa R$ 500 mil",
+      "imagem": "https://s2-g1.glbimg.com/p8CPrP4PpkccEkp4zBfvSjN28T8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/P/Vc3CIERBuT4EUdCJaguA/imagem-g1-10-.png"
+    },
+    {
+      "titulo": "República Centro-Africana fecha mina clandestina após desabamento que deixou dezenas de mortos",
+      "imagem": "https://s2-g1.glbimg.com/Svz0ScC3JFdyOgI8cR3egDpBNG0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/4/2ts8cHQAOiQsGOCuiy0g/design-sem-nome-74-.jpg"
+    },
+    {
+      "titulo": "Caso Samylle: rede de proteção acompanhava família de menina de 4 anos morta pelo tio desde 2025",
+      "imagem": "https://s2-g1.glbimg.com/JIhPnzJOdBnyzY2loY8KPhGV9bo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/U/JBPrZMT2Sg67HVBxyyzQ/documento.png"
+    },
+    {
+      "titulo": "Câmara de Curitiba aprova cassação do mandato de Lórens Nogueira, investigado por rachadinha",
+      "imagem": "https://s2-g1.glbimg.com/Y6_ngttA7c91SBEkDVoNX3YEK5Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/y/zY0J6pSSyNh1VcS9xiAw/vereador3432-1-.png"
+    },
+    {
+      "titulo": "Homem morre e esposa fica ferida após moto sair da pista e cair em ribanceira na BR-232, em Caruaru",
+      "imagem": "https://s2-g1.glbimg.com/7Mu6yjyfAJjhAjnkt0wP4Ke6MJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/p/oYG76HSPABKWCo99hAhA/whatsapp-image-2026-08-19-at-17.15.38-2-.jpeg"
+    },
+    {
+      "titulo": "Força do vento impede mulher de abrir porta de casa em Fortaleza; vídeo",
+      "imagem": "https://s2-g1.glbimg.com/vUzBFIFdBRr-zyhm-Wv6-yMgbbo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/j/9t2l8wTTKVUd8tSKDRGw/forca-vento-fortaleza.jpg"
+    },
+    {
+      "titulo": "VÍDEO: mulher ateia fogo em equipamentos e parte para cima de funcionárias em loja de telefonia em MG",
+      "imagem": "https://s2-g1.glbimg.com/yLXjdlwYqQee_QwCgcYzv4zofXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/B/WlAI8DRiO20F5YMoMXTA/vivolambari.jpg"
+    },
+    {
+      "titulo": "Banco fechado por greve? Veja se precisa pagar contas e como ficam saques e depósitos",
+      "imagem": "https://s2-g1.glbimg.com/QFiMUzTY3aorj3zgj9qWG59kt-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/I/HZDViZTyiYTFI0AiQOiQ/whatsapp-image-2026-08-20-at-12.38.49-1-.jpeg"
+    },
+    {
+      "titulo": "Clínica onde empresário morreu durante procedimento estético afirma que adotou condutas médicas cabíveis",
+      "imagem": "https://s2-g1.glbimg.com/T1b1Qv8jQGz1_NSOW-IzrCAGYwI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/v/rd38lSTXuelmpLtGdrfw/empresario-morre-lifting-procedimento-estetico-3.jpg"
+    },
+    {
+      "titulo": "Paraná tem queda de temperatura e mínima invertida após período de veranico",
+      "imagem": "https://s2-g1.glbimg.com/JIOeYxL1a-tFuwvNtcWtcxhcHRY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/Z/8FwqWbRH6nYP0Z3qgunQ/frio-parana.jpg"
+    },
+    {
+      "titulo": "Oficial de Justiça é encontrado morto dentro de casa em Itaituba",
+      "imagem": null
+    },
+    {
+      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de quinta-feira, 20 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/lxYRnO8-meRSiZ_LS5oY4vfi3Fk=/s01.video.glbimg.com/deo/vi/91/64/14886491"
+    },
+    {
+      "titulo": "Mulher é presa suspeita de matar sogra envenenada no MA; vítima ia receber R$ 50 mil de consórcio",
+      "imagem": "https://s2-g1.glbimg.com/d8WTq10HKcgFEi1_TH10KMyaO88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/w/3mm58MTemtp3ZBPqA7Hg/whatsapp-image-2026-08-20-at-14.17.06.jpeg"
+    },
+    {
+      "titulo": "Policial improvisa ‘boca-bico’ e salva passarinho que estava sem respirar em MS; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/lki-bh_oIxKmFwL9mbFdDI78G_Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Q/kqBqzeSjAjMJahpRfX2A/formato-g1-41-.png"
+    },
+    {
+      "titulo": "'Pai e trabalhador': saiba quem era o homem que morreu após ser baleado por PM durante abordagem em São José dos Campos",
+      "imagem": "https://s2-g1.glbimg.com/5tUYwgC9jEbQGph4B9yWbE3OV7I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/d/AsxFonQRCsBt0xQSDA4A/foto-g1-1-.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Almoço Florianópolis de quinta-feira, 20 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/rJK7sKPqJeL1kMNoFOwtbmJ5Wl4=/s01.video.glbimg.com/deo/vi/30/59/14885930"
+    },
+    {
+      "titulo": "Casa de Alto Padrão com Vista para Lago e SPA Exclusivo",
+      "imagem": "https://s2-g1.glbimg.com/dtdsvXS04y50hgw1qF-vtPTR_Uo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/N/QzZcu7QwAZMGa8lB3VVQ/materias-1400x768.png"
+    },
+    {
+      "titulo": "Operação mira esquema de fraudes em licitações em MT",
+      "imagem": "https://s2-g1.glbimg.com/tYCiGQ0sIg6JlIEbGJibhrVYz9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/R/lh3X5TS5WAsHAYyiB9ww/videos-g1-31-1-.jpg"
+    },
+    {
+      "titulo": "Moto Chefe inaugura unidade em Jacareí e amplia mobilidade elétrica",
+      "imagem": "https://s2-g1.glbimg.com/8tG803cTnoIqF3tNX150bqUyfbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/r/lM5pzlRBKQUtBm3Bq1kQ/imagem1.png"
+    },
+    {
+      "titulo": "Homem sentado em calçada escapa por segundo de ser atropelado por ônibus escolar desgovernado; vídeo",
+      "imagem": "https://s2-g1.glbimg.com/BHjeZ4eZCGqGlCmsAoQudybeV5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/W/tBHUw8RqACrahuVBQnFg/acidente-bus.jpg"
+    },
+    {
+      "titulo": "Criança de 6 anos morre atropelada por ônibus do Transcol em Cariacica após motorista mudar a rota",
+      "imagem": "https://s2-g1.glbimg.com/IUFN9Evlvfcyqt15Hnpy39jMTvk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/d/ePT5avQdewGGtUpyBgjQ/thumb-videos-g1-27-.jpg"
+    },
+    {
+      "titulo": "Mata fechada, animais silvestres e rios: saiba como é área onde quatro desapareceram no Amapá",
+      "imagem": "https://s2-g1.glbimg.com/16aGhx0-rElsi3rp_VwrxAqPdIs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/B/4/Mgwqp6QX2Y08pP5hRzcA/2024-08-17-14-53-02-362.png"
+    },
+    {
+      "titulo": "Motociclista bate em caçamba durante perseguição policial e morre no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/itnCZk3XR1gC3L8UHkqjmYnD00c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/1/NWoRAQRLeqG6XoONxE0w/dig-cat.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: NE1 de quinta-feira, 20 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/zEUmUvXUBGh8iWwiY3K9NIXNDc8=/s01.video.glbimg.com/deo/vi/42/60/14886042"
+    },
+    {
       "titulo": "Mulher é feita refém em carro por criminosos e obrigada a fazer transferências por PIX em Natal",
       "imagem": "https://s2-g1.glbimg.com/ZrB8F_JzEDUzeKDoLvjlmgy6CCY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/z/TIhTBMRK2FMNN0KTfBjQ/crime-.jpg"
     },
@@ -15,111 +119,7 @@
     {
       "titulo": "Homem é preso suspeito de roubar mais de R$ 11 mil e agredir vítima em Araioses",
       "imagem": "https://s2-g1.glbimg.com/70_l78deZv6leOO-j-HFNvsNHd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/s/SR0jkQT8WJune2kV376w/montagens-1920-x-1080-px-74-.png"
-    },
-    {
-      "titulo": "Veja plano de governo de Luciana Amorim (UP), candidata ao governo de Goiás",
-      "imagem": "https://s2-g1.glbimg.com/VIgkmIQR9X6ol8FTBGXcUiHbwSY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/7/9hBAtISLaF8wbHAd7NUQ/imagens-g1-18-.png"
-    },
-    {
-      "titulo": "Hot Chip anuncia show em São Paulo em novembro",
-      "imagem": "https://s2-g1.glbimg.com/8bx5bo1bF1Glk1mrNyXuKuoKY9A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/j/eBIaRKQAA7MjC9XHvB9g/hotchip.webp"
-    },
-    {
-      "titulo": "AO VIVO: Assista ao JAC1 com Quésia Melo",
-      "imagem": "https://s2-g1.glbimg.com/jQxjC0QIqgQXP3244MLgvTyf4EU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/e/i5KREyTlypQ3zLfSqeLw/whatsapp-image-2026-03-11-at-11.24.06.jpeg"
-    },
-    {
-      "titulo": "TV Anhanguera define regras para cobertura dos candidatos ao governo do TO e ao Senado",
-      "imagem": "https://s2-g1.glbimg.com/4khP0dxDcieZa3V_-HRzG8wlDWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/U/NjyfJMTamxfmgwkDxcMw/foto-e-montagem-vertical-73-.jpg"
-    },
-    {
-      "titulo": "Defesa Civil alerta para risco de incêndios em vegetação antes da chegada de frente fria ao interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/7Mmc3sRh9gpH-mvFgDSJbLeUBEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/9/aqRBRpQfAfACgLigAt8Q/prudente-4-.png"
-    },
-    {
-      "titulo": "Prazo para pedir voto em trânsito termina nesta quinta, 20; veja como funciona no Pará",
-      "imagem": "https://s2-g1.glbimg.com/-lY2gaMjS4M1cyDWQvIyxg7Yo4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/6afOSPQVOhvRV5FtY8Rg/urna.jpeg"
-    },
-    {
-      "titulo": "Menina de 10 anos morta após deslizamento em SC terá órgãos doados; mãe também morreu",
-      "imagem": "https://s2-g1.glbimg.com/HIZJ0TXeNSaxzWaGjPDi2KOsAhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/KmbEpNSC2xQDu9fv8xvg/deslizamento-de-terra-atinge-casa-em-santo-amaro-da-imperatriz.jpg"
-    },
-    {
-      "titulo": "Experiências devem surpreender o público do Barretão 2026",
-      "imagem": "https://s2-g1.glbimg.com/YYyrY-WlGawBLI3pXmxPebZgQ3o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/3/TpXc3HT66rvGwnGmRZAA/imagem-1-.png"
-    },
-    {
-      "titulo": "Seu espaço está realmente seguro?",
-      "imagem": "https://s2-g1.glbimg.com/2GIkKDgdwaXyKgXFd5yRW1uenkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/k/exZxowRCOfEHGdWxtGBQ/imagem-1.png"
-    },
-    {
-      "titulo": "Acidente com 23 mortos no PR: gripe de criança fez família que esperava viagem há 3 anos desistir e escapar de tragédia no dia do aniversário do filho",
-      "imagem": "https://s2-g1.glbimg.com/qTdXQ_x1ypQZyp2Ki6GYuIYad2A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/m/gFZ1nVTtmUsnyWQHHLxw/g1-31-.png"
-    },
-    {
-      "titulo": "Greve dos bancários fecha agências na região de Araraquara e São Carlos; entenda as reivindicações",
-      "imagem": "https://s2-g1.glbimg.com/QFiMUzTY3aorj3zgj9qWG59kt-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/I/HZDViZTyiYTFI0AiQOiQ/whatsapp-image-2026-08-20-at-12.38.49-1-.jpeg"
-    },
-    {
-      "titulo": "Acúmulo de função, dano e assédio moral: Campinas soma mais de 7 mil processos em 7 meses",
-      "imagem": "https://s2-g1.glbimg.com/uHzk3ql0ZnSn3ZoVGjy52vA55vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/8/wBbcceQxeFuwzDWnf80w/1.png"
-    },
-    {
-      "titulo": "Justiça manda retirar tornozeleira de 'Japa do PCC' após PF cancelar passaporte",
-      "imagem": "https://s2-g1.glbimg.com/ckYREljiY-FsrbOkqbzHvexgBR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/m/sSvyYeRCmkJRCTGMjVyA/homem-e-resgatado-apos-ser-levado-por-corrente-de-retorno-84-.jpg"
-    },
-    {
-      "titulo": "Jovem de 19 anos foi assassinada em rua de Palmas após comprar celular furtado, diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/TWD3KQ821eQPJaoQtEaGGoNS9VA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/5/rxnCIeRDKAUILRuOh49A/5247865.jpeg"
-    },
-    {
-      "titulo": "Bancários fazem paralisação nesta quinta (20) por reajuste e manutenção de direitos em MT",
-      "imagem": "https://s2-g1.glbimg.com/IbewqoJmlCsqJXBADJZfC-kCuoY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/x/dvr89xQ1mK80EhFAbYzg/videos-g1-30-.jpg"
-    },
-    {
-      "titulo": "Bancários de Piracicaba e região aderem à movimento nacional e paralisam atendimento em agências; entenda",
-      "imagem": "https://s2-g1.glbimg.com/EZ_qXw2hEg-7Z-StG5NAq5LXBao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/U/NvbdqbSHCzpGnAJnv2yw/whatsapp-image-2026-08-20-at-13.00.25.jpeg"
-    },
-    {
-      "titulo": "Frentista de MG é atingido por linha com cerol na BR-259 no ES e leva pontos no pescoço: 'Mais um pouco seria fatal'",
-      "imagem": "https://s2-g1.glbimg.com/Bri2YaChHAA5DB27Y26ofRL1H5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/K/sjLPRxSXAbg8cfnHA9ww/thumb-fotos-2026-08-20t131319.814.jpg"
-    },
-    {
-      "titulo": "Justiça determina que Suel, réu no caso Marielle, permaneça mais um ano em presídio de segurança máxima",
-      "imagem": "https://s2-g1.glbimg.com/4COPGQE2WTuUjcv5jPd4Zd_8w4U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/d/4/DhC7WuTACdUzaXi0WCrg/maxwell-correa-o-suel.jpg"
-    },
-    {
-      "titulo": "MP pede que Justiça barre candidatura de deputada que tenta 8º mandato por condenação no Escândalo dos Gafanhotos",
-      "imagem": "https://s2-g1.glbimg.com/ST_IUpQzwUO0oTtT8sDEP3QquzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/0/IfPy9uTCyiVBORAvyL1A/05.08.2025-sessao-ordinaria-tribuna-aurelina-medeiros-foto-jader-souza2.jpg"
-    },
-    {
-      "titulo": "Bolshoi realiza audições no Complexo do Alemão e busca novos talentos da dança em projetos sociais do RJ",
-      "imagem": "https://s2-g1.glbimg.com/mqJHSWti4vsrCcOUDy_KhK1Vwiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/U/KKwPnyRFGVPUqX1rZybg/rj1-bolshoi1.jpeg"
-    },
-    {
-      "titulo": "Operação 'Ponto Crítico' prende seis pessoas no oeste do Pará",
-      "imagem": "https://s2-g1.glbimg.com/gpYLc_39p9SnMk8x3U7dqtKd3DI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/0/4SaYPQTQqtAcTNRElgAQ/whatsapp-image-2026-08-20-at-12.21.30.jpeg"
-    },
-    {
-      "titulo": "Dezenas de celulares e remédios para emagrecimento são apreendidos no centro de BH",
-      "imagem": "https://s2-g1.glbimg.com/ufWDQJNMJqbB6UAf75NiJolaFyk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/a/0B3tEbRriX8hN82iWzgQ/galpao-contrabando-3.png"
-    },
-    {
-      "titulo": "Cursos com 1,7 mil vagas gratuitas para formação em tecnologia no Ceará têm inscrições até sábado (22)",
-      "imagem": "https://s2-g1.glbimg.com/Y7YykSxYgLycmOHQnk_TT5SE86Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/h/EwSKUHTIeFApRyniPABQ/projeto-geracao-tech.jpeg"
-    },
-    {
-      "titulo": "Jovem é preso em Teresina suspeito de estuprar prima de 13 anos",
-      "imagem": "https://s2-g1.glbimg.com/ikTSfUOlhXsTdm_NpfqM3qQM-wA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/X/wFpl6dQiO8S73eIpkL0Q/whatsapp-image-2026-06-30-at-10.13.51.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição desta quinta-feira, 20 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/7207btvJbyxGuTH3XSiyuupuHBo=/s01.video.glbimg.com/deo/vi/78/60/14886078"
-    },
-    {
-      "titulo": "VÍDEOS: Bom Dia Rio de quinta, 20 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/EVtj0_mdhmr-EksKj6bnbfvu324=/s01.video.glbimg.com/deo/vi/08/55/14885508"
     }
   ],
-  "atualizadoEm": "2026-08-20T17:05:17.442Z"
+  "atualizadoEm": "2026-08-20T17:44:28.543Z"
 }
