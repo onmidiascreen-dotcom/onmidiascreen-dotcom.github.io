@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Mega-Sena: quanto rendem R$ 50 milhões na poupança, Tesouro Direto ou CDB",
+      "imagem": null
+    },
+    {
+      "titulo": "6 a cada 10 alunos terminam ensino médio com aprendizado abaixo do esperado",
+      "imagem": null
+    },
+    {
       "titulo": "Com Memphis, Corinthians busca avançar às quartas de final da Libertadores",
       "imagem": null
     },
@@ -25,7 +33,7 @@
       "imagem": null
     },
     {
-      "titulo": "Verstappen renova com a Red Bull até 2030 e encerra impasse",
+      "titulo": "Fórmula 1: Verstappen renova com a Red Bull até 2030 e encerra impasse",
       "imagem": null
     },
     {
@@ -111,15 +119,7 @@
     {
       "titulo": "Paralisação de 24 horas dos bancários começa nesta quinta-feira",
       "imagem": null
-    },
-    {
-      "titulo": "Abel faz forte desabafo após vitória do Palmeiras: &#8220;Futebol está doente&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Terremoto de magnitude 5,9 atinge ilha na Indonésia",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T08:05:47.669Z"
+  "atualizadoEm": "2026-08-20T08:55:43.337Z"
 }

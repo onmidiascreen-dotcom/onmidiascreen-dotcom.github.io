@@ -1,6 +1,102 @@
 {
   "noticias": [
     {
+      "titulo": "Por que impacto da IA em eleições pode estar sendo exagerado, segundo pesquisador de Oxford",
+      "imagem": "https://s2-g1.glbimg.com/b-dEBJiuv8NQEe0o_BPRcBS90u0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/Q/cEeuLBS3WnA9NY3DcBGQ/a4d7d851-e838-4cdf-b6b2-442b3831a8b5.png"
+    },
+    {
+      "titulo": "Liniker, Carminho, musical 'Festa no Arraial': o que fazer no Rio",
+      "imagem": "https://s2-g1.glbimg.com/pUcGR0et0fRfjdLwi89jvN5eKGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/6/zucuhwTjOyAxSn5K5I5g/carminho2.png"
+    },
+    {
+      "titulo": "Caso Patrícia Amieiro: testemunha considerada chave pela família não poderá participar do novo Júri, decide STJ",
+      "imagem": "https://s2-g1.glbimg.com/DP29MtJ04KFn18i8JiQRj5ATbEU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/f/t/nite7OTkA6b8cdFIBsUQ/carro-patricia-.jpeg"
+    },
+    {
+      "titulo": "Eleições 2026: veja a agenda dos candidatos ao Governo do RJ na quinta-feira",
+      "imagem": "https://s2-g1.glbimg.com/jtw0PPflgAW35tJAULsxXwGsGcc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/R/LUGG5bTTSDNqcwFPN5bQ/cmf-novembro-azul-8-dest.jpg"
+    },
+    {
+      "titulo": "MPF move ação milionária por venda de corpos do Hospital Colônia de Barbacena à faculdade de medicina",
+      "imagem": "https://s2-g1.glbimg.com/SPREc1XnuHfd3Z7me2-w7DipizA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/I/pBoL0yRWAAqBn3gL3ofw/barbacena-1-.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Pai troca terno por 'camisa bonita' para levar filha ao altar em MG e emociona nas redes",
+      "imagem": "https://s2-g1.glbimg.com/-Lhe3VFi5T8iPMrR-50BR_eAf58=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/v/mBkQhMRwOge0fiJyEdUg/jl-tm-2026-08-19t135727.810.jpg"
+    },
+    {
+      "titulo": "Mulher é atropelada, fratura costela e motorista é liberado no litoral de SP; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/vBo144Z0PKIOIPNFJMm64y0xiMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/J/s2W4ZxT06OwlulugrDEA/foto-mulher-atropelada.jpg.jpeg"
+    },
+    {
+      "titulo": "Mulher que chamou guarda de ‘macaca’ é condenada no litoral de SP",
+      "imagem": "https://s2-g1.glbimg.com/ei5fJHTugft4JRBLOf-MtgoD_2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/G/bJAEqFSq2AhxvJzhCv7g/inserir-um-titulo-2026-08-19t165422.196.jpg"
+    },
+    {
+      "titulo": "Golpe do falso prêmio faz banco e plataformas pagarem indenização a cliente",
+      "imagem": "https://s2-g1.glbimg.com/zL3jd3-FcOuxce25cpUg_xUAu6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/w/ZA83YGSyycS3oAgpWa3g/pix.jpg"
+    },
+    {
+      "titulo": "Coreia do Norte lança projétil não identificado no Mar do Japão, diz imprensa sul-coreana",
+      "imagem": null
+    },
+    {
+      "titulo": "VÍDEO: entenda quem é o eleitor provável e como a pesquisa Quaest aplica o conceito de 'likely voter'",
+      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
+    },
+    {
+      "titulo": "VÍDEO: Ladrão escala prédio, invade apartamento e sai com itens enrolados em cortina em Uberlândia",
+      "imagem": "https://s2-g1.glbimg.com/-16q5nz8qVFs_fsJGRR-R_PGFKE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/E/yncSEXSaKYdxna4WJJXw/captura-de-tela-2026-08-19-134638.png"
+    },
+    {
+      "titulo": "'Nunca desisti dele', diz mulher de ex-detento que deixou família para cursar Medicina a 2 mil km de casa",
+      "imagem": "https://s2-g1.glbimg.com/V-R2Ul3znTPRbG4F53XXKBRUB04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/s/VnjG3rTpSVOxJNQIdTTg/whatsapp-image-2026-08-19-at-16.53.08.jpeg"
+    },
+    {
+      "titulo": "Imagens feitas pela polícia mostram fila para curso de operação de drones dado por traficantes no Complexo da Penha",
+      "imagem": "https://s2-g1.glbimg.com/yxD4hEWRluRvy1QP8SKbY9NIX0k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Q/n7NCvCSjqRp1AigKgddA/rj2-limpo-20260819-1800-frame-71945.jpeg"
+    },
+    {
+      "titulo": "Aprendizagem avança em 20 anos, mas Brasil ainda tem cenário crítico em Matemática no ensino médio",
+      "imagem": "https://s2-g1.glbimg.com/Pa1YCWdaPit13-_uJS8WXvY-tkg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/c/8nwupgTryfPRCCyVuRAg/sala-de-aula-em-escola-municipal-de-joao-pessoa.png"
+    },
+    {
+      "titulo": "Focos de calor no Amapá sobem 400% no início da estiagem, aponta meteorologista",
+      "imagem": "https://s2-g1.glbimg.com/wFQHCsx03cNWp7KbrPOkZC6o_d8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/f/s/OBPTZ7Q7GsJuziZgad2Q/inc-pitrb.jpg"
+    },
+    {
+      "titulo": "Vídeo: ‘Barreira de jacarés’ chama atenção nas 'praias' do Rio Taquari durante a seca",
+      "imagem": "https://s2-g1.glbimg.com/1yS-f0USUSLzYftxV-9ft3fR9kM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/N/A1npVaR1akUw0HATV1Fg/muralha-de-jacares-no-pantanal.jpg"
+    },
+    {
+      "titulo": "Leilão da Casas Bahia tem notebooks, celulares e eletrodomésticos; veja como não cair em golpe",
+      "imagem": "https://s2-g1.glbimg.com/6qTxGAranInbXogDZZwh44mUOoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/y/LAKKFXRvOnX0fqoMzRMA/foto-g1-1-.jpg"
+    },
+    {
+      "titulo": "Por que grandes redes de varejo estão fechando lojas e pedindo recuperação judicial",
+      "imagem": "https://s2-g1.glbimg.com/6qTxGAranInbXogDZZwh44mUOoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/y/LAKKFXRvOnX0fqoMzRMA/foto-g1-1-.jpg"
+    },
+    {
+      "titulo": "Vídeo de cadela presa em rede no PI viraliza e acende alerta para tutores",
+      "imagem": "https://s2-g1.glbimg.com/nKrl87EeuPs7nZPFoIih8ZVPG8o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/w/ZfPpJoRR68Huu4MyyFPw/g1-bg-02-2-.png"
+    },
+    {
+      "titulo": "VÍDEO: Bispo beija crânio de santa de quase 2 mil anos durante celebração na Itália",
+      "imagem": "https://s2-g1.glbimg.com/bWVLwbOYC24aPOjQoT0RJCYbPKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/M/A4asc7SQAe1EFdOxA6Jw/753231626-1451401920346490-7421297332213184352-n.jpg"
+    },
+    {
+      "titulo": "Família recorre à Justiça após gastar R$ 21 mil com fórmula para bebê alérgico a leite de vaca no AC",
+      "imagem": "https://s2-g1.glbimg.com/cBZ-HwS6d_9K2AA9fXsDqIHNxo0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/Y/z9A6vLQamCVmcdM23HrQ/midia-de-distribuicao-g1.png"
+    },
+    {
+      "titulo": "Pai e filho encontram dente de megalodonte, tubarão gigante extinto há 3,6 milhões de anos, em praia nos EUA",
+      "imagem": "https://s2-g1.glbimg.com/1zUkWvu3zyeAbkuBuEVXHvtv4jo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/W/RJ8qeWTzil2fkJTnZ7rg/tubarao.png"
+    },
+    {
+      "titulo": "Polícia encontrou vídeos de testes de armas fabricadas em impressoras 3D em celulares de suspeitos; operação prendeu 16 no RS",
+      "imagem": "https://s2-g1.glbimg.com/gtWuwEMaKfTIthxmtxIOFnQAqVY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/t/y8mRuhSPirUXQukkyKHA/g1-48-.jpg"
+    },
+    {
       "titulo": "Pai encontra bilhetes escondidos da filha morta há 3 anos: 'Ato de bondade de Deus'",
       "imagem": "https://s2-g1.glbimg.com/HCwzmOSrptQU3NRDUeC9Sw8ekRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/n/ffo0ACQyKYGMn2TBefbg/design-sem-nome-2026-08-19t212200.151.jpg"
     },
@@ -23,103 +119,7 @@
     {
       "titulo": "'Pior ônibus do mundo': passageira viraliza com relato sobre viagem de empresa que teve linhas suspensas entre MG e SP",
       "imagem": "https://s2-g1.glbimg.com/6eQ5tS359LQoVg5GyOXQieiCJCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/k/juDPseRaA5dBMCWmLnOA/gardenia-relato2.png"
-    },
-    {
-      "titulo": "Emprego: veja as vagas disponíveis em Petrolina e Salgueiro",
-      "imagem": "https://s2-g1.glbimg.com/S_BB6BFboWsxtfpcXtMd9XK8Zbs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/p/5BX3wqTXe0o9FxOBf5gg/remedios.jpg"
-    },
-    {
-      "titulo": "O que levou jovem de 28 anos a construir 1º órgão de tubos de SC, com 700 kg e 3,5 metros de altura",
-      "imagem": "https://s2-g1.glbimg.com/vuVkCGStL8R3__imDvZeAWlC5jY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/b/XHhlrEQPyCFYB601ibjw/whatsapp-image-2026-08-18-at-13.07.19.jpeg"
-    },
-    {
-      "titulo": "Fim da era do pré-sal? Petrobras mira costa do AP para renovar estoque de petróleo após 2034",
-      "imagem": "https://s2-g1.glbimg.com/4JklKzcp59A4gGbhQsj6wFFXEeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/L/0wm9mgRsGvCKbfQRX4ag/captura-de-tela-2026-08-17-171318.png"
-    },
-    {
-      "titulo": "Bahia tem 1,2 mil pedidos de candidatura nas eleições de 2026, quase 30% a menos que em 2022",
-      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
-    },
-    {
-      "titulo": "Mãe e filho mortos após queda de passarela na Fernão Dias serão velados nesta quinta em BH",
-      "imagem": "https://s2-g1.glbimg.com/tIub7JTcRVHEvXLlF0j389dFEtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/B/K76n0CSv2LyHYX6E07NQ/foto-g1-4-.jpg"
-    },
-    {
-      "titulo": "Ministro das relações exteriores do Irã diz que 'Dia D econômico' de Trump trará 'mais derrota' aos EUA",
-      "imagem": "https://s2-g1.glbimg.com/3vDa7M5J9GDxT58tHLFLhUHSwoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/d/Np7kZcTlGXgF104gSNFQ/2026-08-14t200613z-1795537502-rc2jymam5ni2-rtrmadp-3-usa-trump.jpg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/Fgk8qzMiVB99aExwfmZv_5-B7iM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/u/kb0Dq0T0mzUPwGyQw2dA/previsao-tempo-bras-lia-20260820-030618.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol o dia todo sem nuvens no céu, com aumento de nebulosidade à noite; não chove",
-      "imagem": "https://s2-g1.glbimg.com/2juf3JAy0GrdcKArImfE2N4h-kQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/F/VQtXePQ3Whu9ORTIRENg/previsao-tempo-s-o-paulo-20260820-030601.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/so6IxvXsFvz2dnrb5KT6Byyd9vs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/n/o62xqZRdeaPrH0ph9l1A/previsao-tempo-s-o-bernardo-do-campo-20260820-030546.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Santo André (SP): muitas nuvens o dia todo, com aberturas de sol",
-      "imagem": "https://s2-g1.glbimg.com/akq4OTVlZ19_Xl8v2T95OZdMpGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/M/Fls1hCQxK88AuP9ACj1g/previsao-tempo-santo-andr-20260820-030529.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Osasco (SP): muitas nuvens o dia todo, com aberturas de sol",
-      "imagem": "https://s2-g1.glbimg.com/rINKJn-wGIi9R-R9IAd8ubRV-ZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/t/uPVEZfTmOiTbjWGoOdiw/previsao-tempo-osasco-20260820-030512.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): muitas nuvens o dia todo, com aberturas de sol",
-      "imagem": "https://s2-g1.glbimg.com/wJNEldEvGivLOpsUSlJJ50itvw4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/B/EaDMqSQl6ssTxalXCUOA/previsao-tempo-guarulhos-20260820-030453.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/4cVp0LKPhOQnu-3ZNe3Vu3IZF-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/R/5zCCkCTDA37ZpzZBpxZg/previsao-tempo-s-o-gon-alo-20260820-030434.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/vTf96ejBMR5HzR-pKWd0XLBt2wU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/O/EI7auySeGknHMoY3TBcw/previsao-tempo-rio-de-janeiro-20260820-030414.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): dia de sol, com muitas nuvens à tarde; à noite a nebulosidade diminui",
-      "imagem": "https://s2-g1.glbimg.com/ncIz7TgNw_1bt_qKOUVfL3-IXrw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/v/o1vWN5TRCVvlMIoKYlkw/previsao-tempo-nova-igua-u-20260820-030357.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/_FFy5qUpf0eZAt9_WqjFoW9Jn6M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/q/xuR4BiSXaEas2PS4SvWQ/previsao-tempo-niter-i-20260820-030341.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): dia de sol, com muitas nuvens à tarde; à noite a nebulosidade diminui",
-      "imagem": "https://s2-g1.glbimg.com/FsViRpTgU8ZpKMeUwyxNSbOcW1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/F/DkDqXJTYeJwuVqDQqCTQ/previsao-tempo-duque-de-caxias-20260820-030324.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol o dia todo sem nuvens no céu; noite de tempo aberto ainda sem nuvens",
-      "imagem": "https://s2-g1.glbimg.com/ZvzyyrHuBwCIZIGIdyaBW8PdMME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/E/65B8laQxy2VbrHIoYkjw/previsao-tempo-sete-lagoas-20260820-030307.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol o dia todo sem nuvens no céu; noite de tempo aberto ainda sem nuvens",
-      "imagem": "https://s2-g1.glbimg.com/0SALGVIDUMnxzCtqCcyH8LcA_6c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/E/gI6RL2R1ao9rf6DqFiDA/previsao-tempo-ribeir-o-das-neves-20260820-030250.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Contagem (MG): sol o dia todo sem nuvens no céu; noite de tempo aberto ainda sem nuvens",
-      "imagem": "https://s2-g1.glbimg.com/XkoWkHGTHMUEYlKRuzfK-bNFOtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/0GAsvDTaSNspLYVw5xEA/previsao-tempo-contagem-20260820-030234.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Betim (MG): tempo ensolarado, com nevoeiro ao amanhecer; noite de céu limpo",
-      "imagem": "https://s2-g1.glbimg.com/nbGKOZT77Ob_PkbrX3OXR5w3Ofc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/t/1n5qAETKSbQBoaqTXDdg/previsao-tempo-betim-20260820-030216.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): sol o dia todo sem nuvens no céu; noite de tempo aberto ainda sem nuvens",
-      "imagem": "https://s2-g1.glbimg.com/ohAQA8uG4ctxxqJQFRqitBfNxv4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/n/sM5zxsQ3mWpBcJK8NE6Q/previsao-tempo-belo-horizonte-20260820-030159.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/kjcIsFtmB7SPeiy6a3vsvNN0Xw4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/5/jolcy2SmiV5uwQukRr9g/previsao-tempo-recife-20260820-030134.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Paulista (PE): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/snypcMSbW-1CAGW4X-vRKUxAUTQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/B/5oowxlSOOXuUNJe4Z25A/previsao-tempo-paulista-20260820-030115.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-20T08:05:49.076Z"
+  "atualizadoEm": "2026-08-20T08:55:43.967Z"
 }
