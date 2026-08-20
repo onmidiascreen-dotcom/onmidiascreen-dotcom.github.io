@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Ataque russo em grande escala deixa ao menos oito mortos em Kiev",
+      "imagem": null
+    },
+    {
       "titulo": "Paralisação de 24 horas dos bancários começa nesta quinta-feira",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Melhores momentos de Atlético-MG 2 x 2 Bragantino pela Sul-Americana",
       "imagem": null
-    },
-    {
-      "titulo": "EUA criam corredor secreto para transportar petróleo por Ormuz, diz site",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T05:56:04.226Z"
+  "atualizadoEm": "2026-08-20T06:42:18.059Z"
 }
