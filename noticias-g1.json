@@ -1,6 +1,98 @@
 {
   "noticias": [
     {
+      "titulo": "Viajante se impressiona ao desembarcar na rodoviária de Goiânia: 'É outro patamar'",
+      "imagem": "https://s2-g1.glbimg.com/855E0w0L4XRG0u3jHpHanQ-8me8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/l/AJgaNySsqY80X3mccekQ/copia-de-copia-de-copia-de-padrao-foto-g1-goias-21-.jpg"
+    },
+    {
+      "titulo": "Corpo de menino de 6 anos desaparecido é encontrado em SC após 4 dias de buscas",
+      "imagem": "https://s2-g1.glbimg.com/ERgp6Idk61aEzibfsiuCV_Eic3E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/x/OCAdCuSuSvZTPXBrGZOA/whatsapp-image-2026-08-18-at-18.10.21.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: Presos fogem de delegacia pulando muro em distrito de Porto Velho",
+      "imagem": "https://s2-g1.glbimg.com/86h9qG2_XnmvmK-pBK2piwBEhf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/O/BycEV3TdCb3ARmqjwWBw/blank-4-grids-collage.jpg"
+    },
+    {
+      "titulo": "Mulher é resgatada após cair de embarcação e ser encontrada nadando no Rio Amazonas em Santarém",
+      "imagem": "https://s2-g1.glbimg.com/9d3lsiCBoigmVbRem09-qUiJ8Ww=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/g/A5IVgbSLmoo1Udat6rnQ/whatsapp-image-2026-08-20-at-15.22.21.jpeg"
+    },
+    {
+      "titulo": "Frente fria traz temporal, queda de temperatura e ventos de até 75 km/h no litoral de SP; veja a previsão",
+      "imagem": "https://s2-g1.glbimg.com/_QflRnNDeC_FMh9bzp9zpkoqGw4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/H/L/kbOZfpTBuK26mTCG9Bbw/temporalch.jpeg"
+    },
+    {
+      "titulo": "Homem morre após tocar em instalação elétrica usada para impedir furtos em chiqueiro no PI",
+      "imagem": "https://s2-g1.glbimg.com/ckfsOQG99DXYUYUcAFkW-hCINkU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/N/zUJCNLRn6tuN8HUJVmQg/edicao-imagens-g1-14-.png"
+    },
+    {
+      "titulo": "Produtividade desafia indústria paranaense e impulsiona inovação",
+      "imagem": "https://s2-g1.glbimg.com/0Val3631BYjivfd-MDiibkzY9yU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/0/Y9VEDBRiKl0b1kja8Bmg/c12-20.08-1j3a1197-1400px.jpg"
+    },
+    {
+      "titulo": "Com 10°C a menos, frio volta e deve continuar até domingo em MS; veja previsão do tempo",
+      "imagem": "https://s2-g1.glbimg.com/U5_p6CF4Gng21j-Ih8GCA934RF0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/z/zBcVGoQsqNwrnN67aTyA/design-sem-nome-16-.jpg"
+    },
+    {
+      "titulo": "Paralisação dos bancários fecha mais de 80 agências por 24 horas em Pernambuco",
+      "imagem": "https://s2-g1.glbimg.com/B50szfLf_gGlbo4vyjkKRrjLWfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/5/5gtTouSOyXgARXHAnPNw/banco-parado-recife.jpeg"
+    },
+    {
+      "titulo": "Peão de rodeio desaparece após pedidos de socorro e é encontrado morto em rio de MS",
+      "imagem": "https://s2-g1.glbimg.com/Y92jGbR3BKgrrGDh4cx8pNGIcpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/9/YDBGjARFqGfqoh32BJsw/formato-g1-39-.png"
+    },
+    {
+      "titulo": "Foragido por estupro de vulnerável é preso em Itabaianinha",
+      "imagem": "https://s2-g1.glbimg.com/KyneVPrczWbz4Doh1EpBH0OcAqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/C/bpNRhAQLqWW8yBoXTqog/crop-foto-2026-06-10t182504.139.jpg"
+    },
+    {
+      "titulo": "Trio é preso suspeito de roubo com extorsão contra família em Natal",
+      "imagem": "https://s2-g1.glbimg.com/n5g-kZiGzsAdU9s5W6xJMzjmSJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/v/jc6JOQS1C1zeDMvdfNyA/image-2-.png"
+    },
+    {
+      "titulo": "Homem suspeito de usar filhas no tráfico de drogas é preso em Salinas",
+      "imagem": "https://s2-g1.glbimg.com/PSFNGFK-eL3BYmcR5YB0dcePCbc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/B/oYfNWBRcah2A71ctUCTw/whatsapp-image-2026-08-20-at-10.08.33.jpeg"
+    },
+    {
+      "titulo": "Inmet alerta para baixa umidade do ar em mais de 90 cidades da Paraíba; veja quais",
+      "imagem": "https://s2-g1.glbimg.com/v2wq1CWzC5PY_lhkiGUoTDEld3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/D/NsuMiqQruIsvUBYza7jA/img-3704.jpg"
+    },
+    {
+      "titulo": "Terremoto de magnitude 6,7 atinge o Peru",
+      "imagem": "https://s2-g1.glbimg.com/h82Opteo8VCnRZfnSn2CHUiRRSk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/5/It2NxyStqWFAcGYuh0EQ/captura-de-tela-2026-08-20-154107.jpg"
+    },
+    {
+      "titulo": "Homem cai em fossa e é socorrido pelo Helicóptero Águia em Sorocaba",
+      "imagem": "https://s2-g1.glbimg.com/39q0N_gZRIc72sxmI-r3O_voHmU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/B/yLXFm5TyKEbDVv9GplUQ/design-sem-nome-2026-08-20t144801.890.png"
+    },
+    {
+      "titulo": "Trio de Roraima é investigado por golpe de R$ 50 milhões em clientes de banco",
+      "imagem": "https://s2-g1.glbimg.com/tbCY0jr3BH7QpuPr3xIsuyJk8AY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/GvfUosQ863SF6aAzG4ww/operacao-rastro-em-roraima.jpeg"
+    },
+    {
+      "titulo": "Batalhão de Ações com Cães reforça segurança de 20 cidades do Sul do Rio e Costa Verde",
+      "imagem": "https://s2-g1.glbimg.com/Nd6Vgiw--iNn5onVfzIHA4AYaow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/Z/AQSx4tQNu7geXK0z7faQ/whatsapp-image-2026-08-20-at-15.04.33.jpeg"
+    },
+    {
+      "titulo": "Ao lado de Tarcísio, Flávio Bolsonaro diz que pretende entrar para a história 'nem que seja como presidente de transição'",
+      "imagem": "https://s2-g1.glbimg.com/odFF3GHKcV0hKkbSDH3syFNnKCI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/A/ixAMU2RlWsHvPeBbikzQ/flavio-antag.jpg"
+    },
+    {
+      "titulo": "Caruaru abre mais de 100 vagas em cursos gratuitos de qualificação; saiba como se inscrever",
+      "imagem": "https://s2-g1.glbimg.com/e7Zhd9umutTEHjEd9c9SsI6jXLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/X/xOaCwBR9SGB5QbiIx0Ng/whatsapp-image-2026-08-20-at-13.39.57.jpeg"
+    },
+    {
+      "titulo": "Itaperuna terá Dia D de Multivacinação com atendimento em 35 postos",
+      "imagem": "https://s2-g1.glbimg.com/jvh_EqzS4cVEbVZbtaIYetRhd_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/K/cxGXMVTB2J4tMA2EhLTA/dia-d-de-multivacinacao-em-itaperuna.jpg"
+    },
+    {
+      "titulo": "Operação com apoio do Canil K9 apreende mais de 2 mil porções de drogas em Teresópolis",
+      "imagem": "https://s2-g1.glbimg.com/Q_4pmfLEYeQJcCzcOrG1kdaAOeU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/j/upOWFJRRaPffZpSrm44A/k9.jpg"
+    },
+    {
+      "titulo": "Servidor é filmado tentando beijar e colocar cigarro na boca de adolescente na Câmara de São Luís de Montes Belos",
+      "imagem": "https://s2-g1.glbimg.com/tfMAygm4tFhqY3Rwr-oNEDWmGTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/7/M7AEx1SPK9yLM93NjJpQ/design-sem-nome-6-.jpg"
+    },
+    {
       "titulo": "Entenda a demolição de chácaras às margens do lago de usina no TO após decisão da Justiça",
       "imagem": "https://s2-g1.glbimg.com/viyQEfUA_ochABaktPka9S-4tAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/b/ace2k0QAei5nUMahnBug/demolicao-2.png"
     },
@@ -18,7 +110,7 @@
     },
     {
       "titulo": "Inmet amplia avisos de vendaval e prevê rajadas de até 100 km/h no Sudeste",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/XS4SEpQ-CD3_nZozEaZ5Kt8IDlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/5/SW4H0oS3mo3A6zXyOJxw/vento1.jpg"
     },
     {
       "titulo": "Campo Grande abre seleção para merendeiros com salário mínimo; veja como se inscrever",
@@ -27,99 +119,7 @@
     {
       "titulo": "VÍDEO: homem é morto a tiros pelo vizinho após filho dizer que foi chamado de 'noia' em SP; jovem também foi alvo de disparos",
       "imagem": "https://s2-g1.glbimg.com/Vw03-Z7FHKHkVwYfaSSZoXgAqOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/5/FkR4AjTDq7H3alEji3Vg/videoframe-3238146.png"
-    },
-    {
-      "titulo": "Candidatos ao governo do Paraná cumprem agendas focadas em entrevistas e produção de conteúdo para as campanhas",
-      "imagem": "https://s2-g1.glbimg.com/Ar_E3ivXO79YKxwDIBbkbSMRVPs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/X/L/M03xtfSm2nOytHC8EoIw/4181fef7-b7eb-42df-9793-66930bc1c6be.jpg"
-    },
-    {
-      "titulo": "PRF salva caminhoneiro engasgado com manobra de Heimlich em restaurante de Balsas",
-      "imagem": "https://s2-g1.glbimg.com/jJ22L9RtL0YSt0EfJSEv-oDsDKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/N/qUtJJNQZ6OANQl1NSC7A/montagens-1920-x-1080-px-76-.png"
-    },
-    {
-      "titulo": "Veja agenda de campanha dos candidatos ao governo de MG nesta quarta-feira",
-      "imagem": "https://s2-g1.glbimg.com/51YEYUVNj8oQRu2h8a0WF-CiZbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/57q383RYyDBUhmrLzPqw/2.jpg"
-    },
-    {
-      "titulo": "Homem é baleado e morre após avançar com faca contra policiais em MS",
-      "imagem": "https://s2-g1.glbimg.com/av275abHC-Pp6eZQyX9eMciPfWs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/B/FYTbIbR3WWfWerXMcUfw/para-o-g1-2026-08-20t140638.705.jpg"
-    },
-    {
-      "titulo": "Acadêmico que acusou professor de Cambridge de plágio é suspenso por sua universidade na Bélgica",
-      "imagem": null
-    },
-    {
-      "titulo": "Litoral de SP tem 52 praias impróprias para banho neste fim de semana, segundo a Cetesb; veja quais",
-      "imagem": "https://s2-g1.glbimg.com/C55U5dVn8bEdDvyUB7ezhCuwb1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/n/c/uEpLbBQKGS52wf6Nm9KQ/porto-novo-foto-claudio-gomes-pmc-6-scaled.jpeg"
-    },
-    {
-      "titulo": "Chef Marcos Vinícius une sabores orientais e ingredientes do Cerrado Mineiro",
-      "imagem": "https://s2-g1.glbimg.com/JKlAMhDgtGz1YFRoJIUYxb9Vci4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/F/8G2BOzT4CLvWVelSAlSQ/crunch-oishi-1-.png"
-    },
-    {
-      "titulo": "FTS: o que é o sistema que a FAB acionou para interromper voo de foguete sul-coreano no Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/--kavM7ET1Lln542zgHNrgLNopk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/D/2F5ovOTnqVddAp8HM5rQ/montagens-1920-x-1080-px-2026-08-20t071350.738.png"
-    },
-    {
-      "titulo": "Polícia encontra caminhão roubado sendo desmontado e detém quatro em Mogi das Cruzes",
-      "imagem": "https://s2-g1.glbimg.com/tPEYFEDbODfFlHcIhbXYh2sXiQQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/m/csBjy1Ta6VUeIKKHvnRg/whatsapp-image-2026-08-20-at-11.35.30.jpeg"
-    },
-    {
-      "titulo": "'Sterling Point' é renovada para 2ª temporada",
-      "imagem": "https://s2-g1.glbimg.com/vepzJmJtJ6yWK0eTWg5MmqqS124=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/A/Scut37SUmpeXtInxhPLw/sterling-point-.jpg"
-    },
-    {
-      "titulo": "Mansão no Villa Vicenza redefine luxo e exclusividade",
-      "imagem": "https://s2-g1.glbimg.com/_Ob2xuzdXocSkk1dibP06qGiceQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/A/gagYJ0TsAWKQA4JZOyHg/materia-1400x788.png"
-    },
-    {
-      "titulo": "Vice toma posse como prefeito interino de Caaporã, na PB, após afastamento de prefeito por suposta fraude em licitação",
-      "imagem": "https://s2-g1.glbimg.com/v5f3Xn3JJdjmr24hzKmkQ3sGoIA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/G/CE8mNITz28u2E4BmfENw/posse.png"
-    },
-    {
-      "titulo": "Caso Alice: ex-padrasto que confessou assassinato seguia recebendo visitas da enteada mesmo após separação",
-      "imagem": "https://s2-g1.glbimg.com/usLbskK__HVmKnfy0xrA4WJ5TSM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/I/kSVVgTSqGcbKsy6hDKbQ/g1-51-.jpg"
-    },
-    {
-      "titulo": "Volta Redonda recebe projeto 'Restaurante Popular Itinerante' em cinco regiões da cidade",
-      "imagem": "https://s2-g1.glbimg.com/ixj9K4CyqMTKG_QfHEoJyi42wJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/2/Vqwu74RgWcIfo3ApfT9g/whatsapp-image-2026-08-20-at-11.00.51.jpeg"
-    },
-    {
-      "titulo": "Casa com hidromassagem e vista verde no EOS Mirante Residence",
-      "imagem": "https://s2-g1.glbimg.com/ArLaffwYtGUx3MoFGL5h2CTQlog=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Q/C6l48ATqSgr7IZisRQNw/materia-1400-x-788.png"
-    },
-    {
-      "titulo": "Motociclista morre ao perder o controle de moto e bater em poste em Jaú",
-      "imagem": "https://s2-g1.glbimg.com/L9ZDob7PFZa5buc1_bknPefCHdc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/D/ZrvgUyTA2tA3m3adpUfA/novo-projeto-2026-08-20t095710.120.png"
-    },
-    {
-      "titulo": "Rock in Rio 2026: datas, shows, como chegar e o que pode levar",
-      "imagem": "https://s2-g1.glbimg.com/tkl130Zx9ykSjYh7gPIsz9BXRks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/gA7NPUSGmVnFYpIsSGEw/rir2026.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de quinta-feira, 20 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/n6GXMjNaINs70o99qPyaFLOf58k=/s01.video.glbimg.com/deo/vi/93/66/14886693"
-    },
-    {
-      "titulo": "Concurso de Campina Grande terá novas inscrições e provas remarcadas após determinação judicial",
-      "imagem": "https://s2-g1.glbimg.com/nGyxDWKqckEcCHc8G60YgzZgJEs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/6/OPj2LgRwKZK4R4KiPpKA/predio-da-prefeitura-redimensiona.jpg"
-    },
-    {
-      "titulo": "Mulher esfaqueada e atropelada pelo marido no litoral de SP vivia ciclo de violência; 'tragédia anunciada', diz delegada",
-      "imagem": "https://s2-g1.glbimg.com/7EBNOhpIDybf-81IxdIJNTjl30s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/k/QsBTllSQGYiuUd0OrBDg/atropela-3-.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Bom Dia Acre desta quinta-feira, 20 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/uGU4X1CiAAAbZatAGejPzMUkzwU=/s01.video.glbimg.com/deo/vi/89/65/14886589"
-    },
-    {
-      "titulo": "Paralisação das rotas pode afetar produção do Polo Industrial de Manaus, diz Suframa",
-      "imagem": "https://s2-g1.glbimg.com/5Bjg-_YftyefONjmR6lSQLU-B4E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/5/4CIT8tSim1BWdCVdLQ8w/impacto-da-paralisacao-das-rotas-do-distrito-industrial-em-manaus-foto-paulo-roberto-rede-amazonica.jpg"
-    },
-    {
-      "titulo": "Caminhão com mercadoria cai no rio Maués-Açu no AM; motorista escapa sem ferimentos; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/3aT16aVO5vXqhODFryOLr20IhYk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/J/P36ZuIRzKOyp9nEBpOEQ/caminhao-rio-amazonas.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-20T18:13:44.481Z"
+  "atualizadoEm": "2026-08-20T19:01:10.660Z"
 }
