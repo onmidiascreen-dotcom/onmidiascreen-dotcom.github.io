@@ -1,6 +1,114 @@
 {
   "noticias": [
     {
+      "titulo": "Petróleo atinge máxima de três semanas diante de impasses no Oriente Médio",
+      "imagem": null
+    },
+    {
+      "titulo": "Walmart supera expectativas do trimestre, mas guidance decepciona",
+      "imagem": null
+    },
+    {
+      "titulo": "SC: Tutora de buldogue que ingeriu mais de 50 pedras de crack é denunciada",
+      "imagem": null
+    },
+    {
+      "titulo": "Porta-aviões que substituirá o USS Abraham Lincoln chega ao Oriente Médio",
+      "imagem": null
+    },
+    {
+      "titulo": "Casas Bahia tentou segurar caixa com demissões; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Medalhista olímpica e campeã mundial é diagnosticada com doença rara",
+      "imagem": null
+    },
+    {
+      "titulo": "Ampliação da Lei Maria da Penha: entenda decisão e o que muda na prática",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia conclui identificação das 23 vítimas que morreram em acidente no PR",
+      "imagem": null
+    },
+    {
+      "titulo": "Wall Street opera em baixa com alta de rendimentos de títulos",
+      "imagem": null
+    },
+    {
+      "titulo": "Impugnação era esperada e candidatura está de acordo com a lei, diz Arruda",
+      "imagem": null
+    },
+    {
+      "titulo": "Com Marquezine, Shawn Mendes canta para crianças em aldeia angolana; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Leilão da Casas Bahia tem descontos de até 86% em eletrodomésticos; confira",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio diz que &#8220;Dark Horse&#8221; é &#8220;página virada&#8221; e evita detalhar contas",
+      "imagem": null
+    },
+    {
+      "titulo": "Viúvo de Isabel Veloso é criticado após contar como conheceu noiva",
+      "imagem": null
+    },
+    {
+      "titulo": "Defesa Civil alerta: frente fria deve trazer temporais e ventania para SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Árvore de grande porte cai em complexo de luxo em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Barcelona acerta retorno de João Cancelo até 2029",
+      "imagem": null
+    },
+    {
+      "titulo": "IFI alerta para despesas crescendo acima das receitas e déficit estrutural",
+      "imagem": null
+    },
+    {
+      "titulo": "Pedidos semanais de auxílio-desemprego nos EUA caem na última semana",
+      "imagem": null
+    },
+    {
+      "titulo": "Prefeita do PT declara apoio a Cleitinho em MG; partido avalia penalidade",
+      "imagem": null
+    },
+    {
+      "titulo": "Ganhos de produtividade com IA podem não conter inflação, alerta FMI",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Guiado Pelo Luar&#8221;: diretora criou filme a partir do luto pela mãe",
+      "imagem": null
+    },
+    {
+      "titulo": "MPF aciona Justiça Eleitoral para barrar candidatura de Arruda ao GDF",
+      "imagem": null
+    },
+    {
+      "titulo": "Clima é a principal ameaça ao mercado de café global, alerta Bill Murray",
+      "imagem": null
+    },
+    {
+      "titulo": "Viih Tube expõe que banda cancelou show em seu casamento: &#8220;Vou processar",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Apesar da pressão econômica, Irã mantém vantagem sobre Ormuz",
+      "imagem": null
+    },
+    {
+      "titulo": "Justiça reverte decisão contra deputado do PT por vídeo crítico a Tarcísio",
+      "imagem": null
+    },
+    {
       "titulo": "Empresários vão poder andar armados? Entenda projeto e o que diz a lei",
       "imagem": null
     },
@@ -11,115 +119,7 @@
     {
       "titulo": "Lula encaixa agenda presidencial em viagens por estratégia de campanha",
       "imagem": null
-    },
-    {
-      "titulo": "BTG Pactual anuncia entrada no mercado de benefícios corporativos",
-      "imagem": null
-    },
-    {
-      "titulo": "Maracanã é o 3º estádio a receber finais de Copas masculina e feminina",
-      "imagem": null
-    },
-    {
-      "titulo": "Segurança de Harry e Meghan é um assunto privado, diz premiê do Reino Unido",
-      "imagem": null
-    },
-    {
-      "titulo": "Caso Master: depoimentos adiados postergam fim de inquérito",
-      "imagem": null
-    },
-    {
-      "titulo": "Eneva vê interferência regulatória da ANP sobre acesso a terminais de GNL",
-      "imagem": null
-    },
-    {
-      "titulo": "Empresário alvo de atentado em Mônaco fala pela primeira vez após explosão",
-      "imagem": null
-    },
-    {
-      "titulo": "Israel e Turquia sobem o tom sobre a Síria após bombardeio a base aérea",
-      "imagem": null
-    },
-    {
-      "titulo": "Esmagamento de soja no Brasil cresce 7,7% no ano",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja como será a virada do tempo em SP; temperatura pode variar 9 graus",
-      "imagem": null
-    },
-    {
-      "titulo": "Marcopolo leva debate tributário e de financiamento à Lat.Bus 2026",
-      "imagem": null
-    },
-    {
-      "titulo": "Galvão Bueno reage à classificação do Flamengo contra o &#8220;forte Cruzeiro&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Dólar abre em alta com mercado de títulos no radar",
-      "imagem": null
-    },
-    {
-      "titulo": "O Grande Debate: Demora da PF em dados de Lulinha mostra viés ou cautela?",
-      "imagem": null
-    },
-    {
-      "titulo": "SP: Seguranças são investigados por omissão após empresário agredir esposa",
-      "imagem": null
-    },
-    {
-      "titulo": "Alívio nos títulos diminui e ações caem após esforços do Tesouro dos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Andar com Fé&#8221;: musical de Gilberto Gil resgata tempos da tropicália",
-      "imagem": null
-    },
-    {
-      "titulo": "Atriz de &#8220;Modern Family&#8221; celebra 4º ano de casamento: &#8220;Enche minha vida&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja datas e locais dos jogos do Brasil na Copa do Mundo Feminina",
-      "imagem": null
-    },
-    {
-      "titulo": "Tecnologia e qualidade levam café do ES a novo patamar no mercado global",
-      "imagem": null
-    },
-    {
-      "titulo": "Ciclone extratropical chega ao Brasil nesta quinta; veja previsão e efeitos",
-      "imagem": null
-    },
-    {
-      "titulo": "De saída? Endrick é dúvida para estreia do Real Madrid em LaLiga",
-      "imagem": null
-    },
-    {
-      "titulo": "Seleção Brasileira estreia na Copa do Mundo Feminina de 2027 no Maracanã",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja detalhes do calendário da Copa do Mundo Feminina de 2027",
-      "imagem": null
-    },
-    {
-      "titulo": "Fifa define local da final da Copa do Mundo Feminina de 2027",
-      "imagem": null
-    },
-    {
-      "titulo": "Par de Malu Mader em novela, Tadeu Aguiar comemora 27 anos com o marido",
-      "imagem": null
-    },
-    {
-      "titulo": "Conab projeta queda na produção de açúcar e alta no etanol",
-      "imagem": null
-    },
-    {
-      "titulo": "Candidato a deputado estadual é preso por ligação com o PCC em SP",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T14:20:14.462Z"
+  "atualizadoEm": "2026-08-20T15:03:57.135Z"
 }
