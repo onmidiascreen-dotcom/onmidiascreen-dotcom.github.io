@@ -1,6 +1,50 @@
 {
   "noticias": [
     {
+      "titulo": "Paraty suspende aulas da rede pública após alerta de vendaval",
+      "imagem": null
+    },
+    {
+      "titulo": "MP apura caso de adolescente que acionou spray de pimenta dentro de sala de aula em MG",
+      "imagem": "https://s2-g1.glbimg.com/tC5pwF6KwSYxaerQYJ6pIDv3nvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/E/uGqiQmRaKUivYAiZQknA/gaspimenta.png"
+    },
+    {
+      "titulo": "Mendonça manda remover vídeo com deepfake de Flávio Bolsonaro ao lado de Daniel Vorcaro",
+      "imagem": "https://s2-g1.glbimg.com/SSyuPfqYIE2UNErxB0uRLdY0vcA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/5/UpIgyrSAClGilxscRwFw/2026-07-25t130224z-724856195-rc20lmak1pdx-rtrmadp-3-brazil-politics.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: EPTV 2 Sul de Minas de quinta-feira, 20 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/cVbDcBX7DZMNEcvWg325FdFpYkY=/s01.video.glbimg.com/deo/vi/14/77/14887714"
+    },
+    {
+      "titulo": "Justiça nega habeas corpus e mantém prisão de ex-deputado Neno Razuk em MS",
+      "imagem": "https://s2-g1.glbimg.com/IqVWGx-Dvvc1mPOUpTIuzRTfEZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/s/IkrQtbT5ueyF2eiawmbA/neno-pf.jpg"
+    },
+    {
+      "titulo": "Ribeirinhos e pesquisadores declaram 'tombamento popular' do Pedral do Lourenço, área ameaçada por criação de hidrovia no Rio Tocantins, no Pará",
+      "imagem": "https://s2-g1.glbimg.com/QSZQE7PRUpgWPNlpXP63Ma9vHb4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/K/y2KorBSYSZQRj2s7oQSQ/pedral-do-lourenco.png"
+    },
+    {
+      "titulo": "Gerente que teve moto roubada e foi agredido por criminosos no AC havia comprado veículo há 5 meses",
+      "imagem": "https://s2-g1.glbimg.com/0Qo6uPPkcqofVdkc70zvAPzGP4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/U/Mcs4aHQyaEgomJump8Yw/midia-de-distribuicao-g1-28-.png"
+    },
+    {
+      "titulo": "VÍDEOS: GR2 de quinta-feira, 20 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/aAgSsSBHNv_aUVNH9WJfaYE1Wdk=/s01.video.glbimg.com/deo/vi/60/76/14887660"
+    },
+    {
+      "titulo": "Teresina registra 38,7°C e tem a maior temperatura entre capitais do Nordeste nesta quinta (20)",
+      "imagem": "https://s2-g1.glbimg.com/WdxpCHuHRgalBGs9M6td3FbufXU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/A/U/baR1edTdCyvGR74PqA2g/20230823161224-img-6256.jpg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
+      "imagem": null
+    },
+    {
+      "titulo": "'God of War': Dave Bautista vai substituir Ryan Hurst como Kratos na série do game",
+      "imagem": "https://s2-g1.glbimg.com/tFL1S08feQ4My70sQ2AyUaux4Uk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/s/gc3Bt9RWGhwVgF5cRILg/dave-bautista-kratos-god-of-war.jpg"
+    },
+    {
       "titulo": "Bicicletas elétricas e scooters ganham espaço na cidade de SP, e uso de bikes tradicionais cai",
       "imagem": "https://s2-g1.glbimg.com/bJ-74KUBRPJ4hkLHJJkS0Jd5kcs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/V/WlLlRgQY6nBlmCCGPjLQ/ato20250108097.jpg"
     },
@@ -13,12 +57,12 @@
       "imagem": "https://s2-g1.glbimg.com/sfuR_sSvxTqet_-8qxBDSxabxKM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/w/XbtlFzSoGlMf6sLxSNbg/design-sem-nome-8-.png"
     },
     {
-      "titulo": "Vacinação em João Pessoa: ‘Dia D’ de multivacinação contra várias doenças acontece no sábado (16); veja locais",
+      "titulo": "Vacinação em João Pessoa: ‘Dia D’ de multivacinação contra várias doenças acontece no sábado (22); veja locais",
       "imagem": "https://s2-g1.glbimg.com/X_gS09tM-dy3XQ4iPvWY9b4ur7s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/N/ZgEXGaRMCuA4JCJVIN2A/dia-d-vacinacao-1-.jpeg"
     },
     {
       "titulo": "VÍDEOS: JL2 de quinta-feira, 20 de agosto de 2026",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/3scGmRTL2j9NuncFm5Sai5ZsMTo=/s01.video.glbimg.com/deo/vi/91/75/14887591"
     },
     {
       "titulo": "Professora denuncia racismo durante abordagem em padaria de BH",
@@ -75,51 +119,7 @@
     {
       "titulo": "Escolas infantis são fechadas após casos de síndrome mão-pé-boca entre alunos em Novo Horizonte",
       "imagem": "https://s2-g1.glbimg.com/xsA3jSiEg_h91j5T-05AfKsT20Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/l/ZtNX8wQRm7mHolmW0B3A/14795582-2026-08-20t192716.751.jpg"
-    },
-    {
-      "titulo": "TV Anhanguera apresenta regras para entrevistas com candidatos ao Governo e Senado de Goiás",
-      "imagem": "https://s2-g1.glbimg.com/na91Yvx6bEoTrsegxxCYmT3Bddc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/A/1RB8rEShi838jruvWm1A/design-sem-nome-9-.jpg"
-    },
-    {
-      "titulo": "EUA realizam operações militares contra tráfico de drogas no norte do Equador",
-      "imagem": "https://s2-g1.glbimg.com/6DKGtJ3AtD97sOJ0bgZQpQZP4fk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/G/uWAlbFSYeg1lzNOB65mA/afp-20260817-c4vn2ar-v1-highres-ecuadormilitarysecurity.jpg"
-    },
-    {
-      "titulo": "Homem é preso por importunação sexual contra funcionária em horário de trabalho em Uberaba",
-      "imagem": "https://s2-g1.glbimg.com/yv_Gr0k-3slzHB8wUBmA9hBpMQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/L/MOlAf0TQ6t1CT5HFJ4MA/design-sem-nome-2026-08-20t184143.552.jpg"
-    },
-    {
-      "titulo": "Lulinha: PGR diz que PF não identificou conclusão de nenhum negócio do Careca do INSS com o governo",
-      "imagem": "https://s2-g1.glbimg.com/F-W2IKnEh8wrkWncSaKw-ZoOw3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/M/2YLTuSRii3CGSDwr7BWA/frame-lulinha.png"
-    },
-    {
-      "titulo": "Tecnologia cruza dados de satélite e clima para prevenir incêndios em vegetação no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/gQAkGn5hSy_09UWN4EV7JxIyDXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/x/witrUNQeCkLdNdKBNKsw/cesp.png"
-    },
-    {
-      "titulo": "Adolescente assediada por servidor que tentou beijá-la demorou a contar caso para família por medo de perder emprego, diz mãe",
-      "imagem": "https://s2-g1.glbimg.com/tfMAygm4tFhqY3Rwr-oNEDWmGTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/7/M7AEx1SPK9yLM93NjJpQ/design-sem-nome-6-.jpg"
-    },
-    {
-      "titulo": "'Perdi tudo': ex-jogador do São Paulo revela vício em bets e diz ter recebido ameaças sobre dívida de R$ 3 milhões",
-      "imagem": "https://s2-g1.glbimg.com/ic7_4TEm6zRmdMdnF4aUbT3B9I4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/F/DmlUJhTaujr0kBvQfrww/meow-meow-meow-meow-41-.png"
-    },
-    {
-      "titulo": "Encontro de águas no Rio Araguaia impressiona em Goiás; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/5oOWfFWIo3wDtjCBWnBpIr0koQ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/K/GFUawiQeyETkzJ7SRxmw/padrao-foto-g1-goias-michely-loures-16-.jpg"
-    },
-    {
-      "titulo": "'Deixados para morrer': 142 porcos são resgatados sem comida e água há dias no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/jM6s9yGnovgMWMQJa7q6_bNLXwQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/O/wJmeBKQ2OUYr9a9PeXvw/projeto-brenda-93-.jpg"
-    },
-    {
-      "titulo": "Clínica de estética é interditada por falta de registro profissional em Mairinque",
-      "imagem": "https://s2-g1.glbimg.com/_-PajnT_c3rbb-subs_-fRnbufA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/R/xiB0vAShSNFhr0CU1Htg/design-sem-nome-2026-08-20t190047.102.png"
-    },
-    {
-      "titulo": "Assista ao JRO2 desta quinta-feira, 20",
-      "imagem": "https://s2-g1.glbimg.com/Fk-1NwHjlf_VhsQzd_rdLBtkkTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/e/WSHEhjRNqABvLW13PcDQ/whatsapp-image-2026-08-20-at-18.17.33.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-20T22:53:54.481Z"
+  "atualizadoEm": "2026-08-20T23:21:37.239Z"
 }
