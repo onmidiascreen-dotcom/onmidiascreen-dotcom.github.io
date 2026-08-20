@@ -1,6 +1,86 @@
 {
   "noticias": [
     {
+      "titulo": "&#8220;Não tivemos golpe porque Forças Armadas não aderiram&#8221;, diz general à CNN",
+      "imagem": null
+    },
+    {
+      "titulo": "Ouvir menos pode estar deixando você mais lento ao caminhar",
+      "imagem": null
+    },
+    {
+      "titulo": "Após vitória do Palmeiras, Arias deixa recado: &#8220;Acham que é fácil&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Orlando Luz e Rafael Matos eliminam Zverev pela 2ª vez no dia em Cincinnati",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja o golaço de Arrascaeta em Flamengo x Cruzeiro, pela Libertadores",
+      "imagem": null
+    },
+    {
+      "titulo": "Família anuncia data de missa de 7º dia de Laura Cardoso",
+      "imagem": null
+    },
+    {
+      "titulo": "TSE confirma sete organizações internacionais para observar eleições 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Aceno à Coreia do Norte é tentativa de Trump para as midterms",
+      "imagem": null
+    },
+    {
+      "titulo": "Autoridades do Líbano entregam general da era Assad à Síria",
+      "imagem": null
+    },
+    {
+      "titulo": "MP Eleitoral pede ao TSE que barre candidatura de Marçal à Presidência",
+      "imagem": null
+    },
+    {
+      "titulo": "Tarcísio fala pela primeira vez que &#8220;talvez&#8221; dispute Presidência no futuro",
+      "imagem": null
+    },
+    {
+      "titulo": "Waack: Incômodo com notícias motiva debate de diploma no STF",
+      "imagem": null
+    },
+    {
+      "titulo": "“Vou ter que colocar os nomes”, diz Abel Ferreira sobre imprensa brasileira",
+      "imagem": null
+    },
+    {
+      "titulo": "Renan Santos diz ser contra obrigatoriedade de diploma para jornalistas",
+      "imagem": null
+    },
+    {
+      "titulo": "Melhores momentos de Atlético-MG 2 x 2 Bragantino pela Sul-Americana",
+      "imagem": null
+    },
+    {
+      "titulo": "EUA criam corredor secreto para transportar petróleo por Ormuz, diz site",
+      "imagem": null
+    },
+    {
+      "titulo": "Salomão toma posse no STJ com desafio de triar recursos julgados pela Corte",
+      "imagem": null
+    },
+    {
+      "titulo": "Estudos revelam impactos do bilinguismo no cérebro infantil",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja a premiação do Atlético-MG com classificação na Sul-Americana",
+      "imagem": null
+    },
+    {
+      "titulo": "Platense bate Coquimbo Unido nos pênaltis e pega Fluminense na Libertadores",
+      "imagem": null
+    },
+    {
       "titulo": "Latam confirma vazamento de dados de clientes e fala em falha de segurança",
       "imagem": null
     },
@@ -39,87 +119,7 @@
     {
       "titulo": "Bessent dobra recompra de títulos longos dos EUA em meio à alta dos juros",
       "imagem": null
-    },
-    {
-      "titulo": "Banco do Brasil pagará R$ 197 mi em juros sobre capital em setembro",
-      "imagem": null
-    },
-    {
-      "titulo": "Duas casas desabam e ao menos três ficam feridos após explosão na Bahia",
-      "imagem": null
-    },
-    {
-      "titulo": "CNJ vai investigar juiz por fala hostil à mulher vítima de violência",
-      "imagem": null
-    },
-    {
-      "titulo": "Google atualiza ferramentas de IA para facilitar estudos; veja como usar",
-      "imagem": null
-    },
-    {
-      "titulo": "Novo filme de Jason Statham, &#8220;Mutiny&#8221;, tem baixo desempenho de críticas",
-      "imagem": null
-    },
-    {
-      "titulo": "Atlético-MG sofre, mas se classifica contra o Bragantino na Sul-Americana",
-      "imagem": null
-    },
-    {
-      "titulo": "Gómez bate recorde, Palmeiras vence Cerro Porteño e avança na Libertadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Eleições 2026: Haddad propõe criação de agência de combate a facções",
-      "imagem": null
-    },
-    {
-      "titulo": "Avenue: Mercado de trabalho dá sinais dúbios e dificulta decisão do Fed",
-      "imagem": null
-    },
-    {
-      "titulo": "Setor privado não trouxe preocupação sobre reciprocidade, diz Durigan",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem são os candidatos ao governo do Pará em 2026",
-      "imagem": null
-    },
-    {
-      "titulo": "Hortência lidera votação a prêmio de maior atleta das Copas do Mundo",
-      "imagem": null
-    },
-    {
-      "titulo": "El Niño faz Belo Monte reduzir vazão de água de reservatório",
-      "imagem": null
-    },
-    {
-      "titulo": "Mãe e filho morrem após queda de passarela: quem responde por tragédia?",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump anuncia medida econômica &#8220;mais devastadora&#8221; já tomada contra o Irã",
-      "imagem": null
-    },
-    {
-      "titulo": "Santa Fe x River Plate: escalações e onde assistir à Copa Sul-Americana",
-      "imagem": null
-    },
-    {
-      "titulo": "Trígono Capital reduz participação na Kepler Weber para 14,94%",
-      "imagem": null
-    },
-    {
-      "titulo": "Paulo Bonamigo desiste de cargo no Botafogo por questões pessoais",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula se reúne com advogado de Lulinha em meio a investigações da PF",
-      "imagem": null
-    },
-    {
-      "titulo": "Eleições 2026: Tarcísio de Freitas participa de encontro do TRE-SP",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T01:00:21.376Z"
+  "atualizadoEm": "2026-08-20T02:30:27.138Z"
 }

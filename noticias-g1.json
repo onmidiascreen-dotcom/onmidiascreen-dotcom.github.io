@@ -1,8 +1,96 @@
 {
   "noticias": [
     {
+      "titulo": "PanAmazônia pretende fazer parcerias comercias com a Guiana e Venezuela por Roraima",
+      "imagem": "https://s2-g1.glbimg.com/nQPoqVF3NK_bX-_CqgE5VQyqB7E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/S/Ye6bmSSwamBbJXUcKljw/fronteiras.jpg"
+    },
+    {
+      "titulo": "Câmara aprova autorização para Campinas renegociar dívidas com a União",
+      "imagem": "https://s2-g1.glbimg.com/c6KcRdwt8Npd5pORJeAMOD2CAkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/K/VbazAJS4WFu3OQkw8wEw/55474338952-dffe191c73-k.jpg"
+    },
+    {
+      "titulo": "Caso José Arthur: após bebê completar 2 anos, audiência pública cobra respostas em Eldorado do Carajás",
+      "imagem": "https://s2-g1.glbimg.com/5G9SNqPjnnccIWeLUTbvZlzHs-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/z/ROL1hlS0q18dcBWLa6Fw/geral-g1-2026-03-28t155721.283.png"
+    },
+    {
+      "titulo": "Senac oferece mais de 600 vagas para cursos gratuitos no Amazonas; veja cursos disponíveis e como se inscrever",
+      "imagem": "https://s2-g1.glbimg.com/F7Z9-dq7j6biX0x19A_mGUYP0bY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/G/i9OFLXSaKlKbM8lv99Qg/imagem-materia-senac-vagas.jpg"
+    },
+    {
+      "titulo": "ANP interdita postos de combustíveis e revendas de gás no Pará",
+      "imagem": "https://s2-g1.glbimg.com/TbCnMXpXGMJkw3pWYROVRZq84_8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/1/rknh1zSO6FQGd9m1Kajw/fiscalizacao-postos.jpg"
+    },
+    {
+      "titulo": "Candidatos ao governo do DF se dividem entre reuniões, gravação de programas e passeatas; veja como foi a campanha nesta quarta",
+      "imagem": "https://s2-g1.glbimg.com/oUuniuv0QrrliYgnvuIEuTRT7xo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/s/a38GEfR42yqBITz2CQXw/rbr2547.jpg"
+    },
+    {
+      "titulo": "Óleo vaza de embarcação no Rio Amazonas e forma mancha em frente a Itacoatiara",
+      "imagem": "https://s2-g1.glbimg.com/NQVeWxsonL0ZwaTK_xSEZqSEFH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/ovlrRzQMeADSWBzzaXwA/whatsapp-image-2026-08-19-at-17.10.10.jpeg"
+    },
+    {
+      "titulo": "Caso Hayden Panettiere: Agência Antidrogas dos EUA investiga morte de atriz, diz TV",
+      "imagem": "https://s2-g1.glbimg.com/iF513roxeM7nvjc1gQTjvWjbnIg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/H/gB2T79QFmfpqqlr8eJVw/ap26229521379208.jpg"
+    },
+    {
+      "titulo": "MPF pede ao Discord informações sobre riscos a crianças e adolescentes",
+      "imagem": "https://s2-g1.glbimg.com/G9FqRhGEi6XbpjI7aPBEXs4fnMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/buPHArRkWwcvnTMZussQ/discord-1200.jpg"
+    },
+    {
+      "titulo": "Em Florianópolis, 'JN nas Ruas' ouve brasileiros sobre inovação, tecnologia e criação de emprego",
+      "imagem": "https://s2-g1.glbimg.com/9_wVBPuq_HmariZjPBQT6qFAWHM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/i/O5YFJ1Rza6Aj0grjQXEA/globo-canal-4-20260819-2000-frame-32192.jpeg"
+    },
+    {
+      "titulo": "Agenda Ribeirão",
+      "imagem": "https://s2-g1.glbimg.com/rlCWjbp7xQti90ZVMoPLP8r_fVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/l/xkqeDhT5yLuBSKvleVrw/shared-image-1-.jpg"
+    },
+    {
+      "titulo": "Mulher de 33 anos é assassinada com golpes de foice em Campo Grande; suspeito está foragido",
+      "imagem": "https://s2-g1.glbimg.com/N7fCQXUfejpUGoEg4ydwHzswqf0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/v/nOOquvQCWSAEjsdAa97A/1200-x-800-52-.jpg"
+    },
+    {
+      "titulo": "Criança morre em acidente entre caminhões na TO-010",
+      "imagem": "https://s2-g1.glbimg.com/SjCrFtuQjuIHViAwE625jUEQWA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/Z/pGg3KeQCaBBcSDBB1yIw/copia-de-modelo-foto-fundo-borrado-30-.png"
+    },
+    {
+      "titulo": "Projeto VJ Lab oferece oficinas gratuitas de videomapping e artes digitais em Salvador",
+      "imagem": "https://s2-g1.glbimg.com/lfc8xcHzqg7sBbnayueT0GtjZSY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/C/eV9KcPSLuCaAMyLLk7Xw/oficina-coletivo-coletores-2-credito-camilo-lobo.png"
+    },
+    {
+      "titulo": "Caminhadas, entrevistas e manifestação: como foi o 4º dia de campanha dos candidatos ao governo de Pernambuco",
+      "imagem": "https://s2-g1.glbimg.com/yGTvV6TAOwg8T4h_1861ryDOyLU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/f/IDZVqjR921a4g5TOzhcg/capa-agenda-g1-2026-08-16t181145.721.jpg"
+    },
+    {
+      "titulo": "+Milionária hoje: resultado do concurso 382 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/ZCFBOTM04ym9X3N_4k6M7BqimMU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/K/OeUK7bQRO560kCYzt8AQ/maismilionaria-382-zethp.jpeg"
+    },
+    {
+      "titulo": "Super Sete hoje: resultado do concurso 888 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/aUmIQ7y-hNfIyTNxZEXzaQvuJak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/U/w8ooZgQzKiybwZOB1v9w/supersete-888-puctk.jpeg"
+    },
+    {
+      "titulo": "Dia de Sorte hoje: resultado do concurso 1276 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/PN4zUhOZIEnVPCMOFxHnIjgcVVQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/S/z9XAYdTGahgYkZW60kHg/diadesorte-1276-ptxpy.jpeg"
+    },
+    {
+      "titulo": "Lotomania hoje: resultado do concurso 2965 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/PJpQ5pN4xR2Z42N_G5QM124Diiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/g/qmOAQ0SLKU9iZfOFyOSA/lotomania-2965-pbyui.jpeg"
+    },
+    {
+      "titulo": "Polícia prende homem que vendia falsos cargos de R$ 18 mil na Câmara Legislativa do DF",
+      "imagem": "https://s2-g1.glbimg.com/OZH5xXSO-mV9DK5Db-ntF2qXJmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/V/AjAbBISLKKNodyiFKV9Q/1408243cg-4-.jpg"
+    },
+    {
+      "titulo": "Dupla Sena hoje: resultado do concurso 2998 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/i7FgUeECFIrAaAtMAYQmDxuGIWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/x/jxDY8WTfa0GGEWCMeI0w/duplasena-2998-jlavh.jpeg"
+    },
+    {
+      "titulo": "Homem é preso por suspeita de tráfico de drogas em Barra Mansa",
+      "imagem": "https://s2-g1.glbimg.com/L4sBz-ZWOw4hSVdzyMlUDjtbUdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/c/DblDQgQq25W6WQhuIIqQ/whatsapp-image-2025-07-26-at-11.25.36.jpeg"
+    },
+    {
       "titulo": "Lotofácil hoje: resultado do concurso 3766 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/fMioDoJ9P99Kc6TXFmNcmtkRVXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/w/uDFOvwTp2PZDkoZsLmfA/voltantes-lotofacil.png"
+      "imagem": "https://s2-g1.glbimg.com/MC5HU8mfKw6HZYngrOsVavXLVQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/T/WbnWraSZSf0hVD4751rQ/lotofacil-3766-zvgxf.jpeg"
     },
     {
       "titulo": "Quatro pessoas morrem em batida entre caminhão e carro seguida de incêndio no Oeste de SC",
@@ -10,7 +98,7 @@
     },
     {
       "titulo": "Quina hoje: resultado do concurso 7096 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/lI0e8YyJgkE2laiEculIkxnOwlE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/h/BTX8zVRhyWXB7YWWqMNQ/volantes-quina.png"
+      "imagem": "https://s2-g1.glbimg.com/FDxik1Uu2j1vRa0clBc9hUS2gYE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/W/zw9qQLSB6rBWfyBz27mg/quina-7096-xgorx.jpeg"
     },
     {
       "titulo": "Pane em ônibus da linha 251 provoca fumaça e assusta passageiros em Cuiabá; veja vídeo",
@@ -31,95 +119,7 @@
     {
       "titulo": "Marinha e Polícia Civil investigam naufrágio de embarcação com toneladas de milho na baía do Marajó",
       "imagem": "https://s2-g1.glbimg.com/aP2M9i4eJfDLx-BHdJ0ioKb9bJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/0/sWgwKGSeOyzgXGFMCvzg/design-sem-nome-2-.png"
-    },
-    {
-      "titulo": "Os 80 anos de Aldir Blanc são saudados pelo grupo vocal Equale em álbum com Guinga, Ilessi e Marcos Sacramento",
-      "imagem": "https://s2-g1.glbimg.com/RNB71gIc2SzcSfMo96ysM_FqAbU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/2/k/hu6hUySBAraBxNNJTCbg/aldir-ilustracao-mellomenezes.jpg"
-    },
-    {
-      "titulo": "Renan Santos retira barricadas em comunidade e promete ação contra crime organizado em agenda na Paraíba",
-      "imagem": "https://s2-g1.glbimg.com/ViBe5XA-zTi4jN81CopohDpEY9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/c/nEQnYwT9OA6x7PzDn1Nw/renan-santos-na-paraiba.png"
-    },
-    {
-      "titulo": "TRE indefere chapa do Agir para deputado estadual no Acre por falta de candidaturas femininas",
-      "imagem": "https://s2-g1.glbimg.com/2kJBkKnmiEHMP8ktVgz_bVGPpfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/5/8pQp2dQmGTfr9d2ankXg/midia-de-distribuicao-g1.png"
-    },
-    {
-      "titulo": "Corpo de homem é encontrado boiando no Rio Poti, em Teresina",
-      "imagem": "https://s2-g1.glbimg.com/j-HF9park4SCxQGgjizH7AvLtaA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/8/TZVJVBTBqV4mC7jnGBRQ/edicao-imagens-g1-8-.png"
-    },
-    {
-      "titulo": "Presidente Lula, candidato à reeleição pelo PT, viaja para Iperó, interior de São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/i1dzGe9JI2kJcm_GXpS5iG_Wj6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/Z/6iIuf3TEOy6rymCfJJZQ/globo-canal-4-20260819-2000-frame-13774.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de quarta-feira, 19 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/72Jwv31EMKDQbGkCFs6zlCzif2A=/s01.video.glbimg.com/deo/vi/76/45/14884576"
-    },
-    {
-      "titulo": "Minha Casa, Minha Vida em Teresina: 176 são convocados para sorteio; veja nomes",
-      "imagem": "https://s2-g1.glbimg.com/c7YdPG9OHbEnVhwoPBxMB3Qqa4E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/k/q6BBwcSxyVQxr3u3nC1g/apartamento-mcmv.jpg"
-    },
-    {
-      "titulo": "Romeu Zema, do Partido Novo, tem agenda em São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/qg0qA-cjjv02Wj1C4F91yvvBvJQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/S/Sah4ewRP2FQfBjAdZ8QQ/globo-canal-4-20260819-2000-frame-11039.jpeg"
-    },
-    {
-      "titulo": "Maior térmica do Brasil é paralisada após falha em equipamento",
-      "imagem": "https://s2-g1.glbimg.com/xFXbX1u9V5VE-DBArDU7Rr9FhZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/4/04KrB1R52p25HKgezLtQ/usina-gna-ii.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como funciona o voto em trânsito",
-      "imagem": "https://s2-g1.glbimg.com/y2tfIgQqe1tIlZvuQ0id_bYvIeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/C/1quGfISFiz2tBQC2Yh7w/globo-canal-4-20260819-2000-frame-7958.jpeg"
-    },
-    {
-      "titulo": "Caminhada, entrevistas e panfletagem: veja como foi o quarto dia de campanha dos candidatos ao governo do Ceará",
-      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
-    },
-    {
-      "titulo": "Carla Perez e Xanddy abrem álbum do casamento filho e fazem homenagem: 'Se tornou um grande homem'",
-      "imagem": "https://s2-g1.glbimg.com/yz28BvTOwNnWZeCRe0vdOzDXHTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/p/scngvKRgiWRAgR96IP2Q/casamento-victor-alexandre-6-.jpg"
-    },
-    {
-      "titulo": "Prefeitura desiste de projeto para transformar colégio em novo centro administrativo de Ribeirão Preto",
-      "imagem": "https://s2-g1.glbimg.com/eM-K6_AmwBK5iyWlmYhJGF5dvMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/c/LDCWgITK2cQlMldolS6Q/design-sem-nome.jpg"
-    },
-    {
-      "titulo": "Ônibus atinge asa de avião da Gol durante embarque no Aeroporto Internacional de SP, em Guarulhos",
-      "imagem": "https://s2-g1.glbimg.com/00igm7WEuOPxBlNDjjb-7pGb3Gs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/lTAX4JTYSTgfk3jbikww/fotojet-2026-08-19t205616.616.jpg"
-    },
-    {
-      "titulo": "Vídeo mostra caminhonete dos bombeiros cercada pelo fogo durante incêndio em Colíder (MT)",
-      "imagem": "https://s2-g1.glbimg.com/DrmAQr5Lnv8QTgYUpO_SOmS8OII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Z/i82gmhQ3SSzv4YJC1bKw/viatura-bombeiros.png"
-    },
-    {
-      "titulo": "Agenda Ribeirão",
-      "imagem": "https://s2-g1.glbimg.com/rlCWjbp7xQti90ZVMoPLP8r_fVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/l/xkqeDhT5yLuBSKvleVrw/shared-image-1-.jpg"
-    },
-    {
-      "titulo": "CNJ é favorável criação de oito novos cargos de desembargador no Amazonas; Tribunal de Justiça do Estado discute proposta na sexta (21)",
-      "imagem": "https://s2-g1.glbimg.com/HGmJ1kDkbKgIqoSi_F2Nhc6xA5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/c/r/KGTpnrQpWK5Tqv2toocA/predio-da-sede-do-tribunal-de-justica-do-amazonas-tjam-foto-catiane-moura-rede-amazonica.jpeg"
-    },
-    {
-      "titulo": "Paciente de 60 anos desaparece de hospital em SP antes de cirurgia e é encontrado uma semana depois a 50 km de distância",
-      "imagem": "https://s2-g1.glbimg.com/LmgPGeKAhcRl4mTuGMUNn-ppHSY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/I/7Ibw23RbyKb1dX49WZuw/videoframe-4708431.png"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quarta-feira, 19 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/tX7QZJm6ophZsg6-rKt95p0ECbw=/s01.video.glbimg.com/deo/vi/44/45/14884544"
-    },
-    {
-      "titulo": "Luís Felipe Salomão toma posse como presidente do STJ",
-      "imagem": "https://s2-g1.glbimg.com/SCWCln3jCxjo9CD-wC3hBRVNmf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/5/kXVybyTleZvxOOewR5ZA/globo-canal-4-20260819-1600-frame-423694.jpeg"
-    },
-    {
-      "titulo": "Creche na Zona Oeste de SP vai fechar as portas nesta sexta; 95 crianças estão sem destino definido",
-      "imagem": "https://s2-g1.glbimg.com/PRIZQdnQibF6o30i04T26zmPS2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/2/vvIAWKS5ygOh82204M7A/captura-de-tela-2026-08-19-190118.png"
-    },
-    {
-      "titulo": "Promotora de Justiça do Amazonas morre após se afogar em destino turístico da Bahia",
-      "imagem": "https://s2-g1.glbimg.com/2IKHFrIuXi-3S9RH-aiSvLrN0kU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/N/JGBH1wQbSYw1QBz4O2Lw/morte-promotora-do-am-praia-do-forte.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-20T01:00:22.067Z"
+  "atualizadoEm": "2026-08-20T02:30:27.739Z"
 }
