@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "RealTime Big Data: Ciro e Elmano estão tecnicamente empatados no Ceará",
+      "imagem": null
+    },
+    {
+      "titulo": "Fundo Baobá vê reforma tributária como abertura para justiça racial",
+      "imagem": null
+    },
+    {
+      "titulo": "Lucro líquido do Banco Fibra sobe 269% no 1º semestre e chega a R$ 155 milhões",
+      "imagem": null
+    },
+    {
+      "titulo": "Dívida soberana dos EUA supera US$ 40 trilhões",
+      "imagem": null
+    },
+    {
+      "titulo": "Prefeitura divulga fotos de passageiros de ônibus mortos em acidente no PR",
+      "imagem": null
+    },
+    {
+      "titulo": "Dezenas de ex-deputados buscam mandato",
+      "imagem": null
+    },
+    {
+      "titulo": "China: queda do império imobiliário Evergrande termina com prisão perpétua de seu fundador",
+      "imagem": null
+    },
+    {
+      "titulo": "Ucrânia busca rotas alternativas para salvar safra de grãos",
+      "imagem": null
+    },
+    {
+      "titulo": "Confira os falecimentos desta quinta-feira (20) em Apucarana",
+      "imagem": null
+    },
+    {
       "titulo": "'Engano' deixa jornalistas sob mira de armas em base espacial na Califórnia",
       "imagem": null
     },
@@ -23,43 +59,7 @@
     {
       "titulo": "Irã chama pressão econômica de Trump de 'política fracassada'",
       "imagem": null
-    },
-    {
-      "titulo": "Signos: confira seu horóscopo desta quinta-feira (20)",
-      "imagem": null
-    },
-    {
-      "titulo": "Irã reage a Trump após nova ofensiva econômica dos EUA e tensão cresce no Estreito de Ormuz",
-      "imagem": null
-    },
-    {
-      "titulo": "Quinta-feira terá mudança no tempo e queda nas temperaturas em Apucarana",
-      "imagem": null
-    },
-    {
-      "titulo": "Porto de Paranaguá vê tentativa de sabotagem em atuação de rival privado",
-      "imagem": null
-    },
-    {
-      "titulo": "Promessa de Cleitinho sobre IPVA em Minas contraria entendimento do STF",
-      "imagem": null
-    },
-    {
-      "titulo": "Macacos e outros primatas parecem interagir com alguns bichos como se fossem seus pets",
-      "imagem": null
-    },
-    {
-      "titulo": "Globo compra produções turcas para transformar em novelas verticais para o streaming",
-      "imagem": null
-    },
-    {
-      "titulo": "Queria ter prazer ao ver Trump humilhado pela realidade, mas não consigo",
-      "imagem": null
-    },
-    {
-      "titulo": "Livro reflete sobre como criar os filhos no tempo dos algoritmos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T09:31:33.080Z"
+  "atualizadoEm": "2026-08-20T10:05:02.835Z"
 }

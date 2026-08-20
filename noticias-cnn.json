@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Memphis x Di María: histórico tem vantagem do argentino e duelo em Copa",
+      "imagem": null
+    },
+    {
+      "titulo": "Rayo Vallecano x Alavés: horário e onde assistir ao jogo de LaLiga",
+      "imagem": null
+    },
+    {
       "titulo": "Deep tech brasileira usa IA para definir alvos de terras raras no Nordeste",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Coreia do Sul estima que Coreia do Norte tenha até 120 ogivas nucleares",
       "imagem": null
-    },
-    {
-      "titulo": "Ciclone extratropical na costa do Brasil põe estados em alerta de perigo",
-      "imagem": null
-    },
-    {
-      "titulo": "Chineses inventam &#8220;pássaro-golfinho&#8221; que mergulha e voa a mesmo tempo",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T09:31:33.632Z"
+  "atualizadoEm": "2026-08-20T10:05:02.784Z"
 }

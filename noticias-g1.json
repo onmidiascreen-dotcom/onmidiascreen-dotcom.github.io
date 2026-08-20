@@ -1,8 +1,52 @@
 {
   "noticias": [
     {
-      "titulo": "Deslizamento de terra em mina de ouro deixa mais de 100 mortos na República Centro-Africana",
+      "titulo": "Eu Te Explico #194: Novo protocolo do SUS implementa exame que auxilia no rastreio e diagnóstico precoce do câncer colorretal",
+      "imagem": "https://s2-g1.glbimg.com/brw9_C6CeX-LkSK0ZhylyITKRs0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/i/77USrYTcaGUFV28uXAmQ/still-2026-08-19-114148-2.3.1.jpg"
+    },
+    {
+      "titulo": "De R$ 0 a quase R$ 10 milhões: veja o patrimônio dos candidatos ao Senado pelo Acre",
+      "imagem": "https://s2-g1.glbimg.com/YQLTiqlQXn6mnI-JrmF0bOTgY8U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/2/Ur7sfyRaAp3RyVsWBFsA/midia-de-distribuicao-g1-2026-08-19t151507.134.png"
+    },
+    {
+      "titulo": "Corpo de Leandro Henrique será velado no Jockey Club Brasileiro; Flamengo vai homenagear atleta no Maracanã",
+      "imagem": "https://s2-g1.glbimg.com/8f_NxXDE0lP61d3i-JiaPxJ3syw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/y/iEc6lmQke7PnTxfsSj8g/imagem-cortada-2026-08-19t124842.308.jpg"
+    },
+    {
+      "titulo": "Pirarucu gigante vira atração e faz parque de Goiânia ganhar novo nome em mapas digitais",
+      "imagem": "https://s2-g1.glbimg.com/5twWmjMeewn6wPhEwLiIjQd7MBo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/z/Kr6lM0T5yoyuc4EMp3AQ/parque-do-pirarucu-google-maps-goiania.jpg"
+    },
+    {
+      "titulo": "Bairro de Mogi das Cruzes fica sem água nesta quinta-feira para manutenção",
+      "imagem": "https://s2-g1.glbimg.com/Mzm1X9MeO46vUg9__CHZDwOSuOc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/s/EJuph8R7iNU0D0B68SEw/torneira-2.jpg"
+    },
+    {
+      "titulo": "Assista ao Bom Dia Cidade Campinas",
+      "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
+    },
+    {
+      "titulo": "Anulada pelo TCE, licitação do transporte de Campinas acumula uma década de impasses; relembre a cronologia",
+      "imagem": "https://s2-g1.glbimg.com/Lvr9X8--suSD8tKtOu25Ax0Z5FY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/A/THBdFTSLiahcaHHXBBvQ/campo-grande.jpg"
+    },
+    {
+      "titulo": "China culpa EUA e 'sua política hostil' por tensões com a Coreia do Norte",
+      "imagem": "https://s2-g1.glbimg.com/W76uzAxuYtmfdeECpICxwQWxBcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/u/qmfxMpSGe7EBrlgUUbdg/design-sem-nome-68-.jpg"
+    },
+    {
+      "titulo": "Preso por agiotagem transformou dívida de R$ 30 mil em cobrança de mais de R$ 1 milhão em um ano",
       "imagem": null
+    },
+    {
+      "titulo": "Justiça condena pastor de BH a dois anos de prisão, em regime aberto, por importunação sexual",
+      "imagem": "https://s2-g1.glbimg.com/a8FDIvk5Y-oycAnUfaCzR3u5RS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/V/FUMIvFSIWx3iFa7QAzlA/designer-1-.png"
+    },
+    {
+      "titulo": "Chefe de grupo que clonava WhatsApp e invadia contas bancárias é preso no PI",
+      "imagem": "https://s2-g1.glbimg.com/eaIfMybY8OISbfZYAggalrOgAwo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/GNEUHOSqa8u2SKMgf1CQ/g1-bg-02-3-.jpg"
+    },
+    {
+      "titulo": "VÍDEO mostra deslizamento de terra que matou mais de 100 em mina de ouro na República Centro-Africana",
+      "imagem": "https://s2-g1.glbimg.com/n-3BJtvR4P_7wMxirnhCtZAZSmI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/J/I4OzURQ9mgE7BKaU5zZg/savetwitter.net-ydkbxvwncpy-a8xw-568p-ezgif.com-crop-1-.gif"
     },
     {
       "titulo": "Homem morre após se afogar na Lagoa do Parque Solon de Lucena, em João Pessoa",
@@ -10,7 +54,7 @@
     },
     {
       "titulo": "Operação bloqueia R$ 49,6 milhões de suspeitos de integrar facção investigada por tráfico na Bahia",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/cbYYSNIouhOVFqK_Q0kigl7x8xA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/v/Bq0ShITcC9gLBhKakX5A/whatsapp-image-2026-08-20-at-06.03.20.jpeg"
     },
     {
       "titulo": "Dupla é capturada pela polícia por suspeita de matar idoso de 90 anos durante assalto no interior do Ceará",
@@ -75,51 +119,7 @@
     {
       "titulo": "Sine de Santarém abre vagas de trabalho; veja cargos disponíveis e como se candidatar",
       "imagem": "https://s2-g1.glbimg.com/sHdJIKSjEH41JmWvRXcR_K8rhuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/G/AuICD5Smiju7zH4vkGQA/gil-leonardi-imprensamg-img-3025.jpg"
-    },
-    {
-      "titulo": "Por que impacto da IA em eleições pode estar sendo exagerado, segundo pesquisador de Oxford",
-      "imagem": "https://s2-g1.glbimg.com/b-dEBJiuv8NQEe0o_BPRcBS90u0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/Q/cEeuLBS3WnA9NY3DcBGQ/a4d7d851-e838-4cdf-b6b2-442b3831a8b5.png"
-    },
-    {
-      "titulo": "Liniker, Carminho, musical 'Festa no Arraial': o que fazer no Rio",
-      "imagem": "https://s2-g1.glbimg.com/pUcGR0et0fRfjdLwi89jvN5eKGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/6/zucuhwTjOyAxSn5K5I5g/carminho2.png"
-    },
-    {
-      "titulo": "Caso Patrícia Amieiro: testemunha considerada chave pela família não poderá participar do novo Júri, decide STJ",
-      "imagem": "https://s2-g1.glbimg.com/DP29MtJ04KFn18i8JiQRj5ATbEU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/f/t/nite7OTkA6b8cdFIBsUQ/carro-patricia-.jpeg"
-    },
-    {
-      "titulo": "Eleições 2026: veja a agenda dos candidatos ao Governo do RJ na quinta-feira",
-      "imagem": "https://s2-g1.glbimg.com/jtw0PPflgAW35tJAULsxXwGsGcc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/R/LUGG5bTTSDNqcwFPN5bQ/cmf-novembro-azul-8-dest.jpg"
-    },
-    {
-      "titulo": "MPF move ação milionária por venda de corpos do Hospital Colônia de Barbacena à faculdade de medicina",
-      "imagem": "https://s2-g1.glbimg.com/SPREc1XnuHfd3Z7me2-w7DipizA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/I/pBoL0yRWAAqBn3gL3ofw/barbacena-1-.jpg"
-    },
-    {
-      "titulo": "VÍDEO: Pai troca terno por 'camisa bonita' para levar filha ao altar em MG e emociona nas redes",
-      "imagem": "https://s2-g1.glbimg.com/-Lhe3VFi5T8iPMrR-50BR_eAf58=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/v/mBkQhMRwOge0fiJyEdUg/jl-tm-2026-08-19t135727.810.jpg"
-    },
-    {
-      "titulo": "Mulher é atropelada, fratura costela e motorista é liberado no litoral de SP; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/vBo144Z0PKIOIPNFJMm64y0xiMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/J/s2W4ZxT06OwlulugrDEA/foto-mulher-atropelada.jpg.jpeg"
-    },
-    {
-      "titulo": "Mulher que chamou guarda de ‘macaca’ é condenada no litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/ei5fJHTugft4JRBLOf-MtgoD_2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/G/bJAEqFSq2AhxvJzhCv7g/inserir-um-titulo-2026-08-19t165422.196.jpg"
-    },
-    {
-      "titulo": "Golpe do falso prêmio faz banco e plataformas pagarem indenização a cliente",
-      "imagem": "https://s2-g1.glbimg.com/zL3jd3-FcOuxce25cpUg_xUAu6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/w/ZA83YGSyycS3oAgpWa3g/pix.jpg"
-    },
-    {
-      "titulo": "Coreia do Norte lança projétil não identificado no Mar do Japão, diz imprensa sul-coreana",
-      "imagem": null
-    },
-    {
-      "titulo": "VÍDEO: entenda quem é o eleitor provável e como a pesquisa Quaest aplica o conceito de 'likely voter'",
-      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
     }
   ],
-  "atualizadoEm": "2026-08-20T09:31:35.966Z"
+  "atualizadoEm": "2026-08-20T10:05:04.754Z"
 }
