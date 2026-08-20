@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Terremoto de magnitude 5,9 atinge ilha na Indonésia",
+      "imagem": null
+    },
+    {
+      "titulo": "Decisivo pelo Flamengo, Arrascaeta manda recado ao Cruzeiro após vitória",
+      "imagem": null
+    },
+    {
+      "titulo": "Oito vítimas de acidente no PR são veladas em ginásio municipal",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Relato de ex-chefe da FAB expõe crise militar na trama golpista",
+      "imagem": null
+    },
+    {
       "titulo": "Poder público deve demonstrar que eleição é confiável, diz Etchegoyen à CNN",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "Estudos revelam impactos do bilinguismo no cérebro infantil",
       "imagem": null
-    },
-    {
-      "titulo": "Veja a premiação do Atlético-MG com classificação na Sul-Americana",
-      "imagem": null
-    },
-    {
-      "titulo": "Platense bate Coquimbo Unido nos pênaltis e pega Fluminense na Libertadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Latam confirma vazamento de dados de clientes e fala em falha de segurança",
-      "imagem": null
-    },
-    {
-      "titulo": "Melhores momentos de Cerro Porteño 0 x 1 Palmeiras pela Libertadores",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T03:28:08.754Z"
+  "atualizadoEm": "2026-08-20T04:08:38.671Z"
 }
