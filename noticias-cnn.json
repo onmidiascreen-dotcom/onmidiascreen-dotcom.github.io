@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Paralisação de 24 horas dos bancários começa nesta quinta-feira",
+      "imagem": null
+    },
+    {
       "titulo": "Abel faz forte desabafo após vitória do Palmeiras: &#8220;Futebol está doente&#8221;",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "EUA criam corredor secreto para transportar petróleo por Ormuz, diz site",
       "imagem": null
-    },
-    {
-      "titulo": "Salomão toma posse no STJ com desafio de triar recursos julgados pela Corte",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T04:51:35.260Z"
+  "atualizadoEm": "2026-08-20T05:25:38.713Z"
 }

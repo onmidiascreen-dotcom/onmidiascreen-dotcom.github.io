@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Piloto morre após avião bater em helicóptero da polícia durante voo nos EUA",
+      "imagem": null
+    },
+    {
       "titulo": "Selton Mello se emociona ao receber prêmio no Festival de Gramado",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Lula e Flávio concordam em ao menos 10 promessas em programas de governo",
       "imagem": null
-    },
-    {
-      "titulo": "Empresas preveem crescimento menor e até recessão para 2027, com juro alto e inadimplência",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-20T04:51:34.846Z"
+  "atualizadoEm": "2026-08-20T05:25:38.243Z"
 }

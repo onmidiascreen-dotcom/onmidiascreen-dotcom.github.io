@@ -1,6 +1,46 @@
 {
   "noticias": [
     {
+      "titulo": "Por que o CNPJ passou a ter letras após mais de 40 anos usando apenas números?",
+      "imagem": "https://s2-g1.glbimg.com/z20ciZj6U0VDtIQyFB0t1KD3lDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/Q/tRS4fPQnO5whlIy0Oi3w/captura-de-tela-2026-08-18-105124.png"
+    },
+    {
+      "titulo": "Mãe percorre 392 metros de joelhos no Santuário de Aparecida após filha prematura ficar na UTI e quase perder a visão: 'Chorei de alívio'",
+      "imagem": "https://s2-g1.glbimg.com/OF4OeKSyR3HjOgF05G7YYmZYuco=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/j/RoHeU5T3iqUlQEzDtMhA/foto-g1.jpg"
+    },
+    {
+      "titulo": "'Muito ansioso para sua chegada': jovem fez homenagem para 1ª filha uma semana antes de morrer ao bater moto em árvore",
+      "imagem": "https://s2-g1.glbimg.com/DwGS0-pNrBYAch2g2coOxAUV-wA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/w/4rBc2ZRlWmFBIN5SMhfQ/copia-de-design-sem-nome-1-.jpg"
+    },
+    {
+      "titulo": "Pai agradece empenho dos médicos após morte de gêmeas unidas pela cabeça em cirurgia: 'mais vitórias que derrotas'",
+      "imagem": "https://s2-g1.glbimg.com/OaTx7YP30WanTj1i1oGzX5K6r-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/y/gEI6W2RwKwzUhORQMldg/moldura-padrao-g1.png"
+    },
+    {
+      "titulo": "Eleições no DF: número de adolescentes com título cai 38%; adesão cresce entre eleitores 70+",
+      "imagem": "https://s2-g1.glbimg.com/7mlvDGaCNVOcgNN_Pv4R-2aoZoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/d/9zJvjYQRWJdATZpwvkUw/image-1140-4f6dfd8915f260fba5dbc3fcba93dace.png"
+    },
+    {
+      "titulo": "'Ele nos drogou e nos fez urinar na roupa': as acusações de mais de 200 mulheres contra ex-funcionário do governo francês",
+      "imagem": "https://s2-g1.glbimg.com/otlPbRt5C78HLbFhs9ivpIQVay8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/uC3oWDQry487y0kohs7w/cristian-negre.jpg"
+    },
+    {
+      "titulo": "Voltar a beber após anos sóbrio é seguro? O que declaração de Brad Pitt revela sobre luta contra o vício",
+      "imagem": "https://s2-g1.glbimg.com/DZxkGGnaB6eExFxCj-1AK_IXxO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/J/6/ZSyaj4RNaWxI4CKVm2CA/brad-pitt.jpg"
+    },
+    {
+      "titulo": "Hyrox, a sensação esportiva que a Alemanha exportou ao mundo",
+      "imagem": "https://s2-g1.glbimg.com/xsAlQkzskHSmwYxObvwVSmD4y-0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/q/ok8PnCSX2QPrWxj5r76A/imagem-cortada-7-.jpg"
+    },
+    {
+      "titulo": "Dinamarca quer usar provas orais para combater cola com inteligência artificial nas escolas",
+      "imagem": "https://s2-g1.glbimg.com/9O8Ksez5L7k54tcCfKxU33WTIRQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/1/g/QwpN6VSSacEQAGf4wOeg/mg2-acervo-16-09-252-frame-56194.jpeg"
+    },
+    {
+      "titulo": "Festa do Peão de Barretos 2026 começa com artistas no camping, palco ampliado e telão gigante; veja novidades",
+      "imagem": "https://s2-g1.glbimg.com/ezjSUkiSK1SlvzmsOABvQkHFFKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/E/OXvljhTzCBkuUfaijfCw/molduras-g1-.png"
+    },
+    {
       "titulo": "Morte assistida: quando, onde e por quem essa decisão pode ser tomada - O Assunto #1787",
       "imagem": "https://s2-g1.glbimg.com/xibwBusVYpWoiin9X3Qc9vs9T0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/wgVYyiTI2qdTMt0aAwmA/pexels-rdne-6129685.jpg"
     },
@@ -79,47 +119,7 @@
     {
       "titulo": "Homem improvisa ponte e ajuda pessoas a atravessar rua alagada no Centro do Recife; VÍDEO",
       "imagem": "https://s2-g1.glbimg.com/UTwDpAz6WB1GA01oWLwbCUdU8a4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/C/60b7fLTLSOADz1UBrw5Q/joao.png"
-    },
-    {
-      "titulo": "Ciclone começa a se formar no Sul nesta quinta; ar frio vai avançar pelo país",
-      "imagem": "https://s2-g1.glbimg.com/JTyb1Mx81Te4J8WtlXYUXE2MHAg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/0/3Sl3zATsay512bNXPmwg/s11161207-202608192310.jpg"
-    },
-    {
-      "titulo": "Com avanço de ciclone, tempestades, granizo e ventania atingem o RS nesta quinta-feira",
-      "imagem": "https://s2-g1.glbimg.com/n8mc8i94DnVYF_BvPVAYjPcZv1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/L/95tG2YRQqWly9WhZuYfQ/g1-8-.png"
-    },
-    {
-      "titulo": "Ouro da Venezuela pode ir para os EUA? O que se sabe sobre as mais de 30 toneladas bloqueadas na Inglaterra",
-      "imagem": "https://s2-g1.glbimg.com/z5KhBQq20xAVNS7Z7iSEIW1qgug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/H/9QDT7SRJCBxfjVgw1fBg/2026-03-02t102626z-637544226-rc2npjaxh704-rtrmadp-3-uganda-cenbank-gold.jpg"
-    },
-    {
-      "titulo": "Entenda por que polícia descarta vicaricídio após ex-padrasto confessar ter matado adolescente de 14 anos no RS",
-      "imagem": "https://s2-g1.glbimg.com/usLbskK__HVmKnfy0xrA4WJ5TSM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/I/kSVVgTSqGcbKsy6hDKbQ/g1-51-.jpg"
-    },
-    {
-      "titulo": "PanAmazônia pretende fazer parcerias comercias com a Guiana e Venezuela por Roraima",
-      "imagem": "https://s2-g1.glbimg.com/nQPoqVF3NK_bX-_CqgE5VQyqB7E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/S/Ye6bmSSwamBbJXUcKljw/fronteiras.jpg"
-    },
-    {
-      "titulo": "Câmara aprova autorização para Campinas renegociar dívidas com a União",
-      "imagem": "https://s2-g1.glbimg.com/c6KcRdwt8Npd5pORJeAMOD2CAkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/K/VbazAJS4WFu3OQkw8wEw/55474338952-dffe191c73-k.jpg"
-    },
-    {
-      "titulo": "Caso José Arthur: após bebê completar 2 anos, audiência pública cobra respostas em Eldorado do Carajás",
-      "imagem": "https://s2-g1.glbimg.com/5G9SNqPjnnccIWeLUTbvZlzHs-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/z/ROL1hlS0q18dcBWLa6Fw/geral-g1-2026-03-28t155721.283.png"
-    },
-    {
-      "titulo": "Senac oferece mais de 600 vagas para cursos gratuitos no Amazonas; veja cursos disponíveis e como se inscrever",
-      "imagem": "https://s2-g1.glbimg.com/F7Z9-dq7j6biX0x19A_mGUYP0bY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/G/i9OFLXSaKlKbM8lv99Qg/imagem-materia-senac-vagas.jpg"
-    },
-    {
-      "titulo": "ANP interdita postos de combustíveis e revendas de gás no Pará",
-      "imagem": "https://s2-g1.glbimg.com/TbCnMXpXGMJkw3pWYROVRZq84_8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/1/rknh1zSO6FQGd9m1Kajw/fiscalizacao-postos.jpg"
-    },
-    {
-      "titulo": "Candidatos ao governo do DF se dividem entre reuniões, gravação de programas e passeatas; veja como foi a campanha nesta quarta",
-      "imagem": "https://s2-g1.glbimg.com/oUuniuv0QrrliYgnvuIEuTRT7xo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/s/a38GEfR42yqBITz2CQXw/rbr2547.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-20T04:51:37.231Z"
+  "atualizadoEm": "2026-08-20T05:25:39.275Z"
 }
