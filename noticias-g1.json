@@ -1,8 +1,16 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEO: Ana Castela chega à Festa do Peão de Barretos 2026",
+      "imagem": "https://s2-g1.glbimg.com/HcIxg6g3hcO5TMki4j-IEMe_JUE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/w/rcbDQjSKGmYY4wpx90Bw/design-sem-nome-10-.png"
+    },
+    {
       "titulo": "Incêndio de grandes proporções atinge bar na Barra da Tijuca",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/duffW891TL08_G4lc5q0uJmcuqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/7S1JQwSz6BeNycU4nyQg/incendio-rio-de-janeiro.png"
+    },
+    {
+      "titulo": "Panda abre Barretos e transforma arena em karaokê de modas da sofrência sem moderação",
+      "imagem": "https://s2-g1.glbimg.com/mzweVIhR4xs9tb_as9C_w3m-I64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/M/rLHyCXQFK1qXBkS7WZBQ/dsc-9205.jpg"
     },
     {
       "titulo": "Estátua de 11 metros do Diabo: MP e Polícia Civil apuram denúncia de intolerância religiosa cometida por prefeito",
@@ -111,15 +119,7 @@
     {
       "titulo": "Festa do Peão de Barretos: touros levam a melhor sobre os peões na abertura da montaria; VÍDEO",
       "imagem": "https://s2-g1.glbimg.com/UgtLnIBEvoia92u--nFvaPOZEkA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Z/a92buGSXGhHb65XuiwmQ/dsc-8933.jpg"
-    },
-    {
-      "titulo": "VÍDEO: avião que decolou com destino a Natal retorna a Campinas após bater contra pássaro na viagem",
-      "imagem": "https://s2-g1.glbimg.com/2RGY-vbVqDKSj0U0xFERiX-kk4U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/S/k5ATrTRcCxcAVc1UxFCA/americana-1-.jpg"
-    },
-    {
-      "titulo": "Candidatos ao Senado pelo RS debatem violência contra a mulher, programas sociais e corrupção",
-      "imagem": "https://s2-g1.glbimg.com/s4DsqRCkQllD-sqMAE8DICC4o1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/3/FtivYFQ1OHJCojuos2PA/g1-68-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-21T04:22:23.547Z"
+  "atualizadoEm": "2026-08-21T05:03:13.504Z"
 }
