@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Tetracampeão mundial de jiu-jítsu morre em acidente no interior de SP",
+      "imagem": null
+    },
+    {
       "titulo": "Corinthians 1 x 0 Rosario Central: veja melhores momentos pela Libertadores",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "PGR diz não haver indício que Careca tenha fechado negócio com governo",
       "imagem": null
-    },
-    {
-      "titulo": "Claudia Raia conta como engravidou naturalmente após tentativas de FIV",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T03:34:45.919Z"
+  "atualizadoEm": "2026-08-21T04:22:22.913Z"
 }
