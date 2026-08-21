@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Alex Telles explica confusão com técnico rival: &#8220;Ele sabe o que falou&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Liam Lawson volta à Red Bull após dispensa e admite desafio em Zandvoort",
+      "imagem": null
+    },
+    {
+      "titulo": "RJ: Operação da PM na zona Norte tem tiros e interdição na avenida Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Dia D: Campanha Nacional de Multivacinação começa neste sábado (22)",
+      "imagem": null
+    },
+    {
+      "titulo": "EUA fazem operações militares contra cartéis e narcotráfico no Equador",
+      "imagem": null
+    },
+    {
       "titulo": "Tecon 10: Sem restrições, concentração no Porto de Santos pode chegar a 80%",
       "imagem": null
     },
@@ -93,33 +113,13 @@
       "imagem": null
     },
     {
-      "titulo": "Saída fiscal do Brasil cresce 80% em cinco ano, mostram dados da Receita",
+      "titulo": "Saída fiscal do Brasil cresce 80% em cinco anos, mostram dados da Receita",
       "imagem": null
     },
     {
       "titulo": "Ventania de 100 km/h com passagem de ciclone coloca SP e RJ em alerta",
       "imagem": null
-    },
-    {
-      "titulo": "Eclipse lunar no Brasil: veja o que acontecerá com a Lua nos próximos dias",
-      "imagem": null
-    },
-    {
-      "titulo": "Rigidez dos EUA sobre Irã deve agravar choque de oferta, diz especialista",
-      "imagem": null
-    },
-    {
-      "titulo": "Rússia quer planos de paz para Ucrânia, mas impõe condições, diz diplomata",
-      "imagem": null
-    },
-    {
-      "titulo": "Ex-BBB Isabelle Nogueira congela óvulos; especialista explica procedimento",
-      "imagem": null
-    },
-    {
-      "titulo": "El Niño pode gerar &#8220;golpe de calor&#8221; no cérebro e levar a AVCs; entenda",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T10:05:37.646Z"
+  "atualizadoEm": "2026-08-21T10:46:36.149Z"
 }
