@@ -1,6 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "Fonseca faz 20 anos com números de gente grande e desafios",
+      "imagem": null
+    },
+    {
+      "titulo": "Bitcoin dispara impulsionado por projeto de lei sobre criptomoedas nos EUA",
+      "imagem": null
+    },
+    {
+      "titulo": "Advogado é preso por agredir a filha de 6 anos em elevador de prédio em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Incêndio destrói galpão e 15 carros na Vila Andrade, em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Incêndio em galpão de recicláveis destrói 15 carros na zona sul de SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Sérvia",
+      "imagem": null
+    },
+    {
+      "titulo": "Um em cada 6 candidatos veteranos muda autodeclaração racial",
+      "imagem": null
+    },
+    {
       "titulo": "China responde EUA que sanções contra o Irã não são solução",
       "imagem": null
     },
@@ -31,35 +59,7 @@
     {
       "titulo": "Estados Unidos usam corredor secreto para garantir fluxo de petróleo em Ormuz, segundo site de notícias",
       "imagem": null
-    },
-    {
-      "titulo": "Banco de dados revela como a China monitora estrangeiros em massa",
-      "imagem": null
-    },
-    {
-      "titulo": "Sindicato denuncia uso de estrutura de escolas para candidato aliado de Paes",
-      "imagem": null
-    },
-    {
-      "titulo": "ANPD abre caminho para volta das lives se Discord apresentar 'medidas razoáveis'",
-      "imagem": null
-    },
-    {
-      "titulo": "Nível do sistema Cantareira mantém queda lenta e chega a 34,4% do volume total",
-      "imagem": null
-    },
-    {
-      "titulo": "Por que a Europa continua sendo atingida por ondas de calor",
-      "imagem": null
-    },
-    {
-      "titulo": "Nobel condenado por pedofilia escreveu em diário que, 'sem protetores, jamais teria conseguido', diz New Yorker",
-      "imagem": null
-    },
-    {
-      "titulo": "BNDES desembolsa maior valor para crédito no 1º semestre desde governo Dilma",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T09:36:55.830Z"
+  "atualizadoEm": "2026-08-21T10:05:37.415Z"
 }

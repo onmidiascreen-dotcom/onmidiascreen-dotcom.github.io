@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Tecon 10: Sem restrições, concentração no Porto de Santos pode chegar a 80%",
+      "imagem": null
+    },
+    {
+      "titulo": "Incêndio de grandes proporções atinge bar na Barra da Tijuca, no Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Variação do dólar: como impacta sua vida financeira",
+      "imagem": null
+    },
+    {
+      "titulo": "Real Betis x Real Sociedad: horário e onde assistir ao jogo de LaLiga",
+      "imagem": null
+    },
+    {
       "titulo": "Festa do Peão de Barretos: quanto custam os ingressos do rodeio?",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "El Niño pode gerar &#8220;golpe de calor&#8221; no cérebro e levar a AVCs; entenda",
       "imagem": null
-    },
-    {
-      "titulo": "Missão da Nasa para impedir queda de observatório na Terra falhou: e agora?",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise WW: Juros altos colocam empresas e famílias nas cordas",
-      "imagem": null
-    },
-    {
-      "titulo": "Avião cai em área remota do Alasca e deixa oito mortos",
-      "imagem": null
-    },
-    {
-      "titulo": "Diniz elogia Memphis Depay após vitória do Corinthians: &#8220;Pessoa diferente&#8221;",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T09:36:56.125Z"
+  "atualizadoEm": "2026-08-21T10:05:37.646Z"
 }

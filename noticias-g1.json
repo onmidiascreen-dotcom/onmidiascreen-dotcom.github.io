@@ -1,8 +1,28 @@
 {
   "noticias": [
     {
+      "titulo": "Previsão do tempo: frente fria deve derrubar temperaturas na região de Campinas a partir desta sexta",
+      "imagem": "https://s2-g1.glbimg.com/H6HB2K9WwTrRRxA1lyoytJ4gjmc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/C/W/E9DmZ0T5AANRHPxyrntQ/frente-fria-1.jpeg"
+    },
+    {
+      "titulo": "Passageiro de ônibus é preso com cerca de 2 kg de cocaína dentro de mochila no PI",
+      "imagem": "https://s2-g1.glbimg.com/aOYisIyAUqzibnKhh9-X4tTMOYk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/l/YrTggZSoe3jZn5kjniAQ/g1-bg-01.jpg"
+    },
+    {
+      "titulo": "Caminhão tomba, motorista é ejetado e encontrado morto embaixo da carga na BR-376, no Paraná",
+      "imagem": "https://s2-g1.glbimg.com/cr68wsIsHE-zcuoJVEMIeh46NAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/r/r3rewRTUavr89T6mOAXw/fundo-vermelho-15-.png"
+    },
+    {
+      "titulo": "Ônibus perde controle e invade imóvel pela segunda vez em BH em menos de dois meses",
+      "imagem": "https://s2-g1.glbimg.com/5FFoMrZECpQhFMRZgrTHfOWf0ow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/3/SphqtZSuaW1R8MulYjgg/captura-de-tela-2026-08-21-062328.png"
+    },
+    {
+      "titulo": "Teresina realiza mutirão para diagnóstico e cirurgia de catarata; veja como participar",
+      "imagem": "https://s2-g1.glbimg.com/6E30RdvPfa9Iwmys8AzlGetfapA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/g/lCo8O6T2uXscTGUaUtkQ/g1-bg-01-4-.png"
+    },
+    {
       "titulo": "Famílias iranianas lutam para comprar o básico enquanto EUA intensificam guerra econômica",
-      "imagem": "https://s2-g1.glbimg.com/3vDa7M5J9GDxT58tHLFLhUHSwoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/d/Np7kZcTlGXgF104gSNFQ/2026-08-14t200613z-1795537502-rc2jymam5ni2-rtrmadp-3-usa-trump.jpg"
+      "imagem": "https://s2-g1.glbimg.com/Hpaum2O1-F9m5Ho-bRyzQ3cEmmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/K/JTVQwLQk25iBnmQicfkQ/ap26220552236900.jpg"
     },
     {
       "titulo": "Resultado da Mega-Sena 3047: 31 apostas do Piauí acertam números; veja valores",
@@ -14,7 +34,7 @@
     },
     {
       "titulo": "Filho de Carla Perez e Xanddy e fisiculturista curtem lua de mel em Fernando de Noronha",
-      "imagem": "https://s2-g1.glbimg.com/pECC7Bx1M9e3uiSGJv5plnSZMkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/H/BfkXHVQmWpF9laxexphw/foto-no-tamanho-home-2026-08-17t070939.027.jpg"
+      "imagem": "https://s2-g1.glbimg.com/Ar1yrVd2xs2xKrzPRX9S-w7Sagg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/J/GmaGX8QquEwDQCkzilzQ/foto-no-tamanho-home-2026-08-21t062748.941.jpg"
     },
     {
       "titulo": "'Deserto feito de água': Nasa publica imagem dos Lençóis Maranhenses vista do espaço",
@@ -25,7 +45,7 @@
       "imagem": "https://s2-g1.glbimg.com/DZ2hC-J9xq3oiQtGGHen58xpaew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/F/PV75KVSd26345BYC8FDw/bf6c1ad8-7d43-41be-ba46-78b53acdc95f.png"
     },
     {
-      "titulo": "Tiroteio fecha a Avenida Brasil na altura de Cordovil",
+      "titulo": "Operação da PM no Complexo de Israel fecha a Av. Brasil; motorista é atingido por bala perdida",
       "imagem": "https://s2-g1.glbimg.com/Y5jI7nLwPAdwNTZyK7U5KEvvweM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/a/j7muwsSy2WHNpmTdoB3w/21brasil.jpeg"
     },
     {
@@ -99,27 +119,7 @@
     {
       "titulo": "Qual é o perfil dos candidatos de São Paulo nas eleições de 2026?",
       "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
-    },
-    {
-      "titulo": "Pilotos e comissários lideram risco de morte por câncer ligado à radiação, aponta estudo",
-      "imagem": "https://s2-g1.glbimg.com/xQ4J4tZdGICBkA0jvFgd58dBoH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/6/tNeA4dSgqAIBw0nMJ9sQ/ap26230530732293.jpg"
-    },
-    {
-      "titulo": "Cientistas testam vacinas para barrar câncer de intestino antes que ele se forme",
-      "imagem": "https://s2-g1.glbimg.com/3x4J9WtmGJZ-Ag4yEkmlAdOSyIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/T/dPOwnbTP2evlBI5uClTQ/pexels-franco30-8488619.jpg"
-    },
-    {
-      "titulo": "Frente fria chega nesta sexta e muda o tempo no Vale do Paraíba e Litoral Norte; veja a previsão",
-      "imagem": "https://s2-g1.glbimg.com/VMQmuWnGM39n6naf6Z1ECkEFjGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/t/tVVDtJQgSbBQUW4tSutw/vento.jpg"
-    },
-    {
-      "titulo": "De Miss Brasil Gay a estilista de Xuxa, Anitta e Ivete: conheça a trajetória de Michelly X",
-      "imagem": "https://s2-g1.glbimg.com/MXxCpQkIn2yn16RIxzjUPcMrYYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/p/s/PoCRR5TyitDOHY7CNNDg/michelly-x-estilista-.jpg"
-    },
-    {
-      "titulo": "Pai que não gosta de terno e gravata disse que compraria 'uma camisa bem bonita' para levar filha ao altar em MG",
-      "imagem": "https://s2-g1.glbimg.com/-Lhe3VFi5T8iPMrR-50BR_eAf58=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/v/mBkQhMRwOge0fiJyEdUg/jl-tm-2026-08-19t135727.810.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-21T09:36:57.411Z"
+  "atualizadoEm": "2026-08-21T10:05:38.189Z"
 }
