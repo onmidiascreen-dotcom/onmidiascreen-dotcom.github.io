@@ -1,6 +1,98 @@
 {
   "noticias": [
     {
+      "titulo": "Sesc realiza quase 30 mil atendimentos durante a Expoacre 2026",
+      "imagem": "https://s2-g1.glbimg.com/Y71RB0B7XXz_F8M5MnTLgUBtx-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/ktjuCUSUqWdJU3XtV8BQ/whatsapp-image-2026-08-11-at-11.03.24.jpeg"
+    },
+    {
+      "titulo": "Pacientes renais do TO que aguardam transplante relatam dificuldades para conseguir passagens aéreas pelo Estado",
+      "imagem": "https://s2-g1.glbimg.com/qXcdrLMruCpZwViWHUsVS6ct6-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/W/OFYd2nT4i1ywOn9RsWEQ/copia-de-modelo-foto-fundo-borrado-3-.png"
+    },
+    {
+      "titulo": "O que faz um bairro preservar o valor dos imóveis ao longo do tempo?",
+      "imagem": "https://s2-g1.glbimg.com/XvTtGcMMUyAtZR9p9ITEtQpKgxI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/y/86Vn2dSSmYRqRCosSmsg/clean-street-residential-area-small-town-1-.jpg"
+    },
+    {
+      "titulo": "'As ditaduras não sossegam, então os democratas também não podem sossegar', diz ministra Cármen Lúcia em SP",
+      "imagem": "https://s2-g1.glbimg.com/bgdeHtUgJ9IeCQKVZPiSQ14ewRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/m/BmYdodTnermKXbB0rv8w/gnews-carmen-lucia-usp-20260821-0952-frame-174317.jpeg"
+    },
+    {
+      "titulo": "5 ferramentas profissionais que mostram a inovação na construção",
+      "imagem": "https://s2-g1.glbimg.com/gBq0JCle_b8ySJBV54D60PuEsMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/S/7lZjs1RraAH4M7AEyAwQ/1.png"
+    },
+    {
+      "titulo": "Avibras se manifesta sobre compra pelo Grupo J&amp;F, de Joesley e Wesley Batista, e diz que negócio ainda depende do Cade",
+      "imagem": "https://s2-g1.glbimg.com/IVnEJBbwz3NEJybCl1CFDMBpcYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/W/JZ9D5vQqWCjL0AWAfMBg/foto-g1.jpg"
+    },
+    {
+      "titulo": "Sanfoneira com deficiência visual é furtada enquanto tocava no centro de Araçatuba",
+      "imagem": "https://s2-g1.glbimg.com/fV2bvtI0xzDAiNoenzsbHch7dU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/V7ilF5QYeXLRNkDYSzgQ/design-sem-nome-18-.jpg"
+    },
+    {
+      "titulo": "Equipamento rompe a 20 metros do chão e trabalhador é resgatado em obra de Divinópolis",
+      "imagem": "https://s2-g1.glbimg.com/UolngBcgamJF4Yevd79a2FWJBLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/x/mrkEAnTYOBtBCHx0uvkw/captura-de-tela-2026-08-21-161057.png"
+    },
+    {
+      "titulo": "STF deve retomar em setembro julgamento sobre mudança na Lei da Ficha Limpa que pode impactar campanhas",
+      "imagem": "https://s2-g1.glbimg.com/cZSfAUNyYjOnN7oau3wgCKJEfck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/g/yiNUjoRdSPzfkziaBTtA/55355030284-9e4e4110e7-k.jpg"
+    },
+    {
+      "titulo": "Pré-vestibular gratuito da UPE oferece vagas em Caruaru para preparação para o ENEM",
+      "imagem": "https://s2-g1.glbimg.com/K9iwUcKOOy-k8X2UOwFR9MODgnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/M/k8MWQrTPelQ6cKwYpWdw/whatsapp-image-2026-08-21-at-16.01.24.jpeg"
+    },
+    {
+      "titulo": "Governador mexicano volta ao cargo após quatro meses afastado por suspeita de narcotráfico",
+      "imagem": "https://s2-g1.glbimg.com/H1B0PbiKz8JugrKkci5ULRbkoTQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/v/tfbvd7T6mVYCytEcip5A/ap26233683341014.jpg"
+    },
+    {
+      "titulo": "Justiça revoga uso de tornozeleiras por cunhados do prefeito de Sorocaba, Rodrigo Manga",
+      "imagem": "https://s2-g1.glbimg.com/JWiS_7JnCJxc4UaB0IrNtNawJWU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/x/BHP3PwRFChGFLdquuyMg/manga-josivaldo.jpg"
+    },
+    {
+      "titulo": "O que torna um investimento imobiliário realmente seguro?",
+      "imagem": "https://s2-g1.glbimg.com/iTspf5fLAe96R4yV_9Isa8rjxiI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/A/3Bk142RKqRxFr1hnc0eA/closeup-shot-person-thinking-buying-selling-house.jpg"
+    },
+    {
+      "titulo": "Campo de futebol comprado com dinheiro do tráfico é 'sequestrado' durante operação em Porto Velho",
+      "imagem": "https://s2-g1.glbimg.com/kmg28NRdclmypuMdp78-1kjEcAg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/u/fpU5QoQtGE6P8ztf4g3Q/captura-de-tela-2026-08-21-150458.jpg"
+    },
+    {
+      "titulo": "Corpo de caseiro é encontrado amarrado em chácara no interior de SP; polícia investiga",
+      "imagem": "https://s2-g1.glbimg.com/KuccqnP0B2g5gp2A-r78SetoMTg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/J/AleAbtTnC7igW4SzUbMQ/caseiro-morto-sitio-sao-carlos-1-.jpg"
+    },
+    {
+      "titulo": "Luxo silencioso muda a forma de pensar imóveis de alto padrão",
+      "imagem": "https://s2-g1.glbimg.com/ApTfg7yiH-7wkxIx-x3KPaWXzUo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/c/RXbL4yTuuciZqK15AgtQ/beautiful-tropical-beach-front-hotel-resort-with-swimming-pool-paradise-destination-vacations-ge.jpg"
+    },
+    {
+      "titulo": "Funcionários de operadoras de internet denunciam sofrer ameaças em bairro de Rio Bonito; moradores ficam sem serviço",
+      "imagem": "https://s2-g1.glbimg.com/C2rW0DPw2-gNHE5Oi2yoUCBknh0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/g/Fe1BRZTwqCk47yGhMOBA/mensagens-oara-operadoras-de-interent.jpg"
+    },
+    {
+      "titulo": "Fortaleza terá campanhas de vacinação para pessoas e animais e mutirão de saúde bucal neste sábado (22)",
+      "imagem": "https://s2-g1.glbimg.com/Y5JAi7Otl7x2Pu2XISSl4yXOxoY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/f/4jGbzXRJ26pgYH9wFqmw/vacinacao-fortaleza.jpg"
+    },
+    {
+      "titulo": "Integrante de grupo que roubou R$ 800 mil em espécie e 30 kg de ouro em RR é preso em SC",
+      "imagem": "https://s2-g1.glbimg.com/wqNRwoNSjmSBOX0hnPj6O7Nsw3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/G/tSTvi8SSKxnEfKVEFyZw/pcsc.jpg"
+    },
+    {
+      "titulo": "Homem passa mal e morre dentro de academia em Salvador",
+      "imagem": "https://s2-g1.glbimg.com/1vn8slpz5kMo4-bnNh7mh6Wgung=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/9/byW75MSxGKv8ZXLwZd1Q/16cbb2800ea80790ce559efc9165291a.jpg"
+    },
+    {
+      "titulo": "Cloud para startups: como estruturar infraestrutura desde o início",
+      "imagem": "https://s2-g1.glbimg.com/AQ22YX8NfvZU8oRWpl6uLkuofP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/0/2OCxstT2qwvjxqS5vaRw/materia-rpc-7.png"
+    },
+    {
+      "titulo": "Itajaí entrou no radar de quem pensa patrimônio no longo prazo",
+      "imagem": "https://s2-g1.glbimg.com/ZG0EIPogq7B3lv8yWtGJWiiQSHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/3/U7OmLuQ5i8OKBcaX57Aw/porto-itajai-navegantes.jpg"
+    },
+    {
+      "titulo": "Empresário que morreu em acidente na GO-070 era extrovertido e querido, diz família",
+      "imagem": "https://s2-g1.glbimg.com/wS-JEC24hXRIV6QH5RhGD419OZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/s/SGcNTbRSArboWIvYRIzA/g1-foto-15-.jpg"
+    },
+    {
       "titulo": "Por que investidores voltam a olhar para imóveis em tempos de juros altos",
       "imagem": "https://s2-g1.glbimg.com/w4Yw5EJm3K1v2I3Yn0XIOTonLJY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/w/VjHsCwT8aE3koHWV8mpA/closeup-real-estate-agent-giving-couple-keys-their-new-home.jpg"
     },
@@ -21,105 +113,13 @@
       "imagem": "https://s2-g1.glbimg.com/ITu5_gMJdPZs7_Lnl_d-1pAIUIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/K/SrdDFmTfGJlJrIO9I3Rg/videos-g1-4-.png"
     },
     {
-      "titulo": "Moraes autoriza Jair Bolsonaro a voltar a receber na prisão domiciliar as visitas dos filhos Carlos e Jair Renan",
-      "imagem": null
+      "titulo": "Moraes autoriza Jair Bolsonaro a voltar a receber visitas dos filhos Carlos e Jair Renan na prisão domiciliar",
+      "imagem": "https://s2-g1.glbimg.com/RYgiOgj7p8h3Uzw-zpcqun1aj2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/N/E5A2pOSNmoQKmacsQNug/2.180802.jpg"
     },
     {
       "titulo": "Após calorão de 30°C, temperatura despenca em Juiz de Fora e região",
       "imagem": "https://s2-g1.glbimg.com/nRvnm0Go9_Hx7lFXDr033DwYhvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/h/Zae9ZcSn2l6kRj8XiGqA/tempo-editada-juliana.jpg"
-    },
-    {
-      "titulo": "Motorista capota carro ao tentar sair de trânsito lento e evitar batida em rodovia de Divinópolis",
-      "imagem": "https://s2-g1.glbimg.com/za2NiDoMVCTH8yyQ6jNTkWYBagc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/8WCUTTTzGjPqK4yB28BQ/capotamento-em-divinopolis.jfif"
-    },
-    {
-      "titulo": "Fifa multa Argentina por faixa sobre Ilhas Falklands/Malvinas e suspende jogadores após briga na final da Copa do Mundo",
-      "imagem": "https://s2-g1.glbimg.com/mNrWNOKvp5l2w_aGdhILPa6pyVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Q/1eqOiQTniObAxQN1phQg/07e99371-9dd6-470a-a4e2-1ec13bcc0504.png"
-    },
-    {
-      "titulo": "Allan Barros: a trajetória por trás do Método Founder-Led Growth",
-      "imagem": "https://s2-g1.glbimg.com/TbGme5UwlI8C1K6YCaqm1V7H9-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/s/0nBizwSdqBd9qTmcaEMw/imagem-3-materia-2.png"
-    },
-    {
-      "titulo": "MOVIMENTE-SE: Unimed promove atividades físicas gratuitas em parques de Cuiabá",
-      "imagem": "https://s2-g1.glbimg.com/I1FDnnpzjDWSpBkZaJNXFXye4cY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/m/sMAg2hS6CBrFAkKJfAvw/whatsapp-image-2026-08-21-at-09.38.53-2-.jpeg"
-    },
-    {
-      "titulo": "Festival japonês reúne gastronomia, cosplay e atrações gratuitas em Guarujá; veja a programação",
-      "imagem": "https://s2-g1.glbimg.com/Vb5PyvkgIH1aSRU2r72KUczIgeU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/u/1bmfXJSwKeUxTFwwO6Hg/foto-tradicional.png"
-    },
-    {
-      "titulo": "Imersão Founder-Led Growth: transforme presença em autoridade",
-      "imagem": "https://s2-g1.glbimg.com/AbbSL6_2RuXJo8lxbmh9piNLkLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/V/3XYQr9RoqJuBoAYeZh2g/imagem-1-materia-1.png"
-    },
-    {
-      "titulo": "Justiça mantém preso homem por maus-tratos contra cachorro em após vídeo de agressão com vassouradas e chutes em Araruama",
-      "imagem": "https://s2-g1.glbimg.com/lTAAxegZkpXkLK8BCk87JohPbb0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/J/paHocySfirv4bhJ18QuQ/cao-medo.jpg"
-    },
-    {
-      "titulo": "Mãe de adolescente assediada por servidor que tentou beijá-la está indignada: 'Sensação de muito nojo, raiva e ira'",
-      "imagem": "https://s2-g1.glbimg.com/tfMAygm4tFhqY3Rwr-oNEDWmGTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/7/M7AEx1SPK9yLM93NjJpQ/design-sem-nome-6-.jpg"
-    },
-    {
-      "titulo": "À polícia, segurança preso por morte de ciclista em Copacabana confessa crime e diz que pauladas na cabeça foram 'ato insano'",
-      "imagem": "https://s2-g1.glbimg.com/CI_xFv9qhNzWFXl8auoLx-vI5T8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/8/PzPMV5TCmlPAmnBMn88Q/imagem-cortada-1-.jpg"
-    },
-    {
-      "titulo": "ACIA destaca programa da NidusTec para empreendedores e inovadores de Alfenas",
-      "imagem": "https://s2-g1.glbimg.com/mtDjeid-uQXl8V6VxesX5312gBY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/S/DcQ2kIQXSdmS9QGj6EDw/imagem-g1-36-.png"
-    },
-    {
-      "titulo": "Com 389 atendimentos de violência contra a mulher desde 2025, Monte Alegre ganha sala de acolhimento para vítimas",
-      "imagem": "https://s2-g1.glbimg.com/KAlvIqENrW-PxcsATGQJ5SEV04g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/t/ZOaMLhS3COBUqMYTrz1Q/whatsapp-image-2026-08-21-at-14.09.31-1-.jpeg"
-    },
-    {
-      "titulo": "Cinzas do cantor Lucas, da dupla Lucas &amp; Matheus, devem chegar ao interior de SP na próxima semana",
-      "imagem": "https://s2-g1.glbimg.com/jy7weQhuCHpN6ld27_tlyVU9jnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/M/9tjsBMQ0qOLaXZkzBDoA/novo-projeto-2026-08-15t175647.187.png"
-    },
-    {
-      "titulo": "Serviço de shuttle e fretamento de ônibus: alternativas de transporte coletivo!",
-      "imagem": "https://s2-g1.glbimg.com/URIzlmjEnOCIYRZ8KsDnvVyVRCA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/k/EVUNDMSOOxfeyg0A5OIQ/1.png"
-    },
-    {
-      "titulo": "Corpo de mulher com marcas de tiros é encontrado em Caratinga",
-      "imagem": "https://s2-g1.glbimg.com/4sxDCL6Qcjoggz1jjc-0XPYTyaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/V/pVQ8lqRB6o374dD2pGUg/vitimasfatais-82-.png"
-    },
-    {
-      "titulo": "Cidade do interior de SP confirma 3ª morte por febre maculosa",
-      "imagem": "https://s2-g1.glbimg.com/GV7FXLMzPZohAuq2jSyFu_daDAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/L/xzCG84Q9OWOHrvBhqOdA/adobestock-464609443.jpeg"
-    },
-    {
-      "titulo": "Suprema Corte dos EUA dá permissão temporária para Trump seguir construção de salão de baile gigante na Casa Branca",
-      "imagem": "https://s2-g1.glbimg.com/VCYEsc_QegfWA794wzTYsJ13ogE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/R/YxHatwQXq6VvhwUGYLkA/2026-03-30t011527z-357749357-rc2pekarhri3-rtrmadp-3-usa-trump.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição Regiões de sexta-feira, 21 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/LmPHq9HRNoqRXduLfKMXXy5KFoc=/s01.video.glbimg.com/deo/vi/71/02/14890271"
-    },
-    {
-      "titulo": "VÍDEOS: JL1 de sexta-feira, 21 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/TjaTuq7SUlCTmjojyrQNR6pH_90=/s01.video.glbimg.com/deo/vi/66/04/14890466"
-    },
-    {
-      "titulo": "Entenda porque Binho Galinha conseguiu registrar candidatura mesmo preso e o que pode acontecer agora",
-      "imagem": "https://s2-g1.glbimg.com/M1cGQakJYzrGdck7uXgo9HRSEY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/D/2/S4ONVfT32TFLfuBX1vZA/whatsapp-image-2023-12-07-at-13.33.15.jpeg"
-    },
-    {
-      "titulo": "Acidente com seis vítimas deixa uma pessoa morta na BR-376 em MS",
-      "imagem": "https://s2-g1.glbimg.com/57nI3AlEhvaFtz07nktL-1zyXDc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/0/TgPXGBRwqVkHuVhUOtoQ/formato-g1-45-.png"
-    },
-    {
-      "titulo": "Motorista morre após bater carro contra barranco em Itapeva; polícia investiga",
-      "imagem": "https://s2-g1.glbimg.com/feg69uJcBOetIk_bcv-mc5l8euo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/w/L/MmMunRR5eA4njAozZjhw/whatsapp-image-2025-05-21-at-15.52.08.jpeg"
-    },
-    {
-      "titulo": "Dia D de vacinação é realizado neste sábado (22): veja os locais e horários em cidades do Vale e região",
-      "imagem": "https://s2-g1.glbimg.com/nskxWE5ABNr4WnbUlFDQqZRXHkg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/q/29EhasROaZmpjnkgDKKQ/foto-g1-2-.png"
-    },
-    {
-      "titulo": "VÍDEO flagra homem agredindo cão durante passeio e tutor é preso em Balneário Camboriú",
-      "imagem": "https://s2-g1.glbimg.com/5QJnntkzOlKpo6XXQVJPyGXkacU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/U/ZAiLBATyAqN1hIJEQ6KQ/video-mostra-tutor-agredindo-cachorro-com-tapas-em-balneario-camboriu-homem-foi-preso-1-.png"
     }
   ],
-  "atualizadoEm": "2026-08-21T18:55:08.717Z"
+  "atualizadoEm": "2026-08-21T19:22:35.765Z"
 }
