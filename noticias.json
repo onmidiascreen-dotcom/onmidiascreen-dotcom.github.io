@@ -1,11 +1,95 @@
 {
   "noticias": [
     {
+      "titulo": "F1: Kimi Antonelli bate Norris e lidera único treino do GP da Holanda",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio leva campanha à Baixada e testa força em reduto estratégico no RJ",
+      "imagem": null
+    },
+    {
+      "titulo": "Lito Sousa e Creutzfeld-Jacob: entenda doença degenerativa dos movimentos",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja o momento em que avião atinge helicóptero durante treinamento nos EUA",
+      "imagem": null
+    },
+    {
+      "titulo": "Chapecoense anuncia ex-Atlético-MG e campeão europeu para a temporada",
+      "imagem": null
+    },
+    {
+      "titulo": "Resumo de &#8220;Por Você&#8221;: de 24 a 29 agosto",
+      "imagem": null
+    },
+    {
+      "titulo": "Entenda o impacto da ida do porta-aviões George Washington ao Oriente Médio",
+      "imagem": null
+    },
+    {
+      "titulo": "Alta na inflação e nos juros reflete crescimento do Japão, afirma premiê",
+      "imagem": null
+    },
+    {
+      "titulo": "TSE deve definir candidatura de Pablo Marçal em setembro",
+      "imagem": null
+    },
+    {
+      "titulo": "Ex-BBB Jonas Sulzbach relata dificuldades após fraturar o braço",
+      "imagem": null
+    },
+    {
+      "titulo": "Quais as chances de uma final brasileira na Libertadores? Veja cenários",
+      "imagem": null
+    },
+    {
+      "titulo": "Libertadores 2026 pode ter semifinal 100% brasileira; veja cenários",
+      "imagem": null
+    },
+    {
+      "titulo": "Resumo de &#8220;Quem Ama Cuida&#8221;: de 24 a 29 de agosto",
+      "imagem": null
+    },
+    {
+      "titulo": "China promete suporte fiscal tempestivo para impulsionar crescimento",
+      "imagem": null
+    },
+    {
+      "titulo": "Pescadores do México passam cinco dias à deriva no mar em caixa térmica",
+      "imagem": null
+    },
+    {
+      "titulo": "Escolinhas de futebol ensinam crianças a combater violência contra a mulher",
+      "imagem": null
+    },
+    {
+      "titulo": "Bolsas da Ásia fecham majoritariamente em alta, mesmo após perdas em WS",
+      "imagem": null
+    },
+    {
+      "titulo": "Frente fria muda o tempo no Rio com ventos fortes hoje; veja recomendações",
+      "imagem": null
+    },
+    {
+      "titulo": "Correios abrem novo programa de demissão voluntária após baixa adesão",
+      "imagem": null
+    },
+    {
+      "titulo": "Lito Sousa foi diagnosticado com doença rara e perdeu parte dos movimentos",
+      "imagem": null
+    },
+    {
       "titulo": "O Grande Debate: É justo ou errado enviar caso Lulinha à 1ª instância?",
       "imagem": null
     },
     {
       "titulo": "FAB encerrou voo após foguete sul-coreano desviar de rota; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump permitirá importação de carne moída “sem tarifa fora da cota”",
       "imagem": null
     },
     {
@@ -35,91 +119,7 @@
     {
       "titulo": "Alex Telles explica confusão com técnico rival: &#8220;Ele sabe o que falou&#8221;",
       "imagem": null
-    },
-    {
-      "titulo": "Liam Lawson volta à Red Bull após dispensa e admite desafio em Zandvoort",
-      "imagem": null
-    },
-    {
-      "titulo": "RJ: Motorista é baleado durante operação com interdição na Avenida Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Dia D: Campanha Nacional de Multivacinação começa neste sábado (22)",
-      "imagem": null
-    },
-    {
-      "titulo": "EUA fazem operações militares contra cartéis e narcotráfico no Equador",
-      "imagem": null
-    },
-    {
-      "titulo": "Tecon 10: Sem restrições, concentração no Porto de Santos pode chegar a 80%",
-      "imagem": null
-    },
-    {
-      "titulo": "Incêndio de grandes proporções atinge bar na Barra da Tijuca, no Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Variação do dólar: como impacta sua vida financeira",
-      "imagem": null
-    },
-    {
-      "titulo": "Real Betis x Real Sociedad: horário e onde assistir ao jogo de LaLiga",
-      "imagem": null
-    },
-    {
-      "titulo": "Festa do Peão de Barretos: quanto custam os ingressos do rodeio?",
-      "imagem": null
-    },
-    {
-      "titulo": "National Beef mantém margem positiva em meio à crise do gado nos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: Trump pode levar adiante seu plano contra a economia do Irã?",
-      "imagem": null
-    },
-    {
-      "titulo": "Olympique de Marseille x Strasbourg: horário e onde assistir à Ligue 1",
-      "imagem": null
-    },
-    {
-      "titulo": "Amyr Klink revela que não queria que filha, Tamara, se tornasse navegadora",
-      "imagem": null
-    },
-    {
-      "titulo": "Lembra dele? Hyundai Tucson ganha nova geração com visual arrojado",
-      "imagem": null
-    },
-    {
-      "titulo": "João Fonseca completa 20 anos e vira “adulto” no tênis; compare números",
-      "imagem": null
-    },
-    {
-      "titulo": "Algodão brasileiro lidera exportações e conquista mercado global",
-      "imagem": null
-    },
-    {
-      "titulo": "System Of A Down e Faith No More no Brasil: veja como garantir seu ingresso",
-      "imagem": null
-    },
-    {
-      "titulo": "O que funciona melhor no vestibular: estudar o ano todo ou na reta final?",
-      "imagem": null
-    },
-    {
-      "titulo": "Chinesa busca acesso à Foz do Amazonas após descoberta da Petrobras",
-      "imagem": null
-    },
-    {
-      "titulo": "Renault Koleos é premium de verdade, mas consumo afasta; conheça detalhes",
-      "imagem": null
-    },
-    {
-      "titulo": "O que os presidenciáveis propõem para o agro? Conheça as propostas",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T11:51:21.366Z"
+  "atualizadoEm": "2026-08-21T12:38:29.137Z"
 }
