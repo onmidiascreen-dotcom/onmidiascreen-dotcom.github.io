@@ -1,6 +1,62 @@
 {
   "noticias": [
     {
+      "titulo": "Gusttavo Lima dá spoiler do primeiro show na Festa do Peão de Barretos 2026",
+      "imagem": "https://s2-g1.glbimg.com/jVMS7s3Jw0-NzGXbFoXp48plmBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/d/tAdhP8QameYivrZCO1tQ/gusttavo-lima.png"
+    },
+    {
+      "titulo": "FOTOS: Matheus &amp; Kauan na Festa do Peão de Barretos 2026",
+      "imagem": "https://s2-g1.glbimg.com/b_liTJCjd3dSB0ZSnzP7lGTNVpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/D/Dnw3JSQn2GyhPdbk2m5g/dsc-9396.jpg"
+    },
+    {
+      "titulo": "Casal transforma tradição judaica em negócio de R$ 150 mil por mês em São Paulo",
+      "imagem": "https://s2-g1.glbimg.com/159lDu81dRjVbE3AtV_ophM7yII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/z/dgeaTrSk2BdPEaBW92RQ/captura-de-tela-2026-08-18-101052.png"
+    },
+    {
+      "titulo": "Marisa Monte, Silva, Pablo, Zezo, Patrick Costa, Abstract Festival e versão sinfônica de Lulu Santos animam fim de semana no DF",
+      "imagem": "https://s2-g1.glbimg.com/t-jDGYVIGpntkh5c4rMgztDcZYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/Z/KTrZhoS7Km1GGeBpw7OA/dsc09269.jpg"
+    },
+    {
+      "titulo": "Breakfast Weekend: festival de café da manhã no DF vai até dia 30 com menus a partir de R$ 39,90",
+      "imagem": "https://s2-g1.glbimg.com/nft88UNMu096YnAANoDyT7qAraE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/C/oaweskSVGTFJsyKugFMA/golden-tulip-brasilia-alvorada.jpg.jpeg"
+    },
+    {
+      "titulo": "'Não caiu a ficha', diz comerciante que perdeu casa e salgaderia em incêndio após deixar fritadeira ligada em SP",
+      "imagem": "https://s2-g1.glbimg.com/kBDWjgukNddqF1E9F9gt3JNO-3E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/A/GkCxHJTlCvKxAYiR4ydg/moldura-padrao-g1-2-.png"
+    },
+    {
+      "titulo": "Perícia confirma que menino de 12 anos morreu após choque em trailer no DF; dono pode ser responsabilizado",
+      "imagem": "https://s2-g1.glbimg.com/hM4TWetDTo97qnEWY6EoTwcrWzo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/Y/RagOOAS8iyRduzxtBGbQ/design-sem-nome-85-.png"
+    },
+    {
+      "titulo": "O que se sabe sobre vínculo entre adolescente de 14 anos morta e ex-padrasto que confessou o crime após separação da mãe",
+      "imagem": "https://s2-g1.glbimg.com/wLnKn-gblEF2P41avF13GprThW4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/t/NjrREeRGSPu8sZP59ZAQ/documento.png"
+    },
+    {
+      "titulo": "O vendedor de carros da Bélgica que se tornou príncipe após ter parentesco com a família real confirmado",
+      "imagem": "https://s2-g1.glbimg.com/sGe0rfrX3Eo7i2x6qzkWfetWn0w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Y/ABdMCpTZSIaetR9WohXQ/belgica.jpg"
+    },
+    {
+      "titulo": "Secas extremas podem pressionar abastecimento de São Paulo e Rio de Janeiro, diz estudo",
+      "imagem": "https://s2-g1.glbimg.com/bwNk29vIdfxVlovbVSQUQLbud_I=/s.glbimg.com/jo/g1/f/original/2014/03/20/seca3.jpg"
+    },
+    {
+      "titulo": "Bullying no trabalho: quais são os sinais de alerta e como denunciar?",
+      "imagem": "https://s2-g1.glbimg.com/mKUwwp9re2tbAEgMCA805a3mHDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/J/JeZ1UpQ72DBpbrfWbN4Q/assedio-moral.jpg"
+    },
+    {
+      "titulo": "Alimentos editados geneticamente: o que são e o que dizem críticos e defensores",
+      "imagem": "https://s2-g1.glbimg.com/p4W6svBcY_NsiLtXidI4KLy0Caw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/6/u/3uiAncT8COjBnT3SX0gw/img-7211.jpg"
+    },
+    {
+      "titulo": "Especialista lista três formas de equilibrar a dopamina e reduzir a dependência de estímulos digitais",
+      "imagem": "https://s2-g1.glbimg.com/iqyT9_jlRL8ol7MJYdoif5DybwI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/B/u0gcasRZ6e4XIyyg3IsQ/imagem-cortada-9-.jpg"
+    },
+    {
+      "titulo": "Conheça a caverna que guarda registros do El Niño ao longo dos séculos; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/WjRTePWHEa4xr67Yv0-UnIxit0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/L/1z2XXHRe6geSvtG2qBww/captura-de-tela-2026-08-20-131326-1-.jpg"
+    },
+    {
       "titulo": "VÍDEO: Ana Castela chega à Festa do Peão de Barretos 2026",
       "imagem": "https://s2-g1.glbimg.com/HcIxg6g3hcO5TMki4j-IEMe_JUE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/w/rcbDQjSKGmYY4wpx90Bw/design-sem-nome-10-.png"
     },
@@ -29,7 +85,7 @@
       "imagem": "https://s2-g1.glbimg.com/-9DrRMEbU_6UBq0zh0SOhT-ClWM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/3/OIYWw1TLueLXrlf5j17w/marcola-lulinha.jpg"
     },
     {
-      "titulo": "Avião com oito pessoas a bordo cai no Alasca",
+      "titulo": "Avião fretado cai próximo a estação de radar no Alasca e deixa oito mortos",
       "imagem": null
     },
     {
@@ -63,63 +119,7 @@
     {
       "titulo": "Rio tem previsão de chegada de frente fria com ventos de até 90 km/h, diz Climatempo",
       "imagem": "https://s2-g1.glbimg.com/RiYA98a9lNfWzfGsb7KlhC7Mj5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/L/7zRqgZT2q22KOu9uKoAQ/g1-ventos-rj2.jpg"
-    },
-    {
-      "titulo": "Shows, festival e peças teatrais: veja o que fazer no fim de semana na região de Ribeirão Preto e Franca",
-      "imagem": "https://s2-g1.glbimg.com/L1QnNMc7c-cxSGhsUPMltWBIx1w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/U/z/4RU2GUTxGL7u8zAlwxhg/espetaculo-intimidade-indecente-foto-06-flavia-espirito-santo.jpg"
-    },
-    {
-      "titulo": "Dia D de vacinação acontece neste sábado (22) em todo o país; saiba mais",
-      "imagem": "https://s2-g1.glbimg.com/xNfErPl1utXd_ogaQUmA9Wx1zE0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/x/F/WNAz0nThuLDVK6MvpSuQ/vacinacao-vacina-infantil-crianca-covid-19-uberaba-16-10-2021.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: número de candidaturas a deputado federal cai 28% em relação a 2022",
-      "imagem": "https://s2-g1.glbimg.com/Dvn_dVDWnVNGTyL0sI4d9cRCZUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/mOgzvYQE6ONe4ajXDEZg/img20260326111324126.jpg"
-    },
-    {
-      "titulo": "Luz do sol pode ter atrapalhado visão de campeão de jiu-jitsu morto em grave acidente no interior de SP: veja o que se sabe",
-      "imagem": "https://s2-g1.glbimg.com/2n-SeSAPdxjDQb7iAZnQFUh_21o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/k/hq1GvqSKazGmdC3LBUSw/lutador-de-jiu-jitsu-diego-henrique-feltran-2-1-.jpg"
-    },
-    {
-      "titulo": "Frente fria muda o tempo em SP nesta sexta e derruba temperaturas no fim de semana",
-      "imagem": "https://s2-g1.glbimg.com/ScrkHcptkDYENDv0RqiChG8vXTs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/x/3/OzzxA9RU2wFIgefpn1ZQ/ato20230718001.jpg"
-    },
-    {
-      "titulo": "'Ter sobrevivido a um acidente desta magnitude não tem explicação', diz jovem que estava em ônibus em que mais de 20 pessoas morreram no PR",
-      "imagem": "https://s2-g1.glbimg.com/WVF_e_t7MGcq63_6bFhlgEKurNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/k/qGTZVqRSewxiAcs3UcAQ/snapshot-1248.png"
-    },
-    {
-      "titulo": "Etiqueta de dinheiro, bilhete e foto de carro: autor de homicídio no Maranhão entregou à PF supostas provas contra políticos",
-      "imagem": "https://s2-g1.glbimg.com/n75XNGL7FWjf4m5Mou2UvTm4q6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/e/Psteb4RBChI8dKr83Qsw/whatsapp-image-2026-08-18-at-16.35.45.jpeg"
-    },
-    {
-      "titulo": "Professora denuncia assédio após ser mordida e agarrada por instrutor de academia; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/i7NoESuv15n75YUmCe_Ml8VXbmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/W/mBGuwhQvSzXPzTAxytkw/professora.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: Veja a agenda dos candidatos ao Governo do RJ na sexta-feira",
-      "imagem": "https://s2-g1.glbimg.com/UKBAYz6wLFpXuzdVjhrLapUspew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/FzkaJDRGaZnMi4MVkeew/edicao-imagens-g1-33-.png"
-    },
-    {
-      "titulo": "VÍDEO: Pescadores são resgatados após passar 5 dias à deriva no Pacífico dentro de caixa térmica",
-      "imagem": "https://s2-g1.glbimg.com/ArdDaTMzvdh_eAeui8zobJwYVJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/D/bQkn7WQvGGUdBqrkUD4Q/hqivteiwyae3oam.jpg"
-    },
-    {
-      "titulo": "Frente fria traz ventania ao Sudeste; ciclone ainda influencia o Sul e frio aumenta no fim de semana",
-      "imagem": "https://s2-g1.glbimg.com/GL2-U4LKlUQ88KWBtQi4JeJCqpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/v/PPpLb5Q0mGKrNH9dWuNQ/imagem-cortada.jpg"
-    },
-    {
-      "titulo": "'Chamava ele de pai', diz delegada sobre vínculo entre criança de 4 anos morta e tio que confessou agressões",
-      "imagem": "https://s2-g1.glbimg.com/JIhPnzJOdBnyzY2loY8KPhGV9bo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/U/JBPrZMT2Sg67HVBxyyzQ/documento.png"
-    },
-    {
-      "titulo": "Pai que achou bilhetes de filha morta há 3 anos é pastor e lançou livro de poesias escritas pela menina: 'Não se resume à tragédia'",
-      "imagem": "https://s2-g1.glbimg.com/bO8J28MxlWXpe5lEVXnHLf5Arrk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/U/2iT6LBRVAne3DJQe1DPQ/americana.jpg"
-    },
-    {
-      "titulo": "Festa do Peão de Barretos: touros levam a melhor sobre os peões na abertura da montaria; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/UgtLnIBEvoia92u--nFvaPOZEkA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Z/a92buGSXGhHb65XuiwmQ/dsc-8933.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-21T05:03:13.504Z"
+  "atualizadoEm": "2026-08-21T05:47:16.190Z"
 }
