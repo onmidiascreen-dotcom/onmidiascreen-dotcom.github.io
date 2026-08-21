@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "João Fonseca completa 20 anos e vira “adulto” no tênis; compare números",
+      "imagem": null
+    },
+    {
+      "titulo": "Algodão brasileiro lidera exportações e conquista mercado global",
+      "imagem": null
+    },
+    {
+      "titulo": "System Of A Down e Faith No More no Brasil: veja como garantir seu ingresso",
+      "imagem": null
+    },
+    {
+      "titulo": "O que funciona melhor no vestibular: estudar o ano todo ou na reta final?",
+      "imagem": null
+    },
+    {
       "titulo": "Chinesa busca acesso à Foz do Amazonas após descoberta da Petrobras",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "CNJ manda investigar juiz que anulou caso de R$ 200 mi após nomear o filho",
       "imagem": null
-    },
-    {
-      "titulo": "Corinthians encerra jejum de 8 anos sem gol em mata-mata da Libertadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Botafogo vence Cienciano, mas é eliminado na Sul-Americana",
-      "imagem": null
-    },
-    {
-      "titulo": "PGR e Mendonça têm desconexão sobre Lulinha, diz pesquisador do STF",
-      "imagem": null
-    },
-    {
-      "titulo": "Botafogo encaminha venda de Matheus Martins; confira valores",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T08:06:45.196Z"
+  "atualizadoEm": "2026-08-21T08:56:58.785Z"
 }

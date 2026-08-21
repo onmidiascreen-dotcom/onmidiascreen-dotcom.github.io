@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "Assista ao Jornal da Manhã",
+      "imagem": null
+    },
+    {
+      "titulo": "Incêndio em galpão de recicláveis se espalha e destrói carros em rua da Zona Sul de SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Justiça condena Volvo a indenizar aposentada por demora em recall de carro elétrico com risco de incêndio",
+      "imagem": "https://s2-g1.glbimg.com/GYJv-cdcTRVVt9JB6eog-JtIVmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/T/2B4X1ATj6uQzBx3vzaJA/001-ex30-edit.jpg"
+    },
+    {
+      "titulo": "Macaco-prego viraliza após escalar banhistas e tomar mamadeira em praia de SP; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/7_5FCkgfMlfNoZ7m1R4IvGlQmaY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/0wyit1RdeB3iQaVGWCbQ/macaco-praia.jpg"
+    },
+    {
+      "titulo": "Homem ganha videogame da esposa, mas recebe pacote de fraldas: 'Era para ter sido uma alegria'; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/B2f4No7fUku1UoTPUt-euJf3n3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/x/MZO5LRTfO7POXmIHsBlQ/videogame-amazon-2-1-.jpg"
+    },
+    {
+      "titulo": "Fumaça de incêndios viaja por centenas de quilômetros e pode alterar o clima; veja VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/2Wwl4O9QDd0AQTm9_iZYi8L2wDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/2/ditVmaTFGRi8FkXRljhg/2026-08-02t101211z-1041477496-rc29qma37pb8-rtrmadp-3-europe-weather-greece-wildfires.jpg"
+    },
+    {
+      "titulo": "Qual é o perfil dos candidatos de São Paulo nas eleições de 2026?",
+      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
+    },
+    {
+      "titulo": "Pilotos e comissários lideram risco de morte por câncer ligado à radiação, aponta estudo",
+      "imagem": "https://s2-g1.glbimg.com/xQ4J4tZdGICBkA0jvFgd58dBoH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/6/tNeA4dSgqAIBw0nMJ9sQ/ap26230530732293.jpg"
+    },
+    {
+      "titulo": "Cientistas testam vacinas para barrar câncer de intestino antes que ele se forme",
+      "imagem": "https://s2-g1.glbimg.com/3x4J9WtmGJZ-Ag4yEkmlAdOSyIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/T/dPOwnbTP2evlBI5uClTQ/pexels-franco30-8488619.jpg"
+    },
+    {
+      "titulo": "Frente fria chega nesta sexta e muda o tempo no Vale do Paraíba e Litoral Norte; veja a previsão",
+      "imagem": "https://s2-g1.glbimg.com/VMQmuWnGM39n6naf6Z1ECkEFjGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/t/tVVDtJQgSbBQUW4tSutw/vento.jpg"
+    },
+    {
+      "titulo": "De Miss Brasil Gay a estilista de Xuxa, Anitta e Ivete: conheça a trajetória de Michelly X",
+      "imagem": "https://s2-g1.glbimg.com/MXxCpQkIn2yn16RIxzjUPcMrYYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/p/s/PoCRR5TyitDOHY7CNNDg/michelly-x-estilista-.jpg"
+    },
+    {
+      "titulo": "Pai que não gosta de terno e gravata disse que compraria 'uma camisa bem bonita' para levar filha ao altar em MG",
+      "imagem": "https://s2-g1.glbimg.com/-Lhe3VFi5T8iPMrR-50BR_eAf58=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/v/mBkQhMRwOge0fiJyEdUg/jl-tm-2026-08-19t135727.810.jpg"
+    },
+    {
+      "titulo": "VÍDEO: entenda o que é a margem de erro nas pesquisas eleitorais",
+      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
+    },
+    {
+      "titulo": "Santa Bárbara Rock Fest 2026: veja tudo o que você precisa saber antes de ir ao festival",
+      "imagem": "https://s2-g1.glbimg.com/bRtRMi10NFCcXg0L_w9W1hZC0kY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/y/k1PIKsTAK1z9j3aGAZlg/primeira-imagem.jpg"
+    },
+    {
+      "titulo": "Unifap abre inscrições para pós-graduação em Saúde e Segurança do Trabalho com 150 vagas; EDITAIS",
+      "imagem": "https://s2-g1.glbimg.com/bMbXuxXWf3B_66oG000l6hZkZFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/K/l2YxSnRuqMOZCX6dMJPA/aleixo-g1-27-.jpg"
+    },
+    {
+      "titulo": "Príncipe 'furioso' e residência privada: o que se sabe sobre a volta de Harry e Meghan ao Reino Unido",
+      "imagem": "https://s2-g1.glbimg.com/Me1nCwoldsYnAOFjA4hTMKKFGsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/z/UDCDYsRNAJxm6kH7WVFw/2023-05-17t175648z-58067524-rc2diy9mj4i2-rtrmadp-3-britain-royals-harry-1-.jpg"
+    },
+    {
+      "titulo": "Homem é denunciado por chefiar garimpo ilegal de diamante dentro de terras indígenas de Rondônia",
+      "imagem": "https://s2-g1.glbimg.com/EifVAEwkRwmf_0I6rkBRLFgZ9hM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/8/k1UPSyS7Kb3oNkVkdXIA/esta-concentrada-em-um-imovel-residencial.jpg"
+    },
+    {
+      "titulo": "SP cortada ao meio: ilustrações revelam o que existe sob ícones da capital, com rios invisíveis, galerias, criptas e metrô",
+      "imagem": "https://s2-g1.glbimg.com/9cP5pz8TqXwaRHBXdLHfAKcuzqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/D/JmKvijQVqZU23x9vhj6A/fotojet-61-.jpg"
+    },
+    {
+      "titulo": "Show de Almério e Mariane de Castro, peças com Du Moscovis, Patricya Travassos e Isabel Fillardis e mais: veja agenda cultural",
+      "imagem": "https://s2-g1.glbimg.com/W4yw-Fm--0F34vy9LayYXjBTUqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/5/fWVz56QgqBFZJ9F428Bg/agenda.png"
+    },
+    {
       "titulo": "Demi Lovato, o retorno: relembre outras vindas da cantora antes do Rock in Rio",
       "imagem": "https://s2-g1.glbimg.com/R73WClndRkN6TyClXgMcgeMF-do=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/t/d/Q0mrqlSICuljrFV3Hv5w/hn-geral-the-town-0209-skyline-2200-20230902-2151-frame-7978.jpeg"
     },
@@ -43,83 +119,7 @@
     {
       "titulo": "Empresário morto durante procedimento estético participou de vídeo publicitário da clínica há 1 ano",
       "imagem": "https://s2-g1.glbimg.com/T1b1Qv8jQGz1_NSOW-IzrCAGYwI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/v/rd38lSTXuelmpLtGdrfw/empresario-morre-lifting-procedimento-estetico-3.jpg"
-    },
-    {
-      "titulo": "Ataque com fogo em loja de telefonia em MG pode ter sido motivado por ciúmes após fim de relacionamento",
-      "imagem": "https://s2-g1.glbimg.com/fdmi-hAKcZkBxIu6mh0ny-2cRcM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/n/uVFISGTYua7Vl0YjbBgQ/fogovivo2-ezgif.com-optimize-1-.gif"
-    },
-    {
-      "titulo": "Câmara de BH pode concluir nesta sexta votação de projeto que prevê verticalizar bairros tradicionais e mudar 'a cara' do Centro",
-      "imagem": "https://s2-g1.glbimg.com/g5_wA6SBUOKoyepjX6ydI4YeYEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/9/ajWmfwQUu4BWl1vp9eqQ/invasao-arrail-drone-03-10-frame-283.jpeg"
-    },
-    {
-      "titulo": "1º dia de Barretos tem sofrência de Panda e Matheus &amp; Kauan, artistas no camping e show de fofura da filha de Nattan e Rafa Kalimann",
-      "imagem": "https://s2-g1.glbimg.com/mzweVIhR4xs9tb_as9C_w3m-I64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/M/rLHyCXQFK1qXBkS7WZBQ/dsc-9205.jpg"
-    },
-    {
-      "titulo": "Com surpresa de Ana Castela e Mari Fernandez, Matheus &amp; Kauan celebram 15 anos de estrada em Barretos, SP",
-      "imagem": "https://s2-g1.glbimg.com/Pj1VSvkDSqdHkh6f9f6QjKXJAL8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/K/uzv317TYuTK2qF6U5mWg/frame-ana.jpg.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Brasília (DF): sol o dia todo sem nuvens no céu; noite de tempo aberto ainda sem nuvens",
-      "imagem": "https://s2-g1.glbimg.com/6EnRcEQZZWNcid2mnpJz8gT0apM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/A/1ghERxRu6O2cPqJMeuqQ/previsao-tempo-bras-lia-20260821-030706.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "imagem": "https://s2-g1.glbimg.com/gJoaqIRVDG5tOCdRSqcxgXrRz-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/p/ScBMaXQp2B55bF8bN2pA/previsao-tempo-s-o-paulo-20260821-030649.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-      "imagem": "https://s2-g1.glbimg.com/elT6Xd3pY85hWoIt1hLb8RSjH08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/f/6jADvWTTKo9MkNHmT8Sg/previsao-tempo-s-o-bernardo-do-campo-20260821-030631.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-      "imagem": "https://s2-g1.glbimg.com/aHRXhwDOh5QXr01-qF-UmbWi3Jk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/d/nXAuIHRBqGA7hOZQtJYg/previsao-tempo-santo-andr-20260821-030607.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-      "imagem": "https://s2-g1.glbimg.com/50ayuvXLsLl-mOviZiDhwL3_4Lg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/e/UcLLwAQWuuZA5LCCCumw/previsao-tempo-osasco-20260821-030549.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-      "imagem": "https://s2-g1.glbimg.com/pvCao-YOFc0jvBCHEPOWZYdY064=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/9/dNNtAORmmyAfvFyyhFJg/previsao-tempo-guarulhos-20260821-030526.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com aumento de nuvens à tarde; muitas nuvens à noite, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/m4XGm35YU5n8qX4OdyGSFwCuj0U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/x/xj1sfJQ2CCnZXWLJgNwg/previsao-tempo-s-o-gon-alo-20260821-030507.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com aumento de nuvens à tarde e pancadas de chuva à noite",
-      "imagem": "https://s2-g1.glbimg.com/w5IzXgooQ5t1254Jg1KgAsR_rLg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/p/GH4S6sSWKwnbAEzX0JCg/previsao-tempo-rio-de-janeiro-20260821-030441.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): dia de sol com muitas nuvens à tarde e à noite, mas sem chuva",
-      "imagem": "https://s2-g1.glbimg.com/1MujpBfDZ9jUkLIApoozg8se0eM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/i/xnaBBlQBabHfLzJgnq4w/previsao-tempo-nova-igua-u-20260821-030423.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com aumento de nuvens à tarde; muitas nuvens à noite, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/mMat5uUSFE40tkJE3yvvMUb7fDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/M/Sh87c3SiqVhDPVV0ZR0Q/previsao-tempo-niter-i-20260821-030407.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com aumento de nuvens à tarde; muitas nuvens à noite, mas não chove",
-      "imagem": "https://s2-g1.glbimg.com/Oq_SQ6o6ox4XNu4HbNF25n9vEhQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/a/6WiltmQq6UBIe8o8J38Q/previsao-tempo-duque-de-caxias-20260821-030351.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): dia ensolarado, com nevoeiro ao amanhecer; as nuvens aumentam à noite",
-      "imagem": "https://s2-g1.glbimg.com/Ym3SYDeZFzkR29WPJbGMc4Ax6ro=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/M/H1BppdTsiA6c1ABXGfRw/previsao-tempo-sete-lagoas-20260821-030335.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol o dia todo sem nuvens no céu, com aumento de nebulosidade à noite; não chove",
-      "imagem": "https://s2-g1.glbimg.com/lG0gKxyihrTBxNCq6WJQQ65Jsck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/q/Av1OxWQ0CByBr0n8xArw/previsao-tempo-ribeir-o-das-neves-20260821-030315.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Contagem (MG): sol o dia todo sem nuvens no céu, com aumento de nebulosidade à noite; não chove",
-      "imagem": "https://s2-g1.glbimg.com/vg87zZgSstaOCAqeU2RkKFoAzdE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/3/ehbWhNT0avXNIOiTS7NQ/previsao-tempo-contagem-20260821-030258.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Betim (MG): sol o dia todo sem nuvens no céu, com aumento de nebulosidade à noite; não chove",
-      "imagem": "https://s2-g1.glbimg.com/RFusJRVog25194TAb2ZCwMXgpTI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/E/7C0iRUQXKMDxlLpKpdKw/previsao-tempo-betim-20260821-030241.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-21T08:06:46.564Z"
+  "atualizadoEm": "2026-08-21T08:57:00.696Z"
 }
