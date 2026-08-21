@@ -1,6 +1,94 @@
 {
   "noticias": [
     {
+      "titulo": "Mulher condenada por fingir ter 12 anos e enganar família 'entendia caráter ilícito das ações', diz MPSC",
+      "imagem": "https://s2-g1.glbimg.com/rTYFuZTKM3XAx16NIiR6aP0yS3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/x/wBtpytTwKds9jm7lbdkQ/copia-de-copia-de-padrao-foto-g1-goias-82-.jpg"
+    },
+    {
+      "titulo": "Avião da FAB leva 19 toneladas de arroz para a Colômbia após terremoto no país",
+      "imagem": "https://s2-g1.glbimg.com/VsOdwx25G9SGC1-GrL0nQYGRVb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/n/ACWOfTSNyEHkdIUnxsaA/g1-70-.jpg"
+    },
+    {
+      "titulo": "Vídeos do g1 e TV Subaé - sexta-feira, 21 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/RTCRRBwiGjUDVF3TlpiIVf-pf0A=/s01.video.glbimg.com/deo/vi/12/96/14889612"
+    },
+    {
+      "titulo": "Obra na rede de esgoto interdita rua no bairro Ponte Alta neste sábado, em Volta Redonda",
+      "imagem": null
+    },
+    {
+      "titulo": "Segurança preso por morte em Copacabana diz que alertou colega para não agredir vítima",
+      "imagem": "https://s2-g1.glbimg.com/4eDG29-bESrRWqVa511kQVOalYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/b/YFt1OcSZGZ52fRkemvwg/19agressao1.jpeg"
+    },
+    {
+      "titulo": "Defesa Civil instala placas de apoio para orientar moradores de áreas de risco em Teresópolis",
+      "imagem": "https://s2-g1.glbimg.com/WzpVJ9ZX4LHJEJ51CjurNVvxa4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/y/7Pb1b6Q3m9XCpla0Cx8Q/defesa-civil-de-teresopolis.jpg"
+    },
+    {
+      "titulo": "Candidatos ao governo do Paraná cumprem agendas fechadas e abertas ao público",
+      "imagem": "https://s2-g1.glbimg.com/mnwRCL9Nt_mvb2FweHjjGhqkGLo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/y/3d2vtATZ68pXRmoijjrA/externa-palacio-iguacu-foto-rdziura-0161.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Almoço Florianópolis de sexta-feira, 21 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/6bQzSlD5ItqTv6GC3fPSA5Jajfk=/s01.video.glbimg.com/deo/vi/66/93/14889366"
+    },
+    {
+      "titulo": "Promotora de Justiça do AM que morreu afogada em destino turístico é homenageada em abertura de congresso",
+      "imagem": "https://s2-g1.glbimg.com/-D0l4JOWcGnlxh0VlRnf7nrbdj8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/h/1jZTZASSOKStAAQpBdHA/promotora.jpg"
+    },
+    {
+      "titulo": "Klara Castanho mostra transformação para viver Maiara em filme sobre Marília Mendonça; veja fotos",
+      "imagem": "https://s2-g1.glbimg.com/0sQIG6aQNPB7VTLyCiyQX-QYRnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/4/2DdVWEQtiocHEIOb4czQ/texto-mario-quintana.transfer-frame-4201.png"
+    },
+    {
+      "titulo": "Adolescente de 16 anos morto por engano em Caçapava saiu de casa para ver movimentação na rua e foi baleado",
+      "imagem": "https://s2-g1.glbimg.com/v_iGZIjy6J7IHubZ2PGBbR9d-L4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/D/5AA74vQ2iAujSisyvRFw/foto-g1.jpg"
+    },
+    {
+      "titulo": "'Dia D' atualiza calendário infantil e vacinação contra sarampo para adultos em Juiz de Fora",
+      "imagem": "https://s2-g1.glbimg.com/CCqch_sa-OkacitP8NRlEGPqdaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/P/HxvszbQlyDXo8AiPIqvg/125618-vacinacao-dia-das-criancas-kartodromo-foto-firmino-piton-36-.jfif"
+    },
+    {
+      "titulo": "Lençóis Maranhenses: entenda por que o parque parece um deserto, mas não é",
+      "imagem": "https://s2-g1.glbimg.com/MQPM5WJre85NUIXBgOTXRD6g8gw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/j/Vx41YgTSA9qwp7THngCg/nasa-.jpg"
+    },
+    {
+      "titulo": "Porto de Natal prevê embarque de 250 mil toneladas de frutas na safra 2026/2027",
+      "imagem": "https://s2-g1.glbimg.com/TBYoPp3-KxOF3BArR46eTJCgQxo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/R/u/2V68iSQsGAVRY8chlrHw/melao.jpg"
+    },
+    {
+      "titulo": "Homem é condenado a 12 anos de prisão por tentar matar vítima a facadas em Viana",
+      "imagem": "https://s2-g1.glbimg.com/LUGihMzlQQhAScSYIzNEZWx2tAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/B/vqD25eTYANpZjJdGtdBQ/julgamento-2.jpg"
+    },
+    {
+      "titulo": "Homem é investigado por estupro de menina de 12 anos em Poá",
+      "imagem": "https://s2-g1.glbimg.com/-OYbn9PH7Z8hWCOtj3ZaV6JzoTg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/A/G/oK0iDPTzWtAhjndMptSw/whatsapp-image-2023-12-18-at-16.03.28.jpeg"
+    },
+    {
+      "titulo": "Caminhonete e carreta batem, veículo cai em lago e uma pessoa morre após ser ejetada na BR-101 no ES",
+      "imagem": "https://s2-g1.glbimg.com/cF_LdUfRBnOoMmZZyKscBN21MdA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/X/MdgBwnQ7y63h2qkebHWQ/thumb-videos-g1-2-.jpg"
+    },
+    {
+      "titulo": "Piloto e mecânico de aviões: quem é Lito Sousa, influencer de aviação com mais de 6 milhões de seguidores no Youtube e Instagram",
+      "imagem": "https://s2-g1.glbimg.com/ZQmtr9wq6VaTRoGrNvDeJAL3mDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/y/5Wq7HqTxqn7OKIPBJQ7Q/imagem-2026-08-21-075448724.webp"
+    },
+    {
+      "titulo": "Trabalhador é atropelado e arremessado no interior do Ceará; vídeo",
+      "imagem": "https://s2-g1.glbimg.com/U2h4KZ8uKb7wc5dbCaxMtvWYA5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/v/v5JvXsSQ6tiJlqAXCIGQ/atropelamento-ceara.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de sexta-feira, 21 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/QY21ZjyfT8dLBm5ilVjeQFvGIS0=/s01.video.glbimg.com/deo/vi/93/98/14889893"
+    },
+    {
+      "titulo": "VÍDEO: Cobertura de refeitório em construção desaba em escola no Sudoeste do Piauí",
+      "imagem": "https://s2-g1.glbimg.com/0rUqa7cWyjChL6l2UwbvAH0TcPc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/h/eZuqN3R7GAjT0xk5hnvA/whatsapp-image-2026-08-21-at-13.08.49-1-.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de sexta-feira, 21 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/Air0NsYoth2N7Hj3-mGL-ciX0ZQ=/s01.video.glbimg.com/deo/vi/60/98/14889860"
+    },
+    {
       "titulo": "Justiça manda soltar inspetor acusado de estuprar alunos de 5 anos em escola no litoral de SP",
       "imagem": "https://s2-g1.glbimg.com/97h0DfnyGysbuR35iy_gAXwWk8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/A/PT7ZPmSdWerWRIdx6BOg/brinquedo-1-.jpg"
     },
@@ -13,7 +101,7 @@
       "imagem": "https://s2-g1.glbimg.com/vigtgcu5iSHe1A_K2iCuz5ZgHa8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/x/1qqQBjS8mvlHTtljRadw/whatsapp-image-2026-08-20-at-16.31.54.jpeg"
     },
     {
-      "titulo": "Após morte da mãe no parto, recém-nascido tem alta e vai morar com a avó no Acre: 'Amava muito o filho'",
+      "titulo": "Após morte da mãe no parto, recém-nascido tem alta e vai morar com a avó no Acre: 'Amava o filho'",
       "imagem": "https://s2-g1.glbimg.com/23-NJNEwcFG0RVST1Xo3eEjB2VI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/e/UBH04aQwiq9UWtmNHyrw/midia-de-distribuicao-g1-24-.jpg"
     },
     {
@@ -26,100 +114,12 @@
     },
     {
       "titulo": "VÍDEOS: Jornal do Anhanguera desta sexta-feira, 21 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/lQSoHBviTohlVjgysfEr3Rgjp5Q=/s01.video.glbimg.com/deo/vi/96/94/14889496"
+      "imagem": "https://s2-g1.glbimg.com/t1rbljTP0XGU1-wlirpgR49u_70=/s01.video.glbimg.com/deo/vi/35/98/14889835"
     },
     {
       "titulo": "Entregador é preso por morte de Cláudio Rafael, linchado em Copacabana; outro segue foragido",
       "imagem": "https://s2-g1.glbimg.com/I11xkBG8FyMxlrgCL0lf1yAdUa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/B/gcW2k7Q0Atg3xt9Rifiw/whatsapp-image-2026-08-21-at-13.47.20-1-.jpeg"
-    },
-    {
-      "titulo": "Ministro do TSE determina volta de prefeita e vice aos cargos em Maxaranguape",
-      "imagem": "https://s2-g1.glbimg.com/fjKP0KDNeD125HJ4mtBf39-OdUM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/B/P2Uh6XTOyC1FaBAdC5AA/whatsapp-image-2026-08-21-at-12.37.36.jpeg"
-    },
-    {
-      "titulo": "Foragido condenado a mais de 70 anos de prisão e investigado por duplo homicídio é capturado em Sorocaba",
-      "imagem": "https://s2-g1.glbimg.com/N-r6KpN_gVzm4Bbyb6-DQBnZXKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/k/iphqIUQ2CGqdqkyFEaXw/befunky-collage-1-.jpg"
-    },
-    {
-      "titulo": "Drones da Rússia atacam shopping na Ucrânia e deixam ao menos 6 mortos",
-      "imagem": "https://s2-g1.glbimg.com/TbYw898fdQenMe8dVL7nsrfGhm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/N/nwQ4oQTvu6YAms79M9mQ/2026-08-21t155218z-1164679702-rc233na0l0ga-rtrmadp-3-ukraine-crisis-attack-kryvyi-rih.jpg"
-    },
-    {
-      "titulo": "Ceará tem 55 cidades com alerta de ventos intensos no sábado (22): confira lista",
-      "imagem": "https://s2-g1.glbimg.com/VKz-SV_FEXs8o_7DfPQzxYvsBYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/3/pubG70QBGR2wrO2FNMLQ/duna-ceara-ok.jpg"
-    },
-    {
-      "titulo": "Corpo é encontrado carbonizado em posto de combustíveis desativado em Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/01P7OygjQBe_xbBxD4AoTfoY7HE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/p/YBzQoIQDmHFR8Gt4hSAw/1200-x-800-57-.jpg"
-    },
-    {
-      "titulo": "The Town confirma datas da edição de 2027",
-      "imagem": "https://s2-g1.glbimg.com/zo45MIKS9WIpTDDC1FV7Nt6lipc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/1/5hM07kRJaAaZu9CMWFLw/katy-perry-dsc02007-fabio-tito.jpg"
-    },
-    {
-      "titulo": "VÍDEO: Menina de 10 anos é atropelada por carro ao atravessar na faixa e se levanta sozinha em MG",
-      "imagem": "https://s2-g1.glbimg.com/H2-6JpG1LHG35sUfVYXWigxdu3A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/7/Naxj8gQFGXIGAdHOGkOA/jl-tm-2026-08-21t095904.567.jpg"
-    },
-    {
-      "titulo": "Menino que denunciou tio da mesma idade à polícia após ser empurrado faz as pazes com um abraço; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/HLd3SO6tFn5nR4bTBTYSaPBLmC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/i/FclPA3RGGwbND0byLrqg/copia-de-copia-de-padrao-foto-g1-goias-10-.jpg"
-    },
-    {
-      "titulo": "Saquarema realiza campanha de vacinação para crianças e adolescentes de 0 a 15 anos",
-      "imagem": "https://s2-g1.glbimg.com/nLbDBebT9uQZwin92fD77rCTwAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/u/zLeBptTKKAeeOBIepW5g/vacinacao-em-saquarema.jpg"
-    },
-    {
-      "titulo": "Coopama amplia estrutura de armazenagem de grãos com nova unidade em Careaçu",
-      "imagem": "https://s2-g1.glbimg.com/uJJto38XxTisvnNGoq45hy7A8WE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/C/h4N7evSB6TYaLkeYmSqA/imageem-1.png"
-    },
-    {
-      "titulo": "É #FAKE que Marinha detectou navios de guerra americanos no Brasil e emitiu 'alerta de vigilância'",
-      "imagem": "https://s2-g1.glbimg.com/gLaCN8nffGvqIoBYrA-DJP-verI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/9/Nxwjc2R3ewgpGgkAxLkA/ap26024388965064.jpg"
-    },
-    {
-      "titulo": "Há uma semana internada em Belém, Dona Onete se recupera bem de infecção, diz assessoria",
-      "imagem": "https://s2-g1.glbimg.com/fsY9MRhDcaokoSGsH-HqEYGPV8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/G/W3gmc2RyigTn01b4w3Lw/reza.jpg"
-    },
-    {
-      "titulo": "Bolsas de ostomia: pacientes da rede municipal de saúde de Teresina relatam falta de abastecimento e má qualidade dos dispositivos",
-      "imagem": "https://s2-g1.glbimg.com/VQl3SJaqqyzYXlRQStK2YLl6ROo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/u/uDoZj1ROSN9tugUdAnuA/edicao-imagens-g1-2026-08-21t114326.682.png"
-    },
-    {
-      "titulo": "AO VIVO: Assista ao JAC1 com Quésia Melo",
-      "imagem": "https://s2-g1.glbimg.com/aG1PwwM4dky3frhipVtGPozNn0c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/Q/kABQesREmuHBcFIZKmLg/whatsapp-image-2025-09-17-at-13.25.21.jpeg"
-    },
-    {
-      "titulo": "Empresária morre após cirurgia plástica em hospital de Goiânia, diz família",
-      "imagem": "https://s2-g1.glbimg.com/jew8-8XILtyxCtQFUAj6OFeDiCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/a/8URDKzSn68G9yh8pBo6Q/imagens-g1-4-.png"
-    },
-    {
-      "titulo": "Moradores denunciam lixo e esgoto em grotão na Zona Sudeste de Teresina",
-      "imagem": "https://s2-g1.glbimg.com/uzdwMXon8v4d43kU0NKWDHHS4DY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/g/3SRpDnQAuuuUBRBiSU1w/edicao-imagens-g1-27-.jpg"
-    },
-    {
-      "titulo": "Programa gratuito abre 500 vagas para jovens do RN em busca do primeiro emprego; veja como participar",
-      "imagem": "https://s2-g1.glbimg.com/IMDmUHnYaC2aChrtAVtW4UQkCOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/d/B/1hSPQoS8W92weGzu9A9Q/funss-inscricao.jpg"
-    },
-    {
-      "titulo": "Professor de colégio militar é afastado suspeito de divulgar deepfake íntimo de aluna em RO",
-      "imagem": "https://s2-g1.glbimg.com/Jf_8Sx8-98SDsfjdD8qETboE-h4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/N/AtuFtrRoAn5mYnIu18Ow/whatsapp-image-2024-08-23-at-17.49.56.jpeg"
-    },
-    {
-      "titulo": "Conheça a ciência invisível que está por trás de produtos do dia a dia",
-      "imagem": "https://s2-g1.glbimg.com/Jcp4z-W7caJY9I90ZO2tcPhPoNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/p7swXqRKCRTo6371DCkQ/closeup-specialist-researcher-analyzing-blood-sample-using-medical-microscope-working-vaccine-development-biochemical-experiment-hospital-laboratory-medicine-investigation.jpg"
-    },
-    {
-      "titulo": "Defesa Civil do Rio dispara ‘alerta severo’ para ventos de até 90 km/h",
-      "imagem": "https://s2-g1.glbimg.com/HgKD2cV_ReJ4PhYoycr-OvISz9U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/r/KOmPxzQLSyugWwwbRLUg/21vento.jpeg"
-    },
-    {
-      "titulo": "Incêndio destrói móveis e causa danos em casa no litoral do Piauí; moradora suspeita de ação criminosa",
-      "imagem": "https://s2-g1.glbimg.com/Q648pMLyOe8T7fJ27nrpnzHlVmw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/4GH9WgRyaB7OJkivmUAA/edicao-imagens-g1-4-.jpg"
-    },
-    {
-      "titulo": "Cidades da região de Itapetininga promovem 'Dia D' da Campanha de Multivacinação neste sábado",
-      "imagem": "https://s2-g1.glbimg.com/Smna3QqTBBhnISjXLE8WKUU3m8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/G/eTqvwuQw2qbnSGYEHCRg/4af5a96a88c362bbd3024b2f0860abd8.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-21T17:02:01.927Z"
+  "atualizadoEm": "2026-08-21T17:43:34.813Z"
 }
