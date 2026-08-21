@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "O Grande Debate: É justo ou errado enviar caso Lulinha à 1ª instância?",
+      "imagem": null
+    },
+    {
+      "titulo": "FAB encerrou voo após foguete sul-coreano desviar de rota; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Braço direito de &#8220;Batman&#8221;, líder do CV em Mato Grosso, é preso no Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Festa do Peão de Barretos: veja fotos do 1º dia de evento",
+      "imagem": null
+    },
+    {
       "titulo": "À CNN, conselheiro do São Paulo diz que dívida do clube supera R$ 1 bilhão",
       "imagem": null
     },
@@ -25,7 +41,7 @@
       "imagem": null
     },
     {
-      "titulo": "RJ: Operação da PM na zona Norte tem tiros e interdição na avenida Brasil",
+      "titulo": "RJ: Motorista é baleado durante operação com interdição na Avenida Brasil",
       "imagem": null
     },
     {
@@ -103,23 +119,7 @@
     {
       "titulo": "O que os presidenciáveis propõem para o agro? Conheça as propostas",
       "imagem": null
-    },
-    {
-      "titulo": "Santander: Juro alto está fazendo efeito esperado",
-      "imagem": null
-    },
-    {
-      "titulo": "Oposição quer preservar provas contra Lulinha e busca assinaturas por CPMI",
-      "imagem": null
-    },
-    {
-      "titulo": "Arsenal x Coventry City: horário e onde assistir ao jogo da Premier League",
-      "imagem": null
-    },
-    {
-      "titulo": "Ana Castela e Wesley Safadão sobem ao palco de Barretos; veja programação",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T11:21:16.979Z"
+  "atualizadoEm": "2026-08-21T11:51:21.366Z"
 }

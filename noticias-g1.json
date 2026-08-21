@@ -1,8 +1,84 @@
 {
   "noticias": [
     {
-      "titulo": "Prefeito do Rio pede que população evite se expor a riscos em dia com ventos de até 90 km/h; alerta deve ser disparado às 10h",
+      "titulo": "Mulher é presa pela 3ª vez por receptação durante operação no Centro de Teresina",
+      "imagem": "https://s2-g1.glbimg.com/qZnpil7WcNFRY87AA4W9mAImKMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/9/RobBQ4T5eBnwFMj0jVyQ/edicao-imagens-g1-62-.jpg"
+    },
+    {
+      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
       "imagem": null
+    },
+    {
+      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "Dia D de Multivacinação acontece neste sábado (22) em Natal; veja onde se vacinar",
+      "imagem": "https://s2-g1.glbimg.com/rDfRlTMbIUqUNlQAoJ8xtNDxTT4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/s/Tk3CTwSsCW3UWAmAEaGQ/40-vacina09-destaque.jpg"
+    },
+    {
+      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é preso suspeito de agredir a mulher e invadir casa de vizinha, em João Pessoa",
+      "imagem": "https://s2-g1.glbimg.com/09Nba4rb_ZV2NlS7sAiyAISnnN8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/v/7BrN7ES0eoAUKmhyr4WQ/delegacia-da-mulher-joao-pessoa-1-3.webp"
+    },
+    {
+      "titulo": "Ciee oferece mais de 160 vagas de estágio e jovem aprendiz no Alto Tietê",
+      "imagem": "https://s2-g1.glbimg.com/hpVkCt5AZUn2q_12s_ot73rFk6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/j/D/1qBWnnQEWgKO7roX5AYQ/whatsapp-image-2024-11-28-at-09.26.56.jpeg"
+    },
+    {
+      "titulo": "Dois suspeitos morrem após serem atropelados por carro durante fuga no Capão Redondo, na Zona Sul de SP",
+      "imagem": "https://s2-g1.glbimg.com/-uOn95t-nhHZZXymCcL0Vn2ZBTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/S/VBVNL3Q7WOAx8eQKSiog/captura-de-tela-2026-08-21-075928.png"
+    },
+    {
+      "titulo": "Homem morre após ser levado a hospital com diversas lesões no litoral do PI; suspeita é de espancamento",
+      "imagem": "https://s2-g1.glbimg.com/PLOG8nAqX9kzg2nFz7WkmMcgoEM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Y/sTlg6YQbaHD3kE6emx9Q/edicao-imagens-g1-59-.png"
+    },
+    {
+      "titulo": "Assista ao Bom Dia ES",
+      "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif"
+    },
+    {
+      "titulo": "Bom Dia Cidade - Ribeirão e Franca",
+      "imagem": "https://s2-g1.glbimg.com/5Db3pzqHzeCD6vSqEpxOFb9UvEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/v/FMd4ZuT8uJLkmIab6LLw/still0208-00000.jpg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "'Medo de desabar tudo': avanço de erosão ameaça casas em Presidente Figueiredo",
+      "imagem": "https://s2-g1.glbimg.com/7vK1IFyvv_F1g7Milk_ys83cBgo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/O/LnuKU8SdA9TipnquAEhQ/design-sem-nome-94-.png"
+    },
+    {
+      "titulo": "Miss Brasil Gay, Eduardo Costa e Rodrigo Teaser: veja a agenda cultural para Juiz de Fora e região",
+      "imagem": "https://s2-g1.glbimg.com/-g6W-yz-k6uTvetyPdrSeP660ws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/w/wcdtAbTT6HXjiuPO7mZg/1787311426940028.jpg"
+    },
+    {
+      "titulo": "Justiça condena assessoria a devolver R$ 32 mil a cliente que tentou obter cidadania italiana",
+      "imagem": "https://s2-g1.glbimg.com/lUy9wAqX4KIIwfvrYKvo06LZfAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/F/iYJDCYRYy9cKnZ7iZ1QA/canva-2026-08-21t072439.661.png"
+    },
+    {
+      "titulo": "Ex-funcionária é presa suspeita de aplicar golpe do PIX falso em loja no Ceará",
+      "imagem": "https://s2-g1.glbimg.com/T0WKHvuZcxCpPcdZjqCaPhZvNDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/V/joiA7GSf6Cx0oA2MK1Kw/make-2.jpg"
+    },
+    {
+      "titulo": "VÍDEO: chuva forte inunda metrô de Nova York",
+      "imagem": "https://s2-g1.glbimg.com/msZgLtlnKUY1vs-VTYkUFdCVLvo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Y/TWKyvcSOaw4ylMb18vew/2026-08-21t080111z-1555951995-rc2o2nahupr3-rtrmadp-3-usa-weather-new-york.jpg"
+    },
+    {
+      "titulo": "STF mantém suspensão temporária de multas da NR-1",
+      "imagem": "https://s2-g1.glbimg.com/UoBHjXezkxHrpjqoJnDQTG1TSbY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Q/AtA4efT8SZXjwIT9BScA/andre.jpeg"
+    },
+    {
+      "titulo": "Prefeito do Rio pede que população evite se expor a riscos em dia com ventos de até 90 km/h; alerta deve ser disparado às 10h",
+      "imagem": "https://s2-g1.glbimg.com/f1fFQXwhlcMljngDGRHnmkfu_No=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/7/oUp2dmQA6sLumukxfHCg/bdrj-cavaliere-4-.jpeg"
     },
     {
       "titulo": "Rafa Marques e Pati Guerra revelam primeiro ensaio da filha: 'Dá pra acreditar que a gente que fez essa princesa?'",
@@ -43,83 +119,7 @@
     {
       "titulo": "Motorista cai no choro ao descobrir carro destruído por incêndio durante a madrugada, na Zona Sul de SP, e é consolado pela mãe",
       "imagem": "https://s2-g1.glbimg.com/Suib7r6R30_wU7NtT_K7a6749fk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/O/BebdAJSbe8ArslrBDAaA/fotojet-2026-08-21t073145.452.jpg"
-    },
-    {
-      "titulo": "Balcão de Direitos oferece atendimento gratuito e emissão de documentos em Mojuí dos Campos",
-      "imagem": "https://s2-g1.glbimg.com/1SEg_jmWUwCt2n0qhMgNNRy_rhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/M/DzHj5aTL6HiSMOzh5tEA/jkajvbrf691fdaed7n8opca0cz8wpfxeeanc8asb.jpg"
-    },
-    {
-      "titulo": "Agenda cultural: shows, feira, humor e carros antigos movimentam o fim de semana no Amazonas",
-      "imagem": "https://s2-g1.glbimg.com/6Sj1w8qMULkwey4-TCV2sopGmpI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/n/nF1BInQMeukrGrAfDZ9g/whatsapp-image-2026-08-20-at-19.20.35.jpeg"
-    },
-    {
-      "titulo": "Criança indígena de 4 anos morre após acidente no interior do MA; condutor não tinha CNH",
-      "imagem": "https://s2-g1.glbimg.com/_1zkFLjHXMrpSsCm0ZiFqhfVwGE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/i/HAc0o2S1aYhai8AhR1cg/montagens-1920-x-1080-px-2026-08-21t075515.399.png"
-    },
-    {
-      "titulo": "Justiça de Alagoas concede habeas corpus a influenciador PTK e impõe medidas cautelares",
-      "imagem": "https://s2-g1.glbimg.com/wp3jGCkAE6e4q4JM30h3Oudat9k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/y/kr9R8PRMAJ2B6n0QR3dA/patrick-almeida-o-ptk-preso-durante-operacao-contra-faccao-criminosa-que-atua-em-alagoas.jpg"
-    },
-    {
-      "titulo": "Casal é preso por tráfico de drogas durante operação contra organização criminosa em Feira de Santana",
-      "imagem": "https://s2-g1.glbimg.com/qq9VAqPH-MjyvpLUMzKVqy9EH9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/d/vwV7LMRNK3N2jfFezV1Q/edimilsson-2026-08-21t073434.173.png"
-    },
-    {
-      "titulo": "PMs são suspeitos de extorsão e tortura contra mulheres que trabalhavam com reciclagem; uma vítima morreu e outra perdeu o bebê",
-      "imagem": "https://s2-g1.glbimg.com/Fy43F1C8wWnHgX3AiN6ZqdRBaRw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/t/h39AO5QCC1epwM4IoMjA/imagens-g1-2-.png"
-    },
-    {
-      "titulo": "Polícia Civil mira esquema de corrupção na Câmara de Vereadores de Japeri",
-      "imagem": "https://s2-g1.glbimg.com/H0wzhxWismRjUrTxzcw-j5d_7KM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/E/8CgPEuQmOAnFcFyMWJYw/japeri1.jpeg"
-    },
-    {
-      "titulo": "Dia D de Multivacinação: veja onde se vacinar em Palmas neste sábado (22)",
-      "imagem": "https://s2-g1.glbimg.com/s4Lm9cxdreV9ABX384821TPdAa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/T/u/5f1gTgQrqpnxICibjw2w/800c334a7922191648eb2654983f7cb1.jpg"
-    },
-    {
-      "titulo": "Resumão diário #2115: Condenado por homicídio no Maranhão entregou à PF supostas provas contra políticos; Novidades da investigações sobre Lulinha; Dia D de vacinação pelo país; Pescadores resgatados em caixa térmica após 5 dias à deriva",
-      "imagem": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
-    },
-    {
-      "titulo": "Augusto Almeida, diretor da CCTECA, morre aos 61 anos em Aracaju",
-      "imagem": "https://s2-g1.glbimg.com/sfmB0nbpjSbG---7JdFKebULfdQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/N/hLDfe7Q3aQ83ZwQViCJg/augusto-almeida.jpg"
-    },
-    {
-      "titulo": "Motociclista de 40 anos morre após acidente com carreta na Dutra, em Pindamonhangaba",
-      "imagem": "https://s2-g1.glbimg.com/-4BnRMNxxcFho7PhEMHtNRSAVGM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/v/99xAbBRBq8RpXCrGtE3Q/foto-g1-1-.png"
-    },
-    {
-      "titulo": "Primas desaparecidas no PR: principal suspeito é morto em abordagem da Polícia Civil",
-      "imagem": "https://s2-g1.glbimg.com/qIh_Mt0vZOKLIt44asvg1XlOs1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/7/2t7zcpQxC94PcaITsMqw/dogdog1.png"
-    },
-    {
-      "titulo": "Assista ao Bom Dia Vanguarda ao vivo no g1",
-      "imagem": "https://s2-g1.glbimg.com/eNmYHfknzzliwQJLsNi8qyf2BDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/r/qhMVONTJuDaQtelrYKjA/a64b4644-73da-40c5-b2f0-17b0321381f0.jpg"
-    },
-    {
-      "titulo": "Polícia prende suspeito de matar 'bruxo' fundador de igreja de Lúcifer no Ceará",
-      "imagem": "https://s2-g1.glbimg.com/qvPLTqE63Lg9GFCvDmbJTnrK--s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/i/hXuT4nRPCuw0oZ9M9uvg/bruxo-fortaleza.jpg"
-    },
-    {
-      "titulo": "Bom Dia Cidade Piracicaba ao vivo",
-      "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
-    },
-    {
-      "titulo": "Mergulhadores encontram em ‘poço sem fundo’ carro intacto roubado há dois anos, em Goiás",
-      "imagem": "https://s2-g1.glbimg.com/dJORYdO9KXczL5cM9lQ1SfhPAio=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/k/DAIT1cTy6mKTKK7rOGfQ/g1-foto-27-.jpg"
-    },
-    {
-      "titulo": "Roda se solta de ônibus em movimento e atinge carro estacionado em Indaiatuba",
-      "imagem": "https://s2-g1.glbimg.com/TWcfqVZDSYcRBL1fHJJYbLOW96w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/u/EnnlnlTuCuXH6Hel0K3Q/design-sem-nome-13-.png"
-    },
-    {
-      "titulo": "Batida entre dois caminhões deixa duas pessoas feridas na Rodovia Anhanguera, em Sumaré",
-      "imagem": "https://s2-g1.glbimg.com/i7Li0cAQ3ZQTnRR6BedIR6LsaCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/i/FIXO4CTASvsmc8pSsYSA/capas-belly-39-.png"
-    },
-    {
-      "titulo": "Esposa de Lito diz que influenciador tem Creutzfeld-Jacob, doença rara que causa perda de movimentos e demência; entenda",
-      "imagem": "https://s2-g1.glbimg.com/_5imgCjjoD0HsulGyJYPiPHFf8Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/z/vUatkYRte2rWqPsYsydw/fotojet-2026-08-03t073942.252.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-21T11:21:17.571Z"
+  "atualizadoEm": "2026-08-21T11:51:22.086Z"
 }
