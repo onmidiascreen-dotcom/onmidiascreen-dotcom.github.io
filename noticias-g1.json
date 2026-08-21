@@ -1,6 +1,70 @@
 {
   "noticias": [
     {
+      "titulo": "Candidatos ao Senado pelo RS debatem violência contra a mulher, programas sociais e corrupção",
+      "imagem": "https://s2-g1.glbimg.com/s4DsqRCkQllD-sqMAE8DICC4o1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/3/FtivYFQ1OHJCojuos2PA/g1-68-.jpg"
+    },
+    {
+      "titulo": "'Não consigo acreditar no que fizeram com meu irmão', diz irmã de homem que morreu após ser espancado em Copacabana, no Rio",
+      "imagem": "https://s2-g1.glbimg.com/v8ICEjJZxWPeZ3Scb-rmy4A1Rwc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/G/no6PPGTxW4bwez8BqoBg/globo-canal-4-20260820-2000-frame-59525.jpeg"
+    },
+    {
+      "titulo": "Um ano após filmagem de agressão com pilha de livros, professora tem condenação mantida por maus-tratos a 4 crianças",
+      "imagem": "https://s2-g1.glbimg.com/_59B9sdbYnUb0ZBG4wDPkoSJqfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/r/U/0BQYjSQKqqFNGcikZWcg/agressao-caxias-moment.jpg"
+    },
+    {
+      "titulo": "FOTOS: montaria em touros na primeira noite da Festa do Peão de Barretos 2026",
+      "imagem": "https://s2-g1.glbimg.com/Fv7b1jHHS97I5ATVzIXwVTNcvmw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/e/ekCXBHQz6FRlUKJkRiiw/dsc-8941.jpg"
+    },
+    {
+      "titulo": "Data center previsto para 2027 em Campinas promete ter 40% da atual capacidade do Brasil",
+      "imagem": "https://s2-g1.glbimg.com/rZbB-RKsxyebv9kcqphsdK17SVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/E/i6YEcSQGCHAHUtmpIbfg/whatsapp-image-2026-08-20-at-19.35.56.jpeg"
+    },
+    {
+      "titulo": "Mensagens revelam que Lulinha e Roberta Luchsinger mantinham núcleo de atuação e projetavam ganhos milionários com o poder público",
+      "imagem": "https://s2-g1.glbimg.com/cpdr2VqkmJA4bkFeK1R6Rpptk-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/d/yU7IJqQi2wCBJ84kWFsw/saveclip.app-503977467-18509369869040584-400028737213943833-n.jpg"
+    },
+    {
+      "titulo": "Novos dirigentes do TRF6 tomam posse em Belo Horizonte",
+      "imagem": "https://s2-g1.glbimg.com/jK6j8nI-AnVNQEbE6P69IFuWAew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/f/LpuZEtQIe44QASxA8QGA/0-33-card-08-posse-trf6-0029.mxf.png"
+    },
+    {
+      "titulo": "Eleições 2026: saiba como foi o dia do candidato Saulo Arcangeli ao governo do Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/Z-c24SPnsV6ex9yK0YNkMNBjUso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/r/e4uny1Q66cL2PewPCG6A/saulo-aarcangeli-quinta.jpg"
+    },
+    {
+      "titulo": "No Recife, 'JN nas Ruas' ouve eleitores sobre educação financeira, empreendedorismo e dinheiro público",
+      "imagem": "https://s2-g1.glbimg.com/o1qqPatMe98cxuQsyurkn3kZuUk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/5/BuKQ1IRrGq75Ek7bvoBQ/globo-canal-4-20260820-2000-frame-133050.jpeg"
+    },
+    {
+      "titulo": "Ronaldo Caiado, candidato à Presidência pelo PSD, visita o Brás, no Centro de São Paulo",
+      "imagem": "https://s2-g1.glbimg.com/cZGS1ATi5cSVY4HicZM4wRydNIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/l/sVilUFQ1Kz93BmRbsqzA/globo-canal-4-20260820-2000-frame-127598.jpeg"
+    },
+    {
+      "titulo": "Samuel Hanan lança livro sobre desafios do Brasil durante palestra em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/CME06aCbnY9b-6v_RXr3NkZbFvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/P/qreqpnQ8KDr8WXLQEtkw/whatsapp-image-2026-08-20-at-20.34.09.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quinta-feira, 20 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/Z2sTC1PHWpoUUUUyJniIkKm5DKg=/s01.video.glbimg.com/deo/vi/95/80/14888095"
+    },
+    {
+      "titulo": "Lançamentos de comitês, panfletagem e entrevistas: veja como foi o quinto dia de campanha dos candidatos ao governo do Ceará",
+      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
+    },
+    {
+      "titulo": "Eleições no DF: pane no Metrô e impugnação de Arruda dominam falas de candidatos nesta quinta",
+      "imagem": "https://s2-g1.glbimg.com/vB8lzfIsbsdQ0et70oVWuTILqkI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/J/HuyNj2QZKTEYtO0sYbSA/a0520-bddf-bdbr-limpo-17042026-frame-75388.jpeg"
+    },
+    {
+      "titulo": "Eleições 2026: saiba como foi o dia do candidato Felipe Camarão ao governo do Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/2oDCoE1HK76Gq_4x6nNr1wynMwA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/c/BKMtzrTfGFnJTx2lX61g/felipe-camarao.jpg"
+    },
+    {
+      "titulo": "Renan Santos, candidato à Presidência pelo Missão, tem agenda em Maceió",
+      "imagem": "https://s2-g1.glbimg.com/Nb6YMgHGWCPt0DgsJ2N7Vjsp6_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/C/sDFcw2R0u0pt4vKn7Rrw/globo-canal-4-20260820-2000-frame-125240.jpeg"
+    },
+    {
       "titulo": "Presidente Lula, candidato à reeleição pelo PT, viaja para o Rio Grande do Norte",
       "imagem": "https://s2-g1.glbimg.com/gCarcHY6GXj_OwzDZJVvMg-2MjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/b/MGxRzrQj2NeY6wABrIRw/globo-canal-4-20260820-2000-frame-122717.jpeg"
     },
@@ -21,7 +85,7 @@
       "imagem": "https://s2-g1.glbimg.com/qW590WfJURxDaAO881JP5FWq6Bs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/v/x9LR46QYSSA6eRQv0Npw/eduardo-braide-quinta-feira.jpg"
     },
     {
-      "titulo": "Política Vanessa Ricarte: MPT lança iniciativa nacional de proteção às mulheres que leva nome de jornalista vítima de feminicídio em MS",
+      "titulo": "MPT lança política nacional de proteção às mulheres que leva nome de jornalista vítima de feminicídio em MS",
       "imagem": "https://s2-g1.glbimg.com/YgdOMs-lPgDYohgefUqLmBuqooQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/r/T87ABjStaP3lZAWFKikA/vanessa-ricarte.jpg"
     },
     {
@@ -55,71 +119,7 @@
     {
       "titulo": "Lotofácil hoje: resultado do concurso 3767 e números sorteados",
       "imagem": "https://s2-g1.glbimg.com/E8a9jOtWvEmlJD8Bim1fSu4k-tg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/T/LPo3RmQvWbe4qWxrZtbw/lotofacil-3767-tyili.jpeg"
-    },
-    {
-      "titulo": "Quina hoje: resultado do concurso 7097 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/8BLddfgdcge79k4cSublCCGU3Oo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/d/eu2FuMTQALdoGH2dyBlA/quina-7097-mysjn.jpeg"
-    },
-    {
-      "titulo": "Pardal: saiba como funciona ferramenta para receber denúncias de irregularidades na propaganda dos candidatos",
-      "imagem": "https://s2-g1.glbimg.com/AFGU1t_1D-KxohLEf0sCdKOtMu4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/K/DyGMrxTD2FXuidpoitbw/globo-canal-4-20260820-2000-frame-111396.jpeg"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
-    },
-    {
-      "titulo": "Elmano de Freitas lança comitê central de campanha em Fortaleza",
-      "imagem": "https://s2-g1.glbimg.com/xErgQTBp0p8c1UbhCKTQnG4HSz4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/q/BYOs3hRoSP1pIxIhmrLQ/elmano-comite.jpeg"
-    },
-    {
-      "titulo": "Veja o que é #FATO e o que é #FAKE na entrevista de Tarcísio de Freitas ao 'Globo', 'Valor' e CBN",
-      "imagem": "https://s2-g1.glbimg.com/W7l5nDNSfEeNCf1vgUT28WQe6w0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/N/F7xH7bSBiioxumoCrDxQ/whatsapp-image-2026-08-20-at-11.09.19.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de quinta-feira, 20 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/ICiy3X0tgob69lVNiGcHPpkxjEQ=/s01.video.glbimg.com/deo/vi/08/80/14888008"
-    },
-    {
-      "titulo": "Veja agenda de campanha dos candidatos ao governo de MG nesta quinta-feira",
-      "imagem": "https://s2-g1.glbimg.com/51YEYUVNj8oQRu2h8a0WF-CiZbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/57q383RYyDBUhmrLzPqw/2.jpg"
-    },
-    {
-      "titulo": "Copa do Mundo 2027: caminhada da Seleção feminina de futebol começará no Maracanã",
-      "imagem": "https://s2-g1.glbimg.com/37UfSZeUoEwOuQR_qvxwBRiCJUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/S/pBfageSqS5TuyHXP0DuA/globo-canal-4-20260820-2000-frame-103415.jpeg"
-    },
-    {
-      "titulo": "Homem que segurou cadela no ar pela coleira em SC é indiciado por maus-tratos; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/6YzliM5TKC0n0E8MzmoHtoQjLg0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/N/gHBKXJRzigCPhsWWBK4Q/cachorros-blumenau-sc.jpg"
-    },
-    {
-      "titulo": "Morre cuidadora atropelada por adolescente bêbado em Goiânia",
-      "imagem": "https://s2-g1.glbimg.com/J17kXQupcdJDhH9Ek1R0e2hfQX0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/F/AzTsu8RwGBl2i6SiVQmQ/g1-2026-08-20t211251.722.jpg"
-    },
-    {
-      "titulo": "Homem é preso suspeito de roubar celular e dinheiro de passageiro que aguardava transporte em Pacaraima",
-      "imagem": "https://s2-g1.glbimg.com/CbTGVlGjMXUl6Z4u2cMcKV6dOBI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/F/ivEx9wRkW8PujdsIvZwQ/suspeito-preso.jpg"
-    },
-    {
-      "titulo": "Ciro Gomes participa de mini carreata e inauguração de comitê em Fortaleza",
-      "imagem": "https://s2-g1.glbimg.com/YIBeloeCwEG3CS2Z9e3ruRAaiJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/b/Dlb4gkSBGS1NmZpr9HYQ/whatsapp-image-2026-08-20-at-20.14.41.jpeg"
-    },
-    {
-      "titulo": "Haddad defende tornozeleira eletrônica para agressores de mulheres e diz que eles devem arcar com custo",
-      "imagem": "https://s2-g1.glbimg.com/WA3BsFJD0TQKdgA_jCf3kgl_0_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/j/YzhtBOQYSjimDogp86YQ/whatsapp-image-2026-08-20-at-17.24.44.jpeg"
-    },
-    {
-      "titulo": "Mulher é presa suspeita de envolvimento em homicídio e exploração sexual de menores em Imperatriz",
-      "imagem": "https://s2-g1.glbimg.com/7kVWUHubQAJOdXwWLI8LnGi-yy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/0/IakzyYR9OJfaX0c7fO4Q/montagens-1920-x-1080-px-2026-08-20t205359.794.png"
-    },
-    {
-      "titulo": "Príncipe Harry e Meghan Markle anunciam que vão voltar a viver no Reino Unido após 6 anos longe da família real",
-      "imagem": "https://s2-g1.glbimg.com/RGyIV6-fw9UoZH87rblL2AbVdGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/P/PSnWlgR0eJkKumMsbJ5g/globo-canal-4-20260820-2000-frame-97175.jpeg"
-    },
-    {
-      "titulo": "Caminhão carregado com combustível derruba postes durante manobra em Ribeirão Preto, SP",
-      "imagem": "https://s2-g1.glbimg.com/2Va1vohey6q26nhvdUG35s1HCnE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/j/yUVIf0ROqXtbmOw2VtsQ/moldura-padrao-g1.png"
     }
   ],
-  "atualizadoEm": "2026-08-21T01:03:57.155Z"
+  "atualizadoEm": "2026-08-21T02:36:09.320Z"
 }
