@@ -1,6 +1,74 @@
 {
   "noticias": [
     {
+      "titulo": "Tesla e outras empresas fazem recall de 4,3 milhões de veículos na China",
+      "imagem": null
+    },
+    {
+      "titulo": "Haddad quer reunir PF, Receita e forças estaduais em gabinete antifacção",
+      "imagem": null
+    },
+    {
+      "titulo": "BB anuncia parceria com iFood para ampliar crédito do Move Brasil Motos",
+      "imagem": null
+    },
+    {
+      "titulo": "Zelensky promete resposta à ataque contra shopping que deixou 14 mortos",
+      "imagem": null
+    },
+    {
+      "titulo": "PMI composto dos EUA avança a 56 em agosto, diz S&#038;P Global",
+      "imagem": null
+    },
+    {
+      "titulo": "Ouro fecha em alta e sobe mais de 5% na semana com incertezas nos EUA",
+      "imagem": null
+    },
+    {
+      "titulo": "Israelense mata adolescente palestino após colonos entrarem em vilarejo",
+      "imagem": null
+    },
+    {
+      "titulo": "Bitcoin tem maior alta semanal em 2 anos com avanço regulatório nos EUA",
+      "imagem": null
+    },
+    {
+      "titulo": "Vendas para a China e safra americana impulsionam preços da soja em Chicago",
+      "imagem": null
+    },
+    {
+      "titulo": "FTV Messi dá voleio espetacular e viraliza com ponto de futevôlei; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Taylor Swift: fãs teorizam anúncio de 13º álbum após &#8220;dica&#8221; no Empire State",
+      "imagem": null
+    },
+    {
+      "titulo": "Vídeo: entregadora de aplicativo é perseguida e agredida por homem no Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Campanha de Lula monitora 3ª via e prevê Renan à frente de Caiado e Zema",
+      "imagem": null
+    },
+    {
+      "titulo": "Botafogo contrata Ferraresi em definitivo; zagueiro fica até 2029",
+      "imagem": null
+    },
+    {
+      "titulo": "João Campos defende articulação para atrair investimentos a PE",
+      "imagem": null
+    },
+    {
+      "titulo": "Mansão onde Gugu sofreu acidente está à venda por US$ 2,8 milhões; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Ana Castela e ex-BBB Paulo Augusto aparecem juntos em Barretos; veja",
+      "imagem": null
+    },
+    {
       "titulo": "Em SP, Caiado diz ser a favor do fim da 6&#215;1 e ataca Lula por economia",
       "imagem": null
     },
@@ -25,6 +93,10 @@
       "imagem": null
     },
     {
+      "titulo": "Petróleo sobe com ameaça de sanções dos EUA a parceiros do Irã",
+      "imagem": null
+    },
+    {
       "titulo": "Vídeo: Urso invade casa na Índia, toma cozinha e assusta família",
       "imagem": null
     },
@@ -37,7 +109,7 @@
       "imagem": null
     },
     {
-      "titulo": "Festa do Peão: famosos desfilam picapes personalizadas e motorhome gigante",
+      "titulo": "Barretos: famosos desfilam picapes personalizadas e motorhome gigante",
       "imagem": null
     },
     {
@@ -47,79 +119,7 @@
     {
       "titulo": "The Town: veja quais serão os dias do festival em 2027",
       "imagem": null
-    },
-    {
-      "titulo": "Clima mais seco no Brasil pressiona café e recua 2,02% em de Nova York",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasil pode exportar 120 mil toneladas de carne bovina extra cota dos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Além de joias, amiga de Lulinha pagou cartão e carro de ex-assessor de Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Entidades defendem E32 após Flávio Bolsonaro dizer que pode rever mistura",
-      "imagem": null
-    },
-    {
-      "titulo": "Registro de candidaturas no TSE diminui quase 30% em quatro anos",
-      "imagem": null
-    },
-    {
-      "titulo": "Empresário assume controle do Minnesota Timberwolves por R$ 23 bilhões",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Harry Potter e a Pedra Filosofal&#8221; terá novas datas de exibição nos cinemas",
-      "imagem": null
-    },
-    {
-      "titulo": "Cepea: Após recorde em 2025, número de empregos no agro recua no 1º tri",
-      "imagem": null
-    },
-    {
-      "titulo": "Sul-Americana: suspensão de Paredes afeta jogo contra o São Paulo? Entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Terceiro envolvido em linchamento de ciclista se entrega à polícia no Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Vasco aciona a Justiça para mandar jogo da Copa do Brasil no Maracanã",
-      "imagem": null
-    },
-    {
-      "titulo": "Atacante Paulinho evolui e aumenta expectativa por retorno ao Palmeiras",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump ganha aval temporário da Suprema Corte para salão na Casa Branca",
-      "imagem": null
-    },
-    {
-      "titulo": "Virginia entrega preocupação em piercing no umbigo: &#8220;Começando a dar ruim&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Memphis faz post enigmático após vitória do Corinthians na Libertadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Reputação protege empresas em crises, diz CEO da FSB Holding",
-      "imagem": null
-    },
-    {
-      "titulo": "Cristiano Ronaldo sai do banco, sela vitória do Al-Nassr e chega a 977 gols",
-      "imagem": null
-    },
-    {
-      "titulo": "CS2: Legacy derruba campeã e FURIA avança na EWC 2026",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T19:47:19.241Z"
+  "atualizadoEm": "2026-08-21T20:20:58.080Z"
 }

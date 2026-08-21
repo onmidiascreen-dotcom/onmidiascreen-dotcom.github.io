@@ -1,12 +1,96 @@
 {
   "noticias": [
     {
+      "titulo": "Mais de 2 mil obras de arte sacra estão desaparecidas em Minas, diz MP",
+      "imagem": "https://s2-g1.glbimg.com/ji6zOotiyWiLvnEACetr1kicLrU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/u/A/QwkT6AShaQ695GBb4lFQ/whatsapp-image-2023-11-10-at-18.17.40.jpeg"
+    },
+    {
+      "titulo": "Semana da Pessoa com Deficiência tem bicicletas adaptadas e ações gratuitas em Petrolina",
+      "imagem": "https://s2-g1.glbimg.com/Z1aEGFbjNvKZASu89iUtPal2-ws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/I/CBhAIHSwidAsdr1rvQUQ/bikesembarreiras.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: sucuri é encontrada em retroescavadeira durante desassoreamento de represa em Votuporanga",
+      "imagem": "https://s2-g1.glbimg.com/o5K82T8c1ls8tPtE4NaGq-5IHUs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/X/7oDrbcTJ2OGreTMGPOGQ/14795582-2026-08-21t164513.861.jpg"
+    },
+    {
+      "titulo": "Filhote de cachorro é morto a pauladas em Cerqueira César; polícia investiga o caso",
+      "imagem": "https://s2-g1.glbimg.com/5GcD_mlNwITdpHsExT5EH8_B5B0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/z/K/9QDgVNSAm73a4GKTQ3Vw/maxresdefault.jpg"
+    },
+    {
+      "titulo": "Governo do RJ e BNDES anunciam acordo para reduzir parcelas de dívida do Estado e novos investimentos",
+      "imagem": "https://s2-g1.glbimg.com/jytc0vEDcsWqFtmil4PQrVfMvx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/I/kNgJlBQAWGABSvB3SYcQ/rj2-governador-bndes-frame-10419.jpeg"
+    },
+    {
+      "titulo": "Policial penal é indiciada por tentativa de homicídio qualificado após atirar em motociclista em Cuiabá",
+      "imagem": "https://s2-g1.glbimg.com/OYj9t3bOeX4Je1s_LrE45NGTFz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/6/9lNbRbTXiP8cdUa4TTmA/videos-g1-2-.jpg"
+    },
+    {
+      "titulo": "Primeiro hub de abastecimento de biometano de Minas Gerais entra em operação em Uberlândia",
+      "imagem": "https://s2-g1.glbimg.com/97bxo4tAyNG1yPVwNUKpGTwVFRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/k/3eNLTkSB6sXj8YO6TYng/governo-inauguracao-do-1o-hub-de-abastecimento-de-biometano-1.jpg"
+    },
+    {
+      "titulo": "Auxiliar de escola admite ter mandado aluno autista bater a cabeça: 'fala infeliz'",
+      "imagem": "https://s2-g1.glbimg.com/Kl54_2iMXvNSxTclr7ZgemEK-Is=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/u/PFBFpsSAOA2ATZPMBBbQ/agressao-crianca.jpg"
+    },
+    {
+      "titulo": "Senac Acre encerra Expoacre com mais de 2,6 mil atendimentos",
+      "imagem": "https://s2-g1.glbimg.com/TNbrFBvlejWxwo_zVXtKuc--WDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/s/CM4m5DSBWDWOiFnBvoEA/expoacre2026-3-.jpeg"
+    },
+    {
+      "titulo": "Projetos socioambientais começam a ser implantados em comunidades de Oriximiná após etapa de consultas",
+      "imagem": "https://s2-g1.glbimg.com/TPTxR58SdjyEtkpoy5HMV8SaqaI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/w/YX0yJ4SJydagqSX1B5qg/whatsapp-image-2026-08-21-at-15.35.26.jpeg"
+    },
+    {
+      "titulo": "Ufac chega ao 12º reitor em 62 anos; Veja quem já comandou a instituição",
+      "imagem": "https://s2-g1.glbimg.com/pf5_yeQYU5OwiS6jqKk9zMn6zEo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/9/5Ij0IlSCqjab9wOWfoUg/midia-de-distribuicao-g1-2026-08-21t145615.461.png"
+    },
+    {
+      "titulo": "VÍDEO mostra batida entre caminhões que deixou três mortos e um ferido na BR-158 em MT",
+      "imagem": "https://s2-g1.glbimg.com/QzArVMzCLDED8VVNuf54745l7tQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/A/V93VnQRAysGBKXZLpSDQ/videos-g1-.gif"
+    },
+    {
+      "titulo": "'Energia é pulsante': influenciadora defende Centro Histórico de São Luís após publicar vídeos e receber críticas",
+      "imagem": "https://s2-g1.glbimg.com/Ry0JGmsrjQZuPblvlCoemuk-rHw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/P/vFKDDKRxqEEUWcFNBtCw/montagens-1920-x-1080-px-78-.png"
+    },
+    {
+      "titulo": "Três pessoas são presas com arma e munições em Itatiaia",
+      "imagem": "https://s2-g1.glbimg.com/eQviZDXu90eKpxqE5NIhPMcTKmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/4/2khxNsQDmYvoLUUBZApA/whatsapp-image-2026-08-21-at-16.42.04-1-1-.jpeg"
+    },
+    {
+      "titulo": "Justiça decreta prisão preventiva de advogado filmado agredindo filha de 6 anos dentro de elevador em SP",
+      "imagem": "https://s2-g1.glbimg.com/qhMgg4dGvLhxpbBwvjLZ1aZtVpY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/G/YMx3VIQLONGorZiUAqVA/captura-de-tela-2026-08-21-044333.png"
+    },
+    {
+      "titulo": "'Unicamp de Portas Abertas' recebe visitantes com oficinas e palestras neste sábado",
+      "imagem": "https://s2-g1.glbimg.com/Lr2VTiEjNS98C0Re-8q9pxwwZyE=/s.glbimg.com/jo/g1/f/original/2012/08/31/unicamp_-_fotao.jpg"
+    },
+    {
+      "titulo": "Cachorro-do-mato e macaco-prego são soltos no Parque Nacional da Tijuca",
+      "imagem": "https://s2-g1.glbimg.com/ftiCl7qKnYCNKqSDB_C4uh4uhe4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Y/ay6kTvRAij6Sl7wgXJTg/ago.26-pnt-solturadeanimais-credito-luciana-sposito-5926-1-.jpg"
+    },
+    {
+      "titulo": "Programa 'Coletivo Coca-Cola Jovem + Inglês' abre mil vagas gratuitas para curso do idioma no Amazonas",
+      "imagem": "https://s2-g1.glbimg.com/67XFxoAIhnEECHtIhMQm6BN0h8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/E/qKrAVqQdSFx4KtU6h22g/image-2025-08-30t122711.712.png"
+    },
+    {
+      "titulo": "Durigan diz que crise da Casas Bahia não indica problema geral na economia: 'Não há'",
+      "imagem": "https://s2-g1.glbimg.com/2ombwGGVl5ZqBsKoiBrN8s_gh88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/U/OFvEB7Tfm1kLQvniZVUw/55462113859-1304f3643c-k.jpg"
+    },
+    {
+      "titulo": "Farmacêutica reduz preço das doses de 1,7 mg e 2,4 mg da Poviztra, caneta com semaglutida",
+      "imagem": "https://s2-g1.glbimg.com/J6hXnRecEVQwMHkcUzFkchxex9U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/D/VEBczLTHOyUEtbs7ZrdA/imagem-cortada.jpg"
+    },
+    {
+      "titulo": "Turquia emite ordem de prisão contra Netanyahu por detenção de ativistas",
+      "imagem": "https://s2-g1.glbimg.com/Uq_JizFtrp9IaBW7kO0_ekTxqLk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/R/9/SSSuEDRE2KhBocB9JzKA/bibi-erdogan.jpg"
+    },
+    {
       "titulo": "Veja o que fazer em SP: musical do Paulo Gustavo, Péricles+Ferrugem, festivais de gastronomia, vinhos e filmes e roda de samba",
       "imagem": "https://s2-g1.glbimg.com/mWpTVtHzatrwHEf-dzMdxGkML6c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/8/PdjEJdRym1kmGAgE7reQ/fotojet-93-.jpg"
     },
     {
       "titulo": "TikTok pagará US$ 400 milhões nos EUA por caso envolvendo privacidade de crianças",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/MtqJoyhAafoeHwp-XJSQMsmc9UM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/c/HntGYvSymadIA5qxY94w/globo-canal-4-1-9-frame-5786.jpeg"
     },
     {
       "titulo": "Moraes determina cassação da aposentadoria de Silvinei Vasques, ex-diretor da PRF",
@@ -26,7 +110,7 @@
     },
     {
       "titulo": "Engavetamento com sete veículos deixa três feridos e interdita Fernão Dias, em Betim",
-      "imagem": "https://s2-g1.glbimg.com/ZWTPr5sEMo3kubboJg2VjhntUfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/0/FfYLibTcO9FvS8wMAkcg/0-10-2108flash-av-acidente-betim.png"
+      "imagem": "https://s2-g1.glbimg.com/vmI0AVsjVT_2l_Zff-z1UF0l85M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/I/Bgdr8qScSNWFLN8UpOtw/whatsapp-image-2026-08-21-at-17.04.29.jpeg"
     },
     {
       "titulo": "Justiça rejeita recurso e mantém bloqueio de R$ 1 bilhão em bens de investigados por suspeita de fraude na iluminação de SP",
@@ -35,91 +119,7 @@
     {
       "titulo": "Governo de Roraima é condenado a indenizar mãe após morte de bebê em maternidade de Boa Vista",
       "imagem": "https://s2-g1.glbimg.com/zeWMFYMqRSiN8TqR5_1hC5j7L60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/r/G/fIvsXiQgCYe0iYprY1Fg/nova-estrutura-da-maternidade-nossa-senhora-de-nazareth-e-inaugurada-14-.jpg"
-    },
-    {
-      "titulo": "Denarium impulsiona post em favor de Arthur Henrique e Justiça manda suspender publicação",
-      "imagem": "https://s2-g1.glbimg.com/afBK0f-6SFSvop9GfsZK02CbnI8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/a/Ug8iAqRfaxtowFqNVeBg/denarium-1-.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 21 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/McG1aKotJFZ5WO0S8-EbTKj0C3c=/s01.video.glbimg.com/deo/vi/74/05/14890574"
-    },
-    {
-      "titulo": "Estrela do Cerrado: Onça-pintada que atuou na novela Pantanal está esperando filhote, diz instituto",
-      "imagem": "https://s2-g1.glbimg.com/khvnw_QBkogm0Kbnfff5qEwD6UU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/X/RBZzHVQm694LVMvkCiYQ/copia-de-copia-de-copia-de-padrao-foto-g1-goias-25-.jpg"
-    },
-    {
-      "titulo": "Procurado por esfaquear a esposa e o filho de 14 anos é preso no litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/7EBNOhpIDybf-81IxdIJNTjl30s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/k/QsBTllSQGYiuUd0OrBDg/atropela-3-.jpg"
-    },
-    {
-      "titulo": "Facção cobrou R$ 200 mil para aliados de prefeito realizarem campanha eleitoral em município do Ceará",
-      "imagem": "https://s2-g1.glbimg.com/PEEKhLwOd0d9YGFeyiYfI17BoMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/O/5T5TG2TAKc0apdWUph3A/presos-forquilha.jpg"
-    },
-    {
-      "titulo": "Prefeita de Praia Norte volta a ser afastada do cargo pela Justiça",
-      "imagem": "https://s2-g1.glbimg.com/xuC3HpP8eV2RUEflVAWI514_jOE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/B/CcmDAIRAeVSLEjBXE72A/foto-e-montagem-vertical-7-.png"
-    },
-    {
-      "titulo": "Idosa perde R$ 58 mil no golpe do 'falso delegado' e polícia cumpre mandados de busca no litoral paulista e no RJ",
-      "imagem": "https://s2-g1.glbimg.com/o8slbtRNV-3kHPuCkCGht1eTIVo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/O/B1t3BZSBArfBcbeC5oBg/canva-17-.jpg"
-    },
-    {
-      "titulo": "Cantora Liene Show relata importunação sexual durante apresentação em Sergipe",
-      "imagem": "https://s2-g1.glbimg.com/8LRxsMgpy2zyFhtmCPf653ZrLKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/v/ZAx7WwTRWb8BLBHs49dQ/liene-show.jpg"
-    },
-    {
-      "titulo": "Otto Alencar acerta com Alcolumbre relatores das PECs da Segurança e Fim da escala 6 X 1",
-      "imagem": null
-    },
-    {
-      "titulo": "Haddad propõe criação de banco 'nos moldes do BNDES' para financiar reindustrialização de SP",
-      "imagem": "https://s2-g1.glbimg.com/tzQqOcHOhDL3ngqChyxiU8giDog=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/2/BLDeQnT4igeCCwl9DCxw/067a1015-1-.jpg"
-    },
-    {
-      "titulo": "Vacinação contra a raiva será realizada em Montes Claros neste sábado (22); veja locais",
-      "imagem": "https://s2-g1.glbimg.com/O9uh8XeR2l9ooR0NbA8cBBR7BFU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/o/qH0jT9SV6P3VKfBx0FBw/whatsapp-image-2025-06-11-at-08.32.22.jpeg"
-    },
-    {
-      "titulo": "Sesc realiza quase 30 mil atendimentos durante a Expoacre 2026",
-      "imagem": "https://s2-g1.glbimg.com/Y71RB0B7XXz_F8M5MnTLgUBtx-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/ktjuCUSUqWdJU3XtV8BQ/whatsapp-image-2026-08-11-at-11.03.24.jpeg"
-    },
-    {
-      "titulo": "Pacientes renais do TO que aguardam transplante relatam dificuldades para conseguir passagens aéreas pelo Estado",
-      "imagem": "https://s2-g1.glbimg.com/qXcdrLMruCpZwViWHUsVS6ct6-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/W/OFYd2nT4i1ywOn9RsWEQ/copia-de-modelo-foto-fundo-borrado-3-.png"
-    },
-    {
-      "titulo": "O que faz um bairro preservar o valor dos imóveis ao longo do tempo?",
-      "imagem": "https://s2-g1.glbimg.com/XvTtGcMMUyAtZR9p9ITEtQpKgxI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/y/86Vn2dSSmYRqRCosSmsg/clean-street-residential-area-small-town-1-.jpg"
-    },
-    {
-      "titulo": "'As ditaduras não sossegam, então os democratas também não podem sossegar', diz ministra Cármen Lúcia em SP",
-      "imagem": "https://s2-g1.glbimg.com/bgdeHtUgJ9IeCQKVZPiSQ14ewRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/m/BmYdodTnermKXbB0rv8w/gnews-carmen-lucia-usp-20260821-0952-frame-174317.jpeg"
-    },
-    {
-      "titulo": "5 ferramentas profissionais que mostram a inovação na construção",
-      "imagem": "https://s2-g1.glbimg.com/gBq0JCle_b8ySJBV54D60PuEsMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/S/7lZjs1RraAH4M7AEyAwQ/1.png"
-    },
-    {
-      "titulo": "Avibras se manifesta sobre compra pelo Grupo J&amp;F, de Joesley e Wesley Batista, e diz que negócio ainda depende do Cade",
-      "imagem": "https://s2-g1.glbimg.com/IVnEJBbwz3NEJybCl1CFDMBpcYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/W/JZ9D5vQqWCjL0AWAfMBg/foto-g1.jpg"
-    },
-    {
-      "titulo": "Sanfoneira com deficiência visual é furtada enquanto tocava no centro de Araçatuba",
-      "imagem": "https://s2-g1.glbimg.com/fV2bvtI0xzDAiNoenzsbHch7dU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/V7ilF5QYeXLRNkDYSzgQ/design-sem-nome-18-.jpg"
-    },
-    {
-      "titulo": "Equipamento rompe a 20 metros do chão e trabalhador é resgatado em obra de Divinópolis",
-      "imagem": "https://s2-g1.glbimg.com/UolngBcgamJF4Yevd79a2FWJBLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/x/mrkEAnTYOBtBCHx0uvkw/captura-de-tela-2026-08-21-161057.png"
-    },
-    {
-      "titulo": "STF deve retomar em setembro julgamento sobre mudança na Lei da Ficha Limpa que pode impactar campanhas",
-      "imagem": "https://s2-g1.glbimg.com/cZSfAUNyYjOnN7oau3wgCKJEfck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/g/yiNUjoRdSPzfkziaBTtA/55355030284-9e4e4110e7-k.jpg"
-    },
-    {
-      "titulo": "Pré-vestibular gratuito da UPE oferece vagas em Caruaru para preparação para o ENEM",
-      "imagem": "https://s2-g1.glbimg.com/K9iwUcKOOy-k8X2UOwFR9MODgnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/M/k8MWQrTPelQ6cKwYpWdw/whatsapp-image-2026-08-21-at-16.01.24.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-21T19:47:20.940Z"
+  "atualizadoEm": "2026-08-21T20:20:58.736Z"
 }
