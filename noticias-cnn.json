@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "À CNN, conselheiro do São Paulo diz que dívida do clube supera R$ 1 bilhão",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia Civil do RJ apura crimes de corrupção e extorsão em Japeri",
+      "imagem": null
+    },
+    {
+      "titulo": "Delegado aposentado da PF é preso por furto em supermercado no Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Mourinho adota tom &#8220;paz e amor&#8221; em nova passagem pelo Real Madrid",
+      "imagem": null
+    },
+    {
       "titulo": "Alex Telles explica confusão com técnico rival: &#8220;Ele sabe o que falou&#8221;",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "Ana Castela e Wesley Safadão sobem ao palco de Barretos; veja programação",
       "imagem": null
-    },
-    {
-      "titulo": "IFI alerta para despesas crescendo acima das receitas e déficit estrutural",
-      "imagem": null
-    },
-    {
-      "titulo": "Nunca vi tamanha desconfiança, diz especialista em STF sobre caso Lulinha",
-      "imagem": null
-    },
-    {
-      "titulo": "Saída fiscal do Brasil cresce 80% em cinco anos, mostram dados da Receita",
-      "imagem": null
-    },
-    {
-      "titulo": "Ventania de 100 km/h com passagem de ciclone coloca SP e RJ em alerta",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T10:46:36.149Z"
+  "atualizadoEm": "2026-08-21T11:21:16.979Z"
 }
