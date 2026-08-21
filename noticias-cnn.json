@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Análise WW: Juros altos colocam empresas e famílias nas cordas",
+      "imagem": null
+    },
+    {
       "titulo": "Avião fretado com oito pessoas cai em área remota do Alasca",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Olimpia 1 x 4 Vasco: veja os melhores momentos da classificação vascaína",
       "imagem": null
-    },
-    {
-      "titulo": "Na MLS, Messi dá tapa na cara de adversário, que revida; veja vídeo",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T05:47:15.505Z"
+  "atualizadoEm": "2026-08-21T06:38:45.066Z"
 }
