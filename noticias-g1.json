@@ -1,6 +1,98 @@
 {
   "noticias": [
     {
+      "titulo": "Por que a definição sobre o autismo virou ponto central de uma batalha",
+      "imagem": "https://s2-g1.glbimg.com/_elcskEZzXZg5RhX_dX8ECph9rM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/j/pfFy0NTXGvlY6QxxV1Zg/aut.png"
+    },
+    {
+      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "Homem empresta conta do Airbnb para estranha, imóvel é furtado e os dois são indiciados em MG",
+      "imagem": "https://s2-g1.glbimg.com/fY8-vnNR-bCb81REJ7QWLbu7tcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/GDzloZSBSTjtxJfWHyjQ/design-sem-nome-67-.jpg"
+    },
+    {
+      "titulo": "Festival do Açaí: Primeira noite tem show da dupla João Lucas &amp; Marcelo em Feijó",
+      "imagem": "https://s2-g1.glbimg.com/GOBBw13CerYAm4ZQ4QgcyVgSITg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/Q/4nrBmwRBOrduT1xcmWHg/midia-de-distribuicao-g1-2026-07-22t093837.861.png"
+    },
+    {
+      "titulo": "Mais de 3 mil CNHs estão esquecidas no Detran de MT; veja os riscos de não retirar",
+      "imagem": "https://s2-g1.glbimg.com/_XZEMbO-7FDUaizC7ygPCSGAAi0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/A/9G8Lr9TUKDVybqi0Hahw/whatsapp-image-2025-07-22-at-10.19.14.jpeg"
+    },
+    {
+      "titulo": "PM é preso em AL após supostamente ser filmado cheirando cocaína em partes íntimas de mulher",
+      "imagem": "https://s2-g1.glbimg.com/1IzbiA0oSamhHZAiVKMcw_Qz4Po=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/X/O9op6yRHqenm3lJiEeLA/3o-bpmpaint.jpg"
+    },
+    {
+      "titulo": "Professor que atuava em Vila Velha e Cariacicia é preso com material de abuso sexual infantil e pornografia em casa",
+      "imagem": "https://s2-g1.glbimg.com/lNiBme0ErJuo11Vm2PaTkZtUeBo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/v/7xjTxxTFAKdaXw2UMNrg/thumb-fotos-46-.jpg"
+    },
+    {
+      "titulo": "Dia D de Multivacinação conta com oito pontos em Rio Branco neste sábado (22); Veja LISTA",
+      "imagem": "https://s2-g1.glbimg.com/bvRKfWmdHzucIloh9Gifga5yZbs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/Q/GVJRY9SlStGAoNjB5lig/whatsapp-image-2025-11-28-at-08.55.30.jpeg"
+    },
+    {
+      "titulo": "Secretário do Exército dos EUA deve deixar o cargo até o fim do ano, diz jornal",
+      "imagem": null
+    },
+    {
+      "titulo": "Estudantes do Amazonas vão à Justiça após UEA acabar com reserva de vagas para candidatos do interior",
+      "imagem": "https://s2-g1.glbimg.com/rpyiYl6XcuFu7ciVDeVqPw9vkgs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/Y/PmJkcxRkmvd5FXWKpEzg/captura-de-tela-2026-01-29-210123.png"
+    },
+    {
+      "titulo": "Idosa fica gravemente ferida após ser atropelada por moto em Divinópolis",
+      "imagem": "https://s2-g1.glbimg.com/e1N2iqi3DlWj5M4zQPmQDVd6FVw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/u/eEkWI9QAqD1uMvO5LOyA/idosa-e-atropelada-em-divinopolis-2-.jpg"
+    },
+    {
+      "titulo": "Justiça proíbe grupo de buscar suposta 'cidade perdida' de Ratanabá em terra indígena",
+      "imagem": "https://s2-g1.glbimg.com/Y2aK0QPzSQjbtvTfnSelSK5xUVI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/q/SkgTAKTJCC406F04WghQ/1200-x-800-58-.jpg"
+    },
+    {
+      "titulo": "Avibras: conheça os mísseis, foguetes e sistemas de defesa da empresa de Jacareí comprada pela J&amp;F",
+      "imagem": "https://s2-g1.glbimg.com/4_aSdwVrPWexZBGr_fDeBUFpkYM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/ukEs4zT2m6OO2oULzPvg/foto-g1-2-.jpg"
+    },
+    {
+      "titulo": "Pinheiral recebe pela primeira vez a 'Caminhada do Amicão' no dia 30 de agosto",
+      "imagem": "https://s2-g1.glbimg.com/rJ_S-ytI5a4yQHVe2ogRhzTHZ5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/Nu5BoBSOm65KAMmCXyyA/image-98-1-.png"
+    },
+    {
+      "titulo": "Quatro são condenados por tentativa de homicídio contra policial civil e esposa em Santarém",
+      "imagem": "https://s2-g1.glbimg.com/eknkpmVNgFXUuXIIMowp4BnnViY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/b/8z6zVKRE27mhYQoGZnOw/whatsapp-image-2026-08-21-at-17.50.03.jpeg"
+    },
+    {
+      "titulo": "Condenado a mais de 62 anos por roubo tenta escapar por telhados e é recapturado durante operação no PI",
+      "imagem": "https://s2-g1.glbimg.com/665iVXqLs5NZZS9pgVAA7xU4He8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/5/bdAYhnRqOGhqFHgQBL8g/copia-de-edicao-imagens-g1-10-.png"
+    },
+    {
+      "titulo": "Ministro brasileiro e representante dos EUA retomam conversas após telefonema de Lula e Trump",
+      "imagem": "https://s2-g1.glbimg.com/eCdqshFTi1zC1J58RvSQsbM2Lmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/p/JjTGfpSBiHYgYL6ARwTA/globo-canal-4-20260507-2000-frame-119711.jpeg"
+    },
+    {
+      "titulo": "O que se sabe sobre as pesquisas eleitorais falsas divulgadas por empresa misteriosa nos EUA",
+      "imagem": "https://s2-g1.glbimg.com/TaPOPMuGbBCnYiryj2lHaCblnlY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/X/BsgZS0Rs2q9TtL2D0pJQ/ap26231494061684.jpg"
+    },
+    {
+      "titulo": "Abastecimento de água será interrompido em bairros de Petrolina nesta segunda-feira (24)",
+      "imagem": "https://s2-g1.glbimg.com/V48cfs1hhGlbk7CqBoRBN44KRM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/b/VQjX3ZT0yWHatIENslKw/acervo-sp1-limpo-20250210-1130-frame-122915.jpeg"
+    },
+    {
+      "titulo": "EPTV 2 Piracicaba ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "Encontro em Manaus debate soluções para agilizar operações de comércio exterior",
+      "imagem": "https://s2-g1.glbimg.com/qJwWhI-nJ6CuAnLRvBx7K1RlVV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/L/WUWXDAQx6VkLqJEV4fHQ/encontro-aduaneiros.jpg"
+    },
+    {
+      "titulo": "Caso Master: PF identifica a participação de mais diretores do BRB em supostas irregularidades e pede a prorrogação de inquérito",
+      "imagem": "https://s2-g1.glbimg.com/UbaB3Zkd0Z7QDPNr9CD3Re7S6_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/c/kRcOA6T6iPwbqAzIPUjA/globo-canal-4-20260709-2000-frame-59721.jpeg"
+    },
+    {
+      "titulo": "SP2B reúne inovação, cultura e empreendedorismo para discutir os negócios do futuro",
+      "imagem": "https://s2-g1.glbimg.com/jEmESK-KN6Hw_ayZxnoFAnxeXmo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/L/A1p29FQYyROuUBgeRmHA/imagem-principal-g1-claro-sp2b-v2-1-.jpg"
+    },
+    {
       "titulo": "É #FAKE que PF descobriu 'fábrica de fake news' criada para beneficiar Flávio Bolsonaro; foto foi feita com inteligência artificial",
       "imagem": "https://s2-g1.glbimg.com/vZWfLIikbz34d37YyYm-aVS-loA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Q/TRJlY5QLa5AY5376Twjw/abre-materia-fof.png"
     },
@@ -27,99 +119,7 @@
     {
       "titulo": "Juliano, da dupla com Henrique, surpreende fãs ao visitar bar com helicóptero",
       "imagem": "https://s2-g1.glbimg.com/6VICs2IKfk3e0EQ9ayQOpw7tIeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/c/jEzxtnSyuKFNVJftJA8w/copia-de-modelo-foto-fundo-borrado.png"
-    },
-    {
-      "titulo": "Polícia Civil indicia sargento por feminicídio de capitã da PM em BH",
-      "imagem": "https://s2-g1.glbimg.com/jk1vsAsdhQeQe9CmgqP2JpPm8uM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/D/PoDbK1Ssaitt3JF4iMng/blank-2-grids-collage-3-.png"
-    },
-    {
-      "titulo": "Senai Amazonas abre inscrições para 3.673 vagas gratuitas em cursos de qualificação",
-      "imagem": "https://s2-g1.glbimg.com/5LzA_xjXe4f6dnbEugrTkqJVM0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/y/MKDCdURqu1D1SoafQzuA/senai-amazonas-abre-2.855-vagas-gratuitas-em-cursos-de-qualificacao-e-aperfeicoamento-foto-divulgacao-senai.jpg"
-    },
-    {
-      "titulo": "Rogério Miranda declara R$ 7,4 milhões em bens na disputa ao Senado por Roraima",
-      "imagem": "https://s2-g1.glbimg.com/NMbZ1MZjALvKVUVGg0wOTJTDuro=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/F/SFY5iLQMGDxyeNezWBbQ/rogerio.jpeg"
-    },
-    {
-      "titulo": "Veja plano de governo de Roberto Rocha (PRTB), candidato ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/P3abL3u5GzRRgObjB8KTlVxZZ6s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/o/AFPDvlSnSMJXa6yU6IDg/roberto-rocha.png"
-    },
-    {
-      "titulo": "Monitoramento por satélite flagra uso irregular de fogo e homem é multado em R$ 18,9 mil no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/9L74jtB9mIXiiie4GjwT_H1eFmU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/I/u7ok7fSBOJBIf4GjuqgA/infracao-1-.png"
-    },
-    {
-      "titulo": "Investigador da Polícia Civil e mais três são presos por roubos que ultrapassam R$ 23 milhões em RR",
-      "imagem": "https://s2-g1.glbimg.com/_GhmhqjpqrBoVVmGT4zwTLxWc5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/t/6lKuVmRHWLc2unIanaxA/marcelo-henrique-sobral-alvo-da-pcrr.jpg"
-    },
-    {
-      "titulo": "'Tio Patinhas' do PCC, foragido da Justiça do Paraná, é preso durante operação no Norte do ES",
-      "imagem": "https://s2-g1.glbimg.com/bFITeLEDUeUYXvp6XG2HvThjsgw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/b/mCPL6bSiCsjrBJ9NFgFA/thumb-fotos-45-.jpg"
-    },
-    {
-      "titulo": "Grávida é agredida a chineladas nas costas e no pescoço pelo companheiro, em Governador Valadares",
-      "imagem": "https://s2-g1.glbimg.com/znHcGrrqZicpU71OQMgn-A64u44=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/h/wC2um9SfKyOQ7f9JPclA/redimensao-7-.png"
-    },
-    {
-      "titulo": "Operação interdita estrada e tenta resgatar corpo de motorista após acidente entre carretas em MT",
-      "imagem": "https://s2-g1.glbimg.com/cH_XgPuqMOfVk-edIwmykKLf2p4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/T/o0DkZeQW6xFAQwfZyRPg/videos-g1-5-.png"
-    },
-    {
-      "titulo": "Homem é preso por homicídio em Porto Velho; segundo suspeito é procurado",
-      "imagem": "https://s2-g1.glbimg.com/zIHzBtfroyTMkt-mSVTvmhAY6lQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Z/VVd9ZjRnyASjBIynYoUg/whatsapp-image-2026-08-21-at-15.51.02.jpeg"
-    },
-    {
-      "titulo": "Justiça manda Meta pagar R$ 50 mil a Miss São Paulo por não excluir na íntegra comentários racistas",
-      "imagem": "https://s2-g1.glbimg.com/5txtd2obtGihHD7W3gkyVTD3lyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/i/61FTN1R0SItAKArYLdOA/fotojet-2026-08-21t165739.884.jpg"
-    },
-    {
-      "titulo": "ANPD inicia monitoramento de redes sociais e ferramentas de IA para avaliar proteção de crianças e mulheres",
-      "imagem": "https://s2-g1.glbimg.com/6ysZzYPi35qumhr8ytxkdGCx0Vk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/8/V/mV0V3RTMWE69jd1ryB3g/canva-celularxcrianca.png"
-    },
-    {
-      "titulo": "Miss Brasil Gay 2026 celebra 50 anos de história neste fim de semana em Juiz de Fora; veja detalhes",
-      "imagem": "https://s2-g1.glbimg.com/_D-ipY7z9xQc2K4XBRvOZ71GouA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/4/SBJywASaeV1VztVOJhLA/whatsapp-image-2025-08-23-at-23.53.26.jpeg"
-    },
-    {
-      "titulo": "Luísa Sonza revela que está noiva de Luis Ribeirinho: 'Sim, para sempre'",
-      "imagem": "https://s2-g1.glbimg.com/lf9m7At1v5H2TN4ilcmWZwqrFjA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/I/d1iDwyT6ClYNCWJv4cBQ/sonzacasamento.jpg"
-    },
-    {
-      "titulo": "Mais de 2 mil obras de arte sacra estão desaparecidas em Minas, diz MP",
-      "imagem": "https://s2-g1.glbimg.com/ji6zOotiyWiLvnEACetr1kicLrU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/u/A/QwkT6AShaQ695GBb4lFQ/whatsapp-image-2023-11-10-at-18.17.40.jpeg"
-    },
-    {
-      "titulo": "Semana da Pessoa com Deficiência tem bicicletas adaptadas e ações gratuitas em Petrolina",
-      "imagem": "https://s2-g1.glbimg.com/Z1aEGFbjNvKZASu89iUtPal2-ws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/I/CBhAIHSwidAsdr1rvQUQ/bikesembarreiras.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: sucuri é encontrada em retroescavadeira durante desassoreamento de represa em Votuporanga",
-      "imagem": "https://s2-g1.glbimg.com/o5K82T8c1ls8tPtE4NaGq-5IHUs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/X/7oDrbcTJ2OGreTMGPOGQ/14795582-2026-08-21t164513.861.jpg"
-    },
-    {
-      "titulo": "Filhote de cachorro é morto a pauladas em Cerqueira César; polícia investiga o caso",
-      "imagem": "https://s2-g1.glbimg.com/5GcD_mlNwITdpHsExT5EH8_B5B0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/z/K/9QDgVNSAm73a4GKTQ3Vw/maxresdefault.jpg"
-    },
-    {
-      "titulo": "Governo do RJ e BNDES anunciam acordo para reduzir parcelas de dívida do Estado e novos investimentos",
-      "imagem": "https://s2-g1.glbimg.com/jytc0vEDcsWqFtmil4PQrVfMvx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/I/kNgJlBQAWGABSvB3SYcQ/rj2-governador-bndes-frame-10419.jpeg"
-    },
-    {
-      "titulo": "Policial penal é indiciada por tentativa de homicídio qualificado após atirar em motociclista em Cuiabá",
-      "imagem": "https://s2-g1.glbimg.com/OYj9t3bOeX4Je1s_LrE45NGTFz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/6/9lNbRbTXiP8cdUa4TTmA/videos-g1-2-.jpg"
-    },
-    {
-      "titulo": "Primeiro hub de abastecimento de biometano de Minas Gerais entra em operação em Uberlândia",
-      "imagem": "https://s2-g1.glbimg.com/97bxo4tAyNG1yPVwNUKpGTwVFRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/k/3eNLTkSB6sXj8YO6TYng/governo-inauguracao-do-1o-hub-de-abastecimento-de-biometano-1.jpg"
-    },
-    {
-      "titulo": "Auxiliar de escola admite ter mandado aluno autista bater a cabeça: 'fala infeliz'",
-      "imagem": "https://s2-g1.glbimg.com/Kl54_2iMXvNSxTclr7ZgemEK-Is=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/u/PFBFpsSAOA2ATZPMBBbQ/agressao-crianca.jpg"
-    },
-    {
-      "titulo": "Senac Acre encerra Expoacre com mais de 2,6 mil atendimentos",
-      "imagem": "https://s2-g1.glbimg.com/TNbrFBvlejWxwo_zVXtKuc--WDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/s/CM4m5DSBWDWOiFnBvoEA/expoacre2026-3-.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-21T20:48:50.851Z"
+  "atualizadoEm": "2026-08-21T21:20:03.377Z"
 }
