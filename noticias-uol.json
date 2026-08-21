@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "São Paulo deve ter ventania do ciclone nesta sexta (21) e frio no fim de semana",
+      "imagem": null
+    },
+    {
+      "titulo": "Queda de avião mata oito pessoas em instalação da Força Aérea dos EUA no Alasca",
+      "imagem": null
+    },
+    {
       "titulo": "Presidente de rede de hospitais e plano de saúde é acusado de crime sexual",
       "imagem": null
     },
@@ -49,17 +57,9 @@
       "imagem": null
     },
     {
-      "titulo": "Avião com oito pessoas cai perto de estação de radar no Alasca",
-      "imagem": null
-    },
-    {
-      "titulo": "No retorno de Memphis, Corinthians vence Rosario Central (1-0) e vai às quartas da Libertadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Flavio Cobolli e Arthur Fils avançam à semifinal do Masters 1000 de Cincinnati",
+      "titulo": "Queda de avião mata oito pessoas perto de estação de radar no Alasca",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T07:28:36.595Z"
+  "atualizadoEm": "2026-08-21T08:06:45.012Z"
 }

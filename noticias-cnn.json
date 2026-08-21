@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Chinesa busca acesso à Foz do Amazonas após descoberta da Petrobras",
+      "imagem": null
+    },
+    {
+      "titulo": "Renault Koleos é premium de verdade, mas consumo afasta; conheça detalhes",
+      "imagem": null
+    },
+    {
+      "titulo": "O que os presidenciáveis propõem para o agro? Conheça as propostas",
+      "imagem": null
+    },
+    {
       "titulo": "Santander: Juro alto está fazendo efeito esperado",
       "imagem": null
     },
@@ -107,19 +119,7 @@
     {
       "titulo": "Botafogo encaminha venda de Matheus Martins; confira valores",
       "imagem": null
-    },
-    {
-      "titulo": "Corinthians vence Rosario Central com um a menos e avança na Libertadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Como termina &#8220;Outer Banks&#8221;? Veja final explicado",
-      "imagem": null
-    },
-    {
-      "titulo": "Deyverson projeta reencontro com o Palmeiras na Libertadores",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T07:28:37.002Z"
+  "atualizadoEm": "2026-08-21T08:06:45.196Z"
 }
