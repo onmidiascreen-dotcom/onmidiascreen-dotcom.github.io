@@ -1,6 +1,102 @@
 {
   "noticias": [
     {
+      "titulo": "Avião com oito pessoas a bordo cai no Alasca",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja o que fazer em Belém: agenda cultural tem Othon Bastos, Whindersson Nunes, Afronto e mais",
+      "imagem": "https://s2-g1.glbimg.com/owUP9nmM5cYgyOnHkMTQSlpk9m4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/v/fASxgQT2OFKIc3MnbtMw/178728194715543.jpg"
+    },
+    {
+      "titulo": "Estudantes são premiados em Prêmio Literário",
+      "imagem": "https://s2-g1.glbimg.com/7axo2AWHd6FeyAh76NOvrRzAOxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/6/MN4jaCRBmJBhAUvQh0Ag/320x180-foto-destaque-horizontal-18-.png"
+    },
+    {
+      "titulo": "Córrego do Cintra é urbanizado em Montes Claros",
+      "imagem": "https://s2-g1.glbimg.com/IDND4-sQaYH7EcuIO21O6eLnQHU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/q/aA00XWRuqmITa715Yh6Q/cintra-beatriz-do-rosario.jpeg"
+    },
+    {
+      "titulo": "Macaé alcança recorde histórico de 143,5 mil empregos formais",
+      "imagem": "https://s2-g1.glbimg.com/4AJ3ZQb2gPyqPtTwAk82B2UMXYE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/v/XvXC95TTmI5Tk5dIKRQA/foto-1-empregos-formais.jpeg"
+    },
+    {
+      "titulo": "Guarda Civil Municipal passa por curso",
+      "imagem": "https://s2-g1.glbimg.com/l4oUs7ceVVPy8rpptW_qg3fbFSY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/D/egSS5CRvS26ell50AAUg/424x237-foto-chamada-g1-22-.png"
+    },
+    {
+      "titulo": "Unidade Coronariana de Macaé é a única especializada do interior do RJ",
+      "imagem": "https://s2-g1.glbimg.com/Wkjj-OqXYKerdewmkerVfNuDU_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/4/1cBpVbSSSENDJRnr8OWg/foto-3-uco.jpg"
+    },
+    {
+      "titulo": "Fenattech Engenharia completa nove anos e se destaca em energia solar na região",
+      "imagem": "https://s2-g1.glbimg.com/tKAv_iICb0lWC849cFC5-icyOQk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/L/WEYh1dTgyftgEgQtu7kg/imagem-1.jpg"
+    },
+    {
+      "titulo": "Rio tem previsão de chegada de frente fria com ventos de até 90 km/h, diz Climatempo",
+      "imagem": "https://s2-g1.glbimg.com/RiYA98a9lNfWzfGsb7KlhC7Mj5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/L/7zRqgZT2q22KOu9uKoAQ/g1-ventos-rj2.jpg"
+    },
+    {
+      "titulo": "Shows, festival e peças teatrais: veja o que fazer no fim de semana na região de Ribeirão Preto e Franca",
+      "imagem": "https://s2-g1.glbimg.com/L1QnNMc7c-cxSGhsUPMltWBIx1w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/U/z/4RU2GUTxGL7u8zAlwxhg/espetaculo-intimidade-indecente-foto-06-flavia-espirito-santo.jpg"
+    },
+    {
+      "titulo": "Dia D de vacinação acontece neste sábado (22) em todo o país; saiba mais",
+      "imagem": "https://s2-g1.glbimg.com/xNfErPl1utXd_ogaQUmA9Wx1zE0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/x/F/WNAz0nThuLDVK6MvpSuQ/vacinacao-vacina-infantil-crianca-covid-19-uberaba-16-10-2021.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: número de candidaturas a deputado federal cai 28% em relação a 2022",
+      "imagem": "https://s2-g1.glbimg.com/Dvn_dVDWnVNGTyL0sI4d9cRCZUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/mOgzvYQE6ONe4ajXDEZg/img20260326111324126.jpg"
+    },
+    {
+      "titulo": "Luz do sol pode ter atrapalhado visão de campeão de jiu-jitsu morto em grave acidente no interior de SP: veja o que se sabe",
+      "imagem": "https://s2-g1.glbimg.com/2n-SeSAPdxjDQb7iAZnQFUh_21o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/k/hq1GvqSKazGmdC3LBUSw/lutador-de-jiu-jitsu-diego-henrique-feltran-2-1-.jpg"
+    },
+    {
+      "titulo": "Frente fria muda o tempo em SP nesta sexta e derruba temperaturas no fim de semana",
+      "imagem": "https://s2-g1.glbimg.com/ScrkHcptkDYENDv0RqiChG8vXTs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/x/3/OzzxA9RU2wFIgefpn1ZQ/ato20230718001.jpg"
+    },
+    {
+      "titulo": "'Ter sobrevivido a um acidente desta magnitude não tem explicação', diz jovem que estava em ônibus em que mais de 20 pessoas morreram no PR",
+      "imagem": "https://s2-g1.glbimg.com/WVF_e_t7MGcq63_6bFhlgEKurNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/k/qGTZVqRSewxiAcs3UcAQ/snapshot-1248.png"
+    },
+    {
+      "titulo": "Etiqueta de dinheiro, bilhete e foto de carro: autor de homicídio no Maranhão entregou à PF supostas provas contra políticos",
+      "imagem": "https://s2-g1.glbimg.com/n75XNGL7FWjf4m5Mou2UvTm4q6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/e/Psteb4RBChI8dKr83Qsw/whatsapp-image-2026-08-18-at-16.35.45.jpeg"
+    },
+    {
+      "titulo": "Professora denuncia assédio após ser mordida e agarrada por instrutor de academia; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/i7NoESuv15n75YUmCe_Ml8VXbmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/W/mBGuwhQvSzXPzTAxytkw/professora.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: Veja a agenda dos candidatos ao Governo do RJ na sexta-feira",
+      "imagem": "https://s2-g1.glbimg.com/UKBAYz6wLFpXuzdVjhrLapUspew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/FzkaJDRGaZnMi4MVkeew/edicao-imagens-g1-33-.png"
+    },
+    {
+      "titulo": "VÍDEO: Pescadores são resgatados após passar 5 dias à deriva no Pacífico dentro de caixa térmica",
+      "imagem": "https://s2-g1.glbimg.com/ArdDaTMzvdh_eAeui8zobJwYVJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/D/bQkn7WQvGGUdBqrkUD4Q/hqivteiwyae3oam.jpg"
+    },
+    {
+      "titulo": "Frente fria traz ventania ao Sudeste; ciclone ainda influencia o Sul e frio aumenta no fim de semana",
+      "imagem": "https://s2-g1.glbimg.com/GL2-U4LKlUQ88KWBtQi4JeJCqpo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/v/PPpLb5Q0mGKrNH9dWuNQ/imagem-cortada.jpg"
+    },
+    {
+      "titulo": "'Chamava ele de pai', diz delegada sobre vínculo entre criança de 4 anos morta e tio que confessou agressões",
+      "imagem": "https://s2-g1.glbimg.com/JIhPnzJOdBnyzY2loY8KPhGV9bo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/U/JBPrZMT2Sg67HVBxyyzQ/documento.png"
+    },
+    {
+      "titulo": "Pai que achou bilhetes de filha morta há 3 anos é pastor e lançou livro de poesias escritas pela menina: 'Não se resume à tragédia'",
+      "imagem": "https://s2-g1.glbimg.com/bO8J28MxlWXpe5lEVXnHLf5Arrk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/U/2iT6LBRVAne3DJQe1DPQ/americana.jpg"
+    },
+    {
+      "titulo": "Festa do Peão de Barretos: touros levam a melhor sobre os peões na abertura da montaria; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/UgtLnIBEvoia92u--nFvaPOZEkA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Z/a92buGSXGhHb65XuiwmQ/dsc-8933.jpg"
+    },
+    {
+      "titulo": "VÍDEO: avião que decolou com destino a Natal retorna a Campinas após bater contra pássaro na viagem",
+      "imagem": "https://s2-g1.glbimg.com/2RGY-vbVqDKSj0U0xFERiX-kk4U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/S/k5ATrTRcCxcAVc1UxFCA/americana-1-.jpg"
+    },
+    {
       "titulo": "Candidatos ao Senado pelo RS debatem violência contra a mulher, programas sociais e corrupção",
       "imagem": "https://s2-g1.glbimg.com/s4DsqRCkQllD-sqMAE8DICC4o1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/3/FtivYFQ1OHJCojuos2PA/g1-68-.jpg"
     },
@@ -23,103 +119,7 @@
     {
       "titulo": "Mensagens revelam que Lulinha e Roberta Luchsinger mantinham núcleo de atuação e projetavam ganhos milionários com o poder público",
       "imagem": "https://s2-g1.glbimg.com/cpdr2VqkmJA4bkFeK1R6Rpptk-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/d/yU7IJqQi2wCBJ84kWFsw/saveclip.app-503977467-18509369869040584-400028737213943833-n.jpg"
-    },
-    {
-      "titulo": "Novos dirigentes do TRF6 tomam posse em Belo Horizonte",
-      "imagem": "https://s2-g1.glbimg.com/jK6j8nI-AnVNQEbE6P69IFuWAew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/f/LpuZEtQIe44QASxA8QGA/0-33-card-08-posse-trf6-0029.mxf.png"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato Saulo Arcangeli ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/Z-c24SPnsV6ex9yK0YNkMNBjUso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/r/e4uny1Q66cL2PewPCG6A/saulo-aarcangeli-quinta.jpg"
-    },
-    {
-      "titulo": "No Recife, 'JN nas Ruas' ouve eleitores sobre educação financeira, empreendedorismo e dinheiro público",
-      "imagem": "https://s2-g1.glbimg.com/o1qqPatMe98cxuQsyurkn3kZuUk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/5/BuKQ1IRrGq75Ek7bvoBQ/globo-canal-4-20260820-2000-frame-133050.jpeg"
-    },
-    {
-      "titulo": "Ronaldo Caiado, candidato à Presidência pelo PSD, visita o Brás, no Centro de São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/cZGS1ATi5cSVY4HicZM4wRydNIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/l/sVilUFQ1Kz93BmRbsqzA/globo-canal-4-20260820-2000-frame-127598.jpeg"
-    },
-    {
-      "titulo": "Samuel Hanan lança livro sobre desafios do Brasil durante palestra em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/CME06aCbnY9b-6v_RXr3NkZbFvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/P/qreqpnQ8KDr8WXLQEtkw/whatsapp-image-2026-08-20-at-20.34.09.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quinta-feira, 20 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/Z2sTC1PHWpoUUUUyJniIkKm5DKg=/s01.video.glbimg.com/deo/vi/95/80/14888095"
-    },
-    {
-      "titulo": "Lançamentos de comitês, panfletagem e entrevistas: veja como foi o quinto dia de campanha dos candidatos ao governo do Ceará",
-      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
-    },
-    {
-      "titulo": "Eleições no DF: pane no Metrô e impugnação de Arruda dominam falas de candidatos nesta quinta",
-      "imagem": "https://s2-g1.glbimg.com/vB8lzfIsbsdQ0et70oVWuTILqkI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/J/HuyNj2QZKTEYtO0sYbSA/a0520-bddf-bdbr-limpo-17042026-frame-75388.jpeg"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato Felipe Camarão ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/2oDCoE1HK76Gq_4x6nNr1wynMwA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/c/BKMtzrTfGFnJTx2lX61g/felipe-camarao.jpg"
-    },
-    {
-      "titulo": "Renan Santos, candidato à Presidência pelo Missão, tem agenda em Maceió",
-      "imagem": "https://s2-g1.glbimg.com/Nb6YMgHGWCPt0DgsJ2N7Vjsp6_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/C/sDFcw2R0u0pt4vKn7Rrw/globo-canal-4-20260820-2000-frame-125240.jpeg"
-    },
-    {
-      "titulo": "Presidente Lula, candidato à reeleição pelo PT, viaja para o Rio Grande do Norte",
-      "imagem": "https://s2-g1.glbimg.com/gCarcHY6GXj_OwzDZJVvMg-2MjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/b/MGxRzrQj2NeY6wABrIRw/globo-canal-4-20260820-2000-frame-122717.jpeg"
-    },
-    {
-      "titulo": "Resumão diário do JN: Homem acusado injustamente de roubar bicicleta é morto por espancamento no RJ; reservatórios de água dos EUA atingem nível mais baixo da história",
-      "imagem": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
-    },
-    {
-      "titulo": "Flávio Bolsonaro, candidato do PL à Presidência, escolhe São Paulo para fazer campanha",
-      "imagem": "https://s2-g1.glbimg.com/jz91Hkn45rV6po-omCg4z9hu_U4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/h/8c1rXWTAmrVpxr7M7VBQ/globo-canal-4-20260820-2000-frame-121640.jpeg"
-    },
-    {
-      "titulo": "Renan Santos, candidato do Missão, defende zonas econômicas especiais no Nordeste",
-      "imagem": "https://s2-g1.glbimg.com/n5oZ6X29hNIkv8fq1vYZ-9mUmZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/E/DPBIlwR9Ct2dC0q57jvg/whatsapp-image-2026-08-20-at-21.39.10.jpeg"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato Eduardo Braide ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/qW590WfJURxDaAO881JP5FWq6Bs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/v/x9LR46QYSSA6eRQv0Npw/eduardo-braide-quinta-feira.jpg"
-    },
-    {
-      "titulo": "MPT lança política nacional de proteção às mulheres que leva nome de jornalista vítima de feminicídio em MS",
-      "imagem": "https://s2-g1.glbimg.com/YgdOMs-lPgDYohgefUqLmBuqooQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/r/T87ABjStaP3lZAWFKikA/vanessa-ricarte.jpg"
-    },
-    {
-      "titulo": "Romeu Zema, candidato à Presidência pelo Novo, cumpre agenda em São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/7Tk1UhiytzGpQu4heVMAuO7BDYg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/o/oSTtLQSTSei9NTiVB3rg/globo-canal-4-20260820-2000-frame-119813.jpeg"
-    },
-    {
-      "titulo": "Frente fria dá trégua ao calor e deixa manhãs e noites mais frias em RO",
-      "imagem": "https://s2-g1.glbimg.com/W5ePrxFDC12mvApNrVr-5I63Kms=/s.glbimg.com/jo/g1/f/original/2013/07/25/img_6422.jpg"
-    },
-    {
-      "titulo": "Augusto Cury, candidato do Avante à Presidência, passa o dia em SP",
-      "imagem": "https://s2-g1.glbimg.com/N3CXPYn6hFOusdFkfjgzvaN-kPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/h/L6EgJ7Q5yxkH28pvngmw/globo-canal-4-20260820-2000-frame-117699.jpeg"
-    },
-    {
-      "titulo": "Perrengue chique: bota de Rafa Kalimann abre e fica com 'boca de jacaré' na Festa do Peão de Barretos",
-      "imagem": "https://s2-g1.glbimg.com/RiZG2EV03hJjeIXm1ESV3OSIRiE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/a/o3NlzMQcADuVx2OAtkvQ/whatsapp-image-2026-08-20-at-21.34.39.jpeg"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato Roberto Rocha ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/YJpKY3GzXYucBoOQ-NV6sH1J6Ek=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/r/Sm3EqoQvuxlKcpGtkVwQ/roberto-rocha-quinta.jpg"
-    },
-    {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1277 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/_ysQ0vYXZ1CjMsnZNRvFPIyqyoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/P/Mg0INVReyCrIAZFPQzCg/diadesorte-1277-qgizw.jpeg"
-    },
-    {
-      "titulo": "Timemania hoje: resultado do concurso 2431 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/7ET97nockCJatuYXppc_m2RqBjc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/X/7xQ06LRICxAtVXEjBlsw/timemania-2431-wwmkh.jpeg"
-    },
-    {
-      "titulo": "Lotofácil hoje: resultado do concurso 3767 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/E8a9jOtWvEmlJD8Bim1fSu4k-tg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/T/LPo3RmQvWbe4qWxrZtbw/lotofacil-3767-tyili.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-21T02:36:09.320Z"
+  "atualizadoEm": "2026-08-21T03:34:47.721Z"
 }
