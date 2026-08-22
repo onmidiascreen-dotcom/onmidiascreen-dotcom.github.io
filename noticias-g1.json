@@ -1,6 +1,74 @@
 {
   "noticias": [
     {
+      "titulo": "Corregedoria prende policial suspeito de sequestrar homem e colocá-lo em porta-malas de falsa viatura em SP",
+      "imagem": "https://s2-g1.glbimg.com/g6Alm1vK2wtjc6P9JDZs6JWi6Z4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/v/Qo1vJdSQebjA7Hcwg1Ew/fotojet-2026-08-14t082624.287.jpg"
+    },
+    {
+      "titulo": "Moradores de condomínio em Bauru recebem cobranças de contas de água até R$ 3 milhões após erro em sistema",
+      "imagem": "https://s2-g1.glbimg.com/UFYVMbt8EXugXJTn4ZA_8x0vqmc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/G/jSt0UpQimOjBjjOXStPg/bau-img-conta-2milhoes-210826.transfer-frame-697.jpeg"
+    },
+    {
+      "titulo": "Eleições 2026 no PR: Sergio Moro faz adesivaço e comparece a eventos",
+      "imagem": "https://s2-g1.glbimg.com/j7oghUeafpDLLFlLrFcHBYaOnO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/M/J7dYzmQASvJuR2hqOpSw/sergio-moro-waldemir-barretoagencia-senado-2.jpg"
+    },
+    {
+      "titulo": "Eleições 2026 no PR: Sandro Alex visita sindicato rural e eventos",
+      "imagem": "https://s2-g1.glbimg.com/RayO_Fce5vBV-FFQ24OKPzosIdU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/A/logHWQQhifGrmcWWzKJQ/sandro-alex-camara-dos-deputados.jpg"
+    },
+    {
+      "titulo": "Homem é suspeito de atear fogo em casa com filhas da ex-companheira dentro em Cuiabá",
+      "imagem": "https://s2-g1.glbimg.com/Qqdd-Y3KZskNzLXNstSonZHtKUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/sBNteyQbKLMJFe4SzUpA/sirene-policia-1-.jpeg"
+    },
+    {
+      "titulo": "Contribuintes de Manaus têm até outubro para quitar dívidas com descontos de até 100%; saiba como",
+      "imagem": "https://s2-g1.glbimg.com/jGvgbcmnrNvOxTFZ46btOAcpSFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/O/lF2SZfQjOynHPTBgvRhA/divida-zero.jpg"
+    },
+    {
+      "titulo": "Gatos são encontrados mortos e com sinais de maus-tratos no Mercadão 2000, em Santarém",
+      "imagem": "https://s2-g1.glbimg.com/JyDyirGG51VUPRKsQq6Kpwgqhnc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/4/6JODtdQ3KyUCjpRccmqg/whatsapp-image-2026-08-22-at-10.30.25.jpeg"
+    },
+    {
+      "titulo": "Assassinato do fundador de igreja de Lúcifer no Ceará: o que se sabe sobre o caso",
+      "imagem": "https://s2-g1.glbimg.com/qvPLTqE63Lg9GFCvDmbJTnrK--s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/i/hXuT4nRPCuw0oZ9M9uvg/bruxo-fortaleza.jpg"
+    },
+    {
+      "titulo": "Avião que caiu em avenida de Ubatuba em 2023 teve problemas técnicos e falhas na operação, aponta Cenipa",
+      "imagem": "https://s2-g1.glbimg.com/j67RcvBfgRCDMhwYKUqRotPcNZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/u/t/oa5eCJR1uIaBkSAR8I0g/whatsapp-image-2023-01-28-at-14.10.36.jpeg"
+    },
+    {
+      "titulo": "Flanelinha que cobrava R$ 30 por estacionamento em evento é abordado em ação da Polícia Civil em Teresina",
+      "imagem": "https://s2-g1.glbimg.com/ZsgDqOg9hCkANtc18_8PbSAY864=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/C/4SETaPR3ejxwFDosOfCQ/edicao-imagens-g1-7-.png"
+    },
+    {
+      "titulo": "Nuvem em formato de disco voador chama atenção de moradores do Litoral do RS; veja imagens",
+      "imagem": "https://s2-g1.glbimg.com/4WAtdfPyic32DIkOpREFxxIOLmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/M/fv7918QZayoCf0h0hRLA/documento.png"
+    },
+    {
+      "titulo": "Brasileira é encontrada morta em apartamento na Irlanda",
+      "imagem": "https://s2-g1.glbimg.com/aegixx0qO_zavRzMbnT3-LAyRMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/u/DP3zCER2CDKNQOX5tEsg/jady.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Bom Dia Sábado de 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/c8Xr5_ifYvgu0aY1oh4Hd241c24=/s01.video.glbimg.com/deo/vi/56/19/14891956"
+    },
+    {
+      "titulo": "Motorista de transporte escolar perde controle e bate contra muro do Centro Cultural do Cariri",
+      "imagem": "https://s2-g1.glbimg.com/ocW7ZkgMD6hYFnFjzov8hUenp6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/M/36lf0PTdm98TB43iFB4A/befunky-collage-5-.jpg"
+    },
+    {
+      "titulo": "Muro de duas casas desaba após obra no bairro Taquaral, em Campinas",
+      "imagem": "https://s2-g1.glbimg.com/YaGv3gsA7qKeAy2xhQlKot_DaEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/F/oows7NSQmuB8BtnBFgDg/1200px-x-800px-19-.jpg"
+    },
+    {
+      "titulo": "Justiça impõe restrições a deputado estadual após confusão na Ufba",
+      "imagem": "https://s2-g1.glbimg.com/JVClWoqUZ4oTEcEoXl3go67mJGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/7/gBA1R3Rs6F1rpVK90MaA/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-08-20t180644.366.jpg"
+    },
+    {
+      "titulo": "TRF1 determina que processo sobre Aterro de Marituba deve ser julgado pela Justiça Federal",
+      "imagem": "https://s2-g1.glbimg.com/gITtbG9nlZFGaByBlf3izC4Gupk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/1/C/jQQnocT1WxvptDoEqQNQ/uma-pequena-porcao-de-mata-separa-as-casas-do-aterro.jpg"
+    },
+    {
       "titulo": "Tarcísio diz que estará com Flávio Bolsonaro e lamenta possíveis ausências em debates presidenciais: 'Gostaria de vê-los'",
       "imagem": "https://s2-g1.glbimg.com/bqFcOZiyhBU6uh2rhKkmTh5qiqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Q/jnNZZQSPGYPj7jSXuQqA/captura-de-tela-2026-08-22-101851.png"
     },
@@ -14,7 +82,7 @@
     },
     {
       "titulo": "Juíza anula suspensão de vistos imposta por governo Trump a 75 países",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/GBosyTF1nPPG52CiIrvmNEKcLTI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/ed2QyIRzCAzbFMe7LYKg/captura-de-tela-2026-01-14-162922.png"
     },
     {
       "titulo": "'Ele era um menino gentil, amoroso e brincalhão', diz prima de adolescente morto em acidente de trânsito na Zona Oeste de Manaus",
@@ -51,75 +119,7 @@
     {
       "titulo": "'GTA 6': Justiça autoriza empresa a intimar Microsoft e Discord sobre vazamentos",
       "imagem": "https://s2-g1.glbimg.com/I4W-_YElSvBSpM5LvPoGCtjlVW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/E/3kUgGWQ4ClO89jfRVBOg/captura-de-tela-2025-05-02-093420.png"
-    },
-    {
-      "titulo": "Michael Wright, ator de 'Oz' e 'O Exército Inútil', morre aos 70 anos",
-      "imagem": "https://s2-g1.glbimg.com/r9DYjocDA2i17FIJUiQCN_hrh7M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/1SqCumRdWBkqep0IATRA/michaelwright.jpg"
-    },
-    {
-      "titulo": "Condenado por matar mãe e filha grávidas não volta de ‘saidinha’ de Dia dos Pais no RJ; quase 200 são procurados",
-      "imagem": "https://s2-g1.glbimg.com/p66FrKCWiDtB2UiT1LvdeQVN4LA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/V/rnscvUTKWRoPGImFYvBA/imagem-cortada-24-.jpg"
-    },
-    {
-      "titulo": "Prefeitura prorroga estado de calamidade pública após tragédia que deixou 66 mortos em Juiz de Fora",
-      "imagem": "https://s2-g1.glbimg.com/Qs21qbJ_mfm3BY5xt6K2Im-P8GY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/D/ObGRS9SeAQB3b7D74htA/whatsapp-image-2026-08-17-at-14.37.52-1-.jpeg"
-    },
-    {
-      "titulo": "Ex-policial militar atropela motos e carro parados em semáforo e deixa feridos na Bahia",
-      "imagem": "https://s2-g1.glbimg.com/Dlo2H3469etv5fCFXIFNY9nQjh8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/RZdE2fRECBgo51N6EUzA/foto-no-tamanho-home-2026-08-22t093258.794.png"
-    },
-    {
-      "titulo": "Três guardas municipais são presos por suspeita de tortura contra mulher em Caraguatatuba",
-      "imagem": "https://s2-g1.glbimg.com/ZmBNqd9n2gCKheQopNMVFIAt0Co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/b/AhDTabSiANFqZEkMtvug/texto-do-seu-paragrafo-2026-08-22t094122.027.png"
-    },
-    {
-      "titulo": "Quatro pessoas ficam feridas durante ataque a tiros em Paraíba do Sul",
-      "imagem": "https://s2-g1.glbimg.com/yCHvemJcFo2qguym34XR5SYlQIE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/O/0ocXpATnufnkxGFc5Ghw/image-1-.png"
-    },
-    {
-      "titulo": "Homem morre após troca de tiros com policiais durante fuga na Região Metropolitana de Salvador",
-      "imagem": "https://s2-g1.glbimg.com/_9IGMgH-ZhNMhFKr6dEaC1MFcAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/B/hL3cEJTyGU56lQJDl9fw/whatsapp-image-2026-08-22-at-09.30.33.jpeg"
-    },
-    {
-      "titulo": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa",
-      "imagem": "https://s2-g1.glbimg.com/4RiFIVBr00FNwmSjmcmNrnb51Hc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/s/Iarf00RAezB14II6bTmA/getty-1.jpg"
-    },
-    {
-      "titulo": "Caso Marcolino Júnior: acusado de encomendar morte de colunista é condenado a 22 anos de prisão",
-      "imagem": "https://s2-g1.glbimg.com/JtJHBMSw3AIiMnx2V-yhrDviqaw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/a/eCs1LpSX29wE3W18NhIg/design-sem-nome-2026-08-22t091759.636.png"
-    },
-    {
-      "titulo": "Cardiologista é indiciado por feminicídio da esposa após perícia descartar suicídio em MS",
-      "imagem": "https://s2-g1.glbimg.com/SfIarbEHWuWGduxT2wMTyqttIX4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/t/4xHUxiSGWmEBqS9L0PqA/para-o-g1-20-.jpg"
-    },
-    {
-      "titulo": "Homem é preso suspeito de manter idosa cadeirante em cárcere privado em Aracaju",
-      "imagem": "https://s2-g1.glbimg.com/qEmTd2Utlws1ItQlZrLZWAvvCvA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/H/M/qfBdTcQGanMwI6TWvlXA/sirene-pmse.jpg"
-    },
-    {
-      "titulo": "Adolescente é apreendido e homem é preso com drogas em Volta Redonda",
-      "imagem": "https://s2-g1.glbimg.com/ziQ3l1eNe4BkHoJAPA4AjV1x5CY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/2/o6VMrCQeuVvi9gxJA8BA/image-14-.jpg"
-    },
-    {
-      "titulo": "Ar frio de origem polar deve derrubar temperaturas e pode trazer chuva para Goiás nos próximos dias, diz Cimehgo",
-      "imagem": "https://s2-g1.glbimg.com/8gNUSfy2_o0XGcXjQQLo-TdIYXk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/q/9DkuAJRgaIJLagN023dg/padrao-g1-cbn-foto-5-.jpg"
-    },
-    {
-      "titulo": "Intenção de consumo no Amazonas sobe pelo 2º mês seguido e chega a 128,9 pontos",
-      "imagem": "https://s2-g1.glbimg.com/1fdAI-rOBk39y6lna2WhmCeDHMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/3/6Ay7dHT2aquy4Qsj1CjQ/g1-movimento-comercio-centro-manaus.jpg"
-    },
-    {
-      "titulo": "PM prende quatro suspeitos de furtar 251 peças de roupas de shopping em Natal",
-      "imagem": "https://s2-g1.glbimg.com/c3v0SDJPvEuDYzzkrkEbsFO11mo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/l/61xmpDRw2wedCAMK1aQQ/4c16b833-e024-43fd-bf6a-5bffe3e67187.jpeg"
-    },
-    {
-      "titulo": "Homem com mandado de prisão por roubo é preso em Volta Redonda",
-      "imagem": "https://s2-g1.glbimg.com/CI1iRtUOIP-0Nhx99XaTzF7k7f0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/O/MEwnAVSqaS3VMV1bO3bQ/image-12-.jpg"
-    },
-    {
-      "titulo": "Incêndio atinge área de vegetação de 2 mil m² em Taubaté, SP",
-      "imagem": "https://s2-g1.glbimg.com/MpsPRuif8ExjnZ5EaKhI3ofW1P0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/S/iZhY3iRv6wkRnUhZ8eYQ/texto-do-seu-paragrafo-2026-08-22t091921.022.png"
     }
   ],
-  "atualizadoEm": "2026-08-22T13:28:04.272Z"
+  "atualizadoEm": "2026-08-22T13:53:23.656Z"
 }

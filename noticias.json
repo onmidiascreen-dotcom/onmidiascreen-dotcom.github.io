@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Hull City surpreende e vence Manchester United na estreia da Premier League",
+      "imagem": null
+    },
+    {
+      "titulo": "Rússia acusa Ucrânia de matar pelo menos oito civis em ataques com drones",
+      "imagem": null
+    },
+    {
+      "titulo": "Campanha de Lula busca evangélicos e mira pauta da segurança no RJ",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula: &#8220;Você pode ganhar uma eleição mentindo, mas não se governa mentindo&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Esposa de Lito Sousa agradece apoio após marido receber diagnóstico raro",
+      "imagem": null
+    },
+    {
       "titulo": "Análise: Caos de Trump pode estar destruindo sua própria política externa",
       "imagem": null
     },
@@ -99,27 +119,7 @@
     {
       "titulo": "Como a relação entre Coreia do Sul e EUA mudou no governo Trump",
       "imagem": null
-    },
-    {
-      "titulo": "IA: Brasil não está no grande tema de investimentos, diz especialista",
-      "imagem": null
-    },
-    {
-      "titulo": "Massa de ar frio muda o tempo no Sudeste no final de semana; veja previsão",
-      "imagem": null
-    },
-    {
-      "titulo": "Produtores de gado dos EUA criticam flexibilização na importação de carne",
-      "imagem": null
-    },
-    {
-      "titulo": "Frio, calor e baixa umidade: como fica o tempo no Brasil no fim de semana",
-      "imagem": null
-    },
-    {
-      "titulo": "Salton: Espumante é vocação e sustenta resultados positivos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T13:28:03.180Z"
+  "atualizadoEm": "2026-08-22T13:53:20.832Z"
 }
