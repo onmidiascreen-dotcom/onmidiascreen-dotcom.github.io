@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Borges: Tarcísio mira em 2030 ao dizer que quer ver Lula e Flávio em debate",
+      "imagem": null
+    },
+    {
+      "titulo": "Queda de jet ski deixa homem de 47 anos desaparecido em lago de Cascavel",
+      "imagem": null
+    },
+    {
+      "titulo": "Presidente da CNI elogia conversa entre Lula e Trump e pede solução técnica para tarifaço",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasileira é encontrada morta com sinais de violência na Irlanda; polícia suspeita de homicídio",
+      "imagem": null
+    },
+    {
       "titulo": "Nicarágua aprova proposta constitucional que visa barrar resoluções internacionais",
       "imagem": null
     },
@@ -25,7 +41,11 @@
       "imagem": null
     },
     {
-      "titulo": "PRF apreende mais de três toneladas de maconha na PR-317 em Maringá",
+      "titulo": "PRF apreende mais de 4,3 toneladas de maconha na PR-317 em Maringá",
+      "imagem": null
+    },
+    {
+      "titulo": "Pegula vence Swiatek e vai à final do WTA 1000 de Cincinnati",
       "imagem": null
     },
     {
@@ -39,27 +59,7 @@
     {
       "titulo": "Os filhos picaretas dos presidentes",
       "imagem": null
-    },
-    {
-      "titulo": "Luciano Hang doa prótese de R$ 80 mil a pedreiro que trabalhava sem uma perna em SC",
-      "imagem": null
-    },
-    {
-      "titulo": "Corregedoria prende policial civil sob suspeita de ligação com sequestro em São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Mulher achada acorrentada em GO diz que ex pôs panos com ácido na boca dela",
-      "imagem": null
-    },
-    {
-      "titulo": "Saliva pode dar pistas sobre câncer de intestino",
-      "imagem": null
-    },
-    {
-      "titulo": "Chile vai fechar embaixada no Irã por motivos econômicos e de segurança",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T23:16:58.532Z"
+  "atualizadoEm": "2026-08-22T23:43:49.899Z"
 }

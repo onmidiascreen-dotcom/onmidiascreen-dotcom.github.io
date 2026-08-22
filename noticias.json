@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Filho de Adriane Galisteu vai estudar em internato na Suíça; veja o valor",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é preso após tentar vender filho de 3 anos para comprar drogas em BH",
+      "imagem": null
+    },
+    {
       "titulo": "&#8220;Faz-tudo&#8221; do PCC ligado à máfia italiana passará por interrogatório no PR",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Senado terá 13 integrantes que não disputarão eleições",
       "imagem": null
-    },
-    {
-      "titulo": "Em ato no Rio, Paes diz que crime organizado &#8220;sentou no Palácio Guanabara&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula e Flávio travam batalha de discurso contra o crime em atos no Rio",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T23:16:59.082Z"
+  "atualizadoEm": "2026-08-22T23:43:49.612Z"
 }
