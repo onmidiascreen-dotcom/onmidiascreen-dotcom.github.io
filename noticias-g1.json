@@ -1,6 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "Cadeira quebra e locutor supera queda ao manter programa ao vivo em rádio no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/oQosaUgnxaV4EHQtKhwQ7s2jwWI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/8/DMoAAmRlWZFIJuF7B3zw/captura2333.jpg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "Lito Sousa entra em lista de espera de Harvard para possível tratamento, diz esposa",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é baleado após reagir a tentativa de assalto em joalheria, em Belém",
+      "imagem": null
+    },
+    {
+      "titulo": "Caminhão de cerveja tomba em ponte e interdita parcialmente a MGC-452, entre Santa Juliana e Uberlândia; Vídeo",
+      "imagem": "https://s2-g1.glbimg.com/qYgDDLN57gi90pnIk8mgaR0EulE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/L/1n1CkkQd2MElZWmfE5zQ/design-sem-nome-53-.png"
+    },
+    {
+      "titulo": "VÍDEO: morador flagra raposa caminhando em calçada na Zona Norte de Sorocaba",
+      "imagem": "https://s2-g1.glbimg.com/K0bcuAXijS1Uf-DgAoDTNM7StPc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/I/cE7ZmxTue5TK8sP0YLUA/raposa.jpg"
+    },
+    {
+      "titulo": "Homem oferece 'dinheirinho' à PM após apreensão de arma e munições e é preso em Governador Valadares",
+      "imagem": "https://s2-g1.glbimg.com/whB5DIQ9-ogpkNwp5jINfRvWjrQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/s/F9Mdd5SBO33VMKdj4BAg/whatsapp-image-2026-08-22-at-11.19.16.jpeg"
+    },
+    {
       "titulo": "Motoristas pedem demissão após troca de empresa e passageiros relatam demora em ônibus de Aracaju",
       "imagem": "https://s2-g1.glbimg.com/0VySUE3KXysBJSegaKrwGO8D9wc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/0/zlKOxhRM6AEYB9EU3drA/terminal.jpg"
     },
@@ -53,7 +81,7 @@
       "imagem": "https://s2-g1.glbimg.com/vQNCmDacxKPgoHzOmreHDhEKDSw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/8/qw24wzTamTkdfMlMF9cA/manaus-previdencia.jpg"
     },
     {
-      "titulo": "Jovem amordaçada e acorrentada pelo ex diz que ele colocou máscara de oxigênio e enfiou panos com ácido na boca dela: ‘Estou queimada por dentro’",
+      "titulo": "Jovem diz que ex colocou máscara de oxigênio e enfiou panos com ácido na boca dela enquanto estava acorrentada: ‘Queimada por dentro’",
       "imagem": "https://s2-g1.glbimg.com/Dvu6uLyVo5s1HNKXciZmHwv0dfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/zDHczzQo67DYBTBUYmSA/padrao-foto-g1-goias-36-.jpg"
     },
     {
@@ -91,35 +119,7 @@
     {
       "titulo": "Palha, galhos e bambu ganham nova vida nas mãos de artesãos e se transformam em arte e renda no PI",
       "imagem": "https://s2-g1.glbimg.com/ZOXRVCxyfCX-n28IksjuBygc9JA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/5/Ohbc9kQVGmqLt37OLRjQ/edicao-imagens-g1-9-.png"
-    },
-    {
-      "titulo": "Acidente entre dois carros deixa quatro feridos na BR-174, no Amazonas",
-      "imagem": "https://s2-g1.glbimg.com/stMyGwiow8oGcMEdPmMEamZ5XkY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/k/OrjQ8ETnqooz8dr9VAaQ/acidente-estrada.jpg"
-    },
-    {
-      "titulo": "Família doa órgãos de adolescente de 16 anos que foi morto por engano em Caçapava e ajuda a salvar cinco vidas",
-      "imagem": "https://s2-g1.glbimg.com/EiSm1pem7Vipw0gN15aoIZ69ltg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Y/y00UkdRNymEny9TyGAYA/texto-do-seu-paragrafo-2026-08-22t160500.322.png"
-    },
-    {
-      "titulo": "VÍDEO: Motociclista morre após bater em carro e ser atropelado em MG",
-      "imagem": "https://s2-g1.glbimg.com/mucNqGnT3sXMWI7DzFRHR2qRq4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/b/NFCil6TSy01UzwEIBtDg/design-sem-nome.jpg"
-    },
-    {
-      "titulo": "Caiado afirma ser a favor do fim da escala 6x1 após chamar PEC de 'eleitoreira'",
-      "imagem": "https://s2-g1.glbimg.com/kWiwO9smZ79gCyzZ22ji7f0r0Yk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/Y3QHjMSoSu1sXS2OgRNw/captura-de-tela-2026-08-22-155601.png"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Acre 1ª Edição deste sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/GGCUbRQ1JtwUNMo3K2FTh-p3iME=/s01.video.glbimg.com/deo/vi/52/29/14892952"
-    },
-    {
-      "titulo": "TRE define tempo e ordem de propaganda eleitoral na TV e rádio para candidatos ao governo nas eleições em Roraima",
-      "imagem": "https://s2-g1.glbimg.com/jdx-4IYZxY2xQsF2X9s8ldk66Ls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/o/fFq88yS6Apf1j866cgPA/candidatosaogov-.jpg"
-    },
-    {
-      "titulo": "Incêndio atinge cinco veículos em garagem automotiva de Montes Claros",
-      "imagem": "https://s2-g1.glbimg.com/vIphykRQZ5SX45iLIBSB7exl7AU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/G/7TAuoWT5Onklrg61GWcg/whatsapp-image-2026-08-22-at-05.29.31-1-.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-22T19:59:17.095Z"
+  "atualizadoEm": "2026-08-22T20:30:38.643Z"
 }
