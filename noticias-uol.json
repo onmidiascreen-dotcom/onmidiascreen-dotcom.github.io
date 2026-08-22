@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
+      "titulo": "Datafolha aponta Fonteles, do PT, com 56% das intenções de voto no Piauí e vitória no 1º turno",
+      "imagem": null
+    },
+    {
+      "titulo": "Atual vice-campeão, Lens goleia Auxerre (5-2) em sua estreia na Ligue 1",
+      "imagem": null
+    },
+    {
       "titulo": "PT publica foto de comício de Lula em BH e provoca Flávio: 'Chora não'",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula: escolha em 2026 é sobre quem quer vender as praias e quem quer o povo nelas",
       "imagem": null
     },
     {
@@ -47,19 +59,7 @@
     {
       "titulo": "Em jingle, Zema fala em 'acabar com PT', mostra ministros do STF na cadeia e Virgínia surpresa",
       "imagem": null
-    },
-    {
-      "titulo": "Mark Carney diz que Canadá está agora em 'guerra' comercial com os EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Corpo de renomado cardiologista de Cascavel é sepultado em Apucarana",
-      "imagem": null
-    },
-    {
-      "titulo": "Carney decide enfrentar Trump, apesar dos perigos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T19:45:04.889Z"
+  "atualizadoEm": "2026-08-22T19:59:14.747Z"
 }
