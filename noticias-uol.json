@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Barco de migrantes afunda na Tunísia e deixa 13 desaparecidos",
+      "imagem": null
+    },
+    {
       "titulo": "Datafolha: Lula lidera entre mulheres e mais pobres, e Flávio Bolsonaro, entre evangélicos",
       "imagem": null
     },
@@ -41,25 +45,21 @@
       "imagem": null
     },
     {
-      "titulo": "Na semana da descoberta de petróleo no Brasil, China anuncia plano para reduzir consumo",
-      "imagem": null
-    },
-    {
-      "titulo": "Terremoto impacta áreas turísticas da Colômbia, e setor pede que viagens sejam mantidas",
-      "imagem": null
-    },
-    {
-      "titulo": "Regime da Venezuela decide abandonar plano para libertar Nicolás Maduro",
-      "imagem": null
-    },
-    {
       "titulo": "Reclamações por barulho crescem mais em bairros com arenas e parques que recebem shows em SP",
       "imagem": null
     },
     {
       "titulo": "Teatro Oficina se junta a filho de Glauber Rocha para homenagem que une teatro e cinema",
       "imagem": null
+    },
+    {
+      "titulo": "Pioneira na literatura lésbica, Cassandra Rios terá sua obra reeditada no Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Performance 'Urutau' une dança, ritual xamânico e rock em abordagem onírica",
+      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T06:00:53.721Z"
+  "atualizadoEm": "2026-08-22T06:58:27.041Z"
 }
