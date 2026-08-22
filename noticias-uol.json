@@ -1,11 +1,23 @@
 {
   "noticias": [
     {
+      "titulo": "Massa de ar frio derruba as temperaturas nas regiões Sul e Sudeste",
+      "imagem": null
+    },
+    {
+      "titulo": "Assessor do presidente da Bolívia em prisão preventiva por suspeita de atentado contra ex-companheira",
+      "imagem": null
+    },
+    {
+      "titulo": "Russell (Mercedes) vence sprint do GP dos Países Baixos de F1; Bortoleto é 9º",
+      "imagem": null
+    },
+    {
       "titulo": "Calor de queimadas detona bombas esquecidas das guerras na Europa",
       "imagem": null
     },
     {
-      "titulo": "Nutricionista Matheus de Morais é velado e sepultado neste sábado (22) em Apucarana",
+      "titulo": "Nutricionista Matheus de Morais é velado neste sábado (22) em Apucarana",
       "imagem": null
     },
     {
@@ -47,19 +59,7 @@
     {
       "titulo": "Jovem é esfaqueada por ex-companheiro durante evento em Jandaia do Sul",
       "imagem": null
-    },
-    {
-      "titulo": "Mortes por desnutrição caem 75% em terra yanomami na comparação com 2023",
-      "imagem": null
-    },
-    {
-      "titulo": "George Russell (Mercedes) vence corrida sprint do GP dos Países Baixos de F1",
-      "imagem": null
-    },
-    {
-      "titulo": "Ministro alemão visita Ucrânia em meio a escalada de ataques russos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T11:24:59.095Z"
+  "atualizadoEm": "2026-08-22T11:44:02.725Z"
 }

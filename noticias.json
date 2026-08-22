@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "TikTok fecha acordo de US$ 400 milhões nos EUA por privacidade infantil",
+      "imagem": null
+    },
+    {
+      "titulo": "Embalado com Marcão, Fluminense enfrenta o Remo para se firmar no G4",
+      "imagem": null
+    },
+    {
+      "titulo": "Serie A 2026-27: destaques, favoritos e jogos da 1ª rodada",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: como Omã passou de mediador a alvo das ameaças de Trump",
+      "imagem": null
+    },
+    {
       "titulo": "Tribunal da Bolívia determina prisão preventiva de ex-estrategista de Milei",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "TSE avalia mecanismo para fiscalizar inserções eleitorais em rádio e TV",
       "imagem": null
-    },
-    {
-      "titulo": "Bolsa dá sinais de recuperação, mas analistas veem apenas &#8220;repique técnico&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Espanyol x Real Madrid: horário e onde assistir ao jogo de LaLiga",
-      "imagem": null
-    },
-    {
-      "titulo": "Cruzeiro x Flamengo: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Cuiabá x Goiás: horário e onde assistir ao jogo da Série B",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T11:24:59.555Z"
+  "atualizadoEm": "2026-08-22T11:44:03.384Z"
 }
