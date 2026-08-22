@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Telas não são as grandes vilãs: um novo olhar sobre a miopia",
+      "imagem": null
+    },
+    {
+      "titulo": "Como a relação entre Coreia do Sul e EUA mudou no governo Trump",
+      "imagem": null
+    },
+    {
+      "titulo": "IA: Brasil não está no grande tema de investimentos, diz especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "Massa de ar frio muda o tempo no Sudeste no final de semana; veja previsão",
+      "imagem": null
+    },
+    {
+      "titulo": "Produtores de gado dos EUA criticam flexibilização na importação de carne",
+      "imagem": null
+    },
+    {
       "titulo": "Frio, calor e baixa umidade: como fica o tempo no Brasil no fim de semana",
       "imagem": null
     },
@@ -99,27 +119,7 @@
     {
       "titulo": "Internacional x Atlético-MG: horário e onde assistir ao jogo do Brasileirão",
       "imagem": null
-    },
-    {
-      "titulo": "50 anos da morte de JK tem perseguição política da ditadura em destaque",
-      "imagem": null
-    },
-    {
-      "titulo": "Ceará x Londrina: horário e onde assistir ao jogo da Série B",
-      "imagem": null
-    },
-    {
-      "titulo": "Embaixador Gusttavo Lima retorna a Barretos após 3 anos; entenda ausência",
-      "imagem": null
-    },
-    {
-      "titulo": "Autismo pode ser um efeito colateral da evolução do cérebro humano; entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Um tipo de hipertensão relacionada à gravidez está se tornando mais comum",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T09:59:10.531Z"
+  "atualizadoEm": "2026-08-22T10:30:35.567Z"
 }
