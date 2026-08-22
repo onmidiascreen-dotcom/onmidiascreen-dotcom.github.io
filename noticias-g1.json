@@ -1,6 +1,62 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de sábado, 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/h8Z0nlZDtWlmxJEs2oPtmZ_6Dew=/s01.video.glbimg.com/deo/vi/87/24/14892487"
+    },
+    {
+      "titulo": "Polícia investiga como homicídio caso de brasileira encontrada morta no apartamento onde morava na Irlanda",
+      "imagem": "https://s2-g1.glbimg.com/32SQ4FjMsJlCAqsiTOEg-gIPssE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/y/yNY14KTtyCuCpoQ8xPLg/jady-1-.jpg"
+    },
+    {
+      "titulo": "Diretora de escola é investigada por obrigar aluno de 10 anos a beber a própria urina em MG",
+      "imagem": "https://s2-g1.glbimg.com/liOuZGuIgg7r8izknXQiqv0-DQk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/0/CtPp41RhOV1oZnH8AG1A/472744672-997748229067924-9217206200512146257-n.jpg"
+    },
+    {
+      "titulo": "Ex-prefeito condenado por incendiar fazenda de rival é solto após Justiça decidir não julgá-lo por homicídio",
+      "imagem": "https://s2-g1.glbimg.com/Wb41K0qVrtfsgP67fXOZPyOx89Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/v/Me1TijSUKpcsidvTFwkA/luan-dantas.jpg"
+    },
+    {
+      "titulo": "Após 10 meses, caminhada cobra Justiça por mulher esquartejada pelo vizinho no interior do AP",
+      "imagem": "https://s2-g1.glbimg.com/hr6HbDfQeiGPeWYSqjqoEpe805c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/4/8vX4r4QP2gCnExmXNJBw/aleixo-g1-67-.jpg"
+    },
+    {
+      "titulo": "Ambulância do Samu tomba após acidente com carro e paciente morre no Norte do RS",
+      "imagem": "https://s2-g1.glbimg.com/6o5sbApFiMZu1WF_wMLfQ4FVatM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/L/aEqTbTSLuiUAFSl3bw0g/modelo-duda-copia-4-.jpg"
+    },
+    {
+      "titulo": "Jovem morre após quatro meses internada por acidente que matou pai em rodovia de Franca, SP",
+      "imagem": "https://s2-g1.glbimg.com/B9b6uwSBabfQipDqvQVgDxxm-nY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/p/znZBaBSxyBakBCz3ebBw/whatsapp-image-2026-04-29-at-11.22.07.jpeg"
+    },
+    {
+      "titulo": "'Barato da Cozinha': aprenda a fazer maminha com crosta de alho crocante",
+      "imagem": "https://s2-g1.glbimg.com/v9RoaXsEObLrocS68uDu6GToZSE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/u/EFIdMwTaOVlHqYAvWHGA/copia-de-molduras-g1-.png"
+    },
+    {
+      "titulo": "Auxiliar de cozinha morre após reagir a assalto e ser esfaqueado por ladrão no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/r2dH1SFJjrHNEa35bFG8IgRvKDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/S/x/dPIwnfSZWNAIV8w56Sng/090823-62-.png"
+    },
+    {
+      "titulo": "AO VIVO: Assista ao JAC1 com Murilo Lima",
+      "imagem": "https://s2-g1.glbimg.com/DZdSpVgucpKlsDxpGsfadWlCcrM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/o/fe43lcSSimCBsd6owcDw/whatsapp-image-2026-01-22-at-11.09.18.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: carro 'desmonta' após bater contra pilar de lanchonete no Paraná",
+      "imagem": "https://s2-g1.glbimg.com/frsic2PDRCKG1GOuBuL5xR_-Gy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/c/DTclsCRQCBgA7YwWVeGQ/batida9.png"
+    },
+    {
+      "titulo": "Vídeos do g1 e TV Bahia - sábado, 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/f-srUyhzuk33SRLc1IXPar7vGoU=/s01.video.glbimg.com/deo/vi/12/21/14892112"
+    },
+    {
+      "titulo": "No RJ, Lula diz que, se reeleito, vai retirar facções e devolver território ao povo",
+      "imagem": null
+    },
+    {
+      "titulo": "Manaus recebe desfiles de mais de 20 marcas autorais durante a 4ª edição do Amazon Poranga Fashion",
+      "imagem": "https://s2-g1.glbimg.com/r7edOgRJdlczDaVvvb0gskLn-2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/C/FXg3rSQDmhqHxhAaNu7Q/amazonas-poranga.jpg"
+    },
+    {
       "titulo": "VÍDEOS: EPTV 1 Sul de Minas de sábado, 22 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/TtJx3bdI4Ja_GCF3OSIm-sfAqfs=/s01.video.glbimg.com/deo/vi/04/23/14892304"
     },
@@ -22,7 +78,7 @@
     },
     {
       "titulo": "Homem descumpre medida protetiva e ataca mulher enquanto ela dormia em Rorainópolis",
-      "imagem": "https://s2-g1.glbimg.com/qZfTmH2c7K0MqW1kkzDyiXNLf9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/D/1CP9IvSGmCFoPZAAvOIQ/policiacivilrorainopolis.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/3BuezrrRgDcC-COzSlCn9UbNHSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/q/0Ust4qS8AxrXfhhcBwkQ/ataque.png"
     },
     {
       "titulo": "VÍDEO: filhotes de coruja são encontrados vivos durante combate a incêndio no interior de SP",
@@ -63,63 +119,7 @@
     {
       "titulo": "Assista ao EPTV1",
       "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
-    },
-    {
-      "titulo": "Cinco membros do 'tribunal do crime' são condenados por torturar e matar catadora de recicláveis em BH",
-      "imagem": "https://s2-g1.glbimg.com/3SGKi1HengaFikv2uwJrgbValFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/j/U/DZtWtUTkAjjcVPSI6TXg/mg1-acervo-31-oct-2024-101-frame-44663.jpeg"
-    },
-    {
-      "titulo": "Wesley Safadão promete voltar à Festa do Peão de Barretos para resenha com amigos no camping",
-      "imagem": "https://s2-g1.glbimg.com/MNcbFSBZvxATHf8QUHDYyYeyQmU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/xI4ACRSnK6xTBtPJ6jbg/whatsapp-image-2026-08-22-at-02.34.18-1-.jpeg"
-    },
-    {
-      "titulo": "AO VIVO: assista à programação da NSC TV",
-      "imagem": null
-    },
-    {
-      "titulo": "VÍDEO: ônibus articulado quebra ao meio e passageiros abandonam veículo em Campinas",
-      "imagem": "https://s2-g1.glbimg.com/mzHDL5NNctB5LrYgujc7j01DTko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/b/tV6W2cSnSMDXEXim2Ogw/capas-ana-2-.png"
-    },
-    {
-      "titulo": "Delegada Vilma Alves morre aos 79 anos; relembre trajetória da primeira delegada negra do PI",
-      "imagem": "https://s2-g1.glbimg.com/RtKpMVhw4pOA4q5n_VV0MjNxA38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/k/DD81kARBWKUcSyrBp26Q/g1-bg-01-2-.png"
-    },
-    {
-      "titulo": "Morre veterinária atacada por pastor-belga do Senado em Brasília",
-      "imagem": "https://s2-g1.glbimg.com/GJseEJdm_yE44WwEDBF6mLFlCFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/e/ZdKeATSredu3zcAEa9Pg/vitoria-caes.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: GR1 de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/CwL4IFXQC2-XjLRnLjezN8T5GFQ=/s01.video.glbimg.com/deo/vi/60/21/14892160"
-    },
-    {
-      "titulo": "Flávio diz que narcoterroristas têm até dezembro para ‘meter o pé’ do Brasil e promete ‘guerra’ contra criminosos",
-      "imagem": "https://s2-g1.glbimg.com/6iUl6HnBbxpNQ4OTSzIEwTjfgjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/u/r5rnnGSlmn7efeLDqSUA/flavio.jpeg"
-    },
-    {
-      "titulo": "'Perigo potencial': Inmet alerta 23 municípios de PE sobre vendaval",
-      "imagem": "https://s2-g1.glbimg.com/xb64V_BNjdsrawDlxk2DQp_zX2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/B/mFGDvFSKKT0PU4ugPFAw/design-sem-nome-2026-08-22t123620.306.png"
-    },
-    {
-      "titulo": "Mulher denuncia vizinha por injúria racial após ser chamada de 'negra fedorenta' na Grande BH",
-      "imagem": "https://s2-g1.glbimg.com/qf5pKU54kX_D5H0dxsn6jtqIQdU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/K/BeZKoSTVapiA88udPxtg/design-sem-nome-12-1-.png"
-    },
-    {
-      "titulo": "Vídeo mostra Gusttavo Lima aos 19 anos em primeira apresentação na Festa do Peão de Barretos",
-      "imagem": null
-    },
-    {
-      "titulo": "Violinista Elisa Fukuda tem casa invadida e instrumentos roubados em SP",
-      "imagem": "https://s2-g1.glbimg.com/VyMQS28p50cnLqva55OGxEdweLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/m/REjiAGRoKWcxbYOLbKQw/montagem-horizontal-1200px-7-.jpg"
-    },
-    {
-      "titulo": "Motociclista morre após bater na traseira de carreta na Rodovia Raposo Tavares em Presidente Venceslau",
-      "imagem": "https://s2-g1.glbimg.com/00gNQnran5MCq3fNUpH6BrZuqII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/w/S8jRwxRdyc8IFoevbiVQ/foto-g1-75-.png"
-    },
-    {
-      "titulo": "VÍDEOS: NE1 de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/doaRtmw_FdwTUTXfcst1gaOWlUw=/s01.video.glbimg.com/deo/vi/20/21/14892120"
     }
   ],
-  "atualizadoEm": "2026-08-22T16:33:22.594Z"
+  "atualizadoEm": "2026-08-22T16:59:14.486Z"
 }
