@@ -1,6 +1,70 @@
 {
   "noticias": [
     {
+      "titulo": "Incêndio atinge canavial e destrói mais de 1 tonelada de cana-de-açúcar no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/ZIihjmPz-xJmOLi_JC3_0CSvNJI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/R/hWJRvpQYm7djVFfPR2BQ/cana1.jpg"
+    },
+    {
+      "titulo": "Câmara de Itu cassa mandato de vereador que atirou próximo a cachorro durante ação policial",
+      "imagem": "https://s2-g1.glbimg.com/_FX1AaUgCuXwj5p4xQcdmtwsAl0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/a/ciBg4jRLGTtvA9SJR12g/tiro-cachorro.jpg"
+    },
+    {
+      "titulo": "Jovem é morto a tiros e mulher fica ferida ao ser baleada durante feira em Aparecida, SP",
+      "imagem": "https://s2-g1.glbimg.com/BU_y9RM1NETfn4lRLQPOKU9vBPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/l/IXB6BSQa6PDI6T7lGB5A/texto-do-seu-paragrafo-92-.png"
+    },
+    {
+      "titulo": "De colete à prova de balas, Renan Santos vai a comunidade em SP e promete programa de R$ 1,5 trilhão contra favelização",
+      "imagem": "https://s2-g1.glbimg.com/IU58nDdA3KWN8zN8xjsJqHnGrdI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/X/dvl0HxREOMtfCzGtBpfw/captura-de-tela-2026-08-22-132548.png"
+    },
+    {
+      "titulo": "TRE-AM orienta eleitores de Manaus a consultar locais de votação para as Eleições 2026",
+      "imagem": "https://s2-g1.glbimg.com/6tqXasYRtqNHSlPC1sME8JhJiBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/a/BnnFthRtyh8s2A7uVm2A/whatsapp-image-2026-08-22-at-12.53.36.jpeg"
+    },
+    {
+      "titulo": "Homem morre após casa pegar fogo em Cachoeiro de Itapemirim, ES",
+      "imagem": "https://s2-g1.glbimg.com/DkUSqpeU5gZ8MZ9TyngGsgGItTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/O/uvkJR4QG6iziK4cnmp7A/thumb-videos-g1-9-.jpg"
+    },
+    {
+      "titulo": "Mulher é agredida com facão pelo companheiro em MG; suspeito foge pela mata",
+      "imagem": "https://s2-g1.glbimg.com/K4SkeH28byrtJx_eVWFG62rniks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/f/J/GZ5KcoSoWFBeER2b2Vig/whatsapp-image-2023-12-19-at-10.17.31.jpeg"
+    },
+    {
+      "titulo": "Homem tenta fugir da PM e é preso com arma, munições e maconha em Pirapora",
+      "imagem": "https://s2-g1.glbimg.com/_Uu9s8wSyK3nhHqAqBJV9sUMHxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/s/mtAsevT6iVYLbFgcb6aQ/whatsapp-image-2026-08-21-at-16.20.50-1-1-.jpeg"
+    },
+    {
+      "titulo": "Empresário suspeito de matar motociclista atropelado é preso em Barbalha",
+      "imagem": "https://s2-g1.glbimg.com/LivxbnRvCKmRuoE-5awb422uszY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/v/sgfy85TnWZRRV3PgIdgA/prisao-yan.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: RJ1 de sábado, 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/qbiAmPJH29qxKXQRmWEOQMaXFHM=/s01.video.glbimg.com/deo/vi/06/22/14892206"
+    },
+    {
+      "titulo": "Candidatos ao governo do Paraná viajam a cidades do estado para agendas de campanha",
+      "imagem": "https://s2-g1.glbimg.com/kqGlFYegKa-BueVxhGjBsrlaDn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/l/w/nd1XBZRCGoCuMSwg9dTg/dae0a475-8fcd-48ea-962b-bea36ee433c0.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: DF1 de sábado, 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/jtTHjKHbMnYwWszxHkIYZ9zFYDo=/s01.video.glbimg.com/deo/vi/88/24/14892488"
+    },
+    {
+      "titulo": "TRE define propaganda eleitoral no rádio e na TV: confira tempo de candidatos ao governo de PE",
+      "imagem": "https://s2-g1.glbimg.com/MKM-iZA4BNofRKvf-8jgCjkFbIQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/6/myFRHWTLWuA2YLLZZ82w/design-sem-nome-4-.png"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 1ª edição deste sábado, 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/riKubCI74UjHVjsdhCq7j-z6iVI=/s01.video.glbimg.com/deo/vi/11/25/14892511"
+    },
+    {
+      "titulo": "Tem Solução: banners viram sacolas verdes e reflorestamento ajuda na produtividade de fazenda no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/IBv1o66YmGZXz3KAKGNo5Ux8Vtg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/r/nLZOfhTiWe3Mwb2LnSJA/bau-tem-solucao-10-220826-frame-3364.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: MG1 de sábado, 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/JpVT5ov0LfydxDH-eUxEfPmYh4w=/s01.video.glbimg.com/deo/vi/20/24/14892420"
+    },
+    {
       "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de sábado, 22 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/h8Z0nlZDtWlmxJEs2oPtmZ_6Dew=/s01.video.glbimg.com/deo/vi/87/24/14892487"
     },
@@ -50,76 +114,12 @@
     },
     {
       "titulo": "No RJ, Lula diz que, se reeleito, vai retirar facções e devolver território ao povo",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/leBIKFypBUaFbEi5pFLQdT5hGwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/0/UXgp7jQsmSA1OYww4K4w/lula-.jpeg"
     },
     {
       "titulo": "Manaus recebe desfiles de mais de 20 marcas autorais durante a 4ª edição do Amazon Poranga Fashion",
       "imagem": "https://s2-g1.glbimg.com/r7edOgRJdlczDaVvvb0gskLn-2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/C/FXg3rSQDmhqHxhAaNu7Q/amazonas-poranga.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/TtJx3bdI4Ja_GCF3OSIm-sfAqfs=/s01.video.glbimg.com/deo/vi/04/23/14892304"
-    },
-    {
-      "titulo": "Justiça intervém e exige necropsia de 'Barão do Tráfico' em MS; defesa alega suspeita de envenenamento",
-      "imagem": "https://s2-g1.glbimg.com/UJjQetmBTrfzvraDD1YaTTvv_VA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/M/5sb8yoTJyTAwrGBazFIA/barao-do-trafico.jpeg"
-    },
-    {
-      "titulo": "Professor é investigado por suspeita de importunação sexual contra três alunas em escola na Zona Norte de SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasileira desaparecida na Espanha há quase 50 dias: o que se sabe sobre o caso",
-      "imagem": "https://s2-g1.glbimg.com/woSJFKFE9jTHzzzMfqiM8rXz8Fc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/2/SBjYKvRpKtLLQFgbt4DQ/fiscalizacao-esgoto-semam.jpg"
-    },
-    {
-      "titulo": "VÍDEO: Carro invade rampa de passarela em Salvador e precisa dar ré após ficar preso",
-      "imagem": "https://s2-g1.glbimg.com/liKs9fTfjKsCvz0f2aSXv1frrIU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/7/UmRhScRDyfZSzrTB55Kg/foto-no-tamanho-home-12-.png"
-    },
-    {
-      "titulo": "Homem descumpre medida protetiva e ataca mulher enquanto ela dormia em Rorainópolis",
-      "imagem": "https://s2-g1.glbimg.com/3BuezrrRgDcC-COzSlCn9UbNHSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/q/0Ust4qS8AxrXfhhcBwkQ/ataque.png"
-    },
-    {
-      "titulo": "VÍDEO: filhotes de coruja são encontrados vivos durante combate a incêndio no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/uqxyUhWIiOzjwXrRrNZh5fZjCOU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/V/iQboYQTcAeTtziemdrIQ/ezgif.com-optimize-11-.gif"
-    },
-    {
-      "titulo": "Homem é encontrado morto em cela de delegacia no mesmo dia em que foi preso no Acre",
-      "imagem": "https://s2-g1.glbimg.com/TpsGN-490Lrp5AMIn6ST4mi7IlY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/mOS1coQVWCIf8Khdd9tQ/midia-de-distribuicao-g1-36-.png"
-    },
-    {
-      "titulo": "Heróis de Alcântara: interior de SP tem monumento às vítimas mortas há 23 anos em acidente do VLS",
-      "imagem": "https://s2-g1.glbimg.com/ft6ITemDHLcfUf8RMX2WVsgzHqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/E/A/Xm0KXlT9SEL6QtX40Weg/whatsapp-image-2023-08-22-at-12.40.48-1-.jpeg"
-    },
-    {
-      "titulo": "Cachorro resgatado com catarata e depressão volta a enxergar após cirurgia: 'Descobriu o mundo'",
-      "imagem": "https://s2-g1.glbimg.com/9QOJYgcMNPF35ulu7dNRNSLS5qM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/u/fZwgsyS3KkaErchIlMaw/fotos-materias-2026-08-20t115008.368.jpg"
-    },
-    {
-      "titulo": "Caminhão de mudança é roubado e recuperado pela PM na Zona Oeste de SP",
-      "imagem": null
-    },
-    {
-      "titulo": "O plano que usou drones e helicópteros atrás de Ratanabá em Terra Indígena",
-      "imagem": "https://s2-g1.glbimg.com/Y2aK0QPzSQjbtvTfnSelSK5xUVI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/q/SkgTAKTJCC406F04WghQ/1200-x-800-58-.jpg"
-    },
-    {
-      "titulo": "Assista ao Gazeta Meio Dia - edição regional",
-      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
-    },
-    {
-      "titulo": "Canadá anuncia tarifas de retaliação às novas taxas dos EUA a partir de 8 de setembro",
-      "imagem": "https://s2-g1.glbimg.com/J87J4m3LAR8jcRcn2SPCKSLdaDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/B/gKLmvbROGARLRmAAURLQ/2025-06-17t015253z-1073615771-rc2u3fa8wyw6-rtrmadp-3-g7-summit.jpg"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Liberal",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista ao EPTV1",
-      "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-22T16:59:14.486Z"
+  "atualizadoEm": "2026-08-22T17:27:19.736Z"
 }
