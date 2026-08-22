@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Ipswich x Sunderland: horário e onde assistir ao jogo da Premier League",
+      "imagem": null
+    },
+    {
       "titulo": "EUA impõem tarifas de 50% ao Canadá após falta de acordo",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Nvidia faz parceria com Cloverleaf para desenvolver data centers de IA",
       "imagem": null
-    },
-    {
-      "titulo": "Lula decide não ir a debate presidencial e Flávio não deve comparecer",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T05:04:10.386Z"
+  "atualizadoEm": "2026-08-22T05:41:17.669Z"
 }
