@@ -1,6 +1,46 @@
 {
   "noticias": [
     {
+      "titulo": "Calor de queimadas detona bombas esquecidas das guerras na Europa",
+      "imagem": null
+    },
+    {
+      "titulo": "Nutricionista Matheus de Morais é velado e sepultado neste sábado (22) em Apucarana",
+      "imagem": null
+    },
+    {
+      "titulo": "Adolescente de 16 anos é agredido e quase enforcado por ex em Jandaia",
+      "imagem": null
+    },
+    {
+      "titulo": "Ex-companheiro invade casa e agride mulher em Jardim Alegre",
+      "imagem": null
+    },
+    {
+      "titulo": "Mulher tem casa invadida e é ameaçada de morte por ex em Apucarana",
+      "imagem": null
+    },
+    {
+      "titulo": "Negociação entre EUA e Canadá fracassa e tarifas de 50% entram em vigor",
+      "imagem": null
+    },
+    {
+      "titulo": "99 vende bilhete de metrô em Salvador para ter mais transações e usuários em sua plataforma",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia investiga suposta violência patrimonial contra dentista agredida por empresário",
+      "imagem": null
+    },
+    {
+      "titulo": "Dificuldade de recrutar soldados revela desgaste russo e reconfigura guerra na Ucrânia",
+      "imagem": null
+    },
+    {
+      "titulo": "Defesa Civil lança alerta para baixas temperaturas em São Paulo; veja previsão",
+      "imagem": null
+    },
+    {
       "titulo": "Irã diz que ameaças de sanções dos EUA prejudicam a soberania internacional",
       "imagem": null
     },
@@ -13,53 +53,13 @@
       "imagem": null
     },
     {
-      "titulo": "George Russell (Mercedes) vence corrida sprint do GP dos Países Baixos de F1  ric/jc/avl/msr/aam",
+      "titulo": "George Russell (Mercedes) vence corrida sprint do GP dos Países Baixos de F1",
       "imagem": null
     },
     {
-      "titulo": "Sem acordo, EUA impõem novas tarifas de 50% ao Canadá e Ottawa promete retaliação",
-      "imagem": null
-    },
-    {
-      "titulo": "Rotam prende foragido e apreende drogas em Ivaiporã",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula e Flávio fazem atos no mesmo horário no Rio neste sábado",
-      "imagem": null
-    },
-    {
-      "titulo": "Dia D oferece 20 vacinas a menores de 15 anos em todo o país hoje",
-      "imagem": null
-    },
-    {
-      "titulo": "Zelensky promete resposta após ataque russo matar 16 em shopping",
-      "imagem": null
-    },
-    {
-      "titulo": "O perfil dos candidatos no Paraná",
-      "imagem": null
-    },
-    {
-      "titulo": "Sorocaba retoma viagens de trem turístico 60 anos após fim de rota regular",
-      "imagem": null
-    },
-    {
-      "titulo": "Com dois acidentes por dia, Apucarana tem alta de mortes no trânsito",
-      "imagem": null
-    },
-    {
-      "titulo": "Justiça Eleitoral inicia treinamento de mesários neste sábado em Apucarana",
-      "imagem": null
-    },
-    {
-      "titulo": "Casas Bahia faz leilão virtual de eletrodomésticos; lances vão até terça (25)",
-      "imagem": null
-    },
-    {
-      "titulo": "Pegada fóssil de SC revela maior mamífero da Era dos Dinossauros",
+      "titulo": "Ministro alemão visita Ucrânia em meio a escalada de ataques russos",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T10:58:28.832Z"
+  "atualizadoEm": "2026-08-22T11:24:59.095Z"
 }
