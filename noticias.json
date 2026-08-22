@@ -1,10 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Veículo na contramão colide com carro da polícia e mata sete no Reino Unido",
-      "imagem": null
-    },
-    {
       "titulo": "Crédito facilitado ainda impulsiona viagens, diz FecomercioSP",
       "imagem": null
     },
@@ -119,7 +115,11 @@
     {
       "titulo": "Volkswagen T-Cross vai mudar? SUV ganha novo visual no México",
       "imagem": null
+    },
+    {
+      "titulo": "Entidades bancárias estão cautelosas com crédito, diz CEO da Pact",
+      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T17:27:19.063Z"
+  "atualizadoEm": "2026-08-22T17:47:07.307Z"
 }
