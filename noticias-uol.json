@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Russell comemora vitória no sprint do GP da Holanda, que elevou o ânimo da equipe",
+      "imagem": null
+    },
+    {
+      "titulo": "Haddad critica Datafolha, mas admite que Tarcísio lidera pesquisas petistas",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula está com vantagem em relação a Flávio na capacidade de arrastar multidões, diz professor",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia sueca investiga redes online após adolescente morrer em ataque com espada em escola",
+      "imagem": null
+    },
+    {
+      "titulo": "Cavaliere exalta parceria do Rio com Lula e diz que Paes pode reconstruir o Estado",
+      "imagem": null
+    },
+    {
       "titulo": "Irã condena planos dos EUA de anunciar novas sanções",
       "imagem": null
     },
@@ -33,33 +53,13 @@
       "imagem": null
     },
     {
-      "titulo": "Linchamento em Copacabana: polícia investiga serviço ilegal de segurança",
+      "titulo": "Polícia investiga serviço ilegal de segurança após morte de ciclista no Rio",
       "imagem": null
     },
     {
       "titulo": "SC: empresário morre em acidente 4 dias após chá revelação do filho",
       "imagem": null
-    },
-    {
-      "titulo": "Kimi Antonelli vai largar do meio do grid no GP da Itália em setembro",
-      "imagem": null
-    },
-    {
-      "titulo": "Dívida de US$ 40 tri, juro imobiliário em alta e disparada do diesel pressionam Donald Trump",
-      "imagem": null
-    },
-    {
-      "titulo": "EUA impõem tarifas de 50% sobre produtos canadenses após fracasso das negociações comerciais",
-      "imagem": null
-    },
-    {
-      "titulo": "Direita se organiza, e centro ganha terreno no Nordeste sem confrontar Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Lando Norris (McLaren) conquista pole do GP dos Países Baixos de F1",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T15:45:09.554Z"
+  "atualizadoEm": "2026-08-22T15:59:40.960Z"
 }
