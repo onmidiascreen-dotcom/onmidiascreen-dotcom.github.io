@@ -1,7 +1,83 @@
 {
   "noticias": [
     {
-      "titulo": "Nattanzinho Lima abre show no meio da arquibancada da arena de Barretos e leva público ao delírio",
+      "titulo": "Passageiros relatam aumento de roubos em trens do RJ: 'Bateu com arma na minha cabeça', diz vítima",
+      "imagem": "https://s2-g1.glbimg.com/LCMnmU5opyeg04tSax0-ntRHaMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/D/5wKtB0RuOgzKB3BhCsRg/imagem-cortada-22-.jpg"
+    },
+    {
+      "titulo": "Nariz sangrando, corpo rígido e batida de cabeça na parede: Testemunha conta como foi socorro a lutador de kickboxing intubado após treino",
+      "imagem": "https://s2-g1.glbimg.com/O_hzdfz8i1LC00rXAHUH9qJ6PtQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/i/2RXYb8QZCTBlk9DtjBKg/upa-padre-roberto-divinopolis-2025.jpg"
+    },
+    {
+      "titulo": "Fim de semana pode ter chuva e queda de até 10°C nas máximas no Vale do Paraíba e região; veja a previsão",
+      "imagem": "https://s2-g1.glbimg.com/iVnu68OJsLMdo2ghoS_9BHfJvoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/a/9/p3YKvDTfeBilaB5KB2cA/b8ef622955c806ace60dce50c49aa870495b8bb018d4e275cefda721465f.jpg"
+    },
+    {
+      "titulo": "Gratidão aumenta satisfação com a vida e reduz sentimento de inveja, mostra estudo global",
+      "imagem": "https://s2-g1.glbimg.com/F4nYOCXEH3SIzAcwcCddWAVq6SE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/8/jtXOHMRBiPDG4BAxQV7w/4409.jpg"
+    },
+    {
+      "titulo": "Por que existe o Dia Mundial do Mosquito — e o que isso tem a ver com o Nobel",
+      "imagem": "https://s2-g1.glbimg.com/_fjTuO-DzfnIS8B5U4Xy_ELqhEY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/N/b3BY8oR5Kx4NoAGBFvBg/2eb856e0-971b-11f1-870d-5d08c49babb2.jpg.webp"
+    },
+    {
+      "titulo": "Da China a Cuiabá: como maior roda-gigante da América Latina percorreu 17 mil km para ser instalada em MT",
+      "imagem": "https://s2-g1.glbimg.com/xM5v-so3sU8qxAIjRn-ITJqaCXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/4/1zAKZ6QRWYGAOKntHXBA/videos-g1-4-.jpg"
+    },
+    {
+      "titulo": "Avó relembra morte de neto adolescente que teria se engasgado em clínica interditada em MG: 'Sempre ficou a dúvida'",
+      "imagem": "https://s2-g1.glbimg.com/G-1zsCCZLmXma_R692RMAsDUwmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/K/jotnBfSXuUGRI85XPEtQ/1787338230566459.jpg"
+    },
+    {
+      "titulo": "Caderneta atrasada? Região de Piracicaba tem 'Dia D' de multivacinação neste sábado",
+      "imagem": "https://s2-g1.glbimg.com/xisGIBTw7_72PVAJZyWT8xZGiUo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/wb5tUqTAaDB8eAv4F62Q/design-sem-nome-4-.png"
+    },
+    {
+      "titulo": "Guerra no Irã faz países do Golfo acelerarem planos para driblar Estreito de Ormuz",
+      "imagem": "https://s2-g1.glbimg.com/zsmfODQH5bmwVuFzpBJBlU2RTMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/U/IueoH0RuiQRx5MJuKhcw/2026-08-17t134126z-1571278001-rc2c0naakvh3-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
+    },
+    {
+      "titulo": "Nova fiscalização da Lei Seca prevê testes para uso de drogas; veja como vai funcionar na Bahia",
+      "imagem": "https://s2-g1.glbimg.com/TBccODBl9f4fkrXd2RQgUf3jWdE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/s/cbmLLAT6WRTZ1WHdolAw/whatsapp-image-2026-08-19-at-21.57.09.jpeg"
+    },
+    {
+      "titulo": "Petrobras e Pemex fazem acordo para explorar petróleo, mas especialistas veem risco de ‘letra morta’",
+      "imagem": "https://s2-g1.glbimg.com/fImAoWB9CZRTXIsdVrwK0rhGYFU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/Q/7IciAqQV6Ax3k9OVtsBA/76818686-906.jpg"
+    },
+    {
+      "titulo": "Cidade de SC com arranha-céus mais altos do país terá novo gigante — e entre os maiores da América Latina",
+      "imagem": "https://s2-g1.glbimg.com/TswuSJmvjE8DvAQYSaBkEKZJ2FQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/e/pfNVjOTg22P1VIYJeduA/novo-arranha-ceu-de-balneario-camboriu-que-pretende-ser-um-dos-maiores-da-america-latina-tera-400-metros-e-mais-de-100-andares-.png"
+    },
+    {
+      "titulo": "Conheça a história da potiguar que inspirou a nova novela das 7, 'Por Você'",
+      "imagem": "https://s2-g1.glbimg.com/ZQxXn4bQzq7aT5a1oz7sg_MBvPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/W/p2Qu29Rdawn6Jp5kjenw/whatsapp-image-2026-08-21-at-18.58.00.jpeg"
+    },
+    {
+      "titulo": "Cidade do Acre pode estar sobre falha geológica ainda desconhecida, aponta estudo",
+      "imagem": "https://s2-g1.glbimg.com/fAkAD3n_-oEXIgcBXiqcYALu4qA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/Q/EzII10TVeZ98UeIpn9BA/midia-de-distribuicao-g1-30-.png"
+    },
+    {
+      "titulo": "Viaduto Santa Tereza com mão dupla: veja como era o Centro de BH antigamente",
+      "imagem": "https://s2-g1.glbimg.com/Sr1h0-8HE4tfd6UDhkRZovEO-Bg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/d/FPBwNfScABCJ5Y5wNNCg/9528.jpg"
+    },
+    {
+      "titulo": "VÍDEO: pescador se distrai e leva mordida de dourado em MT",
+      "imagem": "https://s2-g1.glbimg.com/1zR5H6ZlaidgUl0J7OstscQCoig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/4/WrfehvQBaXA8vfuBR2uw/foto-g1-48-.png"
+    },
+    {
+      "titulo": "Temperatura x sensação térmica: entenda por que sentimos mais calor do que indica o termômetro em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/NKuUsqbH3MTzdT9mI2aB-RfOUto=/s.glbimg.com/jo/g1/f/original/2014/10/20/05_1.jpg"
+    },
+    {
+      "titulo": "Air fryer, micro-ondas e até toalhas de banho: veja bens furtados de imóvel após homem emprestar conta do Airbnb para estranha",
+      "imagem": "https://s2-g1.glbimg.com/td2NZUc7SAqpS2450PAo9dnugiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/k/xkqVR0RxOXOK89fgJmRg/delegacia-policia-civil-patos-de-minas.jpeg"
+    },
+    {
+      "titulo": "Entenda o que aconteceu no Hospital Colônia de Barbacena, onde milhares morreram e corpos foram vendidos a faculdades",
+      "imagem": "https://s2-g1.glbimg.com/UxcgRTJ9NiyvG8Ak28cTUEXahz8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/d/MCBboqQWiAN8nvZSG8tg/hospital-colonia-de-barbacena.jfif"
+    },
+    {
+      "titulo": "Nattanzinho Lima abre show no meio da arquibancada lotada da arena de Barretos e leva público ao delírio",
       "imagem": null
     },
     {
@@ -43,83 +119,7 @@
     {
       "titulo": "Previsão do tempo hoje para Brasília (DF): sol o dia todo sem nuvens no céu; noite de tempo aberto ainda sem nuvens",
       "imagem": "https://s2-g1.glbimg.com/LpI4bXsoeW5yzyUtmQQdrC2jsWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/s/l5XSyfR2ihfCc2Xwve9g/previsao-tempo-bras-lia-20260822-030621.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/39xbjV7ocAYVHM_eWgoa9ZhbI8o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/C/cFFx1vSrymk0nYQZ1vUA/previsao-tempo-s-o-paulo-20260822-030606.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/mxUv9kDVYGN2hQo0CTSWZlIl61c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/2/x7ElcoRhW2dXNoSF9zbw/previsao-tempo-s-o-bernardo-do-campo-20260822-030548.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/x7RGgztoTMiOCSngzIQ79WukH4w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/r/OXcSTzSgmdoC5B8Xbmqg/previsao-tempo-santo-andr-20260822-030532.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/1HpmH3C7WXg4u9gFSGUjoR7pAZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/V/9MYfeaQfSvAHY1NHdzzw/previsao-tempo-osasco-20260822-030516.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/RKOQ7Uyrp3FR4pEOaZmkln9iT2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/u/G5dcUsSSyQXuxfadBUeA/previsao-tempo-guarulhos-20260822-030459.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): tempo nublado com chuva de manhã; sol e diminuição de nuvens à tarde, noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/d5mE1Sj5t9yq0-oFWjy60s3DsuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/Y/7UUwzaQeqbn51BlKk9OA/previsao-tempo-s-o-gon-alo-20260822-030442.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/yN1fChRo2T_lr-52tIdnpFZluR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Z/43AIRpRZOvWbzc1GAm3w/previsao-tempo-rio-de-janeiro-20260822-030424.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/H9YMwVEglFMAZseZgPVmRhwFlG4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/z/5BFvSMQhiXp5AjwgfU0A/previsao-tempo-nova-igua-u-20260822-030406.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): tempo nublado com chuva de manhã; sol e diminuição de nuvens à tarde, noite com poucas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/sy1mkw_QSZEjw5Hv6IcIrTNlDdE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/q/bGDn2YQGOX4t4HDzclSA/previsao-tempo-niter-i-20260822-030349.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): muitas nuvens o dia todo, com aberturas de sol",
-      "imagem": "https://s2-g1.glbimg.com/WhWjFvgFm0kRVIzx8aS1VPsYpK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/K/0Zlj3MTw2AppD2Czc64Q/previsao-tempo-duque-de-caxias-20260822-030333.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/LVrsZSuHybeBYzUG7xB0pZEbOZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/t/cZpdhcQ4mzLNjEQr0H3A/previsao-tempo-sete-lagoas-20260822-030316.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/oQFX3LNHon1EN8PUNJXaUWojfC4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/P/2ADBxpQJO78qtQvCIBgw/previsao-tempo-ribeir-o-das-neves-20260822-030259.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Contagem (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/_KmxWf1EMePiAWfcHJL4bU-6yhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/c/OScLJNTAKCnVnxd8aocw/previsao-tempo-contagem-20260822-030243.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Betim (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/wrtQG2kVLl1lL5m4LLPNQGmAAJo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/y/6hGkXqRF2l3cB8vgGAow/previsao-tempo-betim-20260822-030226.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-      "imagem": "https://s2-g1.glbimg.com/zvZabWPukBaquunyCin21E7qtas=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/9/6Vjz8EQ6OXPXvhAu8aDw/previsao-tempo-belo-horizonte-20260822-030210.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/8M2HOR30ISUn9ftgY7VbONT1CKM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/K/EvE4wrT7efykV5Dm86sg/previsao-tempo-recife-20260822-030154.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Paulista (PE): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/HWhVOeYUwtCK6e5aO5iqedGfV40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/7/LjTu7LTuyHR3k8ASadtA/previsao-tempo-paulista-20260822-030136.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Olinda (PE): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/0cYyw21tuR3_GRKVLXzNSJj_GzI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/o/2XvY2oS2e8VTwmdt023Q/previsao-tempo-olinda-20260822-030119.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Jaboatão dos Guararapes (PE): sol com algumas nuvens; não chove",
-      "imagem": "https://s2-g1.glbimg.com/n26f9us9_OEA7GiVJGO8a2miW4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/5/mRobLSTKmld4YB295bPg/previsao-tempo-jaboat-o-dos-guararapes-20260822-030102.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-22T07:59:54.102Z"
+  "atualizadoEm": "2026-08-22T08:39:16.847Z"
 }
