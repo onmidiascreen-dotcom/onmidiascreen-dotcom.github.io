@@ -1,6 +1,74 @@
 {
   "noticias": [
     {
+      "titulo": "Palha, galhos e bambu ganham nova vida nas mãos de artesãos e se transformam em arte e renda no PI",
+      "imagem": "https://s2-g1.glbimg.com/ZOXRVCxyfCX-n28IksjuBygc9JA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/5/Ohbc9kQVGmqLt37OLRjQ/edicao-imagens-g1-9-.png"
+    },
+    {
+      "titulo": "Acidente entre dois carros deixa quatro feridos na BR-174, no Amazonas",
+      "imagem": "https://s2-g1.glbimg.com/stMyGwiow8oGcMEdPmMEamZ5XkY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/k/OrjQ8ETnqooz8dr9VAaQ/acidente-estrada.jpg"
+    },
+    {
+      "titulo": "Família doa órgãos de adolescente de 16 anos que foi morto por engano em Caçapava e ajuda a salvar cinco vidas",
+      "imagem": "https://s2-g1.glbimg.com/EiSm1pem7Vipw0gN15aoIZ69ltg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Y/y00UkdRNymEny9TyGAYA/texto-do-seu-paragrafo-2026-08-22t160500.322.png"
+    },
+    {
+      "titulo": "VÍDEO: Motociclista morre após bater em carro e ser atropelado em MG",
+      "imagem": "https://s2-g1.glbimg.com/mucNqGnT3sXMWI7DzFRHR2qRq4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/b/NFCil6TSy01UzwEIBtDg/design-sem-nome.jpg"
+    },
+    {
+      "titulo": "Caiado afirma ser a favor do fim da escala 6x1 após chamar PEC de 'eleitoreira'",
+      "imagem": "https://s2-g1.glbimg.com/kWiwO9smZ79gCyzZ22ji7f0r0Yk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/Y3QHjMSoSu1sXS2OgRNw/captura-de-tela-2026-08-22-155601.png"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 1ª Edição deste sábado, 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/GGCUbRQ1JtwUNMo3K2FTh-p3iME=/s01.video.glbimg.com/deo/vi/52/29/14892952"
+    },
+    {
+      "titulo": "TRE define tempo e ordem de propaganda eleitoral na TV e rádio para candidatos ao governo nas eleições em Roraima",
+      "imagem": "https://s2-g1.glbimg.com/jdx-4IYZxY2xQsF2X9s8ldk66Ls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/o/fFq88yS6Apf1j866cgPA/candidatosaogov-.jpg"
+    },
+    {
+      "titulo": "Incêndio atinge cinco veículos em garagem automotiva de Montes Claros",
+      "imagem": "https://s2-g1.glbimg.com/vIphykRQZ5SX45iLIBSB7exl7AU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/G/7TAuoWT5Onklrg61GWcg/whatsapp-image-2026-08-22-at-05.29.31-1-.jpeg"
+    },
+    {
+      "titulo": "Moradores cobram mais segurança em trevo da MGC-491 e defendem construção de passarela em Alfenas, MG",
+      "imagem": "https://s2-g1.glbimg.com/wObbawmJqrfKy0mwbhRNBU-JXFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/u/P2BbXcSZmYpttCHgyYkw/passarela.png"
+    },
+    {
+      "titulo": "Piloto embriagado em moto com placa adulterada é preso em Várzea Grande (MT)",
+      "imagem": "https://s2-g1.glbimg.com/rHRSU5NseYbWiB2fHhv_4LQVr20=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/A/AOKsgbTgeep7edrqGRlQ/videos-g1-6-.png"
+    },
+    {
+      "titulo": "Justiça condena homem acusado de agredir a mãe com 'mata-leão' após acordar irritado com barulho da máquina de lavar",
+      "imagem": "https://s2-g1.glbimg.com/1vq5atsjtDFSi99KFqhO2SiZsEE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/U/2hiGKnSGaXwvrA9fxnlg/formato-padrao-imagens-g1-2026-08-18t161123.841.png"
+    },
+    {
+      "titulo": "Em agenda no interior de SP, Augusto Cury critica polarização e prega fim do 'torcedor de político'",
+      "imagem": "https://s2-g1.glbimg.com/eOmkOWhuemOqvu-63zoDUFoCFw4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/b/j6VXnnT1mTWymdODRgWQ/0-41-card-103-lancamento-cury-0293.mxf.png"
+    },
+    {
+      "titulo": "Saiba o que propõem candidatos ao governo de PE para enfrentar violência contra mulheres; VÍDEOS",
+      "imagem": "https://s2-g1.glbimg.com/FR_TJaf8gqIl-BXu8adScIGI1Hg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/o/AiuOiwSUyWqUYtmdHOhA/design-sem-nome-5-.png"
+    },
+    {
+      "titulo": "Mulher é morta a facada em Vitória; suspeito detido diz à PM que dívida de R$ 70 motivou crime",
+      "imagem": "https://s2-g1.glbimg.com/SS_riZsWFak0VI1avd_zQhsFzx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/E/sjZCGnT9KtaQLAzlUdUg/thumb-videos-g1-10-.jpg"
+    },
+    {
+      "titulo": "Caminhão guincho derruba fiação, deixa UPA sem energia e bloqueia avenida em Várzea Grande (MT)",
+      "imagem": "https://s2-g1.glbimg.com/GogvMN2exJ1Hmqwv1q1YlMGo5Vs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/b/rz5ei7QZu3xfinHzXZXg/foto-g1-50-.png"
+    },
+    {
+      "titulo": "Vereador persegue suspeitos após roubo ao irmão e joga carro contra moto em Nova Iguaçu",
+      "imagem": "https://s2-g1.glbimg.com/ALNH_4xC1j2NOaKT6JB4FNKjjxg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/7/IZai6AQAqYtiflYL4kGw/imagem-cortada-2026-08-22t154551.514.jpg"
+    },
+    {
+      "titulo": "Atropelamento por carro desgovernado deixa feridos na Grande BH",
+      "imagem": null
+    },
+    {
       "titulo": "Motorista de caminhão morre em acidente na BR-316, no Centro-Norte do Piauí",
       "imagem": "https://s2-g1.glbimg.com/NmrXtL9QfZw7qoOl10nAHAHSB-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/P/n9tYF6TFucjoHCb0BX7g/edicao-imagens-g1-8-.png"
     },
@@ -45,81 +113,13 @@
       "imagem": "https://s2-g1.glbimg.com/ECDWqBNEZInaZJQ8I3WQlgbNdOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/z/1KAjrnR3mpKyrGkjmY4g/caes-lages-sc.jpg"
     },
     {
-      "titulo": "Inmet emite aviso de perigo por baixa umidade na Grande BH e regiões de Minas",
+      "titulo": "Inmet divulga aviso de perigo por baixa umidade na Grande BH e regiões de Minas",
       "imagem": "https://s2-g1.glbimg.com/O5j5k8MYVIKVc5VAo3RVu-p2PEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/g/Kp5p9iSP6CKPjiSURbYw/minas-inmet-tempo-seco.jpg"
     },
     {
       "titulo": "Operação Jaguaretê: seis dragas usadas em mineração são destruídas no Rio Içá, no Amazonas",
       "imagem": "https://s2-g1.glbimg.com/1cETiYX7XkuPn1Ib6z2pFOMprgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/r/XIziPRQRq3OniArb0tiQ/dragas.jpg"
-    },
-    {
-      "titulo": "Homem é preso suspeito de usar Pix agendado para fazer compras e sair de lojas sem pagar em MT",
-      "imagem": "https://s2-g1.glbimg.com/CAjnuqWBnm2vRlNsb-r-2g3oBos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/N/FKvJQwT0m7fLZjNdSWig/globo-canal-5-20260119-2000-frame-71850.jpeg"
-    },
-    {
-      "titulo": "Natanzinho Lima homenageia avô caminhoneiro na Festa do Peão de Barretos: 'Queria muito que ele estivesse vivo vendo tudo isso'",
-      "imagem": "https://s2-g1.glbimg.com/FAGAwEx3tohmdP_cQYLErnYw4Qk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/T/01AJevR1CnnIB1zgb0tg/dsc-0690.jpg"
-    },
-    {
-      "titulo": "Datafolha no PI: 72% aprovam trabalho de Rafael Fonteles como governador, e 23% desaprovam",
-      "imagem": "https://s2-g1.glbimg.com/-KkSV1VH-gyu7uybuiZNzzND5wo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/6/42neRFRRK6ztTBC33kQA/whatsapp-image-2026-04-14-at-8.43.10-am.jpeg"
-    },
-    {
-      "titulo": "Jovem de 23 anos é morto a tiros no Parque Santa Edwirges em Bauru",
-      "imagem": "https://s2-g1.glbimg.com/dWowrLVhH1sEe3H8nelWdV7T1kM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/o/AU7F6hToi6DgA4ObBbqQ/whatsapp-image-2025-07-09-at-08.14.40-6-.jpeg"
-    },
-    {
-      "titulo": "Pai é preso suspeito de agredir bebê de 3 meses no Rio; criança pode ter morte cerebral",
-      "imagem": "https://s2-g1.glbimg.com/Go7yVbgebK28HFcU1xw3gyLMKfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/j/PfUMWzTbuvPDnueGgIJA/imagem-cortada-25-.jpg"
-    },
-    {
-      "titulo": "Vigilância Sanitária interdita padaria por irregularidades em Mogi das Cruzes",
-      "imagem": null
-    },
-    {
-      "titulo": "Ponte sobre o Rio Paraguai na BR-262 será interditada neste sábado (22); saiba quando bloqueio termina",
-      "imagem": "https://s2-g1.glbimg.com/HI2PNU0yXK7B2PR4A2dom-qudw8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/v/3NIrZkQM6CSFc3Vh5LEg/ponte.jpg"
-    },
-    {
-      "titulo": "Zema defende nova reforma da Previdência e admite aumentar tempo de contribuição",
-      "imagem": "https://s2-g1.glbimg.com/XxyTQjkMDOGVx12x6b8B85NDeZg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/G/01Ov8VS5K4iV09qAS9AA/captura-de-tela-2026-08-22-145015.png"
-    },
-    {
-      "titulo": "Motorista morre após passar mal, perder controle de caminhonete e bater contra defensa metálica",
-      "imagem": "https://s2-g1.glbimg.com/-8gnmYBYXRQypxD2uaVEJyuMQzo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/G/aIxA7nSoilPDVhqL0d4g/foto-g1-77-.png"
-    },
-    {
-      "titulo": "Videomonitoramento ajuda a recuperar botijão furtado em Porciúncula",
-      "imagem": "https://s2-g1.glbimg.com/uOfEYpxAmxnTBl3sx8Vyz42rEu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/t/5OI1jGRMWYa4fJWpANUQ/homem-e-flagrado-croubando-um-butijao-de-gas.jpg"
-    },
-    {
-      "titulo": "'Incrível poder voltar a essa arena', diz Gusttavo Lima sobre retorno à Festa do Peão de Barretos como embaixador",
-      "imagem": "https://s2-g1.glbimg.com/LGkKGfyFxyg23y0QyWNWFTWiNnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/e/roZcbCRk2X8iNu2c9kSQ/design-sem-nome.png"
-    },
-    {
-      "titulo": "Homem é preso por feminicídio após sofrer acidente durante fuga em Magé, no RJ",
-      "imagem": null
-    },
-    {
-      "titulo": "Entenda como vai funcionar a moeda 'Pequi' lançada por cidade no TO",
-      "imagem": "https://s2-g1.glbimg.com/mBalUto2V5FPWjJxKCQMc-yNOf0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/n/2HzwARRgizLuKGUxKuaw/image-6-.png"
-    },
-    {
-      "titulo": "Em eventos de campanha no Rio, Lula defende prender criminosos, e Flávio fala em ‘guerra’ ao crime",
-      "imagem": "https://s2-g1.glbimg.com/Gorr5W4HqEawffmE4GegBX4EPoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/Y/S04ZiBT3SnnlugRxhf3Q/imagem-cortada-2026-08-22t150638.314.jpg"
-    },
-    {
-      "titulo": "Lula defende a criação do Ministério da Segurança Pública e diz: 'Não vamos matar 100 ou 200, vamos prender'",
-      "imagem": "https://s2-g1.glbimg.com/i3HqNc9PtUTJ9gdZwyJ-46T0onI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/w/ywO5ZfRjW31WB8BpVtsw/jhoje-limpo-20260822-1315-frame-93124.jpeg"
-    },
-    {
-      "titulo": "Primeiro Festival Internacional de Cultura de Maceió será realizado em setembro; veja datas",
-      "imagem": "https://s2-g1.glbimg.com/XE_Iotn37S2-eVGEXT8ZH1bJbEE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/p/v4zn0sSEChwVaMQIYNAQ/festivalinternacionalcltura.jpeg"
-    },
-    {
-      "titulo": "Dupla que se passava por técnicos para furtar cabos de telefonia é presa no litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/og5qc-a9HwJVeM8kQay8nxmkrgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/b/GB74CBScmiO2WG0oLhng/foto-fios.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-22T18:57:11.179Z"
+  "atualizadoEm": "2026-08-22T19:22:57.647Z"
 }
