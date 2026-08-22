@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Análise: Caos de Trump pode estar destruindo sua própria política externa",
+      "imagem": null
+    },
+    {
       "titulo": "Quatro suspeitos são presos por linchamento de ciclista em Copacabana",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Salton: Espumante é vocação e sustenta resultados positivos",
       "imagem": null
-    },
-    {
-      "titulo": "Como identificar a obesidade infantil? Dr. Kalil e especialistas explicam",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T12:52:49.085Z"
+  "atualizadoEm": "2026-08-22T13:28:03.180Z"
 }

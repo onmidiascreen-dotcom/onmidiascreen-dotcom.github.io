@@ -1,6 +1,66 @@
 {
   "noticias": [
     {
+      "titulo": "Tarcísio diz que estará com Flávio Bolsonaro e lamenta possíveis ausências em debates presidenciais: 'Gostaria de vê-los'",
+      "imagem": "https://s2-g1.glbimg.com/bqFcOZiyhBU6uh2rhKkmTh5qiqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Q/jnNZZQSPGYPj7jSXuQqA/captura-de-tela-2026-08-22-101851.png"
+    },
+    {
+      "titulo": "Falta água em bairros de Campina Grande e em outras cidades da PB neste domingo (23); confira lista",
+      "imagem": "https://s2-g1.glbimg.com/IZuOitJTNhtkmE6KOMJNq0mta8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/5/N/1HGBBGTSqpTeZ14INhHQ/falta-agua.png"
+    },
+    {
+      "titulo": "Carro cai em canal e mobiliza bombeiros no litoral de SP; motorista sai ileso",
+      "imagem": "https://s2-g1.glbimg.com/l8mCJm-a9WWw6TXFBb4UaPhGkaI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/U/nFTZQBRMmAe52aOp9FNA/cai-canal.jpg"
+    },
+    {
+      "titulo": "Juíza anula suspensão de vistos imposta por governo Trump a 75 países",
+      "imagem": null
+    },
+    {
+      "titulo": "'Ele era um menino gentil, amoroso e brincalhão', diz prima de adolescente morto em acidente de trânsito na Zona Oeste de Manaus",
+      "imagem": "https://s2-g1.glbimg.com/_iVgWLUDBxOdmUcgc4F28Iu6eyI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/K/aWEjKJQTOUanVdBQWYZw/adolescente-acidente-manaus.jpg"
+    },
+    {
+      "titulo": "Queimadas em terrenos baldios aumentam em Santarém e preocupam autoridades e moradores",
+      "imagem": "https://s2-g1.glbimg.com/1WKYYm8hHo69W75QZeeb6Toj1Cc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Y/c/TdNGegR9KBW7R3MYAuaQ/whatsapp-image-2019-09-04-at-12.01.13.jpeg"
+    },
+    {
+      "titulo": "Câmara de Poços de Caldas pede ação do Estado para evitar paralisação de linhas intermunicipais",
+      "imagem": "https://s2-g1.glbimg.com/xTDGmRQG9xYEkEQcl89Czr7xqlU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/9/h/AuXioZTnm7K9FS2Z2JWw/rodoviaria-externa.jpg"
+    },
+    {
+      "titulo": "‘Nojento’: universitária relata crise de ansiedade após ter imagem exposta em ‘ranking’ sexual com fotos de alunas",
+      "imagem": "https://s2-g1.glbimg.com/6BKi5YI5KUIr73Cq0d-5IXaSW_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/Y/EBpvdUTNO7emRobb0qJw/bau-img-print-tierlist-210826-frame-0.jpeg"
+    },
+    {
+      "titulo": "Tragédia do VLS completa 23 anos na semana em que Alcântara voltou a lançar foguete",
+      "imagem": "https://s2-g1.glbimg.com/ictxvGIcFUSzFtPTrPv5VyJ8GFA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/T/k1WBvTS3aVk3T1a4vQlg/montagens-1920-x-1080-px-2026-08-22t100607.434.png"
+    },
+    {
+      "titulo": "Fazendeiro é preso por furtar energia para irrigar lavoura de café em Rondônia",
+      "imagem": "https://s2-g1.glbimg.com/9IbMChjDsZal433LQ-PpivA-t9U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/R/BasbxAQoyBDl8lYOlJrQ/foto-prisao-nova-brasilandia.jpeg"
+    },
+    {
+      "titulo": "Dia do Folclore: autor de livro sobre Comadre Florzinha explica por que encantados não devem ser tratados como 'lendas'",
+      "imagem": "https://s2-g1.glbimg.com/hHiF9EaRsAkETYfx4RAMSJHQdyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/O/m2WBKtSIqjACDtCNs2cg/whatsapp-image-2026-08-21-at-12.09.47.jpeg"
+    },
+    {
+      "titulo": "Concurso da Sesau: Banca organizadora é definida em RO",
+      "imagem": "https://s2-g1.glbimg.com/Jp-kMagKKXDOiWfFejsP5i9kApA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/AoZHq1QGafRnIdg0jZWA/2148502216.jpg"
+    },
+    {
+      "titulo": "'GTA 6': Justiça autoriza empresa a intimar Microsoft e Discord sobre vazamentos",
+      "imagem": "https://s2-g1.glbimg.com/I4W-_YElSvBSpM5LvPoGCtjlVW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/E/3kUgGWQ4ClO89jfRVBOg/captura-de-tela-2025-05-02-093420.png"
+    },
+    {
+      "titulo": "Michael Wright, ator de 'Oz' e 'O Exército Inútil', morre aos 70 anos",
+      "imagem": "https://s2-g1.glbimg.com/r9DYjocDA2i17FIJUiQCN_hrh7M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/1SqCumRdWBkqep0IATRA/michaelwright.jpg"
+    },
+    {
+      "titulo": "Condenado por matar mãe e filha grávidas não volta de ‘saidinha’ de Dia dos Pais no RJ; quase 200 são procurados",
+      "imagem": "https://s2-g1.glbimg.com/p66FrKCWiDtB2UiT1LvdeQVN4LA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/V/rnscvUTKWRoPGImFYvBA/imagem-cortada-24-.jpg"
+    },
+    {
       "titulo": "Prefeitura prorroga estado de calamidade pública após tragédia que deixou 66 mortos em Juiz de Fora",
       "imagem": "https://s2-g1.glbimg.com/Qs21qbJ_mfm3BY5xt6K2Im-P8GY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/D/ObGRS9SeAQB3b7D74htA/whatsapp-image-2026-08-17-at-14.37.52-1-.jpeg"
     },
@@ -59,67 +119,7 @@
     {
       "titulo": "Incêndio atinge área de vegetação de 2 mil m² em Taubaté, SP",
       "imagem": "https://s2-g1.glbimg.com/MpsPRuif8ExjnZ5EaKhI3ofW1P0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/S/iZhY3iRv6wkRnUhZ8eYQ/texto-do-seu-paragrafo-2026-08-22t091921.022.png"
-    },
-    {
-      "titulo": "Motociclista fica gravemente ferida após bater em carro na BR-262, em Nova Serrana",
-      "imagem": "https://s2-g1.glbimg.com/wzkpF2iKdCEMmyeVCISeJRAODF4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/r5hBwRReeQA8HL0L7jAQ/whatsapp-image-2026-08-22-at-08.39.59.jpeg"
-    },
-    {
-      "titulo": "Chefe do CV no Rio ordenou cobrança de R$ 200 mil para autorizar campanha eleitoral em cidade do Ceará, diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/PEEKhLwOd0d9YGFeyiYfI17BoMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/O/5T5TG2TAKc0apdWUph3A/presos-forquilha.jpg"
-    },
-    {
-      "titulo": "Homem com mandado por violência doméstica é preso na Via Dutra, em Porto Real",
-      "imagem": "https://s2-g1.glbimg.com/vY-FzMTn6Mpyqn5Bkc1j9eJ202c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/r/N/EKfKqFQBuaXr4ZwR3AFw/whatsapp-image-2021-04-20-at-09.49.56.jpeg"
-    },
-    {
-      "titulo": "Obra de viaduto muda trânsito em rodovias de Cuiabá por 90 dias; veja",
-      "imagem": "https://s2-g1.glbimg.com/QKW4qpW7h0gsySfYomwAS_jlo6w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/z/R35WdXQu6UnbMigLuPrA/foto-g1-2026-08-22t081305.473.png"
-    },
-    {
-      "titulo": "Mais de 200 cidades do Piauí têm alertas de baixa umidade neste sábado (22); veja lista e previsão",
-      "imagem": "https://s2-g1.glbimg.com/lFOktajT2-HEcRbjaTozS4hmdg0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/e/jHpdTpQXStWMf4Dq6pNw/edicao-imagens-g1-6-.png"
-    },
-    {
-      "titulo": "Empresa de telemarketing abre 200 vagas de emprego em Feira de Santana; veja como se candidatar",
-      "imagem": "https://s2-g1.glbimg.com/ecg0ZzeswwsWsXT17AvLOkOf-Hc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/r/u2vcPAQ5ybwowJLOfSiQ/fant-pae-golpe-aposentados-10-frame-2656.png"
-    },
-    {
-      "titulo": "Irã diz que recebeu mensagem de países vizinhos em busca de novos acordos após ameaças de Trump",
-      "imagem": "https://s2-g1.glbimg.com/gpRDhEfGn5NU0Vmqe464OAqLgRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Q/hczGqLRrClaRPwiIuV1w/2026-08-18t101219z-788622351-rc2c6maaliss-rtrmadp-3-iran-crisis-hormuz.jpg"
-    },
-    {
-      "titulo": "Mulher morre após ser esfaqueada durante briga com companheiro em Salvador",
-      "imagem": "https://s2-g1.glbimg.com/Q3_kYgptHkJCKQzrv74AsLHmKSw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/z/k/ugb3XJQa2fRAJxxOABOA/whatsapp-image-2023-12-18-at-12.16.33.jpeg"
-    },
-    {
-      "titulo": "O que significa que o vinho é “Reserva”?",
-      "imagem": "https://s2-g1.glbimg.com/ZU1rdQANTlSc-DKudpEkmGH2gog=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/m/Wz7FZjQrSk20O2IkUo0Q/capa-c-1.jpg"
-    },
-    {
-      "titulo": "8 tendências que estão redefinindo o mercado imobiliário de luxo",
-      "imagem": "https://s2-g1.glbimg.com/5a_RPMs6R_SMzBSpANIaghAUU7A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/5/6RSTe0QnKA82EXpaAjuQ/imagem-1-informe-16.png"
-    },
-    {
-      "titulo": "Dia D de multivacinação tem atendimento em 13 unidades de saúde em Boa Vista; confira",
-      "imagem": "https://s2-g1.glbimg.com/rDfRlTMbIUqUNlQAoJ8xtNDxTT4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/s/Tk3CTwSsCW3UWAmAEaGQ/40-vacina09-destaque.jpg"
-    },
-    {
-      "titulo": "Operação fecha garimpos e apreende R$ 19 milhões em madeira e materiais no AP e PA",
-      "imagem": "https://s2-g1.glbimg.com/RKwkVA5OX3-VlodzIwwU6dwTduo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/C/s/ABCzgUQOKUi0GIyItTKg/img-4640.jpg"
-    },
-    {
-      "titulo": "Empreendimentos em áreas com geoglifos precisarão de anuência do Iphan no Acre",
-      "imagem": "https://s2-g1.glbimg.com/57dXTR-MsyIx1gvjzveTwKLR20Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/F/Z/ASoiB9SOa4Mg0b0ZBc2Q/geo5-1536x1022.jpg"
-    },
-    {
-      "titulo": "STTU publica lista de veículos autuados em Natal; veja como consultar",
-      "imagem": "https://s2-g1.glbimg.com/rV8mbzqAfeAVXLLyZFCKuK1rUmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/T/G/DUFeXbROKay7lDsJJcAA/whatsapp-image-2024-08-26-at-09.58.29.jpeg"
-    },
-    {
-      "titulo": "Prefeita de Praia Norte é cassada após vereadores formarem maioria em sessão extraordinária",
-      "imagem": "https://s2-g1.glbimg.com/xuC3HpP8eV2RUEflVAWI514_jOE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/B/CcmDAIRAeVSLEjBXE72A/foto-e-montagem-vertical-7-.png"
     }
   ],
-  "atualizadoEm": "2026-08-22T12:52:49.606Z"
+  "atualizadoEm": "2026-08-22T13:28:04.272Z"
 }
