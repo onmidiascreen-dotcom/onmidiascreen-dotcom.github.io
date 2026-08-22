@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "EUA impõem tarifas de 50% ao Canadá após falta de acordo",
+      "imagem": null
+    },
+    {
       "titulo": "Regina Duarte: “Não vou responder em quem eu vou votar”",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Lula decide não ir a debate presidencial e Flávio não deve comparecer",
       "imagem": null
-    },
-    {
-      "titulo": "CNN Brasil estreia &#8220;O Grande Debate Eleições&#8221; na próxima segunda (24)",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T04:37:43.975Z"
+  "atualizadoEm": "2026-08-22T05:04:10.386Z"
 }
