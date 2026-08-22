@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Datafolha: Lula lidera entre mulheres e mais pobres, e Flávio Bolsonaro, entre evangélicos",
+      "imagem": null
+    },
+    {
       "titulo": "'Tropa do Ódio': novas imagens mostram espancamento de homem em Copacabana",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Teatro Oficina se junta a filho de Glauber Rocha para homenagem que une teatro e cinema",
       "imagem": null
-    },
-    {
-      "titulo": "Pioneira na literatura lésbica, Cassandra Rios terá sua obra reeditada no Brasil",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T03:14:33.402Z"
+  "atualizadoEm": "2026-08-22T03:58:35.188Z"
 }

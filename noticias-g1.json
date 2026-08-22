@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "João Gomes cita Chico Science e destaca valor da tradição para o Dominguinho: 'Alguns mestres precisam ser reverenciados'",
+      "imagem": "https://s2-g1.glbimg.com/ltd-irxDYikhELRVvmRzMW2nVRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/z/MI968TTRGuyFlPFp1hWA/dominguinho-natallyaciolirafaelapaixaog1.jpeg"
+    },
+    {
       "titulo": "Macaé amplia palestras sobre direitos das mulheres durante o Agosto Lilás",
       "imagem": "https://s2-g1.glbimg.com/eMKDNEC_Yl2p99c_5UtXzSC133k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/p/lLYABrRt2QKEjfjHTZvg/foto-1-agosto-lilas.jpeg"
     },
@@ -77,7 +81,7 @@
       "imagem": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
     },
     {
-      "titulo": "Ana Castela volta ao palco de Barretos e anota mais um capítulo na história do rodeio",
+      "titulo": "Ana Castela volta ao palco de Barretos e anota mais um capítulo de sucesso na sua história com o rodeio",
       "imagem": "https://s2-g1.glbimg.com/j02Y79Edjkn0R5c9W8GmibderRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Q/Z9nfQBTXOoec5uyXyiQg/ana-frame-2-.jpg.jpeg"
     },
     {
@@ -115,11 +119,7 @@
     {
       "titulo": "Samara Martins, candidata à Presidência pelo partido Unidade Popular, passa o dia em BH",
       "imagem": "https://s2-g1.glbimg.com/ffVX4rzshDh74wa2s-9smx9HgWY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/w/N70al9T86PL0xsBOLkng/globo-canal-4-20260821-2000-frame-140682.jpeg"
-    },
-    {
-      "titulo": "Exército comemora o dia do Soldado com concerto e homenagens em Roraima",
-      "imagem": "https://s2-g1.glbimg.com/iFFYIeqt0FgbKjUhbodF3OHQK5I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/B/eSmP8uR9AICLH5MAZRZQ/concerto.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-22T03:14:35.088Z"
+  "atualizadoEm": "2026-08-22T03:58:36.145Z"
 }
