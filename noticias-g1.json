@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "Ronaldo Caiado, candidato do PSD à Presidência, esteve com prefeitos da região de Campinas",
+      "imagem": "https://s2-g1.glbimg.com/wHDwAgdQx_oW85_I3ZqJDaOT3so=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/f/2Z5SdKTciLrxHq04zr9g/videoframe-2868575.png"
+    },
+    {
+      "titulo": "Renan Santos, candidato à Presidência pelo Missão, faz campanha na Zona Sul de SP",
+      "imagem": "https://s2-g1.glbimg.com/OO_jxE0FnkE0cWBoVqm21Lf3fGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/p/6WRC53QzmvBBW8RrlpOA/videoframe-2787636.png"
+    },
+    {
+      "titulo": "Festa do Peão de Barretos aposta em diversidade musical e espera mais de 900 mil visitantes",
+      "imagem": "https://s2-g1.glbimg.com/LSyBZ320gPTE8fLUkCWISI6r57c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/jqNcGZQV6jgtszpxiFAA/videoframe-2325708.png"
+    },
+    {
+      "titulo": "Eleições 2026: saiba como foi o dia do candidato Eduardo Braide ao governo do Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/cK70OYFQhkyptPABQSzdoMLle18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/u/hYDb9XSoib6OmfBJJZaw/eduardo-braide.jpg"
+    },
+    {
+      "titulo": "Rua Ferreira Pena será interditada para obras da 1ª 'Rua Gastronômica' de Manaus; trânsito será desviado",
+      "imagem": "https://s2-g1.glbimg.com/v34Ofnn1LtHIj3cEN01jjJQeY8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/b/yK1pnDS2yyI7cFN5nocA/rua-ferreira-pena-no-centro-historico-de-manaus-foto-joao-viana-semcom.jpg"
+    },
+    {
+      "titulo": "Mutirão em Palmas vai acelerar atendimento de saúde para quem recorreu à Justiça",
+      "imagem": "https://s2-g1.glbimg.com/AqGjYdKFSbccJSM_-hxYBw5Ei_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/9/V/AFhmhiQMminv8zj6lGgg/fachada-semus-foto-raiza-milhomem-1-1-.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: saiba como foi o dia do candidato Felipe Camarão ao governo do Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/zCMPuXM3JgRiAXVfvUNkXaEbcvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/o/i9wuiMST6eX2oAf4ITBw/felipe-camarao-sabado.jpg"
+    },
+    {
+      "titulo": "Conta de luz: consumidor poderá escolher fornecedor de energia; mudança promete economia",
+      "imagem": "https://s2-g1.glbimg.com/F36va026ECkYyoCmp8WH49tTE4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/K/PpjV5KSsaYoeyEiuFXwg/videoframe-2077400.png"
+    },
+    {
+      "titulo": "Eleições 2026: saiba como foi o dia do candidato Roberto Rocha ao governo do Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/ivQgCaYC-10mQsrOfbnkQ9emFA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/R/B6BL8BQ9iJIxdmsHWWBQ/roberto-rocha-.jpg"
+    },
+    {
       "titulo": "Eleições 2026: saiba como foi o dia do candidato Saulo Arcangeli ao governo do Maranhão",
       "imagem": "https://s2-g1.glbimg.com/4P44R-bJtP94tCB0Kbluv_AALvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/3/haAMrERSWLUfNRzq1KWA/saulo-arcangeli.jpg"
     },
@@ -83,43 +119,7 @@
     {
       "titulo": "Escritor e jornalista Homero Fonseca morre aos 77 anos no Recife",
       "imagem": "https://s2-g1.glbimg.com/M-3j2HtjRo1VIwKA_AnHBBolDnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/O/PTwMOVQ0KYZHBgIT8FeA/homero.png"
-    },
-    {
-      "titulo": "VÍDEOS: GR2 de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/1pGtpYe04HOMaPZYnNkMdJ74jC4=/s01.video.glbimg.com/deo/vi/52/34/14893452"
-    },
-    {
-      "titulo": "Veja agenda de campanha dos candidatos ao governo de MG neste sábado",
-      "imagem": "https://s2-g1.glbimg.com/51YEYUVNj8oQRu2h8a0WF-CiZbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/57q383RYyDBUhmrLzPqw/2.jpg"
-    },
-    {
-      "titulo": "Dr. Furlan participa de caminhadas e reuniões em Mazagão e Macapá",
-      "imagem": "https://s2-g1.glbimg.com/DzPeYcIqFTuStn0xSpmqWOyM8_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/J/Gaq6QWRhiXUQTVD5vOBA/whatsapp-image-2026-08-20-at-12.57.19.jpeg"
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Carro pega fogo e mobiliza bombeiros em Santos; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/raxJkrRtBVSYmN-te_rwTQkWujE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/A/cdBeCVQpecV2zQ1qX4uA/carro-fogo.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: NE2 de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/Q636fVDH3IvCmr7IhzJuMFwSa80=/s01.video.glbimg.com/deo/vi/66/34/14893466"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Liberal",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista ao Boa Noite Espírito Santo",
-      "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
     }
   ],
-  "atualizadoEm": "2026-08-22T23:43:50.363Z"
+  "atualizadoEm": "2026-08-22T23:58:27.656Z"
 }

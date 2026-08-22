@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Fluminense vira sobre o Remo e se mantém firme no G-4 do Brasileirão",
+      "imagem": null
+    },
+    {
       "titulo": "Borges: Tarcísio mira em 2030 ao dizer que quer ver Lula e Flávio em debate",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Colisão entre carro e moto deixa duas mulheres feridas em cruzamento de Arapongas",
       "imagem": null
-    },
-    {
-      "titulo": "Os filhos picaretas dos presidentes",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T23:43:49.899Z"
+  "atualizadoEm": "2026-08-22T23:58:26.736Z"
 }
