@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "UE denuncia 'terror premeditado' da Rússia após ataque que matou 16 pessoas em shopping na Ucrânia",
+      "imagem": null
+    },
+    {
+      "titulo": "Por que as crianças de fazendas costumam ter menos alergias",
+      "imagem": null
+    },
+    {
       "titulo": "Caí do sétimo andar, perdi a visão e parte da perna após uso de zolpidem, diz médico",
       "imagem": null
     },
@@ -51,15 +59,7 @@
     {
       "titulo": "Estudo com camundongos aponta que se abster de álcool pode elevar risco de posterior consumo compulsivo",
       "imagem": null
-    },
-    {
-      "titulo": "Biografia de Carlos Lacerda narra virulência com que defendeu do comunismo ao golpismo",
-      "imagem": null
-    },
-    {
-      "titulo": "Deputada dos EUA vê tentativa de Trump de interferir na eleição do Brasil e diz que democratas agirão",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T07:35:27.123Z"
+  "atualizadoEm": "2026-08-22T07:59:52.770Z"
 }
