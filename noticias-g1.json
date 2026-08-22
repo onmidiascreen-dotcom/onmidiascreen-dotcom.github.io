@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "Rússia acusa Ucrânia pela morte de 6 civis em ataques com drones",
+      "imagem": "https://s2-g1.glbimg.com/TbYw898fdQenMe8dVL7nsrfGhm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/N/nwQ4oQTvu6YAms79M9mQ/2026-08-21t155218z-1164679702-rc233na0l0ga-rtrmadp-3-ukraine-crisis-attack-kryvyi-rih.jpg"
+    },
+    {
+      "titulo": "Fraldas no lugar de videogame: Saiba o que fazer quando a compra online chega errada",
+      "imagem": "https://s2-g1.glbimg.com/KPZug3HRanF-VqupWaNFjEIticM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/4/sAIiRdRRKdlxCXTUMdWQ/videogame-amazon.jpg"
+    },
+    {
+      "titulo": "Bandidos fazem live pra mostrar furto de moto no litoral de SP; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/z6XwEMrIdq6qug__9SVvCLzx4Mg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Q/LRmcmjSo6iprqsbCYJIw/inserir-um-titulo-2026-08-21t163912.663.jpg"
+    },
+    {
+      "titulo": "Peixe recém-descoberto na Amazônia já enfrenta risco de desaparecer, aponta estudo",
+      "imagem": "https://s2-g1.glbimg.com/PechDjxDHG1B_74uvWI52JbPjDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/G/bO96yNTBAXXOBAWK36mA/oo-1751005.jpg"
+    },
+    {
+      "titulo": "Adolescente reage a assalto e luta com criminosos no litoral de SP; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/5j9e2JOYvWLxP1VbzcNPKpQfb_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/e/25zCtUQRAQHiMeA2mkBQ/inserir-um-titulo-2026-08-21t121307.208.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Piloto do Corpo de Bombeiros flagra laser apontado para aeronave durante voo noturno em Divinópolis",
+      "imagem": null
+    },
+    {
+      "titulo": "Sergipe realiza Dia D de Multivacinação neste sábado",
+      "imagem": "https://s2-g1.glbimg.com/ITWHYPgwa_9nB0Z1_BPJNNzVBWs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/o/j/TkNOA1Q52p78is4YHYqA/ses2.jpg"
+    },
+    {
+      "titulo": "Inspirado por visão de Nossa Senhora, artista do interior de SP leva obras feitas com a ponta dos dedos ao exterior",
+      "imagem": "https://s2-g1.glbimg.com/IdJuI783DRWXuUvicFMHpTlVCYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Q/Gomk8uQO6JrkiK3x1lHA/design-sem-nome-12-.png"
+    },
+    {
+      "titulo": "Você Viu? Venda de corpos do Hospital Colônia, homem detido por ameaça a candidato e ex-detento consegue internato de Medicina",
+      "imagem": "https://s2-g1.glbimg.com/gnNFgoACgfIYFe2czuGpNAf08HI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/s/sBmcDSRQa21vZHcbrGIw/vc-viu-1.jpg.jpeg"
+    },
+    {
+      "titulo": "'Dia D' de Multivacinação acontece neste sábado (22) para crianças e adolescentes; veja locais em João Pessoa e Campina Grande",
+      "imagem": "https://s2-g1.glbimg.com/AmrPWFXEBVJyW075vL_h8WCmBac=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/U/OBg6KlTeud3VteALLsMA/poliomielite-2-.jpeg"
+    },
+    {
+      "titulo": "O que se sabe e o que falta saber sobre o foguete da Innospace que teve voo interrompido no MA",
+      "imagem": "https://s2-g1.glbimg.com/revVIhR1_xxg6RRpx7wjJYKjYpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/J/8B8YQCRriPbrgIhABCFA/montagens-1920-x-1080-px-49-.jpg"
+    },
+    {
+      "titulo": "Como é a Praia da Sepultura, paraíso que teve acesso restringido por portão particular e virou alvo judicial em SC",
+      "imagem": "https://s2-g1.glbimg.com/GYj4cNLvY4iTDucYuUEimg2n5mY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/j/ZZjoEUR0ehJ9VhxdnOyg/praia-da-sepultura-em-bombinhas-local-em-que-portao-particular-foi-instalado.jpg"
+    },
+    {
+      "titulo": "Exército simula guerra na Amazônia em ataque com blindados e sensores inteligentes",
+      "imagem": "https://s2-g1.glbimg.com/xD9EmcRvpP_xsHGm15aCBYcv4Bo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/S/zGYL2vRA64LYgsMR0qYA/20260820-073058.jpg.jpeg"
+    },
+    {
+      "titulo": "'Um menor sonhador': Quem é MC Chaverin, artista de Uberlândia que viralizou com o Coral das Quebradas",
+      "imagem": "https://s2-g1.glbimg.com/yBD0CCrb5e8CcrtybcWMMzTwsLk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/A/o8FWfmTniqxquaeYSwwQ/voce-viu-1-.png"
+    },
+    {
+      "titulo": "Anaïs Sylla canta com Jota.Pê e verte João Donato e Gilberto Gil para o francês na rota intercontinental do álbum 'Exil'",
+      "imagem": "https://s2-g1.glbimg.com/8kXpiN2TRCaQgyEifsLEXyl_se0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/HCVTgEQQiiAz0rG53QLw/260910-anais8144-1-web.jpg"
+    },
+    {
+      "titulo": "Copacabana Palace ganha novo edifício com 68 suítes, spa de cinco andares e bar exclusivo; diárias chegam a R$ 35 mil",
+      "imagem": "https://s2-g1.glbimg.com/eQhWI2n1JUCm6dINvPrTGyDRSmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/q/zOZhqWQiORkiwyr9oQww/cop-acc-room01.avif"
+    },
+    {
+      "titulo": "Beneficiários que vendem e alugam casas populares de forma irregular podem perder imóveis em Palmas",
+      "imagem": "https://s2-g1.glbimg.com/QPFi4Z6pjsX1ehr9iETy5Wr27rk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/c/h/TEaua5QjWQoxw59t3Q0w/porto-real.jpg"
+    },
+    {
+      "titulo": "Presidente de rede de hospitais de SP é afastado após acusações de assédio sexual e racismo contra funcionárias",
+      "imagem": "https://s2-g1.glbimg.com/Hj6XeK6vzTsu-TEBUA5QC_EWreM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/9/JW8S2LRVuT278SICoZBQ/fotojet-62-.jpg"
+    },
+    {
+      "titulo": "FitDance promove convenção com dança, música e esporte neste fim de semana em Salvador",
+      "imagem": "https://s2-g1.glbimg.com/fQ6H_wT6JMqP1WRF3dRrgJX_OuE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/V/BfZwNyTpGmj1hweiNajw/whatsapp-image-2026-08-21-at-21.32.38-1-.jpeg"
+    },
+    {
       "titulo": "FOTOS: Natanzinho Lima diverte público em estreia na Festa do Peão de Barretos 2026",
       "imagem": "https://s2-g1.glbimg.com/4DSB0rdectufYmKgnAnJSsOMv78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/s/X4r6qfQXW7FQmukmgibg/dsc-0582.jpg"
     },
@@ -43,83 +119,7 @@
     {
       "titulo": "Guerra no Irã faz países do Golfo acelerarem planos para driblar Estreito de Ormuz",
       "imagem": "https://s2-g1.glbimg.com/zsmfODQH5bmwVuFzpBJBlU2RTMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/U/IueoH0RuiQRx5MJuKhcw/2026-08-17t134126z-1571278001-rc2c0naakvh3-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
-    },
-    {
-      "titulo": "Nova fiscalização da Lei Seca prevê testes para uso de drogas; veja como vai funcionar na Bahia",
-      "imagem": "https://s2-g1.glbimg.com/TBccODBl9f4fkrXd2RQgUf3jWdE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/s/cbmLLAT6WRTZ1WHdolAw/whatsapp-image-2026-08-19-at-21.57.09.jpeg"
-    },
-    {
-      "titulo": "Petrobras e Pemex fazem acordo para explorar petróleo, mas especialistas veem risco de ‘letra morta’",
-      "imagem": "https://s2-g1.glbimg.com/fImAoWB9CZRTXIsdVrwK0rhGYFU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/Q/7IciAqQV6Ax3k9OVtsBA/76818686-906.jpg"
-    },
-    {
-      "titulo": "Cidade de SC com arranha-céus mais altos do país terá novo gigante — e entre os maiores da América Latina",
-      "imagem": "https://s2-g1.glbimg.com/TswuSJmvjE8DvAQYSaBkEKZJ2FQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/e/pfNVjOTg22P1VIYJeduA/novo-arranha-ceu-de-balneario-camboriu-que-pretende-ser-um-dos-maiores-da-america-latina-tera-400-metros-e-mais-de-100-andares-.png"
-    },
-    {
-      "titulo": "Conheça a história da potiguar que inspirou a nova novela das 7, 'Por Você'",
-      "imagem": "https://s2-g1.glbimg.com/ZQxXn4bQzq7aT5a1oz7sg_MBvPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/W/p2Qu29Rdawn6Jp5kjenw/whatsapp-image-2026-08-21-at-18.58.00.jpeg"
-    },
-    {
-      "titulo": "Cidade do Acre pode estar sobre falha geológica ainda desconhecida, aponta estudo",
-      "imagem": "https://s2-g1.glbimg.com/fAkAD3n_-oEXIgcBXiqcYALu4qA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/Q/EzII10TVeZ98UeIpn9BA/midia-de-distribuicao-g1-30-.png"
-    },
-    {
-      "titulo": "Viaduto Santa Tereza com mão dupla: veja como era o Centro de BH antigamente",
-      "imagem": "https://s2-g1.glbimg.com/Sr1h0-8HE4tfd6UDhkRZovEO-Bg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/d/FPBwNfScABCJ5Y5wNNCg/9528.jpg"
-    },
-    {
-      "titulo": "VÍDEO: pescador se distrai e leva mordida de dourado em MT",
-      "imagem": "https://s2-g1.glbimg.com/1zR5H6ZlaidgUl0J7OstscQCoig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/4/WrfehvQBaXA8vfuBR2uw/foto-g1-48-.png"
-    },
-    {
-      "titulo": "Temperatura x sensação térmica: entenda por que sentimos mais calor do que indica o termômetro em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/NKuUsqbH3MTzdT9mI2aB-RfOUto=/s.glbimg.com/jo/g1/f/original/2014/10/20/05_1.jpg"
-    },
-    {
-      "titulo": "Air fryer, micro-ondas e até toalhas de banho: veja bens furtados de imóvel após homem emprestar conta do Airbnb para estranha",
-      "imagem": "https://s2-g1.glbimg.com/td2NZUc7SAqpS2450PAo9dnugiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/k/xkqVR0RxOXOK89fgJmRg/delegacia-policia-civil-patos-de-minas.jpeg"
-    },
-    {
-      "titulo": "Entenda o que aconteceu no Hospital Colônia de Barbacena, onde milhares morreram e corpos foram vendidos a faculdades",
-      "imagem": "https://s2-g1.glbimg.com/UxcgRTJ9NiyvG8Ak28cTUEXahz8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/d/MCBboqQWiAN8nvZSG8tg/hospital-colonia-de-barbacena.jfif"
-    },
-    {
-      "titulo": "Nattanzinho Lima abre show no meio da arquibancada lotada da arena de Barretos e leva público ao delírio",
-      "imagem": "https://s2-g1.glbimg.com/rg3NteokkvZy96OoRlTXUi-BIFY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/n/L8n7FwRMW9dJXQCUamWQ/dsc-0638.jpg"
-    },
-    {
-      "titulo": "As 10 empresas em que os jovens mais sonham em trabalhar; veja ranking e o que eles valorizam",
-      "imagem": "https://s2-g1.glbimg.com/6ChQ8U3N5Z2N_jvb_4s0817vmxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/T/ISf65hTrO9NyKKUBmV0Q/ezgif.com-optimize.gif"
-    },
-    {
-      "titulo": "Como será o supercomputador brasileiro de IA com investimento de R$ 1 bilhão",
-      "imagem": "https://s2-g1.glbimg.com/ImAGbQO7jbJ8hArX-2j_ORW2oMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/M/ZLv6WmRdAnM8eCXBSxsg/data-center-meta.jpg"
-    },
-    {
-      "titulo": "Ceuta começa a enterrar imigrantes não identificados; túmulos receberam apenas números",
-      "imagem": "https://s2-g1.glbimg.com/EWcQWscuJAe3L4OhMOiWDkNyDis=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/h/CZpla0Tb2e7nRjJxRBNg/ezgif.com-optimize-44-.gif"
-    },
-    {
-      "titulo": "Como racha de aliados levou Ciro e Elmano a lados opostos na disputa pelo governo do Ceará",
-      "imagem": "https://s2-g1.glbimg.com/t9DviyOGKzHAwJHX0yhXO82fvUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/N/6W7A0YSemv7jvLrjn5eg/ciro-e-elmano-2.jpg"
-    },
-    {
-      "titulo": "Cinco mulheres relatam novos casos suspeitos contra tatuador preso por estupro no RS",
-      "imagem": "https://s2-g1.glbimg.com/n7PAnE05pNiS_luYYSZLZlEBOx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Y/LPThOTT0SfAQQm3kCadg/g1-17-.jpg"
-    },
-    {
-      "titulo": "O que candidatos ao governo de MG propõem para combater feminicídios e facções",
-      "imagem": "https://s2-g1.glbimg.com/-Fx--hUJe1gYELtkGzZ0JpA4F0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/p/a/sAPT71THadp55IS3qHeg/800e7df2-cde3-442d-bc11-1c86217f45ee.jpg"
-    },
-    {
-      "titulo": "BH tem campanha de multivacinação neste sábado; veja quem pode se vacinar e os pontos extras",
-      "imagem": "https://s2-g1.glbimg.com/JbLYZVZ6sioEYImZhaIrNiplqnQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Y/9ncaHMSViRhw1mnGesAA/captura-de-tela-2026-08-07-163150.jpg"
-    },
-    {
-      "titulo": "Após foto da Nasa, relembre outros momentos em que os Lençóis Maranhenses ganharam destaque mundial",
-      "imagem": "https://s2-g1.glbimg.com/MQPM5WJre85NUIXBgOTXRD6g8gw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/j/Vx41YgTSA9qwp7THngCg/nasa-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-22T09:02:40.870Z"
+  "atualizadoEm": "2026-08-22T09:40:54.727Z"
 }
