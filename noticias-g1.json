@@ -1,6 +1,54 @@
 {
   "noticias": [
     {
+      "titulo": "Vídeo: homem rouba loja, leva celular de funcionária e liga ameaçando voltar para estuprá-la, em Fortaleza",
+      "imagem": "https://s2-g1.glbimg.com/TzYIZ15u_reZ6cuywdAYUu6-89E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/q/BLglAzRoqupobG9zvQiw/criminoso-loja-roupas.jpg"
+    },
+    {
+      "titulo": "Pássaro junino promove espetáculo gratuito em Belém",
+      "imagem": "https://s2-g1.glbimg.com/-3vqu_riim4llzcVWspIzjjWVws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/U/gyS9KfR8ayCa845heyRA/espetaculo-passaro-junino-1-.jpeg"
+    },
+    {
+      "titulo": "Ale-RR recorre ao STF contra decisão que autoriza candidatura de Jalser Renier",
+      "imagem": "https://s2-g1.glbimg.com/uXTrkY8qY4bwDlHLHRgZ04ksnxk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/S/5ZHze9Rouzle0TobNiXg/jalser-.jpg"
+    },
+    {
+      "titulo": "Datafolha no RJ: Flávio Bolsonaro, 41%; Lula, 36%; Renan Santos; 3%; Ronaldo Caiado; 2%; Augusto Cury, 2%; Zema, 2%",
+      "imagem": null
+    },
+    {
+      "titulo": "Datafolha em PE: Lula, 56%; Flávio Bolsonaro, 24%; Ronaldo Caiado; 2%; Renan Santos; 2%; Zema, 1%; Augusto Cury, 1%",
+      "imagem": null
+    },
+    {
+      "titulo": "Prazo para Prefeitura de Palmas retomar UPAs termina; veja como fica o atendimento",
+      "imagem": "https://s2-g1.glbimg.com/t5nF_RvNOq1Nm4fNJXSNI1z9dSU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/M/m/yZAwGLRRqv77UqE0vlCg/leiros-upa.jpeg"
+    },
+    {
+      "titulo": "Escolas da Baixada Santista e Vale do Ribeira receberão usinas solares em projeto de R$ 6 milhões; entenda",
+      "imagem": "https://s2-g1.glbimg.com/kJI7ApSBsSWAWs7KfaVJnJdJ7iI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/h/tr577FSJ20KvB4Zb1KPA/foto-tradicional-4-.png"
+    },
+    {
+      "titulo": "Datafolha no DF: Flávio Bolsonaro, 39%;  Lula, 31%; Ronaldo Caiado; 10%; Renan Santos; 3%; Zema, 2%; Augusto Cury, 1%",
+      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
+    },
+    {
+      "titulo": "Datafolha em SP: Flávio Bolsonaro, 37%; Lula, 33%; Renan, 5%",
+      "imagem": "https://s2-g1.glbimg.com/3iHj6s8TY95lizYfu40pGHXhVVA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/WttqeCTaWWzxHe9EkvKQ/presidenciaveis-02.jpg"
+    },
+    {
+      "titulo": "VÍDEO: BMW bate contra poste de energia elétrica em avenida no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/QYmOo2NFZi8BWktt1JiVdPppqxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/HmAEHASEKYtnenzRq59A/acidente-poste-sao-joao-1-.jpg"
+    },
+    {
+      "titulo": "Datafolha em MG: Lula, 37%; Flávio Bolsonaro, 31%; Zema, 10%",
+      "imagem": null
+    },
+    {
+      "titulo": "VÍDEO: pai se ajoelha enquanto policiais salvam bebê de dois anos engasgado no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/G7vVuR5eYxFVybttVF4H8khTHe4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/U/kfhQAeR4CcJj0oEdAjqg/formato-padrao-imagens-g1-2026-08-22t165046.712.png"
+    },
+    {
       "titulo": "Motociclista morre após acidente entre 4 veículos em avenida de Várzea Paulista",
       "imagem": "https://s2-g1.glbimg.com/aDO91wQVBARvLDmQv7T6_DVyvlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/w/5a3DrcRAAVmzAAKybULg/whatsapp-image-2026-08-22-at-18.10.41.jpeg"
     },
@@ -71,55 +119,7 @@
     {
       "titulo": "Como a falta de mulheres na China faz homens caírem em golpes de falsas noivas e perderem milhões",
       "imagem": "https://s2-g1.glbimg.com/8LYp0cmOK7eqG_RJIMSTTMN7Vo4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/n5FxiOTP6FFQILPINIFw/489df330-94d2-11f1-8a9a-13c674e4e5fe.jpg.webp"
-    },
-    {
-      "titulo": "Vigilantes têm armas roubadas e motorista é feito refém em tentativa de assalto a caminhão em Jarinu",
-      "imagem": "https://s2-g1.glbimg.com/8My85w90IgFaMHp57rd5AfeDYiM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/x/5KtIoLQsCbob28p6aeHw/sor-img-recupera-carga-220826-frame-447.jpeg"
-    },
-    {
-      "titulo": "Caso Geovana: réus vão a júri popular pela morte de babá que era explorada sexualmente pela patroa em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/eGmh96793cpp4PvFo8epwn5cWmw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/C/TQqwwAQMWwZixtPe94RQ/captura-de-tela-2026-08-22-163216.png"
-    },
-    {
-      "titulo": "Nora é presa após confessar ter matado sogra em MT e diz que teve surto",
-      "imagem": "https://s2-g1.glbimg.com/L_qhqrsvPwUaJfftSfDjr-ruECI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/T/vH2u8WSReUuqPwq7gBlw/foto-g1-52-.png"
-    },
-    {
-      "titulo": "1ª Feira Nordestina reúne gastronomia, cultura e shows em Guarujá; veja a programação",
-      "imagem": "https://s2-g1.glbimg.com/7sRLolhqAoAM5pAXv3VCbe8hoPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/S/sittQ7TlO1xTVWqq7gxw/foto-festa-nordestina.jpg"
-    },
-    {
-      "titulo": "Teresa Surita declara mais de R$ 8,4 milhões em bens na disputa ao Senado por Roraima",
-      "imagem": "https://s2-g1.glbimg.com/rHofG0KQH97M47PkDjqno9t8DRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/c/T7MdFMSBeTwuhdHaMAaA/teresa-surita.jpg"
-    },
-    {
-      "titulo": "Linhas 11-Coral e 12-Safira têm mudanças na operação neste domingo",
-      "imagem": "https://s2-g1.glbimg.com/XfEeAoOIsqmahosRCO8sIc4YXxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/E/aVcPKyRreAKU2FdHabiw/whatsapp-image-2026-08-21-at-18.06.28.jpeg"
-    },
-    {
-      "titulo": "Polícia apreende drogas durante ação com cão farejador em comunidade de João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/OtjdiHg_IXbszBDExoDDiv-_JPk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/K/8lu4dmR529ds880c4gXA/fiscalizacao-esgoto-semam-2-.jpg"
-    },
-    {
-      "titulo": "Motociclista fica ferido após queda e é atendido por socorrista que passava no local",
-      "imagem": "https://s2-g1.glbimg.com/PsFCLVlqXpED2hpMJLQe5mIdzys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/t/GSrjNqQMGYRhO6AlIRBQ/midia-de-distribuicao-g1-40-.png"
-    },
-    {
-      "titulo": "Chefe de segurança do Irã ameaça retaliar vizinhos que apoiarem Trump: 'nem uma gota de petróleo sairá pelo Estreito de Ormuz'",
-      "imagem": "https://s2-g1.glbimg.com/bQk46W4Q61yyeIvEmSjCMSc9ThE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/U/RO5cXIRbyrnoClLyQqGA/2026-05-29t093129z-833218144-rc2wilaxyi3o-rtrmadp-3-iran-crisis-talks.jpg"
-    },
-    {
-      "titulo": "Quem são os candidatos em SC? g1 lança ferramenta com dados do TSE e páginas de todos os políticos",
-      "imagem": "https://s2-g1.glbimg.com/45x3iB_6sXO7NBvcSFUAZXHExMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/U/dy2rq1S4eq7lnZCJgu7w/candidatos-governo-sc.png"
-    },
-    {
-      "titulo": "Cadeira quebra ao vivo e locutor mantém programa em rádio no interior de SP: 'O coração acelerou'",
-      "imagem": "https://s2-g1.glbimg.com/bhxZHbyv2gJUkNk--JHK799o588=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/P/qAnNUkSOOAp3PiD0Bodg/cadeira.gif"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Bahia",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T21:27:33.654Z"
+  "atualizadoEm": "2026-08-22T21:47:48.588Z"
 }
