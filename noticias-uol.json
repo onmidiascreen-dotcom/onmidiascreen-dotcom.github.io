@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Os filhos picaretas dos presidentes",
+      "imagem": null
+    },
+    {
+      "titulo": "Luciano Hang doa prótese de R$ 80 mil a pedreiro que trabalhava sem uma perna em SC",
+      "imagem": null
+    },
+    {
+      "titulo": "Corregedoria prende policial civil sob suspeita de ligação com sequestro em São Paulo",
+      "imagem": null
+    },
+    {
+      "titulo": "Mulher achada acorrentada em GO diz que ex pôs panos com ácido na boca dela",
+      "imagem": null
+    },
+    {
       "titulo": "Saliva pode dar pistas sobre câncer de intestino",
       "imagem": null
     },
@@ -43,23 +59,7 @@
     {
       "titulo": "Homem é preso após tentar vender filho de 3 anos em praça de Belo Horizonte",
       "imagem": null
-    },
-    {
-      "titulo": "PRF registra 630 multas em dois dias de fiscalização por videomonitoramento na BR-116",
-      "imagem": null
-    },
-    {
-      "titulo": "Professor que mandou 204 e-mails a aluna mantém emprego no Reino Unido",
-      "imagem": null
-    },
-    {
-      "titulo": "Fundo pede arbitragem para evitar ofera pública de ações de mais de R$ 6 bilhões da Oncoclínicas",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja quanto candidatos à Presidência arrecadaram na 1ª semana de campanha",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T22:17:10.171Z"
+  "atualizadoEm": "2026-08-22T22:46:53.876Z"
 }
