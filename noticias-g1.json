@@ -1,6 +1,66 @@
 {
   "noticias": [
     {
+      "titulo": "Motociclista morre após acidente entre 4 veículos em avenida de Várzea Paulista",
+      "imagem": "https://s2-g1.glbimg.com/aDO91wQVBARvLDmQv7T6_DVyvlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/w/5a3DrcRAAVmzAAKybULg/whatsapp-image-2026-08-22-at-18.10.41.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: jovem morre após bater moto contra carreta estacionada em MT",
+      "imagem": "https://s2-g1.glbimg.com/NBXhQ4z7FesUADpVhVjiUn8zsL8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/c/zg5R9sRrAUxEIlR0CmQg/videos-g1-7-.png"
+    },
+    {
+      "titulo": "Dois casos de tentativa de assalto deixam um morto e dois baleados na Zona Leste de SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Incêndio atinge fábrica de fertilizantes no Porto do Recife; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/HVW0NhPuM8x8e7fAEtPZx1oEiwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/g/WZPxwyTAewpIzG1Ed0aQ/incendio.jpeg"
+    },
+    {
+      "titulo": "Trânsito na BR-251 é liberado após acidente com quatro carretas",
+      "imagem": "https://s2-g1.glbimg.com/WyEp9YI21fF7DxCJu4-_A9QbEtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/W/DqNnrUTPAOedWtilm5fQ/whatsapp-image-2026-08-22-at-11.27.49-2-1-.jpeg"
+    },
+    {
+      "titulo": "Entidades e políticos lamentam morte de Vilma Alves; veja",
+      "imagem": "https://s2-g1.glbimg.com/6ajpKfZv774QfyVA6dR4AAJLy2k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/U/WI0mNnRqul2c5SlAPl6A/copia-de-edicao-imagens-g1-1-.jpg"
+    },
+    {
+      "titulo": "Jazz na Serra é atração do último fim de semana de agosto em Santo Antônio do Pinhal; veja a programação",
+      "imagem": "https://s2-g1.glbimg.com/i361UGxi579m-23nvVk8VE06-hI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/9/P9OoKzSyGInWEIuBTTfg/texto-do-seu-paragrafo-2026-08-18t103753.776.png"
+    },
+    {
+      "titulo": "Por que perícia afastou hipótese de curto-circuito ao apontar falha elétrica como possível causa de incêndio que destruiu escola em SP",
+      "imagem": "https://s2-g1.glbimg.com/ggjPkP0BwZ97ZW5P6Lak78o-L9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/f/B5BLIVRGiM2c0RWEvcng/imas-do-wesley-almeida-1-.jpeg"
+    },
+    {
+      "titulo": "Nando Reis apresenta turnê \"Pra Você Guardei o Amor\" em Salvador",
+      "imagem": "https://s2-g1.glbimg.com/WwbjS9xnNq_lFLtMrx9m4SGDl0g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/2/OVcJEtT36ZrRwFvAM5AQ/whatsapp-image-2026-08-22-at-17.31.13.jpeg"
+    },
+    {
+      "titulo": "Batida frontal na Raposo Tavares deixa dois mortos em Itapetininga",
+      "imagem": "https://s2-g1.glbimg.com/e1IlC-yF8ALiPGDYodwSo9xVy4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/W/RkKPquQ5eOxKnzFhKdaQ/whatsapp-image-2026-08-22-at-17.26.34-1-.jpeg"
+    },
+    {
+      "titulo": "Caminhão carregado de tijolos desce ladeira e atinge duas casas em Dona Inês, na PB",
+      "imagem": "https://s2-g1.glbimg.com/BdifwmWMwTtsbBc9It3U3dgNgcM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/h/37E52mRBKiI2w1b8aa3w/whatsapp-image-2026-08-22-at-17.23.09.jpeg"
+    },
+    {
+      "titulo": "Mulher é ameaçada pelo marido, consegue desarmá-lo e o mata com golpe de faca em Bauru",
+      "imagem": "https://s2-g1.glbimg.com/uptMVj8rQZq3uJIqvEQCcbuLPAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/h/AdI7fgSUABJiW6us2usQ/cpj-bauru.jpeg"
+    },
+    {
+      "titulo": "Mãe de bebê que morreu após corte em cesárea relata únicos momentos com a filha: 'Falei Deus, se for para ela ficar sofrendo, leva'",
+      "imagem": "https://s2-g1.glbimg.com/4M8iMAWfR3p6pO_38w_p6mUURNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/L/OLR57QTAW5k7bL5yUfAw/3.png"
+    },
+    {
+      "titulo": "Vencedora de leilão é desclassificada e arrematação de terreno do Exército em Valinhos é anulada",
+      "imagem": "https://s2-g1.glbimg.com/DvVw3ORQLpd_-qERPFMmAJQ3mag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/q/w68rFsRDS1h60zBno2DQ/1200px-x-800px-6-.jpg"
+    },
+    {
+      "titulo": "Eduardo Razuk: como rifas de carros de luxo levaram influencer à prisão e fizeram ‘império digital’ sair do ar",
+      "imagem": "https://s2-g1.glbimg.com/Jl7RjhcHFTj13rVYZsNuhn6gAdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/b/QkmMjHTKCgANTO4DEOGA/canva-2026-08-18t102637.665.png"
+    },
+    {
       "titulo": "Homem que atravessava rodovia empurrando bicicleta morre atropelado por carro em MG",
       "imagem": "https://s2-g1.glbimg.com/eb-EKQYvvE-8zfHJH_69i1PhleI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/M/haT0iTRlAGAQ3L1qpCHQ/whatsapp-image-2026-08-22-at-13.15.26.jpeg"
     },
@@ -54,72 +114,12 @@
     },
     {
       "titulo": "Cadeira quebra ao vivo e locutor mantém programa em rádio no interior de SP: 'O coração acelerou'",
-      "imagem": "https://s2-g1.glbimg.com/oQosaUgnxaV4EHQtKhwQ7s2jwWI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/8/DMoAAmRlWZFIJuF7B3zw/captura2333.jpg"
+      "imagem": "https://s2-g1.glbimg.com/bhxZHbyv2gJUkNk--JHK799o588=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/P/qAnNUkSOOAp3PiD0Bodg/cadeira.gif"
     },
     {
       "titulo": "Assista aos telejornais da TV Bahia",
       "imagem": null
-    },
-    {
-      "titulo": "Lito Sousa entra em lista de espera de Harvard para possível tratamento, diz esposa",
-      "imagem": "https://s2-g1.glbimg.com/aYc85QkrpXvbgmW3PYoe80iXdvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/v/6tuiXSQxaBD61NAgVgBg/saveclip.app-642199254-18562457623020560-3032200889264288672-n.jpg"
-    },
-    {
-      "titulo": "Homem é baleado após reagir a tentativa de assalto em joalheria, em Belém",
-      "imagem": null
-    },
-    {
-      "titulo": "Caminhão de cerveja tomba em ponte e interdita parcialmente a MGC-452, entre Santa Juliana e Uberlândia; Vídeo",
-      "imagem": "https://s2-g1.glbimg.com/qYgDDLN57gi90pnIk8mgaR0EulE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/L/1n1CkkQd2MElZWmfE5zQ/design-sem-nome-53-.png"
-    },
-    {
-      "titulo": "VÍDEO: morador flagra raposa caminhando em calçada na Zona Norte de Sorocaba",
-      "imagem": "https://s2-g1.glbimg.com/K0bcuAXijS1Uf-DgAoDTNM7StPc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/I/cE7ZmxTue5TK8sP0YLUA/raposa.jpg"
-    },
-    {
-      "titulo": "Homem oferece 'dinheirinho' à PM após apreensão de arma e munições e é preso em Governador Valadares",
-      "imagem": "https://s2-g1.glbimg.com/whB5DIQ9-ogpkNwp5jINfRvWjrQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/s/F9Mdd5SBO33VMKdj4BAg/whatsapp-image-2026-08-22-at-11.19.16.jpeg"
-    },
-    {
-      "titulo": "Motoristas pedem demissão após troca de empresa e passageiros relatam demora em ônibus de Aracaju",
-      "imagem": "https://s2-g1.glbimg.com/0VySUE3KXysBJSegaKrwGO8D9wc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/0/zlKOxhRM6AEYB9EU3drA/terminal.jpg"
-    },
-    {
-      "titulo": "TJTO confirma resultado de concurso para juiz substituto com 7 vagas; veja lista de aprovados",
-      "imagem": "https://s2-g1.glbimg.com/rSqzSKKsxAuaTkKdgNdUNkmZxrE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/b/ybYstKSiOQ96Iwgs3hSA/tjto-novo.png"
-    },
-    {
-      "titulo": "Projeto ‘PMZito’ é lançado para 38 alunos em Mojuí dos Campos",
-      "imagem": "https://s2-g1.glbimg.com/iIzjtfsFgmdUw-eu_RR3rnbEo2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/L/SqQaRkSqiChcxYWua1aQ/whatsapp-image-2026-08-22-at-16.39.03.jpeg"
-    },
-    {
-      "titulo": "Monitorado por tornozeleira morre em hospital após ser encontrado com facada no peito no Acre",
-      "imagem": "https://s2-g1.glbimg.com/PvS0wfkovv6Xfv5nZAA056CRr7k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/lQ87FFSZAwX4A53AA26Q/midia-de-distribuicao-g1.png"
-    },
-    {
-      "titulo": "Manutenção provoca suspensão temporária de rede elétrica em 53 bairros de Salvador",
-      "imagem": "https://s2-g1.glbimg.com/TVKOUA2O0EgIVN6oY81k3JdBNp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/g/CG397vSm2KD6tuyLCkvA/non-luminous-lamp-hangs-dark-blurred-background-copy-space.jpg"
-    },
-    {
-      "titulo": "Itaperuna registra aumento de incêndios em vegetação durante estiagem",
-      "imagem": "https://s2-g1.glbimg.com/xDSardDAqB5V16sL9hYXzi48QFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/w/UYSesAS3iDBW431xcbMw/incendios-em-itaperuna.jpg"
-    },
-    {
-      "titulo": "Caso Cláudio Landeiro: Justiça mantém prisão de seguranças presos por envolvimento na morte de ciclista em Copacabana",
-      "imagem": "https://s2-g1.glbimg.com/I11xkBG8FyMxlrgCL0lf1yAdUa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/B/gcW2k7Q0Atg3xt9Rifiw/whatsapp-image-2026-08-21-at-13.47.20-1-.jpeg"
-    },
-    {
-      "titulo": "'Meninas Malvadas' ganha versão paraense; veja datas e ingressos",
-      "imagem": "https://s2-g1.glbimg.com/cJujlAECZ5ke0we7RdyXZq6Hs8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/l/X8izBKSlGRHmWnJx2pZA/whatsapp-image-2026-08-21-at-15.07.13.jpeg"
-    },
-    {
-      "titulo": "Preso por roubo de R$ 800 mil e 30 kg de ouro é influencer e simulou crime na própria casa em Roraima",
-      "imagem": "https://s2-g1.glbimg.com/mhNCxmGVb7lywYOj8kz3JRUrPWM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/M/dLLGWqQLWVuS876LivBw/itzivan.png"
-    },
-    {
-      "titulo": "VÍDEOS: AB1 de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/3B4OfOffeDjZUR_I5hRmu7YB6KM=/s01.video.glbimg.com/deo/vi/64/29/14892964"
     }
   ],
-  "atualizadoEm": "2026-08-22T20:58:54.612Z"
+  "atualizadoEm": "2026-08-22T21:27:33.654Z"
 }

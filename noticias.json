@@ -1,10 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Bayern vence Borussia Dortmund e conquista Supercopa da Alemanha",
-      "imagem": null
-    },
-    {
       "titulo": "Internacional x Atlético-MG: escalações e onde assistir ao Brasileirão",
       "imagem": null
     },
@@ -119,7 +115,11 @@
     {
       "titulo": "Seca faz TRE antecipar transporte de urnas no Amazonas",
       "imagem": null
+    },
+    {
+      "titulo": "Inter de Milão goleia Monza na estreia e inicia defesa do título na Itália",
+      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T20:58:54.091Z"
+  "atualizadoEm": "2026-08-22T21:27:32.644Z"
 }
