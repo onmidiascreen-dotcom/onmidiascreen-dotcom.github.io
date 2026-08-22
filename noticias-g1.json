@@ -1,8 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "'Incrível poder voltar a essa arena', diz Gusttavo Lima sobre show na Festa do Peão de Barretos",
+      "titulo": "Datafolha no PI: 72% aprovam trabalho de Rafael Fonteles como governador, e 23% desaprovam",
+      "imagem": "https://s2-g1.glbimg.com/-KkSV1VH-gyu7uybuiZNzzND5wo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/6/42neRFRRK6ztTBC33kQA/whatsapp-image-2026-04-14-at-8.43.10-am.jpeg"
+    },
+    {
+      "titulo": "Jovem de 23 anos é morto a tiros no Parque Santa Edwirges em Bauru",
+      "imagem": "https://s2-g1.glbimg.com/dWowrLVhH1sEe3H8nelWdV7T1kM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/o/AU7F6hToi6DgA4ObBbqQ/whatsapp-image-2025-07-09-at-08.14.40-6-.jpeg"
+    },
+    {
+      "titulo": "Pai é preso suspeito de agredir bebê de 3 meses no Rio; criança pode ter morte cerebral",
+      "imagem": "https://s2-g1.glbimg.com/Go7yVbgebK28HFcU1xw3gyLMKfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/j/PfUMWzTbuvPDnueGgIJA/imagem-cortada-25-.jpg"
+    },
+    {
+      "titulo": "Vigilância Sanitária interdita padaria por irregularidades em Mogi das Cruzes",
       "imagem": null
+    },
+    {
+      "titulo": "Ponte sobre o Rio Paraguai na BR-262 será interditada neste sábado (22); saiba quando bloqueio termina",
+      "imagem": "https://s2-g1.glbimg.com/DhsizjS5KyPTzCztZxlwJ0MwCuo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/d/L6IQ0fQRqgX3NCTvrXvQ/ponte.jpg"
+    },
+    {
+      "titulo": "Zema defende nova reforma da Previdência e admite aumentar tempo de contribuição",
+      "imagem": "https://s2-g1.glbimg.com/XxyTQjkMDOGVx12x6b8B85NDeZg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/G/01Ov8VS5K4iV09qAS9AA/captura-de-tela-2026-08-22-145015.png"
+    },
+    {
+      "titulo": "Motorista morre após passar mal, perder controle de caminhonete e bater contra defensa metálica",
+      "imagem": "https://s2-g1.glbimg.com/-8gnmYBYXRQypxD2uaVEJyuMQzo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/G/aIxA7nSoilPDVhqL0d4g/foto-g1-77-.png"
+    },
+    {
+      "titulo": "Videomonitoramento ajuda a recuperar botijão furtado em Porciúncula",
+      "imagem": "https://s2-g1.glbimg.com/uOfEYpxAmxnTBl3sx8Vyz42rEu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/t/5OI1jGRMWYa4fJWpANUQ/homem-e-flagrado-croubando-um-butijao-de-gas.jpg"
+    },
+    {
+      "titulo": "'Incrível poder voltar a essa arena', diz Gusttavo Lima sobre Festa do Peão de Barretos",
+      "imagem": "https://s2-g1.glbimg.com/LGkKGfyFxyg23y0QyWNWFTWiNnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/e/roZcbCRk2X8iNu2c9kSQ/design-sem-nome.png"
     },
     {
       "titulo": "Homem é preso por feminicídio após sofrer acidente durante fuga em Magé, no RJ",
@@ -14,14 +46,14 @@
     },
     {
       "titulo": "Em campanha simultânea no Rio, Lula defende prender criminosos; e Flávio fala em ‘guerra’ ao crime",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/Gorr5W4HqEawffmE4GegBX4EPoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/Y/S04ZiBT3SnnlugRxhf3Q/imagem-cortada-2026-08-22t150638.314.jpg"
     },
     {
-      "titulo": "Lula defende a criação Ministério da Segurança Pública e diz: 'Não vamos matar 100 ou 200, vamos prender'",
-      "imagem": "https://s2-g1.glbimg.com/BB_U_K1RU4vt6a-ElBjuPVh7e4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/l/FbefuISbaS2JBkraByIg/jhoje-limpo-20260822-1315-frame-93085.jpeg"
+      "titulo": "Lula defende a criação do Ministério da Segurança Pública e diz: 'Não vamos matar 100 ou 200, vamos prender'",
+      "imagem": "https://s2-g1.glbimg.com/i3HqNc9PtUTJ9gdZwyJ-46T0onI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/w/ywO5ZfRjW31WB8BpVtsw/jhoje-limpo-20260822-1315-frame-93124.jpeg"
     },
     {
-      "titulo": "Primeiro Festival Internacional de Cultura da cidade será realizado em setembro; veja datas",
+      "titulo": "Primeiro Festival Internacional de Cultura de Maceió será realizado em setembro; veja datas",
       "imagem": "https://s2-g1.glbimg.com/XE_Iotn37S2-eVGEXT8ZH1bJbEE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/p/v4zn0sSEChwVaMQIYNAQ/festivalinternacionalcltura.jpeg"
     },
     {
@@ -87,39 +119,7 @@
     {
       "titulo": "TRE define propaganda eleitoral no rádio e na TV: confira tempo de candidatos ao governo de PE",
       "imagem": "https://s2-g1.glbimg.com/MKM-iZA4BNofRKvf-8jgCjkFbIQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/6/myFRHWTLWuA2YLLZZ82w/design-sem-nome-4-.png"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 1ª edição deste sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/riKubCI74UjHVjsdhCq7j-z6iVI=/s01.video.glbimg.com/deo/vi/11/25/14892511"
-    },
-    {
-      "titulo": "Tem Solução: banners viram sacolas verdes e reflorestamento ajuda na produtividade de fazenda no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/IBv1o66YmGZXz3KAKGNo5Ux8Vtg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/r/nLZOfhTiWe3Mwb2LnSJA/bau-tem-solucao-10-220826-frame-3364.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: MG1 de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/JpVT5ov0LfydxDH-eUxEfPmYh4w=/s01.video.glbimg.com/deo/vi/20/24/14892420"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/h8Z0nlZDtWlmxJEs2oPtmZ_6Dew=/s01.video.glbimg.com/deo/vi/87/24/14892487"
-    },
-    {
-      "titulo": "Polícia investiga como homicídio caso de brasileira encontrada morta no apartamento onde morava na Irlanda",
-      "imagem": "https://s2-g1.glbimg.com/32SQ4FjMsJlCAqsiTOEg-gIPssE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/y/yNY14KTtyCuCpoQ8xPLg/jady-1-.jpg"
-    },
-    {
-      "titulo": "Diretora de escola é investigada por obrigar aluno de 10 anos a beber a própria urina em MG",
-      "imagem": "https://s2-g1.glbimg.com/liOuZGuIgg7r8izknXQiqv0-DQk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/0/CtPp41RhOV1oZnH8AG1A/472744672-997748229067924-9217206200512146257-n.jpg"
-    },
-    {
-      "titulo": "Ex-prefeito condenado por incendiar fazenda de rival é solto após Justiça decidir não julgá-lo por homicídio",
-      "imagem": "https://s2-g1.glbimg.com/Wb41K0qVrtfsgP67fXOZPyOx89Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/v/Me1TijSUKpcsidvTFwkA/luan-dantas.jpg"
-    },
-    {
-      "titulo": "Após 10 meses, caminhada cobra Justiça por mulher esquartejada pelo vizinho no interior do AP",
-      "imagem": "https://s2-g1.glbimg.com/hr6HbDfQeiGPeWYSqjqoEpe805c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/4/8vX4r4QP2gCnExmXNJBw/aleixo-g1-67-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-22T17:47:08.391Z"
+  "atualizadoEm": "2026-08-22T18:23:11.290Z"
 }
