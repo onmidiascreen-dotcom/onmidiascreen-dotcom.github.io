@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "'Tropa do Ódio': novas imagens mostram espancamento de homem em Copacabana",
+      "imagem": null
+    },
+    {
+      "titulo": "Taxação imposta ao Brasil é 'irreal e baseada em mentira', diz Lula a Trump",
+      "imagem": null
+    },
+    {
       "titulo": "Lula diz que sugeriu a Trump encontro com Xi e Putin em resort na Flórida",
       "imagem": null
     },
@@ -49,17 +57,9 @@
       "imagem": null
     },
     {
-      "titulo": "Performance 'Urutau' une dança, ritual xamânico e rock em abordagem onírica",
-      "imagem": null
-    },
-    {
       "titulo": "Pioneira na literatura lésbica, Cassandra Rios terá sua obra reeditada no Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "'Minha esperança está nos discos voadores', diz Lobão após desilusão com esquerda e direita bolsonarista",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T02:20:14.448Z"
+  "atualizadoEm": "2026-08-22T03:14:33.402Z"
 }
