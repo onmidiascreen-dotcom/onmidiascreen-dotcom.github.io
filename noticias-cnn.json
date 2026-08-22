@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "&#8220;Super El Niño&#8221;: ONG avalia risco para moradias vulneráveis no Brasil",
+      "imagem": null
+    },
+    {
       "titulo": "Fluminense x Remo: horário e onde assistir ao jogo do Brasileirão",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Inter de Milão x Monza: horário e onde assistir ao Campeonato Italiano",
       "imagem": null
-    },
-    {
-      "titulo": "Valencia x Celta de Vigo: horário e onde assistir ao jogo de LaLiga",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T08:39:15.808Z"
+  "atualizadoEm": "2026-08-22T09:02:39.441Z"
 }

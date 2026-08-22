@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "EUA taxam produtos do Canadá em 50% após acordo fracassar",
+      "imagem": null
+    },
+    {
       "titulo": "Trem metropolitano e filas: Tarcísio e Haddad repetem promessas de 2022",
       "imagem": null
     },
@@ -17,6 +21,18 @@
       "imagem": null
     },
     {
+      "titulo": "Morte no Discord levanta debate sobre quem deve regular plataformas",
+      "imagem": null
+    },
+    {
+      "titulo": "Djamila Ribeiro revela treta com rapper americano: 'Ele foi superescroto'",
+      "imagem": null
+    },
+    {
+      "titulo": "Canetas emagrecedoras: o desafio do aumento de peso sem a medicação",
+      "imagem": null
+    },
+    {
       "titulo": "Amiga de Lulinha levou suspeito de operar propina para reunião no governo",
       "imagem": null
     },
@@ -26,18 +42,6 @@
     },
     {
       "titulo": "Tarcísio e Haddad vão intensificar campanhas na Grande SP após Datafolha",
-      "imagem": null
-    },
-    {
-      "titulo": "Canetas emagrecedoras: o desafio do aumento de peso sem a medicação",
-      "imagem": null
-    },
-    {
-      "titulo": "Djamila Ribeiro revela treta com rapper americano: 'Ele foi superescroto'",
-      "imagem": null
-    },
-    {
-      "titulo": "Morte no Discord levanta debate sobre quem deve regular plataformas",
       "imagem": null
     },
     {
@@ -55,11 +59,7 @@
     {
       "titulo": "Por que as crianças de fazendas costumam ter menos alergias",
       "imagem": null
-    },
-    {
-      "titulo": "São Paulo deve ter temperaturas de 12°C a 22°C neste sábado (22)",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T08:39:15.715Z"
+  "atualizadoEm": "2026-08-22T09:02:39.980Z"
 }
