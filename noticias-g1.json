@@ -1,8 +1,72 @@
 {
   "noticias": [
     {
+      "titulo": "FOTOS: Belo agita multidão na Festa do Peão de Barretos 2026",
+      "imagem": "https://s2-g1.glbimg.com/Q6UvGchRdnnhpZl8pu90diYViWU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/4/npF5FDRpK3sSjDFPZNlQ/dsc-9849.jpg"
+    },
+    {
+      "titulo": "Público viaja até quatro horas para curtir Festival de Inverno Bahia em Vitória da Conquista",
+      "imagem": "https://s2-g1.glbimg.com/FPpSs7iqipOIynPXircOSLJ1mGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/Q/vD2E4XRdmF4CRKGAqfcw/deboracaetano-fotorafaelapaixaog1.jpeg"
+    },
+    {
+      "titulo": "Datafolha: Lula, 39%; Flávio Bolsonaro, 33%; Ronaldo Caiado; 5%; Renan Santos; 4%; Zema, 3%; Augusto Cury, 2%",
+      "imagem": "https://s2-g1.glbimg.com/eT1yJQFADoPVxhOWF3uZi00BkNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/H/aGg0UGRaKpu8z1OyIdpw/globo-canal-4-20260821-2000-frame-119070.jpeg"
+    },
+    {
+      "titulo": "Após pancadas isoladas, Manaus tem previsão de chuva forte neste sábado",
+      "imagem": "https://s2-g1.glbimg.com/s3delEge4XvURYwsAPTGcPRMAYE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/W/23XdgiRPm5JzcZs6teDg/chuva-manaus-2-.jpeg"
+    },
+    {
+      "titulo": "Eleições no DF: candidatos fecham semana de campanha com passeatas e críticas ao governo",
+      "imagem": "https://s2-g1.glbimg.com/EZdjasXp6rNWDuFgL7mfuMqsaRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/q/L/qCUjMGTMqAlF1303hAfg/22.8.-palacio-do-buriti.-fotos-de-lucio-bernardo-jr-2.jpg"
+    },
+    {
+      "titulo": "Lula diz ter sugerido a Trump para combaterem juntos o crime organizado e que taxação a produtos brasileiros 'foi feita com base em mentira'",
+      "imagem": "https://s2-g1.glbimg.com/2vPgQy0ZugM9eQuxPrPJZfVC5_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/W/NGf4tkQhqCDtfC4BVBcA/agenda-lula-p2-saulo-21-aug-2026-frame-35601.jpeg"
+    },
+    {
+      "titulo": "Em São Paulo, 'JN nas Ruas' ouve brasileiros sobre transporte público, habitação e inclusão social",
+      "imagem": "https://s2-g1.glbimg.com/_U1j5gt_Ct95WCx8dmMxpgsBudc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/8/dCEXxUTpaIxy75ApgLcw/globo-canal-4-20260821-2000-frame-148068.jpeg"
+    },
+    {
+      "titulo": "Samara Martins, candidata à Presidência pelo partido Unidade Popular, passa o dia em BH",
+      "imagem": "https://s2-g1.glbimg.com/ffVX4rzshDh74wa2s-9smx9HgWY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/w/N70al9T86PL0xsBOLkng/globo-canal-4-20260821-2000-frame-140682.jpeg"
+    },
+    {
+      "titulo": "Exército comemora o dia do Soldado com concerto e homenagens em Roraima",
+      "imagem": "https://s2-g1.glbimg.com/iFFYIeqt0FgbKjUhbodF3OHQK5I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/B/eSmP8uR9AICLH5MAZRZQ/concerto.jpeg"
+    },
+    {
+      "titulo": "Renan Santos, candidato à Presidência pelo Missão, faz campanha em São Paulo e Maceió",
+      "imagem": "https://s2-g1.glbimg.com/OjGxzZ2PX0OHKlGw_i8VVB8esKM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/I/gPjeakSqqmBPpz6KnlYw/globo-canal-4-20260821-2000-frame-138731.jpeg"
+    },
+    {
+      "titulo": "Resumão diário do JN: Entregadores investigados pela morte de homem espancado são presos no Rio; Lula diz a Trump que alegações para o tarifaço são infundadas",
+      "imagem": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
+    },
+    {
+      "titulo": "Nova Volkswagen Amarok chega em 2027 e será ainda mais potente",
+      "imagem": "https://s2-g1.glbimg.com/_0WXn_McwzjAU7bc1WLAcE_OGB8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/47JN9aRWG2JAQbcrEjFA/amarok-01.jpg"
+    },
+    {
+      "titulo": "Médica presa suspeita de integrar grupo responsável por falsificar diplomas de medicina é solta dez dias após prisão",
+      "imagem": "https://s2-g1.glbimg.com/XDhDSD2-pBlzwEXV5f8BRpGdrGs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/O/0QxbeHTRibAK1Qvjx15w/whatsapp-image-2026-08-13-at-13.20.23.jpeg"
+    },
+    {
+      "titulo": "Presidente Lula, candidato à reeleição pelo PT, faz campanha em Minas Gerais",
+      "imagem": "https://s2-g1.glbimg.com/K2qIhsUK7hNzOLyAc1KK5IHY4mY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/W/JqvAGhRSuzt2GM4M0r1A/globo-canal-4-20260821-2000-frame-136202.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sexta-feira, 21 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/WF-Ebsl1Cik5HXPkDWPesYi7rpc=/s01.video.glbimg.com/deo/vi/17/16/14891617"
+    },
+    {
+      "titulo": "Flávio Bolsonaro, candidato à Presidência pelo PL, faz campanha na Baixada Fluminense",
+      "imagem": "https://s2-g1.glbimg.com/kRSnt_JHKZfpDRoDGXEjHCXhBmg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/M/3BA6gDRqAx5TA5WXQ5zA/globo-canal-4-20260821-2000-frame-134423.jpeg"
+    },
+    {
       "titulo": "Dia de Sorte hoje: resultado do concurso 1278 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/bkxUa57DD_g5ZKKe6aX3gdCBfok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/p/qPpsDkRR6jHhwhLAVv2A/volatne-dia-de-sorte.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/hYKxSZMvIUqHcO9ZG3FzLjeK6A0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/X/19A6k6SzKMKA0rSOGbWg/diadesorte-1278-eovdz.jpeg"
     },
     {
       "titulo": "Romeu Zema, candidato do Novo à Presidência, caminha pela Rua 25 de Março, em São Paulo",
@@ -26,7 +90,7 @@
     },
     {
       "titulo": "Toffoli rejeita pedido de governador do Maranhão para suspender decisões de Dino",
-      "imagem": "https://s2-g1.glbimg.com/lVtiNs-NHlNl1vTQYmguJSEfgMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/x/LiD2vmTN2pHAfYbHo06Q/globo-canal-4-20260311-2000-frame-51233.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/xNgyxYEyiva8l1yAiNLopMCxw-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/P/OcM6ZoR3S8ZIda4JDD0Q/fotojet-11-.jpg"
     },
     {
       "titulo": "Resultados das Loterias Caixa",
@@ -55,71 +119,7 @@
     {
       "titulo": "Lula diz que sugeriu a Trump reunir Xi e Putin em seu resort na Flórida para buscar saída para conflitos",
       "imagem": "https://s2-g1.glbimg.com/eCdqshFTi1zC1J58RvSQsbM2Lmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/p/JjTGfpSBiHYgYL6ARwTA/globo-canal-4-20260507-2000-frame-119711.jpeg"
-    },
-    {
-      "titulo": "Eduardo Razuk: Instagram bloqueia contas de influencer preso por suspeita de rifas ilegais de carros de luxo",
-      "imagem": "https://s2-g1.glbimg.com/1-7ussHZflfdIa6hC2bGGT7r050=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/T/cgKFwmTQWzrcQL2L5eYQ/1200-x-800-59-.jpg"
-    },
-    {
-      "titulo": "Lotofácil hoje: resultado do concurso 3768 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/xzq32Sol8P8GT4lWq473vWQux9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/2/0d0SQyQ8mRV3x1bX4efA/lotofacil-3768-nyfpv.jpeg"
-    },
-    {
-      "titulo": "Quina hoje: resultado do concurso 7098 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/42V_lxQFTKm16WUdApvI0ETaLtk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/e/gv1yS0SvmKIBZaZsTAQw/quina-7098-ecfym.jpeg"
-    },
-    {
-      "titulo": "Candidatos ao Governo do Ceará intensificaram agendas públicas nesta sexta-feira (21)",
-      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
-    },
-    {
-      "titulo": "Ministro da Fazenda afirma que não há crise geral no varejo e diz que vai apertar o arcabouço fiscal para controlar os gastos públicos",
-      "imagem": "https://s2-g1.glbimg.com/V0oPcSNiSb5LMsNi_GxY_BT3RQ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/9/iB3rf1QIu8rxBNHegC5w/globo-canal-4-20260821-2000-frame-94504.jpeg"
-    },
-    {
-      "titulo": "Inmet emite alerta amarelo para vendaval em cidades do sul e extremo sul da Bahia; confira previsão do tempo",
-      "imagem": "https://s2-g1.glbimg.com/ajthnsCpD26mAPkg3P0yROUk5OU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/m/rHruT9TkWL9QXVtdaixA/chuva-salvador.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de sexta-feira, 21 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/vTetAI_jnPwg4VBsunwBm8kJ88Q=/s01.video.glbimg.com/deo/vi/13/11/14891113"
-    },
-    {
-      "titulo": "Hospital e Maternidade Célia Câmara volta a realizar cirurgias eletivas; unidade tem capacidade de realizar até 120 procedimentos mensais",
-      "imagem": "https://s2-g1.glbimg.com/edHEbS9fnddRobfTIr_X1GuoZPI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/3/OgCTTbRK6JmHkN5fojBQ/g1-2026-08-21t211613.787.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato André Luís ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/CzZQIpuO5Biv3vt9qyOT8TEle30=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/w/EpGQYWRlGrESdItTu0qw/andre-luis-.jpg"
-    },
-    {
-      "titulo": "Homem é preso após arrastar policial pela janela do carro ao fugir de abordagem em Americana",
-      "imagem": "https://s2-g1.glbimg.com/_TueeJCXKuFE-oQrBMKvaY3W1vI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/p/R/4wGgRASPal2GvYtyteYQ/delegacia-americana.jpg"
-    },
-    {
-      "titulo": "Em telefonema, Lula e Trump tratam de comércio, crime organizado e conflitos mundiais, como a guerra na Ucrânia e no Irã",
-      "imagem": "https://s2-g1.glbimg.com/V_hWAwqZdx_BMUo9Dlbiu4q2Q_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/KbKASAQLGyfBbnLsUYXA/globo-canal-4-20260821-2000-frame-83310.jpeg"
-    },
-    {
-      "titulo": "Vídeos gravados pelos próprios agressores revelam a crueldade do espancamento de homem acusado injustamente de roubar bicicleta",
-      "imagem": "https://s2-g1.glbimg.com/FoBI_hW-n3ORlkcfs251rUJ50so=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Y/B30EkBRS2GMsNTvqswBg/globo-canal-4-20260821-2000-frame-68742.jpeg"
-    },
-    {
-      "titulo": "Eleições 2026: veja como foi o 6º dia oficial de campanha dos candidatos ao governo do Amapá",
-      "imagem": "https://s2-g1.glbimg.com/v5tLqN76FNpihKLim6bNTEPprTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/s/Sak2RCQemRNyGyXABgdQ/aleixo-g1-53-.jpg"
-    },
-    {
-      "titulo": "Entrevistas com os candidatos a presidente: Romeu Zema (Novo)",
-      "imagem": "https://s2-g1.glbimg.com/OtTS5Cw3xj_7emGdj0eVebzuoNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/6/oaKPOiTwmiOTNTaynLAQ/fta20260819050.jpg"
-    },
-    {
-      "titulo": "Entrevistas com os candidatos a presidente: Flávio Bolsonaro (PL)",
-      "imagem": "https://s2-g1.glbimg.com/k3jTIbZd5HRIgHlEoJbNOAIduEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/n/y8HhswQfaHIcWV7MMAFA/odr20260801034.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato Orleans Brandão ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/8N1nJSansKLoXi9vBOMFDevxQsY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/B/ZXCMACQnAWuulCT5T9bQ/orleans-brandao.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-22T01:00:46.325Z"
+  "atualizadoEm": "2026-08-22T02:20:15.167Z"
 }
