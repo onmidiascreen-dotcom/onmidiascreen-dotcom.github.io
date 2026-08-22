@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Distribuidora de 'GTA VI' luta na Justiça para identificar autores de vazamento",
+      "imagem": null
+    },
+    {
+      "titulo": "Duas adolescentes de 12 anos são flagradas furtando bebidas em Apucarana",
+      "imagem": null
+    },
+    {
+      "titulo": "Casal fica ferido após grave acidente em Arapongas; Civic ficou destruído",
+      "imagem": null
+    },
+    {
+      "titulo": "Prefeitura de Ivaiporã anuncia mais de R$ 38 milhões em investimentos para Alto Porã e região",
+      "imagem": null
+    },
+    {
       "titulo": "Massa de ar frio derruba as temperaturas nas regiões Sul e Sudeste",
       "imagem": null
     },
@@ -43,23 +59,7 @@
     {
       "titulo": "Polícia investiga suposta violência patrimonial contra dentista agredida por empresário",
       "imagem": null
-    },
-    {
-      "titulo": "Dificuldade de recrutar soldados revela desgaste russo e reconfigura guerra na Ucrânia",
-      "imagem": null
-    },
-    {
-      "titulo": "Defesa Civil lança alerta para baixas temperaturas em São Paulo; veja previsão",
-      "imagem": null
-    },
-    {
-      "titulo": "Irã diz que ameaças de sanções dos EUA prejudicam a soberania internacional",
-      "imagem": null
-    },
-    {
-      "titulo": "Jovem é esfaqueada por ex-companheiro durante evento em Jandaia do Sul",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T11:44:02.725Z"
+  "atualizadoEm": "2026-08-22T11:59:16.331Z"
 }
