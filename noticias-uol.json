@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Saliva pode dar pistas sobre câncer de intestino",
+      "imagem": null
+    },
+    {
+      "titulo": "Chile vai fechar embaixada no Irã por motivos econômicos e de segurança",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia Civil prende quatro por golpe do \"chupa-cabra\" em Londrina",
+      "imagem": null
+    },
+    {
+      "titulo": "Idosa e motociclista ficam feridos após acidente de trânsito em Arapongas",
+      "imagem": null
+    },
+    {
       "titulo": "Qual é o melhor horário para jantar e por que comer a mesma coisa tem efeitos diferentes dependendo da hora do dia?",
       "imagem": null
     },
@@ -43,23 +59,7 @@
     {
       "titulo": "Veja quanto candidatos à Presidência arrecadaram na 1ª semana de campanha",
       "imagem": null
-    },
-    {
-      "titulo": "Bayern supera Dortmund por 2 a 1 e conquista a Supercopa da Alemanha",
-      "imagem": null
-    },
-    {
-      "titulo": "Por que profissionais de investimentos costumam errar mais do que eu?",
-      "imagem": null
-    },
-    {
-      "titulo": "As opiniões racistas do meu filho estão destruindo nossa família: o que fazer?",
-      "imagem": null
-    },
-    {
-      "titulo": "Internacional enfrenta o Atlético-MG neste sábado pelo Brasileirão; veja onde assistir",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T21:47:48.124Z"
+  "atualizadoEm": "2026-08-22T22:17:10.171Z"
 }
