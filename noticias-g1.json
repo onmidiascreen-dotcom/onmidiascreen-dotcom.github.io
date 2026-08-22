@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Assista ao Bom Dia Sábado",
+      "imagem": null
+    },
+    {
       "titulo": "Rússia acusa Ucrânia pela morte de 6 civis em ataques com drones",
       "imagem": "https://s2-g1.glbimg.com/TbYw898fdQenMe8dVL7nsrfGhm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/N/nwQ4oQTvu6YAms79M9mQ/2026-08-21t155218z-1164679702-rc233na0l0ga-rtrmadp-3-ukraine-crisis-attack-kryvyi-rih.jpg"
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Caderneta atrasada? Região de Piracicaba tem 'Dia D' de multivacinação neste sábado",
       "imagem": "https://s2-g1.glbimg.com/xisGIBTw7_72PVAJZyWT8xZGiUo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/wb5tUqTAaDB8eAv4F62Q/design-sem-nome-4-.png"
-    },
-    {
-      "titulo": "Guerra no Irã faz países do Golfo acelerarem planos para driblar Estreito de Ormuz",
-      "imagem": "https://s2-g1.glbimg.com/zsmfODQH5bmwVuFzpBJBlU2RTMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/U/IueoH0RuiQRx5MJuKhcw/2026-08-17t134126z-1571278001-rc2c0naakvh3-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-22T09:40:54.727Z"
+  "atualizadoEm": "2026-08-22T09:59:12.040Z"
 }

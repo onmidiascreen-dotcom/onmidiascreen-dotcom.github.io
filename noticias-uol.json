@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Previsão do tempo em Ivaiporã indica sábado de sol e máxima de 22°C",
+      "imagem": null
+    },
+    {
+      "titulo": "Tarifas de 50% dos EUA sobre Canadá entram em vigor após fracasso em negociações",
+      "imagem": null
+    },
+    {
+      "titulo": "Como sucesso de vacinas reduz percepção do risco de doenças",
+      "imagem": null
+    },
+    {
       "titulo": "Colisão com viatura policial deixa várias pessoas mortas na Inglaterra",
       "imagem": null
     },
@@ -47,19 +59,7 @@
     {
       "titulo": "Lula x Flávio: veja o que as pesquisas mostram sobre o voto feminino",
       "imagem": null
-    },
-    {
-      "titulo": "Morte no Discord levanta debate sobre quem deve regular plataformas",
-      "imagem": null
-    },
-    {
-      "titulo": "Djamila Ribeiro revela treta com rapper americano: 'Ele foi superescroto'",
-      "imagem": null
-    },
-    {
-      "titulo": "Canetas emagrecedoras: o desafio do aumento de peso sem a medicação",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T09:40:52.595Z"
+  "atualizadoEm": "2026-08-22T09:59:10.480Z"
 }

@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Frio, calor e baixa umidade: como fica o tempo no Brasil no fim de semana",
+      "imagem": null
+    },
+    {
       "titulo": "Salton: Espumante é vocação e sustenta resultados positivos",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Um tipo de hipertensão relacionada à gravidez está se tornando mais comum",
       "imagem": null
-    },
-    {
-      "titulo": "&#8220;Refrigerante sujo&#8221; viraliza e levanta alerta sobre excesso de açúcar",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T09:40:52.987Z"
+  "atualizadoEm": "2026-08-22T09:59:10.531Z"
 }
