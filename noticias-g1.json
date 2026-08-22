@@ -1,8 +1,76 @@
 {
   "noticias": [
     {
+      "titulo": "Justiça solta motociclista que atropelou e matou menino de 10 anos na faixa de pedestres em Piraúba",
+      "imagem": "https://s2-g1.glbimg.com/81Tuj6GtJ8v2qRzLXCUmKPKKzOw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/1/QcBoGeT564dCmNTKRRJQ/crianca-morreu-atropelada-em-pirauba.jpg"
+    },
+    {
+      "titulo": "Quatro filhotes de cães morrem após serem encontrados em área de incêndio em MG",
+      "imagem": "https://s2-g1.glbimg.com/dI5SYPXg0xKEPZ1xl7OR3lX0xfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/Q/u9k8D6TeKrD2GJJBb2Xw/incendio-passos.jpg"
+    },
+    {
+      "titulo": "Assista ao Bahia Meio Dia",
+      "imagem": null
+    },
+    {
+      "titulo": "EPTV 1 Piracicaba ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
+    },
+    {
+      "titulo": "Caso Lulinha: gabinete de Mendonça rebate suspeitas e defende investigação de vazamentos",
+      "imagem": "https://s2-g1.glbimg.com/If_nKHlKFxb9y1M-KRKHrXKlF24=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/6/wUP7mQTamFljoG2PpDmQ/54747506304-ac65b32330-o.jpg"
+    },
+    {
+      "titulo": "Adolescente escapa de queda após cavalo cair em cratera em Propriá",
+      "imagem": "https://s2-g1.glbimg.com/XpYYBz7CoFaA-GiKjlcHkY2vjFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/P/oPDwWURXS6ktdarBTW4Q/buraco-1.jpg"
+    },
+    {
+      "titulo": "EPTV 1 Campinas ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
+    },
+    {
+      "titulo": "Haddad promete mudar uso de plataformas digitais nas escolas de SP: 'Esse terror vai acabar'",
+      "imagem": "https://s2-g1.glbimg.com/RzMauR7tcy2l0oWSUwfJ1oz5sG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/g/A4EbmDRi2HpoML8AMn4Q/captura-de-tela-2026-08-22-115445.png"
+    },
+    {
+      "titulo": "'Peão todo tatuado': g1 vai atrás da trend no camping da Festa do Peão de Barretos",
+      "imagem": "https://s2-g1.glbimg.com/F-iTim2eMbAIjetQ7JPI0R4LcAs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/B/093WbuR8SLqVHdDBSX0g/copia-de-copia-de-design-sem-nome.png"
+    },
+    {
+      "titulo": "'Chico 2.0' acerta ao tirar Chico Buarque do nicho da MPB para levar a obra do artista para as quebradas urbanas",
+      "imagem": "https://s2-g1.glbimg.com/G3M6aiT15KoOPaVbWpWBq_l9DTA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/c/kYn7iEQpKZI78AvDjBJw/chicofranciscoproner.jpg"
+    },
+    {
+      "titulo": "Datafolha no PI: Ciro Nogueira, Marcelo Castro e Julio César lideram corrida por vagas ao Senado",
+      "imagem": "https://s2-g1.glbimg.com/QNUeXHUewxXzxAKuNmNfnlDJvuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/L/CEvGdqRFeYnAo4bM3xUQ/senado-foto-3.png"
+    },
+    {
+      "titulo": "Datafolha no PI: Rafael Fonteles, 56%; Joel Rodrigues, 21%",
+      "imagem": "https://s2-g1.glbimg.com/1qypKt5wDOnXR4TUP7ZC9m1xxJM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/G/qLoRR6RsyJA2pRFIAjzQ/g1-bg-01-6-.png"
+    },
+    {
+      "titulo": "Pintor desaparece após receber ligação de trabalho no litoral de SP",
+      "imagem": "https://s2-g1.glbimg.com/Xjc2yK5IJ9ii4DT0FNEK6A2ITu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/5/D2y6RvTbSwTUQy8viO0A/fotos-materias-2026-08-22t081711.915.jpg"
+    },
+    {
+      "titulo": "Plantão que atende mulheres vítimas de violência em Roraima pode colapsar por sobrecarga de trabalho, alerta delegada",
+      "imagem": "https://s2-g1.glbimg.com/EYYQAgAFXis6V5vdn1T-ij5oaPA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/7/A/IVl5WzSPiOVo4rTzAnMQ/delegadas-2-.jpeg"
+    },
+    {
+      "titulo": "Assista ao Gazeta Meio Dia",
+      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
+    },
+    {
+      "titulo": "Assista ao Gazeta Meio Dia - edição regional",
+      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
+    },
+    {
+      "titulo": "Onça que levou cachorro volta à mesma casa e tenta atacar outro cão 13 dias depois em MS; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/2BgvwS4Zme9KYcEFg150s4nDpBc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/b/axN6iBRMeNEy69YqlMxg/whatsapp-image-2026-08-22-at-10.26.28.jpeg"
+    },
+    {
       "titulo": "Mais de 200 novos professores são convocados pela Educação, em Goiás; veja lista",
-      "imagem": "https://s2-g1.glbimg.com/ARzCNmCP70fbGLI5Kh0oU0Q7LK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/a/j7Mfp7S6qFeyCogRNsCg/design-sem-nome-42-.png"
+      "imagem": "https://s2-g1.glbimg.com/pjSNtJDg-tWUJvuhwtN5nMMgmMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/N/O8lfPlTNOgFhJzYOBqWw/foto-caso-crianca-trilha-2025-12-11t075100.486.jpg"
     },
     {
       "titulo": "Adolescente que teve festa de 15 anos interrompida após piso desabar ganha nova celebração em Belém",
@@ -51,75 +119,7 @@
     {
       "titulo": "AO VIVO: Assista ao GR1",
       "imagem": "https://s2-g1.glbimg.com/0-JHhymZQjKoJwms_LRmHLPAB78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/J/mvWfiNQy2XoazxK77krw/whatsapp-image-2025-09-27-at-14.08.15.jpeg"
-    },
-    {
-      "titulo": "Buscas por grupo 'desaparecido' em floresta são encerradas no AP após relatos contraditórios",
-      "imagem": "https://s2-g1.glbimg.com/16aGhx0-rElsi3rp_VwrxAqPdIs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/B/4/Mgwqp6QX2Y08pP5hRzcA/2024-08-17-14-53-02-362.png"
-    },
-    {
-      "titulo": "VÍDEOS: Bom Dia Sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/dim0p61etl04EbM7wlgEvkwpM0c=/s01.video.glbimg.com/deo/vi/22/20/14892022"
-    },
-    {
-      "titulo": "Assista ao EPTV1",
-      "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
-    },
-    {
-      "titulo": "Vendedor acha que assalto é  brincadeira, entrega celular e mesmo assim é baleado na Serra",
-      "imagem": "https://s2-g1.glbimg.com/t6vRuqeqcpvMKqZHCZur6A9zQOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/y/ni3c8dTqqW6d4RT6fGag/thumb-videos-g1-4-.jpg"
-    },
-    {
-      "titulo": "Capotamento deixa 7 pessoas feridas no Sertão da PB; crianças estão entre as vítimas",
-      "imagem": "https://s2-g1.glbimg.com/BX_h5nqof_bSkc80oyMwaKCr4G0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/R/Mt5EuORaKelyVWJXibug/hospital-de-cajazeiras.jpeg"
-    },
-    {
-      "titulo": "Entenda por que o lobo-guará ajuda a alimentar lenda do lobisomem no Brasil",
-      "imagem": "https://s2-g1.glbimg.com/gZPb7nvdKVsHwwjTEpI5QM13KxI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/5/urS0QoRAChn7L35eV9hw/moldura-padrao-g1-3-.png"
-    },
-    {
-      "titulo": "Cursos presenciais e online do Cetam oferecem 16 mil vagas gratuitas para interior do AM; saiba como se inscrever",
-      "imagem": "https://s2-g1.glbimg.com/LocZdZAFhJR_MSTTlG7yH_A6sQs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/V/EAtcj9ReAnlNxjoAgSiQ/cursos-cetam.jpg"
-    },
-    {
-      "titulo": "Zolani Tete, ex-campeão mundial de boxe, é morto a tiros na África do Sul",
-      "imagem": "https://s2-g1.glbimg.com/byUgPC1GdbygGjIqMKIoYOXvbjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/C/iWyfhoSCSQn7RGzHbfyg/captura-de-tela-2026-08-22-110404.png"
-    },
-    {
-      "titulo": "Idoso é preso depois de mostrar pornografia para adolescente durante viagem de ônibus no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/-d2-zYQyDK4tGURcxE54P7V2OV8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/I/UIX8riQBA23zCZKJXwXg/whatsapp-image-2026-08-22-at-10.37.54.jpeg"
-    },
-    {
-      "titulo": "Itapetininga celebra folclore com programação cultural gratuita",
-      "imagem": "https://s2-g1.glbimg.com/-QJCJna4O55UpS5kDfoIrt1XjoY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/M16CQdTpGeEFamhE1fog/img-4906-frame-88.jpeg"
-    },
-    {
-      "titulo": "Time de futsal de Curuá sofre naufrágio durante deslocamento para competição em Alenquer",
-      "imagem": "https://s2-g1.glbimg.com/Kw4XQ6IzpUSMKb1HNCVDQcyY12s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/H/c7HPyLQfKURTORkeIlqQ/whatsapp-image-2026-08-22-at-10.52.17.jpeg"
-    },
-    {
-      "titulo": "Corregedoria prende policial suspeito de sequestrar homem e colocá-lo em porta-malas de falsa viatura em SP",
-      "imagem": "https://s2-g1.glbimg.com/g6Alm1vK2wtjc6P9JDZs6JWi6Z4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/v/Qo1vJdSQebjA7Hcwg1Ew/fotojet-2026-08-14t082624.287.jpg"
-    },
-    {
-      "titulo": "Moradores de condomínio em Bauru recebem cobranças de contas de água até R$ 3 milhões após erro em sistema",
-      "imagem": "https://s2-g1.glbimg.com/UFYVMbt8EXugXJTn4ZA_8x0vqmc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/G/jSt0UpQimOjBjjOXStPg/bau-img-conta-2milhoes-210826.transfer-frame-697.jpeg"
-    },
-    {
-      "titulo": "Eleições 2026 no PR: Sergio Moro faz adesivaço e comparece a eventos",
-      "imagem": "https://s2-g1.glbimg.com/j7oghUeafpDLLFlLrFcHBYaOnO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/M/J7dYzmQASvJuR2hqOpSw/sergio-moro-waldemir-barretoagencia-senado-2.jpg"
-    },
-    {
-      "titulo": "Eleições 2026 no PR: Sandro Alex visita sindicato rural e eventos",
-      "imagem": "https://s2-g1.glbimg.com/RayO_Fce5vBV-FFQ24OKPzosIdU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/A/logHWQQhifGrmcWWzKJQ/sandro-alex-camara-dos-deputados.jpg"
-    },
-    {
-      "titulo": "Homem é suspeito de atear fogo em casa com filhas da ex-companheira dentro em Cuiabá",
-      "imagem": "https://s2-g1.glbimg.com/Qqdd-Y3KZskNzLXNstSonZHtKUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/sBNteyQbKLMJFe4SzUpA/sirene-policia-1-.jpeg"
-    },
-    {
-      "titulo": "Contribuintes de Manaus têm até outubro para quitar dívidas com descontos de até 100%; saiba como",
-      "imagem": "https://s2-g1.glbimg.com/jGvgbcmnrNvOxTFZ46btOAcpSFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/O/lF2SZfQjOynHPTBgvRhA/divida-zero.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-22T14:46:28.073Z"
+  "atualizadoEm": "2026-08-22T15:16:51.052Z"
 }
