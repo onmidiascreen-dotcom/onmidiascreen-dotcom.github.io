@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "Amigos brasileiros reservam hospedagem para desfrutar as férias na França, mas descobrem que lugar era em asilo de idosos",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump diz que não orientou Bessent a intervir no mercado de títulos",
+      "imagem": null
+    },
+    {
+      "titulo": "Nvidia faz parceria com Cloverleaf para desenvolver data centers de IA",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula decide não ir a primeiro debate presidencial",
+      "imagem": null
+    },
+    {
+      "titulo": "CNN Brasil estreia &#8220;O Grande Debate Eleições&#8221; na próxima segunda (24)",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Não existe animosidade de Trump em relação a Lula",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia localiza suspeitos e encontra corpos de jovens desaparecidas no PR",
+      "imagem": null
+    },
+    {
+      "titulo": "Quem são os candidatos ao governo do Paraná nas eleições de 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Investidor brasileiro busca fugir do &#8220;risco Brasil&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Revelação do futsal do Corinthians treina no campo a pedido de Diniz",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Michael&#8221;: Jaafar Jackson espera que sequência aborde polêmicas do astro",
+      "imagem": null
+    },
+    {
+      "titulo": "Tornado raro faz condado de Nova York declarar estado de emergência",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem morre durante procedimento de lifting de têmpora em Fortaleza",
+      "imagem": null
+    },
+    {
+      "titulo": "Governo do Rio e BNDES firmam acordo para negociar dívida de R$ 8 bilhões",
+      "imagem": null
+    },
+    {
+      "titulo": "Quem são os candidatos ao governo do Mato Grosso do Sul em 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Operação investiga fraude tributária de mais de R$ 500 milhões em Manaus",
+      "imagem": null
+    },
+    {
+      "titulo": "Defesa pede revisão das prisões e uso de tornozeleira em família de Marcola",
+      "imagem": null
+    },
+    {
+      "titulo": "Dave Bautista é escolhido para papel de Kratos em novo &#8220;God Of War&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Exoplaneta com rochas é chamado de &#8216;Mega-Terra&#8217; e surpreende cientistas",
+      "imagem": null
+    },
+    {
       "titulo": "Governo Lula manteve relação com EUA em alto nível, diz José Pimenta",
       "imagem": null
     },
@@ -43,83 +119,7 @@
     {
       "titulo": "Datafolha: 60% dos eleitores paulistas aprovam governo Tarcísio",
       "imagem": null
-    },
-    {
-      "titulo": "Análise: Zema e Renan trazem propostas distintas sobre Bolsa Família",
-      "imagem": null
-    },
-    {
-      "titulo": "Reputação é o maior patrimônio de marcas e empresas, diz CEO da CNN Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Fiuk anuncia a venda de mais um carro após citar dívidas: &#8220;Próximo boleto&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Governo vê canal com EUA reaberto, mas não descarta interferência eleitoral",
-      "imagem": null
-    },
-    {
-      "titulo": "Datafolha: Lula é desaprovado por 50% dos eleitores; 47% aprovam",
-      "imagem": null
-    },
-    {
-      "titulo": "Diálogo entre Lula e Trump é sinal importante para negociações, diz Amcham",
-      "imagem": null
-    },
-    {
-      "titulo": "Amistoso da seleção brasileira é alvo de boicote na Índia",
-      "imagem": null
-    },
-    {
-      "titulo": "Datafolha: Tebet, Marina e André do Prado empatam para o Senado em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Datafolha: Benedita lidera corrida ao Senado pelo RJ; 6 empatam na 2ª vaga",
-      "imagem": null
-    },
-    {
-      "titulo": "Governo busca priorizar desembarque de fertilizantes para safra 2026/27",
-      "imagem": null
-    },
-    {
-      "titulo": "ANPD monitora 22 redes sociais e apps de IA por deepfakes e crimes virtuais",
-      "imagem": null
-    },
-    {
-      "titulo": "Datafolha: Flávio é rejeitado por 46% dos brasileiros; Lula, por 45%",
-      "imagem": null
-    },
-    {
-      "titulo": "Brinquedo sexual é arremessado em quadra e interrompe jogo da WNBA; veja",
-      "imagem": null
-    },
-    {
-      "titulo": "Relator da 6&#215;1, Omar Aziz diz que dará &#8220;a maior agilidade possível&#8221; à PEC",
-      "imagem": null
-    },
-    {
-      "titulo": "Atingir economia do Irã é opção menos pior dos EUA, diz militar aposentado",
-      "imagem": null
-    },
-    {
-      "titulo": "Gabriel Jesus entra na mira do Atlético de Madrid, diz jornal",
-      "imagem": null
-    },
-    {
-      "titulo": "Mulher recebe conta de água de quase R$ 3 milhões no interior de São Paulo, procura vizinhos e descobre algo impressionante",
-      "imagem": null
-    },
-    {
-      "titulo": "Datafolha: Lula tem 39% das intenções de voto no 1º turno; Flávio, 33%",
-      "imagem": null
-    },
-    {
-      "titulo": "Festa do Peão de Barretos: veja dicas de looks para usar no rodeio",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-21T23:47:40.509Z"
+  "atualizadoEm": "2026-08-22T01:00:45.484Z"
 }
