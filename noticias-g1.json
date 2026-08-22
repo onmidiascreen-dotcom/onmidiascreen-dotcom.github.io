@@ -1,6 +1,54 @@
 {
   "noticias": [
     {
+      "titulo": "Mulher de 34 anos é morta em Caxias; suspeito foge após crime",
+      "imagem": null
+    },
+    {
+      "titulo": "Tucano 'intruso' surpreende família gaúcha durante café da manhã em Bonito; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/K-XpkLvxCyeN3YsUkhQRU-wVdEU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/b/i3BfWpTi6nSGVhjuxgvg/tucano-ms.jpg"
+    },
+    {
+      "titulo": "Concurso da Manausprev oferece 17 vagas com salários de até R$ 9,1 mil; inscrições começam dia 31 de agosto",
+      "imagem": "https://s2-g1.glbimg.com/vQNCmDacxKPgoHzOmreHDhEKDSw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/8/qw24wzTamTkdfMlMF9cA/manaus-previdencia.jpg"
+    },
+    {
+      "titulo": "Jovem amordaçada e acorrentada pelo ex diz que ele colocou máscara de oxigênio e enfiou panos com ácido na boca dela: ‘Estou queimada por dentro’",
+      "imagem": "https://s2-g1.glbimg.com/Dvu6uLyVo5s1HNKXciZmHwv0dfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/zDHczzQo67DYBTBUYmSA/padrao-foto-g1-goias-36-.jpg"
+    },
+    {
+      "titulo": "Homem é preso com mais de 200 porções de cocaína e maconha em Paraty",
+      "imagem": "https://s2-g1.glbimg.com/M-Dv6YZO83fSGzndtOW_OW9XjUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/B/LsksfLTUypFZ9ziuOwSg/image-15-.jpg"
+    },
+    {
+      "titulo": "Por que damos choques aleatórios ao encostar em alguém ou sair do carro?",
+      "imagem": "https://s2-g1.glbimg.com/7oiQ78TY8qNxQRRVZVobXKfEVj8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/J/fTkqmuQLKwtVATaN1SIQ/aperto-de-mao.jpg"
+    },
+    {
+      "titulo": "Adolescente esfaqueado por colega em escola particular de Ribeirão Preto, SP, passou por cirurgia e quadro é estável",
+      "imagem": "https://s2-g1.glbimg.com/JTLbNUYWjC_O2b8W6I2cEI2x5Yk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/J/BRd9gHQiuVXlyibVR4JA/copia-de-molduras-g1-.png"
+    },
+    {
+      "titulo": "Abordagem policial descobre 30 quilos de maconha escondidos em carro na BR-101, em Casimiro de Abreu",
+      "imagem": "https://s2-g1.glbimg.com/JZKTlF7aHLW3NwUPuRFnm7wTDv0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/3/jALcIjQ46OhoCldb0RRQ/30-kg-de-maconha-apreendiso-na-br-101.jpg"
+    },
+    {
+      "titulo": "Motorista preso suspeito de jogar ônibus contra delegado é solto após Justiça considerar prisão como ilegal",
+      "imagem": "https://s2-g1.glbimg.com/GyonjuV0R-G08KqfWlafYEA0EsE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/V/mi249wTFaBVovRk1X54Q/preso-motorista-de-onibus-escolar.png"
+    },
+    {
+      "titulo": "Investigação aponta que caminhão invadiu acostamento e estava com excesso de carga quando matou ciclista na Anchieta, SP",
+      "imagem": "https://s2-g1.glbimg.com/xEak9Roz_j7m8rCeIu03Yu9JvXs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/9/u1bcSATayCVNXcYBZNUQ/acidente-cubatao.jpg"
+    },
+    {
+      "titulo": "Capotamento deixa um morto e um ferido em rodovia de Jundiaí",
+      "imagem": "https://s2-g1.glbimg.com/8M-Gswv3fNeC81Ed6y97LSMcv3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/H/Dzcx5bSMSgr5xVjFBgrw/edicao-g1-agenda-1-.png"
+    },
+    {
+      "titulo": "Empresária que morreu após plástica tinha vindo da Espanha para fazer cirurgia, diz família",
+      "imagem": "https://s2-g1.glbimg.com/jew8-8XILtyxCtQFUAj6OFeDiCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/a/8URDKzSn68G9yh8pBo6Q/imagens-g1-4-.png"
+    },
+    {
       "titulo": "Palha, galhos e bambu ganham nova vida nas mãos de artesãos e se transformam em arte e renda no PI",
       "imagem": "https://s2-g1.glbimg.com/ZOXRVCxyfCX-n28IksjuBygc9JA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/5/Ohbc9kQVGmqLt37OLRjQ/edicao-imagens-g1-9-.png"
     },
@@ -66,60 +114,12 @@
     },
     {
       "titulo": "Atropelamento por carro desgovernado deixa feridos na Grande BH",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/4oQgtx4gTKSN5oVwoQ84rafHlns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/e/Id8zPbQ0AnMBeVyZvWAA/via-sete-lagoas.jpg"
     },
     {
       "titulo": "Motorista de caminhão morre em acidente na BR-316, no Centro-Norte do Piauí",
       "imagem": "https://s2-g1.glbimg.com/NmrXtL9QfZw7qoOl10nAHAHSB-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/P/n9tYF6TFucjoHCb0BX7g/edicao-imagens-g1-8-.png"
-    },
-    {
-      "titulo": "Cantora country chama atenção após se apresentar em 'bolas brilhantes'; entenda",
-      "imagem": "https://s2-g1.glbimg.com/grtL0elVrAliGOH1Hwg78JrAOEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/d/kqgHa7S9WiiykWN3ACww/discoballs.jpg"
-    },
-    {
-      "titulo": "Jovem é preso com arma de fogo na Rodoviária de Volta Redonda",
-      "imagem": "https://s2-g1.glbimg.com/Bl5si8QsNJMw5XLVYHYVpvi13LM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/f/ITrK5TRnev66zj8EbMQg/whatsapp-image-2026-08-22-at-15.00.30-1-.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: JL1 de sábado, 22 de agosto",
-      "imagem": "https://s2-g1.glbimg.com/Cpwy0Vmtg4ufUhkRYdmjI6eD-do=/s01.video.glbimg.com/deo/vi/76/24/14892476"
-    },
-    {
-      "titulo": "Vazamento forma chafariz em rua do Butantã, Zona Oeste de SP",
-      "imagem": "https://s2-g1.glbimg.com/f4ikscvq1DfegWy5sNXNLDtsl2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/P/DIY4zYQBenDatjJ2cgLA/montagem-horizontal-1200px.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Amazonas 1ª edição deste sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/tOzF4viccV5iaHTxF7kkGHn2yKA=/s01.video.glbimg.com/deo/vi/39/27/14892739"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Almoço Florianópolis de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/15MHVNzNUVnTmBd2uBAvyVSThrA=/s01.video.glbimg.com/deo/vi/42/25/14892542"
-    },
-    {
-      "titulo": "Guarujá abre vagas para guarda-vidas temporários com salário de R$ 2,8 mil; veja como se inscrever",
-      "imagem": "https://s2-g1.glbimg.com/03l4FxGcOo9Te05RZQkduoc6dpg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/P/ODNjwpQvaTXnjAXXmtBQ/design-sem-nome-47-.jpg"
-    },
-    {
-      "titulo": "Homem é retirado de piscina pela irmã após se afogar no Acre e é internado em estado grave",
-      "imagem": "https://s2-g1.glbimg.com/oxoTGAyBphm4T7IWBveFeDWHCTk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/2/X/JG9cH7SnaLhWVJEQrfWw/whatsapp-image-2024-07-17-at-18.51.48.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: Pacientes reclamam de barulho de obra dentro da UPA de Teresópolis",
-      "imagem": "https://s2-g1.glbimg.com/Z11DDj9B0PUjje_Bev7D5_Nvq34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/k/awRxIlQHSw7FO6TRfi1A/obra-em-upa-de-teresopolis-causa-desconforto-aos-pacientes.jpg"
-    },
-    {
-      "titulo": "Mais de 20 cães são encontrados mortos em terreno após denúncia de abandono de animais em SC",
-      "imagem": "https://s2-g1.glbimg.com/ECDWqBNEZInaZJQ8I3WQlgbNdOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/z/1KAjrnR3mpKyrGkjmY4g/caes-lages-sc.jpg"
-    },
-    {
-      "titulo": "Inmet divulga aviso de perigo por baixa umidade na Grande BH e regiões de Minas",
-      "imagem": "https://s2-g1.glbimg.com/O5j5k8MYVIKVc5VAo3RVu-p2PEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/g/Kp5p9iSP6CKPjiSURbYw/minas-inmet-tempo-seco.jpg"
-    },
-    {
-      "titulo": "Operação Jaguaretê: seis dragas usadas em mineração são destruídas no Rio Içá, no Amazonas",
-      "imagem": "https://s2-g1.glbimg.com/1cETiYX7XkuPn1Ib6z2pFOMprgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/r/XIziPRQRq3OniArb0tiQ/dragas.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-22T19:22:57.647Z"
+  "atualizadoEm": "2026-08-22T19:45:06.232Z"
 }
