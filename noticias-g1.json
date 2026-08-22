@@ -1,8 +1,72 @@
 {
   "noticias": [
     {
+      "titulo": "Mais de 200 novos professores são convocados pela Educação, em Goiás; veja lista",
+      "imagem": "https://s2-g1.glbimg.com/ARzCNmCP70fbGLI5Kh0oU0Q7LK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/a/j7Mfp7S6qFeyCogRNsCg/design-sem-nome-42-.png"
+    },
+    {
+      "titulo": "Adolescente que teve festa de 15 anos interrompida após piso desabar ganha nova celebração em Belém",
+      "imagem": "https://s2-g1.glbimg.com/Qfy6pP7mIRVdaNRtvPtSXnrWKZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/7/BX5U2HTjKwg4HSpPOxaw/whatsapp-image-2026-08-22-at-11.21.06.jpeg"
+    },
+    {
+      "titulo": "Acidente entre quatro carretas deixa um morto e dois feridos na BR-251",
+      "imagem": "https://s2-g1.glbimg.com/jpQS34UTW_Vtq9qO3A4o20ZQ1Xw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/7/aNCpz9SyypipKlI6c0Dg/whatsapp-image-2026-08-22-at-11.27.45-2-.jpeg"
+    },
+    {
+      "titulo": "Motociclista morre após batida de frente com caminhão durante ultrapassagem na BR-153 em Rio Preto",
+      "imagem": "https://s2-g1.glbimg.com/sNN31E90yIRY-E28XRo1OIRkE_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/A/VJJBEqQS25K451axJp7Q/foto-g1-71-.png"
+    },
+    {
+      "titulo": "AO VIVO: assista à programação da NSC TV",
+      "imagem": "https://s2-g1.glbimg.com/-HLuLoGSfEaPVwZUa5WRaQBmhHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/R/r/ukiI0UQBAjq4n0Tux1vg/faraco.jpg"
+    },
+    {
+      "titulo": "Eleições 2026 no PR: Requião Filho cumpre agenda no interior do estado",
+      "imagem": "https://s2-g1.glbimg.com/WPUaHoI3dLeogmgdELX0wcprM5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/G/HdARoLRkiAfRai96pbTA/requiao-filho-orlando-kissner-assembleia.jpg"
+    },
+    {
+      "titulo": "Acidente entre moto e caminhão deixa uma pessoa morta na BR-304, em Mossoró",
+      "imagem": "https://s2-g1.glbimg.com/u_mE5I_YUkAeQqwOtkLDAfXLHm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/9/B7911zSWGJtHcsXTRXYw/image.png"
+    },
+    {
+      "titulo": "Homem é preso após insultar e jogar ônibus escolar contra delegado",
+      "imagem": "https://s2-g1.glbimg.com/GyonjuV0R-G08KqfWlafYEA0EsE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/V/mi249wTFaBVovRk1X54Q/preso-motorista-de-onibus-escolar.png"
+    },
+    {
+      "titulo": "J&amp;F diz que aquisição da Avibras é 'oportunidade' de entrar nos setores de defesa e aeroespacial; saiba o que diz processo ao Cade",
+      "imagem": "https://s2-g1.glbimg.com/ZbGd9xkX0otAfgEi0lSRs79K8cM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/N/WestvPS0OMLh5ByHGJTQ/texto-do-seu-paragrafo-2026-08-22t112555.155.png"
+    },
+    {
+      "titulo": "STF considera inconstitucional contratação temporária de policiais penais no Acre",
+      "imagem": "https://s2-g1.glbimg.com/66gBFIyNh43NcAMDsjZiIrw6KAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/2/RO7BA7TKuxdqgACRKwpg/midia-de-distribuicao-g1-29-.png"
+    },
+    {
+      "titulo": "Homem é baleado por homens encapuzados na Zona Sul de Teresina; chegou a pular muro de vizinha",
+      "imagem": "https://s2-g1.glbimg.com/7BIcQTcKr7zeQf3dwxcZRB9ZPUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/4/aU5J4KQzq60rjQbIECUg/edicao-imagens-g1-93-.png"
+    },
+    {
+      "titulo": "Homem é morto a tiros em frente de casa em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/1ACfYQYPgjTxwY4vWLz7oHNcPaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/Q/vpe2UvSJyb5E9Kjif99Q/iml-de-manaus-foto-gato-junior-rede-amazonica.jpeg"
+    },
+    {
+      "titulo": "AO VIVO: Assista ao GR1",
+      "imagem": "https://s2-g1.glbimg.com/0-JHhymZQjKoJwms_LRmHLPAB78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/J/mvWfiNQy2XoazxK77krw/whatsapp-image-2025-09-27-at-14.08.15.jpeg"
+    },
+    {
+      "titulo": "Buscas por grupo 'desaparecido' em floresta são encerradas no AP após relatos contraditórios",
+      "imagem": "https://s2-g1.glbimg.com/16aGhx0-rElsi3rp_VwrxAqPdIs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/B/4/Mgwqp6QX2Y08pP5hRzcA/2024-08-17-14-53-02-362.png"
+    },
+    {
+      "titulo": "VÍDEOS: Bom Dia Sábado, 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/dim0p61etl04EbM7wlgEvkwpM0c=/s01.video.glbimg.com/deo/vi/22/20/14892022"
+    },
+    {
+      "titulo": "Assista ao EPTV1",
+      "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
+    },
+    {
       "titulo": "Vendedor acha que assalto é  brincadeira, entrega celular e mesmo assim é baleado na Serra",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/t6vRuqeqcpvMKqZHCZur6A9zQOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/y/ni3c8dTqqW6d4RT6fGag/thumb-videos-g1-4-.jpg"
     },
     {
       "titulo": "Capotamento deixa 7 pessoas feridas no Sertão da PB; crianças estão entre as vítimas",
@@ -55,71 +119,7 @@
     {
       "titulo": "Contribuintes de Manaus têm até outubro para quitar dívidas com descontos de até 100%; saiba como",
       "imagem": "https://s2-g1.glbimg.com/jGvgbcmnrNvOxTFZ46btOAcpSFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/O/lF2SZfQjOynHPTBgvRhA/divida-zero.jpg"
-    },
-    {
-      "titulo": "Gatos são encontrados mortos e com sinais de maus-tratos no Mercadão 2000, em Santarém",
-      "imagem": "https://s2-g1.glbimg.com/JyDyirGG51VUPRKsQq6Kpwgqhnc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/4/6JODtdQ3KyUCjpRccmqg/whatsapp-image-2026-08-22-at-10.30.25.jpeg"
-    },
-    {
-      "titulo": "Assassinato do fundador de igreja de Lúcifer no Ceará: o que se sabe sobre o caso",
-      "imagem": "https://s2-g1.glbimg.com/qvPLTqE63Lg9GFCvDmbJTnrK--s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/i/hXuT4nRPCuw0oZ9M9uvg/bruxo-fortaleza.jpg"
-    },
-    {
-      "titulo": "Avião que caiu em avenida de Ubatuba em 2023 teve problemas técnicos e falhas na operação, aponta Cenipa",
-      "imagem": "https://s2-g1.glbimg.com/j67RcvBfgRCDMhwYKUqRotPcNZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/u/t/oa5eCJR1uIaBkSAR8I0g/whatsapp-image-2023-01-28-at-14.10.36.jpeg"
-    },
-    {
-      "titulo": "Flanelinha que cobrava R$ 30 por estacionamento em evento é abordado em ação da Polícia Civil em Teresina",
-      "imagem": "https://s2-g1.glbimg.com/ZsgDqOg9hCkANtc18_8PbSAY864=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/C/4SETaPR3ejxwFDosOfCQ/edicao-imagens-g1-7-.png"
-    },
-    {
-      "titulo": "Nuvem em formato de disco voador chama atenção de moradores do Litoral do RS; veja imagens",
-      "imagem": "https://s2-g1.glbimg.com/4WAtdfPyic32DIkOpREFxxIOLmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/M/fv7918QZayoCf0h0hRLA/documento.png"
-    },
-    {
-      "titulo": "Brasileira é encontrada morta em apartamento na Irlanda",
-      "imagem": "https://s2-g1.glbimg.com/aegixx0qO_zavRzMbnT3-LAyRMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/u/DP3zCER2CDKNQOX5tEsg/jady.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Bom Dia Sábado de 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/c8Xr5_ifYvgu0aY1oh4Hd241c24=/s01.video.glbimg.com/deo/vi/56/19/14891956"
-    },
-    {
-      "titulo": "Motorista de transporte escolar perde controle e bate contra muro do Centro Cultural do Cariri",
-      "imagem": "https://s2-g1.glbimg.com/ocW7ZkgMD6hYFnFjzov8hUenp6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/M/36lf0PTdm98TB43iFB4A/befunky-collage-5-.jpg"
-    },
-    {
-      "titulo": "Muro de duas casas desaba após obra no bairro Taquaral, em Campinas",
-      "imagem": "https://s2-g1.glbimg.com/YaGv3gsA7qKeAy2xhQlKot_DaEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/F/oows7NSQmuB8BtnBFgDg/1200px-x-800px-19-.jpg"
-    },
-    {
-      "titulo": "Justiça impõe restrições a deputado estadual após confusão na Ufba",
-      "imagem": "https://s2-g1.glbimg.com/JVClWoqUZ4oTEcEoXl3go67mJGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/7/gBA1R3Rs6F1rpVK90MaA/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-08-20t180644.366.jpg"
-    },
-    {
-      "titulo": "TRF1 determina que processo sobre Aterro de Marituba deve ser julgado pela Justiça Federal",
-      "imagem": "https://s2-g1.glbimg.com/gITtbG9nlZFGaByBlf3izC4Gupk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/1/C/jQQnocT1WxvptDoEqQNQ/uma-pequena-porcao-de-mata-separa-as-casas-do-aterro.jpg"
-    },
-    {
-      "titulo": "Tarcísio diz que estará com Flávio Bolsonaro e lamenta possíveis ausências em debates presidenciais: 'Gostaria de vê-los'",
-      "imagem": "https://s2-g1.glbimg.com/bqFcOZiyhBU6uh2rhKkmTh5qiqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Q/jnNZZQSPGYPj7jSXuQqA/captura-de-tela-2026-08-22-101851.png"
-    },
-    {
-      "titulo": "Falta água em bairros de Campina Grande e em outras cidades da PB neste domingo (23); confira lista",
-      "imagem": "https://s2-g1.glbimg.com/IZuOitJTNhtkmE6KOMJNq0mta8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/5/N/1HGBBGTSqpTeZ14INhHQ/falta-agua.png"
-    },
-    {
-      "titulo": "Carro cai em canal e mobiliza bombeiros no litoral de SP; motorista sai ileso",
-      "imagem": "https://s2-g1.glbimg.com/l8mCJm-a9WWw6TXFBb4UaPhGkaI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/U/nFTZQBRMmAe52aOp9FNA/cai-canal.jpg"
-    },
-    {
-      "titulo": "Juíza anula suspensão de vistos imposta por governo Trump a 75 países",
-      "imagem": "https://s2-g1.glbimg.com/GBosyTF1nPPG52CiIrvmNEKcLTI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/ed2QyIRzCAzbFMe7LYKg/captura-de-tela-2026-01-14-162922.png"
-    },
-    {
-      "titulo": "'Ele era um menino gentil, amoroso e brincalhão', diz prima de adolescente morto em acidente de trânsito na Zona Oeste de Manaus",
-      "imagem": "https://s2-g1.glbimg.com/_iVgWLUDBxOdmUcgc4F28Iu6eyI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/K/aWEjKJQTOUanVdBQWYZw/adolescente-acidente-manaus.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-22T14:17:14.379Z"
+  "atualizadoEm": "2026-08-22T14:46:28.073Z"
 }
