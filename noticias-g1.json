@@ -1,7 +1,59 @@
 {
   "noticias": [
     {
-      "titulo": "Cadeira quebra e locutor supera queda ao manter programa ao vivo em rádio no interior de SP",
+      "titulo": "Homem que atravessava rodovia empurrando bicicleta morre atropelado por carro em MG",
+      "imagem": "https://s2-g1.glbimg.com/eb-EKQYvvE-8zfHJH_69i1PhleI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/M/haT0iTRlAGAQ3L1qpCHQ/whatsapp-image-2026-08-22-at-13.15.26.jpeg"
+    },
+    {
+      "titulo": "Círio 2026: Imagem de Nossa Senhora de Nazaré visita Tomé Açu e São João de Pirabas no PA; veja programação",
+      "imagem": "https://s2-g1.glbimg.com/fV-uoFgeliBi0cKq3RBrPrAeOfo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/w/VOoHhETWSL9vtNNkKPpw/visita-tome-acu.jpeg"
+    },
+    {
+      "titulo": "Como a falta de mulheres na China faz homens caírem em golpes de falsas noivas e perderem milhões",
+      "imagem": "https://s2-g1.glbimg.com/8LYp0cmOK7eqG_RJIMSTTMN7Vo4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/n5FxiOTP6FFQILPINIFw/489df330-94d2-11f1-8a9a-13c674e4e5fe.jpg.webp"
+    },
+    {
+      "titulo": "Vigilantes têm armas roubadas e motorista é feito refém em tentativa de assalto a caminhão em Jarinu",
+      "imagem": "https://s2-g1.glbimg.com/8My85w90IgFaMHp57rd5AfeDYiM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/x/5KtIoLQsCbob28p6aeHw/sor-img-recupera-carga-220826-frame-447.jpeg"
+    },
+    {
+      "titulo": "Caso Geovana: réus vão a júri popular pela morte de babá que era explorada sexualmente pela patroa em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/eGmh96793cpp4PvFo8epwn5cWmw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/C/TQqwwAQMWwZixtPe94RQ/captura-de-tela-2026-08-22-163216.png"
+    },
+    {
+      "titulo": "Nora é presa após confessar ter matado sogra em MT e diz que teve surto",
+      "imagem": "https://s2-g1.glbimg.com/L_qhqrsvPwUaJfftSfDjr-ruECI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/T/vH2u8WSReUuqPwq7gBlw/foto-g1-52-.png"
+    },
+    {
+      "titulo": "1ª Feira Nordestina reúne gastronomia, cultura e shows em Guarujá; veja a programação",
+      "imagem": "https://s2-g1.glbimg.com/7sRLolhqAoAM5pAXv3VCbe8hoPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/S/sittQ7TlO1xTVWqq7gxw/foto-festa-nordestina.jpg"
+    },
+    {
+      "titulo": "Teresa Surita declara mais de R$ 8,4 milhões em bens na disputa ao Senado por Roraima",
+      "imagem": "https://s2-g1.glbimg.com/rHofG0KQH97M47PkDjqno9t8DRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/c/T7MdFMSBeTwuhdHaMAaA/teresa-surita.jpg"
+    },
+    {
+      "titulo": "Linhas 11-Coral e 12-Safira têm mudanças na operação neste domingo",
+      "imagem": "https://s2-g1.glbimg.com/XfEeAoOIsqmahosRCO8sIc4YXxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/E/aVcPKyRreAKU2FdHabiw/whatsapp-image-2026-08-21-at-18.06.28.jpeg"
+    },
+    {
+      "titulo": "Polícia apreende drogas durante ação com cão farejador em comunidade de João Pessoa",
+      "imagem": "https://s2-g1.glbimg.com/OtjdiHg_IXbszBDExoDDiv-_JPk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/K/8lu4dmR529ds880c4gXA/fiscalizacao-esgoto-semam-2-.jpg"
+    },
+    {
+      "titulo": "Motociclista fica ferido após queda e é atendido por socorrista que passava no local",
+      "imagem": "https://s2-g1.glbimg.com/PsFCLVlqXpED2hpMJLQe5mIdzys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/t/GSrjNqQMGYRhO6AlIRBQ/midia-de-distribuicao-g1-40-.png"
+    },
+    {
+      "titulo": "Chefe de segurança do Irã ameaça retaliar vizinhos que apoiarem Trump: 'nem uma gota de petróleo sairá pelo Estreito de Ormuz'",
+      "imagem": "https://s2-g1.glbimg.com/bQk46W4Q61yyeIvEmSjCMSc9ThE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/U/RO5cXIRbyrnoClLyQqGA/2026-05-29t093129z-833218144-rc2wilaxyi3o-rtrmadp-3-iran-crisis-talks.jpg"
+    },
+    {
+      "titulo": "Quem são os candidatos em SC? g1 lança ferramenta com dados do TSE e páginas de todos os políticos",
+      "imagem": "https://s2-g1.glbimg.com/45x3iB_6sXO7NBvcSFUAZXHExMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/U/dy2rq1S4eq7lnZCJgu7w/candidatos-governo-sc.png"
+    },
+    {
+      "titulo": "Cadeira quebra ao vivo e locutor mantém programa em rádio no interior de SP: 'O coração acelerou'",
       "imagem": "https://s2-g1.glbimg.com/oQosaUgnxaV4EHQtKhwQ7s2jwWI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/8/DMoAAmRlWZFIJuF7B3zw/captura2333.jpg"
     },
     {
@@ -10,7 +62,7 @@
     },
     {
       "titulo": "Lito Sousa entra em lista de espera de Harvard para possível tratamento, diz esposa",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/aYc85QkrpXvbgmW3PYoe80iXdvM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/v/6tuiXSQxaBD61NAgVgBg/saveclip.app-642199254-18562457623020560-3032200889264288672-n.jpg"
     },
     {
       "titulo": "Homem é baleado após reagir a tentativa de assalto em joalheria, em Belém",
@@ -67,59 +119,7 @@
     {
       "titulo": "VÍDEOS: AB1 de sábado, 22 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/3B4OfOffeDjZUR_I5hRmu7YB6KM=/s01.video.glbimg.com/deo/vi/64/29/14892964"
-    },
-    {
-      "titulo": "Mulher de 34 anos é morta em Caxias; suspeito foge após crime",
-      "imagem": null
-    },
-    {
-      "titulo": "Tucano 'intruso' surpreende família gaúcha durante café da manhã em Bonito; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/K-XpkLvxCyeN3YsUkhQRU-wVdEU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/b/i3BfWpTi6nSGVhjuxgvg/tucano-ms.jpg"
-    },
-    {
-      "titulo": "Concurso da Manausprev oferece 17 vagas com salários de até R$ 9,1 mil; inscrições começam dia 31 de agosto",
-      "imagem": "https://s2-g1.glbimg.com/vQNCmDacxKPgoHzOmreHDhEKDSw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/8/qw24wzTamTkdfMlMF9cA/manaus-previdencia.jpg"
-    },
-    {
-      "titulo": "Jovem diz que ex colocou máscara de oxigênio e enfiou panos com ácido na boca dela enquanto estava acorrentada: ‘Queimada por dentro’",
-      "imagem": "https://s2-g1.glbimg.com/Dvu6uLyVo5s1HNKXciZmHwv0dfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/zDHczzQo67DYBTBUYmSA/padrao-foto-g1-goias-36-.jpg"
-    },
-    {
-      "titulo": "Homem é preso com mais de 200 porções de cocaína e maconha em Paraty",
-      "imagem": "https://s2-g1.glbimg.com/M-Dv6YZO83fSGzndtOW_OW9XjUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/B/LsksfLTUypFZ9ziuOwSg/image-15-.jpg"
-    },
-    {
-      "titulo": "Por que damos choques aleatórios ao encostar em alguém ou sair do carro?",
-      "imagem": "https://s2-g1.glbimg.com/7oiQ78TY8qNxQRRVZVobXKfEVj8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/J/fTkqmuQLKwtVATaN1SIQ/aperto-de-mao.jpg"
-    },
-    {
-      "titulo": "Adolescente esfaqueado por colega em escola particular de Ribeirão Preto, SP, passou por cirurgia e quadro é estável",
-      "imagem": "https://s2-g1.glbimg.com/JTLbNUYWjC_O2b8W6I2cEI2x5Yk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/J/BRd9gHQiuVXlyibVR4JA/copia-de-molduras-g1-.png"
-    },
-    {
-      "titulo": "Abordagem policial descobre 30 quilos de maconha escondidos em carro na BR-101, em Casimiro de Abreu",
-      "imagem": "https://s2-g1.glbimg.com/JZKTlF7aHLW3NwUPuRFnm7wTDv0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/3/jALcIjQ46OhoCldb0RRQ/30-kg-de-maconha-apreendiso-na-br-101.jpg"
-    },
-    {
-      "titulo": "Motorista preso suspeito de jogar ônibus contra delegado é solto após Justiça considerar prisão como ilegal",
-      "imagem": "https://s2-g1.glbimg.com/GyonjuV0R-G08KqfWlafYEA0EsE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/V/mi249wTFaBVovRk1X54Q/preso-motorista-de-onibus-escolar.png"
-    },
-    {
-      "titulo": "Investigação aponta que caminhão invadiu acostamento e estava com excesso de carga quando matou ciclista na Anchieta, SP",
-      "imagem": "https://s2-g1.glbimg.com/xEak9Roz_j7m8rCeIu03Yu9JvXs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/9/u1bcSATayCVNXcYBZNUQ/acidente-cubatao.jpg"
-    },
-    {
-      "titulo": "Capotamento deixa um morto e um ferido em rodovia de Jundiaí",
-      "imagem": "https://s2-g1.glbimg.com/8M-Gswv3fNeC81Ed6y97LSMcv3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/H/Dzcx5bSMSgr5xVjFBgrw/edicao-g1-agenda-1-.png"
-    },
-    {
-      "titulo": "Empresária que morreu após plástica tinha vindo da Espanha para fazer cirurgia, diz família",
-      "imagem": "https://s2-g1.glbimg.com/jew8-8XILtyxCtQFUAj6OFeDiCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/a/8URDKzSn68G9yh8pBo6Q/imagens-g1-4-.png"
-    },
-    {
-      "titulo": "Palha, galhos e bambu ganham nova vida nas mãos de artesãos e se transformam em arte e renda no PI",
-      "imagem": "https://s2-g1.glbimg.com/ZOXRVCxyfCX-n28IksjuBygc9JA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/5/Ohbc9kQVGmqLt37OLRjQ/edicao-imagens-g1-9-.png"
     }
   ],
-  "atualizadoEm": "2026-08-22T20:30:38.643Z"
+  "atualizadoEm": "2026-08-22T20:58:54.612Z"
 }

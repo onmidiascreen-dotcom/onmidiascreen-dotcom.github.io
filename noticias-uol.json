@@ -1,11 +1,35 @@
 {
   "noticias": [
     {
+      "titulo": "Serviço Postal dos EUA atende pedido de Trump e publica plano para restringir voto pelo correio",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula afirma não ter preferência entre países e quer construir parcerias em minerais críticos",
+      "imagem": null
+    },
+    {
+      "titulo": "Bayern vence na visita ao Dortmund (2-1) e conquista Supercopa da Alemanha",
+      "imagem": null
+    },
+    {
+      "titulo": "Renan Santos ganha chance na TV com debate, e aliados dizem que ele não será nova versão de Marçal",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é encontrado morto na Praça da Cenoura em Marilândia do Sul",
+      "imagem": null
+    },
+    {
       "titulo": "El Niño já começou, e a tragédia não é inevitável",
       "imagem": null
     },
     {
       "titulo": "Irã diz que vai considerar \"inimigo\" qualquer país que participe da \"guerra econômica\" dos EUA",
+      "imagem": null
+    },
+    {
+      "titulo": "Promotor que comparou advogada a 'cadela' vira réu no Amazonas",
       "imagem": null
     },
     {
@@ -21,7 +45,7 @@
       "imagem": null
     },
     {
-      "titulo": "Policial suspeito de ligação com sequestro com falsa viatura é preso em SP",
+      "titulo": "Policial civil suspeito de sequestro com falsa viatura é preso em SP",
       "imagem": null
     },
     {
@@ -35,31 +59,7 @@
     {
       "titulo": "'Matéria Escura' e 'O Último Nascer do Sol': o que ver na TV e streaming na semana",
       "imagem": null
-    },
-    {
-      "titulo": "Pedro Berranteiro encerra em Barretos travessia de 10 mil km pelas Américas",
-      "imagem": null
-    },
-    {
-      "titulo": "'Bombeiro', Jair Ventura sugere que nova geração de treinadores se reinvente",
-      "imagem": null
-    },
-    {
-      "titulo": "Arthur Fils vence Cobolli é o primeiro finalista do Masters 1000 de Cincinnati",
-      "imagem": null
-    },
-    {
-      "titulo": "Itália investiga pais após morte de criança não vacinada",
-      "imagem": null
-    },
-    {
-      "titulo": "Alta procura marca o Dia D de Multivacinação em postos de saúde de São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Em eventos de campanha no Rio, Lula promete reforço na segurança e Flávio propõe 'guerra' a facções",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-22T20:30:37.313Z"
+  "atualizadoEm": "2026-08-22T20:58:53.594Z"
 }
