@@ -1,8 +1,92 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de sábado, 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/TtJx3bdI4Ja_GCF3OSIm-sfAqfs=/s01.video.glbimg.com/deo/vi/04/23/14892304"
+    },
+    {
+      "titulo": "Justiça intervém e exige necropsia de 'Barão do Tráfico' em MS; defesa alega suspeita de envenenamento",
+      "imagem": "https://s2-g1.glbimg.com/UJjQetmBTrfzvraDD1YaTTvv_VA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/M/5sb8yoTJyTAwrGBazFIA/barao-do-trafico.jpeg"
+    },
+    {
+      "titulo": "Professor é investigado por suspeita de importunação sexual contra três alunas em escola na Zona Norte de SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasileira desaparecida na Espanha há quase 50 dias: o que se sabe sobre o caso",
+      "imagem": "https://s2-g1.glbimg.com/woSJFKFE9jTHzzzMfqiM8rXz8Fc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/2/SBjYKvRpKtLLQFgbt4DQ/fiscalizacao-esgoto-semam.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Carro invade rampa de passarela em Salvador e precisa dar ré após ficar preso",
+      "imagem": "https://s2-g1.glbimg.com/liKs9fTfjKsCvz0f2aSXv1frrIU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/7/UmRhScRDyfZSzrTB55Kg/foto-no-tamanho-home-12-.png"
+    },
+    {
+      "titulo": "Homem descumpre medida protetiva e ataca mulher enquanto ela dormia em Rorainópolis",
+      "imagem": "https://s2-g1.glbimg.com/qZfTmH2c7K0MqW1kkzDyiXNLf9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/D/1CP9IvSGmCFoPZAAvOIQ/policiacivilrorainopolis.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: filhotes de coruja são encontrados vivos durante combate a incêndio no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/uqxyUhWIiOzjwXrRrNZh5fZjCOU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/V/iQboYQTcAeTtziemdrIQ/ezgif.com-optimize-11-.gif"
+    },
+    {
+      "titulo": "Homem é encontrado morto em cela de delegacia no mesmo dia em que foi preso no Acre",
+      "imagem": "https://s2-g1.glbimg.com/TpsGN-490Lrp5AMIn6ST4mi7IlY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/mOS1coQVWCIf8Khdd9tQ/midia-de-distribuicao-g1-36-.png"
+    },
+    {
+      "titulo": "Heróis de Alcântara: interior de SP tem monumento às vítimas mortas há 23 anos em acidente do VLS",
+      "imagem": "https://s2-g1.glbimg.com/ft6ITemDHLcfUf8RMX2WVsgzHqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/E/A/Xm0KXlT9SEL6QtX40Weg/whatsapp-image-2023-08-22-at-12.40.48-1-.jpeg"
+    },
+    {
+      "titulo": "Cachorro resgatado com catarata e depressão volta a enxergar após cirurgia: 'Descobriu o mundo'",
+      "imagem": "https://s2-g1.glbimg.com/9QOJYgcMNPF35ulu7dNRNSLS5qM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/u/fZwgsyS3KkaErchIlMaw/fotos-materias-2026-08-20t115008.368.jpg"
+    },
+    {
+      "titulo": "Caminhão de mudança é roubado e recuperado pela PM na Zona Oeste de SP",
+      "imagem": null
+    },
+    {
+      "titulo": "O plano que usou drones e helicópteros atrás de Ratanabá em Terra Indígena",
+      "imagem": "https://s2-g1.glbimg.com/Y2aK0QPzSQjbtvTfnSelSK5xUVI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/q/SkgTAKTJCC406F04WghQ/1200-x-800-58-.jpg"
+    },
+    {
+      "titulo": "Assista ao Gazeta Meio Dia - edição regional",
+      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
+    },
+    {
+      "titulo": "Canadá anuncia tarifas de retaliação às novas taxas dos EUA a partir de 8 de setembro",
+      "imagem": "https://s2-g1.glbimg.com/J87J4m3LAR8jcRcn2SPCKSLdaDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/B/gKLmvbROGARLRmAAURLQ/2025-06-17t015253z-1073615771-rc2u3fa8wyw6-rtrmadp-3-g7-summit.jpg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
+      "imagem": null
+    },
+    {
+      "titulo": "Assista ao EPTV1",
+      "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
+    },
+    {
+      "titulo": "Cinco membros do 'tribunal do crime' são condenados por torturar e matar catadora de recicláveis em BH",
+      "imagem": "https://s2-g1.glbimg.com/3SGKi1HengaFikv2uwJrgbValFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/j/U/DZtWtUTkAjjcVPSI6TXg/mg1-acervo-31-oct-2024-101-frame-44663.jpeg"
+    },
+    {
+      "titulo": "Wesley Safadão promete voltar à Festa do Peão de Barretos para resenha com amigos no camping",
+      "imagem": "https://s2-g1.glbimg.com/MNcbFSBZvxATHf8QUHDYyYeyQmU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/xI4ACRSnK6xTBtPJ6jbg/whatsapp-image-2026-08-22-at-02.34.18-1-.jpeg"
+    },
+    {
+      "titulo": "AO VIVO: assista à programação da NSC TV",
+      "imagem": null
+    },
+    {
+      "titulo": "VÍDEO: ônibus articulado quebra ao meio e passageiros abandonam veículo em Campinas",
+      "imagem": "https://s2-g1.glbimg.com/mzHDL5NNctB5LrYgujc7j01DTko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/b/tV6W2cSnSMDXEXim2Ogw/capas-ana-2-.png"
+    },
+    {
+      "titulo": "Delegada Vilma Alves morre aos 79 anos; relembre trajetória da primeira delegada negra do PI",
+      "imagem": "https://s2-g1.glbimg.com/RtKpMVhw4pOA4q5n_VV0MjNxA38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/k/DD81kARBWKUcSyrBp26Q/g1-bg-01-2-.png"
+    },
+    {
       "titulo": "Morre veterinária atacada por pastor-belga do Senado em Brasília",
-      "imagem": "https://s2-g1.glbimg.com/xvd6koyUwJ-YUaLst-7dVh8GY4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/I/CxZpw3QhaBF1nkDUJxmA/up-clb-canil-senado-3-13bd-18082026-frame-0.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/GJseEJdm_yE44WwEDBF6mLFlCFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/e/ZdKeATSredu3zcAEa9Pg/vitoria-caes.jpg"
     },
     {
       "titulo": "VÍDEOS: GR1 de sábado, 22 de agosto de 2026",
@@ -10,7 +94,7 @@
     },
     {
       "titulo": "Flávio diz que narcoterroristas têm até dezembro para ‘meter o pé’ do Brasil e promete ‘guerra’ contra criminosos",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/6iUl6HnBbxpNQ4OTSzIEwTjfgjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/u/r5rnnGSlmn7efeLDqSUA/flavio.jpeg"
     },
     {
       "titulo": "'Perigo potencial': Inmet alerta 23 municípios de PE sobre vendaval",
@@ -35,91 +119,7 @@
     {
       "titulo": "VÍDEOS: NE1 de sábado, 22 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/doaRtmw_FdwTUTXfcst1gaOWlUw=/s01.video.glbimg.com/deo/vi/20/21/14892120"
-    },
-    {
-      "titulo": "PM apreende drogas durante prisão de homem que agrediu a namorada em Governador Valadares",
-      "imagem": "https://s2-g1.glbimg.com/xe70sn0BKCTtKu1_5WhG4dMdzQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/V/AqfDeBS3CFOc7G7xtIFA/whatsapp-image-2026-08-22-at-11.10.21.jpeg"
-    },
-    {
-      "titulo": "Empresário é morto a tiros após ser chamado para fazer orçamento em obra em MT",
-      "imagem": "https://s2-g1.glbimg.com/i7azm1dOtgBhPlv7BIL4x08CbRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/X/FYw7NJSXAqD0yWwORfYA/foto-g1-49-.png"
-    },
-    {
-      "titulo": "Idosa morre e três ficam feridos em acidente entre carro da Saúde de Porto de Pedras e caminhonete em Maceió",
-      "imagem": "https://s2-g1.glbimg.com/6V2jEYopd1o1XenswyJr0_YUVlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/k/LvxFVOTU2rgXY1nBLAow/acidentemaucinapaint.jpg"
-    },
-    {
-      "titulo": "Mangueira, cabo de marreta e peças metálicas: homem é preso após torturar enteado de 12 anos em Artur Nogueira",
-      "imagem": "https://s2-g1.glbimg.com/VbSC2C0knOn_Wew2Ucvjouauw4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/u/Ha3xr0Qv2rwqi7FqZXnQ/tortura-menino.png"
-    },
-    {
-      "titulo": "Após semanas de calor intenso, Manaus registra chuva neste sábado (22); 'Não aguentava mais tanto calor', comemora manauara",
-      "imagem": "https://s2-g1.glbimg.com/UpQTFfqHfdr7E1BfUXcGpfsEYMU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/9/rh9jPgQO27XhSCBvbdfQ/chuva-em-manau-2208.jpg"
-    },
-    {
-      "titulo": "Público aproveita 'Dia D' de vacinação para imunizar crianças no Acre: 'Fundamental'",
-      "imagem": "https://s2-g1.glbimg.com/cX-XdlmfhIVcE0dcUShOHuuc7_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/3/sxKIFjQa6eZ61AFAP8dQ/midia-de-distribuicao-g1-35-.png"
-    },
-    {
-      "titulo": "Jorge Vercillo celebra 30 anos de carreira, redefine romantismo e rejeita 'fórmulas de sucesso'",
-      "imagem": "https://s2-g1.glbimg.com/R7Atc2hLQVvo2Vv5lGIbHwzz9TI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/l/Pq5KIzQqAYlEl5dJHs7w/jorge-vercillo-1-.jpg"
-    },
-    {
-      "titulo": "Batida entre carros deixa um morto e quatro feridos em rodovia de Porangaba",
-      "imagem": "https://s2-g1.glbimg.com/dDx267coH7OVSHZThvLreJQA6ds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/BOt5sUQXKXYxgADz26Zg/whatsapp-image-2026-08-22-at-11.45.28-1-.jpg"
-    },
-    {
-      "titulo": "Polícia recaptura três dos homens que fugiram de delegacia pulando muro em Porto Velho",
-      "imagem": "https://s2-g1.glbimg.com/AbxPVeIgKoSlHS8sldUNPiH7-qc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/H/sPlIFUQTGbJQAxyY1ILA/whatsapp-image-2026-08-22-at-10.06.09.jpeg"
-    },
-    {
-      "titulo": "Coxinha com massa de batata: aprenda a receita no Chef JPB",
-      "imagem": "https://s2-g1.glbimg.com/yudPtfZSRB0dyahgQqmeYX793HE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/B/szAILBScKsAC3GkgilAg/whatsapp-image-2026-08-21-at-17.15.47.jpeg"
-    },
-    {
-      "titulo": "Casal é encontrado morto em SC e polícia aponta ex-marido divorciado há um ano como suspeito",
-      "imagem": "https://s2-g1.glbimg.com/3clJF8c4FKUTBZOcTWN_FDrjWXk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/IYFvaeQ5CeQdB2BT6vOA/casal-criciuma.png"
-    },
-    {
-      "titulo": "Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão neste sábado (22)",
-      "imagem": "https://s2-g1.glbimg.com/5IzCTdtf88UgAqqFcfbgbZbtGvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/0/eYYAtPTeWwdcdZMLt1SQ/montagens-1920-x-1080-px-2026-08-17t095134.479.png"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Liberal",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista ao JAP1 deste sábado  (22)",
-      "imagem": "https://s2-g1.glbimg.com/d159ugdtqWvjGJ8icVuG8EY8Enw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/k/ZOZNZWTGmKBN2hq4mfww/whatsapp-image-2026-02-28-at-12.10.19.jpeg"
-    },
-    {
-      "titulo": "Assista ao Link Vanguarda no g1",
-      "imagem": "https://s2-g1.glbimg.com/-aKNpXu5tkH1IMbZNlTHrGL7GBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/m/0EIsytSK6hz2JpLJ2VsA/texto-do-seu-paragrafo-23-.png"
-    },
-    {
-      "titulo": "Evento em Boa Vista marca lançamento da 7ª temporada do Fala Macuxi",
-      "imagem": "https://s2-g1.glbimg.com/K5Qxt5phvYYKAiBonkc4LDvQa7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/P/aejcisSBWT8Foy4v4HjA/img-3072.jpg.jpeg"
-    },
-    {
-      "titulo": "Polícia incinera 1,9 tonelada de maconha e destrói plantação com 60 mil pés em Cachoeira de Pajeú",
-      "imagem": "https://s2-g1.glbimg.com/t5jGQeCGN9NDXyFUZfqFG5Yqsi0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/x/HA8LBBRECCTa69bH2Z9g/dji-20260821100222-0005-d-2-.jpeg"
-    },
-    {
-      "titulo": "Arara que visitava casa todos os dias é encontrada morta em Campo Grande; moradora suspeita de tiro",
-      "imagem": "https://s2-g1.glbimg.com/ZVb2KPuXXnYQksz9SD293WX5qo8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/C/XLRF8HTKqFAeg71DayUQ/formato-g1-48-.png"
-    },
-    {
-      "titulo": "Família tem casa invadida e é feita refém durante assalto em João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/9BHsyroOJKGiKGkA1Ss4hDKzU6w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/p/Ahr4rmRIG17uxrBoZ2nw/assalto-casa-seixas.png"
-    },
-    {
-      "titulo": "Assista ao JRO1 deste sábado, 22",
-      "imagem": "https://s2-g1.glbimg.com/epig6bDHngEjO2TZQ1H8ajPnu2A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/5/BvNTMRRhyUzIlHJVBjmA/whatsapp-image-2026-08-22-at-11.05.43.jpeg"
-    },
-    {
-      "titulo": "Carro roubado há mais de dois anos encontrado em ‘poço sem fundo’ foi comprado duas vezes e era sonho de dono: 'Virou pesadelo'",
-      "imagem": "https://s2-g1.glbimg.com/Rfci7x1yw3qMoB54YpFrEwoNWIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/0/qp6fN9TQSCbqSOmcHdAg/jpg-2-.jfif"
     }
   ],
-  "atualizadoEm": "2026-08-22T15:59:42.782Z"
+  "atualizadoEm": "2026-08-22T16:33:22.594Z"
 }
