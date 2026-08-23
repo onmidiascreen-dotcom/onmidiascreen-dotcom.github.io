@@ -1,6 +1,50 @@
 {
   "noticias": [
     {
+      "titulo": "Corpo de homem que estava desaparecido é encontrado em rio de Lagarto",
+      "imagem": "https://s2-g1.glbimg.com/QBd-4m4RhBKxx2Q8_OgOyM-CDX0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/P/HmwECQRSOlxBY4AccXQA/imagem-g1-4-.jpg"
+    },
+    {
+      "titulo": "Batida entre veículos deixa um ferido em Suzano",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é morto a tiros por PM de folga após esfaquear cabeleireiro dentro de igreja em Anchieta",
+      "imagem": "https://s2-g1.glbimg.com/AKm5o7jJUT60ZAKIMOxPvKTewf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/t/8vfpZXQZSVm55fxiz8AQ/thumb-videos-g1-15-.jpg"
+    },
+    {
+      "titulo": "Dupla é presa com 666 kg de maconha tipo skunk em bote no Rio Negro, no Amazonas",
+      "imagem": "https://s2-g1.glbimg.com/ARdcAM1ooVtEg__womLiPXhONKY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/C/PhOL5uTPibRIK38eBhcQ/dupla-e-presa-com-666-kg-de-maconha-tipo-skunk-em-bote-no-rio-negro-no-amazonas-foto-divulgacao-pmam.jpg"
+    },
+    {
+      "titulo": "Candidatos ao governo do Paraná cumprem agendas de campanha",
+      "imagem": "https://s2-g1.glbimg.com/kqGlFYegKa-BueVxhGjBsrlaDn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/l/w/nd1XBZRCGoCuMSwg9dTg/dae0a475-8fcd-48ea-962b-bea36ee433c0.jpg"
+    },
+    {
+      "titulo": "Programa gratuito oferece 500 vagas de capacitação e curso de inglês no MA; veja como participar",
+      "imagem": "https://s2-g1.glbimg.com/-VnfhK2WRrYwfXmdEIvfVWLQTAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/z/oYPjQBSYqUWmABd1wM9A/passaro8295.mxf-snapshot-00.15.635.jpg"
+    },
+    {
+      "titulo": "Com show gratuito de Sandra Sá, Semana da Cerveja Mineira reúne 25 cervejarias em Juiz de Fora",
+      "imagem": "https://s2-g1.glbimg.com/3tyCTcEiIis3pXSoSyQB2WTDf6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/e/oIADg5R3ABdZG1W79B1A/cervejaria-alvrada-3-jarra.jpg"
+    },
+    {
+      "titulo": "Justiça manda prender dupla acusada de manter idosos em condições desumanas no litoral de SP",
+      "imagem": "https://s2-g1.glbimg.com/_gA2QyTkdzisEWT3cQzwbWdTJU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/I/7zAJMLT1APbBHtFs3Tdg/design-sem-nome-31-.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Égua ‘adota’ terneiro rejeitado pela mãe no RS",
+      "imagem": "https://s2-g1.glbimg.com/h8xErpD9jwzVwRP9GmMbxVbz9Pw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/8/ErIUUuQ6KFLvyTA66aJg/g1-75-.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Aluna de 12 anos sobe à tribuna da Câmara para defender melhorias no entorno da escola em Divinópolis",
+      "imagem": "https://s2-g1.glbimg.com/1mPIjA-W3IgeEgPAG-3TsL-h3wc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/M/QRtREYQ1qGVjwhRGfBzA/lara-heloize-de-12-anos.jfif"
+    },
+    {
+      "titulo": "VÍDEO: Carro desgovernado invade loja de bebidas e motorista é preso por suspeita de embriagez em SC",
+      "imagem": "https://s2-g1.glbimg.com/J_sqbrsT8rGC_Mh-JC-U6mgvWMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/x/yp8fJRQ9W5XqV7AQMHtQ/carro-invade-loja-em-palhoca-.png"
+    },
+    {
       "titulo": "Câmara de Pouso Alegre revoga lei que dispensava distância mínima entre clubes de tiro e escolas",
       "imagem": "https://s2-g1.glbimg.com/LquGhWa-x2C1KZ5aj8JUaNcU1ko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/u/6ABHswSrWsh1a7tG9iSQ/2-65-.png"
     },
@@ -14,7 +58,7 @@
     },
     {
       "titulo": "Acidente entre veículos de passeio deixa um morto na Rodovia dos Bandeirantes em Jundiaí",
-      "imagem": "https://s2-g1.glbimg.com/Lue9IqwYYL0RKNHP2CUKYmmtZ2s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/V/ed1QADRsyJ5tOWFJAJLA/4ff0be20-9aae-4d5b-b75a-a8fe33e1066e.jpg"
+      "imagem": "https://s2-g1.glbimg.com/_kQkxtnt8eCjJJ15ZxRqis8ptH8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/v/Bm99CATxAAqm4cg4OWRA/4ff0be20-9aae-4d5b-b75a-a8fe33e1066e-ok.jpg"
     },
     {
       "titulo": "Leoni apresenta repertório de clássicos do rock e MPB em show em Manaus",
@@ -65,7 +109,7 @@
       "imagem": "https://s2-g1.glbimg.com/_eLKfHJSE6Q3kyJIyT4H_iO9DY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/9/o5oyuEST6BuBIwkGkAmw/gcm-2-.jpeg"
     },
     {
-      "titulo": "Ex-marido mata mulher de 40 anos com golpes de faca e enxada em Aquidauana",
+      "titulo": "Ex mata mulher com golpes de faca e enxada em MS; suspeito foge com filha do casal",
       "imagem": "https://s2-g1.glbimg.com/cpAfcgTxXmDsN5oZzDn_ZkGELuw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/T/uIAW1iRPSEUB3BzYD0BQ/feminciida.jpg"
     },
     {
@@ -75,51 +119,7 @@
     {
       "titulo": "China adia missão lunar que busca água no polo sul da Lua",
       "imagem": "https://s2-g1.glbimg.com/Wyfrjj6lixm4G28KMAxAtyCJEiM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/G/cCHUsKTOGyVciArw2Qlw/2026-08-19t030813z-555294732-rc2c1najh4y5-rtrmadp-3-space-china-landspace.jpg"
-    },
-    {
-      "titulo": "Casal é preso com 57 kg de maconha e 26 pés da droga em Buritizeiro",
-      "imagem": "https://s2-g1.glbimg.com/pi-6BHsIQU5KozBOlZULBzCkdu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/W/kt4oIbRa2d9CFzBPoI7g/carol-15-.png"
-    },
-    {
-      "titulo": "Em primeira aparição, Lito faz apelo urgente por tratamento experimental: 'Cada minuto importa'",
-      "imagem": "https://s2-g1.glbimg.com/1acmU1tOauQ6rwPetsAGdYgQ1DU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/z/vqhuHDT6mQADKwHC080Q/copia-de-sem-nome-1200-x-900-px-1-.png"
-    },
-    {
-      "titulo": "STF nega pedido da Prefeitura e mantém suspensão do aumento para até 300% da taxa do lixo em Teresina",
-      "imagem": "https://s2-g1.glbimg.com/VUPlVueK4xcQCAGh3RMHzGvaCgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/5/ZNNEX1Rf22B7SQkpeVOw/copia-de-edicao-imagens-g1-20-.jpg"
-    },
-    {
-      "titulo": "Árbitro de futebol de SC morre após carro bater contra parede de terminal urbano e pegar fogo",
-      "imagem": "https://s2-g1.glbimg.com/Zc5jmr4cW4Pw6E8Ul173NFtKTUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/O/8P3nFZQ1CFjCMr2N3C5Q/arbitro-de-futebol-catarinense-morre-apos-carro-bater-contra-parede-de-terminal-urbano-e-pegar-fogo-.png"
-    },
-    {
-      "titulo": "Motorista é preso após matar ciclista atropelada em Porto Velho",
-      "imagem": "https://s2-g1.glbimg.com/C8fkZM-g95qadpMKwSvlaCopfug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/f/FTahR6SLa0W6raV1EUOQ/g1-ro-2026-10-.jpg"
-    },
-    {
-      "titulo": "Ataque a tiros deixa um morto e um ferido em Aracaju",
-      "imagem": "https://s2-g1.glbimg.com/ykrInnqdnLKw__cn_abrVjMbk-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/5/W/9GYFZqSyqBNJbhjhDi4Q/whatsapp-image-2023-03-29-at-15.27.21-1-.jpeg"
-    },
-    {
-      "titulo": "Mega-Sena: aposta de Palmas acerta cinco dezenas e ganha prêmio de R$ 34 mil",
-      "imagem": "https://s2-g1.glbimg.com/nZV6RPsAkqnogahjIwz3NKEN2wY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/L/VupTpvQc6s48aLlkwsVQ/mega3048.png"
-    },
-    {
-      "titulo": "Acidente deixa três mortos no RS; condutor apresentava sinais de embriaguez, afirma polícia",
-      "imagem": "https://s2-g1.glbimg.com/lvKQd_bzAN0n9-u8J0n4l4ZGXaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/q/rDDzgOSAKSdXoEva0CvA/g1-74-.jpg"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
-    },
-    {
-      "titulo": "Eleitorado com deficiência cresce no interior de SP; Rio Preto lidera alta",
-      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
-    },
-    {
-      "titulo": "Fogo em vegetação atinge fábrica desativada em Itaquaquecetuba",
-      "imagem": "https://s2-g1.glbimg.com/xi02dzlR5jowJ9Afv9M4zoYUUno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/I/Uza9uYQrqw9iVi2bLTjA/whatsapp-image-2026-08-23-at-13.47.49-3-.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-23T18:35:58.191Z"
+  "atualizadoEm": "2026-08-23T19:02:54.597Z"
 }
