@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Baleia de 6 metros encalha e é encontrada morta em praia de Paracuru",
+      "imagem": "https://s2-g1.glbimg.com/eFBU1wq_7k83m9F_1utt0hk1CWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/R/myqGvzSFCI3yWQUgYizg/baleia-encontrada-encalhada-paracuru-ceara.jpg"
+    },
+    {
+      "titulo": "Pudim de leite com geleia de morango: aprenda deliciosa receita destaque no Clube Rural",
+      "imagem": "https://s2-g1.glbimg.com/wn4MOEzvYwDg7VFAwRbNKKX3-CY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/f/RIKX7lT6mpNExfdxzUTQ/edicao-imagens-g1-20-.png"
+    },
+    {
+      "titulo": "Bovinos influenciadores: conheça a vaca Leide e o touro Xerife",
+      "imagem": "https://s2-g1.glbimg.com/JRa8SwSd-51hQbfcRt-2gzKja68=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/3/X02IwOQNqo5qG9ZUBuig/sjp-animais-influencers-frame-5342.jpeg"
+    },
+    {
+      "titulo": "Receita Nosso Campo: aprenda a fazer uma moranga com carne seca",
+      "imagem": "https://s2-g1.glbimg.com/n4bZtSCRkPy3aN_fO0gGD9YVhxw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/v/kSuGJMRBGFYnY2K3JDpg/bau-moranga-carne-seca-frame-8375.jpeg"
+    },
+    {
+      "titulo": "Variedade de uva italiana começa a ser produzida em São Roque",
+      "imagem": "https://s2-g1.glbimg.com/_ri1Mj2KfgJh-pXEQt6Sg_RAPAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/o/bOW21wSyAYDr03TEonqA/sor-vinhos-inverno-frame-4935.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª edição deste sábado, 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/nrkuNfXWsdeKD4OaYT0FNmiUhz4=/s01.video.glbimg.com/deo/vi/41/39/14893941"
+    },
+    {
       "titulo": "Anavilhanas: conheça o arquipélago na Amazônia que muda de paisagem a cada seis meses",
       "imagem": "https://s2-g1.glbimg.com/uO3yXbaKrYbGWZGrMPb-56DqUaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/WYjAZcTAOZHMjs2mND3A/felipe-anavilhanas-amazonas.jpg"
     },
@@ -95,31 +119,7 @@
     {
       "titulo": "Festa do Peão de Barretos 2026: veja a programação deste domingo, 23 de agosto",
       "imagem": "https://s2-g1.glbimg.com/JYHoBT0rm29m0B4Qs9rFqCCv490=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/1/T0xGvlR0GYKBMFvrsoRg/molduras-g1-2026-08-17t163144.180.png"
-    },
-    {
-      "titulo": "São Sebastião recupera capacidade de investimento e retoma ciclo de obras",
-      "imagem": "https://s2-g1.glbimg.com/5H34GxcNJUPFb7XA0eRf2JtDgUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/r/CTo5CYSJSANu0edzgkRg/2026811161141198561.jpg"
-    },
-    {
-      "titulo": "Golpes usam Minha Casa, Minha Vida e Desenrola para roubar dinheiro; veja como se proteger",
-      "imagem": "https://s2-g1.glbimg.com/DHNb5OaDrG-IvqcIF-pZHHIpX3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/Y/jB4AF9QjSVcFM46UBkZA/fta20240520073-1-.jpg"
-    },
-    {
-      "titulo": "El Niño pode encarecer alimentos em até 20%; economistas prevêem impacto na inflação",
-      "imagem": "https://s2-g1.glbimg.com/uwrX4SbrxE4NrY-bvGG_NsxivSI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Y/g/xvm7auROWivTKDf3OI0w/de-onde-vem-a-salada-supermercado-sonda-foto-celso-tavares-g1-29-de-94-.jpg"
-    },
-    {
-      "titulo": "Por que europeus estão guardando mais dinheiro vivo mesmo usando cada vez menos notas?",
-      "imagem": "https://s2-g1.glbimg.com/7khFbIc1N1Jw51hTJw3AxYHg0do=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/0/wkDSVbT1AdKVK1SIdoMw/63767847-1004.webp"
-    },
-    {
-      "titulo": "Seu filho quer um cachorro? Estudo mostra o que importa nessa relação",
-      "imagem": "https://s2-g1.glbimg.com/wz4gdVQedGc4IY1mKl8D2UjkpJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/Z/o8RrANQ126hFoVXoi8GQ/pexels-stephen-chantzis-3647993-5810576.jpg"
-    },
-    {
-      "titulo": "Casos de abuso sexual de menores explodem entre migrantes em Ceuta",
-      "imagem": "https://s2-g1.glbimg.com/4IWyCv5ctZvO7iYQw0OLFjL1dPU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/y/dpYqFjRcaqNBizSqOBLw/2026-08-18t140123z-2073834659-rc2bzmaqm7tg-rtrmadp-3-migration-europe-spain-ceuta-women.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-23T10:19:16.054Z"
+  "atualizadoEm": "2026-08-23T10:49:08.823Z"
 }

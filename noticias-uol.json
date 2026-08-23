@@ -1,7 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Confira os falecimentos deste domingo (23) em Apucarana e região",
+      "imagem": null
+    },
+    {
       "titulo": "Filho é preso após ameaçar a mãe e resistir à abordagem em Ivaiporã",
+      "imagem": null
+    },
+    {
+      "titulo": "Maioria na Alemanha crê que governo Merz terá fim precoce",
       "imagem": null
     },
     {
@@ -51,15 +59,7 @@
     {
       "titulo": "Lula e Flávio fazem guerra de preços de comida nas redes sociais",
       "imagem": null
-    },
-    {
-      "titulo": "Tatuapé: o caminho do tatu que virou o bairro de luxo da zona leste",
-      "imagem": null
-    },
-    {
-      "titulo": "Com provável ausência de Lula e Flávio, nanicos se enfrentam em 1º debate",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T10:19:15.195Z"
+  "atualizadoEm": "2026-08-23T10:49:07.543Z"
 }
