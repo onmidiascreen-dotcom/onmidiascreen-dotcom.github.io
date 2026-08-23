@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Etíope Yomif Kejelcha bate recorde mundial na Meia Maratona de Buenos Aires",
+      "imagem": null
+    },
+    {
+      "titulo": "China adia a missão lunar Chang'e-7",
+      "imagem": null
+    },
+    {
       "titulo": "Não é só recorde: erros e tombos aproximam robôs de humanos em Pequim",
       "imagem": null
     },
@@ -51,15 +59,7 @@
     {
       "titulo": "Homem morre asfixiado após imobilização durante surto no litoral de SP",
       "imagem": null
-    },
-    {
-      "titulo": "China adia lançamento de missão para procurar água no polo sul da Lua",
-      "imagem": null
-    },
-    {
-      "titulo": "EUA havia proposto reduzir taxas sobre produtos do Canadá, diz representante de Trump a jornal",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T17:44:20.352Z"
+  "atualizadoEm": "2026-08-23T17:58:32.931Z"
 }
