@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Robôs podem correr mais rápido que humanos, mas será que conseguem conectar um cabo?",
+      "imagem": null
+    },
+    {
+      "titulo": "Eleições em tempo de guerra \"destruiriam\" a Ucrânia, afirma Zelenskiy",
+      "imagem": null
+    },
+    {
+      "titulo": "ONS volta a restringir geração distribuída por baixa demanda no domingo",
+      "imagem": null
+    },
+    {
+      "titulo": "Desvendado o mistério do \"chifre\" do narval, o \"unicórnio do mar\"",
+      "imagem": null
+    },
+    {
       "titulo": "Melhor modelo de IA da Anthropic tem dificuldade para atrair usuários",
       "imagem": null
     },
@@ -25,7 +41,7 @@
       "imagem": null
     },
     {
-      "titulo": "Lando Norris (McLaren) vence GP dos Países Baixos de F1  ric/dr/iga/aam",
+      "titulo": "Lando Norris (McLaren) vence GP dos Países Baixos de F1",
       "imagem": null
     },
     {
@@ -43,23 +59,7 @@
     {
       "titulo": "Horário do debate Band presidencial hoje: veja que horas começa transmissão",
       "imagem": null
-    },
-    {
-      "titulo": "Paralamas, Titãs e Paulo Ricardo embalam público do C6 no Rock em São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Eleitores de direita e de esquerda concordam sobre Estado forte na economia",
-      "imagem": null
-    },
-    {
-      "titulo": "Linchamento em Copacabana expõe suspeitas contra grupos de vigilantes e justiceiros na zona sul do Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasil tem apenas um drogômetro certificado pelo Inmetro",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T15:29:36.172Z"
+  "atualizadoEm": "2026-08-23T15:49:51.821Z"
 }

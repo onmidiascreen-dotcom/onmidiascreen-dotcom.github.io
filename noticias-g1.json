@@ -1,6 +1,38 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEOS: Amazônia Agro - Acre deste domingo, 23 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/kqnSve4422ErTVQgG7EXgV4qCWE=/s01.video.glbimg.com/deo/vi/08/81/14888108"
+    },
+    {
+      "titulo": "Assessor parlamentar morre após colisão de moto com muro de escola em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/brXw2CV5MBhCMuEOe6YK2KOh0oE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/7/Yva2JVSRSy0UBL1mO8KQ/motociclista-fabio-margarido-de-moraes-morre-apos-perder-controle-da-moto-e-sofrer-acidente-em-manaus-foto-reproducao-redes-sociais-.jpg.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: dupla de capacete invade casa e mata homem a tiros no ES",
+      "imagem": "https://s2-g1.glbimg.com/OxjMSqEQpKQFGE3OyeKtIkE9onY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/B/LoB1uZStCTwn1KQSWkEw/thumb-videos-g1-13-.jpg"
+    },
+    {
+      "titulo": "'Coxinha, pastel e brigadeiro': intercâmbio leva estudantes da Nova Zelândia a escola pública de cidade do interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/oJlmrbiG3xqeaMa805Nm0B5uecc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/Q/PpM1SSSRGRUAYuAMg9EQ/sor-alunos-intercambio-170826.transfer-frame-7740.jpeg"
+    },
+    {
+      "titulo": "Mototaxista de 20 anos morre após bater contra caminhão estacionado no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/FTWfO6DkvTJxfHtEA4D5IZTr37E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/k/w3HYGPT6uoumj3qIxaKQ/tamanho-post-materia-62-.jpg"
+    },
+    {
+      "titulo": "Homem fica ferido após explosão de botijão de gás em imóvel na Zona Norte de SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é morto a facadas na porta de supermercado em Boa Vista",
+      "imagem": "https://s2-g1.glbimg.com/Cu9T3R5yc8YyInqrfaFvvYdFFPc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/O/Q/PP0XU9QiScLcysSSMAEg/iml-rr.jpeg"
+    },
+    {
+      "titulo": "Kleiton, Kledir e Vitor Ramil se afinam, em trio, no belo relicário de emoções e tradições afetivas do show dos irmãos",
+      "imagem": "https://s2-g1.glbimg.com/NBBXH65RhaovLovME6da2WENBKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/3/2AYamlRhA7UaDj526JKg/ramilricardo.jpg"
+    },
+    {
       "titulo": "VÍDEO: casa é transportada inteira e 'estacionada' em novo terreno no Paraná",
       "imagem": "https://s2-g1.glbimg.com/Vr2WJW2hk46QxX-z-DEFlC3WAeU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/e/a1vmJ4QfuVRvkhU7eLKg/g1-pr-2026-08-23t121724.938.jpg"
     },
@@ -87,39 +119,7 @@
     {
       "titulo": "Túlio de Amorim Pfuetzenreiter (Missão) declara patrimônio de 967 mil: veja bens do candidato ao Senado por SC",
       "imagem": "https://s2-g1.glbimg.com/piD4_OFrQe22zXnNpLA9xrMsihU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/J/1IiPbBT2y2HdRONPLVEw/tulio-missao-1.jpg"
-    },
-    {
-      "titulo": "Motociclista morre após acidente com trator na SP-284 em Martinópolis",
-      "imagem": "https://s2-g1.glbimg.com/XKPsoYYrXJsHg3qqi6N19g-domA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/a/UCA5alSaKZrEJuTHhErA/acidente-martinopolis.jpg"
-    },
-    {
-      "titulo": "+Milionária hoje: resultado do concurso 383 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/EPPgrBV6G1OSaP1FTKycGloOpVY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/2/vXpIDBQdKlZprIp7OpyA/maismilionaria-383-cnnqj.jpeg"
-    },
-    {
-      "titulo": "Loteria Federal hoje: resultado do concurso 6094 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/3SKJu7AGrcKuT-qMX4Jy1HgmVQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/V/I6QNZMSVWAzVC7YlcjIw/federal-6094-teoue.jpeg"
-    },
-    {
-      "titulo": "'Bote fé na humanidade': vídeo de homem ajudando a empurrar carro em avenida movimentada repercute em RO",
-      "imagem": "https://s2-g1.glbimg.com/TjGJVbPdnVSjZ3JvmpZCfXc-EuY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/O/cGZ86wRhAfYTbTBt7fMw/whatsapp-image-2026-08-22-at-12.20.19.jpeg"
-    },
-    {
-      "titulo": "Homem morre após ser espancado por suspeita de furto de ventilador em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/k--G9WtU56DWLqmHQb-g2UTmYVw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/z/UChvHsTo6AzN25NCu2xQ/delegacia-especializada-em-homicidios-e-sequestros-dehs-foto-erlon-rodrigues-pc-am.jpg"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
-    },
-    {
-      "titulo": "Mega-Sena 3048: aposta simples feita pela internet em SC acerta sozinha e leva R$ 57 milhões",
-      "imagem": "https://s2-g1.glbimg.com/1sSy65vG7QSsTHeTngo-1y2OnPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/7/IBY0BBSASFQEpEYUMA0w/blumenau-.png"
-    },
-    {
-      "titulo": "Motorista e passageiro ficam presos às ferragens de carreta que tombou com toras de madeira no Acre; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/HM9pU8EvZS9rFPAeaLrIytYdJjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/B/ktOUoeRluYd1bRWVv7hA/midia-de-distribuicao-g1-2026-08-23t090047.148.png"
     }
   ],
-  "atualizadoEm": "2026-08-23T15:29:37.095Z"
+  "atualizadoEm": "2026-08-23T15:49:52.925Z"
 }
