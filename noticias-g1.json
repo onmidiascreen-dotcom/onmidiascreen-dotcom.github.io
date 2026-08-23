@@ -1,12 +1,68 @@
 {
   "noticias": [
     {
+      "titulo": "Maria Bethânia emociona público em noite de celebração à música brasileira no Festival de Inverno Bahia",
+      "imagem": "https://s2-g1.glbimg.com/okhLdKpr-f1CETP36qCprTg3DE0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/D/z3exvLTPO7KvRd6reCEg/whatsapp-image-2026-08-22-at-21.34.54.jpeg"
+    },
+    {
+      "titulo": "Ao lado de Tarcísio na Festa do Peão de Barretos, Flávio diz que vai resgatar o agro: 'Grande orgulho mundial'",
+      "imagem": "https://s2-g1.glbimg.com/eGSZUcN-MmdYVzzT_hBRd2V0Q7I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/s/jt9H1YQa6f4Zpw74nujA/dsc-1062.jpg"
+    },
+    {
+      "titulo": "Pai leva buquê de flores para filha na escola no dia do aniversário, e gesto emociona",
+      "imagem": "https://s2-g1.glbimg.com/KKbtcVkgIadMr2UeUrapcXpeQ1A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/JDd41ITQG7yNI5G4yUGg/co-1-.png"
+    },
+    {
+      "titulo": "Gabi Martins curte show de Nattan no camping de Barretos",
+      "imagem": null
+    },
+    {
+      "titulo": "'JN nas Ruas' no Rio Amazonas: histórias mostram como a educação muda vidas",
+      "imagem": "https://s2-g1.glbimg.com/dPGslZ77-bZ_pg5tG0w59ASa3-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/J/lkPzR9TLKstP8FSR2wwg/vlcsnap-2026-08-22-21h45m17s054.png"
+    },
+    {
+      "titulo": "Canadá reage a Trump e anuncia tarifa de 50% sobre produtos dos EUA",
+      "imagem": "https://s2-g1.glbimg.com/nblTPeDWrAxxwecH43vXiTvi96c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/I/xCH1J5QHi0t8NFXfV9zA/vlcsnap-2026-08-22-21h19m09s211.png"
+    },
+    {
+      "titulo": "Presidente Lula, candidato à reeleição pelo PT, faz campanha na Zona Oeste do Rio",
+      "imagem": "https://s2-g1.glbimg.com/CFHUsW0HeEtNWZwM-zFQZOwDMys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/O/D97nUxTHStWbCefLs04w/videoframe-3146242.png"
+    },
+    {
+      "titulo": "Candidatos ao GDF cumprem agendas de campanha em diferentes regiões do DF neste sábado",
+      "imagem": "https://s2-g1.glbimg.com/eW0XVjF1MQtIuB251WBIM9txzQU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/z/Dha3tPTKyYCiVLohgr9Q/fotojet-18-.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sábado, 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/wqEOCUvXEo4c3_bvIN3Qu3p5sTo=/s01.video.glbimg.com/deo/vi/76/37/14893776"
+    },
+    {
+      "titulo": "Flávio Bolsonaro, candidato à Presidência pelo PL, faz campanha no Rio",
+      "imagem": "https://s2-g1.glbimg.com/WjcwQ-7MhZpzMNTHleL7kt35PhI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/6/wSKJbkThO5VKXW9jgB0w/videoframe-3060819.png"
+    },
+    {
+      "titulo": "Gestora de projeto social usa trajetória de superação para inspirar jovens: 'O lugar que você mora não pode definir a sua vida'",
+      "imagem": "https://s2-g1.glbimg.com/AsJHPXzUc5NXNGWLcx50XsDiZwU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/H/hHu2hmTCqYiPWPtZj5aw/1.png"
+    },
+    {
+      "titulo": "Romeu Zema, candidato do Novo à Presidência, caminhou pelo centro de São Paulo",
+      "imagem": "https://s2-g1.glbimg.com/fW5Icgr6XXGidHGXklAs4QCHnVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/o/L1g7FnRAy0USZdSJleCg/videoframe-2981797.png"
+    },
+    {
+      "titulo": "Polícia prende suspeito de cobrar valores ilegais de comerciantes e aposentados em Bacuri",
+      "imagem": "https://s2-g1.glbimg.com/QrBAQs8ibD75Q1XHBn7JWr9FgLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/7/X1z2z9QfSn8qkvrlmEaQ/montagens-1920-x-1080-px-2026-08-22t205635.302.png"
+    },
+    {
+      "titulo": "Augusto Cury, candidato do Avante à Presidência, faz campanha em São Paulo",
+      "imagem": "https://s2-g1.glbimg.com/r94VN_NZqH_Zi1JtZfjbsVJ2X1A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/w/GSOE29QaGyeMSSR17Y3Q/videoframe-2967278.png"
+    },
+    {
       "titulo": "Ronaldo Caiado, candidato do PSD à Presidência, esteve com prefeitos da região de Campinas",
       "imagem": "https://s2-g1.glbimg.com/wHDwAgdQx_oW85_I3ZqJDaOT3so=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/f/2Z5SdKTciLrxHq04zr9g/videoframe-2868575.png"
     },
     {
       "titulo": "Renan Santos, candidato à Presidência pelo Missão, faz campanha na Zona Sul de SP",
-      "imagem": "https://s2-g1.glbimg.com/OO_jxE0FnkE0cWBoVqm21Lf3fGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/p/6WRC53QzmvBBW8RrlpOA/videoframe-2787636.png"
+      "imagem": "https://s2-g1.glbimg.com/OjGxzZ2PX0OHKlGw_i8VVB8esKM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/I/gPjeakSqqmBPpz6KnlYw/globo-canal-4-20260821-2000-frame-138731.jpeg"
     },
     {
       "titulo": "Festa do Peão de Barretos aposta em diversidade musical e espera mais de 900 mil visitantes",
@@ -63,63 +119,7 @@
     {
       "titulo": "Homem é preso com arma após ser perseguido pela Guarda Civil Municipal de Ipatinga",
       "imagem": "https://s2-g1.glbimg.com/5fCV6rXmpGjPt6FNFoFxBsToce8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/e/7Ay03rSeKhFEA3iTsRCA/whatsapp-image-2026-08-22-at-13.42.48-1-.jpeg"
-    },
-    {
-      "titulo": "Morre idoso atingido por galho que se desprendeu de árvore em Teófilo Otoni",
-      "imagem": "https://s2-g1.glbimg.com/erkP7Y4fN5HHRox3ttGgtCeLOls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/3/I7UBzwSbiBxuiUR0MCnw/design-sem-nome.png"
-    },
-    {
-      "titulo": "Caminhadas, carreata e reunião: veja como foi agenda dos candidatos ao governo do Ceará neste sábado",
-      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
-    },
-    {
-      "titulo": "Suspeito de envolvimento em assassinato no Guamá, em Belém, é solto após audiência",
-      "imagem": "https://s2-g1.glbimg.com/VJ8aDFAXNeq-mPGF2VZpuCduP2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/0ldzlcSkmncTGxxKADWg/whatsapp-image-2026-08-20-at-11.19.22.jpeg"
-    },
-    {
-      "titulo": "Flávio Roscoe propõe reduzir burocracia, acelerar abertura de empresas e aumentar arrecadação em MG",
-      "imagem": "https://s2-g1.glbimg.com/UtP7Asrm_8ZEX12xsUVC8epafVk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/G/Hz6feSTP2IfiA4xkKvVA/foto-roscoe-1-.png"
-    },
-    {
-      "titulo": "Inauguração de comitês, caminhadas e panfletagens: como foi agenda dos candidatos ao governo de PE neste sábado",
-      "imagem": "https://s2-g1.glbimg.com/dBnQpd9h3l-rttYUArrIxhu4UEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/v/zTchS3QBmv16YEDRICcg/candidatos.png"
-    },
-    {
-      "titulo": "VÍDEOS: DF2 de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/0HIwTeia-9rsVWYFx75JwgBn8I8=/s01.video.glbimg.com/deo/vi/64/34/14893464"
-    },
-    {
-      "titulo": "VÍDEOS: RJ2 de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/mcEWhr0CMX-PkAwvIJLDNKYn4m4=/s01.video.glbimg.com/deo/vi/37/35/14893537"
-    },
-    {
-      "titulo": "VÍDEOS: JL2 de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/sKFF8w68clpQxyqqq0g2SPzuNaY=/s01.video.glbimg.com/deo/vi/40/35/14893540"
-    },
-    {
-      "titulo": "VÍDEOS: EPTV 2 Sul de Minas de sábado, 22 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/MrXU_U_z_cofgMFfP0f2UwWQMJc=/s01.video.glbimg.com/deo/vi/91/35/14893591"
-    },
-    {
-      "titulo": "Jovens da PB são selecionados como embaixadores em projeto que estimula o interesse pela ciência",
-      "imagem": "https://s2-g1.glbimg.com/hVcm5FzQl3xcD7REO8prhJFL5RU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/V/EFdyw2TXeCFMshJekhNA/fiscalizacao-esgoto-semam-1-.jpg"
-    },
-    {
-      "titulo": "Jovem é preso por atirar tijolo em cabeça de vigilante de 77 anos em Santa Adélia",
-      "imagem": "https://s2-g1.glbimg.com/B_mkzP3BBkO0UlEv8cQ8j6t0AFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/t/ULMjc6RDAbJNzBNqS1qA/formato-padrao-imagens-g1-2026-08-22t185249.043.png"
-    },
-    {
-      "titulo": "Eleições 2026: veja como está a corrida presidencial em SP, RJ, DF, MG, PE e PI, segundo o Datafolha",
-      "imagem": "https://s2-g1.glbimg.com/2aFOjYjFUcxMJuNeL922Tp8tr-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/H/C8PFU7TGiRwDlOy9g2Jg/presidenciaveis-3-.png"
-    },
-    {
-      "titulo": "Corrida de rua interdita ruas e avenidas da orla de Santos; confira rotas alternativas",
-      "imagem": "https://s2-g1.glbimg.com/vu6F15O3W9BzX4I9PvLcQMttHys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/l/pfVd3TTSCG2sTsfqK3YA/foto-tradicional-2-.png"
-    },
-    {
-      "titulo": "Escritor e jornalista Homero Fonseca morre aos 77 anos no Recife",
-      "imagem": "https://s2-g1.glbimg.com/M-3j2HtjRo1VIwKA_AnHBBolDnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/O/PTwMOVQ0KYZHBgIT8FeA/homero.png"
     }
   ],
-  "atualizadoEm": "2026-08-22T23:58:27.656Z"
+  "atualizadoEm": "2026-08-23T01:42:08.038Z"
 }
