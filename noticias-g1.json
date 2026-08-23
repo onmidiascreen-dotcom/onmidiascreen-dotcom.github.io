@@ -1,6 +1,74 @@
 {
   "noticias": [
     {
+      "titulo": "Quinto fugitivo de penitenciária na Grande Natal é recapturado; seis seguem foragidos",
+      "imagem": "https://s2-g1.glbimg.com/HWtQbKCOK_3lNE_exHTsxeGsE3c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/x/KnS59lRtecJ18sxwWTJw/zbql70bcfecapnom59ismmoyzkfber.jpg"
+    },
+    {
+      "titulo": "Caso de Lito Sousa é atípico por começar com sintomas motores, diz especialista",
+      "imagem": "https://s2-g1.glbimg.com/ZQmtr9wq6VaTRoGrNvDeJAL3mDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/y/5Wq7HqTxqn7OKIPBJQ7Q/imagem-2026-08-21-075448724.webp"
+    },
+    {
+      "titulo": "Incêndio atinge apartamento no bairro do Altiplano, em João Pessoa; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/7bsn8Px0Q92z7WxYuqQt3s5kkhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/f/1kcuBPTYeH5BoxycVIqQ/captura-de-tela-2026-08-23-095530.jpg"
+    },
+    {
+      "titulo": "Inmet renova alerta de baixa umidade do ar em mais de 60 cidades da PB",
+      "imagem": "https://s2-g1.glbimg.com/jOPlby2UEhXFIBmI-XkM0N-wK4A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/YIActSQNaXVUV2ubBiHA/captura-de-tela-2026-08-23-094449.jpg"
+    },
+    {
+      "titulo": "Carro pega fogo enquanto motorista ia para o trabalho em Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/KcqLweb8c3tFYmgwpDl65oUpMJI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/8/X3WUSXSeyxcJfk3QUXlA/design-sem-nome-22-.jpg"
+    },
+    {
+      "titulo": "Caminhão tomba, pega fogo e motorista fica preso às ferragens em acidente no Ceará; carga é saqueda",
+      "imagem": "https://s2-g1.glbimg.com/i7CbPOypX_SX87_oJ96txJbpIrQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/D/4ZzTsfRJOy1tABAPRVkA/caminhao-iraucuba-tomba.jpg"
+    },
+    {
+      "titulo": "Engavetamento com seis veículos causa retenção no Túnel Rebouças, sentido Zona Sul",
+      "imagem": "https://s2-g1.glbimg.com/5z-mOwGDnQ5qopHVnyqVciU8gSc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/i/FKpecYRl2Mdk2kwOiS5g/g1-reboucas1-vl.jpg"
+    },
+    {
+      "titulo": "Motociclista de 29 anos fica gravemente ferido após tombar moto na BR-230 em Floriano",
+      "imagem": "https://s2-g1.glbimg.com/NqhMMna2vp84jWvIkQWGST-LyyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/mn1B9fSSeSg6K8jX9KTw/prf-viatura.jpg"
+    },
+    {
+      "titulo": "Dono de bar é preso suspeito de esfaquear cliente após cobrança de bebida em Santarém",
+      "imagem": "https://s2-g1.glbimg.com/PHudVdA9xDnYmu1VLImrjkk65lU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/J/sjYlUtRvWjutDHsgfA9Q/whatsapp-image-2026-08-23-at-09.23.40.jpeg"
+    },
+    {
+      "titulo": "Eleições 2026 no PR: Sérgio Moro diz que vai criar a ‘tabela SUS paranaense’ para complementar pagamentos a hospitais",
+      "imagem": "https://s2-g1.glbimg.com/aMLz2WXRlDcwShNJGxgETIDJoLI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/N/U/rOMoiXRI6ATkkOuFeB9Q/fta20240319119.jpg"
+    },
+    {
+      "titulo": "Briga por lixo envolvendo 11 pessoas termina em agressões entre vizinhos em Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/3MxFz-uMXdSWfSgbNmaSAJ6mEdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/w/2/uLQH87QBSDHf1BPtiHaw/design-sem-nome-2025-10-26t131852.688.jpg"
+    },
+    {
+      "titulo": "Inmet emite alertas de vendaval e baixa umidade para cidades do RN; veja listas",
+      "imagem": "https://s2-g1.glbimg.com/Z-bj7qUghpptu4-frYayuWwVpFA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/t/tonidOSbivifBEAMwQKg/captura-de-tela-2026-08-23-as-09.21.15.png"
+    },
+    {
+      "titulo": "Turista é obrigado a ficar sem as roupas durante assalto no centro de Brasília",
+      "imagem": "https://s2-g1.glbimg.com/w2_E6Owjhaq01sppX2gG1OwSwhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/0/rO8HJhRFGNngilit9VPA/g1-4-.png"
+    },
+    {
+      "titulo": "Avião faz pouso de emergência na GO-174, em Goiás; vídeo",
+      "imagem": "https://s2-g1.glbimg.com/4bYMTbm6j1CSPdZn8gtBJciGfjs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/Y/lBDITGRFi4CN2qDAwPOQ/padrao-g1-cbn-foto-5-.jpg"
+    },
+    {
+      "titulo": "Colisão entre carro e ônibus deixa duas pessoas feridas em São José dos Campos, SP",
+      "imagem": "https://s2-g1.glbimg.com/J42e5tQXP3BjAbpa08LKRHN9pkQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/0/TkUMIrQMO62NmUKBjSUw/texto-do-seu-paragrafo-2026-08-23t090416.982.png"
+    },
+    {
+      "titulo": "Zelensky diz que eleições em tempos de guerra dividiriam a Ucrânia e seriam um 'tsunami' para o país",
+      "imagem": "https://s2-g1.glbimg.com/MGoWFuXw5OhXuQ9NLjGTK0HkZTo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/3/uTAqM6S7CKnvaemly6JA/2026-07-07t113729z-755787968-rc2z8magk1n6-rtrmadp-3-nato-summit-ukraine-zelenskiy.jpg"
+    },
+    {
+      "titulo": "Após prima enfrentar câncer e ser tratada em Barretos, Alok se solidariza com causa: 'Quando precisei, estavam ali'",
+      "imagem": "https://s2-g1.glbimg.com/UTh_HUaCnf_mdPynFY824c9Q4hU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/D/aCe3UxToePtSTLdKL3Lg/alok.png"
+    },
+    {
       "titulo": "Corpo da ex-delegada Vilma Alves será sepultado neste domingo em Teresina",
       "imagem": "https://s2-g1.glbimg.com/6ajpKfZv774QfyVA6dR4AAJLy2k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/U/WI0mNnRqul2c5SlAPl6A/copia-de-edicao-imagens-g1-1-.jpg"
     },
@@ -45,81 +113,13 @@
       "imagem": "https://s2-g1.glbimg.com/ez-k6CZC47dVZY-lnXOWlC3PHvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/s/3GkKRhR6a2z59H15uFPA/whatsapp-image-2026-08-22-at-17.28.46-1-.jpeg"
     },
     {
-      "titulo": "Carta foi encontrada em cativeiro onde jovem foi amordaçada e acorrentada pelo ex: 'Espero não ser um adeus'",
+      "titulo": "Carta foi encontrada durante resgate de jovem amordaçada e acorrentada pelo ex: 'Espero não ser um adeus'",
       "imagem": "https://s2-g1.glbimg.com/Ub8cHIwCeL_xgsYjOvXCfYp-5X8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/P/1ElHeERiu8OufZZmVObg/imagens-g1-7-.png"
     },
     {
       "titulo": "Allessa Paes, representante do Pará, é eleita Miss Brasil Gay 2026",
       "imagem": "https://s2-g1.glbimg.com/e3HsmCDDLcHivwjjkPzhk4ftYp8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/W/mtxmLZQ9ulVxmx1BZKiA/img-8872.jpg.jpeg"
-    },
-    {
-      "titulo": "Qual é o melhor horário para jantar e por que comer a mesma coisa tem efeitos diferentes dependendo da hora do dia?",
-      "imagem": "https://s2-g1.glbimg.com/cOjnlXoOBPxllF0606XoC9GxUrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/d/pNAcApQ5yrK3Y2Fm9eyA/940e8779-0178-412d-a682-40f45762d77c.png"
-    },
-    {
-      "titulo": "Inscrições para concurso da Prefeitura de Conceição, PB, com salários de até R$ 7 mil terminam neste domingo (23)",
-      "imagem": "https://s2-g1.glbimg.com/LgsoakYFD71UflwMfMIFkAGIHg8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/r/AkCdiZRweVK6nmFgxSag/imawewe.png"
-    },
-    {
-      "titulo": "Aprenda a receita do curau tradicional",
-      "imagem": "https://s2-g1.glbimg.com/B-zXiYT4a_-HKEaNrFdHGH228Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/K/PWaI1JTnefuKNJBnTi5Q/still0819-00000a.jpg"
-    },
-    {
-      "titulo": "Da informação ao apoio emocional: doulas ganham espaço e têm profissão regulamentada por lei",
-      "imagem": "https://s2-g1.glbimg.com/6ugXUIRvQ5Sd47LsGvJ5ElaEtIs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/L/5YVCxQSyqPswBnC7DLHA/vlcsnap-2026-08-20-17h47m50s460.png"
-    },
-    {
-      "titulo": "‘Não se Cale’: escolas recebem ações de combate à violência contra a mulher no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/c4euMWFMvPystNoT5NsZI3bpUbc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/u/cyBtq6T1qpAwFA0LxiKw/para-o-g1-78-.jpg"
-    },
-    {
-      "titulo": "De frango inteiro a ‘bomba’: prato com até meio quilo de recheio vira aposta de amigos no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/87lXacronRUExunErsbLaUS7i5Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/z/UQBmLJTS2AuVZ6dPNYaQ/foto-g1-70-.png"
-    },
-    {
-      "titulo": "Entre plantões de 24h e treinos, bombeiro do interior de SP corre 110 km em prova de montanha",
-      "imagem": "https://s2-g1.glbimg.com/6-zqYEcyN1TGtV72T5p8b2izNvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/S/lGdzgJTbuiksgxybkfDg/g1-indiana-1-1-.png"
-    },
-    {
-      "titulo": "Família de cartógrafo reconhecido por mapas feitos à mão lança campanha para ajudar na recuperação do artista",
-      "imagem": "https://s2-g1.glbimg.com/3hT7LmHWCr2Vk24yBwP9ihU1yLs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/f/5/OKmqHwSYS3P5UiUA6ZGA/stein-desenhando-.jpeg"
-    },
-    {
-      "titulo": "Apenas 3 dos 24 deputados estaduais do Acre não tentam reeleição em 2026",
-      "imagem": "https://s2-g1.glbimg.com/JwGrfH_qbT6fphse5NmfLbGo42c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/x/6nuJ2PRIq3H1RQBAdh2w/midia-de-distribuicao-g1-32-.png"
-    },
-    {
-      "titulo": "IFPA anuncia 5 novos campi e novos cursos no PA; veja vagas e cidades",
-      "imagem": "https://s2-g1.glbimg.com/24AeMLdYfOhAQPldPvfhKPO1lYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/e/1jyCnASJecHxUoMNPBbQ/estudantes-ifpa-3-.jpg"
-    },
-    {
-      "titulo": "Confira a receita de bolinho de milho verde frito",
-      "imagem": "https://s2-g1.glbimg.com/PX-XcidD0ZOryyG6uxUhHqmPxyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/H/iFLl86TEAZlGchDgB5eg/still0819-00001a.jpg"
-    },
-    {
-      "titulo": "Pai deixa filho de 7 anos sozinho em caminhada no Monte Fuji",
-      "imagem": "https://s2-g1.glbimg.com/PGpAJjPERCgubD5BJ91fDloYnNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/j/qRU8HxQp2bPozN0CzjLg/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg"
-    },
-    {
-      "titulo": "Família de 'apaixonados por milho' ensina receita de pudim de milho",
-      "imagem": "https://s2-g1.glbimg.com/jXMNuT1l5SEGe7hQN3jn4yNoXUk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/v/hIAssORUaQ2cxgEzBYug/still0817-00000a.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Campo-TO deste domingo, 23 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/TNaDCm5EmkoSpUcxUUbfiM8DCPs=/s01.video.glbimg.com/deo/vi/04/10/14891004"
-    },
-    {
-      "titulo": "Baleia de 6 metros encalha e é encontrada morta em praia de Paracuru",
-      "imagem": "https://s2-g1.glbimg.com/eFBU1wq_7k83m9F_1utt0hk1CWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/R/myqGvzSFCI3yWQUgYizg/baleia-encontrada-encalhada-paracuru-ceara.jpg"
-    },
-    {
-      "titulo": "Pudim de leite com geleia de morango: aprenda deliciosa receita destaque no Clube Rural",
-      "imagem": "https://s2-g1.glbimg.com/wn4MOEzvYwDg7VFAwRbNKKX3-CY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/f/RIKX7lT6mpNExfdxzUTQ/edicao-imagens-g1-20-.png"
-    },
-    {
-      "titulo": "Bovinos influenciadores: conheça a vaca Leide e o touro Xerife",
-      "imagem": "https://s2-g1.glbimg.com/JRa8SwSd-51hQbfcRt-2gzKja68=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/3/X02IwOQNqo5qG9ZUBuig/sjp-animais-influencers-frame-5342.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-23T12:00:26.057Z"
+  "atualizadoEm": "2026-08-23T13:00:34.801Z"
 }
