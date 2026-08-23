@@ -1,8 +1,52 @@
 {
   "noticias": [
     {
+      "titulo": "Homem é morto a tiros dentro de carro de campanha de deputada na Grande SP; polícia descarta motivação política",
+      "imagem": "https://s2-g1.glbimg.com/3ornfY90lr1Ybe59Vd-vTgby4M8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/E/iugj73QtiX8z75GwDCoA/montagem-horizontal-1200px-5-.jpg"
+    },
+    {
+      "titulo": "Isso é Fantástico — 'Jornalistas no Front': o trabalho da imprensa em zonas de conflito",
+      "imagem": "https://s2-g1.glbimg.com/U8UMFYK7rFLTQcbwCp9PPEESRQk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/M/UV3l4JTruxAHqdbuhepQ/whatsapp-image-2026-08-23-at-17.05.21.jpeg"
+    },
+    {
+      "titulo": "Piloto de parapente cai e fica preso em árvores no litoral de SP; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/rzqK3pABLYCey3uh25NZff6ha7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/F/g9gWNwQ2GT3pTYzD6AVA/piloyo-parapente.jpg"
+    },
+    {
+      "titulo": "Homem é preso em flagrante após agredir mulher em Contagem",
+      "imagem": "https://s2-g1.glbimg.com/ECzXeu4zL5YSYY255ivbWqAjmLs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/c/tHA2haQcWpmhgEQCTMyQ/agressa-mulher-feira.png"
+    },
+    {
+      "titulo": "Casarão histórico de Limeira que pertenceu a médico e à família Prada vai abrigar Instituto da Previdência",
+      "imagem": "https://s2-g1.glbimg.com/mSm6poPQzwAM9Vgs25aSyBEZlAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/k/15nlAIRmeLzrAeZyR0oA/capas-ana-1-.jpg"
+    },
+    {
+      "titulo": "Juíza aponta 'descaso' e condena Facebook a indenizar promotora de eventos por suspensão de perfil",
+      "imagem": "https://s2-g1.glbimg.com/QBdEX3qapj-YB8yDFzhOPFtI85w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/w/KBDWtuROCJZwnABfBHsw/copia-de-design-sem-nome-13-.png"
+    },
+    {
+      "titulo": "Homem que matou ex no interior de SP culpa filha em carta: 'Não acredito que você dorme em paz'",
+      "imagem": "https://s2-g1.glbimg.com/g8j9Lf1znYefmFRjvNN1V4_Vs8g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/R/WwTLCuR8StdPc4hLldvQ/design-sem-nome-2-.png"
+    },
+    {
+      "titulo": "Eleições 2026: veja como foi o 8º dia oficial de campanha dos candidatos ao governo do Amapá",
+      "imagem": "https://s2-g1.glbimg.com/v5tLqN76FNpihKLim6bNTEPprTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/s/Sak2RCQemRNyGyXABgdQ/aleixo-g1-53-.jpg"
+    },
+    {
+      "titulo": "Governo de RR pede ao STF revogação de decisão que autoriza candidatura de Jalser Renier",
+      "imagem": "https://s2-g1.glbimg.com/GTM49a1d5ON7Q-Yj03KV0JGH5wY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/B/DiVvnNQomgkHKtWrHZ0Q/palacio-do-governo-de-roraima.jpg"
+    },
+    {
+      "titulo": "MPF apura desmate que ameaça maior águia do planeta quase extinta no Pantanal",
+      "imagem": "https://s2-g1.glbimg.com/UwAdAbo9ST3PI7H1Aj_Scuj-3dI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/R/Rf7BAAQoWK3Elcf1icAg/harpia.jpg"
+    },
+    {
+      "titulo": "Ministério Público investiga uso de cal de construção no tratamento de água em Acorizal (MT)",
+      "imagem": "https://s2-g1.glbimg.com/hcyrods1rqOyyt8OypASiL3LaZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/n/FGpa9WTKASGG71q4BQtg/videos-g1-1-.jpg"
+    },
+    {
       "titulo": "Homem morre em confronto com PM e ônibus são escoltados após ataque em Cariacica",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/vhwlVU7NGSuwAP9tbTnVzqmY8SQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/X/9LScarSJOUJqS80fiPHA/captura-de-tela-2026-08-23-175233.jpg"
     },
     {
       "titulo": "Mulher de 53 anos morre após colisão entre duas motos enquanto voltava de festa no PI",
@@ -45,7 +89,7 @@
       "imagem": "https://s2-g1.glbimg.com/3AyiJXc63XY6OtZZ7v3q136A5zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/8/UppjCZTNGADIgleVGk9A/carol-16-.png"
     },
     {
-      "titulo": "Som de mini Land Rover faz vizinhos chamarem polícia, e caso diverte: ‘Povo reclama de coisa pequena’",
+      "titulo": "Som de mini Land Rover faz vizinhos chamarem polícia, e caso diverte web: ‘Povo reclama de coisa pequena’",
       "imagem": "https://s2-g1.glbimg.com/E2R84q5TA2rRVzpMkSJl5W5wbKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/B/mpSSxeT52N7yjT09nAEw/foto-mini-carro.jpg"
     },
     {
@@ -75,51 +119,7 @@
     {
       "titulo": "Auxílio-Aluguel ajuda mulheres a romperem ciclo de violência doméstica no interior de SP",
       "imagem": "https://s2-g1.glbimg.com/8q2LYBV9aP0Ek5uhuikq-Tu0KsM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/W/0G8vIJQZqxcoe2jyHvpQ/sjp-tn1-200826-frame-115195.jpeg"
-    },
-    {
-      "titulo": "Após show em Barretos e after até o amanhecer, Gusttavo Lima curte domingo de preguiça com Andressa Suita no camping",
-      "imagem": "https://s2-g1.glbimg.com/xSzTP4gFlRezD9TyLzBIsab2oIQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/L/kHL8QQQCKwcSbnWpZ4kA/camping-gl.jpg.jpeg"
-    },
-    {
-      "titulo": "Homem é preso suspeito de tentar matar idoso a chutes e pisões em Nova Iguaçu",
-      "imagem": "https://s2-g1.glbimg.com/Tb-P8iiXXyut9F65EHhu1FwASkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/p/qm8WLvSk2uIhfKENGOJA/imagem-cortada-2-.jpg"
-    },
-    {
-      "titulo": "VÍDEO: filha de Ivete Sangalo viraliza após sambar com a mãe em show",
-      "imagem": "https://s2-g1.glbimg.com/Oj7nStqMRhPykTiEFjOChEDZlJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/6/YOAguKTqalmNw0WjEUdQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-08-23t165904.350.jpg"
-    },
-    {
-      "titulo": "Duas pessoas morrem após moto bater de frente com caminhonete em rodovia no Brejo da PB",
-      "imagem": "https://s2-g1.glbimg.com/jL7Hw05miJnWD61XWGw6csVvKl4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/z/gzBt5ERlSWAHaKAd7r7w/sirene-policia.jpg"
-    },
-    {
-      "titulo": "Mulher usa carro de luxo para arrombar portão e fugir de cárcere privado em MT",
-      "imagem": "https://s2-g1.glbimg.com/aRlhFDyCw_zWXmGkcX86VGPvL2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/E/2axnXaSyap06XricmCrg/pc-campo-novo2-1024x578-1-.jpeg"
-    },
-    {
-      "titulo": "Homem tenta parar caminhão e morre prensado contra outro veículo em Ipatinga",
-      "imagem": "https://s2-g1.glbimg.com/p-VMjoQLqYq9eQYdCmYhpcbQhGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/d/4K2JZYRmKSFnXI6TfSSw/aaa.png"
-    },
-    {
-      "titulo": "Dr. Furlan participa de caminhadas e reuniões nos municípios de Porto Grande e Cutias",
-      "imagem": "https://s2-g1.glbimg.com/d5M9ONf6tQfDXVTbOdEvrphmSI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/d/Xcmxz8TveRvwA8TlqCog/whatsapp-image-2026-08-18-at-18.40.53.jpeg"
-    },
-    {
-      "titulo": "Clécio Luís participa de caminhadas na Zona Norte de Macapá",
-      "imagem": "https://s2-g1.glbimg.com/V4hofxd3r8UDWiB7PWXBGSNKKa0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/E/FfaUlCRHaSC3WZEGrLNA/aleixo-g1-62-.jpg"
-    },
-    {
-      "titulo": "Homem morre após acidente de motocicleta no sul da Bahia",
-      "imagem": "https://s2-g1.glbimg.com/m4X5tNEvMTTQ7gxXQrV-KZGFE48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Z/lrfFhRQsysLEr0Wo3nDw/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-08-23t160625.823.jpg"
-    },
-    {
-      "titulo": "Você viu? Influencer preso por roubo de R$ 800 mil, 'Michael Jacksons' roraimenses e mais",
-      "imagem": "https://s2-g1.glbimg.com/nddIgwAUdC1gQPdvKsJELxXRhbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/deKTPlRQWOMEofQrIawQ/3-michael.jpeg"
-    },
-    {
-      "titulo": "Homem é esfaqueado durante discussão com companheiro em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/LTgRPiPNah3Wg8XKopBKMvvIyzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/h/rqiQXjRiGgo88WQXGJmw/prontosocorro.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-23T20:47:27.968Z"
+  "atualizadoEm": "2026-08-23T21:17:36.194Z"
 }
