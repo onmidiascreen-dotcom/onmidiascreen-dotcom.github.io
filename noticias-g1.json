@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é preso com mais de 400 hastes de palmito-juçara e multado em R$ 275 mil no litoral de SP",
+      "imagem": "https://s2-g1.glbimg.com/TcrqayED6hoglGDOyI3ppNGUaVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/W/xvQXrASsAUTaqUadqBIQ/whatsapp-image-2026-08-22-at-17.30.43.jpeg"
+    },
+    {
+      "titulo": "Homem de 33 anos morre após acidente de moto ao voltar de torneio de baralho no PI",
+      "imagem": "https://s2-g1.glbimg.com/V8-SIuqDO8CC8-mIfELptX3oUKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/g/CwHgzwRWWrLmvO2jU8Ag/edicao-imagens-g1-66-.jpg"
+    },
+    {
+      "titulo": "Chamas cercam residências durante incêndio em área verde de Sorriso (MT); veja vídeo",
+      "imagem": "https://s2-g1.glbimg.com/E7DlN0ykTg6--mXuPH3YEXLO2mQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/v/SbbZ0RQh6gWPxgQv8I7g/videos-g1-79-.jpg"
+    },
+    {
+      "titulo": "Pai que matou filha de 12 anos com golpe de facão é condenado a 70 anos de prisão no TO",
+      "imagem": "https://s2-g1.glbimg.com/Sv4C6P5CGy18bYApXEmYWRjMrJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/J/v0r9hfRqCu8qO5E4TXrw/copia-de-foto-e-montagem-vertical-9-.png"
+    },
+    {
+      "titulo": "Suspeito de feminicídio é encontrado com filha de 4 anos em mata de Aquidauana",
+      "imagem": "https://s2-g1.glbimg.com/Dn9Z_K8TRRtVB4bADpR_WAjwgho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/F/apVghASeiPOoXYS7TZag/local-feminciido.jpg"
+    },
+    {
       "titulo": "Concursos públicos têm salários de até R$ 25 mil na região de Presidente Prudente; confira as vagas",
       "imagem": "https://s2-g1.glbimg.com/F_VD1uOABJ1JUB-evjEP1Udy89c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/h/iLi7IwTyu4dXUHCqxNfA/imagem-ilustrativa-para-concurso-foto-divulgacao.jpg"
     },
@@ -95,31 +119,7 @@
     {
       "titulo": "MPF apura desmate que ameaça maior águia do planeta quase extinta no Pantanal",
       "imagem": "https://s2-g1.glbimg.com/UwAdAbo9ST3PI7H1Aj_Scuj-3dI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/R/Rf7BAAQoWK3Elcf1icAg/harpia.jpg"
-    },
-    {
-      "titulo": "Ministério Público investiga uso de cal de construção no tratamento de água em Acorizal (MT)",
-      "imagem": "https://s2-g1.glbimg.com/hcyrods1rqOyyt8OypASiL3LaZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/n/FGpa9WTKASGG71q4BQtg/videos-g1-1-.jpg"
-    },
-    {
-      "titulo": "Homem morre em confronto com PM e ônibus são escoltados após ataque em Cariacica",
-      "imagem": "https://s2-g1.glbimg.com/vhwlVU7NGSuwAP9tbTnVzqmY8SQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/X/9LScarSJOUJqS80fiPHA/captura-de-tela-2026-08-23-175233.jpg"
-    },
-    {
-      "titulo": "Mulher de 53 anos morre após colisão entre duas motos enquanto voltava de festa no PI",
-      "imagem": "https://s2-g1.glbimg.com/k4iCEtbETH0mntx0kPBv4xwh3qY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/n/Jgj3TzRQeZydyeH4ujug/edicao-imagens-g1-65-.jpg"
-    },
-    {
-      "titulo": "Carro capota e deixa uma pessoa morta na BR-352",
-      "imagem": "https://s2-g1.glbimg.com/1hslyqRpMYUOdnBAjO04MnlYKi0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/E/nJK5BXQ6uGndPXB533Tg/2.png"
-    },
-    {
-      "titulo": "Chefe de segurança do Irã diz que apoio a sanções dos EUA será ‘ato de guerra’",
-      "imagem": "https://s2-g1.glbimg.com/4nhOZZPC8cS7V8xclch9fXeSHOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/S/jYbYj8RKeS9T5UUSZ64w/2026-07-27t095705z-1393555287-rc27mmata7we-rtrmadp-3-iran-crisis.jpg"
-    },
-    {
-      "titulo": "Busca por desaparecidos: Acre tem ponto para coleta de DNA durante força-tarefa nacional",
-      "imagem": "https://s2-g1.glbimg.com/J5mVJasiegP5xLuFbaB6l1tvtHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/g/oUp0FFQYSKkwARKLsaLA/iml-1.png"
     }
   ],
-  "atualizadoEm": "2026-08-23T21:59:09.347Z"
+  "atualizadoEm": "2026-08-23T22:29:16.558Z"
 }
