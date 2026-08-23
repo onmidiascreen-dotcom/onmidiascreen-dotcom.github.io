@@ -1,8 +1,104 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEO: casa é transportada inteira e 'estacionada' em novo terreno no Paraná",
+      "imagem": "https://s2-g1.glbimg.com/Vr2WJW2hk46QxX-z-DEFlC3WAeU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/e/a1vmJ4QfuVRvkhU7eLKg/g1-pr-2026-08-23t121724.938.jpg"
+    },
+    {
+      "titulo": "VÍDEO: tromba-d'água assusta banhistas em praia de Salvador",
+      "imagem": "https://s2-g1.glbimg.com/4JpCMm45GskvQ7LIvb-QY16FFUE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/Z/i4H0YMQpC9Zwya2IxUiw/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-08-23t120743.160.jpg"
+    },
+    {
+      "titulo": "CRO-MA abre seletivo com vagas para níveis médio e superior em Pinheiro e Imperatriz",
+      "imagem": "https://s2-g1.glbimg.com/TGWJGgT5eQupEv8J0bAFjbeDxEM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/b/rPXBfXTZeet3uOUAsTEw/public-examination-preparation-concept.jpg"
+    },
+    {
+      "titulo": "Pesquisadores da UFPB desenvolvem colete com sensores para monitorar clima, ruído e poluição nas cidades; saiba como funciona",
+      "imagem": "https://s2-g1.glbimg.com/p_YA60CmKf_lTpL0J9HOff2dwgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/g/Zvz749RbAsBhr2SEA5qA/whatsapp-image-2026-08-21-at-12.39.03.jpeg"
+    },
+    {
+      "titulo": "Mega-Sena: aposta feita em Pernambuco acerta quina e ganha prêmio de R$ 68 mil",
+      "imagem": "https://s2-g1.glbimg.com/lfq4Sn9Gzx7L59i6U9TRItx8DFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/2/EK5gX1TOi999VK1DyhBA/whatsapp-image-2026-01-03-at-12.29.30-9-.jpeg"
+    },
+    {
+      "titulo": "Dia de Sorte hoje: resultado do concurso 1279 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/ci5blQL-2-zywRXzYeUBX11EJp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/waSGgtQCCcXxQ6ro9SAA/diadesorte-1279-bhwiv.jpeg"
+    },
+    {
+      "titulo": "Timemania hoje: resultado do concurso 2432 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/dzMLn9zcPVAVTafZ5354Y69L04Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/n/decrr5SkedAYwRWmvwJQ/timemania-2432-hybtn.jpeg"
+    },
+    {
+      "titulo": "Marcos Dorval (PSTU) declara patrimônio de R$ 998 mil: veja bens do candidato ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/QW7_uE-gtrzWIb2txKzCByGYbZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/J/WVpB2UR6mZq5fsrw0S0Q/marcos-dorval-1.jpg"
+    },
+    {
+      "titulo": "Piauí tem alertas de baixa umidade e vendaval neste domingo (23); veja as cidades afetadas",
+      "imagem": "https://s2-g1.glbimg.com/zAzVVTUJUMKCFg74wX7h98ESacE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/u/6/O338EnTB6wDc0RjZyRlA/whatsapp-image-2023-08-25-at-12.33.20.jpeg"
+    },
+    {
+      "titulo": "Marlene Soccas (UP), candidata ao Senado por SC, informa não ter patrimônio",
+      "imagem": "https://s2-g1.glbimg.com/qiKte7p3C_0OwjGGTXgAleIqKv0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/b/j0slaBTGOidUiuyAr6WA/marlene-soccas-up-1.jpg"
+    },
+    {
+      "titulo": "Joaninha de Oliveira (PSTU) declara patrimônio de R$ 200 mil: veja bens da candidata ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/P5yAsmwdHNv8uspvydB9MYR4ObU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/A/xeTAHCTjWbyGwI7nTRVA/joaninha-1.jpeg"
+    },
+    {
+      "titulo": "Jeferson Rocha (PRD) declara patrimônio de R$ 14 milhões: veja bens do candidato ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/yY8sJx7XaKSFY8_dNVbbLujrmpg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/PAW0KDSnGZ5LukDlEDOQ/chatgpt-image-7-de-mai.-de-2026-10-12-24.png"
+    },
+    {
+      "titulo": "Obra de drenagem vai interditar rua e mudar trânsito no Centro de Jacareí a partir desta semana",
+      "imagem": "https://s2-g1.glbimg.com/Vt9zwUC-8-49j4FIeUzBLrymy3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/l/hmd5HVRPiFHw6J91SWBA/texto-do-seu-paragrafo-2026-08-23t115522.100.png"
+    },
+    {
+      "titulo": "Carol (PCO) declara patrimônio de R$ 45 mil: veja bens da candidata ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/gZRy8G0p007MubuILeROP7Ql-l4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/w/RrLqA7TJKgLjD3GkqBBw/caroline-santanna.jpg"
+    },
+    {
+      "titulo": "Lunelli (MDB) declara patrimônio de 613 milhões: veja bens do candidato ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/HQM-Td-lud5G_Y1yM4aWweh0YrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/J/HusZqlTHyrZVi0SkKzQg/whatsapp-image-2026-08-01-at-12.17.40-pm.jpeg"
+    },
+    {
+      "titulo": "Ana Lúcia da Silveira (UP) declara patrimônio de R$ 344 mil: veja bens da candidata ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/kNhS4TBIGzW5m4QYjy2hW0CBbw4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/0/v29fT7SVCdiA5vmWPe6Q/ana-lucia-da-silveira-up.jpg"
+    },
+    {
+      "titulo": "Carlos Bolsonaro (PL) declara patrimônio de R$ 2,7 milhões: veja bens do candidato ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/IfhlsnyouRBchmJLGFyN6cNggU0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/J/LXn68ITy2xbblAJcaqhA/whatsapp-image-2026-08-01-at-17.01.59.jpeg"
+    },
+    {
+      "titulo": "Décio Lima (PT) declara patrimônio de R$ 3,1 milhões: veja bens do candidato ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/c1PGnC1qWNy-5OX1bZBjMbKvGzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/T/bZ6WshTjeBtP9wvbKOdg/decio-lima.jpg"
+    },
+    {
+      "titulo": "Afrânio Boppré (PSOL) declara patrimônio de R$ 1,5 milhão: veja bens do candidato ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/Knzk8S53-3f8f-ygtzeb4yi50o8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/X/82RBB2S7ioJKId7ojyhw/whatsapp-image-2026-07-21-at-20.15.28.jpeg"
+    },
+    {
+      "titulo": "Esperidião Amin (PP) declara patrimônio de R$ 2,5 milhões; veja bens do candidato ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/FWWndOvfatyVxrEX1MLAMPVLr2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/9/jAtNBJRWWUV4Pi9F42pA/amin.jpg"
+    },
+    {
+      "titulo": "Carol de Toni (PL) declara patrimônio de R$ 1,4 milhão: veja bens da candidata ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/1exGCDyQb5ov5dKto8dk2fNfPfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/o/z7loAcSPeA2S0vXxuYog/760523113-1481750063753084-6560843308392187000-n-1-.jpg"
+    },
+    {
+      "titulo": "Túlio de Amorim Pfuetzenreiter (Missão) declara patrimônio de 967 mil: veja bens do candidato ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/piD4_OFrQe22zXnNpLA9xrMsihU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/J/1IiPbBT2y2HdRONPLVEw/tulio-missao-1.jpg"
+    },
+    {
+      "titulo": "Motociclista morre após acidente com trator na SP-284 em Martinópolis",
+      "imagem": "https://s2-g1.glbimg.com/XKPsoYYrXJsHg3qqi6N19g-domA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/a/UCA5alSaKZrEJuTHhErA/acidente-martinopolis.jpg"
+    },
+    {
+      "titulo": "+Milionária hoje: resultado do concurso 383 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/EPPgrBV6G1OSaP1FTKycGloOpVY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/2/vXpIDBQdKlZprIp7OpyA/maismilionaria-383-cnnqj.jpeg"
+    },
+    {
       "titulo": "Loteria Federal hoje: resultado do concurso 6094 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/pcLYfXmvyM030B3n34CA2QW_agU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/f/41PaWjSGOWo8I7j3uNow/voltantes-federal.jpg"
+      "imagem": "https://s2-g1.glbimg.com/3SKJu7AGrcKuT-qMX4Jy1HgmVQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/V/I6QNZMSVWAzVC7YlcjIw/federal-6094-teoue.jpeg"
     },
     {
       "titulo": "'Bote fé na humanidade': vídeo de homem ajudando a empurrar carro em avenida movimentada repercute em RO",
@@ -17,109 +113,13 @@
       "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
     },
     {
-      "titulo": "Mega-Sena 3048: aposta de Blumenau (SC) acerta sozinha e leva bolada de R$ 57 milhões",
-      "imagem": null
+      "titulo": "Mega-Sena 3048: aposta simples feita pela internet em SC acerta sozinha e leva R$ 57 milhões",
+      "imagem": "https://s2-g1.glbimg.com/1sSy65vG7QSsTHeTngo-1y2OnPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/7/IBY0BBSASFQEpEYUMA0w/blumenau-.png"
     },
     {
       "titulo": "Motorista e passageiro ficam presos às ferragens de carreta que tombou com toras de madeira no Acre; VÍDEO",
       "imagem": "https://s2-g1.glbimg.com/HM9pU8EvZS9rFPAeaLrIytYdJjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/B/ktOUoeRluYd1bRWVv7hA/midia-de-distribuicao-g1-2026-08-23t090047.148.png"
-    },
-    {
-      "titulo": "Acidente com carro da PM deixa trânsito parcialmente interditado na W3 Norte, em Brasília",
-      "imagem": "https://s2-g1.glbimg.com/SvuwNvZQ8PBKuKUsJqXt7Wtx2lU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/C/Z9zveJQByZn82lVjermg/acidente-pm.jpeg"
-    },
-    {
-      "titulo": "Caminhoneiro é atropelado e tem pernas atingidas após parar veículo para verificar problema mecânico",
-      "imagem": "https://s2-g1.glbimg.com/VnOGlHvp86PiSIZYqUQdSsIgmBQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/E/UPIAb5R9SSWG332mtfZg/santa-casa.jpg"
-    },
-    {
-      "titulo": "PM apreende anfetamina durante operação contra baile funk irregular no litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/1-G8S3O4lbjIvYocS46TNx2NzOw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/I/JXsPy1TBKedZgbLygAEA/apreensao.jpg"
-    },
-    {
-      "titulo": "Motorista é preso por dirigir sob efeito de álcool em Barra Mansa",
-      "imagem": "https://s2-g1.glbimg.com/D5ZJUQ5AeFT2O79yLBYeoTzkCtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/j/IG5NMbQuahUT5s2hPEyg/image.jpg"
-    },
-    {
-      "titulo": "Lotofácil hoje: resultado do concurso 3769 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/HlKApwbsyKAqqfHECeckZtCPb5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/2/W7n8lvSgWOZLV8GD8zyw/lotofacil-3769-mingv.jpeg"
-    },
-    {
-      "titulo": "Quina hoje: resultado do concurso 7099 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/e64Rk9kWD7WZvez-5fNFoNN6xwo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/k/vnkgAETtmvqGBwwg2vLA/quina-7099-rzrsj.jpeg"
-    },
-    {
-      "titulo": "Adolescente de 15 anos é morto com facada no peito em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/Be1zgHAxKxhNdLM1VOSgVuPEzEo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/D/wsEq1eSJSUxANjojwA0g/rabecao-iml-rr.jpeg"
-    },
-    {
-      "titulo": "VÍDEOS: Inter TV Rural deste domingo, 23 de agosto",
-      "imagem": "https://s2-g1.glbimg.com/j_JEm80hEwH7BOc0jKRomk8_VCM=/s01.video.glbimg.com/deo/vi/18/40/14894018"
-    },
-    {
-      "titulo": "Quatro homens são presos em flagrante durante tentativa de roubo a joalheria na Sé",
-      "imagem": "https://s2-g1.glbimg.com/0wjsrCIqn55hS4omCkw77iyGJi4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/G/iyMfd4SFqbQSsA6AB4MA/bdsp-roubo-joias-klj00149-bdsp-roubo-joalheria-0014-frame-0.jpeg"
-    },
-    {
-      "titulo": "Quem era veterinária que morreu após ser atacada por pastor-belga do Senado em Brasília",
-      "imagem": "https://s2-g1.glbimg.com/GJseEJdm_yE44WwEDBF6mLFlCFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/e/ZdKeATSredu3zcAEa9Pg/vitoria-caes.jpg"
-    },
-    {
-      "titulo": "Justiça Federal ordena suspensão de garimpos que não provarem origem lícita de mercúrio na Amazônia",
-      "imagem": "https://s2-g1.glbimg.com/i1PicXdF5qxxgNSUGoESDWDU1v0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/K/nMAKXyQAaEfxho18eZAA/garimpo-2025-1.11.7.jpg"
-    },
-    {
-      "titulo": "Massa de ar frio congela paisagem em SC e termômetros chegam a -7,7 °C; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/-OfgFFH1mGp2g291J2epVvazKc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/j/L1TGpvRsSetylbFAq2HA/massa-de-ar-frio-congela-paisagem-em-sc-e-termometros-chegam-a-7-7-degc-video.png"
-    },
-    {
-      "titulo": "VÍDEOS: Inter TV Rural deste domingo, 23 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/72c04yKVRIhN6wnaDl5g2Zs4ULQ=/s01.video.glbimg.com/deo/vi/19/40/14894019"
-    },
-    {
-      "titulo": "Motorista bêbado é detido após acidente que matou motociclista em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/1ACfYQYPgjTxwY4vWLz7oHNcPaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/Q/vpe2UvSJyb5E9Kjif99Q/iml-de-manaus-foto-gato-junior-rede-amazonica.jpeg"
-    },
-    {
-      "titulo": "Otorrino com mais de 20 anos de experiência em plástica facial: veja quem é o médico que operou empresária que morreu após cirurgia",
-      "imagem": "https://s2-g1.glbimg.com/aVFdJcbQt7PfAlTPZ2_ZhGbJ19Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/P/dSgm0GTVKl84BfBByeww/jpg-1-.jfif"
-    },
-    {
-      "titulo": "Jovem e adolescente ficam feridos após sofrerem queda de moto em Volta Redonda",
-      "imagem": "https://s2-g1.glbimg.com/jgE7i6Y1m1zHvCGKHLXdSRDsMGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/E/SzAAMjQOaDHO2wFJAmtg/whatsapp-image-2026-04-17-at-10.44.18.jpeg"
-    },
-    {
-      "titulo": "Cirurgias de catarata são retomadas em carreta oftalmológica em Varginha, MG",
-      "imagem": "https://s2-g1.glbimg.com/XCb5kfvx8gOMlh3HTPWV68gDzb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/Q/8BHPqzQhmmcLiB94UQFg/carreta-vga.png"
-    },
-    {
-      "titulo": "Pai que matou esposa e filho e milionário no Norte de MG: veja as notícias mais lidas da semana",
-      "imagem": "https://s2-g1.glbimg.com/Fg0d6BYzyr46MYwoqU9sc8R1SE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/T/6j02doSkGL7Md5Uysq3w/whatsapp-image-2026-08-20-at-07.57.39.jpeg"
-    },
-    {
-      "titulo": "Eleições 2026 no PR: Sandro Alex participa de lançamento de candidatura e se reúne com vereadores",
-      "imagem": "https://s2-g1.glbimg.com/_v9Lg8ngVIe2Ky_n7-7UEaKePBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/e/2gSGRBRz2p1QesTZtOjg/g1-32-.png"
-    },
-    {
-      "titulo": "Ônibus com passageiros de evento religioso são apedrejados na BR-040, em Nova Lima",
-      "imagem": "https://s2-g1.glbimg.com/HKVwd6gyqrN3eUvp8kKnD0Ai6T0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/l/uvWuqMQk2QsSoRm7VlrQ/ataque-onibus-ore-comigo.png"
-    },
-    {
-      "titulo": "Visita de Lula, retorno de Coronel Sandro e operação da PF: veja as notícias mais lidas da semana",
-      "imagem": "https://s2-g1.glbimg.com/pE-0bfvj-et5Uaqcz8oeaUsTHPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/x/eiBWUvSjKyTsZc8mCAaQ/whatsapp-image-2026-08-21-at-17.34.01.jpeg"
-    },
-    {
-      "titulo": "Bombeiro ferido em desabamento durante combate a incêndio tem perna amputada em SP",
-      "imagem": "https://s2-g1.glbimg.com/YDmTheav21Yes2TtTBDaUn5j3m8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/K/FAEc78R6KAqDOqA9kEPg/design-sem-nome-84-.jpg"
-    },
-    {
-      "titulo": "Seguidores de Lito Sousa fazem campanha nas redes sociais para incluí-lo em estudo clínico com medicamento experimental",
-      "imagem": "https://s2-g1.glbimg.com/j61BBcBr-OAVJLd26OKCS-E_2e4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/R/yYc4zWQAmsdaPJJwTB9A/fotojet-63-.jpg"
-    },
-    {
-      "titulo": "Inscrições para a 7ª Mostra de Dança de Tatuí estão abertas; saiba como se inscrever",
-      "imagem": "https://s2-g1.glbimg.com/E0Lv9Cd5nPl0TdhN3BEMftlViF8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/5/YHFRLeRUWkuJ28pgyAjQ/m-271-0-1-18082026085043-1-.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-23T14:59:23.407Z"
+  "atualizadoEm": "2026-08-23T15:29:37.095Z"
 }
