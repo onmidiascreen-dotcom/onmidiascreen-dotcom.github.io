@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Anavilhanas: conheça o arquipélago na Amazônia que muda de paisagem a cada seis meses",
+      "imagem": "https://s2-g1.glbimg.com/uO3yXbaKrYbGWZGrMPb-56DqUaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/WYjAZcTAOZHMjs2mND3A/felipe-anavilhanas-amazonas.jpg"
+    },
+    {
+      "titulo": "3º dia de Barretos tem retorno triunfal de Gusttavo Lima, rosto de Marília Mendonça por drones em show de Alok e Nattan sem fim",
+      "imagem": "https://s2-g1.glbimg.com/7kzr86voI4nDHAWSFMgpPj04rXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/w/6J91CpRE6BM6ZnCAwPVw/dsc-1397.jpg"
+    },
+    {
+      "titulo": "Fazendas de confinamento no Tocantins têm capacidade para manter 65 mil animais em engorda",
+      "imagem": "https://s2-g1.glbimg.com/YD9TzOL7svoZmKIfvXjMr7YTPSA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/0/BBuq1ASpWX0bHriG5V6w/fazenda-grande-to.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Recém-casados de MG recebem bênção do papa durante lua de mel e ouvem conselho sobre família: 'Rezar e ter muita paciência'",
+      "imagem": "https://s2-g1.glbimg.com/oWylGwvp3wUQePc3fnEJsYHvSlA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/q/BQyybqQ0WXXv38k5v07A/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "titulo": "Fusca rosa quebra a caminho de Barretos e cantora sertaneja leva 25 horas do Paraná à Festa do Peão",
+      "imagem": "https://s2-g1.glbimg.com/KnWOOSYJq9MWfaeTfLnWGYR-3TI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/m/Jsp2MHR8mvACVGD5QisQ/canora-fusca-rosa.png"
+    },
+    {
+      "titulo": "Rio gasta cerca de um terço do orçamento de conservação para reparar monumentos alvo de vandalismo e furtos",
+      "imagem": "https://s2-g1.glbimg.com/imDfoJ0-frYiToxdyKHvW30kTP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/0/7uE9rORJKnPix1EX5ViQ/g1-noel.jpg"
+    },
+    {
       "titulo": "Do leite condensado às fraldas: relembre compras online que chegaram erradas",
       "imagem": "https://s2-g1.glbimg.com/kSq38PbNgYnxmVtkPGrsXmRADNg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Z/lo7lvBS56Fbq187NbCOg/casos-compras-baixada-santista.jpeg"
     },
@@ -95,31 +119,7 @@
     {
       "titulo": "Casos de abuso sexual de menores explodem entre migrantes em Ceuta",
       "imagem": "https://s2-g1.glbimg.com/4IWyCv5ctZvO7iYQw0OLFjL1dPU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/y/dpYqFjRcaqNBizSqOBLw/2026-08-18t140123z-2073834659-rc2bzmaqm7tg-rtrmadp-3-migration-europe-spain-ceuta-women.jpg"
-    },
-    {
-      "titulo": "Vestibular da USP em Fortaleza gera debate nas redes sociais; entenda escolha da Fuvest",
-      "imagem": "https://s2-g1.glbimg.com/QavwuJt3czMsinl8MlQJGt9Ci88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/h/MqFWkCQoyBJYl7Ikj3pA/whatsapp-image-2026-08-21-at-21.56.13.jpeg"
-    },
-    {
-      "titulo": "De vendedora de flores a primeira santa das Américas: saiba quem foi Santa Rosa de Lima",
-      "imagem": "https://s2-g1.glbimg.com/Cwu9CchPdIHN1DG6FZErWl1y-Ws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/c/OIna2jS6KUdSE6i7KHIw/texto-do-seu-paragrafo-2026-08-22t173449.408.png"
-    },
-    {
-      "titulo": "Festa da beata Isabel Cristina reúne fiéis em Barbacena a partir de domingo; veja programação",
-      "imagem": "https://s2-g1.glbimg.com/9nsCyMLg270ykqENRpDTrRMarj0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/m/6/m19x0IRs2BeF5f4gnoFA/isabel.png"
-    },
-    {
-      "titulo": "Entenda o caso de imóvel alugado com conta emprestada de Airbnb que terminou em furto e prejuízo para a dona em MG",
-      "imagem": "https://s2-g1.glbimg.com/oDZ7ohUj9HkFHzb2Okh0M6l9mc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/c/1/sGxU35SF2nHbhM6XCUaw/ap23045444996487.jpg"
-    },
-    {
-      "titulo": "3ª noite de montaria tem tombos e performance brilhante de líder do ranking nacional na Festa do Peão de Barretos",
-      "imagem": "https://s2-g1.glbimg.com/EYLXfYvpM46Ri_amgg0ReR6_P0k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Y/fEneHRRYKqbcFnAo0sRw/joao-paulo.png"
-    },
-    {
-      "titulo": "Nattan encara jornada dupla de shows em Barretos e balança turma do chapéu com piseiro até de manhã",
-      "imagem": "https://s2-g1.glbimg.com/aqd80XKQdcbzZ_6K4Gn6coZRSaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/m/zfHBlgQAG1mJArOWxGQA/dsc03748.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-23T09:51:33.190Z"
+  "atualizadoEm": "2026-08-23T10:19:16.054Z"
 }

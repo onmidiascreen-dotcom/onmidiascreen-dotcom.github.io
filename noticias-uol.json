@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Filho é preso após ameaçar a mãe e resistir à abordagem em Ivaiporã",
+      "imagem": null
+    },
+    {
       "titulo": "Zelenski diz que eleições durante guerra iriam 'dividir a Ucrânia'",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Com provável ausência de Lula e Flávio, nanicos se enfrentam em 1º debate",
       "imagem": null
-    },
-    {
-      "titulo": "Irã ameaça países que apoiarem os EUA e executa homem acusado de colaborar com Washington e Israel",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T09:51:32.288Z"
+  "atualizadoEm": "2026-08-23T10:19:15.195Z"
 }
