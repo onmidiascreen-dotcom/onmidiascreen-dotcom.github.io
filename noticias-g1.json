@@ -1,7 +1,35 @@
 {
   "noticias": [
     {
-      "titulo": "Mulher é morta a tiros dentro de residência em Salgado; companheiro da vítima é suspeito",
+      "titulo": "Eleitorado com deficiência cresce no interior de SP; Rio Preto lidera alta",
+      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
+    },
+    {
+      "titulo": "Fogo em vegetação atinge fábrica desativada em Itaquaquecetuba",
+      "imagem": "https://s2-g1.glbimg.com/xi02dzlR5jowJ9Afv9M4zoYUUno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/I/Uza9uYQrqw9iVi2bLTjA/whatsapp-image-2026-08-23-at-13.47.49-3-.jpeg"
+    },
+    {
+      "titulo": "Comerciantes de depósitos de gás denunciam ameaças e cobrança de taxa em Nova Friburgo",
+      "imagem": "https://s2-g1.glbimg.com/F8aT2tK6HkTO1D9xe1ntWBzZk4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/W/iyxQo7TE20LclBvV8syA/gas.jpg"
+    },
+    {
+      "titulo": "VÍDEO: ex-vereador de Guarapari é preso por embriaguez ao volante após atropelar motoboy",
+      "imagem": "https://s2-g1.glbimg.com/pwZByd6V5HlD3c6n-3EHScs0kXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/D/b6VsRKQNuXOFqwHcE33A/thumb-videos-g1-14-.jpg"
+    },
+    {
+      "titulo": "Câmera flagra lanchonete sendo assaltada no bairro da Cremação, em Belém",
+      "imagem": "https://s2-g1.glbimg.com/detseRV6QyE46LMtdWQlYzhp-RU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/D/nVYEukRKqM95I1DnvnSQ/assalto-lanche.png"
+    },
+    {
+      "titulo": "Missa de 7º dia lembra professor morto em chacina em Manaus: 'Ele era um apaixonado por educação', disse pedagoga",
+      "imagem": "https://s2-g1.glbimg.com/X72pu_1_vq68C1RcUaKvWxu_gx4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/l/Yq009NQD2QIbLuxdnG7A/g1-morto-chacina.jpg"
+    },
+    {
+      "titulo": "Promotor de eventos é morto a tiros em balneário de Moju, no Pará; suspeito fugiu",
+      "imagem": "https://s2-g1.glbimg.com/ngpaS7pkl3ovFrl8bgo6KX7oEBI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Q/cnH205TvGbQYA7fVI6wg/jl2-22082026-110.jpg"
+    },
+    {
+      "titulo": "Mulher é morta a tiros dentro de residência em Salgado; companheiro da vítima foi preso",
       "imagem": "https://s2-g1.glbimg.com/eIq3Oau9NdnKsOmbE4mb5zrZgGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/B/OCj357TIWETZVhR2wNXA/imagem-g1-2-.jpg"
     },
     {
@@ -82,7 +110,7 @@
     },
     {
       "titulo": "Feto é encontrado ao lado de lixeira no litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/U5pJD5AwyrkCT-Vxp1E2jnQwgpY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/M/nvLgIbRMOBscJjY1eyTA/7-dp-santos.jpg"
+      "imagem": "https://s2-g1.glbimg.com/CFxCX2suL551c1TdOq_oOTfrrJI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Z/EZ6iwcQPmGnuwT1mKYsw/pm-feto.jpg"
     },
     {
       "titulo": "Entregador atropelado por carro roubado morre e família decide doar órgãos no Acre: ‘Vai salvar vidas’",
@@ -91,35 +119,7 @@
     {
       "titulo": "Preso arromba cela e furta arma do gabinete de comandante da PM em cidade do Piauí",
       "imagem": "https://s2-g1.glbimg.com/u7rqkEPpn8j-wVjWPSNjIj-KpmQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/s/SRSOUySRW1SostFiZpxA/edicao-imagens-g1-4-.png"
-    },
-    {
-      "titulo": "RN terá 4 pontos de coleta de DNA de familiares de pessoas desaparecidas; veja locais",
-      "imagem": "https://s2-g1.glbimg.com/g4WHxq-uS3ZgRFAXqNWNqeYO1SI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/B/d3sm8ZSX6862AzHW53RA/paternidade-amazonas.jpg"
-    },
-    {
-      "titulo": "RS tem geada e -3,5°C de temperatura neste domingo",
-      "imagem": "https://s2-g1.glbimg.com/CDahO3wUQ3c1k_GjwboubxN_uyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/S/f6iRBETeuKT60D4CkIXQ/g1-73-.jpg"
-    },
-    {
-      "titulo": "Resultado da Mega-Sena 3048: 23 apostas do Piauí acertam números; veja valores",
-      "imagem": "https://s2-g1.glbimg.com/B5tMIoLpr30pNw8djBYlFmyKyow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/pwpJjAR0GtbRJ9XYzKdA/edicao-imagens-g1-17-.png"
-    },
-    {
-      "titulo": "VÍDEO: incêndio atinge áreas de restinga e reserva ambiental em Arraial do Cabo",
-      "imagem": "https://s2-g1.glbimg.com/5Vl2brE0E8lMzuSANXmQ1XoZT-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/D/a3AoGLRcK8x1b9qPB0qQ/incenio-arraial.jpg"
-    },
-    {
-      "titulo": "Corpo esquartejado achado dentro de sacos é identificado em Palmas",
-      "imagem": "https://s2-g1.glbimg.com/h8cMFBIsHxLkPRqdTN7WLE91_7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/5/VHEqF5RSmZKRqmVS12xg/whatsapp-image-2026-08-23-at-12.35.06.jpeg"
-    },
-    {
-      "titulo": "De funcionários a donos: casal compra livraria onde trabalhava e encerra história após 46 anos em Uberlândia",
-      "imagem": "https://s2-g1.glbimg.com/HbVWH0oaWbD3L0x4w2DRG3IHLNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/J/TUYm84S1eFgV0BPAtUQA/design-sem-nome-7-.png"
-    },
-    {
-      "titulo": "Ônibus tomba após batida com carro no Paraná; uma pessoa morreu e mais de 40 ficaram feridas",
-      "imagem": "https://s2-g1.glbimg.com/8d0ImMfwj7MgC_ssXWMF4_-tUTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/i/ZdTgB1Q4OzRasASp3VUw/snapshot-1255.png"
     }
   ],
-  "atualizadoEm": "2026-08-23T16:50:03.756Z"
+  "atualizadoEm": "2026-08-23T17:16:37.185Z"
 }
