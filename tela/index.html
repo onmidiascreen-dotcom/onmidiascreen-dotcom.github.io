@@ -441,7 +441,12 @@
     if (item.video && item.ad.url) {
       // vídeo: toca do começo, a barra segue o tempo, e passa quando termina
       progress.classList.remove('run'); progress.style.width = '0%';
-      try { item.video.currentTime = 0; } catch (e) {}
+      // reaproveitar o mesmo <video> por muitos ciclos seguidos (o mesmo anúncio
+      // rodando de novo e de novo por horas) degrada o decodificador de vídeo em
+      // aparelhos mais fracos e a tela passa a ficar em branco — load() força o
+      // navegador a reabrir uma sessão de decodificação nova a cada exibição
+      // (rápido: o vídeo já está no cache do service worker, não baixa de novo)
+      try { item.video.load(); item.video.currentTime = 0; } catch (e) {}
       const p = item.video.play(); if (p && p.catch) p.catch(() => { adTimer = setTimeout(proximoAnuncio, 4000); });
       item.video.ontimeupdate = () => { if (item.video.duration) progress.style.width = (item.video.currentTime / item.video.duration * 100) + '%'; };
       item.video.onended = () => proximoAnuncio();
