@@ -1,6 +1,38 @@
 {
   "noticias": [
     {
+      "titulo": "Lito faz apelo urgente por tratamento experimental",
+      "imagem": null
+    },
+    {
+      "titulo": "STF nega pedido da Prefeitura e mantém suspensão do aumento para até 300% da taxa do lixo em Teresina",
+      "imagem": "https://s2-g1.glbimg.com/VUPlVueK4xcQCAGh3RMHzGvaCgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/5/ZNNEX1Rf22B7SQkpeVOw/copia-de-edicao-imagens-g1-20-.jpg"
+    },
+    {
+      "titulo": "Árbitro de futebol de SC morre após carro bater contra parede de terminal urbano e pegar fogo",
+      "imagem": "https://s2-g1.glbimg.com/Zc5jmr4cW4Pw6E8Ul173NFtKTUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/O/8P3nFZQ1CFjCMr2N3C5Q/arbitro-de-futebol-catarinense-morre-apos-carro-bater-contra-parede-de-terminal-urbano-e-pegar-fogo-.png"
+    },
+    {
+      "titulo": "Motorista é preso após matar ciclista atropelada em Porto Velho",
+      "imagem": "https://s2-g1.glbimg.com/C8fkZM-g95qadpMKwSvlaCopfug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/f/FTahR6SLa0W6raV1EUOQ/g1-ro-2026-10-.jpg"
+    },
+    {
+      "titulo": "Ataque a tiros em Aracaju deixa um morto e um ferido",
+      "imagem": "https://s2-g1.glbimg.com/ykrInnqdnLKw__cn_abrVjMbk-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/5/W/9GYFZqSyqBNJbhjhDi4Q/whatsapp-image-2023-03-29-at-15.27.21-1-.jpeg"
+    },
+    {
+      "titulo": "Mega-Sena: aposta de Palmas acerta cinco dezenas e leva prêmio de R$ 34 mil",
+      "imagem": "https://s2-g1.glbimg.com/nZV6RPsAkqnogahjIwz3NKEN2wY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/L/VupTpvQc6s48aLlkwsVQ/mega3048.png"
+    },
+    {
+      "titulo": "Acidente deixa três mortos no RS; condutor apresentava sinais de embriaguez, afirma polícia",
+      "imagem": "https://s2-g1.glbimg.com/lvKQd_bzAN0n9-u8J0n4l4ZGXaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/q/rDDzgOSAKSdXoEva0CvA/g1-74-.jpg"
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
+    },
+    {
       "titulo": "Eleitorado com deficiência cresce no interior de SP; Rio Preto lidera alta",
       "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
     },
@@ -87,39 +119,7 @@
     {
       "titulo": "Rússia vai aumentar produção de mísseis e recrutar 300 mil novos soldados para guerra na Ucrânia, afirma Zelensky",
       "imagem": "https://s2-g1.glbimg.com/urkqaai0sR24L92WXWOw18bxv4w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/s/Z/umYScjR4ypHTHmQK3ABQ/ap22349696088144.jpg"
-    },
-    {
-      "titulo": "De zero a R$ 613 milhões: veja o patrimônio declarado ao TSE pelos candidatos ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/mVnbGbeigsJjjxtfJQ6WjbhqyyI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/c/akFs06QV6qSamjpcxt2Q/candidatos-senado-sc.jpg"
-    },
-    {
-      "titulo": "Aposta única leva R$ 57,2 milhões na Mega-Sena; Sul de Minas tem ganhadores da quadra",
-      "imagem": "https://s2-g1.glbimg.com/jYn7Tdr26HY0wqIxZWHVZpV3U8Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/A/a3XBweTjSV4p07AtkywA/loteria-.png"
-    },
-    {
-      "titulo": "‘A Família do Assombro’: musical inspirado na Família Addams volta ao Teatro Amazonas em setembro",
-      "imagem": "https://s2-g1.glbimg.com/i03L79Ksd1t_DOUlxRICamvvSts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/k/I7MUrCSzuUGMMlsAOeuw/familia-adams.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Liberal Comunidade de domingo, 23 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/rGYFQ1FKoBOBsv8WuxzKmOMnzJY=/s01.video.glbimg.com/deo/vi/51/09/14890951"
-    },
-    {
-      "titulo": "Mais de uma tonelada de drogas é apreendida durante fiscalização no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/eOGBsU505mGeRUkyaW5rTTKR7R0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/4/FPBgwPSceO3I1aZnQNJA/policia-militar-rodoviaria-1-.jpeg"
-    },
-    {
-      "titulo": "Feto é encontrado ao lado de lixeira no litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/CFxCX2suL551c1TdOq_oOTfrrJI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Z/EZ6iwcQPmGnuwT1mKYsw/pm-feto.jpg"
-    },
-    {
-      "titulo": "Entregador atropelado por carro roubado morre e família decide doar órgãos no Acre: ‘Vai salvar vidas’",
-      "imagem": "https://s2-g1.glbimg.com/roO7yGgvMC53Xlv-O4FQe7wk2U0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/P/e2r30OT2e8QYBQ4JVJLg/midia-de-distribuicao-g1-2026-08-19t115709.511.png"
-    },
-    {
-      "titulo": "Preso arromba cela e furta arma do gabinete de comandante da PM em cidade do Piauí",
-      "imagem": "https://s2-g1.glbimg.com/u7rqkEPpn8j-wVjWPSNjIj-KpmQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/s/SRSOUySRW1SostFiZpxA/edicao-imagens-g1-4-.png"
     }
   ],
-  "atualizadoEm": "2026-08-23T17:16:37.185Z"
+  "atualizadoEm": "2026-08-23T17:44:21.555Z"
 }

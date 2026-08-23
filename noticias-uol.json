@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Não é só recorde: erros e tombos aproximam robôs de humanos em Pequim",
+      "imagem": null
+    },
+    {
+      "titulo": "Terremoto de magnitude 5,9 atinge Hokkaido, no Japão, segundo o EMSC",
+      "imagem": null
+    },
+    {
+      "titulo": "Quando os árbitros entram no jogo: o jantar da desordem institucional",
+      "imagem": null
+    },
+    {
+      "titulo": "Ataques aéreos israelenses em Gaza matam duas pessoas, incluindo um menino de 4 anos, segundo equipes médicas",
+      "imagem": null
+    },
+    {
+      "titulo": "Ausente de debate, Zema não cogita desistir de candidatura, diz partido",
+      "imagem": null
+    },
+    {
+      "titulo": "Onze corpos foram recuperados após naufrágio de um barco que transportava migrantes na costa da Tunísia",
+      "imagem": null
+    },
+    {
       "titulo": "Na estreia do técnico Davide Ancelotti, Lille vence Angers (2-0) pela 1ª rodada da Ligue 1",
       "imagem": null
     },
@@ -35,31 +59,7 @@
     {
       "titulo": "EUA havia proposto reduzir taxas sobre produtos do Canadá, diz representante de Trump a jornal",
       "imagem": null
-    },
-    {
-      "titulo": "Lando Norris (McLaren) vence GP dos Países Baixos de F1; Bortoleto termina em 13º",
-      "imagem": null
-    },
-    {
-      "titulo": "Noruega destinará mais de US$9 bi à Ucrânia em 2027",
-      "imagem": null
-    },
-    {
-      "titulo": "Mulher sequestrada por ex é encontrada amordaçada e acorrentada em Goiás",
-      "imagem": null
-    },
-    {
-      "titulo": "Irã afirma que chefe do Exército do Paquistão visitará Teerã na segunda-feira",
-      "imagem": null
-    },
-    {
-      "titulo": "Alta no preço dos alimentos ameça inflação com projeção de El Niño forte",
-      "imagem": null
-    },
-    {
-      "titulo": "Norris vence o GP da Holanda, enquanto Antonelli amplia sua liderança na F1",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T17:16:35.254Z"
+  "atualizadoEm": "2026-08-23T17:44:20.352Z"
 }
