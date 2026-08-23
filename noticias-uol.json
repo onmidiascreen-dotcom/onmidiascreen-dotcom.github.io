@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Por que o bullying é tão comum entre crianças e adolescentes e como mudar esse cenário",
+      "imagem": null
+    },
+    {
       "titulo": "Domingo será céu nublado na capital paulista; no interior, máxima pode chegar a 32°C",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "SP aplica mais de 222 mil doses de vacina contra o sarampo em 'Dia D'",
       "imagem": null
-    },
-    {
-      "titulo": "Empresas projetam perdas com efeitos do El Niño, mas algumas veem ganhos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T07:40:04.811Z"
+  "atualizadoEm": "2026-08-23T08:00:24.071Z"
 }

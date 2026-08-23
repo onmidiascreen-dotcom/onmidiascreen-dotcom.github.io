@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Nattan encara jornada dupla de shows em Barretos e balança turma do chapéu com piseiro",
+      "imagem": null
+    },
+    {
       "titulo": "IA pode estar freando salários antes de cortar empregos; veja profissões mais expostas e rankings",
       "imagem": "https://s2-g1.glbimg.com/q4-60oO4lbBQPvVskIH6FPMkl28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/9/B/UpT5K7TyuQ40B2QrbUxQ/programador-de-sistemas.png"
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Forças partidárias: o que esperar das eleições deste ano?",
       "imagem": "https://s2-g1.glbimg.com/-lY2gaMjS4M1cyDWQvIyxg7Yo4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/6afOSPQVOhvRV5FtY8Rg/urna.jpeg"
-    },
-    {
-      "titulo": "Mais de 900 candidatos mudaram declaração de cor ou raça no TSE entre 2022 e 2026",
-      "imagem": "https://s2-g1.glbimg.com/p74voRomHed8Yrr3OSK1hfg3S2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/1/UgvVIYRXa3RQBwiyAryA/mg-2151-01.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-23T07:40:05.673Z"
+  "atualizadoEm": "2026-08-23T08:00:25.182Z"
 }
