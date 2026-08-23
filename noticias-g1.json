@@ -1,6 +1,50 @@
 {
   "noticias": [
     {
+      "titulo": "Duas pessoas morrem após caminhão carregado com carvão sair da pista e tombar no Paraná",
+      "imagem": "https://s2-g1.glbimg.com/0V1gt7Z63y6vu0lqY9KwBAFvZ6w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/2/U5CLu9R6G6AQqklEeRsw/g1-pr-2026-08-23t105125.939.jpg"
+    },
+    {
+      "titulo": "Trump diz 'basta' em reação às tarifas de retaliação do Canadá",
+      "imagem": "https://s2-g1.glbimg.com/3vDa7M5J9GDxT58tHLFLhUHSwoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/d/Np7kZcTlGXgF104gSNFQ/2026-08-14t200613z-1795537502-rc2jymam5ni2-rtrmadp-3-usa-trump.jpg"
+    },
+    {
+      "titulo": "Homem é preso suspeito de estuprar mulher em Rorainópolis",
+      "imagem": "https://s2-g1.glbimg.com/L3cNFoG-JJr6NDN1QkMTzqVgk64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/h/bwyBJBTG2jKAqzrio8FQ/acoes-da-pmrr-durante-o-carnaval-2026-ascom-pmrr-4-.jpeg"
+    },
+    {
+      "titulo": "Dois homens são baleados após tentativa de feminicídio em show sertanejo no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/SJRVZ-u0J2xV8KaMBu7wXBoP7F0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/F/wQQfV6RGu7Vi1L89L47A/tamanho-post-materia-58-.jpg"
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
+    },
+    {
+      "titulo": "Carro atinge moto de PM após pneu estourar na rodovia Padre Manoel da Nóbrega, SP",
+      "imagem": "https://s2-g1.glbimg.com/9KOsreoWoPDubvTcJFMtaqvYgHA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/5/rspAUTSmA5oL2fuNSdfQ/acidente-pm-1-.jpg"
+    },
+    {
+      "titulo": "VÍDEO: turistas dos EUA se assustam ao encontrar sucuris gigantes no Pantanal",
+      "imagem": "https://s2-g1.glbimg.com/T2tyBNVa12upWxxLsELQWCXPcNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/n/XjUxvvQmKcpmaxxj1hvg/sucuri-amarela.jpg"
+    },
+    {
+      "titulo": "Homem é investigado por importunação sexual contra funcionária em Valença",
+      "imagem": "https://s2-g1.glbimg.com/WXoHsTkBdfCoe3Jweau8nlgzmlo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/A/B/vjfEhySKqmBcp7yuSBbw/whatsapp-image-2021-08-26-at-17.20.53.jpeg"
+    },
+    {
+      "titulo": "Transladação da imagem de Nossa Senhora de Nazaré terá novo trajeto em Macapá",
+      "imagem": "https://s2-g1.glbimg.com/_9I6VdhArR9pzn3KqFJacsM_jwg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/m/rqKV6dQmArBHY1gD8CUA/whatsapp-image-2025-10-12-at-09.50.30.jpeg"
+    },
+    {
+      "titulo": "Vc viu? Corpo de kitesurfista é encontrado, brasileiros 'invadem' perfil da Nasa após post sobre Lençóis Maranhenses e outras notícias da semana no g1 MA",
+      "imagem": "https://s2-g1.glbimg.com/iC6i43lu4dyHdWzSYwWYDPq-F2E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/1/olEWa1Qleu7OYIl4cQdg/montagens-1920-x-1080-px-2026-08-17t070832.947.png"
+    },
+    {
+      "titulo": "Morre Manoel Dias, ex-ministro do Trabalho e um dos fundadores do PDT, aos 88 anos",
+      "imagem": "https://s2-g1.glbimg.com/qXGP1rh4dDYldSm_Du6NULMkCVI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/T/2C9dcEQS2EJ1Al4APSwg/morre-manoel-dias-ex-ministro-do-trabalho-e-um-dos-fundadores-do-pdt-aos-88-anos-.png"
+    },
+    {
       "titulo": "Adolescente é apreendido após furto de celular e perseguição em Três Rios",
       "imagem": "https://s2-g1.glbimg.com/d91sCA7lbaI3WzkE_0205Oyjyjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/F/bN7m6BQJyMG6SsX2M9KQ/image-13-.png"
     },
@@ -22,7 +66,7 @@
     },
     {
       "titulo": "Homem é morto a tiros em Santa Rita, na Grande João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/Qqdd-Y3KZskNzLXNstSonZHtKUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/sBNteyQbKLMJFe4SzUpA/sirene-policia-1-.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/jMTJYJwgiTAgfly0sMBpCjCd_cU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/B/5xajYZS8u9gityobRXVg/homicidiosantarita.jpg"
     },
     {
       "titulo": "TJAM recebe queixa-crime contra promotor aposentado que comparou advogada a cadela durante júri",
@@ -75,51 +119,7 @@
     {
       "titulo": "Inmet renova alerta de baixa umidade do ar em mais de 60 cidades da PB",
       "imagem": "https://s2-g1.glbimg.com/jOPlby2UEhXFIBmI-XkM0N-wK4A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/YIActSQNaXVUV2ubBiHA/captura-de-tela-2026-08-23-094449.jpg"
-    },
-    {
-      "titulo": "Carro pega fogo enquanto motorista ia para o trabalho em Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/KcqLweb8c3tFYmgwpDl65oUpMJI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/8/X3WUSXSeyxcJfk3QUXlA/design-sem-nome-22-.jpg"
-    },
-    {
-      "titulo": "Caminhão tomba e pega fogo na BR-222 em Irauçuba; motorista morre",
-      "imagem": "https://s2-g1.glbimg.com/i7CbPOypX_SX87_oJ96txJbpIrQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/D/4ZzTsfRJOy1tABAPRVkA/caminhao-iraucuba-tomba.jpg"
-    },
-    {
-      "titulo": "Engavetamento com seis veículos causa retenção no Túnel Rebouças, sentido Zona Sul",
-      "imagem": "https://s2-g1.glbimg.com/5z-mOwGDnQ5qopHVnyqVciU8gSc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/i/FKpecYRl2Mdk2kwOiS5g/g1-reboucas1-vl.jpg"
-    },
-    {
-      "titulo": "Motociclista de 29 anos fica gravemente ferido após tombar moto na BR-230 em Floriano",
-      "imagem": "https://s2-g1.glbimg.com/NqhMMna2vp84jWvIkQWGST-LyyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/mn1B9fSSeSg6K8jX9KTw/prf-viatura.jpg"
-    },
-    {
-      "titulo": "Dono de bar é preso suspeito de esfaquear cliente após cobrança de bebida em Santarém",
-      "imagem": "https://s2-g1.glbimg.com/PHudVdA9xDnYmu1VLImrjkk65lU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/J/sjYlUtRvWjutDHsgfA9Q/whatsapp-image-2026-08-23-at-09.23.40.jpeg"
-    },
-    {
-      "titulo": "Eleições 2026 no PR: Sérgio Moro diz que vai criar a ‘tabela SUS paranaense’ para complementar pagamentos a hospitais",
-      "imagem": "https://s2-g1.glbimg.com/aMLz2WXRlDcwShNJGxgETIDJoLI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/N/U/rOMoiXRI6ATkkOuFeB9Q/fta20240319119.jpg"
-    },
-    {
-      "titulo": "Briga por lixo envolvendo 11 pessoas termina em agressões entre vizinhos em Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/3MxFz-uMXdSWfSgbNmaSAJ6mEdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/w/2/uLQH87QBSDHf1BPtiHaw/design-sem-nome-2025-10-26t131852.688.jpg"
-    },
-    {
-      "titulo": "Inmet emite alertas de vendaval e baixa umidade para cidades do RN; veja listas",
-      "imagem": "https://s2-g1.glbimg.com/Z-bj7qUghpptu4-frYayuWwVpFA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/t/tonidOSbivifBEAMwQKg/captura-de-tela-2026-08-23-as-09.21.15.png"
-    },
-    {
-      "titulo": "Turista é obrigado a ficar sem as roupas durante assalto no centro de Brasília",
-      "imagem": "https://s2-g1.glbimg.com/w2_E6Owjhaq01sppX2gG1OwSwhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/0/rO8HJhRFGNngilit9VPA/g1-4-.png"
-    },
-    {
-      "titulo": "Avião faz pouso de emergência na GO-174, em Goiás; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/4bYMTbm6j1CSPdZn8gtBJciGfjs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/Y/lBDITGRFi4CN2qDAwPOQ/padrao-g1-cbn-foto-5-.jpg"
-    },
-    {
-      "titulo": "Colisão entre carro e ônibus deixa duas pessoas feridas em São José dos Campos, SP",
-      "imagem": "https://s2-g1.glbimg.com/J42e5tQXP3BjAbpa08LKRHN9pkQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/0/TkUMIrQMO62NmUKBjSUw/texto-do-seu-paragrafo-2026-08-23t090416.982.png"
     }
   ],
-  "atualizadoEm": "2026-08-23T13:45:03.834Z"
+  "atualizadoEm": "2026-08-23T14:02:29.447Z"
 }

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Vídeo mostra momento em que ataque aéreo israelense atinge cidade em Gaza",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Putin tenta evitar &#8220;maldição de agosto&#8221; da Rússia em meio à guerra",
+      "imagem": null
+    },
+    {
+      "titulo": "Vídeo: homem assalta casal de policiais civis e morre baleado por PM em SP",
+      "imagem": null
+    },
+    {
       "titulo": "F1: Max Verstappen bate na primeira volta e abandona GP da Holanda",
       "imagem": null
     },
@@ -107,19 +119,7 @@
     {
       "titulo": "Análise: Relação de Trump com Kim pode atrasar plano para Coreia do Sul",
       "imagem": null
-    },
-    {
-      "titulo": "Presidente do Irã fala em &#8220;guerra completa&#8221; após novas ameaças dos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "A ciência que transformou a pecuária brasileira em potência global",
-      "imagem": null
-    },
-    {
-      "titulo": "Processo contra “faz-tudo” do PCC terá 50 testemunhas ouvidas em outubro",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T13:45:01.875Z"
+  "atualizadoEm": "2026-08-23T14:02:27.113Z"
 }
