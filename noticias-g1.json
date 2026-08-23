@@ -1,11 +1,75 @@
 {
   "noticias": [
     {
+      "titulo": "Homem morre em confronto com PM e ônibus são escoltados após ataque em Cariacica",
+      "imagem": null
+    },
+    {
+      "titulo": "Mulher de 53 anos morre após colisão entre duas motos enquanto voltava de festa no PI",
+      "imagem": "https://s2-g1.glbimg.com/k4iCEtbETH0mntx0kPBv4xwh3qY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/n/Jgj3TzRQeZydyeH4ujug/edicao-imagens-g1-65-.jpg"
+    },
+    {
+      "titulo": "Carro capota e deixa uma pessoa morta na BR-352",
+      "imagem": "https://s2-g1.glbimg.com/1hslyqRpMYUOdnBAjO04MnlYKi0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/E/nJK5BXQ6uGndPXB533Tg/2.png"
+    },
+    {
+      "titulo": "Chefe de segurança do Irã diz que apoio a sanções dos EUA será ‘ato de guerra’",
+      "imagem": "https://s2-g1.glbimg.com/4nhOZZPC8cS7V8xclch9fXeSHOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/S/jYbYj8RKeS9T5UUSZ64w/2026-07-27t095705z-1393555287-rc27mmata7we-rtrmadp-3-iran-crisis.jpg"
+    },
+    {
+      "titulo": "Busca por desaparecidos: Acre tem ponto para coleta de DNA durante força-tarefa nacional",
+      "imagem": "https://s2-g1.glbimg.com/J5mVJasiegP5xLuFbaB6l1tvtHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/g/oUp0FFQYSKkwARKLsaLA/iml-1.png"
+    },
+    {
+      "titulo": "Prefeitura do Rio apresenta Plano de Mobilidade para Santa Cruz",
+      "imagem": "https://s2-g1.glbimg.com/bWGQ7PPtKOdIVnzykIDiKBquY4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/z/glVtj6RsG8ORi7ER0NBQ/planomobilidadesc-marcoantoniolima-3.jpg.jpeg"
+    },
+    {
+      "titulo": "Motociclista bate em placas no Viaduto Filadélfia e abandona veículo em Governador Valadares",
+      "imagem": "https://s2-g1.glbimg.com/Ah8n11S9FSE9xd6hKxCitLMGD4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/t/SB9ej3R1qphgVYIJBVXA/fotos-horizontais-5-.png"
+    },
+    {
+      "titulo": "Veja agenda de campanha dos candidatos ao governo de MG neste domingo",
+      "imagem": "https://s2-g1.glbimg.com/51YEYUVNj8oQRu2h8a0WF-CiZbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/57q383RYyDBUhmrLzPqw/2.jpg"
+    },
+    {
+      "titulo": "Motociclista é internado com fraturas após cair em avenida com obras no litoral de SP",
+      "imagem": "https://s2-g1.glbimg.com/3KJEBj9Eu4KzOCItZMHR1cXJeHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/4/Xu6WOoRn2ystCkoD88Ng/acidente-guaruja.jpg"
+    },
+    {
+      "titulo": "Parada LGBTQIA+ toma as ruas do Centro de Juiz de Fora com música e celebração; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/vuJmLpCdzY-16sNd89wpikAb9gI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/x/DurBg6T6SvYKJZUJxABA/whatsapp-image-2026-08-23-at-16.16.11.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: Carro invade farmácia após motorista passar mal em Montes Claros",
+      "imagem": "https://s2-g1.glbimg.com/3AyiJXc63XY6OtZZ7v3q136A5zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/8/UppjCZTNGADIgleVGk9A/carol-16-.png"
+    },
+    {
+      "titulo": "Som de mini Land Rover faz vizinhos chamarem polícia, e caso diverte: ‘Povo reclama de coisa pequena’",
+      "imagem": "https://s2-g1.glbimg.com/E2R84q5TA2rRVzpMkSJl5W5wbKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/B/mpSSxeT52N7yjT09nAEw/foto-mini-carro.jpg"
+    },
+    {
+      "titulo": "Homem de 26 anos é morto a facadas após briga em Alterosa, MG",
+      "imagem": "https://s2-g1.glbimg.com/0CSxF7ps_6e9-AZ8OS1rEXjfdq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/t/kWiArbTb6elLVN5Mvvgw/whatsapp-image-2026-08-23-at-16.41.11.jpeg"
+    },
+    {
+      "titulo": "Itapetininga começa a semana com 395 vagas de emprego abertas; maioria não exige experiência",
+      "imagem": "https://s2-g1.glbimg.com/D0pT2oXOi4VjaiRl_D91jUMYUDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/J/j1iUOQTaamuVLKV0Vpcw/image-9-.jpg"
+    },
+    {
+      "titulo": "Investigado por morte de jovem na Praia do Cajueiro, em Santarém, ganha liberdade provisória",
+      "imagem": "https://s2-g1.glbimg.com/e0QybsMDSIHjo7eZLLKBTVT3_ak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/J/IJIZq3TuyNpv3EZd5jkw/whatsapp-image-2026-08-07-at-16.20.19-1-.jpeg"
+    },
+    {
+      "titulo": "Mutirão recolhe quase 400 kg de micro lixo na Ilha do Japonês e reforça conscientização ambiental em Cabo Frio",
+      "imagem": "https://s2-g1.glbimg.com/Axh8ZGNHeU-_BBb16NeUTdIEik0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/C/i0vZTbTJubDyF3ml2fZA/ilhaa.jpg"
+    },
+    {
       "titulo": "Grupo invade casa no interior de SP e rouba mais de R$ 1 milhão em joias, relógios e dinheiro",
       "imagem": "https://s2-g1.glbimg.com/j7FqDJBsUFKR3_FXgGs7vvfodeY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/J/3vQkqBQ7KityzXxTWmQQ/whatsapp-image-2026-08-23-at-11.05.21.jpeg"
     },
     {
-      "titulo": "Japão é atingido por dois terremotos em diferentes regiões",
+      "titulo": "Japão é atingido por dois terremotos nas regiões Norte e Leste do país",
       "imagem": "https://s2-g1.glbimg.com/KNomX43Z5Xsa1QpK5DYN4zmnpGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/H/nwXDq6QwarAt0S6g8wGw/tokyo.jpg"
     },
     {
@@ -14,14 +78,14 @@
     },
     {
       "titulo": "Após show em Barretos e after até o amanhecer, Gusttavo Lima curte domingo de preguiça com Andressa Suita no camping",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/xSzTP4gFlRezD9TyLzBIsab2oIQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/L/kHL8QQQCKwcSbnWpZ4kA/camping-gl.jpg.jpeg"
     },
     {
       "titulo": "Homem é preso suspeito de tentar matar idoso a chutes e pisões em Nova Iguaçu",
       "imagem": "https://s2-g1.glbimg.com/Tb-P8iiXXyut9F65EHhu1FwASkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/p/qm8WLvSk2uIhfKENGOJA/imagem-cortada-2-.jpg"
     },
     {
-      "titulo": "VÍDEO: Filha de Ivete Sangalo viraliza após sambar com a mãe em show",
+      "titulo": "VÍDEO: filha de Ivete Sangalo viraliza após sambar com a mãe em show",
       "imagem": "https://s2-g1.glbimg.com/Oj7nStqMRhPykTiEFjOChEDZlJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/6/YOAguKTqalmNw0WjEUdQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-08-23t165904.350.jpg"
     },
     {
@@ -55,71 +119,7 @@
     {
       "titulo": "Homem é esfaqueado durante discussão com companheiro em Boa Vista",
       "imagem": "https://s2-g1.glbimg.com/LTgRPiPNah3Wg8XKopBKMvvIyzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/h/rqiQXjRiGgo88WQXGJmw/prontosocorro.jpg"
-    },
-    {
-      "titulo": "Motorista de app recebe proposta em dinheiro para ouvir história de traição de passageira: ‘Te dou R$ 150 para me escutar desabafar’",
-      "imagem": "https://s2-g1.glbimg.com/Eh1NMDXBVNc3SOw-OoYgzW4cM9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/0/59Mj6xTC62qcxkUE8dmw/co.jpg"
-    },
-    {
-      "titulo": "Homem é encontrado morto com tiros na cabeça em estrada de assentamento no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/nU0xWCPVE0d_tOlgSdPLt1DqLC0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/2/B/8ISpfAQMyVue8ztBxgQw/img-5827.jpg"
-    },
-    {
-      "titulo": "Obras na Cristiano Machado alteram trânsito em BH nesta segunda-feira (24); entenda",
-      "imagem": "https://s2-g1.glbimg.com/ydeD0IKT85ZthUnbqDIoK24M5n0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/d/vOgAYXSfe1TC45A6Vo7g/sebastiaodebrito-2-.png"
-    },
-    {
-      "titulo": "Carreta rompe fiação e causa danos a casas em cidade no PI; motorista tenta fugir e é levado à delegacia",
-      "imagem": "https://s2-g1.glbimg.com/_GNmHYNkd_QFzyf8KMIXQLCA_lY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/b/F2ARXWQzGYzaA3VXJXfA/edicao-imagens-g1-64-.jpg"
-    },
-    {
-      "titulo": "Incêndio atinge casa de idosa e destrói pertences em Pontes e Lacerda (MT)",
-      "imagem": "https://s2-g1.glbimg.com/lkGiHRS8Sh7uau8WDdv02xDs0YE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/q/hJxi44QyibWiwAtzG7Vg/videos-g1-78-.jpg"
-    },
-    {
-      "titulo": "Homem foge após matar mulher a facadas e é procurado pela polícia em Paraguaçu Paulista",
-      "imagem": "https://s2-g1.glbimg.com/iigfvzqZTBqhQzxFcprncxIwPVQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/g/Z8BdiaTgKnN5SM4SJVeQ/g1-54-.jpg"
-    },
-    {
-      "titulo": "Instalação de vigas da nova Ponte do Arranha-Céu fecha acesso ao Km 58 por quatro dias em Itaipava",
-      "imagem": "https://s2-g1.glbimg.com/CyrcMbUYGRV6S9OzQLM8hA3yVYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/l/V2Mff7QAm3UODiIoWGBg/whatsapp-image-2026-08-22-at-09.08.38-1-.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: Colisão entre carros deixa criança de 6 anos ferida em estrada no Acre",
-      "imagem": "https://s2-g1.glbimg.com/7af-l-fB2-4YGx5R_lvj55AJhAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/a/W1XHF6Ssao0oohrOqZDw/midia-de-distribuicao-g1-2026-08-23t113647.865.png"
-    },
-    {
-      "titulo": "Corpo de homem que estava desaparecido é encontrado em rio de Lagarto",
-      "imagem": "https://s2-g1.glbimg.com/QBd-4m4RhBKxx2Q8_OgOyM-CDX0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/P/HmwECQRSOlxBY4AccXQA/imagem-g1-4-.jpg"
-    },
-    {
-      "titulo": "Batida entre veículos deixa um ferido em Suzano",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem é morto a tiros por PM de folga após esfaquear cabeleireiro dentro de igreja em Anchieta",
-      "imagem": "https://s2-g1.glbimg.com/AKm5o7jJUT60ZAKIMOxPvKTewf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/t/8vfpZXQZSVm55fxiz8AQ/thumb-videos-g1-15-.jpg"
-    },
-    {
-      "titulo": "Dupla é presa com 666 kg de maconha tipo skunk em bote no Rio Negro, no Amazonas",
-      "imagem": "https://s2-g1.glbimg.com/ARdcAM1ooVtEg__womLiPXhONKY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/C/PhOL5uTPibRIK38eBhcQ/dupla-e-presa-com-666-kg-de-maconha-tipo-skunk-em-bote-no-rio-negro-no-amazonas-foto-divulgacao-pmam.jpg"
-    },
-    {
-      "titulo": "Candidatos ao governo do Paraná cumprem agendas de campanha",
-      "imagem": "https://s2-g1.glbimg.com/kqGlFYegKa-BueVxhGjBsrlaDn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/l/w/nd1XBZRCGoCuMSwg9dTg/dae0a475-8fcd-48ea-962b-bea36ee433c0.jpg"
-    },
-    {
-      "titulo": "Programa gratuito oferece 500 vagas de capacitação e curso de inglês no MA; veja como participar",
-      "imagem": "https://s2-g1.glbimg.com/-VnfhK2WRrYwfXmdEIvfVWLQTAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/z/oYPjQBSYqUWmABd1wM9A/passaro8295.mxf-snapshot-00.15.635.jpg"
-    },
-    {
-      "titulo": "Com show gratuito de Sandra Sá, Semana da Cerveja Mineira reúne 25 cervejarias em Juiz de Fora",
-      "imagem": "https://s2-g1.glbimg.com/3tyCTcEiIis3pXSoSyQB2WTDf6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/e/oIADg5R3ABdZG1W79B1A/cervejaria-alvrada-3-jarra.jpg"
-    },
-    {
-      "titulo": "Justiça manda prender dupla acusada de manter idosos em condições desumanas no litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/_gA2QyTkdzisEWT3cQzwbWdTJU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/I/7zAJMLT1APbBHtFs3Tdg/design-sem-nome-31-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-23T20:17:51.548Z"
+  "atualizadoEm": "2026-08-23T20:47:27.968Z"
 }
