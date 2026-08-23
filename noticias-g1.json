@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Datafolha: para 50% dos eleitores, há chance de outros países interferirem na eleição brasileira",
+      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
+    },
+    {
+      "titulo": "Safra da melancia deve levar 700 toneladas às feiras e mercados de Parintins",
+      "imagem": "https://s2-g1.glbimg.com/5XVUZPsyIMYNEd2c_rzhLgU3fWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/S/MhY3ZGTaiICIulllp7uA/melancia-parintins.jpg"
+    },
+    {
+      "titulo": "Resgate de novilha que caiu em buraco com lama mobiliza bombeiros e Defesa Civil no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/hW5QysSmVAwq7nLC2MSpIyLpBXs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/N/qcS3YgQTa9uGqqgyOEsw/design-sem-nome-72-.jpg"
+    },
+    {
+      "titulo": "Ônibus parado pega fogo em terminal de Santana, no Amapá",
+      "imagem": "https://s2-g1.glbimg.com/sgZJ69VQiQLGU3kqOYUMq418Zq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/V/3HLbGoSIyoXxW6x8CO6g/aleixo-g1-52-.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Homem é preso com mais de 560 quilos de maconha em rodovia no Acre",
+      "imagem": "https://s2-g1.glbimg.com/GjMbGxSzZFbwWSbxpympbP84ewY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/o/KzulprTy2Nzifdo4SRlA/midia-de-distribuicao-g1-28-.jpg"
+    },
+    {
       "titulo": "Homem é morto a tiros dentro de carro de campanha de deputada na Grande SP; polícia descarta motivação política",
       "imagem": "https://s2-g1.glbimg.com/3ornfY90lr1Ybe59Vd-vTgby4M8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/E/iugj73QtiX8z75GwDCoA/montagem-horizontal-1200px-5-.jpg"
     },
@@ -89,7 +109,7 @@
       "imagem": "https://s2-g1.glbimg.com/3AyiJXc63XY6OtZZ7v3q136A5zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/8/UppjCZTNGADIgleVGk9A/carol-16-.png"
     },
     {
-      "titulo": "Som de mini Land Rover faz vizinhos chamarem polícia, e caso diverte web: ‘Povo reclama de coisa pequena’",
+      "titulo": "Barulho de carro de som faz vizinhos chamarem a polícia e web se diverte ao perceber que trata-se de uma Land Rover em miniatura",
       "imagem": "https://s2-g1.glbimg.com/E2R84q5TA2rRVzpMkSJl5W5wbKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/B/mpSSxeT52N7yjT09nAEw/foto-mini-carro.jpg"
     },
     {
@@ -99,27 +119,7 @@
     {
       "titulo": "Itapetininga começa a semana com 395 vagas de emprego abertas; maioria não exige experiência",
       "imagem": "https://s2-g1.glbimg.com/D0pT2oXOi4VjaiRl_D91jUMYUDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/J/j1iUOQTaamuVLKV0Vpcw/image-9-.jpg"
-    },
-    {
-      "titulo": "Investigado por morte de jovem na Praia do Cajueiro, em Santarém, ganha liberdade provisória",
-      "imagem": "https://s2-g1.glbimg.com/e0QybsMDSIHjo7eZLLKBTVT3_ak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/J/IJIZq3TuyNpv3EZd5jkw/whatsapp-image-2026-08-07-at-16.20.19-1-.jpeg"
-    },
-    {
-      "titulo": "Mutirão recolhe quase 400 kg de micro lixo na Ilha do Japonês e reforça conscientização ambiental em Cabo Frio",
-      "imagem": "https://s2-g1.glbimg.com/Axh8ZGNHeU-_BBb16NeUTdIEik0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/C/i0vZTbTJubDyF3ml2fZA/ilhaa.jpg"
-    },
-    {
-      "titulo": "Grupo invade casa no interior de SP e rouba mais de R$ 1 milhão em joias, relógios e dinheiro",
-      "imagem": "https://s2-g1.glbimg.com/j7FqDJBsUFKR3_FXgGs7vvfodeY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/J/3vQkqBQ7KityzXxTWmQQ/whatsapp-image-2026-08-23-at-11.05.21.jpeg"
-    },
-    {
-      "titulo": "Japão é atingido por dois terremotos nas regiões Norte e Leste do país",
-      "imagem": "https://s2-g1.glbimg.com/KNomX43Z5Xsa1QpK5DYN4zmnpGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/H/nwXDq6QwarAt0S6g8wGw/tokyo.jpg"
-    },
-    {
-      "titulo": "Auxílio-Aluguel ajuda mulheres a romperem ciclo de violência doméstica no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/8q2LYBV9aP0Ek5uhuikq-Tu0KsM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/W/0G8vIJQZqxcoe2jyHvpQ/sjp-tn1-200826-frame-115195.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-23T21:17:36.194Z"
+  "atualizadoEm": "2026-08-23T21:44:07.636Z"
 }
