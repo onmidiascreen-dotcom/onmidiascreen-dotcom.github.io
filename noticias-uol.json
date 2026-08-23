@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
+      "titulo": "Homem é preso após ameaçar motorista e quebrar janela de ônibus em Apucarana",
+      "imagem": null
+    },
+    {
+      "titulo": "Zelensky diz que celebrar eleições em tempos de guerra 'dividiria a Ucrânia'",
+      "imagem": null
+    },
+    {
       "titulo": "Cidades do Sul têm frio abaixo de 0ºC e geada; vendaval ameaça o Nordeste",
+      "imagem": null
+    },
+    {
+      "titulo": "Mulher tenta invadir hospital, agride segurança e acaba presa em Apucarana",
       "imagem": null
     },
     {
@@ -47,19 +59,7 @@
     {
       "titulo": "Filho é preso após ameaçar a mãe e resistir à abordagem em Ivaiporã",
       "imagem": null
-    },
-    {
-      "titulo": "Maioria na Alemanha crê que governo Merz terá fim precoce",
-      "imagem": null
-    },
-    {
-      "titulo": "Zelenski diz que eleições durante guerra iriam 'dividir a Ucrânia'",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja a previsão do tempo para Ivaiporã neste domingo (23)",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T11:44:37.977Z"
+  "atualizadoEm": "2026-08-23T12:00:24.102Z"
 }

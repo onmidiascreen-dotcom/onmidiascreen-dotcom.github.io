@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Corinthians: Fernando Diniz supera marca de técnicos campeões e iguala Tite",
+      "imagem": null
+    },
+    {
       "titulo": "Incêndio em Nevada, nos EUA, leva governador a declarar emergência",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Criciúma x Fortaleza: horário e onde assistir ao jogo da Série B",
       "imagem": null
-    },
-    {
-      "titulo": "Após suspender 14 bets, Fazenda anuncia 40 processos contra sites de aposta",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T11:44:38.055Z"
+  "atualizadoEm": "2026-08-23T12:00:24.438Z"
 }
