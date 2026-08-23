@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "Mulher é morta a tiros dentro de residência em Salgado; companheiro da vítima é suspeito",
+      "imagem": "https://s2-g1.glbimg.com/eIq3Oau9NdnKsOmbE4mb5zrZgGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/B/OCj357TIWETZVhR2wNXA/imagem-g1-2-.jpg"
+    },
+    {
+      "titulo": "+Milionária: aposta de Taubaté fatura R$ 34 mil em sorteio da Caixa; veja os números",
+      "imagem": "https://s2-g1.glbimg.com/uNPOdDZIdU4o6B6jpxBUz5N8fCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/2/a/hPAg6LRtyjXlIw1pPQQg/img-8788.jpg"
+    },
+    {
+      "titulo": "Servidor público morre após passar mal durante corrida de rua em Feira de Santana",
+      "imagem": "https://s2-g1.glbimg.com/r3xc0dO0pO27O-Df_Betsj43zpI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/0/MVzCrNQ0AWcK4UpTD2jA/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-08-23t132448.885.jpg"
+    },
+    {
+      "titulo": "Morre Aécio Rubens de Brito, ex-vereador de Pouso Alegre, MG",
+      "imagem": "https://s2-g1.glbimg.com/xe4HQ85-tjFTeZ6B1fTEhWAaxLE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/T/ooBshORACOpyJJBdANhw/whatsapp-image-2026-08-23-at-11.58.11.jpeg"
+    },
+    {
+      "titulo": "O que se sabe sobre o caso do adolescente esfaqueado pelo colega em escola particular de Ribeirão Preto, SP",
+      "imagem": "https://s2-g1.glbimg.com/EmvkMx3z_AoGORLylkNtAdLJ2yA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/e/c1gRoSTuSCaHgQHQHd5w/copia-de-molduras-g1-.png"
+    },
+    {
+      "titulo": "Ex-jogador do Bragantino morre após colidir moto contra caminhão em estrada de Bragança, no Pará",
+      "imagem": "https://s2-g1.glbimg.com/LeBYKGXvxaAwfvL_RfAvTD61Q_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/J/6MFENQQAqbSgt8jEHrTQ/whatsapp-image-2026-08-23-at-10.09.31.jpeg"
+    },
+    {
+      "titulo": "Empresário e duas filhas morrem em acidente envolvendo carreta na BR-414",
+      "imagem": "https://s2-g1.glbimg.com/MGzgciCjJ_9Y_Z5LRbmKTncASGY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/h/FIl1cMTKSu20RzkJSImw/imagens-g1-8-.png"
+    },
+    {
+      "titulo": "Dois homens são presos por porte de substância ilícita durante abordagem policial em Santana",
+      "imagem": "https://s2-g1.glbimg.com/Rk8sY9q8Xs7fgUvu0zrZFwXGj2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/Q/mfmPekQzSWqGkJvT0Jrw/cc10e400-7362-4dd8-a370-c5e0559a14bb.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Estação Agrícola deste domingo, 23 de agosto",
+      "imagem": "https://s2-g1.glbimg.com/vYraNo8LdSp9g3Av33GrU-1iHeM=/s01.video.glbimg.com/deo/vi/54/41/14894154"
+    },
+    {
+      "titulo": "Caso Geovana: veja cronologia do assassinato da babá até o júri popular",
+      "imagem": "https://s2-g1.glbimg.com/eGmh96793cpp4PvFo8epwn5cWmw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/C/TQqwwAQMWwZixtPe94RQ/captura-de-tela-2026-08-22-163216.png"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 2ª edição de sábado, 22 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/UixAxm6TYenlMkeH8m7trArFbz4=/s01.video.glbimg.com/deo/vi/95/40/14894095"
+    },
+    {
+      "titulo": "'Caminhada do Amicão' reúne cerca de 350 cães em Barra do Piraí",
+      "imagem": "https://s2-g1.glbimg.com/YO6FB_zDYrcQ7HYMwgQnPX3rwsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/H/lBpLuPTUA0LA3hkXovwg/whatsapp-image-2026-08-23-at-11.47.41-1-.jpeg"
+    },
+    {
+      "titulo": "Anitta se harmoniza com Larissa na 'Equilibrium tour', show em que põe fé tanto no clima zen quanto no batidão",
+      "imagem": "https://s2-g1.glbimg.com/oHjIR3Qm6uJlUElADeRl8_h7Zoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/1/zzdVKVTbieEJwUQtdhfQ/anittaxniteroi.jpg"
+    },
+    {
+      "titulo": "Homem é baleado ao defender o pai durante assalto a loja de celulares em Campos; vídeo",
+      "imagem": "https://s2-g1.glbimg.com/37I3spI3aB8UGvkryE3iVq_q2Ms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/4/oUyJAcTEATrWFa4sEYbg/assalto-campos.jpg"
+    },
+    {
+      "titulo": "Rússia vai aumentar produção de mísseis e recrutar 300 mil novos soldados para guerra na Ucrânia, afirma Zelensky",
+      "imagem": "https://s2-g1.glbimg.com/urkqaai0sR24L92WXWOw18bxv4w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/s/Z/umYScjR4ypHTHmQK3ABQ/ap22349696088144.jpg"
+    },
+    {
+      "titulo": "De zero a R$ 613 milhões: veja o patrimônio declarado ao TSE pelos candidatos ao Senado por SC",
+      "imagem": "https://s2-g1.glbimg.com/mVnbGbeigsJjjxtfJQ6WjbhqyyI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/c/akFs06QV6qSamjpcxt2Q/candidatos-senado-sc.jpg"
+    },
+    {
+      "titulo": "Aposta única leva R$ 57,2 milhões na Mega-Sena; Sul de Minas tem ganhadores da quadra",
+      "imagem": "https://s2-g1.glbimg.com/jYn7Tdr26HY0wqIxZWHVZpV3U8Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/A/a3XBweTjSV4p07AtkywA/loteria-.png"
+    },
+    {
+      "titulo": "‘A Família do Assombro’: musical inspirado na Família Addams volta ao Teatro Amazonas em setembro",
+      "imagem": "https://s2-g1.glbimg.com/i03L79Ksd1t_DOUlxRICamvvSts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/k/I7MUrCSzuUGMMlsAOeuw/familia-adams.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Liberal Comunidade de domingo, 23 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/rGYFQ1FKoBOBsv8WuxzKmOMnzJY=/s01.video.glbimg.com/deo/vi/51/09/14890951"
+    },
+    {
       "titulo": "Mais de uma tonelada de drogas é apreendida durante fiscalização no interior de SP",
       "imagem": "https://s2-g1.glbimg.com/eOGBsU505mGeRUkyaW5rTTKR7R0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/4/FPBgwPSceO3I1aZnQNJA/policia-militar-rodoviaria-1-.jpeg"
     },
@@ -43,83 +119,7 @@
     {
       "titulo": "Ônibus tomba após batida com carro no Paraná; uma pessoa morreu e mais de 40 ficaram feridas",
       "imagem": "https://s2-g1.glbimg.com/8d0ImMfwj7MgC_ssXWMF4_-tUTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/i/ZdTgB1Q4OzRasASp3VUw/snapshot-1255.png"
-    },
-    {
-      "titulo": "Amazônia Agro de 23 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/BV0kmeK_kRRyyjvzWPhsJcEdz5w=/s01.video.glbimg.com/deo/vi/58/31/14893158"
-    },
-    {
-      "titulo": "Jovem é baleado durante encontro marcado por aplicativo em Belo Horizonte",
-      "imagem": "https://s2-g1.glbimg.com/Qqdd-Y3KZskNzLXNstSonZHtKUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/sBNteyQbKLMJFe4SzUpA/sirene-policia-1-.jpeg"
-    },
-    {
-      "titulo": "Incêndio atinge casa e mobiliza bombeiros em São Sebastião, SP",
-      "imagem": "https://s2-g1.glbimg.com/5LQpKxs9BZWAnbIo8M6OqA4OE3A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/P/VbpWvuT1u9BzxecPY3aQ/texto-do-seu-paragrafo-2026-08-23t124120.148.png"
-    },
-    {
-      "titulo": "Mulher é assassinada pelo marido na frente do filho em MT",
-      "imagem": "https://s2-g1.glbimg.com/BkF1SbtwNDMt_0RmXf0190CxnK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Z/k7pKl9RgKOiczjSfnkgg/videos-g1-55-.jpg"
-    },
-    {
-      "titulo": "Motorista fica ferido após bater contra mureta na avenida Itamar Franco, em Juiz de Fora",
-      "imagem": "https://s2-g1.glbimg.com/Mb4zQUvf0DiTZXHF2W-Q9axvTVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/o/IpOHedSvCidFX829txvw/capturar.png"
-    },
-    {
-      "titulo": "População saqueia carga de caminhão enquanto veículo pega fogo no Ceará; motorista morreu",
-      "imagem": "https://s2-g1.glbimg.com/uIO0S4TXJoYgYufzFlspqsk2RAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/i/8h3shjQ2iIU1UK1fr4lQ/fogo-saque-carga.jpg"
-    },
-    {
-      "titulo": "VÍDEOS: Amazônia Agro - Acre deste domingo, 23 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/kqnSve4422ErTVQgG7EXgV4qCWE=/s01.video.glbimg.com/deo/vi/08/81/14888108"
-    },
-    {
-      "titulo": "Assessor parlamentar morre após colisão de moto com muro de escola em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/brXw2CV5MBhCMuEOe6YK2KOh0oE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/7/Yva2JVSRSy0UBL1mO8KQ/motociclista-fabio-margarido-de-moraes-morre-apos-perder-controle-da-moto-e-sofrer-acidente-em-manaus-foto-reproducao-redes-sociais-.jpg.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: dupla de capacete invade casa e mata homem a tiros no ES",
-      "imagem": "https://s2-g1.glbimg.com/OxjMSqEQpKQFGE3OyeKtIkE9onY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/B/LoB1uZStCTwn1KQSWkEw/thumb-videos-g1-13-.jpg"
-    },
-    {
-      "titulo": "'Coxinha, pastel e brigadeiro': intercâmbio leva estudantes da Nova Zelândia a escola pública de cidade do interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/oJlmrbiG3xqeaMa805Nm0B5uecc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/Q/PpM1SSSRGRUAYuAMg9EQ/sor-alunos-intercambio-170826.transfer-frame-7740.jpeg"
-    },
-    {
-      "titulo": "Mototaxista de 20 anos morre após bater contra caminhão estacionado no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/FTWfO6DkvTJxfHtEA4D5IZTr37E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/k/w3HYGPT6uoumj3qIxaKQ/tamanho-post-materia-62-.jpg"
-    },
-    {
-      "titulo": "Homem fica ferido após explosão de botijão de gás em imóvel na Zona Norte de SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem é morto a facadas na porta de supermercado em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/Xl6Tbbvtkz4OWEX1dAdYMViKaPE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/x/APBpDtQquKVUxXWO52Hw/homicidio-em-supermercado-1-.jpg"
-    },
-    {
-      "titulo": "Kleiton, Kledir e Vitor Ramil se afinam, em trio, no belo relicário de emoções e tradições afetivas do show dos irmãos",
-      "imagem": "https://s2-g1.glbimg.com/NBBXH65RhaovLovME6da2WENBKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/3/2AYamlRhA7UaDj526JKg/ramilricardo.jpg"
-    },
-    {
-      "titulo": "VÍDEO: casa é transportada inteira e 'estacionada' em novo terreno no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/UD8Lh29EMTYq2TFk1hb_hz4Dlc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Z/Tgx17YRlyyYIXvD0rscw/whatsapp-video-2026-08-22-at-15.17.22-2-.gif"
-    },
-    {
-      "titulo": "VÍDEO: tromba-d'água assusta banhistas em praia de Salvador",
-      "imagem": "https://s2-g1.glbimg.com/4JpCMm45GskvQ7LIvb-QY16FFUE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/Z/i4H0YMQpC9Zwya2IxUiw/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-08-23t120743.160.jpg"
-    },
-    {
-      "titulo": "CRO-MA abre seletivo com vagas para níveis médio e superior em Pinheiro e Imperatriz",
-      "imagem": "https://s2-g1.glbimg.com/TGWJGgT5eQupEv8J0bAFjbeDxEM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/b/rPXBfXTZeet3uOUAsTEw/public-examination-preparation-concept.jpg"
-    },
-    {
-      "titulo": "Pesquisadores da UFPB desenvolvem colete com sensores para monitorar clima, ruído e poluição nas cidades; saiba como funciona",
-      "imagem": "https://s2-g1.glbimg.com/p_YA60CmKf_lTpL0J9HOff2dwgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/g/Zvz749RbAsBhr2SEA5qA/whatsapp-image-2026-08-21-at-12.39.03.jpeg"
-    },
-    {
-      "titulo": "Mega-Sena: aposta feita em Pernambuco acerta quina e ganha prêmio de R$ 68 mil",
-      "imagem": "https://s2-g1.glbimg.com/lfq4Sn9Gzx7L59i6U9TRItx8DFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/2/EK5gX1TOi999VK1DyhBA/whatsapp-image-2026-01-03-at-12.29.30-9-.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-23T16:19:53.201Z"
+  "atualizadoEm": "2026-08-23T16:50:03.756Z"
 }

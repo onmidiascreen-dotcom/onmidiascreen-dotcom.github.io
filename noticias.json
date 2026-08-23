@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Irmã relata morte de empresária horas após cirurgias plásticas em Goiânia",
+      "imagem": null
+    },
+    {
+      "titulo": "Família pede ao MP investigação de morte de empresária após plásticas em GO",
+      "imagem": null
+    },
+    {
       "titulo": "Irã afirma que novas sanções ameaçadas pelos EUA fracassarão",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Pix caiu? Usuários relatam instabilidade em diferentes bancos",
       "imagem": null
-    },
-    {
-      "titulo": "À CNN Brasil, Amyr Klink fala sobre expectativa de Oscar para &#8220;100 Dias&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Entenda a votação que pode levar a Islândia a integrar a União Europeia",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T16:19:52.476Z"
+  "atualizadoEm": "2026-08-23T16:50:03.091Z"
 }
