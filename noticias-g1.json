@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Novas imagens mostram como começaram agressões a homem que sofreu linchamento em Copacabana",
+      "imagem": "https://s2-g1.glbimg.com/nUIworPhQ5MZVU-Ep1g0B11Sdf0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/t/JAnBjTTIa7GVw6nl5V9g/captura-de-tela-2026-08-23-203340.png"
+    },
+    {
+      "titulo": "Incêndio provocado por ação humana deixa 6 feridos e ameaça 90 mil nos EUA",
+      "imagem": "https://s2-g1.glbimg.com/D1J_bLgArOQgkqMl1OCMh2Ue_Is=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/d/zaPKCoR5KBxv39JyRSDQ/ap26235796925254.jpg"
+    },
+    {
       "titulo": "Secretaria de Saúde regulamenta serviço de aborto legal para vítimas de violência sexual",
       "imagem": "https://s2-g1.glbimg.com/EBSVPCfNo30vg427nZDQ4vTcBW4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/p/N/ByQBRBTIG3RIh13AK8cg/hospital-e-maternidade-dona-regina-erlene-miranda.jpeg"
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Datafolha: para 50% dos eleitores, há chance de outros países interferirem na eleição brasileira",
       "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
-    },
-    {
-      "titulo": "Safra da melancia deve levar 700 toneladas às feiras e mercados de Parintins",
-      "imagem": "https://s2-g1.glbimg.com/5XVUZPsyIMYNEd2c_rzhLgU3fWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/S/MhY3ZGTaiICIulllp7uA/melancia-parintins.jpg"
-    },
-    {
-      "titulo": "Resgate de novilha que caiu em buraco com lama mobiliza bombeiros e Defesa Civil no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/hW5QysSmVAwq7nLC2MSpIyLpBXs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/N/qcS3YgQTa9uGqqgyOEsw/design-sem-nome-72-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-23T23:44:31.486Z"
+  "atualizadoEm": "2026-08-23T23:59:10.720Z"
 }

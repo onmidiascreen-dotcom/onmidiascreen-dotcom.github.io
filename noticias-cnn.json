@@ -1,11 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Candidatos iniciam debate com foco em segurança e críticas à educação",
+      "imagem": null
+    },
+    {
       "titulo": "Síria e Israel realizam negociações mediadas pelos EUA para reduzir tensões",
       "imagem": null
     },
     {
-      "titulo": "Confiscar bens de agressor de mulher é &#8220;penalização educativa&#8221;",
+      "titulo": "Confiscar bens de agressor de mulher é &#8220;penalização educativa&#8221;, diz Caiado",
       "imagem": null
     },
     {
@@ -115,11 +119,7 @@
     {
       "titulo": "Polícia investiga morte de homem que foi imobilizado após surto em Santos",
       "imagem": null
-    },
-    {
-      "titulo": "Com gol no fim, Red Bull Bragantino vence Grêmio pelo Campeonato Brasileiro",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T23:44:30.779Z"
+  "atualizadoEm": "2026-08-23T23:59:08.765Z"
 }

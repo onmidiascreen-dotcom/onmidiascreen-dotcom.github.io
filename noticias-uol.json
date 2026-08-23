@@ -1,11 +1,19 @@
 {
   "noticias": [
     {
+      "titulo": "Primeiro-ministro britânico viajará na segunda-feira para Kiev",
+      "imagem": null
+    },
+    {
       "titulo": "Ausente, Lula vira alvo principal de candidatos em 1º debate presidencial",
       "imagem": null
     },
     {
       "titulo": "Renan chama Lula e seus eleitores de canalhas: 'Não quero seu voto'",
+      "imagem": null
+    },
+    {
+      "titulo": "Em debate, Augusto Cury diz que vai manter o Bolsa Família, mas com ajustes",
       "imagem": null
     },
     {
@@ -51,15 +59,7 @@
     {
       "titulo": "Sem Lula, Flávio e Zema, candidatos fazem primeiro debate à Presidência",
       "imagem": null
-    },
-    {
-      "titulo": "Aleksander Ceferin, chefe da Uefa, não será candidato à presidência da Fifa (podcast)",
-      "imagem": null
-    },
-    {
-      "titulo": "Record exibe entrevista com Lula no mesmo horário do debate",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T23:44:31.107Z"
+  "atualizadoEm": "2026-08-23T23:59:09.048Z"
 }
