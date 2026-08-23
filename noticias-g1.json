@@ -1,6 +1,66 @@
 {
   "noticias": [
     {
+      "titulo": "Apesar de avisos da mãe, Ana Castela emenda segundo after no Barretão: 'farmei aura'",
+      "imagem": null
+    },
+    {
+      "titulo": "Gusttavo Lima faz after no Palco Amanhecer na Festa do Peão de Barretos 2026",
+      "imagem": "https://s2-g1.glbimg.com/4BJJ5oadsLdZTPikGAxJtwFLtGM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/T/5BLG41Q2u5PwHAydqdcg/gusttavo-lima-amanhecer.png"
+    },
+    {
+      "titulo": "Síria diz que pode retomar diálogo com Israel, mas exige fim dos ataques",
+      "imagem": "https://s2-g1.glbimg.com/q-002SkfBy3IGxsI_OH0BdAtXiM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/i/enefhRQHeVACD3oxh48w/2026-08-23t065503z-1515615344-rc2o3na39m8j-rtrmadp-3-syria-israel-shaibani.jpg"
+    },
+    {
+      "titulo": "Festa do Peão de Barretos 2026: veja a programação deste domingo, 23 de agosto",
+      "imagem": "https://s2-g1.glbimg.com/JYHoBT0rm29m0B4Qs9rFqCCv490=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/1/T0xGvlR0GYKBMFvrsoRg/molduras-g1-2026-08-17t163144.180.png"
+    },
+    {
+      "titulo": "São Sebastião recupera capacidade de investimento e retoma ciclo de obras",
+      "imagem": "https://s2-g1.glbimg.com/5H34GxcNJUPFb7XA0eRf2JtDgUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/r/CTo5CYSJSANu0edzgkRg/2026811161141198561.jpg"
+    },
+    {
+      "titulo": "Golpes usam Minha Casa, Minha Vida e Desenrola para roubar dinheiro; veja como se proteger",
+      "imagem": "https://s2-g1.glbimg.com/DHNb5OaDrG-IvqcIF-pZHHIpX3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/Y/jB4AF9QjSVcFM46UBkZA/fta20240520073-1-.jpg"
+    },
+    {
+      "titulo": "El Niño pode encarecer alimentos em até 20%; economistas prevêem impacto na inflação",
+      "imagem": "https://s2-g1.glbimg.com/uwrX4SbrxE4NrY-bvGG_NsxivSI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Y/g/xvm7auROWivTKDf3OI0w/de-onde-vem-a-salada-supermercado-sonda-foto-celso-tavares-g1-29-de-94-.jpg"
+    },
+    {
+      "titulo": "Por que europeus estão guardando mais dinheiro vivo mesmo usando cada vez menos notas?",
+      "imagem": "https://s2-g1.glbimg.com/7khFbIc1N1Jw51hTJw3AxYHg0do=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/0/wkDSVbT1AdKVK1SIdoMw/63767847-1004.webp"
+    },
+    {
+      "titulo": "Seu filho quer um cachorro? Estudo mostra o que importa nessa relação",
+      "imagem": "https://s2-g1.glbimg.com/wz4gdVQedGc4IY1mKl8D2UjkpJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/Z/o8RrANQ126hFoVXoi8GQ/pexels-stephen-chantzis-3647993-5810576.jpg"
+    },
+    {
+      "titulo": "Casos de abuso sexual de menores explodem entre migrantes em Ceuta",
+      "imagem": "https://s2-g1.glbimg.com/4IWyCv5ctZvO7iYQw0OLFjL1dPU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/y/dpYqFjRcaqNBizSqOBLw/2026-08-18t140123z-2073834659-rc2bzmaqm7tg-rtrmadp-3-migration-europe-spain-ceuta-women.jpg"
+    },
+    {
+      "titulo": "Vestibular da USP em Fortaleza gera debate nas redes sociais; entenda escolha da Fuvest",
+      "imagem": "https://s2-g1.glbimg.com/QavwuJt3czMsinl8MlQJGt9Ci88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/h/MqFWkCQoyBJYl7Ikj3pA/whatsapp-image-2026-08-21-at-21.56.13.jpeg"
+    },
+    {
+      "titulo": "De vendedora de flores a primeira santa das Américas: saiba quem foi Santa Rosa de Lima",
+      "imagem": "https://s2-g1.glbimg.com/Cwu9CchPdIHN1DG6FZErWl1y-Ws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/c/OIna2jS6KUdSE6i7KHIw/texto-do-seu-paragrafo-2026-08-22t173449.408.png"
+    },
+    {
+      "titulo": "Festa da beata Isabel Cristina reúne fiéis em Barbacena a partir de domingo; veja programação",
+      "imagem": "https://s2-g1.glbimg.com/9nsCyMLg270ykqENRpDTrRMarj0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/m/6/m19x0IRs2BeF5f4gnoFA/isabel.png"
+    },
+    {
+      "titulo": "Entenda o caso de imóvel alugado com conta emprestada de Airbnb que terminou em furto e prejuízo para a dona em MG",
+      "imagem": "https://s2-g1.glbimg.com/oDZ7ohUj9HkFHzb2Okh0M6l9mc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/c/1/sGxU35SF2nHbhM6XCUaw/ap23045444996487.jpg"
+    },
+    {
+      "titulo": "3ª noite de montaria tem tombos e performance brilhante de líder do ranking nacional na Festa do Peão de Barretos",
+      "imagem": "https://s2-g1.glbimg.com/EYLXfYvpM46Ri_amgg0ReR6_P0k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Y/fEneHRRYKqbcFnAo0sRw/joao-paulo.png"
+    },
+    {
       "titulo": "Nattan encara jornada dupla de shows em Barretos e balança turma do chapéu com piseiro",
       "imagem": null
     },
@@ -59,67 +119,7 @@
     {
       "titulo": "Fazenda histórica que foi de barão do café dará lugar a data center de IA no interior de SP",
       "imagem": "https://s2-g1.glbimg.com/wH_pKbandsOKDxuOFqryTvuSPUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/n/CADpNAQAq7UaZ8mXreAw/img-8225.jpg"
-    },
-    {
-      "titulo": "Bell Marques revela planos para nova geração após lançamento de álbum de canções de ninar",
-      "imagem": "https://s2-g1.glbimg.com/W-ohkVu5HGYPHgmDSfGRKPNLfCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/q/tLoHa7T2KlNszKuwHOlg/whatsapp-image-2026-08-23-at-02.17.55.jpeg"
-    },
-    {
-      "titulo": "Alok eletriza a arena de Barretos com show de drones, rosto de Marília Mendonça e participação de Ana Castela",
-      "imagem": "https://s2-g1.glbimg.com/pd3mdeWmgCE39MgLUd6ZTEVmpWY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/S/bUxiS4SE2GZGY0G4NxNw/canora-fusca-rosa.png"
-    },
-    {
-      "titulo": "Encontro de embaixadores: Ana Castela abraça Gusttavo Lima em Barretos",
-      "imagem": "https://s2-g1.glbimg.com/9qNHHrPOlv0fZ9d3vIfv8hlgfm0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/9/utra1xTEiv6zmOd4HTBA/whatsapp-image-2026-08-23-at-02.22.07.jpeg"
-    },
-    {
-      "titulo": "Ele enxerga em preto e branco e fez da deficiência um negócio de R$ 100 mil por mês",
-      "imagem": "https://s2-g1.glbimg.com/W0kyIrzWVAgOmk3sW7mWDQWOyU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/s/92PTHtSUAO442w4Z0Rpw/captura-de-tela-2026-08-17-131136.png"
-    },
-    {
-      "titulo": "Evasão silenciosa: como a falta de acolhimento afasta estudantes LGBTQIA+ das escolas no DF",
-      "imagem": "https://s2-g1.glbimg.com/0xqV68mF-w8wW16jG0Y6uMWa4Gg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/q/X/USl0zrQuAA0q4o1szUlA/ceilandia-saladeaula.jpeg"
-    },
-    {
-      "titulo": "Após show no RS, Ana Castela volta a Barretos e promete festar e ficar sem dormir",
-      "imagem": "https://s2-g1.glbimg.com/95i6evCrArwWwgeE-NQmlRTq-mk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/L/0THr7mQw2DjBJ7mbTxtg/ana-castela-barretos.png"
-    },
-    {
-      "titulo": "Ludmilla interrompe show no Festival de Inverno Bahia para autografar CDs de fã: ‘Mais abençoado que nunca’",
-      "imagem": "https://s2-g1.glbimg.com/bWlzoyjBsXlbPEbPON_2bIaG8uo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/e/AHu0qLTOScvRcgHnyfMQ/whatsapp-image-2026-08-23-at-00.12.25.jpeg"
-    },
-    {
-      "titulo": "O que dizem as promessas dos candidatos ao governo do RS para enfrentar enchentes",
-      "imagem": "https://s2-g1.glbimg.com/T7gkFU9vUwEfB1glCN5ZBh5Li-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/a/F/XGlSarTGGAk47XeWnRpQ/2024-05-05t235201z-1577489571-rc2dk7ac4yj2-rtrmadp-3-brazil-rains.jpg"
-    },
-    {
-      "titulo": "'Mainha' x candidato de Lula: especialistas analisam estratégias de Raquel Lyra e João Campos nas redes sociais no início da campanha",
-      "imagem": "https://s2-g1.glbimg.com/YtZUdsadQgZL-A-bpYzEKunTLpY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/I8vnMMRgKse8XPwcg9hg/design-sem-nome-3-.png"
-    },
-    {
-      "titulo": "Após três anos e passagem por 16 países, Berranteiro das Américas encerra expedição em Barretos",
-      "imagem": "https://s2-g1.glbimg.com/OyOmIM9-XcuE-_QATFZ2BzK3t14=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/R/pav1VST4ysQydVcGrfuw/whatsapp-image-2026-08-23-at-00.53.30.jpeg"
-    },
-    {
-      "titulo": "FOTOS: Gusttavo Lima na Festa do Peão de Barretos 2026",
-      "imagem": "https://s2-g1.glbimg.com/SeU7EdpzmvNrYUVSM6fHyHLwsno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/b/DG6TeQRxi2uSzfIeJhLw/dsc-1170.jpg"
-    },
-    {
-      "titulo": "Macaé oferece consultas médicas neste sábado no Centro Dona Alba",
-      "imagem": "https://s2-g1.glbimg.com/NPgcv1lqEbrvF9IwKGdlr0wbejE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/7/RTnhY3SDq9a6T58AKMXg/foto-1-dona-alba.jpeg"
-    },
-    {
-      "titulo": "Mega-Sena pode pagar R$ 58 milhões neste domingo; g1 transmite ao vivo",
-      "imagem": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
-    },
-    {
-      "titulo": "Federações partidárias neutras na corrida presidencial reúnem 3,7 mil candidatos nas eleições",
-      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
-    },
-    {
-      "titulo": "Forças partidárias: o que esperar das eleições deste ano?",
-      "imagem": "https://s2-g1.glbimg.com/-lY2gaMjS4M1cyDWQvIyxg7Yo4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/6afOSPQVOhvRV5FtY8Rg/urna.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-23T08:00:25.182Z"
+  "atualizadoEm": "2026-08-23T08:47:29.631Z"
 }
