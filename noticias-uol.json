@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
+      "titulo": "Trump encerra festejos do 250º aniversário dos EUA com corrida da IndyCar em Washington",
+      "imagem": null
+    },
+    {
       "titulo": "Candidatos começam a chegar para debate; Renan leva fraldas para criticar ausências de Lula e Flávio",
+      "imagem": null
+    },
+    {
+      "titulo": "Como um magnata excêntrico que tinha leão como animal de estimação se tornou o homem mais rico do mundo",
+      "imagem": null
+    },
+    {
+      "titulo": "Carro invade loja de bebidas e deixa prejuízo de R$ 50 mil; motorista foi preso",
       "imagem": null
     },
     {
@@ -45,21 +57,9 @@
       "imagem": null
     },
     {
-      "titulo": "'Espero não ser um adeus': carta encontrada após jovem ser resgatada em GO",
-      "imagem": null
-    },
-    {
-      "titulo": "Boca de urna indica vitória de partido governista nas legislativas do Cazaquistão",
-      "imagem": null
-    },
-    {
-      "titulo": "Onde assistir Chapecoense x São Paulo pelo Brasileirão ao vivo neste domingo",
-      "imagem": null
-    },
-    {
-      "titulo": "Perda de 15% da força muscular já ameaça mobilidade na velhice, diz estudo",
+      "titulo": "'Não chame a polícia', diz carta achada em cativeiro de jovem acorrentada",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T21:44:06.264Z"
+  "atualizadoEm": "2026-08-23T21:59:07.679Z"
 }

@@ -1,6 +1,42 @@
 {
   "noticias": [
     {
+      "titulo": "Concursos públicos têm salários de até R$ 25 mil na região de Presidente Prudente; confira as vagas",
+      "imagem": "https://s2-g1.glbimg.com/F_VD1uOABJ1JUB-evjEP1Udy89c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/h/iLi7IwTyu4dXUHCqxNfA/imagem-ilustrativa-para-concurso-foto-divulgacao.jpg"
+    },
+    {
+      "titulo": "Sabesp oferece vagas de Jovem Aprendiz em Itapetininga; veja como se inscrever",
+      "imagem": "https://s2-g1.glbimg.com/k3kxtb32LlDMlmu42KX5Xj8R_x8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/k/l/vmETVOROqC5RFNKo8Z7g/sabesp-de-itapetininga-sp-.jpg"
+    },
+    {
+      "titulo": "Panfletagens, caminhadas e lançamentos de candidaturas de aliados: como foi agenda dos candidatos ao governo de PE neste domingo",
+      "imagem": "https://s2-g1.glbimg.com/dBnQpd9h3l-rttYUArrIxhu4UEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/v/zTchS3QBmv16YEDRICcg/candidatos.png"
+    },
+    {
+      "titulo": "Cidade do interior de SP se transforma em polo de cicloturismo com 650 km de rotas mapeadas",
+      "imagem": "https://s2-g1.glbimg.com/11AoCc99BckPC8PWdYsknkxKOmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/b/NWtaIlTkG7xMcwVN86BQ/whatsapp-image-2026-08-23-at-15.38.23.jpeg"
+    },
+    {
+      "titulo": "Homem atira em dona de lanchonete após reclamar de sanduíche, diz polícia",
+      "imagem": "https://s2-g1.glbimg.com/Ml3TWYLMCN4pmNbv1ct_FQs9Zjc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/K/q0MmP4ROOGQW3CdUOhkQ/co-2-.png"
+    },
+    {
+      "titulo": "Datafolha: 56% dizem que iriam votar nas eleições de 2026 mesmo se não fosse obrigatório",
+      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
+    },
+    {
+      "titulo": "Prazer, Renata: a convivência entre diferentes gerações — com Marcela Ceribelli",
+      "imagem": "https://s2-g1.glbimg.com/UW8kkAyJKlFK2JWxYPGyfqmzsJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/c/Bf5CZtT4K3dXRTiidHbg/nova-logo-podcast-renata-924-x-520.jpg"
+    },
+    {
+      "titulo": "Homem é preso por embriaguez ao volante em Itaquaquecetuba",
+      "imagem": "https://s2-g1.glbimg.com/-OYbn9PH7Z8hWCOtj3ZaV6JzoTg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/A/G/oK0iDPTzWtAhjndMptSw/whatsapp-image-2023-12-18-at-16.03.28.jpeg"
+    },
+    {
+      "titulo": "Homem é baleado na perna por PM durante abordagem na Zona Sul de SP",
+      "imagem": "https://s2-g1.glbimg.com/SHEA9urlAHdDLWhiz664OqB3lp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/O/8BGD1yTFCjklxaZDKtYg/fotojet-67-.jpg"
+    },
+    {
       "titulo": "Datafolha: para 50% dos eleitores, há chance de outros países interferirem na eleição brasileira",
       "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
     },
@@ -83,43 +119,7 @@
     {
       "titulo": "Busca por desaparecidos: Acre tem ponto para coleta de DNA durante força-tarefa nacional",
       "imagem": "https://s2-g1.glbimg.com/J5mVJasiegP5xLuFbaB6l1tvtHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/g/oUp0FFQYSKkwARKLsaLA/iml-1.png"
-    },
-    {
-      "titulo": "Prefeitura do Rio apresenta Plano de Mobilidade para Santa Cruz",
-      "imagem": "https://s2-g1.glbimg.com/bWGQ7PPtKOdIVnzykIDiKBquY4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/z/glVtj6RsG8ORi7ER0NBQ/planomobilidadesc-marcoantoniolima-3.jpg.jpeg"
-    },
-    {
-      "titulo": "Motociclista bate em placas no Viaduto Filadélfia e abandona veículo em Governador Valadares",
-      "imagem": "https://s2-g1.glbimg.com/Ah8n11S9FSE9xd6hKxCitLMGD4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/t/SB9ej3R1qphgVYIJBVXA/fotos-horizontais-5-.png"
-    },
-    {
-      "titulo": "Veja agenda de campanha dos candidatos ao governo de MG neste domingo",
-      "imagem": "https://s2-g1.glbimg.com/51YEYUVNj8oQRu2h8a0WF-CiZbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/57q383RYyDBUhmrLzPqw/2.jpg"
-    },
-    {
-      "titulo": "Motociclista é internado com fraturas após cair em avenida com obras no litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/3KJEBj9Eu4KzOCItZMHR1cXJeHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/4/Xu6WOoRn2ystCkoD88Ng/acidente-guaruja.jpg"
-    },
-    {
-      "titulo": "Parada LGBTQIA+ toma as ruas do Centro de Juiz de Fora com música e celebração; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/vuJmLpCdzY-16sNd89wpikAb9gI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/x/DurBg6T6SvYKJZUJxABA/whatsapp-image-2026-08-23-at-16.16.11.jpeg"
-    },
-    {
-      "titulo": "VÍDEO: Carro invade farmácia após motorista passar mal em Montes Claros",
-      "imagem": "https://s2-g1.glbimg.com/3AyiJXc63XY6OtZZ7v3q136A5zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/8/UppjCZTNGADIgleVGk9A/carol-16-.png"
-    },
-    {
-      "titulo": "Barulho de carro de som faz vizinhos chamarem a polícia e web se diverte ao perceber que trata-se de uma Land Rover em miniatura",
-      "imagem": "https://s2-g1.glbimg.com/E2R84q5TA2rRVzpMkSJl5W5wbKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/B/mpSSxeT52N7yjT09nAEw/foto-mini-carro.jpg"
-    },
-    {
-      "titulo": "Homem de 26 anos é morto a facadas após briga em Alterosa, MG",
-      "imagem": "https://s2-g1.glbimg.com/0CSxF7ps_6e9-AZ8OS1rEXjfdq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/t/kWiArbTb6elLVN5Mvvgw/whatsapp-image-2026-08-23-at-16.41.11.jpeg"
-    },
-    {
-      "titulo": "Itapetininga começa a semana com 395 vagas de emprego abertas; maioria não exige experiência",
-      "imagem": "https://s2-g1.glbimg.com/D0pT2oXOi4VjaiRl_D91jUMYUDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/J/j1iUOQTaamuVLKV0Vpcw/image-9-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-23T21:44:07.636Z"
+  "atualizadoEm": "2026-08-23T21:59:09.347Z"
 }
