@@ -1,6 +1,62 @@
 {
   "noticias": [
     {
+      "titulo": "Qual é o melhor horário para jantar e por que comer a mesma coisa tem efeitos diferentes dependendo da hora do dia?",
+      "imagem": "https://s2-g1.glbimg.com/cOjnlXoOBPxllF0606XoC9GxUrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/d/pNAcApQ5yrK3Y2Fm9eyA/940e8779-0178-412d-a682-40f45762d77c.png"
+    },
+    {
+      "titulo": "Inscrições para concurso da Prefeitura de Conceição, PB, com salários de até R$ 7 mil terminam neste domingo (23)",
+      "imagem": "https://s2-g1.glbimg.com/LgsoakYFD71UflwMfMIFkAGIHg8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/r/AkCdiZRweVK6nmFgxSag/imawewe.png"
+    },
+    {
+      "titulo": "Aprenda a receita do curau tradicional",
+      "imagem": "https://s2-g1.glbimg.com/B-zXiYT4a_-HKEaNrFdHGH228Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/K/PWaI1JTnefuKNJBnTi5Q/still0819-00000a.jpg"
+    },
+    {
+      "titulo": "Da informação ao apoio emocional: doulas ganham espaço e têm profissão regulamentada por lei",
+      "imagem": "https://s2-g1.glbimg.com/6ugXUIRvQ5Sd47LsGvJ5ElaEtIs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/L/5YVCxQSyqPswBnC7DLHA/vlcsnap-2026-08-20-17h47m50s460.png"
+    },
+    {
+      "titulo": "‘Não se Cale’: escolas recebem ações de combate à violência contra a mulher no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/c4euMWFMvPystNoT5NsZI3bpUbc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/u/cyBtq6T1qpAwFA0LxiKw/para-o-g1-78-.jpg"
+    },
+    {
+      "titulo": "De frango inteiro a ‘bomba’: prato com até meio quilo de recheio vira aposta de amigos no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/87lXacronRUExunErsbLaUS7i5Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/z/UQBmLJTS2AuVZ6dPNYaQ/foto-g1-70-.png"
+    },
+    {
+      "titulo": "Entre plantões de 24h e treinos, bombeiro do interior de SP corre 110 km em prova de montanha",
+      "imagem": "https://s2-g1.glbimg.com/6-zqYEcyN1TGtV72T5p8b2izNvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/S/lGdzgJTbuiksgxybkfDg/g1-indiana-1-1-.png"
+    },
+    {
+      "titulo": "Família de cartógrafo reconhecido por mapas feitos à mão lança campanha para ajudar na recuperação do artista",
+      "imagem": "https://s2-g1.glbimg.com/3hT7LmHWCr2Vk24yBwP9ihU1yLs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/f/5/OKmqHwSYS3P5UiUA6ZGA/stein-desenhando-.jpeg"
+    },
+    {
+      "titulo": "Apenas 3 dos 24 deputados estaduais do Acre não tentam reeleição em 2026",
+      "imagem": "https://s2-g1.glbimg.com/JwGrfH_qbT6fphse5NmfLbGo42c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/x/6nuJ2PRIq3H1RQBAdh2w/midia-de-distribuicao-g1-32-.png"
+    },
+    {
+      "titulo": "IFPA anuncia 5 novos campi e novos cursos no PA; veja vagas e cidades",
+      "imagem": "https://s2-g1.glbimg.com/24AeMLdYfOhAQPldPvfhKPO1lYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/e/1jyCnASJecHxUoMNPBbQ/estudantes-ifpa-3-.jpg"
+    },
+    {
+      "titulo": "Confira a receita de bolinho de milho verde frito",
+      "imagem": "https://s2-g1.glbimg.com/PX-XcidD0ZOryyG6uxUhHqmPxyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/H/iFLl86TEAZlGchDgB5eg/still0819-00001a.jpg"
+    },
+    {
+      "titulo": "Pai deixa filho de 7 anos sozinho em caminhada no Monte Fuji",
+      "imagem": "https://s2-g1.glbimg.com/PGpAJjPERCgubD5BJ91fDloYnNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/j/qRU8HxQp2bPozN0CzjLg/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg"
+    },
+    {
+      "titulo": "Família de 'apaixonados por milho' ensina receita de pudim de milho",
+      "imagem": "https://s2-g1.glbimg.com/jXMNuT1l5SEGe7hQN3jn4yNoXUk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/v/hIAssORUaQ2cxgEzBYug/still0817-00000a.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Campo-TO deste domingo, 23 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/TNaDCm5EmkoSpUcxUUbfiM8DCPs=/s01.video.glbimg.com/deo/vi/04/10/14891004"
+    },
+    {
       "titulo": "Baleia de 6 metros encalha e é encontrada morta em praia de Paracuru",
       "imagem": "https://s2-g1.glbimg.com/eFBU1wq_7k83m9F_1utt0hk1CWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/R/myqGvzSFCI3yWQUgYizg/baleia-encontrada-encalhada-paracuru-ceara.jpg"
     },
@@ -63,63 +119,7 @@
     {
       "titulo": "O que se sabe sobre bebê que morreu após sofrer corte na cabeça durante cesárea no interior de SP",
       "imagem": "https://s2-g1.glbimg.com/4M8iMAWfR3p6pO_38w_p6mUURNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/L/OLR57QTAW5k7bL5yUfAw/3.png"
-    },
-    {
-      "titulo": "Pintor transforma fachadas de casas de famílias carentes sem cobrar nada em Uberlândia: 'não é só tinta, é resgate de dignidade'",
-      "imagem": "https://s2-g1.glbimg.com/WSHvhYU6wppF0eNSDQQGDw4obIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/n/rcyHmRQySd9BKXOcRy9Q/elh-1-.png"
-    },
-    {
-      "titulo": "Placa em homenagem a Donga será inaugurada neste domingo na casa onde o músico viveu no Maracanã",
-      "imagem": "https://s2-g1.glbimg.com/5yplVz4PmbH_Vgb2jysMXW9mHXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/F/RL3wh7S1eGC8YZ9BDY1w/imagem-cortada-37-.jpg"
-    },
-    {
-      "titulo": "Estações de Leitura levam livros e formação para escolas públicas de SP e aproximam crianças das famílias",
-      "imagem": "https://s2-g1.glbimg.com/MH_dnJIaojtr2BZUo6A0ZIxhsUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/C/CcDdlaRD2geZFoAJLNOA/img-2778-1-.jpg"
-    },
-    {
-      "titulo": "Aprenda a fazer panqueca de banana com aveia e queijo coalho",
-      "imagem": "https://s2-g1.glbimg.com/KNrsm50CVzS1ll-UqJe15fvCHUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/R/zSBwbRRoSJMcWvTNJq3Q/whatsapp-image-2026-08-22-at-11.21.29.jpeg"
-    },
-    {
-      "titulo": "'Sabores, Sons e Memórias': Reinado do Rosário transforma Itapecerica com fé, cultura e tradição há mais de 200 anos",
-      "imagem": "https://s2-g1.glbimg.com/2UCq7_dA0zHC4XHIXjzK94pTFBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/l/tZCAXWTDyxan5BpSF2pw/foto-danilo-moreira.jfif"
-    },
-    {
-      "titulo": "Defesa Civil emite alerta para risco de queimadas no Vale do Paraíba neste domingo",
-      "imagem": "https://s2-g1.glbimg.com/023lDy-seWhhGrNGCgRbnzxwqIs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/H/fImDzcQT2zJTQweBBLIg/whatsapp-image-2026-05-06-at-16.34.31.jpeg"
-    },
-    {
-      "titulo": "As livrarias independentes que estão sendo fechadas pelo governo da China",
-      "imagem": "https://s2-g1.glbimg.com/7Pw7dYKUPnULLhdAw-xq3YKc08Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/2/LkYeqXSiepHMIyHMz9uQ/getty-1.jpg"
-    },
-    {
-      "titulo": "VÍDEO: produtor rural de 67 anos viraliza com vida na roça e paixão por cavalos no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/7M58RA6Af7JksGMGxA5YJePih_Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/k/NgKNFFR7iMYzwW75jnRA/projeto-brenda-86-.jpg"
-    },
-    {
-      "titulo": "Influencer armou falsa abordagem policial para roubar R$ 800 mil e 30 kg de ouro do garimpo em Roraima",
-      "imagem": "https://s2-g1.glbimg.com/kWJ47MvVykyTTfQmgv21PMG3Z6w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/3/ciDmEfSOqEBsUPQAZq1Q/ivan.jpg"
-    },
-    {
-      "titulo": "FOTOS: Nattan na Festa do Peão de Barretos 2026",
-      "imagem": "https://s2-g1.glbimg.com/_XSWRrJKf-DV7sTlF2myikj6dEg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Z/wqlmX0SkGp3nQbWZWIfg/dsc03830.jpg"
-    },
-    {
-      "titulo": "Apesar de avisos da mãe, Ana Castela emenda segundo after no Barretão: 'Farmei aura'",
-      "imagem": "https://s2-g1.glbimg.com/VKA_jv_vRMKkV7Q4iIBuomicmKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/r/9q3mQuRTAnjp6JlXABoQ/whatsapp-image-2026-08-23-at-06.01.38.jpeg"
-    },
-    {
-      "titulo": "Gusttavo Lima faz after no Palco Amanhecer na Festa do Peão de Barretos 2026",
-      "imagem": "https://s2-g1.glbimg.com/4BJJ5oadsLdZTPikGAxJtwFLtGM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/T/5BLG41Q2u5PwHAydqdcg/gusttavo-lima-amanhecer.png"
-    },
-    {
-      "titulo": "Síria diz que pode retomar diálogo com Israel, mas exige fim dos ataques",
-      "imagem": "https://s2-g1.glbimg.com/q-002SkfBy3IGxsI_OH0BdAtXiM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/i/enefhRQHeVACD3oxh48w/2026-08-23t065503z-1515615344-rc2o3na39m8j-rtrmadp-3-syria-israel-shaibani.jpg"
-    },
-    {
-      "titulo": "Festa do Peão de Barretos 2026: veja a programação deste domingo, 23 de agosto",
-      "imagem": "https://s2-g1.glbimg.com/JYHoBT0rm29m0B4Qs9rFqCCv490=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/1/T0xGvlR0GYKBMFvrsoRg/molduras-g1-2026-08-17t163144.180.png"
     }
   ],
-  "atualizadoEm": "2026-08-23T10:49:08.823Z"
+  "atualizadoEm": "2026-08-23T11:17:04.993Z"
 }
