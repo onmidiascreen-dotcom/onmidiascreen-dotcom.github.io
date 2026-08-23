@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Zelenski diz que eleições durante guerra iriam 'dividir a Ucrânia'",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja a previsão do tempo para Ivaiporã neste domingo (23)",
+      "imagem": null
+    },
+    {
       "titulo": "Signos: confira seu horóscopo deste domingo (23)",
       "imagem": null
     },
@@ -51,15 +59,7 @@
     {
       "titulo": "Irã ameaça países que apoiarem os EUA e executa homem acusado de colaborar com Washington e Israel",
       "imagem": null
-    },
-    {
-      "titulo": "Declínio de espécies de aves é associado à expansão de energia solar na China, diz estudo",
-      "imagem": null
-    },
-    {
-      "titulo": "Por que o bullying é tão comum entre crianças e adolescentes e como mudar esse cenário",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T09:23:12.518Z"
+  "atualizadoEm": "2026-08-23T09:51:32.288Z"
 }
