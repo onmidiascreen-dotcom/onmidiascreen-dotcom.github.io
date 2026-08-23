@@ -1,11 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "EUA: Homem é acusado de matar colega com pinça hidráulica após brincadeira",
+      "imagem": null
+    },
+    {
+      "titulo": "Sheinbaum saúda recuo de governador acusado nos EUA de retomar cargo no México",
+      "imagem": null
+    },
+    {
+      "titulo": "Harry Kane é eleito jogador do ano na Alemanha, à frente de Olise",
+      "imagem": null
+    },
+    {
       "titulo": "Após Hayden Panettiere, Melissa Gilbert pede proteção a atores mirins",
       "imagem": null
     },
     {
       "titulo": "Novo 'Homem-Aranha' se torna sexto filme de maior bilheteria da história",
+      "imagem": null
+    },
+    {
+      "titulo": "Juventus vence recém-promovido Frosinone (1-0) com gol de Bremer na estreia no Italiano",
       "imagem": null
     },
     {
@@ -43,23 +59,7 @@
     {
       "titulo": "Por que os EUA já não entusiasmam tanto os talentos científicos chineses",
       "imagem": null
-    },
-    {
-      "titulo": "Vitória x Bahia: onde assistir ao vivo neste domingo (23)",
-      "imagem": null
-    },
-    {
-      "titulo": "Austrália confirma primeiro caso de gripe aviária H5N1 em um mamífero local",
-      "imagem": null
-    },
-    {
-      "titulo": "Filhote de onça-parda é resgatado com desnutrição em posto de combustíveis no Paraná",
-      "imagem": null
-    },
-    {
-      "titulo": "Lito faz apelo em vídeo na redes sociais para ter acesso a tratamento experimental",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T19:33:19.768Z"
+  "atualizadoEm": "2026-08-23T19:55:20.327Z"
 }
