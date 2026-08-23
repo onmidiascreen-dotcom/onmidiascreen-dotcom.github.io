@@ -1,6 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "Grupo invade casa no interior de SP e rouba mais de R$ 1 milhão em joias, relógios e dinheiro",
+      "imagem": "https://s2-g1.glbimg.com/j7FqDJBsUFKR3_FXgGs7vvfodeY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/J/3vQkqBQ7KityzXxTWmQQ/whatsapp-image-2026-08-23-at-11.05.21.jpeg"
+    },
+    {
+      "titulo": "Japão é atingido por dois terremotos em diferentes regiões",
+      "imagem": "https://s2-g1.glbimg.com/KNomX43Z5Xsa1QpK5DYN4zmnpGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/H/nwXDq6QwarAt0S6g8wGw/tokyo.jpg"
+    },
+    {
+      "titulo": "Auxílio-Aluguel ajuda mulheres a romperem ciclo de violência doméstica no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/8q2LYBV9aP0Ek5uhuikq-Tu0KsM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/W/0G8vIJQZqxcoe2jyHvpQ/sjp-tn1-200826-frame-115195.jpeg"
+    },
+    {
+      "titulo": "Após show em Barretos e after até o amanhecer, Gusttavo Lima curte domingo de preguiça com Andressa Suita no camping",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é preso suspeito de tentar matar idoso a chutes e pisões em Nova Iguaçu",
+      "imagem": "https://s2-g1.glbimg.com/Tb-P8iiXXyut9F65EHhu1FwASkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/p/qm8WLvSk2uIhfKENGOJA/imagem-cortada-2-.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Filha de Ivete Sangalo viraliza após sambar com a mãe em show",
+      "imagem": "https://s2-g1.glbimg.com/Oj7nStqMRhPykTiEFjOChEDZlJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/6/YOAguKTqalmNw0WjEUdQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-08-23t165904.350.jpg"
+    },
+    {
+      "titulo": "Duas pessoas morrem após moto bater de frente com caminhonete em rodovia no Brejo da PB",
+      "imagem": "https://s2-g1.glbimg.com/jL7Hw05miJnWD61XWGw6csVvKl4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/z/gzBt5ERlSWAHaKAd7r7w/sirene-policia.jpg"
+    },
+    {
       "titulo": "Mulher usa carro de luxo para arrombar portão e fugir de cárcere privado em MT",
       "imagem": "https://s2-g1.glbimg.com/aRlhFDyCw_zWXmGkcX86VGPvL2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/E/2axnXaSyap06XricmCrg/pc-campo-novo2-1024x578-1-.jpeg"
     },
@@ -91,35 +119,7 @@
     {
       "titulo": "Justiça manda prender dupla acusada de manter idosos em condições desumanas no litoral de SP",
       "imagem": "https://s2-g1.glbimg.com/_gA2QyTkdzisEWT3cQzwbWdTJU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/I/7zAJMLT1APbBHtFs3Tdg/design-sem-nome-31-.jpg"
-    },
-    {
-      "titulo": "VÍDEO: Égua ‘adota’ terneiro rejeitado pela mãe no RS",
-      "imagem": "https://s2-g1.glbimg.com/h8xErpD9jwzVwRP9GmMbxVbz9Pw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/8/ErIUUuQ6KFLvyTA66aJg/g1-75-.jpg"
-    },
-    {
-      "titulo": "VÍDEO: Aluna de 12 anos sobe à tribuna da Câmara para defender melhorias no entorno da escola em Divinópolis",
-      "imagem": "https://s2-g1.glbimg.com/1mPIjA-W3IgeEgPAG-3TsL-h3wc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/M/QRtREYQ1qGVjwhRGfBzA/lara-heloize-de-12-anos.jfif"
-    },
-    {
-      "titulo": "VÍDEO: Carro desgovernado invade loja de bebidas e motorista é preso por suspeita de embriaguez em SC",
-      "imagem": "https://s2-g1.glbimg.com/J_sqbrsT8rGC_Mh-JC-U6mgvWMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/x/yp8fJRQ9W5XqV7AQMHtQ/carro-invade-loja-em-palhoca-.png"
-    },
-    {
-      "titulo": "Câmara de Pouso Alegre revoga lei que dispensava distância mínima entre clubes de tiro e escolas",
-      "imagem": "https://s2-g1.glbimg.com/LquGhWa-x2C1KZ5aj8JUaNcU1ko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/u/6ABHswSrWsh1a7tG9iSQ/2-65-.png"
-    },
-    {
-      "titulo": "Jornalista e advogado Landri Neto morre aos 42 anos em Palmas",
-      "imagem": "https://s2-g1.glbimg.com/81RmYH0_i2E7j71hDoxcADFDzSA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/A/ygiSaEQbAkmwvNr8MvKQ/copia-de-foto-e-montagem-vertical-7-.png"
-    },
-    {
-      "titulo": "Justiça Eleitoral manda retirar ou adequar propaganda com Flávio Bolsonaro e Nikolas Ferreira em comitê de Juiz de Fora",
-      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
-    },
-    {
-      "titulo": "Acidente entre veículos de passeio deixa um morto na Rodovia dos Bandeirantes em Jundiaí",
-      "imagem": "https://s2-g1.glbimg.com/_kQkxtnt8eCjJJ15ZxRqis8ptH8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/v/Bm99CATxAAqm4cg4OWRA/4ff0be20-9aae-4d5b-b75a-a8fe33e1066e-ok.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-23T19:55:21.537Z"
+  "atualizadoEm": "2026-08-23T20:17:51.548Z"
 }
