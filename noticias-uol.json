@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Domingo será céu nublado na capital paulista; no interior, máxima pode chegar a 32°C",
+      "imagem": null
+    },
+    {
+      "titulo": "Fernanda Montenegro faz mãe viciada em bingo na série 'Emergência 53'",
+      "imagem": null
+    },
+    {
+      "titulo": "Canetas emagrecedoras mudam perfil de alunos em academias e exigem adaptação dos treinos",
+      "imagem": null
+    },
+    {
+      "titulo": "Amamentação faz bem ao coração da mãe, mostra estudo internacional",
+      "imagem": null
+    },
+    {
+      "titulo": "Retorno de Harry e Meghan ao Reino Unido reacende tensão na monarquia",
+      "imagem": null
+    },
+    {
       "titulo": "Presidente do STJ diz que regras para eventos não são solução: 'Que juiz vai se vender por passagem?'",
       "imagem": null
     },
@@ -39,27 +59,7 @@
     {
       "titulo": "Empresas projetam perdas com efeitos do El Niño, mas algumas veem ganhos",
       "imagem": null
-    },
-    {
-      "titulo": "Bolsonarinho, Lulinha e o efeito do prestígio de Lula na eleição",
-      "imagem": null
-    },
-    {
-      "titulo": "Contrabando vai da fronteira à internet e desafia fiscalização no Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja dez prós e contras da reforma tributária para as empresas",
-      "imagem": null
-    },
-    {
-      "titulo": "O que muda na reforma tributária e quais são as pendências para o futuro; veja ponto a ponto",
-      "imagem": null
-    },
-    {
-      "titulo": "Díaz-Canel diz que EUA asfixiam Cuba, nega guinada capitalista e afirma que país 'está em pé e não se rende'",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T07:00:04.111Z"
+  "atualizadoEm": "2026-08-23T07:40:04.811Z"
 }
