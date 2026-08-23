@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Austrália confirma primeiro caso de gripe aviária em mamífero",
+      "imagem": null
+    },
+    {
       "titulo": "Quatro homens são presos após furto em joelheira no centro de São Paulo",
       "imagem": null
     },
@@ -9,7 +13,7 @@
       "imagem": null
     },
     {
-      "titulo": "Dino determina que indicação de emenda por chefes de partidos seja nula",
+      "titulo": "Dino determina que emendas indicadas por dirigentes partidários são nulas",
       "imagem": null
     },
     {
@@ -115,11 +119,7 @@
     {
       "titulo": "Corinthians: Fernando Diniz supera marca de técnicos campeões e iguala Tite",
       "imagem": null
-    },
-    {
-      "titulo": "Incêndio em Nevada, nos EUA, leva governador a declarar emergência",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T14:37:52.173Z"
+  "atualizadoEm": "2026-08-23T14:59:22.664Z"
 }

@@ -1,16 +1,88 @@
 {
   "noticias": [
     {
+      "titulo": "Loteria Federal hoje: resultado do concurso 6094 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/pcLYfXmvyM030B3n34CA2QW_agU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/f/41PaWjSGOWo8I7j3uNow/voltantes-federal.jpg"
+    },
+    {
+      "titulo": "'Bote fé na humanidade': vídeo de homem ajudando a empurrar carro em avenida movimentada repercute em RO",
+      "imagem": "https://s2-g1.glbimg.com/TjGJVbPdnVSjZ3JvmpZCfXc-EuY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/O/cGZ86wRhAfYTbTBt7fMw/whatsapp-image-2026-08-22-at-12.20.19.jpeg"
+    },
+    {
+      "titulo": "Homem morre após ser espancado por suspeita de furto de ventilador em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/k--G9WtU56DWLqmHQb-g2UTmYVw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/z/UChvHsTo6AzN25NCu2xQ/delegacia-especializada-em-homicidios-e-sequestros-dehs-foto-erlon-rodrigues-pc-am.jpg"
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
+    },
+    {
+      "titulo": "Mega-Sena 3048: aposta de Blumenau (SC) acerta sozinha e leva bolada de R$ 57 milhões",
+      "imagem": null
+    },
+    {
+      "titulo": "Motorista e passageiro ficam presos às ferragens de carreta que tombou com toras de madeira no Acre; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/HM9pU8EvZS9rFPAeaLrIytYdJjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/B/ktOUoeRluYd1bRWVv7hA/midia-de-distribuicao-g1-2026-08-23t090047.148.png"
+    },
+    {
+      "titulo": "Acidente com carro da PM deixa trânsito parcialmente interditado na W3 Norte, em Brasília",
+      "imagem": "https://s2-g1.glbimg.com/SvuwNvZQ8PBKuKUsJqXt7Wtx2lU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/C/Z9zveJQByZn82lVjermg/acidente-pm.jpeg"
+    },
+    {
+      "titulo": "Caminhoneiro é atropelado e tem pernas atingidas após parar veículo para verificar problema mecânico",
+      "imagem": "https://s2-g1.glbimg.com/VnOGlHvp86PiSIZYqUQdSsIgmBQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/E/UPIAb5R9SSWG332mtfZg/santa-casa.jpg"
+    },
+    {
+      "titulo": "PM apreende anfetamina durante operação contra baile funk irregular no litoral de SP",
+      "imagem": "https://s2-g1.glbimg.com/1-G8S3O4lbjIvYocS46TNx2NzOw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/I/JXsPy1TBKedZgbLygAEA/apreensao.jpg"
+    },
+    {
+      "titulo": "Motorista é preso por dirigir sob efeito de álcool em Barra Mansa",
+      "imagem": "https://s2-g1.glbimg.com/D5ZJUQ5AeFT2O79yLBYeoTzkCtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/j/IG5NMbQuahUT5s2hPEyg/image.jpg"
+    },
+    {
+      "titulo": "Lotofácil hoje: resultado do concurso 3769 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/HlKApwbsyKAqqfHECeckZtCPb5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/2/W7n8lvSgWOZLV8GD8zyw/lotofacil-3769-mingv.jpeg"
+    },
+    {
+      "titulo": "Quina hoje: resultado do concurso 7099 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/e64Rk9kWD7WZvez-5fNFoNN6xwo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/k/vnkgAETtmvqGBwwg2vLA/quina-7099-rzrsj.jpeg"
+    },
+    {
+      "titulo": "Adolescente de 15 anos é morto com facada no peito em Boa Vista",
+      "imagem": "https://s2-g1.glbimg.com/Be1zgHAxKxhNdLM1VOSgVuPEzEo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/D/wsEq1eSJSUxANjojwA0g/rabecao-iml-rr.jpeg"
+    },
+    {
+      "titulo": "VÍDEOS: Inter TV Rural deste domingo, 23 de agosto",
+      "imagem": "https://s2-g1.glbimg.com/j_JEm80hEwH7BOc0jKRomk8_VCM=/s01.video.glbimg.com/deo/vi/18/40/14894018"
+    },
+    {
+      "titulo": "Quatro homens são presos em flagrante durante tentativa de roubo a joalheria na Sé",
+      "imagem": "https://s2-g1.glbimg.com/0wjsrCIqn55hS4omCkw77iyGJi4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/G/iyMfd4SFqbQSsA6AB4MA/bdsp-roubo-joias-klj00149-bdsp-roubo-joalheria-0014-frame-0.jpeg"
+    },
+    {
+      "titulo": "Quem era veterinária que morreu após ser atacada por pastor-belga do Senado em Brasília",
+      "imagem": "https://s2-g1.glbimg.com/GJseEJdm_yE44WwEDBF6mLFlCFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/e/ZdKeATSredu3zcAEa9Pg/vitoria-caes.jpg"
+    },
+    {
+      "titulo": "Justiça Federal ordena suspensão de garimpos que não provarem origem lícita de mercúrio na Amazônia",
+      "imagem": "https://s2-g1.glbimg.com/i1PicXdF5qxxgNSUGoESDWDU1v0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/E/K/nMAKXyQAaEfxho18eZAA/garimpo-2025-1.11.7.jpg"
+    },
+    {
+      "titulo": "Massa de ar frio congela paisagem em SC e termômetros chegam a -7,7 °C; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/-OfgFFH1mGp2g291J2epVvazKc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/j/L1TGpvRsSetylbFAq2HA/massa-de-ar-frio-congela-paisagem-em-sc-e-termometros-chegam-a-7-7-degc-video.png"
+    },
+    {
+      "titulo": "VÍDEOS: Inter TV Rural deste domingo, 23 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/72c04yKVRIhN6wnaDl5g2Zs4ULQ=/s01.video.glbimg.com/deo/vi/19/40/14894019"
+    },
+    {
       "titulo": "Motorista bêbado é detido após acidente que matou motociclista em Manaus",
       "imagem": "https://s2-g1.glbimg.com/1ACfYQYPgjTxwY4vWLz7oHNcPaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/Q/vpe2UvSJyb5E9Kjif99Q/iml-de-manaus-foto-gato-junior-rede-amazonica.jpeg"
     },
     {
       "titulo": "Otorrino com mais de 20 anos de experiência em plástica facial: veja quem é o médico que operou empresária que morreu após cirurgia",
       "imagem": "https://s2-g1.glbimg.com/aVFdJcbQt7PfAlTPZ2_ZhGbJ19Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/P/dSgm0GTVKl84BfBByeww/jpg-1-.jfif"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
     },
     {
       "titulo": "Jovem e adolescente ficam feridos após sofrerem queda de moto em Volta Redonda",
@@ -47,79 +119,7 @@
     {
       "titulo": "Inscrições para a 7ª Mostra de Dança de Tatuí estão abertas; saiba como se inscrever",
       "imagem": "https://s2-g1.glbimg.com/E0Lv9Cd5nPl0TdhN3BEMftlViF8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/5/YHFRLeRUWkuJ28pgyAjQ/m-271-0-1-18082026085043-1-.jpeg"
-    },
-    {
-      "titulo": "MGC-383 será interditada para obra entre Itajubá e Maria da Fé a partir de segunda-feira; veja rota alternativa",
-      "imagem": "https://s2-g1.glbimg.com/pl4mqfnnJtk6KEFmMVVmHVW5O9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/p/eydbTASG68Sr4oP8rG8w/obra-mgc383-itajuba-maria-da-fe-divulgacao-der-mg.jpg"
-    },
-    {
-      "titulo": "Mega-Sena, concurso 3048: confira os números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
-    },
-    {
-      "titulo": "PM suspeito de extorsão e tortura filmou agressões contra mulheres que trabalhavam com reciclagem, diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/Fy43F1C8wWnHgX3AiN6ZqdRBaRw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/t/h39AO5QCC1epwM4IoMjA/imagens-g1-2-.png"
-    },
-    {
-      "titulo": "Concursos e seleções em PE têm 608 vagas e salários de mais de R$ 15 mil; saiba como se inscrever",
-      "imagem": "https://s2-g1.glbimg.com/TGWJGgT5eQupEv8J0bAFjbeDxEM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/b/rPXBfXTZeet3uOUAsTEw/public-examination-preparation-concept.jpg"
-    },
-    {
-      "titulo": "Jovem é preso com mais de 4 kg de drogas em Piraí",
-      "imagem": "https://s2-g1.glbimg.com/8BWBiXyCgJB5ERgLT81_JisAXj4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/L/DEUZb1QT6HNMycHdbWmA/image-17-.jpg"
-    },
-    {
-      "titulo": "Duas pessoas morrem após caminhão carregado com carvão sair da pista e tombar no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/0V1gt7Z63y6vu0lqY9KwBAFvZ6w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/2/U5CLu9R6G6AQqklEeRsw/g1-pr-2026-08-23t105125.939.jpg"
-    },
-    {
-      "titulo": "Trump diz 'basta' em reação às tarifas de retaliação do Canadá",
-      "imagem": "https://s2-g1.glbimg.com/3vDa7M5J9GDxT58tHLFLhUHSwoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/d/Np7kZcTlGXgF104gSNFQ/2026-08-14t200613z-1795537502-rc2jymam5ni2-rtrmadp-3-usa-trump.jpg"
-    },
-    {
-      "titulo": "Homem é preso suspeito de estuprar mulher em Rorainópolis",
-      "imagem": "https://s2-g1.glbimg.com/L3cNFoG-JJr6NDN1QkMTzqVgk64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/h/bwyBJBTG2jKAqzrio8FQ/acoes-da-pmrr-durante-o-carnaval-2026-ascom-pmrr-4-.jpeg"
-    },
-    {
-      "titulo": "Dois homens são baleados após tentativa de feminicídio em show sertanejo no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/dT2VMfwviCGjPLlo93rQ4_Ntax8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/K/p94w2fTBO7tLPfAvgihQ/tamanho-post-materia-61-.jpg"
-    },
-    {
-      "titulo": "Carro atinge moto de PM após pneu estourar na rodovia Padre Manoel da Nóbrega, SP",
-      "imagem": "https://s2-g1.glbimg.com/9KOsreoWoPDubvTcJFMtaqvYgHA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/5/rspAUTSmA5oL2fuNSdfQ/acidente-pm-1-.jpg"
-    },
-    {
-      "titulo": "VÍDEO: turistas dos EUA se assustam ao encontrar sucuris gigantes no Pantanal",
-      "imagem": "https://s2-g1.glbimg.com/T2tyBNVa12upWxxLsELQWCXPcNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/n/XjUxvvQmKcpmaxxj1hvg/sucuri-amarela.jpg"
-    },
-    {
-      "titulo": "Homem é investigado por importunação sexual contra funcionária em Valença",
-      "imagem": "https://s2-g1.glbimg.com/WXoHsTkBdfCoe3Jweau8nlgzmlo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/A/B/vjfEhySKqmBcp7yuSBbw/whatsapp-image-2021-08-26-at-17.20.53.jpeg"
-    },
-    {
-      "titulo": "Transladação da imagem de Nossa Senhora de Nazaré terá novo trajeto em Macapá",
-      "imagem": "https://s2-g1.glbimg.com/_9I6VdhArR9pzn3KqFJacsM_jwg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/m/rqKV6dQmArBHY1gD8CUA/whatsapp-image-2025-10-12-at-09.50.30.jpeg"
-    },
-    {
-      "titulo": "Vc viu? Corpo de kitesurfista é encontrado, brasileiros 'invadem' perfil da Nasa após post sobre Lençóis Maranhenses e outras notícias da semana no g1 MA",
-      "imagem": "https://s2-g1.glbimg.com/iC6i43lu4dyHdWzSYwWYDPq-F2E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/1/olEWa1Qleu7OYIl4cQdg/montagens-1920-x-1080-px-2026-08-17t070832.947.png"
-    },
-    {
-      "titulo": "Morre Manoel Dias, ex-ministro do Trabalho e um dos fundadores do PDT, aos 88 anos",
-      "imagem": "https://s2-g1.glbimg.com/qXGP1rh4dDYldSm_Du6NULMkCVI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/T/2C9dcEQS2EJ1Al4APSwg/morre-manoel-dias-ex-ministro-do-trabalho-e-um-dos-fundadores-do-pdt-aos-88-anos-.png"
-    },
-    {
-      "titulo": "Adolescente é apreendido após furto de celular e perseguição em Três Rios",
-      "imagem": "https://s2-g1.glbimg.com/d91sCA7lbaI3WzkE_0205Oyjyjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/F/bN7m6BQJyMG6SsX2M9KQ/image-13-.png"
-    },
-    {
-      "titulo": "Dino diz que indicação de emendas por dirigentes é nula e alerta para punição em caso de descumprimento",
-      "imagem": "https://s2-g1.glbimg.com/-Kdj5U9jQQUD1OY74x1lpDrnO1k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/m/mNjc0eQkA4cL8LOII7fA/55339452788-a9944508b9-k.jpg"
-    },
-    {
-      "titulo": "Oncinha de 6 kg é resgatada assustada, desnutrida e desidratada; veja momento em que é alimentada",
-      "imagem": "https://s2-g1.glbimg.com/gEhZutbhIoY89QKHAfXu8wQb5iI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/4/91QMxrQ3OOMsBqXPhYrQ/onca.png"
     }
   ],
-  "atualizadoEm": "2026-08-23T14:37:53.716Z"
+  "atualizadoEm": "2026-08-23T14:59:23.407Z"
 }
