@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Incêndio em Nevada, nos EUA, leva governador a declarar emergência",
+      "imagem": null
+    },
+    {
       "titulo": "Análise: Trump pede que Coreia do Sul se defenda; relação com Kim atrapalha",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Após suspender 14 bets, Fazenda anuncia 40 processos contra sites de aposta",
       "imagem": null
-    },
-    {
-      "titulo": "Após liberação de R$2,3 bilhões, PL terá maior fatia do fundo eleitoral",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T11:17:03.289Z"
+  "atualizadoEm": "2026-08-23T11:44:38.055Z"
 }

@@ -1,6 +1,38 @@
 {
   "noticias": [
     {
+      "titulo": "PIX fora do ar? Clientes de bancos relatam instabilidade do serviço",
+      "imagem": null
+    },
+    {
+      "titulo": "Motociclista morre após colidir contra guarda-corpo e ser arremessado de viaduto do DF",
+      "imagem": "https://s2-g1.glbimg.com/5gIsyx66tlnhInc-en3rrm3EJ9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/A/6/XiByaQSbAX79R9QvXB5A/whatsapp-image-2022-02-06-at-03.45.50.jpeg"
+    },
+    {
+      "titulo": "Criminoso invade e furta pizzaria de ex-jogador do Santos no litoral de SP; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/_RtNR_TaIHkUSO-opas0RtD1yzo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/F/vphsfnTOGvzBbkYOE0jw/rouba-tv.jpg"
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Campo GO deste domingo, 23 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/WntXmVFDlhsWkuFP_aPnVH7ZpJc=/s01.video.glbimg.com/deo/vi/50/09/14890950"
+    },
+    {
+      "titulo": "O país que pede reparações dos EUA e da Europa pela escravidão",
+      "imagem": "https://s2-g1.glbimg.com/uuWMRVT2jw1VzZu0N8Py1YpDGkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/2/wVSXWATWyn96m1auypCw/image-1-.png"
+    },
+    {
+      "titulo": "Dois suspeitos são presos durante operação que investiga homicídio no interior do Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/ez-k6CZC47dVZY-lnXOWlC3PHvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/s/3GkKRhR6a2z59H15uFPA/whatsapp-image-2026-08-22-at-17.28.46-1-.jpeg"
+    },
+    {
+      "titulo": "Carta foi encontrada em cativeiro onde jovem foi amordaçada e acorrentada pelo ex: 'Espero não ser um adeus'",
+      "imagem": "https://s2-g1.glbimg.com/Ub8cHIwCeL_xgsYjOvXCfYp-5X8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/P/1ElHeERiu8OufZZmVObg/imagens-g1-7-.png"
+    },
+    {
+      "titulo": "Allessa Paes, representante do Pará, é eleita Miss Brasil Gay 2026",
+      "imagem": "https://s2-g1.glbimg.com/e3HsmCDDLcHivwjjkPzhk4ftYp8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/W/mtxmLZQ9ulVxmx1BZKiA/img-8872.jpg.jpeg"
+    },
+    {
       "titulo": "Qual é o melhor horário para jantar e por que comer a mesma coisa tem efeitos diferentes dependendo da hora do dia?",
       "imagem": "https://s2-g1.glbimg.com/cOjnlXoOBPxllF0606XoC9GxUrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/d/pNAcApQ5yrK3Y2Fm9eyA/940e8779-0178-412d-a682-40f45762d77c.png"
     },
@@ -87,39 +119,7 @@
     {
       "titulo": "3º dia de Barretos tem retorno triunfal de Gusttavo Lima, rosto de Marília Mendonça por drones em show de Alok e Nattan sem fim",
       "imagem": "https://s2-g1.glbimg.com/7kzr86voI4nDHAWSFMgpPj04rXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/w/6J91CpRE6BM6ZnCAwPVw/dsc-1397.jpg"
-    },
-    {
-      "titulo": "Fazendas de confinamento no Tocantins têm capacidade para manter 65 mil animais em engorda",
-      "imagem": "https://s2-g1.glbimg.com/YD9TzOL7svoZmKIfvXjMr7YTPSA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/0/BBuq1ASpWX0bHriG5V6w/fazenda-grande-to.jpg"
-    },
-    {
-      "titulo": "VÍDEO: Recém-casados de MG recebem bênção do papa durante lua de mel e ouvem conselho sobre família: 'Rezar e ter muita paciência'",
-      "imagem": "https://s2-g1.glbimg.com/oWylGwvp3wUQePc3fnEJsYHvSlA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/q/BQyybqQ0WXXv38k5v07A/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "titulo": "Fusca rosa quebra a caminho de Barretos e cantora sertaneja leva 25 horas do Paraná à Festa do Peão",
-      "imagem": "https://s2-g1.glbimg.com/KnWOOSYJq9MWfaeTfLnWGYR-3TI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/m/Jsp2MHR8mvACVGD5QisQ/canora-fusca-rosa.png"
-    },
-    {
-      "titulo": "Rio gasta cerca de um terço do orçamento de conservação para reparar monumentos alvo de vandalismo e furtos",
-      "imagem": "https://s2-g1.glbimg.com/imDfoJ0-frYiToxdyKHvW30kTP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/0/7uE9rORJKnPix1EX5ViQ/g1-noel.jpg"
-    },
-    {
-      "titulo": "Do leite condensado às fraldas: relembre compras online que chegaram erradas",
-      "imagem": "https://s2-g1.glbimg.com/kSq38PbNgYnxmVtkPGrsXmRADNg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Z/lo7lvBS56Fbq187NbCOg/casos-compras-baixada-santista.jpeg"
-    },
-    {
-      "titulo": "Pássaro exótico abandonado em calçada é resgatado e ganha novo lar no litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/CvHdIF4lwg44_KmLbe6yYCVJ2iU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/F/AQXamzQaOvoKk6GaJQHA/passarinho.jpg"
-    },
-    {
-      "titulo": "Homem morre asfixiado após ser imobilizado durante surto em rua do litoral de SP; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/vU3IgG4mhGsQTuGj_rc1Wu9EDzE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/5/jXBOZkSr2IHv4ap1oBrQ/surto-asfixia-1-.jpg"
-    },
-    {
-      "titulo": "O que se sabe sobre bebê que morreu após sofrer corte na cabeça durante cesárea no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/4M8iMAWfR3p6pO_38w_p6mUURNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/L/OLR57QTAW5k7bL5yUfAw/3.png"
     }
   ],
-  "atualizadoEm": "2026-08-23T11:17:04.993Z"
+  "atualizadoEm": "2026-08-23T11:44:38.561Z"
 }
