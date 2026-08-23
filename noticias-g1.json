@@ -1,6 +1,74 @@
 {
   "noticias": [
     {
+      "titulo": "Mais de uma tonelada de drogas é apreendida durante fiscalização no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/eOGBsU505mGeRUkyaW5rTTKR7R0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/4/FPBgwPSceO3I1aZnQNJA/policia-militar-rodoviaria-1-.jpeg"
+    },
+    {
+      "titulo": "Feto é encontrado ao lado de lixeira no litoral de SP",
+      "imagem": "https://s2-g1.glbimg.com/U5pJD5AwyrkCT-Vxp1E2jnQwgpY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/M/nvLgIbRMOBscJjY1eyTA/7-dp-santos.jpg"
+    },
+    {
+      "titulo": "Entregador atropelado por carro roubado morre e família decide doar órgãos no Acre: ‘Vai salvar vidas’",
+      "imagem": "https://s2-g1.glbimg.com/roO7yGgvMC53Xlv-O4FQe7wk2U0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/P/e2r30OT2e8QYBQ4JVJLg/midia-de-distribuicao-g1-2026-08-19t115709.511.png"
+    },
+    {
+      "titulo": "Preso arromba cela e furta arma do gabinete de comandante da PM em cidade do Piauí",
+      "imagem": "https://s2-g1.glbimg.com/u7rqkEPpn8j-wVjWPSNjIj-KpmQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/s/SRSOUySRW1SostFiZpxA/edicao-imagens-g1-4-.png"
+    },
+    {
+      "titulo": "RN terá 4 pontos de coleta de DNA de familiares de pessoas desaparecidas; veja locais",
+      "imagem": "https://s2-g1.glbimg.com/g4WHxq-uS3ZgRFAXqNWNqeYO1SI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/B/d3sm8ZSX6862AzHW53RA/paternidade-amazonas.jpg"
+    },
+    {
+      "titulo": "RS tem geada e -3,5°C de temperatura neste domingo",
+      "imagem": "https://s2-g1.glbimg.com/CDahO3wUQ3c1k_GjwboubxN_uyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/S/f6iRBETeuKT60D4CkIXQ/g1-73-.jpg"
+    },
+    {
+      "titulo": "Resultado da Mega-Sena 3048: 23 apostas do Piauí acertam números; veja valores",
+      "imagem": "https://s2-g1.glbimg.com/B5tMIoLpr30pNw8djBYlFmyKyow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/pwpJjAR0GtbRJ9XYzKdA/edicao-imagens-g1-17-.png"
+    },
+    {
+      "titulo": "VÍDEO: incêndio atinge áreas de restinga e reserva ambiental em Arraial do Cabo",
+      "imagem": "https://s2-g1.glbimg.com/5Vl2brE0E8lMzuSANXmQ1XoZT-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/D/a3AoGLRcK8x1b9qPB0qQ/incenio-arraial.jpg"
+    },
+    {
+      "titulo": "Corpo esquartejado achado dentro de sacos é identificado em Palmas",
+      "imagem": "https://s2-g1.glbimg.com/h8cMFBIsHxLkPRqdTN7WLE91_7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/5/VHEqF5RSmZKRqmVS12xg/whatsapp-image-2026-08-23-at-12.35.06.jpeg"
+    },
+    {
+      "titulo": "De funcionários a donos: casal compra livraria onde trabalhava e encerra história após 46 anos em Uberlândia",
+      "imagem": "https://s2-g1.glbimg.com/HbVWH0oaWbD3L0x4w2DRG3IHLNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/J/TUYm84S1eFgV0BPAtUQA/design-sem-nome-7-.png"
+    },
+    {
+      "titulo": "Ônibus tomba após batida com carro no Paraná; uma pessoa morreu e mais de 40 ficaram feridas",
+      "imagem": "https://s2-g1.glbimg.com/8d0ImMfwj7MgC_ssXWMF4_-tUTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/i/ZdTgB1Q4OzRasASp3VUw/snapshot-1255.png"
+    },
+    {
+      "titulo": "Amazônia Agro de 23 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/BV0kmeK_kRRyyjvzWPhsJcEdz5w=/s01.video.glbimg.com/deo/vi/58/31/14893158"
+    },
+    {
+      "titulo": "Jovem é baleado durante encontro marcado por aplicativo em Belo Horizonte",
+      "imagem": "https://s2-g1.glbimg.com/Qqdd-Y3KZskNzLXNstSonZHtKUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/sBNteyQbKLMJFe4SzUpA/sirene-policia-1-.jpeg"
+    },
+    {
+      "titulo": "Incêndio atinge casa e mobiliza bombeiros em São Sebastião, SP",
+      "imagem": "https://s2-g1.glbimg.com/5LQpKxs9BZWAnbIo8M6OqA4OE3A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/P/VbpWvuT1u9BzxecPY3aQ/texto-do-seu-paragrafo-2026-08-23t124120.148.png"
+    },
+    {
+      "titulo": "Mulher é assassinada pelo marido na frente do filho em MT",
+      "imagem": "https://s2-g1.glbimg.com/BkF1SbtwNDMt_0RmXf0190CxnK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Z/k7pKl9RgKOiczjSfnkgg/videos-g1-55-.jpg"
+    },
+    {
+      "titulo": "Motorista fica ferido após bater contra mureta na avenida Itamar Franco, em Juiz de Fora",
+      "imagem": "https://s2-g1.glbimg.com/Mb4zQUvf0DiTZXHF2W-Q9axvTVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/o/IpOHedSvCidFX829txvw/capturar.png"
+    },
+    {
+      "titulo": "População saqueia carga de caminhão enquanto veículo pega fogo no Ceará; motorista morreu",
+      "imagem": "https://s2-g1.glbimg.com/uIO0S4TXJoYgYufzFlspqsk2RAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/i/8h3shjQ2iIU1UK1fr4lQ/fogo-saque-carga.jpg"
+    },
+    {
       "titulo": "VÍDEOS: Amazônia Agro - Acre deste domingo, 23 de agosto de 2026",
       "imagem": "https://s2-g1.glbimg.com/kqnSve4422ErTVQgG7EXgV4qCWE=/s01.video.glbimg.com/deo/vi/08/81/14888108"
     },
@@ -26,7 +94,7 @@
     },
     {
       "titulo": "Homem é morto a facadas na porta de supermercado em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/Cu9T3R5yc8YyInqrfaFvvYdFFPc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/O/Q/PP0XU9QiScLcysSSMAEg/iml-rr.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/Xl6Tbbvtkz4OWEX1dAdYMViKaPE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/x/APBpDtQquKVUxXWO52Hw/homicidio-em-supermercado-1-.jpg"
     },
     {
       "titulo": "Kleiton, Kledir e Vitor Ramil se afinam, em trio, no belo relicário de emoções e tradições afetivas do show dos irmãos",
@@ -34,7 +102,7 @@
     },
     {
       "titulo": "VÍDEO: casa é transportada inteira e 'estacionada' em novo terreno no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/Vr2WJW2hk46QxX-z-DEFlC3WAeU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/e/a1vmJ4QfuVRvkhU7eLKg/g1-pr-2026-08-23t121724.938.jpg"
+      "imagem": "https://s2-g1.glbimg.com/UD8Lh29EMTYq2TFk1hb_hz4Dlc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Z/Tgx17YRlyyYIXvD0rscw/whatsapp-video-2026-08-22-at-15.17.22-2-.gif"
     },
     {
       "titulo": "VÍDEO: tromba-d'água assusta banhistas em praia de Salvador",
@@ -51,75 +119,7 @@
     {
       "titulo": "Mega-Sena: aposta feita em Pernambuco acerta quina e ganha prêmio de R$ 68 mil",
       "imagem": "https://s2-g1.glbimg.com/lfq4Sn9Gzx7L59i6U9TRItx8DFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/2/EK5gX1TOi999VK1DyhBA/whatsapp-image-2026-01-03-at-12.29.30-9-.jpeg"
-    },
-    {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1279 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/ci5blQL-2-zywRXzYeUBX11EJp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/waSGgtQCCcXxQ6ro9SAA/diadesorte-1279-bhwiv.jpeg"
-    },
-    {
-      "titulo": "Timemania hoje: resultado do concurso 2432 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/dzMLn9zcPVAVTafZ5354Y69L04Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/n/decrr5SkedAYwRWmvwJQ/timemania-2432-hybtn.jpeg"
-    },
-    {
-      "titulo": "Marcos Dorval (PSTU) declara patrimônio de R$ 998 mil: veja bens do candidato ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/QW7_uE-gtrzWIb2txKzCByGYbZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/J/WVpB2UR6mZq5fsrw0S0Q/marcos-dorval-1.jpg"
-    },
-    {
-      "titulo": "Piauí tem alertas de baixa umidade e vendaval neste domingo (23); veja as cidades afetadas",
-      "imagem": "https://s2-g1.glbimg.com/zAzVVTUJUMKCFg74wX7h98ESacE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/u/6/O338EnTB6wDc0RjZyRlA/whatsapp-image-2023-08-25-at-12.33.20.jpeg"
-    },
-    {
-      "titulo": "Marlene Soccas (UP), candidata ao Senado por SC, informa não ter patrimônio",
-      "imagem": "https://s2-g1.glbimg.com/qiKte7p3C_0OwjGGTXgAleIqKv0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/b/j0slaBTGOidUiuyAr6WA/marlene-soccas-up-1.jpg"
-    },
-    {
-      "titulo": "Joaninha de Oliveira (PSTU) declara patrimônio de R$ 200 mil: veja bens da candidata ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/P5yAsmwdHNv8uspvydB9MYR4ObU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/A/xeTAHCTjWbyGwI7nTRVA/joaninha-1.jpeg"
-    },
-    {
-      "titulo": "Jeferson Rocha (PRD) declara patrimônio de R$ 14 milhões: veja bens do candidato ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/yY8sJx7XaKSFY8_dNVbbLujrmpg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/PAW0KDSnGZ5LukDlEDOQ/chatgpt-image-7-de-mai.-de-2026-10-12-24.png"
-    },
-    {
-      "titulo": "Obra de drenagem vai interditar rua e mudar trânsito no Centro de Jacareí a partir desta semana",
-      "imagem": "https://s2-g1.glbimg.com/Vt9zwUC-8-49j4FIeUzBLrymy3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/l/hmd5HVRPiFHw6J91SWBA/texto-do-seu-paragrafo-2026-08-23t115522.100.png"
-    },
-    {
-      "titulo": "Carol (PCO) declara patrimônio de R$ 45 mil: veja bens da candidata ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/gZRy8G0p007MubuILeROP7Ql-l4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/w/RrLqA7TJKgLjD3GkqBBw/caroline-santanna.jpg"
-    },
-    {
-      "titulo": "Lunelli (MDB) declara patrimônio de 613 milhões: veja bens do candidato ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/HQM-Td-lud5G_Y1yM4aWweh0YrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/J/HusZqlTHyrZVi0SkKzQg/whatsapp-image-2026-08-01-at-12.17.40-pm.jpeg"
-    },
-    {
-      "titulo": "Ana Lúcia da Silveira (UP) declara patrimônio de R$ 344 mil: veja bens da candidata ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/kNhS4TBIGzW5m4QYjy2hW0CBbw4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/0/v29fT7SVCdiA5vmWPe6Q/ana-lucia-da-silveira-up.jpg"
-    },
-    {
-      "titulo": "Carlos Bolsonaro (PL) declara patrimônio de R$ 2,7 milhões: veja bens do candidato ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/IfhlsnyouRBchmJLGFyN6cNggU0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/J/LXn68ITy2xbblAJcaqhA/whatsapp-image-2026-08-01-at-17.01.59.jpeg"
-    },
-    {
-      "titulo": "Décio Lima (PT) declara patrimônio de R$ 3,1 milhões: veja bens do candidato ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/c1PGnC1qWNy-5OX1bZBjMbKvGzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/T/bZ6WshTjeBtP9wvbKOdg/decio-lima.jpg"
-    },
-    {
-      "titulo": "Afrânio Boppré (PSOL) declara patrimônio de R$ 1,5 milhão: veja bens do candidato ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/Knzk8S53-3f8f-ygtzeb4yi50o8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/X/82RBB2S7ioJKId7ojyhw/whatsapp-image-2026-07-21-at-20.15.28.jpeg"
-    },
-    {
-      "titulo": "Esperidião Amin (PP) declara patrimônio de R$ 2,5 milhões; veja bens do candidato ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/FWWndOvfatyVxrEX1MLAMPVLr2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/9/jAtNBJRWWUV4Pi9F42pA/amin.jpg"
-    },
-    {
-      "titulo": "Carol de Toni (PL) declara patrimônio de R$ 1,4 milhão: veja bens da candidata ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/1exGCDyQb5ov5dKto8dk2fNfPfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/o/z7loAcSPeA2S0vXxuYog/760523113-1481750063753084-6560843308392187000-n-1-.jpg"
-    },
-    {
-      "titulo": "Túlio de Amorim Pfuetzenreiter (Missão) declara patrimônio de 967 mil: veja bens do candidato ao Senado por SC",
-      "imagem": "https://s2-g1.glbimg.com/piD4_OFrQe22zXnNpLA9xrMsihU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/J/1IiPbBT2y2HdRONPLVEw/tulio-missao-1.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-23T15:49:52.925Z"
+  "atualizadoEm": "2026-08-23T16:19:53.201Z"
 }

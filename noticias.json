@@ -1,11 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Irã afirma que novas sanções ameaçadas pelos EUA fracassarão",
+      "imagem": null
+    },
+    {
       "titulo": "Saiba por que &#8220;A Cabeça do Santo&#8221; quase ficou fora da Unidos da Tijuca",
       "imagem": null
     },
     {
-      "titulo": "Alok, Gusttavo Lima e Nattan: veja como foi 3º noite em Barretos",
+      "titulo": "Alok, Gusttavo Lima e Nattan: veja como foi 3ª noite em Barretos",
       "imagem": null
     },
     {
@@ -115,11 +119,7 @@
     {
       "titulo": "Entenda a votação que pode levar a Islândia a integrar a União Europeia",
       "imagem": null
-    },
-    {
-      "titulo": "Decisivo, Sudeste vira palco dos presidenciáveis na 1ª semana de campanha",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T15:49:52.060Z"
+  "atualizadoEm": "2026-08-23T16:19:52.476Z"
 }
