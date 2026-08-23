@@ -1,8 +1,32 @@
 {
   "noticias": [
     {
+      "titulo": "Secretaria de Saúde regulamenta serviço de aborto legal para vítimas de violência sexual",
+      "imagem": "https://s2-g1.glbimg.com/EBSVPCfNo30vg427nZDQ4vTcBW4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/p/N/ByQBRBTIG3RIh13AK8cg/hospital-e-maternidade-dona-regina-erlene-miranda.jpeg"
+    },
+    {
+      "titulo": "Andressa Suita aposta em look monocromático com franjas para segunda noite no Barretão",
+      "imagem": "https://s2-g1.glbimg.com/aiwiNKc2is6OnlLWgL-eHm5KyHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/W/lme1FSSBanSC9PN7DYdA/copia-de-copia-de-design-sem-nome-3-.png"
+    },
+    {
+      "titulo": "Baixada Santista registra 161 mortes no trânsito entre janeiro e julho; veja os dados por cidade",
+      "imagem": "https://s2-g1.glbimg.com/Fb7LQF3KEJar5d2_coNGgZW6rmw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/K/BITfHSTaWtL3ytAsXQ6A/acidente-moto-6-.jpg"
+    },
+    {
+      "titulo": "Onze carneiros e ovelhas são encontrados mortos em campus do Ifam após avistamento de onça no interior do AM",
+      "imagem": "https://s2-g1.glbimg.com/wmbEeJSzlutKdkfe-o9s_zC76No=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/a/nSkLPhT26KrQ1dEb1BCA/rebanho-encontrado-morto-no-ifam-de-sao-gabriel-da-cachoeira.jpg"
+    },
+    {
+      "titulo": "Mãe de jovem sequestrada e acorrentada procurou pelo ex após desaparecimento da filha: ‘Sentindo que tinha alguma coisa errada’",
+      "imagem": "https://s2-g1.glbimg.com/Dvu6uLyVo5s1HNKXciZmHwv0dfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/zDHczzQo67DYBTBUYmSA/padrao-foto-g1-goias-36-.jpg"
+    },
+    {
+      "titulo": "PM apreende cinco fuzis em ações neste domingo no Rio",
+      "imagem": "https://s2-g1.glbimg.com/zvTmEbCONhu-CGtRHljFa9mh5yk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Q/ZJgTAFSziYYbTyPeRlQA/fuzis.jpg"
+    },
+    {
       "titulo": "Gusttavo Lima, Andressa Suita e filhos levam bandeira do Brasil à final do rodeio da PBR na Festa de Barretos",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/VZHgwHtdNpCwET2R-6FFGbmZdLI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/H/zIiV03TdGuzOjQ7cAJIw/captura-de-tela-2026-08-23-as-19.56.20.png"
     },
     {
       "titulo": "Caminhada, adesivaço e ato político: veja como foi agenda dos candidatos ao governo do Ceará neste domingo",
@@ -95,31 +119,7 @@
     {
       "titulo": "Resgate de novilha que caiu em buraco com lama mobiliza bombeiros e Defesa Civil no interior de SP",
       "imagem": "https://s2-g1.glbimg.com/hW5QysSmVAwq7nLC2MSpIyLpBXs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/N/qcS3YgQTa9uGqqgyOEsw/design-sem-nome-72-.jpg"
-    },
-    {
-      "titulo": "Ônibus parado pega fogo em terminal de Santana, no Amapá",
-      "imagem": "https://s2-g1.glbimg.com/sgZJ69VQiQLGU3kqOYUMq418Zq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/V/3HLbGoSIyoXxW6x8CO6g/aleixo-g1-52-.jpg"
-    },
-    {
-      "titulo": "VÍDEO: Homem é preso com mais de 560 quilos de maconha em rodovia no Acre",
-      "imagem": "https://s2-g1.glbimg.com/GjMbGxSzZFbwWSbxpympbP84ewY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/o/KzulprTy2Nzifdo4SRlA/midia-de-distribuicao-g1-28-.jpg"
-    },
-    {
-      "titulo": "Homem é morto a tiros dentro de carro de campanha de deputada na Grande SP; polícia descarta motivação política",
-      "imagem": "https://s2-g1.glbimg.com/3ornfY90lr1Ybe59Vd-vTgby4M8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/E/iugj73QtiX8z75GwDCoA/montagem-horizontal-1200px-5-.jpg"
-    },
-    {
-      "titulo": "Isso é Fantástico — 'Jornalistas no Front': o trabalho da imprensa em zonas de conflito",
-      "imagem": "https://s2-g1.glbimg.com/U8UMFYK7rFLTQcbwCp9PPEESRQk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/M/UV3l4JTruxAHqdbuhepQ/whatsapp-image-2026-08-23-at-17.05.21.jpeg"
-    },
-    {
-      "titulo": "Piloto de parapente cai e fica preso em árvores no litoral de SP; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/rzqK3pABLYCey3uh25NZff6ha7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/F/g9gWNwQ2GT3pTYzD6AVA/piloyo-parapente.jpg"
-    },
-    {
-      "titulo": "Homem é preso em flagrante após agredir mulher em Contagem",
-      "imagem": "https://s2-g1.glbimg.com/ECzXeu4zL5YSYY255ivbWqAjmLs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/c/tHA2haQcWpmhgEQCTMyQ/agressa-mulher-feira.png"
     }
   ],
-  "atualizadoEm": "2026-08-23T23:16:54.602Z"
+  "atualizadoEm": "2026-08-23T23:44:31.486Z"
 }
