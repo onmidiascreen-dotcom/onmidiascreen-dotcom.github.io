@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Existe alimento proibido para crianças? Especialistas e Dr. Kalil explicam",
+      "imagem": null
+    },
+    {
+      "titulo": "Colheita de milho do Brasil tem avanço para 84,4%, diz Pátria AgroNegócios",
+      "imagem": null
+    },
+    {
+      "titulo": "Calor extremo causou 1.243 mortes acima do esperado na França em julho",
+      "imagem": null
+    },
+    {
+      "titulo": "Para diretor criativo da Pixar, magia do entretenimento não exige telas",
+      "imagem": null
+    },
+    {
       "titulo": "Labirintite: entenda quadro que já impediu zagueiro do Corinthians de jogar",
       "imagem": null
     },
@@ -103,23 +119,7 @@
     {
       "titulo": "População de onças-pintadas fêmeas cai 77% na Amazônia",
       "imagem": null
-    },
-    {
-      "titulo": "Brighton x Aston Villa: horário e onde assistir ao jogo da Premier League",
-      "imagem": null
-    },
-    {
-      "titulo": "Cenário é preocupante para situação financeira das famílias, diz professor",
-      "imagem": null
-    },
-    {
-      "titulo": "Palmeiras x Vasco: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Vitória x Bahia: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T08:47:28.698Z"
+  "atualizadoEm": "2026-08-23T09:23:12.929Z"
 }
