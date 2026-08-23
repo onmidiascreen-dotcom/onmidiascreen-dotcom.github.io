@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Presidente do STJ diz que regras para eventos não são solução: 'Que juiz vai se vender por passagem?'",
+      "imagem": null
+    },
+    {
       "titulo": "Fundador do PDT e ministro no governo Dilma, Manoel Dias morre aos 88 anos",
       "imagem": null
     },
@@ -33,33 +37,29 @@
       "imagem": null
     },
     {
-      "titulo": "Programa nuclear da Marinha lidera gasto militar brasileiro",
+      "titulo": "Empresas projetam perdas com efeitos do El Niño, mas algumas veem ganhos",
       "imagem": null
     },
     {
-      "titulo": "A Câmara é a Casa do povo e o Senado, o clube da elite?",
+      "titulo": "Bolsonarinho, Lulinha e o efeito do prestígio de Lula na eleição",
       "imagem": null
     },
     {
-      "titulo": "Tratamento da apneia do sono pode ajudar no controle da hipertensão",
-      "imagem": null
-    },
-    {
-      "titulo": "Hot Chip celebra 20 anos do álbum 'The Warning' em show em São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Uma via de mão dupla",
-      "imagem": null
-    },
-    {
-      "titulo": "O mundo está muito confuso",
+      "titulo": "Contrabando vai da fronteira à internet e desafia fiscalização no Brasil",
       "imagem": null
     },
     {
       "titulo": "Veja dez prós e contras da reforma tributária para as empresas",
       "imagem": null
+    },
+    {
+      "titulo": "O que muda na reforma tributária e quais são as pendências para o futuro; veja ponto a ponto",
+      "imagem": null
+    },
+    {
+      "titulo": "Díaz-Canel diz que EUA asfixiam Cuba, nega guinada capitalista e afirma que país 'está em pé e não se rende'",
+      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-23T02:49:23.176Z"
+  "atualizadoEm": "2026-08-23T03:47:02.686Z"
 }
