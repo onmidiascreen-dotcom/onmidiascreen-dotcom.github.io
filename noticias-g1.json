@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Eleições 2026: saiba como foi o dia do candidato Eduardo Braide ao governo do Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/1URQrdImkMexc_tsRmsy85FbfGs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/v/wfmOZeROKLBdW3GkrJfw/eduardobraide-agenda-24.jpg"
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
+    },
+    {
+      "titulo": "Recuperação extrajudicial: Braskem tem 90 dias para negociar dívida de R$ 56 bilhões",
+      "imagem": "https://s2-g1.glbimg.com/iDf0nBsHlLbBbQw6UjJ6zBB6SWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/o/b4F3e3RcAeMx7Wq7t6pA/globo-canal-4-20260824-2000-frame-58726.jpeg"
+    },
+    {
+      "titulo": "Quaest em SC: 70% aprovam e 19% desaprovam governo de Jorginho Mello",
+      "imagem": "https://s2-g1.glbimg.com/3tQtTB1gaAKzrzTPhCaC4xetD3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/H/s8DZzjSg6MR7IkTbf7Rw/jorginho-mello-pl-santa-catarina-credito-marllon-linhague-gov-sc.jpg"
+    },
+    {
+      "titulo": "Quaest em SC: Flávio Bolsonaro, 45%; Lula, 20%; Renan Santos, 4%",
+      "imagem": "https://s2-g1.glbimg.com/w487QqPtsCgYoJfIkBMkyoYQLD0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/m/l9V6eDRLiOtCUx0IBs1w/design-sem-nome.png"
+    },
+    {
+      "titulo": "Eleições 2026: saiba como foi o dia do candidato Felipe Camarão ao governo do Maranhão",
+      "imagem": "https://s2-g1.glbimg.com/-nKAFvEAyCmZDiSShuFaIbWkBIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/o/UPuBlSQo2GzQEptl2ZFA/felipe-camarao-.jpg"
+    },
+    {
       "titulo": "Após 33 meses de obras em Belém, Basílica Santuário de Nazaré conclui primeiro restauro integral desde 1909",
       "imagem": "https://s2-g1.glbimg.com/bLqo9CvSxunU5dQRupSnqBWgHhI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/l/zHt8opQpWwCErdiSWsiw/restauracao.jpg"
     },
@@ -65,8 +89,8 @@
       "imagem": "https://s2-g1.glbimg.com/7I2w_FqnwuFUDBmnBH5tfkBojjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/2/tsC1ByT3A16n9LDPc0Ew/design-sem-nome-3-.png"
     },
     {
-      "titulo": "Quaest em AL: Lula, 44%; Flávio Bolsonaro, 29%; Renan Santos, 2%; Ronaldo Caiado, 1%; Romeu Zema, 0%",
-      "imagem": "https://s2-g1.glbimg.com/FXOfuwtNW2fZvbZJPvh9cmaz-Qw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/4/qTJVcPQNq49loxtKfRqw/montagem-horizontal-1280x720px-7-.jpg"
+      "titulo": "Quaest em AL: Lula, 44%; Flávio Bolsonaro, 29%",
+      "imagem": "https://s2-g1.glbimg.com/fNkGWA1phEImHBTEf66XxhqpVm0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/I/iio7SaRMqoy9oen17OZQ/whatsapp-image-2026-08-24-at-20.36.22.jpeg"
     },
     {
       "titulo": "Quaest no MA: Lula, 58%; Flávio Bolsonaro, 20%; Renan Santos, 2%; Ronaldo Caiado, 2%",
@@ -95,31 +119,7 @@
     {
       "titulo": "Substituição de empresa de ônibus será avaliada por representantes do Consórcio Metropolitano em Sergipe",
       "imagem": "https://s2-g1.glbimg.com/d0Ncdn3Xj-Lf_STD4if9odLWxOM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/S/ccAaSgQ2iXuFfzHvfjBw/imagem-g1-5-.jpg"
-    },
-    {
-      "titulo": "Quatro homens são autuados em R$ 8,1 mil por pesca em local proibido no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/YCdPi8a0xURNfbt_YXBgZrsEGT8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/6/uytnoHThu7U7R9dCqRKg/pesca-proibida-1-.png"
-    },
-    {
-      "titulo": "MPE contesta defesa de Cícero Lucena e reitera pedido para barrar candidatura ao governo da Paraíba",
-      "imagem": "https://s2-g1.glbimg.com/nZ4NTFnsXLIi3oIZhoMaFJxM0_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Q/2hkXPIQWuJWtyESc4H3A/cicero-lucena-foto.png"
-    },
-    {
-      "titulo": "Homem morre após ser baleado no rosto durante assalto em Campo Limpo, na Zona Sul de SP",
-      "imagem": "https://s2-g1.glbimg.com/Vkda-cHIFAPLz49dY5m7uKAwAoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/I/z7S8WlSzAOftS1PBAgFQ/fotojet-2026-08-24t192038.101.jpg"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Liberal",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest no MA: 54% aprovam e 30% desaprovam governo de Carlos Brandão",
-      "imagem": "https://s2-g1.glbimg.com/YUwb1qC3tV8fsUG-cuQe1eefIvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/2/4BJWj9RhCVWHna0ChVew/carlos-brandao-divulgacao-2.jpg"
-    },
-    {
-      "titulo": "Reforma Tributária: Firjan promove workshop gratuito para empresas do Simples Nacional em Volta Redonda",
-      "imagem": "https://s2-g1.glbimg.com/28oRW6ncTrJVtW86SREbcysa_JU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/C/L0EZ9BRmygSg8uiXef5w/firjan-economia-reformatributaria.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-24T23:33:50.618Z"
+  "atualizadoEm": "2026-08-24T23:57:30.871Z"
 }
