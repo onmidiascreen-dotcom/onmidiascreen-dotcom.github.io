@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Galípolo: Não dá para comemorar alta do crédito e reclamar de endividamento",
+      "imagem": null
+    },
+    {
+      "titulo": "Amanda Kimberlly parabeniza filho de Neymar com fotos dele com Helena",
+      "imagem": null
+    },
+    {
+      "titulo": "Lito Sousa e Creutzfeldt-Jakob: especialista explica doença degenerativa",
+      "imagem": null
+    },
+    {
+      "titulo": "Fachin se reúne com Janja para tratar de pacto contra o feminicídio",
+      "imagem": null
+    },
+    {
+      "titulo": "Laura Cardoso faleceu nos braços da neta, diz filha da atriz",
+      "imagem": null
+    },
+    {
+      "titulo": "Sport x América-MG: horário e onde assistir ao jogo da Série B",
+      "imagem": null
+    },
+    {
+      "titulo": "Fiuk celebra novo emprego após polêmica com Fábio Jr.: &#8220;Quero dinheiro&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Violência entre torcidas organizadas deixa dois mortos e seis presos na BA",
+      "imagem": null
+    },
+    {
+      "titulo": "Aneel aprova aumento médio de 5,76% para a Equatorial Maranhão",
+      "imagem": null
+    },
+    {
+      "titulo": "Paraná Pesquisas: 69,5% aprovam gestão de Pivetta; 23,3% desaprovam",
+      "imagem": null
+    },
+    {
+      "titulo": "Shein reduz seu valor de mercado para até US$ 27 bi em IPO em Hong Kong",
+      "imagem": null
+    },
+    {
+      "titulo": "Reinaldo se manifesta após cusparada durante Santos x Mirassol: &#8220;Nojento&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Aneel aprova aumento médio de 5,74% nas tarifas da Energisa Paraíba",
+      "imagem": null
+    },
+    {
+      "titulo": "Pai de militar dos EUA em missão no Oriente Médio é preso pelo ICE",
+      "imagem": null
+    },
+    {
+      "titulo": "Pesquisas: Mauro Mendes tem 52,3% para o Senado de MT; Riva tem 33,7%",
+      "imagem": null
+    },
+    {
+      "titulo": "Fernanda Torres é clicada com Andrucha Waddington em clima de romance",
+      "imagem": null
+    },
+    {
+      "titulo": "Enam 2026: edital do Exame Nacional da Magistratura é aberto esta segunda",
+      "imagem": null
+    },
+    {
+      "titulo": "Campeão mundial de sinuca é condenado por abuso sexual na Escócia",
+      "imagem": null
+    },
+    {
+      "titulo": "Vôlei: Seleção mexicana vence set por 25 a 0 em torneio continental",
+      "imagem": null
+    },
+    {
+      "titulo": "Encceja: quando sai o gabarito oficial e qual a nota mínima de aprovação?",
+      "imagem": null
+    },
+    {
+      "titulo": "Daniel Vorcaro deve detalhar à defesa relação com políticos",
+      "imagem": null
+    },
+    {
       "titulo": "Paraná Pesquisas MT: Pivetta tem 44,3%, e Fagundes, 40,8% no 2º turno",
       "imagem": null
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Para 50%, a economia do Brasil está ruim ou péssima, aponta BTG/Nexus",
       "imagem": null
-    },
-    {
-      "titulo": "Caneta emagrecedora genérica: como vai funcionar e quanto será mais barata",
-      "imagem": null
-    },
-    {
-      "titulo": "Ações da Braskem têm forte queda após pedido de recuperação extrajudicial",
-      "imagem": null
-    },
-    {
-      "titulo": "Frio intenso provoca temperaturas abaixo de zero nos três estados do Sul",
-      "imagem": null
-    },
-    {
-      "titulo": "Médico explica doença rara de Lito Sousa e estudo experimental em Harvard",
-      "imagem": null
-    },
-    {
-      "titulo": "Paraná Pesquisas MT: No 1º turno, Pivetta tem 39% e Fagundes, 35%",
-      "imagem": null
-    },
-    {
-      "titulo": "Andressa Suita revela rotina de Gusttavo Lima após megashow em Barretos",
-      "imagem": null
-    },
-    {
-      "titulo": "Alibaba anuncia oferta de ações de US$ 10,2 bilhões para investir em IA",
-      "imagem": null
-    },
-    {
-      "titulo": "Real Time Big Data na Paraíba: Flávio é rejeitado por 52%; Lula, por 37%",
-      "imagem": null
-    },
-    {
-      "titulo": "Ex-Palmeiras e Santos, Zé Rafael é anunciado por clube português",
-      "imagem": null
-    },
-    {
-      "titulo": "OCDE: PIB avança de 0,5% no 2º tri, mas economias do G7 desaceleram",
-      "imagem": null
-    },
-    {
-      "titulo": "Real Time Big Data: Na Paraíba, Lula tem 59% no 2º turno; Flávio, 32%",
-      "imagem": null
-    },
-    {
-      "titulo": "Índice de atividade nacional dos EUA cai a 0,08 em julho",
-      "imagem": null
-    },
-    {
-      "titulo": "Real Time Big Data: Lula tem 55% e Flávio, 26% no 1º turno na Paraíba",
-      "imagem": null
-    },
-    {
-      "titulo": "Copa do Brasil: Vasco define São Januário como palco do duelo com o Vitória",
-      "imagem": null
-    },
-    {
-      "titulo": "Ladrões são contratados na internet para roubar museus, diz polícia",
-      "imagem": null
-    },
-    {
-      "titulo": "Esposa de Lito Sousa faz apelo por tratamento: &#8220;Estou preocupada&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Vozinha pode estrear pelo Colo-Colo na quarta após ser banco em clássico",
-      "imagem": null
-    },
-    {
-      "titulo": "Vocalista do Sorriso Maroto hospitalizado: entenda riscos da gastroenterite",
-      "imagem": null
-    },
-    {
-      "titulo": "Ameba &#8220;comedora de cérebro&#8221; mata menina de oito anos nos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Palmeiras renova com zagueiro Gustavo Gómez até 2030",
-      "imagem": null
-    },
-    {
-      "titulo": "Donald Trump anuncia tarifa de 50% sobre automóveis e aço para o Canadá",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-24T15:09:53.202Z"
+  "atualizadoEm": "2026-08-24T15:54:49.201Z"
 }
