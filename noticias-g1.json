@@ -1,6 +1,66 @@
 {
   "noticias": [
     {
+      "titulo": "Polícia Rodoviária apreende R$ 6 milhões em eletrônicos durante abordagens na Raposo Tavares",
+      "imagem": "https://s2-g1.glbimg.com/MPGpSnCJ0GRQ24CW__0KN6cTn6w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/m/ELYWKMSMKk9DzJ3VBO5A/whatsapp-image-2026-08-24-at-08.36.14.jpeg"
+    },
+    {
+      "titulo": "Quaest em AL: 56% aprovam e 28% desaprovam governo de Paulo Dantas",
+      "imagem": "https://s2-g1.glbimg.com/ChCqcDPDEK87vrOIPkB1B83E8tc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/9/w/2PGpxQSyAhghn2F3oYWg/whatsapp-image-2023-04-26-at-16.17.03.jpeg"
+    },
+    {
+      "titulo": "Adolescente morre afogado enquanto nadava em praia de Palmas, dizem bombeiros",
+      "imagem": "https://s2-g1.glbimg.com/PW83JPktBFViWXwZ9c8gKQ9WK-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Q/1/T1WTqWQCith5OW59Cdwg/tela.jfif"
+    },
+    {
+      "titulo": "Quaest para o Senado no MA: Roseana Sarney, 16%; Weverton Rocha, 11%; Lahesio Bonfim, 10%",
+      "imagem": "https://s2-g1.glbimg.com/Rw0qK2AxW6eRnEJr435foY8-So8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/5/YMqdzTRwi4O7XD5ULA2w/whatsapp-image-2026-08-24-at-19.45.30.jpeg"
+    },
+    {
+      "titulo": "Mateus Simões defende ampliar UBSs e ações de reforço escolar em Minas",
+      "imagem": "https://s2-g1.glbimg.com/S5NMcYu3auqxORJLIiasfUfvDfo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/x/MCu5qPQSuzcmgitBvcLQ/2-42-agenda-simoes-fabiano-24-aug-2026.mxf.png"
+    },
+    {
+      "titulo": "Jovem morto em garagem de carros em plena luz do dia foi vítima de engano, aponta investigação",
+      "imagem": "https://s2-g1.glbimg.com/TI-DycYfQ_XeMMegs9DHtY94nfA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/i/wVfSN0SLmFVB0Raj7n1A/design-sem-nome-79-.jpg"
+    },
+    {
+      "titulo": "Veja agenda de campanha dos candidatos ao governo de MG nesta segunda-feira",
+      "imagem": "https://s2-g1.glbimg.com/51YEYUVNj8oQRu2h8a0WF-CiZbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/57q383RYyDBUhmrLzPqw/2.jpg"
+    },
+    {
+      "titulo": "BNDES estima R$ 68 bilhões para projetos como ampliar metrô, VLT e BRT no Rio; veja trajetos",
+      "imagem": "https://s2-g1.glbimg.com/UarMW5pRIeFmkf-nNnrgZ0aW1s0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/c/9mAWn3QGSy5vaxXHztmQ/rj2-limpo-20260824-1825-frame-93990.jpeg"
+    },
+    {
+      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "Dupla é presa com armas e drogas em Três Rios",
+      "imagem": "https://s2-g1.glbimg.com/zXMmRPXroTIljLf-wldqN6ZKRYM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/8/hn6MiOQ7uQdWuI29BL3A/whatsapp-image-2026-08-24-at-18.59.39-1-.jpeg"
+    },
+    {
+      "titulo": "Quaest no RN: Lula, 56%; Flávio Bolsonaro, 19%",
+      "imagem": null
+    },
+    {
+      "titulo": "Quaest no RN: 43% aprovam e 51% desaprovam governo de Fátima Bezerra",
+      "imagem": "https://s2-g1.glbimg.com/KYEoO8CJ7Zvk9zNb4hfGf7Ifhp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/C/E7VgHMQO6uy2daULXCoA/fatima-bezerra.jpg"
+    },
+    {
       "titulo": "Carro fecha motociclista na avenida Carlos Pereira de Melo e causa acidente em Boa Vista",
       "imagem": "https://s2-g1.glbimg.com/2C2fUwipnkLztIWTuzoghm40-ag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/J/0OsEsHTjAByGaVSYJbDA/acidente.jpg"
     },
@@ -29,7 +89,7 @@
       "imagem": null
     },
     {
-      "titulo": "Quaest para o Senado em AL: Arthur Lira, 20%; Renan, 18%; Marina JHC, 15%; Davi Davino Filho, 10%",
+      "titulo": "Quaest para o Senado em AL: Arthur Lira, 20%; Renan, 18%; Marina JHC, 15%; Davi Davino, 10%; Dr. Wanderley, 5%",
       "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
     },
     {
@@ -59,67 +119,7 @@
     {
       "titulo": "Policial civil é preso em flagrante após disparos e ameaça em MT",
       "imagem": "https://s2-g1.glbimg.com/Lnjz_dM1_q12gSiMIQLgJHYMahM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/c/Oz9FIoTmyAjSZ6BYucTQ/videos-g1-8-.png"
-    },
-    {
-      "titulo": "Pulseira para o Sou Manaus 2026: veja como fazer cadastro e retirar o ingresso",
-      "imagem": "https://s2-g1.glbimg.com/oxGgjD46PHWpTUVo1ARfe9vBu5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/8/X/gR5151Q6SaDMRaHAp2iw/sou-manaus-2023-foto-clovis-miranda-semcom.jpg"
-    },
-    {
-      "titulo": "Flávio Roscoe defende Rodoanel e descomissionamento de barragens durante campanha na Grande BH",
-      "imagem": "https://s2-g1.glbimg.com/M4ckoEXIUXII0iz_BfJJjxeD0Io=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/r/EHnApATraYRMwFtCv7tQ/0-41-2408mg02-agenda-flavio-roscoe.png"
-    },
-    {
-      "titulo": "Quaest no RN: Allyson, 25%; Cadu de Lula, 21%; Álvaro Dias, 19%",
-      "imagem": "https://s2-g1.glbimg.com/HBmFuPF7KCLEvc8_9PcPW3UL9fg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/L/I4qBGaTBeOwEGkRyhhQA/5f563d64-8c9f-4d2f-a928-c4d0caeb3c31.jpeg"
-    },
-    {
-      "titulo": "Quaest no RS: Flávio Bolsonaro, 34%; Lula, 28%; Ronaldo Caiado, 3%; Renan Santos; 2%; Romeu Zema, 2%",
-      "imagem": "https://s2-g1.glbimg.com/uC0F_ismuu_fahSaOZX80u8UA9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/tzOPUXRqAn2cGzNVV9Kw/montagem-horizontal-1280x720px-1-.jpg"
-    },
-    {
-      "titulo": "Quaest no RS: 45% desaprovam e 42% aprovam o governo Eduardo Leite",
-      "imagem": "https://s2-g1.glbimg.com/nyIchxqidnrhKqBY37of8CpgY5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/C/TW1EyCQxSeBAzJxU3qHg/g1-2026-07-27t152416.428.jpg"
-    },
-    {
-      "titulo": "Quaest no RS: Luciano Zucco tem 26%, e Juliana Brizola, 23%",
-      "imagem": "https://s2-g1.glbimg.com/mJ3J2zky9xDA2Nxk9lI8DhWlq0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/j/r9eHtRSgeW5X9RusSZWA/g1-76-.jpg"
-    },
-    {
-      "titulo": "Com explosão de novos moradores e empreendimentos, Recreio vê piora no trânsito em vias principais, alternativas e em áreas vizinhas",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest em AL: Renan Filho tem 42%; e JHC, 40%",
-      "imagem": "https://s2-g1.glbimg.com/RvazqyIH8WwMT88UFOyJDivnpe0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/K/U8E4RpSWqSAqCZlDjnog/whatsapp-image-2026-08-20-at-17.24.44.jpeg"
-    },
-    {
-      "titulo": "Caminhão bate em casas e moradora diz ter ficado com prejuízo de R$ 15 mil em Prata",
-      "imagem": "https://s2-g1.glbimg.com/_mCEFPUWe6AR5LC43k6tKVBK_VI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/iEufAGQ1miFIYCg4HbTw/jl-tm-46-.jpg"
-    },
-    {
-      "titulo": "TRE-BA rejeita candidatura de José Estêvão e Ariel Capistrano se estabelece como candidato ao governo pelo Democracia Cristã",
-      "imagem": "https://s2-g1.glbimg.com/zxCAgqXxCtFAJJw92dl_rrXqw1w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/B/yTKWJpTm2Fr4dzad01Vg/whatsapp-image-2026-08-03-at-20.30.27.jpeg"
-    },
-    {
-      "titulo": "Quaest para o Senado em SC: Esperidião Amin, 19%; Carlos Bolsonaro, 16%; Carol De Toni, 12%; Décio Lima, 9%",
-      "imagem": "https://s2-g1.glbimg.com/VHf0bCnaic1Z9rWbGSzBv01RYLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/T/NAaJOnSAuA6FBu175NeA/senado.png"
-    },
-    {
-      "titulo": "Mulher é presa suspeita de agredir companheira e menina de 11 anos em Jundiaí",
-      "imagem": "https://s2-g1.glbimg.com/rOpiV-rb35Y9UUDTsVQxO8R79H4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/C/e/KQSpCuSYy4bSGdyf69sw/whatsapp-image-2025-10-02-at-15.15.20-1-.jpeg"
-    },
-    {
-      "titulo": "MP investiga suspeita de omissão de colégio particular após aluno ser esfaqueado em Ribeirão Preto",
-      "imagem": "https://s2-g1.glbimg.com/JTLbNUYWjC_O2b8W6I2cEI2x5Yk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/J/BRd9gHQiuVXlyibVR4JA/copia-de-molduras-g1-.png"
-    },
-    {
-      "titulo": "Agricultora de Formosa é eleita pela Forbes como umas das mulheres mais poderosas do Brasil",
-      "imagem": "https://s2-g1.glbimg.com/9OwfD1AmLcIdsz_w10fyoc-8Ju8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/X/8RpaaXRyqGl1VyO9ivGw/design-sem-nome-12-.jpg"
-    },
-    {
-      "titulo": "Paes promete mais policiais e novo modelo de patrulhamento se for eleito",
-      "imagem": "https://s2-g1.glbimg.com/N_fJli48nEGDBqSf6wnw8qjwOQM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/R/0pXI3cTTOHbigV8ssJOw/rj2-agenda-paes-frame-60202.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-24T22:43:05.232Z"
+  "atualizadoEm": "2026-08-24T23:02:22.830Z"
 }
