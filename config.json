@@ -34,7 +34,8 @@
       "comunicados": [
         {
           "titulo": "Assembleia geral — 15/07, 19h",
-          "texto": "No salão de festas. Pauta: reajuste do fundo de reserva e pintura da fachada."
+          "texto": "No salão de festas. Pauta: reajuste do fundo de reserva e pintura da fachada.",
+          "segundos": 10
         },
         {
           "imagem": "comunicados/1783644023718-2.png",
