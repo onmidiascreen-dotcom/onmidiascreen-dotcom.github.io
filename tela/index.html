@@ -334,7 +334,7 @@
   tick(); setInterval(tick, 1000);
 
   // ---------- configuração (prédios + telas + anúncios + comunicados) ----------
-  let cfg = null, adTimer = null, noticeTimer = null;
+  let cfg = null, adTimer = null, travaTimer = null, noticeTimer = null;
   let ads = [], curAd = 0, assinaturaAnuncios = '';
 
   // Cada aparelho abre com ?tela=<id> (ex.: ?tela=infinity-1). Sem parâmetro, usa o 1º prédio —
@@ -447,8 +447,9 @@
 
   function mostrarAnuncio() {
     clearTimeout(adTimer);
+    clearTimeout(travaTimer);
     const progress = document.getElementById('progress');
-    ads.forEach(x => { x.el.classList.remove('on'); if (x.video) { x.video.onended = null; x.video.ontimeupdate = null; try { x.video.pause(); } catch (e) {} } });
+    ads.forEach(x => { x.el.classList.remove('on'); if (x.video) { x.video.onended = null; x.video.ontimeupdate = null; x.video.onplaying = null; try { x.video.pause(); } catch (e) {} } });
     const item = ads[curAd];
     item.el.classList.add('on');
 
@@ -465,7 +466,16 @@
       item.video.ontimeupdate = () => { if (item.video.duration) progress.style.width = (item.video.currentTime / item.video.duration * 100) + '%'; };
       item.video.onended = () => proximoAnuncio();
       item.video.onerror = () => proximoAnuncio(); // ex.: sem internet e vídeo não cacheado — pula
-      adTimer = setTimeout(proximoAnuncio, 90000); // segurança se o vídeo travar
+      // se o load() não conseguir reidratar do cache do SW a tempo (ex.: rede
+      // instável logo depois de voltar do offline), o vídeo fica preso sem
+      // nenhum frame — puro preto. Não vale esperar os 90s de segurança pra
+      // descobrir isso: se não começou a tocar de verdade em poucos segundos,
+      // já tenta de novo. Com um único anúncio cadastrado (caso comum), isso
+      // vira uma retentativa rápida em vez de minutos de tela preta.
+      let comecouATocar = false;
+      item.video.onplaying = () => { comecouATocar = true; };
+      travaTimer = setTimeout(() => { if (!comecouATocar) proximoAnuncio(); }, 8000);
+      adTimer = setTimeout(proximoAnuncio, 90000); // segurança se o vídeo travar depois de começar
     } else {
       // texto ou imagem: tempo fixo
       const DUR = (cfg.duracaoAnuncioSegundos || 8) * 1000;
