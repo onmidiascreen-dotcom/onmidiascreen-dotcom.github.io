@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Caiado: Lula está preparando Flávio para ser o peru de Natal",
+      "imagem": null
+    },
+    {
       "titulo": "Lula afirma ter saudade de enfrentar PSDB: &#8220;Nível da política caiu muito&#8221;",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Síria e Israel realizam negociações mediadas pelos EUA para reduzir tensões",
       "imagem": null
-    },
-    {
-      "titulo": "Confiscar bens de agressor de mulher é &#8220;penalização educativa&#8221;, diz Caiado",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-24T02:59:00.850Z"
+  "atualizadoEm": "2026-08-24T03:59:12.893Z"
 }

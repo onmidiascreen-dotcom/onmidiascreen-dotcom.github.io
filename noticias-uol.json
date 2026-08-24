@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "C6 no Rock leva multidão ao Ibirapuera com clássicos do rock nacional",
+      "imagem": null
+    },
+    {
+      "titulo": "Augusto Cury, Renan Santos e Ronaldo Caiado criticam ausência de Lula no debate presidencial",
+      "imagem": null
+    },
+    {
       "titulo": "Lula e Flávio vencem o debate sem nem aparecer",
       "imagem": null
     },
@@ -51,15 +59,7 @@
     {
       "titulo": "Tarcísio encerra mandato com piora gradativa nas contas e aponta investimento maior em PPPs",
       "imagem": null
-    },
-    {
-      "titulo": "É possível melhorar Bolsa Família e torná-lo mais amigável com trabalho, diz um dos pais do programa",
-      "imagem": null
-    },
-    {
-      "titulo": "Crítica a 'vazamentos seletivos' une petistas sobre caso Lulinha e bolsonaristas quanto a Vorcaro",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-24T02:59:00.403Z"
+  "atualizadoEm": "2026-08-24T03:59:12.548Z"
 }
