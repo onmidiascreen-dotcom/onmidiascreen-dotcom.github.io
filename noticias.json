@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Tufão provoca retirada de mais de 50 mil pessoas no sudoeste da China",
+      "imagem": null
+    },
+    {
       "titulo": "Caiado: Lula está preparando Flávio para ser o peru de Natal",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Candidatos iniciam debate com foco em segurança e críticas à educação",
       "imagem": null
-    },
-    {
-      "titulo": "Síria e Israel realizam negociações mediadas pelos EUA para reduzir tensões",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-24T03:59:12.893Z"
+  "atualizadoEm": "2026-08-24T04:53:19.021Z"
 }

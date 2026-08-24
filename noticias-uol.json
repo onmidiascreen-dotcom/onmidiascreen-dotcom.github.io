@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "De Olho no Voto analisa o primeiro debate presidencial de 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia de SP apura fraude no uso de autorizações para plantio de maconha",
+      "imagem": null
+    },
+    {
       "titulo": "C6 no Rock leva multidão ao Ibirapuera com clássicos do rock nacional",
       "imagem": null
     },
@@ -51,15 +59,7 @@
     {
       "titulo": "Folha lança Carga Humana, série sobre tráfico de brasileiros no Camboja",
       "imagem": null
-    },
-    {
-      "titulo": "Conheça filmes e séries sobre apostas, como 'Corrida dos Bichos' e 'Jogada de Risco'",
-      "imagem": null
-    },
-    {
-      "titulo": "Tarcísio encerra mandato com piora gradativa nas contas e aponta investimento maior em PPPs",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-24T03:59:12.548Z"
+  "atualizadoEm": "2026-08-24T04:53:19.147Z"
 }
