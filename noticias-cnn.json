@@ -1,7 +1,79 @@
 {
   "noticias": [
     {
-      "titulo": "&#8216;Um trouxa nasce a cada minuto&#8217;: O homem que enganou turistas com um anfite",
+      "titulo": "Thiago Wild dá show e avança no quali do US Open; Meligeni é eliminado",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Influenciadores da solidão&#8221; não têm amigos, mas dizem ser felizes",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Crítica do Memphis e punição ao jogador são justas",
+      "imagem": null
+    },
+    {
+      "titulo": "PicPay registra lucro de R$ 282 milhões no 2º tri; alta anual de 135%",
+      "imagem": null
+    },
+    {
+      "titulo": "Haddad critica finanças de SP e promete &#8220;pente fino&#8221; em contratos",
+      "imagem": null
+    },
+    {
+      "titulo": "Metrô: 99 agora vende passagens em Salvador via app",
+      "imagem": null
+    },
+    {
+      "titulo": "Espada de Dom Pedro II: onde está relíquia que foi presenteada durante viagem do imperador",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja os melhores momentos de Al-Ittihad 3 x 2 Al-Hazem pelo Saudita",
+      "imagem": null
+    },
+    {
+      "titulo": "Bitcoin opera em alta com incertezas nos EUA e sinais regulatórios no radar",
+      "imagem": null
+    },
+    {
+      "titulo": "Eclipse lunar no Brasil ocorre nesta semana: veja horários e como observar",
+      "imagem": null
+    },
+    {
+      "titulo": "Ouro sobe ao maior valor desde maio com tensão no Oriente Médio",
+      "imagem": null
+    },
+    {
+      "titulo": "BRB autoriza ações contra ex-administradores envolvidos no caso Master",
+      "imagem": null
+    },
+    {
+      "titulo": "Petróleo cai apesar de novas sanções dos EUA ao Irã e baixo fluxo em Ormuz",
+      "imagem": null
+    },
+    {
+      "titulo": "Índia caminha para a monção mais fraca em quase duas décadas",
+      "imagem": null
+    },
+    {
+      "titulo": "Saiba como reparar a tinta em paredes danificadas por bolhas, mofo e partes descascadas",
+      "imagem": null
+    },
+    {
+      "titulo": "Mari Palma está entre os 30 nomes mais influentes da comunicação no Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Colheita de milho segunda safra no centro-sul avança para 92%, diz AgRural",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump quer que Canadá negocie &#8220;de boa-fé&#8221;, diz Bessent",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8216;Um trouxa nasce a cada minuto&#8217;: O homem que enganou turistas com um anfiteatro grego falso na Itália",
       "imagem": null
     },
     {
@@ -14,6 +86,10 @@
     },
     {
       "titulo": "Jornalistas da CNN Brasil são reconhecidos no Prêmio Especialistas",
+      "imagem": null
+    },
+    {
+      "titulo": "Exportação de café verde do Brasil supera volume total de agosto de 2025",
       "imagem": null
     },
     {
@@ -43,83 +119,7 @@
     {
       "titulo": "Dois PMs são presos suspeitos de roubo e estupro de adolescente em SP",
       "imagem": null
-    },
-    {
-      "titulo": "Ausência na Copa, João Pedro faz gol relâmpago histórico pelo Chelsea",
-      "imagem": null
-    },
-    {
-      "titulo": "Malen anota hat-trick, e Roma goleia Fiorentina pela Serie A",
-      "imagem": null
-    },
-    {
-      "titulo": "Governo de Goiás realiza licitação para estruturação de Fundo Imobiliário",
-      "imagem": null
-    },
-    {
-      "titulo": "Madonna celebra aniversário de 14 anos das filhas gêmeas Stella e Estere",
-      "imagem": null
-    },
-    {
-      "titulo": "Robô &#8216;se revolta&#8217; após levantar peso, invade mesa dos juízes e sai de maca nos Jogos Humanoides; assista",
-      "imagem": null
-    },
-    {
-      "titulo": "São Paulo: principal torcida organizada faz cobrança no CT em meio à crise",
-      "imagem": null
-    },
-    {
-      "titulo": "Bessent promete sanções contra quem ajudar Irã a lavar dinheiro",
-      "imagem": null
-    },
-    {
-      "titulo": "Braskem protocola pedido de recuperação extrajudicial",
-      "imagem": null
-    },
-    {
-      "titulo": "Sem US Open, João Fonseca ainda terá dois Masters 1000 e defesa de título",
-      "imagem": null
-    },
-    {
-      "titulo": "Soja fecha em baixa em Chicago com boas projeções da safra americana",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasileiro Gustavo Heide leva virada na estreia e está fora do US Open",
-      "imagem": null
-    },
-    {
-      "titulo": "Filho de Audrey Hepburn diz que mãe nunca soube &#8220;que era tão especial&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Sob pressão, futuro de Luís Castro no Grêmio depende de vitória nos GreNais",
-      "imagem": null
-    },
-    {
-      "titulo": "Haddad cancela agenda; vice e Datena já aguardavam no local",
-      "imagem": null
-    },
-    {
-      "titulo": "Terras raras: Cade arquiva ação e destrava venda da Serra Verde para USAR",
-      "imagem": null
-    },
-    {
-      "titulo": "Sem João Fonseca, Brasil ainda tem chances de título no US Open; entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Hayden Panettiere instruiu seguranças a manter ex-namorado longe; entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Kimi Antonelli terá punição de dez posições no grid do GP da Itália de F1",
-      "imagem": null
-    },
-    {
-      "titulo": "Colar de R$ 2 milhões dado a Neymar levou polícia a rede de receptação de joias",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-24T21:33:53.629Z"
+  "atualizadoEm": "2026-08-24T22:00:21.962Z"
 }

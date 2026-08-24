@@ -1,6 +1,46 @@
 {
   "noticias": [
     {
+      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "EPTV 2 Campinas ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "Homem é preso suspeito de agredir a ex-companheira durante comemoração de aniversário em Avaré",
+      "imagem": "https://s2-g1.glbimg.com/L-zskTDBBxg2kE4ZZvlIPVLu_-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/R/ppywLPRPmAtEjSRVRBSQ/whatsapp-image-2026-02-23-at-14.15.33.jpeg"
+    },
+    {
+      "titulo": "Moraes diz que Brasil tem ‘trauma’ com política de segurança pública e defende cooperação: ‘precisamos superar vaidades’",
+      "imagem": "https://s2-g1.glbimg.com/xGP1zum6hKGhsRksHDoxL3LwmKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/q/lAmluuRaKYupSdQDbD4g/55339513099-1da6a4df68-k.jpg"
+    },
+    {
+      "titulo": "Professor Gisvaldo defende reajuste anual para professores durante agenda em Teresina",
+      "imagem": "https://s2-g1.glbimg.com/sIX0WXiLe3W98IaE-4LamAgcS8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/2/zXKDHaSPGsDqbtpeDlNA/edicao-imagens-g1-22-.png"
+    },
+    {
+      "titulo": "Pacto Global da ONU - Rede Brasil promove debate sobre futuro da água, em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/vOz2d8kh5HGBnv4OTzxYokdEfjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/4/Zo0aa1T82OlMSSi7vclQ/sede-aguas-de-manaus.jpeg"
+    },
+    {
+      "titulo": "Corpo de jovem desaparecido ao tentar atravessar o Rio Pará a nado é encontrado em Nova Serrana",
+      "imagem": "https://s2-g1.glbimg.com/DPnjFZvaEFP1S7drbfcaFVfSFzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/b/H9MwhzTJKYpqOSJ7KNKQ/whatsapp-image-2026-08-24-at-09.50.27-1-.jpeg"
+    },
+    {
+      "titulo": "PM abre inquérito para identificar e afastar policiais que agrediram jovens na Rua 14 de Julho, em Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/ydt7tuVDX2pbtfRc1U7SiSLZun4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/A/B09cwYQvuJA8krosBYSA/briga-14-de-julho.jpg"
+    },
+    {
+      "titulo": "Assista ao BATV da TV Subaé",
+      "imagem": null
+    },
+    {
+      "titulo": "Douglas Ruas defende redução na tarifa do metrô e sistema de transporte integrado",
+      "imagem": "https://s2-g1.glbimg.com/5zhksjGUq-kmxFidykVS0Cilgz8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/R/QJtvhgRo6jZD7oOz2Nvg/rj2-agenda-douglas-ruas-edxsd211-jh0051.mxf-frame-167.jpeg"
+    },
+    {
       "titulo": "Caso Geovana: Mãe de babá morta em Manaus espera data do júri e diz que demora aumenta angústia: ‘Traz memórias’",
       "imagem": "https://s2-g1.glbimg.com/eGmh96793cpp4PvFo8epwn5cWmw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/C/TQqwwAQMWwZixtPe94RQ/captura-de-tela-2026-08-22-163216.png"
     },
@@ -19,10 +59,6 @@
     {
       "titulo": "Jogador de futebol de 13 anos e irmã morrem em grave acidente no interior de SP",
       "imagem": "https://s2-g1.glbimg.com/cXGOKFCofXhbpuVgrULlctw6POk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/b/C9sWsKTWqLh6Eo7tBSww/jogador-de-futebol-e-irma-morrem-em-acidente-em-santa-rita-do-passa-quatro-1-.jpg"
-    },
-    {
-      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
     },
     {
       "titulo": "VÍDEO: carro oficial da Prefeitura de Itu cai em córrego após motorista perder o controle da direção",
@@ -83,43 +119,7 @@
     {
       "titulo": "Abertas inscrições para oficinas gratuitas de projetos culturais em Petrolina",
       "imagem": "https://s2-g1.glbimg.com/_3RZ7Popwr-3tSamLuO8cDhQru0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/j/E/JE0DLoQNOIMpVjC6TXzA/whatsapp-image-2025-07-01-at-09.48.26-1-.jpeg"
-    },
-    {
-      "titulo": "Paciente encontra larvas em ferida na perna enquanto aguarda por cirurgia no Hospital da Restauração",
-      "imagem": "https://s2-g1.glbimg.com/XUoq7HNwK5UuzdA3-04RorpIeeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/r/lBFqAAQsGjbkGk6WSC7Q/daniel.png"
-    },
-    {
-      "titulo": "Furto de vírus na Unicamp: PF encontrou amostras no congelador da cozinha dos investigados",
-      "imagem": "https://s2-g1.glbimg.com/f6bviTxG4TNPOr4IY_TV9DbuOJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/2/JNguRRRCCmPBfrsBh5bQ/furto-de-virus-na-unicamp-pf-encontrou-amostras-no-congelador-da-cozinha-dos-investigados.jpg"
-    },
-    {
-      "titulo": "Justiça decreta prisão preventiva de motorista que atropelou e matou ciclista em Porto Velho",
-      "imagem": "https://s2-g1.glbimg.com/7R6NMnbg7z-PTKvy-nf3Zul7Wpc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/8/Es1FL1RdmGsgkV8EbfWA/img-0070.png"
-    },
-    {
-      "titulo": "Porteiro é preso suspeito de estuprar adolescente de 12 anos em João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/E_EHv2qVQzUOzGmMl6RAsZbYDjo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/o/7/25wy7yTSSByssqd5EVIQ/whatsapp-image-2023-03-13-at-07.45.08.jpeg"
-    },
-    {
-      "titulo": "Ciro promete delegado em todos os municípios cearenses e ampliação de delegacias da mulher",
-      "imagem": "https://s2-g1.glbimg.com/8gdm86M594OZCKUu9oKd1N3V4Hk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/C/5O7j7zSTyRWWU8Eun3xA/ciro-gomes-conj-palmeiras.jpeg"
-    },
-    {
-      "titulo": "Dono de aposta vencedora de R$ 57 milhões na Mega-Sena procura lotérica em SC para resgatar prêmio",
-      "imagem": "https://s2-g1.glbimg.com/B5tMIoLpr30pNw8djBYlFmyKyow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/pwpJjAR0GtbRJ9XYzKdA/edicao-imagens-g1-17-.png"
-    },
-    {
-      "titulo": "Homem é esfaqueado e mulher diz ter reagido após agressão e ameaça em Salmourão",
-      "imagem": "https://s2-g1.glbimg.com/jSGQvK_cr4AWPWnD8DKg9fgtL9k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Y/gdFYGESUW4neVXeReM3Q/g1-2026-03-10t095901.596.png"
-    },
-    {
-      "titulo": "Homem é condenado por transmitir HIV intencionalmente para a namorada em Porto Velho",
-      "imagem": "https://s2-g1.glbimg.com/4rF8pYC7hRBQHyK4MtSS8Vup8uc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/g/T/QW3MoaQgAPJmjE4dJjmA/20241209-174335.jpg"
-    },
-    {
-      "titulo": "EPTV 2 Piracicaba ao vivo",
-      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-24T21:33:54.718Z"
+  "atualizadoEm": "2026-08-24T22:00:22.523Z"
 }
