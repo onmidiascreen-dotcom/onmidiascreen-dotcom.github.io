@@ -29,7 +29,7 @@
           "nome": "Elevador 2"
         }
       ],
-      "exibirNoticias": false,
+      "exibirNoticias": true,
       "exibirCuriosidades": false,
       "comunicados": [
         {
