@@ -1,6 +1,46 @@
 {
   "noticias": [
     {
+      "titulo": "Cadela é internada em estado grave após ser abandonada em calçada no litoral de SP; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/pMlLo1UC9yenGDxZ2o0AqpZ7OD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/L/YRfd2MQbeRnmu1LxsrjA/cachorra-abandonada.jpg"
+    },
+    {
+      "titulo": "Policial reencontra cantor sertanejo que o atendeu após ser baleado há 18 anos: 'Grande presente'",
+      "imagem": "https://s2-g1.glbimg.com/YU7J2wHE73ce8CPrQxK0qwNj0Q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/5/pZV2jQR3mDKwqQRxkzEA/reencontro-policial.jpg"
+    },
+    {
+      "titulo": "Testemunha disse à PM que homem morto por asfixia estava 'agressivo' antes de ser imobilizado e amarrado",
+      "imagem": "https://s2-g1.glbimg.com/vU3IgG4mhGsQTuGj_rc1Wu9EDzE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/5/jXBOZkSr2IHv4ap1oBrQ/surto-asfixia-1-.jpg"
+    },
+    {
+      "titulo": "De vagas remotas a concurso para professores: confira oportunidades de emprego e estudo no Ceará nesta segunda-feira (24)",
+      "imagem": "https://s2-g1.glbimg.com/gHry5hwCtJR-qxwREBdHVWiuKYA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/A/2/Agnhe5SOmrwGx4iccLJw/headway-5qgiuubxkwm-unsplash.jpg"
+    },
+    {
+      "titulo": "O 'segundo aluguel' está mais caro: condomínio sobe acima da inflação e pesa até 40% do aluguel",
+      "imagem": "https://s2-g1.glbimg.com/0M43FoLWCACHXhSJelbG6W_6ASc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/x/wsNHFQTpar4z4zjp1dLQ/78446086-1004.webp"
+    },
+    {
+      "titulo": "Rapel, cão resgatado de encosta na Zona Sul do Rio, ganha lar temporário: 'receber carinho e ser bem cuidado', diz tutora",
+      "imagem": "https://s2-g1.glbimg.com/zcehiSmEzE7dtyX0NymbdeOHskw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/S/6dS1T8TECzD9dGmemkCA/g1-rapel-hoje1.jpg"
+    },
+    {
+      "titulo": "PAT começa a semana com 700 vagas de emprego em São José dos Campos; veja como se candidatar",
+      "imagem": "https://s2-g1.glbimg.com/cGMf30CCrKzWvd0wFTE6Rysi4zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/e/YQYJ8ORa6Gezr65TwV2g/empregos-sine-marataizes-gmd-reg-26-02-26.mov-snapshot-02.37.157.jpg"
+    },
+    {
+      "titulo": "IAs mudam respostas políticas conforme usuário se declara de esquerda ou direita, aponta estudo",
+      "imagem": "https://s2-g1.glbimg.com/JVTniidVvgW20H03wc7qVj43flQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/p/TaDsFPTAutTfH3An2tEg/maos-femininas-digitando-no-teclado-computador.jpg"
+    },
+    {
+      "titulo": "Casa de BH é cenário de filme vencedor do Festival de Cinema de Gramado",
+      "imagem": null
+    },
+    {
+      "titulo": "'Camping VIP dentro do camping': por que a Vila do Jon virou um dos lugares mais cobiçados do Barretão",
+      "imagem": "https://s2-g1.glbimg.com/v9P5NBpnUNcGBGSZ3d4oBKJE_OY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/U/MvsYPsQiCMtXwkFJYAjw/jon-vlogs-ricardo-nasi.png"
+    },
+    {
       "titulo": "Azulejo manchado e piso do box encardido: o passo a passo seguro para limpar o banheiro sem misturar produtos perigosos",
       "imagem": "https://s2-g1.glbimg.com/BK5lSw0iOV9G5sspBr9tssW8Ky8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/y/J2OAecSdCxdyWACGVoLA/pexels-liliana-drew-9462638.jpg"
     },
@@ -79,47 +119,7 @@
     {
       "titulo": "Campanha nacional coleta DNA de familiares de pessoas desaparecidas; veja como participar",
       "imagem": "https://s2-g1.glbimg.com/hkVGtGsUgV6Bgrdqa7R0D7wCnSk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/c/aLo6QaTJWhAykZSxA4rA/21.8.-divulgacao-2.jpeg"
-    },
-    {
-      "titulo": "Primeiro padre exorcista da Serra do RS assume função e já tem fila de espera para atendimentos; como funciona ritual cercado de mitos",
-      "imagem": "https://s2-g1.glbimg.com/9DkPATJNIS-TcNifmZT7Afy-nyw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/q/oF8yAcTAGJcQBtc4WjAw/exorcismo-ja-2108-1-.mov-frame-12.png"
-    },
-    {
-      "titulo": "Google, Apple e mais: veja como é trabalhar nas empresas mais valiosas no mundo",
-      "imagem": "https://s2-g1.glbimg.com/B2hok4lqvqlP_UMhoPQCeylCd5E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/B/x/x5mLJOT4mCixwbsTaFRw/google-sp.jpg"
-    },
-    {
-      "titulo": "Como pesquisas militares dos EUA viraram base para os cães-robôs da China",
-      "imagem": "https://s2-g1.glbimg.com/toJGak9DJmV7N477Bjq8LazBZBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/j/MUwdniRWSakTLeor16sA/2025-10-27t022712z-1337835009-rc2ghda5rl6f-rtrmadp-3-china-ai-military.jpg"
-    },
-    {
-      "titulo": "FOTOS: Matogrosso e Mathias na Festa do Peão de Barretos 2026",
-      "imagem": "https://s2-g1.glbimg.com/Sp9HWvggTLsHK4g18lumDNwY5RM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/4/xWKqyRT1OUVlECJGf3Hg/dsc04112.jpg"
-    },
-    {
-      "titulo": "ESPECIAL ELEIÇÕES: o que esperar das nossas relações com o mundo? - O Assunto #1789",
-      "imagem": "https://s2-g1.glbimg.com/gZvZgfaV_GPttB6J1n0mKVTXkc0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/JIaO3DQPe8QwL2CCnMTw/design-sem-nome.png"
-    },
-    {
-      "titulo": "Belo embala românticos e encerra última noite do Festival de Inverno Bahia com sucessos da carreira",
-      "imagem": "https://s2-g1.glbimg.com/7XXT5hyxVFGpSf7mPX6FTxqWTlo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/K/jZBEuKSaehWvvYyDV9sA/whatsapp-image-2026-08-24-at-00.09.47.jpeg"
-    },
-    {
-      "titulo": "Matogrosso &amp; Mathias fazem 1º show só de modão da Festa do Peão de Barretos 2026",
-      "imagem": "https://s2-g1.glbimg.com/bQetS-3rKkqveGFYOf2TEHV_7hQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/6/mJZhjhS9qJXUguyiTTRg/dsc04273.jpg"
-    },
-    {
-      "titulo": "Uma das vozes mais antigas em atividade na Festa do Peão, Matogrosso relembra estreia em 1977: 'Não podia falar nada'",
-      "imagem": "https://s2-g1.glbimg.com/bQetS-3rKkqveGFYOf2TEHV_7hQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/6/mJZhjhS9qJXUguyiTTRg/dsc04273.jpg"
-    },
-    {
-      "titulo": "Estoque disponível ajuda a evitar interrupções na obra",
-      "imagem": "https://s2-g1.glbimg.com/uDvkgy9xA7lG4t7XH6_nwtqyOho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/t/0958FySmqgVhRS3BMLMQ/formato-g1.-25-.png"
-    },
-    {
-      "titulo": "Montes Claros tem a melhor rede municipal de Ensino das maiores cidades de Minas",
-      "imagem": "https://s2-g1.glbimg.com/AvX250t8721H-DiA-jZvMVN783g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/S/DODt9eSyytBuRfKxBF7A/escola-bolivar-de-andrade2.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-24T07:35:57.260Z"
+  "atualizadoEm": "2026-08-24T08:25:21.499Z"
 }
