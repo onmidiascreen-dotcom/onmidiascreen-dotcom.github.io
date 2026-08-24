@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "Quem é Danilo Mesquita, suposto novo affair de Anitta",
+      "imagem": null
+    },
+    {
+      "titulo": "Membro do BCE considera risco de estagflação decorrente da crise em Ormuz",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasileiro agradece Jorge Jesus após troca de posição: “Mudou minha vida”",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump diz que Irã está &#8220;colapsando&#8221; enquanto EUA aumentam pressão econômica",
+      "imagem": null
+    },
+    {
+      "titulo": "Estudo descobre 40 mil novos vírus em metrô, bancos, hospitais e esgoto",
+      "imagem": null
+    },
+    {
+      "titulo": "Vídeo: Homem fica ferido após explosão de botijão de gás no Jaraguá, em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Associação orienta prefeituras sobre &#8220;Super El Niño&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Dólar sobe na abertura com sanções dos EUA ao Irã em destaque",
+      "imagem": null
+    },
+    {
+      "titulo": "Anvisa aprova segunda caneta de semaglutida genérica do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Palmeiras avança em negociação para contratar goleiro da Portuguesa",
+      "imagem": null
+    },
+    {
+      "titulo": "Tesouro dos EUA ampliará alcance de sanções secundárias ao Irã, diz agência",
+      "imagem": null
+    },
+    {
+      "titulo": "Lito Sousa: entenda como é feito diagnóstico da doença de Creutzfeldt-Jakob",
+      "imagem": null
+    },
+    {
+      "titulo": "SoftBank planeja emissão recorde de títulos com aposta em IA",
+      "imagem": null
+    },
+    {
+      "titulo": "Pé-de-meia começa a pagar parcelas de agosto esta segunda-feira (24)",
+      "imagem": null
+    },
+    {
+      "titulo": "Navio é atingido no Mar Vermelho perto da costa da Arábia Saudita",
+      "imagem": null
+    },
+    {
+      "titulo": "Vocalista do Sorriso Maroto é hospitalizado após desidratação",
+      "imagem": null
+    },
+    {
+      "titulo": "Esposa de Lito Sousa atualiza sobre buscas por tratamento para doença rara",
+      "imagem": null
+    },
+    {
+      "titulo": "Bolsas da Ásia fecham em baixa com novas sanções dos EUA ao Irã",
+      "imagem": null
+    },
+    {
+      "titulo": "Irã adverte Bulgária sobre facilitar ataques dos EUA e de Israel",
+      "imagem": null
+    },
+    {
       "titulo": "Mulher é presa após aplicar golpes com pacotes de viagem falsos no Rio",
       "imagem": null
     },
@@ -41,85 +117,9 @@
       "imagem": null
     },
     {
-      "titulo": "Braskem entra com pedido de recuperação extrajudicial, dizem fontes",
-      "imagem": null
-    },
-    {
-      "titulo": "Rodovia brasileira corta a Mata Atlântica com viadutos gigantes; entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Alison dos Santos vence etapa da Silésia nos 400m com barreiras",
-      "imagem": null
-    },
-    {
-      "titulo": "TRE-SP rejeita recurso e mantém Pablo Marçal inelegível",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja momento em que avião faz pouso forçado na água em praia dos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Kimi Antonelli aponta McLaren como nova ameaça à Mercedes na Fórmula 1",
-      "imagem": null
-    },
-    {
-      "titulo": "Borra de café no vaso sanitário realmente elimina odores? Entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Eneva vende R$2,4 bi em debêntures, sendo metade ao BTG Pactual",
-      "imagem": null
-    },
-    {
-      "titulo": "Gabriela Duarte expõe incômodo sobre entrevista com a mãe: &#8220;Deselegante&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Fabinho é anunciado pelo Trabzonspor e reencontra Salah na Turquia",
-      "imagem": null
-    },
-    {
-      "titulo": "Bola do gol de mão de Maradona na Copa de 1986 é leiloada por R$ 17 milhões",
-      "imagem": null
-    },
-    {
-      "titulo": "Nexus/BTG: 49% rejeitam voto em Lula; 48%, em Flávio",
-      "imagem": null
-    },
-    {
-      "titulo": "Mediador, Paquistão se reúne com Irã enquanto EUA ameaçam &#8220;Dia D econômico&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Chefe da McLaren exalta confiança de Norris: “Mais forte a cada corrida”",
-      "imagem": null
-    },
-    {
-      "titulo": "Nexus/BTG: avaliação negativa do governo Lula é de 43%; positiva, 35%",
-      "imagem": null
-    },
-    {
-      "titulo": "Pesquisa revela que 19% de jovens da Geração Z no Brasil são fumantes",
-      "imagem": null
-    },
-    {
-      "titulo": "Coleta de DNA de familiares de pessoas desaparecidas: veja como participar",
-      "imagem": null
-    },
-    {
-      "titulo": "Nexus/BTG: 49% desaprovam governo Lula; 48% aprovam",
-      "imagem": null
-    },
-    {
-      "titulo": "Ex-NBA é expulso de jogo após discussão com estrela da WNBA; veja vídeo",
-      "imagem": null
-    },
-    {
-      "titulo": "Irã escala tensões em Ormuz e ameaça 45 navios com multas e confisco",
+      "titulo": "Braskem entra com pedido de recuperação extrajudicial",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-24T12:41:06.034Z"
+  "atualizadoEm": "2026-08-24T13:36:52.668Z"
 }
