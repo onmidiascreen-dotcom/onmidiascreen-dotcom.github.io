@@ -1,6 +1,86 @@
 {
   "noticias": [
     {
+      "titulo": "Solidariedade diz ao STF que indicação de emendas do partido ocorreu 'sem interferências'",
+      "imagem": null
+    },
+    {
+      "titulo": "Nattan quer Barretos para outros ritmos, mas defende que eventos preservem a essência: 'Viola no campo, sanfona na vaquejada'",
+      "imagem": "https://s2-g1.glbimg.com/OCRr5H3ObYRUxq-FERZ_2bMJv5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/V/K1eblYTOWtBL8LtyelLg/dsc03867.jpg"
+    },
+    {
+      "titulo": "Jovem de 19 anos é morto a tiros em Salvador",
+      "imagem": null
+    },
+    {
+      "titulo": "Empresária que morreu após plástica: equipe médica tentou reanimação por quase duas horas, diz família",
+      "imagem": "https://s2-g1.glbimg.com/aVFdJcbQt7PfAlTPZ2_ZhGbJ19Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/P/dSgm0GTVKl84BfBByeww/jpg-1-.jfif"
+    },
+    {
+      "titulo": "Assista ao Bom Dia Amapá desta segunda  (24)",
+      "imagem": "https://s2-g1.glbimg.com/zyIVvAurVmCZRuzeAUYA2ME8sds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/0/4r8iLaTJid6mGA8DBHIQ/whatsapp-image-2025-12-01-at-07.10.20.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: cachorro é morto a tiros na Tijuca após se aproximar de homem que passeava com outro cão",
+      "imagem": "https://s2-g1.glbimg.com/GbBaULbv_QSTtAy5ZxwIsHksL28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/k/H3WTPhTKib9QAKxwrALQ/g1-crime-cao2-vl.jpg"
+    },
+    {
+      "titulo": "União Europeia libera mais R$ 36 bilhões em ajuda militar para a Ucrânia",
+      "imagem": null
+    },
+    {
+      "titulo": "Jovem de 18 anos denuncia agressão com arma durante briga em condomínio no PI",
+      "imagem": "https://s2-g1.glbimg.com/AoP6EB6rhSBVnScJ89zR8F2eeuw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/S/1r6b3eTymRLDLayQnaiA/edicao-imagens-g1-67-.jpg"
+    },
+    {
+      "titulo": "Alto Tietê tem mais de 4,8 mil vagas de emprego nesta segunda-feira; veja lista",
+      "imagem": "https://s2-g1.glbimg.com/t5FIEbqVAjnZj7K6vUsrsRRmWKA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/E/H41pP5To6gy44N8nBi1g/regras-entrevista-df2.transfer-xcode-mix-655-frame-43.jpeg"
+    },
+    {
+      "titulo": "Ceará tem 53 cidades com alerta de ventos intensos nesta segunda (24): confira lista",
+      "imagem": "https://s2-g1.glbimg.com/VKz-SV_FEXs8o_7DfPQzxYvsBYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/3/pubG70QBGR2wrO2FNMLQ/duna-ceara-ok.jpg"
+    },
+    {
+      "titulo": "Rio Rotativo Digital é ampliado para São Conrado, Barra da Tijuca e Tijuca",
+      "imagem": "https://s2-g1.glbimg.com/m71wh0fus7rVPYec_uqIOHnTwPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/q/ke2BgvScuZLqOxpK27AQ/rio-rotativo1.jpeg"
+    },
+    {
+      "titulo": "Fatecs abrem prazo para pedir isenção ou desconto de 50% na taxa do Vestibular 2027; veja quem tem direito",
+      "imagem": "https://s2-g1.glbimg.com/eg1s8foBWqxQXYaBdOh4WhGcLZg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/9/bQyphqRnWzhNBKExp8qQ/whatsapp-image-2026-07-06-at-18.29.49-1-.jpeg"
+    },
+    {
+      "titulo": "Acidente entre ônibus e caminhão deixa mortos e interdita BR-040 na Grande BH; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/_y9aF-Yrk3NJufIlgMh1Prbiz8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/b/QaGPmHRJSqNXZ2hlsufA/acidente-2.png"
+    },
+    {
+      "titulo": "Irã alerta sobre 'consequências' para países que aderirem à pressão econômica dos EUA",
+      "imagem": "https://s2-g1.glbimg.com/p76ezcqBNifQDqrVx9UJ9iy179s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/t/6D3OxCTtCmij8SrbAY7w/novo-projeto-4-.jpg"
+    },
+    {
+      "titulo": "AO VIVO: assista à programação da NSC TV",
+      "imagem": null
+    },
+    {
+      "titulo": "Suspeitos explodem posto de combustíveis e trocam tiros com a polícia, em João Pessoa; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/0TX45Vug326ZU_fRk4rhci_JZMw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/c/o6JHytTGWeye0RAwbz0Q/whatsapp-image-2026-08-24-at-06.28.45.jpeg"
+    },
+    {
+      "titulo": "Acusado de ameaçar e extorquir vendedores da Beira Mar de Fortaleza é condenado a 24 anos de prisão",
+      "imagem": "https://s2-g1.glbimg.com/6NSrd8dlT_zy2FQTftvolkDdDys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/l/BIEvt7Qf2xaxCUtXAacw/ph-2.jpg"
+    },
+    {
+      "titulo": "Massa de ar frio derruba temperaturas e RS tem mínima de -2,5°C",
+      "imagem": "https://s2-g1.glbimg.com/JWyGGfio-xNnTSFqZqq0b9kslgE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/l/Ns1bNlTemGnNzktIqaow/4685970-ad6968dbba0aafe.jpg"
+    },
+    {
+      "titulo": "VÍDEO: influenciador Moskitão vira réu por importunação sexual e discriminação contra Tokinho, que tem nanismo",
+      "imagem": "https://s2-g1.glbimg.com/r2LARbArL03B0qRjp-44iPbrGnc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Q/6nzdmCTzOZ5syjwVNAog/fotojet-30-.jpg"
+    },
+    {
+      "titulo": "Projeto oferece 75 vagas para aulas gratuitas de judô em Salvador",
+      "imagem": "https://s2-g1.glbimg.com/IoZRP_fs8gkjL32amOxlHQrnSRo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/a/5/7oiHruQDmzXTIDiTy38Q/as-inscricoes-devem-ser-realizadas-junto-a-coordenadoria-municipal-de-esporte.jpg"
+    },
+    {
       "titulo": "Festa do Peão de Barretos 2026: veja a programação desta segunda-feira, 24 de agosto",
       "imagem": "https://s2-g1.glbimg.com/h80w1-ZTQtmWMeoS8UaUEgl66mw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/D/uey2FzT7mW5trzn8oFXw/molduras-g1-2026-08-17t165813.301.png"
     },
@@ -39,87 +119,7 @@
     {
       "titulo": "Cadela é internada em estado grave após ser abandonada em calçada no litoral de SP; VÍDEO",
       "imagem": "https://s2-g1.glbimg.com/pMlLo1UC9yenGDxZ2o0AqpZ7OD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/L/YRfd2MQbeRnmu1LxsrjA/cachorra-abandonada.jpg"
-    },
-    {
-      "titulo": "Policial reencontra cantor sertanejo que o atendeu após ser baleado há 18 anos: 'Grande presente'",
-      "imagem": "https://s2-g1.glbimg.com/YU7J2wHE73ce8CPrQxK0qwNj0Q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/5/pZV2jQR3mDKwqQRxkzEA/reencontro-policial.jpg"
-    },
-    {
-      "titulo": "Testemunha disse à PM que homem morto por asfixia estava 'agressivo' antes de ser imobilizado e amarrado",
-      "imagem": "https://s2-g1.glbimg.com/vU3IgG4mhGsQTuGj_rc1Wu9EDzE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/5/jXBOZkSr2IHv4ap1oBrQ/surto-asfixia-1-.jpg"
-    },
-    {
-      "titulo": "De vagas remotas a concurso para professores: confira oportunidades de emprego e estudo no Ceará nesta segunda-feira (24)",
-      "imagem": "https://s2-g1.glbimg.com/gHry5hwCtJR-qxwREBdHVWiuKYA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/A/2/Agnhe5SOmrwGx4iccLJw/headway-5qgiuubxkwm-unsplash.jpg"
-    },
-    {
-      "titulo": "O 'segundo aluguel' está mais caro: condomínio sobe acima da inflação e pesa até 40% do aluguel",
-      "imagem": "https://s2-g1.glbimg.com/0M43FoLWCACHXhSJelbG6W_6ASc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/x/wsNHFQTpar4z4zjp1dLQ/78446086-1004.webp"
-    },
-    {
-      "titulo": "Rapel, cão resgatado de encosta na Zona Sul do Rio, ganha lar temporário: 'receber carinho e ser bem cuidado', diz tutora",
-      "imagem": "https://s2-g1.glbimg.com/zcehiSmEzE7dtyX0NymbdeOHskw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/S/6dS1T8TECzD9dGmemkCA/g1-rapel-hoje1.jpg"
-    },
-    {
-      "titulo": "PAT começa a semana com 700 vagas de emprego em São José dos Campos; veja como se candidatar",
-      "imagem": "https://s2-g1.glbimg.com/cGMf30CCrKzWvd0wFTE6Rysi4zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/e/YQYJ8ORa6Gezr65TwV2g/empregos-sine-marataizes-gmd-reg-26-02-26.mov-snapshot-02.37.157.jpg"
-    },
-    {
-      "titulo": "IAs mudam respostas políticas conforme usuário se declara de esquerda ou direita, aponta estudo",
-      "imagem": "https://s2-g1.glbimg.com/JVTniidVvgW20H03wc7qVj43flQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/p/TaDsFPTAutTfH3An2tEg/maos-femininas-digitando-no-teclado-computador.jpg"
-    },
-    {
-      "titulo": "Casa de BH é cenário de filme vencedor do Festival de Cinema de Gramado",
-      "imagem": null
-    },
-    {
-      "titulo": "'Camping VIP dentro do camping': por que a Vila do Jon virou um dos lugares mais cobiçados do Barretão",
-      "imagem": "https://s2-g1.glbimg.com/v9P5NBpnUNcGBGSZ3d4oBKJE_OY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/U/MvsYPsQiCMtXwkFJYAjw/jon-vlogs-ricardo-nasi.png"
-    },
-    {
-      "titulo": "Azulejo manchado e piso do box encardido: o passo a passo seguro para limpar o banheiro sem misturar produtos perigosos",
-      "imagem": "https://s2-g1.glbimg.com/BK5lSw0iOV9G5sspBr9tssW8Ky8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/y/J2OAecSdCxdyWACGVoLA/pexels-liliana-drew-9462638.jpg"
-    },
-    {
-      "titulo": "Emprego: veja as vagas disponíveis em Petrolina e Salgueiro",
-      "imagem": "https://s2-g1.glbimg.com/bfuzjokceWINyrdbtLdzvnUOMf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/j/idzhhdTymfCDabPbXjAQ/captura-de-tela-2024-05-03-as-10.38.26.png"
-    },
-    {
-      "titulo": "'Estrelas da Casa' estreia 3ª temporada com duelo entre pop e pagode; entenda novas dinâmicas",
-      "imagem": "https://s2-g1.glbimg.com/yVyPTPNfTpRZPZTxiYydb56YqHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/n/vsWvbITyqDlp0AAGDFKA/fotos-g1-1920-x-1080-px-2026-08-21t181400.882.png"
-    },
-    {
-      "titulo": "30 anos depois, ainda tem gente que não entendeu o clipe de 'Virtual Insanity' do Jamiroquai…",
-      "imagem": "https://s2-g1.glbimg.com/n6pERAZ4enzaqVeMQDpsEzHXH98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/jVasYSSYeB4cjMLOc6AA/jamiroquai.jpg"
-    },
-    {
-      "titulo": "Entenda por que caso de tortura em SP chegou à lista da Interpol e mobilizou autoridades de Portugal",
-      "imagem": "https://s2-g1.glbimg.com/a79TcH3pmodIEcYv4LGCC-R_Uww=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/k/l6khzpQJKq2qLLLPrNHA/design-sem-nome-6-.jpg"
-    },
-    {
-      "titulo": "Metrô de BH terá intervalos maiores entre os trens nesta semana; saiba mais",
-      "imagem": "https://s2-g1.glbimg.com/joqlut9DemCxdMfLCIKT7aZ-8lg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/m/7/L2aZmqQGaxkKLfJDjCFQ/img-0743.jpg"
-    },
-    {
-      "titulo": "Segurança preso pelo espancamento de Cláudio Rafael chegou à DP para depor pedalando bicicleta usada pela vítima",
-      "imagem": "https://s2-g1.glbimg.com/fymMSxoV6fI4SbyULb0crbB_1Do=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/O/INThTxRamAm0883XhhcQ/imagem-cortada-3-.jpg"
-    },
-    {
-      "titulo": "VÍDEO: sobrevoo cataloga 90 baleias-francas em uma única cidade de SC no mesmo dia",
-      "imagem": "https://s2-g1.glbimg.com/eBNVcr2dytoabBKoWbJK_o5FYsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/8/xU7GQoTBCOsB60L4uaEA/segundo-sobrevoo-temporadas-das-baleias-.png"
-    },
-    {
-      "titulo": "Trocou R$ 3,5 mil na CLT por cachê de R$ 25 mil: a história do sósia do Gabigol, o 'Gabigol da Torcida'",
-      "imagem": "https://s2-g1.glbimg.com/PU8ur-ELY9wZamR1LjJONlx8juc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/m/hi8TEoTCSGvaIpuljk6Q/fotos-g1-1920-x-1080-px-2026-08-18t230619.018.png"
-    },
-    {
-      "titulo": "PM amplia ação no Complexo de Israel; vias expressas voltam a ser fechadas, e há registros de confrontos",
-      "imagem": null
-    },
-    {
-      "titulo": "Simples Nacional muda em 2027: empresas têm até setembro para escolher como pagar novos impostos",
-      "imagem": "https://s2-g1.glbimg.com/DIILVism1SSwTaUd3ZW9V52Hylw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/e/hiO7y9SXKi0oruhw3PBA/prazo-dasn-mei-2022-1170x780.jpg-p28303-cover-image-resized-1-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-24T09:12:36.667Z"
+  "atualizadoEm": "2026-08-24T10:04:39.076Z"
 }
