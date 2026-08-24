@@ -1,6 +1,46 @@
 {
   "noticias": [
     {
+      "titulo": "Azulejo manchado e piso do box encardido: o passo a passo seguro para limpar o banheiro sem misturar produtos perigosos",
+      "imagem": "https://s2-g1.glbimg.com/BK5lSw0iOV9G5sspBr9tssW8Ky8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/y/J2OAecSdCxdyWACGVoLA/pexels-liliana-drew-9462638.jpg"
+    },
+    {
+      "titulo": "Emprego: veja as vagas disponíveis em Petrolina e Salgueiro",
+      "imagem": "https://s2-g1.glbimg.com/bfuzjokceWINyrdbtLdzvnUOMf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/j/idzhhdTymfCDabPbXjAQ/captura-de-tela-2024-05-03-as-10.38.26.png"
+    },
+    {
+      "titulo": "'Estrelas da Casa' estreia 3ª temporada com duelo entre pop e pagode; entenda novas dinâmicas",
+      "imagem": "https://s2-g1.glbimg.com/yVyPTPNfTpRZPZTxiYydb56YqHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/n/vsWvbITyqDlp0AAGDFKA/fotos-g1-1920-x-1080-px-2026-08-21t181400.882.png"
+    },
+    {
+      "titulo": "30 anos depois, ainda tem gente que não entendeu o clipe de 'Virtual Insanity' do Jamiroquai…",
+      "imagem": "https://s2-g1.glbimg.com/n6pERAZ4enzaqVeMQDpsEzHXH98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/jVasYSSYeB4cjMLOc6AA/jamiroquai.jpg"
+    },
+    {
+      "titulo": "Entenda por que caso de tortura em SP chegou à lista da Interpol e mobilizou autoridades de Portugal",
+      "imagem": "https://s2-g1.glbimg.com/a79TcH3pmodIEcYv4LGCC-R_Uww=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/k/l6khzpQJKq2qLLLPrNHA/design-sem-nome-6-.jpg"
+    },
+    {
+      "titulo": "Metrô de BH terá intervalos maiores entre os trens nesta semana; saiba mais",
+      "imagem": "https://s2-g1.glbimg.com/joqlut9DemCxdMfLCIKT7aZ-8lg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/m/7/L2aZmqQGaxkKLfJDjCFQ/img-0743.jpg"
+    },
+    {
+      "titulo": "Segurança preso pelo espancamento de Cláudio Rafael chegou à DP para depor pedalando bicicleta usada pela vítima",
+      "imagem": "https://s2-g1.glbimg.com/fymMSxoV6fI4SbyULb0crbB_1Do=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/O/INThTxRamAm0883XhhcQ/imagem-cortada-3-.jpg"
+    },
+    {
+      "titulo": "VÍDEO: sobrevoo cataloga 90 baleias-francas em uma única cidade de SC no mesmo dia",
+      "imagem": "https://s2-g1.glbimg.com/eBNVcr2dytoabBKoWbJK_o5FYsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/8/xU7GQoTBCOsB60L4uaEA/segundo-sobrevoo-temporadas-das-baleias-.png"
+    },
+    {
+      "titulo": "Trocou R$ 3,5 mil na CLT por cachê de R$ 25 mil: a história do sósia do Gabigol, o 'Gabigol da Torcida'",
+      "imagem": "https://s2-g1.glbimg.com/PU8ur-ELY9wZamR1LjJONlx8juc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/m/hi8TEoTCSGvaIpuljk6Q/fotos-g1-1920-x-1080-px-2026-08-18t230619.018.png"
+    },
+    {
+      "titulo": "Bope faz operação na Zona Norte do Rio; há registros de confrontos na região",
+      "imagem": null
+    },
+    {
       "titulo": "Simples Nacional muda em 2027: empresas têm até setembro para escolher como pagar novos impostos",
       "imagem": "https://s2-g1.glbimg.com/DIILVism1SSwTaUd3ZW9V52Hylw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/e/hiO7y9SXKi0oruhw3PBA/prazo-dasn-mei-2022-1170x780.jpg-p28303-cover-image-resized-1-.jpg"
     },
@@ -79,47 +119,7 @@
     {
       "titulo": "Montes Claros tem a melhor rede municipal de Ensino das maiores cidades de Minas",
       "imagem": "https://s2-g1.glbimg.com/AvX250t8721H-DiA-jZvMVN783g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/S/DODt9eSyytBuRfKxBF7A/escola-bolivar-de-andrade2.jpg"
-    },
-    {
-      "titulo": "Macaé é única cidade fora da capital do RJ a oferecer caneta emagrecedora",
-      "imagem": "https://s2-g1.glbimg.com/4yjvtm7pZrMtOiY7_20SYcDXJBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/4/yfzHn9SLCFr1TpHPM9fA/foto-1-canetas-emagracedoras.jpeg"
-    },
-    {
-      "titulo": "Montes Claros tem a melhor rede municipal de Ensino das maiores cidades de Minas",
-      "imagem": "https://s2-g1.glbimg.com/pkZNPrDUngI6ic-_FYoo3Ik7ND0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/c/WXBt4yRuuhpNUC5RxAPw/escola-bolivar-de-andrade2-1-.jpg"
-    },
-    {
-      "titulo": "Pedágio fica mais caro em seis rodovias da BR-050 a partir desta segunda; veja novos valores",
-      "imagem": "https://s2-g1.glbimg.com/KYRnGmieOwN9pNPHtoGj7gF3URs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/w/BB8bQVRBq2y88eHjC45g/jl-tm-42-.jpg"
-    },
-    {
-      "titulo": "Presidenciáveis querem Brasil próximo da Ásia e EUA, fortalecer o Mercosul e deixar o Brics; veja propostas para política externa",
-      "imagem": "https://s2-g1.glbimg.com/3iHj6s8TY95lizYfu40pGHXhVVA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/WttqeCTaWWzxHe9EkvKQ/presidenciaveis-02.jpg"
-    },
-    {
-      "titulo": "23% dos candidatos disputam cargos em estados diferentes daqueles em que nasceram",
-      "imagem": "https://s2-g1.glbimg.com/-lY2gaMjS4M1cyDWQvIyxg7Yo4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/6afOSPQVOhvRV5FtY8Rg/urna.jpeg"
-    },
-    {
-      "titulo": "Quase 3 em cada 10 candidatos de 2026 são estreantes nas urnas",
-      "imagem": "https://s2-g1.glbimg.com/dgmvfTqVetsfXCjgU7TG3CpCXWM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/o/gs1yHFSXWvQYgh5H6fxA/rbr2526.jpg"
-    },
-    {
-      "titulo": "VÍDEO: entenda como os posts de campanha chegam até o eleitor",
-      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
-    },
-    {
-      "titulo": "Romeu Zema participa nesta segunda de série de entrevistas da Globo com candidatos a presidente; saiba como assistir",
-      "imagem": "https://s2-g1.glbimg.com/OtTS5Cw3xj_7emGdj0eVebzuoNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/6/oaKPOiTwmiOTNTaynLAQ/fta20260819050.jpg"
-    },
-    {
-      "titulo": "Frio segue no RS, que pode começar semana com temperaturas negativas; veja a previsão",
-      "imagem": "https://s2-g1.glbimg.com/CDahO3wUQ3c1k_GjwboubxN_uyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/S/f6iRBETeuKT60D4CkIXQ/g1-73-.jpg"
-    },
-    {
-      "titulo": "Laudo aponta hemorragia interna e traumatismo craniano como causas da morte de Cláudio Rafael; agressores deram 63 golpes",
-      "imagem": "https://s2-g1.glbimg.com/4EIUEFWt1fDpZLuWitjGuGab7uM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/r/k3w2XhTqCNF4U7pAqGgg/whatsapp-image-2026-08-21-at-16.10.50-1-.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-24T06:23:16.748Z"
+  "atualizadoEm": "2026-08-24T07:35:57.260Z"
 }
