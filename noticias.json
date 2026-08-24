@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Kassab afirma que nunca falou de apoio a Lula em eventual 2º turno",
+      "imagem": null
+    },
+    {
       "titulo": "Tufão provoca retirada de mais de 50 mil pessoas no sudoeste da China",
       "imagem": null
     },
@@ -115,11 +119,7 @@
     {
       "titulo": "Caiado diz que Lula &#8220;provoca Trump&#8221; e que Itamaraty é &#8220;porta-voz do PT&#8221;",
       "imagem": null
-    },
-    {
-      "titulo": "Candidatos iniciam debate com foco em segurança e críticas à educação",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-24T05:34:27.025Z"
+  "atualizadoEm": "2026-08-24T06:23:15.073Z"
 }

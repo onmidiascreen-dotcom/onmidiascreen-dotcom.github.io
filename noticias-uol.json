@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Porta-aviões dos EUA passa 270 dias no mar e enfrenta falta de comida",
+      "imagem": null
+    },
+    {
       "titulo": "De Olho no Voto analisa o primeiro debate presidencial de 2026",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Ernesto Paglia questiona Ronaldo Caiado (PSD) sobre o combate ao crime no debate presidencial",
       "imagem": null
-    },
-    {
-      "titulo": "Folha lança Carga Humana, série sobre tráfico de brasileiros no Camboja",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-24T05:34:26.243Z"
+  "atualizadoEm": "2026-08-24T06:23:15.359Z"
 }
