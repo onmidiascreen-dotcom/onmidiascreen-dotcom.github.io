@@ -40,6 +40,11 @@ async function buscarFonte(chave, url) {
     // subdomínios uol.com.br sem uma seção fixa), então segue sem filtro por enquanto.
     .filter((n) => !(chave === 'g1' && /g1\.globo\.com\/mundo\//.test(n.link)))
     .filter((n) => !(chave === 'cnn' && /cnnbrasil\.com\.br\/internacional\//.test(n.link)))
+    // G1 também publica recapitulação de telejornal local como "notícia" (título tipo
+    // "VÍDEOS: JL1 de segunda-feira, 24 de agosto de 2026", sem manchete nenhuma por trás).
+    // O link varia (/edicao/, /playlist/...) mas o título sempre começa com "VÍDEOS:" no
+    // plural — diferente de notícia real com vídeo, que usa "VÍDEO:" no singular.
+    .filter((n) => !/^V[ÍI]DEOS:/i.test(n.titulo))
     .map(({ titulo, imagem }) => ({ titulo, imagem })) // link só serve pra filtrar, não vai pro JSON salvo
     .slice(0, 30); // guarda mais manchetes: mais variedade girando, inclusive offline
 
