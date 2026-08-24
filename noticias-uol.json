@@ -1,51 +1,31 @@
 {
   "noticias": [
     {
-      "titulo": "Pesquisa senador SP: veja números do levantamento RealTime Big Data",
+      "titulo": "Brasil Escola Premium: aproveite desconto do Mês do Estudante",
       "imagem": null
     },
     {
-      "titulo": "Ao contrário de Bolsonaro, Lula não está protegendo o filho, diz Haddad",
+      "titulo": "Homem é internado após ser baleado por PM em SP; Família contesta ação",
       "imagem": null
     },
     {
-      "titulo": "Trump anuncia que vai aumentar em 50% tarifas sobre carros e aço do Canadá em 2027",
+      "titulo": "Ex-prefeito de cidade de MT diz se orgulhar de desmatar 30 mil hectares",
       "imagem": null
     },
     {
-      "titulo": "Palmeiras renova com Gustavo Gómez até 2030, e Abel admite perder Allan",
+      "titulo": "Uma janela para a realidade",
       "imagem": null
     },
     {
-      "titulo": "Entidades dizem que críticas de Flávio Bolsonaro à mistura na gasolina desinformam consumidor",
+      "titulo": "Homem mata ex-mulher e atual companheiro dela a tiros em SC",
       "imagem": null
     },
     {
-      "titulo": "Israel impede dois eurodeputados suecos de visitarem a Cisjordânia",
+      "titulo": "Dois capacetes azuis da ONU morrem em emboscada no Sudão do Sul",
       "imagem": null
     },
     {
-      "titulo": "Airbus planeja produzir no Brasil o H145, helicóptero igual ao do Neymar",
-      "imagem": null
-    },
-    {
-      "titulo": "Pesquisa para governador de SP: veja números do novo levantamento",
-      "imagem": null
-    },
-    {
-      "titulo": "Braskem pedirá recuperação extrajudicial para reestruturar dívida",
-      "imagem": null
-    },
-    {
-      "titulo": "Suspeito de matar brasileira na Irlanda é encontrado morto",
-      "imagem": null
-    },
-    {
-      "titulo": "Extrema direita avança e AfD mira vitória histórica no Leste da Alemanha",
-      "imagem": null
-    },
-    {
-      "titulo": "Em crise, Dorival critica o próprio time e Luís Castro cita Abel Ferreira",
+      "titulo": "Sheinbaum descarta volta ao cargo de governador acusado de tráfico pelos EUA",
       "imagem": null
     },
     {
@@ -53,13 +33,33 @@
       "imagem": null
     },
     {
-      "titulo": "Bilhões de reais, máscara mortuária de Mário de Andrade e tênis de corrida: o que declaram os candidatos",
+      "titulo": "Até 100 mil satélites no espaço é um nível suportável para astronomia, diz cientista",
       "imagem": null
     },
     {
-      "titulo": "Governo libera R$ 7,7 bi em verba extra da Saúde que parlamentares tratam como emenda",
+      "titulo": "Campanha diz que Zema faltou ao debate para se preparar para entrevista do Jornal Nacional",
+      "imagem": null
+    },
+    {
+      "titulo": "Haddad diz que não vende ilusão sobre reestatização: 'Melhor trocar gestor'",
+      "imagem": null
+    },
+    {
+      "titulo": "Confio na PF como instituição; não significa que todos lá agem corretamente, diz Haddad",
+      "imagem": null
+    },
+    {
+      "titulo": "Ataque de torcida organizada em dia de Ba-Vi termina com um morto em Salvador",
+      "imagem": null
+    },
+    {
+      "titulo": "Presidente colombiano anuncia início da reconstrução após terremoto",
+      "imagem": null
+    },
+    {
+      "titulo": "Volume de soja inspecionado para exportação nos EUA sobe 43%, diz USDA",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-24T16:32:10.945Z"
+  "atualizadoEm": "2026-08-24T17:15:10.919Z"
 }
