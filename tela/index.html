@@ -222,6 +222,20 @@
 
 <script>
 (() => {
+  // captura qualquer erro de JS/promessa e guarda pra viajar no sinal de vida —
+  // sem isto a tela trava calada e só se descobre de manhã com o board apagado.
+  // Fica só na variável (não limpa sozinho): um sinal com sucesso não prova que
+  // a página se recuperou do travamento, só que a rede está ok.
+  let erroJS = '';
+  window.addEventListener('error', (e) => {
+    erroJS = 'erro JS: ' + (e.message || 'desconhecido')
+      + (e.filename ? ' (' + e.filename.split('/').pop() + ':' + e.lineno + ')' : '');
+  });
+  window.addEventListener('unhandledrejection', (e) => {
+    const r = e.reason;
+    erroJS = 'promessa rejeitada: ' + ((r && r.message) || String(r) || 'desconhecido');
+  });
+
   // grava o player na memória da tela (funciona mesmo ligando sem internet)
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('sw.js')
@@ -780,7 +794,7 @@
             sincronizadoEm: ultimaSincronizacao || null,
             ligadaHa: Math.round((Date.now() - abertoEm) / 60000),
             telaTam: window.innerWidth + 'x' + window.innerHeight,
-            erro: erroDiagnostico   // aparece em vermelho no painel do dono
+            erro: erroJS || erroDiagnostico   // aparece em vermelho no painel do dono; erro de JS prevalece
           }
         })
       });
