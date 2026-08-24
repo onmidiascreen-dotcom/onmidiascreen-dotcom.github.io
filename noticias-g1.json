@@ -1,16 +1,72 @@
 {
   "noticias": [
     {
+      "titulo": "VÍDEOS: Bom Dia Tocantins, de 24 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/l3tr1ZZ4lyAIYKXJB2Xv4lwsXiA=/s01.video.glbimg.com/deo/vi/01/95/2659501"
+    },
+    {
+      "titulo": "Mulher denuncia ter sido agredida e roubada por dupla contratada para obra em banheiro",
+      "imagem": "https://s2-g1.glbimg.com/_paeFRIq_oVG-AXZlX1i2vpM6V8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/w/5kACdbQNAktZIazKkchg/24obra1a.jpg"
+    },
+    {
+      "titulo": "Jornalista Rodrigues Neto, diretor da TV Câmara, morre no dia do aniversário em Natal",
+      "imagem": "https://s2-g1.glbimg.com/3xMsvWBb215haFVOzBS-9sPOhkM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/n/tYHAFxRgSrmJrhtuEAsg/rodrigues-neto.jpg"
+    },
+    {
+      "titulo": "Bom Dia Cidade Piracicaba ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
+    },
+    {
+      "titulo": "VÍDEO: Esposa de Lito Sousa diz que piloto pode passar por entrevista para estudo experimental nos EUA",
+      "imagem": "https://s2-g1.glbimg.com/76y8Z2t_XA70VdkK5RJeFs5zdgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/78uafqR0CUJvp2srJFxA/fotojet-2026-08-24t075454.407.jpg"
+    },
+    {
+      "titulo": "Manaus registra 180 atendimentos por acidentes de trânsito; motos concentram 68% no quarto fim de semana de agosto",
+      "imagem": "https://s2-g1.glbimg.com/GMeZmsRUP0hqE2d2S8PJjuGa0bM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/6/kzoCwxTIeUUXG6RQkIVA/design-sem-nome-98-.png"
+    },
+    {
+      "titulo": "Criança desaparece após entrar no Rio Parnaíba, no Centro-Norte do Piauí; bombeiros fazem buscas",
+      "imagem": "https://s2-g1.glbimg.com/2L3ryOyB4-USFvcgSoWwBzi-jaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/1/9/MtmyraRsOHibJyWdKCzw/whatsapp-image-2020-09-20-at-17.57.42.jpeg"
+    },
+    {
+      "titulo": "Plataforma digital do NAT oferta mais de mil vagas de emprego em Sergipe",
+      "imagem": "https://s2-g1.glbimg.com/MKB-1U-d_YwoH9VOsVF1XDPYf0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/b/8bGwPCRxe0Ct1qYTAiOw/edicao-imagens-g1-29-.png"
+    },
+    {
+      "titulo": "Vídeos do g1 e TV Bahia - segunda-feira, 24 de agosto de 2026",
+      "imagem": "https://s2-g1.glbimg.com/qU-FawccPUTxuiAl4N5EHSuHLGA=/s01.video.glbimg.com/deo/vi/47/49/14894947"
+    },
+    {
+      "titulo": "Lucid lança 1º laboratório de inteligência artificial para o mercado imobiliário",
+      "imagem": "https://s2-g1.glbimg.com/YvW-I_hjMsvlhhQxG2vtHx6yW0Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/z/emMiIrRpSJ2zbU5ByhYQ/henrique-ramos-guilherme-euge-enio-eclesiastes-ju-unior-douglas-mcarthur.jpg"
+    },
+    {
+      "titulo": "IFMS prorroga inscrições para 2,2 mil vagas em cursos técnicos gratuitos",
+      "imagem": "https://s2-g1.glbimg.com/NQoON0SYZqI7xmgkvYg0AnX54Ds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/2/a0OI0FSnAIwpWIyBDnaQ/canva-2026-08-24t065630.711.png"
+    },
+    {
+      "titulo": "VÍDEO: homem é preso suspeito de atropelar mulher no DF",
+      "imagem": "https://s2-g1.glbimg.com/MfZ1RDVaeZrWyW5tGf6v-Y6mShE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/T/nG7uQhRmiE14KM7ji8YQ/av-atropelamento.jpeg"
+    },
+    {
+      "titulo": "Assista ao Bom Dia Vanguarda no g1",
+      "imagem": "https://s2-g1.glbimg.com/eNmYHfknzzliwQJLsNi8qyf2BDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/r/qhMVONTJuDaQtelrYKjA/a64b4644-73da-40c5-b2f0-17b0321381f0.jpg"
+    },
+    {
+      "titulo": "Pista de subida da Serra das Araras será interditada para novas detonações de rochas nesta semana",
+      "imagem": "https://s2-g1.glbimg.com/pdMyBtu8IMZydm7hdGGV67-DXKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/1/w4Ia2fTZS8pSnaPBfiZg/whatsapp-image-2025-07-01-at-17.18.59.jpeg"
+    },
+    {
       "titulo": "Motociclista fica ferido após cair na pista e ser atropelado em Hortolândia; motorista do carro fugiu",
       "imagem": "https://s2-g1.glbimg.com/DhSqRSj1WXU7F4mQrLik-6ss2N4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/8/ElzxmwQQSwuEuDzjeDwA/vlcsnap-2026-08-24-07h38m08s582-resized.png"
     },
     {
       "titulo": "Mulher é presa por aplicar golpes milionários envolvendo pacotes de viagens falsos no Rio",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/Wkk7GpNdL_BIVpIMsEI8m5W2R_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/N/McHrPtRh2pBPnsHAPuqQ/golpe.jpeg"
     },
     {
       "titulo": "Vegetação coberta de gelo e mínima de -9°C marcam amanhecer na Serra de SC; VÍDEO",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/dzk_Srl_7tmQ9c6k8qvviMSZfhE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/f/PDpEopRdOK78f2DGFdHQ/1787568653974966.jpg"
     },
     {
       "titulo": "Paraíba tem mais de 1,9 mil vagas de emprego oferecidas pelos Sines",
@@ -63,63 +119,7 @@
     {
       "titulo": "Homem morre afogado após entrar no rio para tomar banho na Praia do Juá, em Santarém",
       "imagem": "https://s2-g1.glbimg.com/vYjYE8RnpDTmV7uLaLWKEp8o5l4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/L/mbbzRuRVWai65Ssw9aXA/whatsapp-image-2026-08-24-at-07.31.55.jpeg"
-    },
-    {
-      "titulo": "Programa abre 130 vagas com bolsa de R$ 1 mil para jovens da agricultura familiar no PI",
-      "imagem": "https://s2-g1.glbimg.com/-gN0xkWhDvnBzWLVHC-wlk_7TtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/B/5mSUCrSoCs5XhqoK6LQw/maracuja1-1.76.4.jpg.jpeg"
-    },
-    {
-      "titulo": "Anvisa aprova segundo genérico de semaglutida; expectativa é de medicamento 35% mais barato",
-      "imagem": null
-    },
-    {
-      "titulo": "Jovem mata padrasto a facadas e diz que não aguentava agressões à mãe em MS",
-      "imagem": "https://s2-g1.glbimg.com/eFvhQgcVUkbiT8W_dn0Qu1c5Pfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/q/bIhNA5SiOYb2JArhJTNw/canva-2026-08-24t063234.981.png"
-    },
-    {
-      "titulo": "VÍDEO: artista customiza carenagem de moto com canetinhas e trabalho viraliza na web",
-      "imagem": "https://s2-g1.glbimg.com/K_2tXDRrfUXS2E1AoT9k0PNLS5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/v/081oSFTf25DRUIUp498A/1200x800-3-2026-08-14t195229.998.png"
-    },
-    {
-      "titulo": "Criança de 7 anos com autismo é resgatada após desaparecer em Nossa Senhora do Socorro",
-      "imagem": "https://s2-g1.glbimg.com/MAs8ZBOXR_Cc_gCHLGHnYAExF98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/i/y/bmFhnESjKeFx3grEQxQw/carros-prf-sergipe2.jpg"
-    },
-    {
-      "titulo": "Com vasto catálogo de arranjos, maestro de Itararé também foi compositor e tem canção 'perdida' com Vinícius de Moraes",
-      "imagem": "https://s2-g1.glbimg.com/IjALfNnO1wjb8naq9W1jai2jbdY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/6/pWqLAZQOWYrbQwYU7vvw/gaya-acervo-jose-ramos-tinhorao-.jpg"
-    },
-    {
-      "titulo": "Corpo de jovem que desapareceu em parque no interior de SP é encontrado após dois meses, diz família",
-      "imagem": "https://s2-g1.glbimg.com/HsGPWVUVCG0aXFOrFMk4tjdcSSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/y/w4zawhRma95B3SkYQzEQ/tiago-gomes-pereira.jpg"
-    },
-    {
-      "titulo": "VÍDEO: robô garçom vira atração em padaria e aumenta faturamento em até 60% no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/VSPj5XI6vOfjdcUP7p9AdwdC5O4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/I/2ibTpcTISQLjdyZCx1iA/design-sem-nome-2026-08-19t125459.036.png"
-    },
-    {
-      "titulo": "Número de jovens de 16 e 17 anos aptos a votar cai 36% em Rio Preto, aponta TSE",
-      "imagem": "https://s2-g1.glbimg.com/RDKSD-hGjAELWnND7qpoMMf3o2U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/5/5JEhUATdap5YBiz9D0rQ/urna.jpg"
-    },
-    {
-      "titulo": "Morador de Sorocaba desenvolve plataforma gratuita para auxiliar famílias atípicas",
-      "imagem": "https://s2-g1.glbimg.com/YkXMkKQeKJtJ145SoIA0C7IIZw8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/F/Wz7AzjRkCSkndcWLjO1g/modelo-2-2-.png"
-    },
-    {
-      "titulo": "Do brechó ao DVD: jovens optam pela 'moda circular' e mídia física como resgate de estilo e cultura no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/e8XmU9--85Nu_61IdbPt0c-QPFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/4/zmk1pvQHWXzmnMJVjs0A/novo-projeto-2026-08-21t123337.096.png"
-    },
-    {
-      "titulo": "Banco é condenado a indenizar aposentada por descontos de seguro não contratado em MG",
-      "imagem": "https://s2-g1.glbimg.com/RCZI0Uj6GrxGmrGp-UhfdFLRgn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/D/aRyBUSRgy7YjAJWS8RpA/not-idosa-telefone.jpg"
-    },
-    {
-      "titulo": "Marinha alerta para risco de ressaca com ondas de até 3 metros no Litoral Norte de SP",
-      "imagem": "https://s2-g1.glbimg.com/NND1VYfNK0dTP5BHGZu5vUkLKDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/B/R/7dy7FcQdiZsZ2kdeiNHg/bdrj-limpo-20240813-0540-frame-38783.jpeg"
-    },
-    {
-      "titulo": "Moto em fuga bate em ambulância do Samu e deixa dois feridos em Campinas",
-      "imagem": "https://s2-g1.glbimg.com/53kgcWLCwMQ12JZDLQ_I_FWh4NQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/N/WAHuP3TKKZ1zwfuHO1EQ/paulo-bernardino-7-.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-24T10:52:30.933Z"
+  "atualizadoEm": "2026-08-24T11:23:55.850Z"
 }
