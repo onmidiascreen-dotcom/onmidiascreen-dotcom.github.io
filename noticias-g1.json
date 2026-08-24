@@ -1,6 +1,106 @@
 {
   "noticias": [
     {
+      "titulo": "Tarifa aumenta em cinco praças de pedágio do Paraná; veja quais e novos valores",
+      "imagem": null
+    },
+    {
+      "titulo": "Casca de fruta vira ingrediente para cosmético desenvolvido por universidade de MS",
+      "imagem": "https://s2-g1.glbimg.com/YBQzZBWqs0EV_pvPy8lDjFiYz9E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/F/6Ij765TYua4mlv14RtAA/design-sem-nome-1-.jpg"
+    },
+    {
+      "titulo": "Caminhão perde o controle, derruba muro e invade pátio de prédio em Porto Alegre; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/QkK7LvZq-7RhmSzvVkdzpQfUGmw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/t/RsVfVsReaXNt7Ip2YAmQ/g1-10-.png"
+    },
+    {
+      "titulo": "Candidata eliminada por ter 1,55 m em concurso da PMTO é mantida na seleção por decisão unânime do STF",
+      "imagem": "https://s2-g1.glbimg.com/DUqA3eI8ddTOFpY2eq19P5qvMWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/k/uZ9R3XR6CFndAEePBAJA/copia-de-modelo-foto-fundo-borrado-1-.png"
+    },
+    {
+      "titulo": "Estudo sobre poluição no litoral brasileiro identifica microplástico em praias dos Lençóis Maranhenses",
+      "imagem": "https://s2-g1.glbimg.com/142UDvlmmO-m_HYVnVNnEjKuEWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/M/A2ooqYSlAH7zqoVUokjg/montagens-1920-x-1080-px-82-.png"
+    },
+    {
+      "titulo": "Caminhão derrama resíduos de frigorífico em avenida e interdita parte do trânsito em Várzea Grande (MT)",
+      "imagem": "https://s2-g1.glbimg.com/oHbfONy-zKAckD7rAi87KgUr7oA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/m/ng2l6LRCWcDv55Xqf9Cw/videos-g1-7-.jpg"
+    },
+    {
+      "titulo": "Homem de 42 anos é morto com cerca de 10 tiros após ter casa invadida no PI",
+      "imagem": "https://s2-g1.glbimg.com/XcvKRg7JMts-tai5Il3Q21FwvMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/7/jc8EWKQA2FF4JXHTqwAw/edicao-imagens-g1-1-.jpg"
+    },
+    {
+      "titulo": "Duas pessoas morrem e outra fica gravemente ferida em batida frontal na BR-116, em Dom Cavati",
+      "imagem": "https://s2-g1.glbimg.com/Ex_6bgQGIf8n4hLxR9n6AG_qQFE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/d/89zfLtTeeZHZFGu6E6VA/vitimasfatais-4-.png"
+    },
+    {
+      "titulo": "Samara Martins, candidata do UP à presidência, defende que políticos busquem atendimento no SUS em vez da rede privada",
+      "imagem": "https://s2-g1.glbimg.com/JuiUEEU3fKGn4IBUVFS9mjMCkFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/i/GHy35cSn6uK6qdsFiqwg/whatsapp-image-2026-08-24-at-12.20.13.jpeg"
+    },
+    {
+      "titulo": "Mais de 9,5 mil eleitores solicitaram voto em trânsito para o 1º turno das Eleições 2026 na Paraíba",
+      "imagem": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+    },
+    {
+      "titulo": "II Festival Sesc Partituras reúne concertos e oficinas gratuitas em São Luís; veja a programação",
+      "imagem": "https://s2-g1.glbimg.com/pPg_s70VKYOz6fBuCEds9U2PO4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/G/n7vPR1RCmTrLUSvbRBAg/montagens-1920-x-1080-px-2026-08-24t173356.755.png"
+    },
+    {
+      "titulo": "VÍDEO: Motociclista avança placa de pare e bate em carro em Governador Valadares",
+      "imagem": "https://s2-g1.glbimg.com/YQdi1H_t8tWWISBg0a81P4vhluc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/X/oVj7nbQb2ekiMaup2sLA/projetos-g1-6-.png"
+    },
+    {
+      "titulo": "Polícia identifica mais 3 envolvidos no espancamento de Cláudio Rafael",
+      "imagem": "https://s2-g1.glbimg.com/5_oFV2-pQqvUJUfm8Fg16fKEHHk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/0/dF4BQUTke13CqbVAAsRg/rj1-limpo-20260824-1115-frame-167698.jpeg"
+    },
+    {
+      "titulo": "g1 completa 20 anos e lança campanha que marca início das comemorações",
+      "imagem": "https://s2-g1.glbimg.com/NxUfCyYV-qp4YTpVxic2PJgQmY8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/t/6eSR2DTuyDjEJYNQAXSA/whatsapp-image-2026-08-24-at-17.18.00.jpeg"
+    },
+    {
+      "titulo": "Barco-escola leva cursos de energia solar e tecnologia a moradores do interior do Amazonas",
+      "imagem": "https://s2-g1.glbimg.com/PTElB3wXdsLuoUpIEfjFQQ2kh_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/X/KAeSMYSLSAXD8jdSMlAQ/whatsapp-image-2026-08-22-at-07.48.22.jpeg"
+    },
+    {
+      "titulo": "Pastor vira réu acusado de dizer que cidade precisava de oração porque 'homossexual assumido' ocupou direção da Câmara",
+      "imagem": "https://s2-g1.glbimg.com/m1be_Lyj7mnbguYWvf8X6uelIWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/1/66BqhYRBG3Pk0jv3qycA/pastor.jpg"
+    },
+    {
+      "titulo": "BRB tem 90 dias para indicar lista de ex-gestores a serem processados para ressarcir o banco; entenda os detalhes da cobrança",
+      "imagem": "https://s2-g1.glbimg.com/Q2i2bbkaaOgg1CfyINYq0bg0-R4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/d/eqkGoOQNmVDwjdVxilfw/globo-canal-4-20260528-2000-frame-84836.jpeg"
+    },
+    {
+      "titulo": "Família lamenta perdas durante incêndio no AP: 'aquilo que tu construiu com tanto sacrifício'",
+      "imagem": "https://s2-g1.glbimg.com/xeYVPanwIuqQmc7x9pYtSB21fsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/1/hpq9P6QaO19mH5MtnSpw/whatsapp-image-2026-08-24-at-12.34.00.jpeg"
+    },
+    {
+      "titulo": "Policial penal é encontrado morto dentro de casa em Cariacica",
+      "imagem": "https://s2-g1.glbimg.com/2RK9lAILbrj6QWF6ZT7dBiR1RIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/B/HMILlNTc6fla2aLGmZ8g/thumb-fotos-2025-09-26t111433.889.jpg"
+    },
+    {
+      "titulo": "Advogado é preso ao ir defender cliente em delegacia de Rio Preto",
+      "imagem": "https://s2-g1.glbimg.com/Dh_Pcz-CfApAsIy6YHIzTQL8mC0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/q/2/qZoBSBQba83wW2RBNifQ/deic.jpg"
+    },
+    {
+      "titulo": "Ventania derruba cobertura de lava-jato e danifica carro no interior do Piauí",
+      "imagem": "https://s2-g1.glbimg.com/4xr97qUUL_0rfNSzy2VAjPpzE4c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/2/NdEQLIQiCApEXeakFn1A/edicao-imagens-g1-11-.png"
+    },
+    {
+      "titulo": "Rua e ponte no RN deixam de ter nomes ligados à ditadura militar após recomendação do MPF",
+      "imagem": "https://s2-g1.glbimg.com/eJGaTu057S8BnDq3jCyN3VWrEjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/4/ohHowYR9Wej5qO1P7VFw/dji-0799.jpg"
+    },
+    {
+      "titulo": "Pátio Limeira Shopping recebe encontro de fãs de Harry Potter",
+      "imagem": "https://s2-g1.glbimg.com/lZV52wNv_dtohOpy-sXYvOrojm4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/R/aLMyEvTEea5rESO0uNwg/whatsapp-image-2026-08-24-at-16.03.48.jpeg"
+    },
+    {
+      "titulo": "Assassinato de policial militar encontrado carbonizado teve motivação passional, aponta investigação",
+      "imagem": "https://s2-g1.glbimg.com/2cJGgzOdVH9jQ63r1ZbZ8tJ8PwQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/hLZZ0hTDayAMOKuBcAEg/fotojet-2-.jpg"
+    },
+    {
+      "titulo": "Família procura por adolescente que desapareceu após sair de casa em Jundiaí",
+      "imagem": "https://s2-g1.glbimg.com/7KhNyPPm67QQehCSKcfKbkgLvlE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/I/exU0wGSy6rRn2cvjHKOw/f2c7db4d-ba58-4523-8cf0-d9a5fd853dfd-1-.jpg"
+    },
+    {
       "titulo": "Homem é preso por dirigir alcoolizado e atingir poste em rodovia no oeste da Bahia",
       "imagem": "https://s2-g1.glbimg.com/Ht2Jz61nsCF3VJO5-dsCVQkcBzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/d/wa3agQTuiD6MvalqtbFw/fotos-g1ba-2-.jpg"
     },
@@ -18,108 +118,8 @@
     },
     {
       "titulo": "Dois policiais militares são presos suspeitos de roubo e estupro de adolescente na Zona Leste de SP",
-      "imagem": "https://s2-g1.glbimg.com/RnugzJC0M7TXJ7k-OX6SVasiwOE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/q/hHGQ1pRZAq2EjXZKSAKQ/pms.jpg"
-    },
-    {
-      "titulo": "Justiça mantém preso homem que esfaqueou ex-mulher na frente dos filhos no Vila Jardim, em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/lNbOVV6OAVsm0VwQtFNCTaqymHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/S/Y7zsdTTRW7WaD4aPPs6g/edwin-david-garcia-marquez.jpg"
-    },
-    {
-      "titulo": "Quatro pessoas ficam feridas em batida frontal entre dois carros no Contorno Sul da Tamoios",
-      "imagem": "https://s2-g1.glbimg.com/J9JikeX_bMkYF88mCQmbB1sH1Ns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/L/gE5eYqQui8RS5hmXUrBQ/foto-g1-5-.jpg"
-    },
-    {
-      "titulo": "Defesa Civil alerta para chuva, raios e ventos de 40 km/h em BH",
-      "imagem": null
-    },
-    {
-      "titulo": "Médicos e enfermeiros são investigados pela morte de jovem no dia que seria libertado de presídio após ser absolvido",
-      "imagem": "https://s2-g1.glbimg.com/64mRDb5S0ctaD2H-jBlo70mjbNw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/i/kebgyKRhAsaJRVGnbRzA/foto-e-montagem-vertical-65-.png"
-    },
-    {
-      "titulo": "Oficina gratuita ensina a transformar atendimento em diferencial",
-      "imagem": "https://s2-g1.glbimg.com/yRcL77E3p1rXrX88-j_b-4-4Vnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/K/wFyXWmRB2IXfr6qRT1IQ/whatsapp-image-2026-08-20-at-17.54.19.jpeg"
-    },
-    {
-      "titulo": "Pedestre morre atropelado na véspera de aniversário ao atravessar avenida em Cuiabá; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/X4haPHq4wKU-jrAnoL_46_PUPUc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/h/lVxdwqRVAyWoFoHTLAgA/videos-g1-6-.jpg"
-    },
-    {
-      "titulo": "Casa 1 promove Semana da Visibilidade Lésbica com mais de 20 atividades em SP; veja programação",
-      "imagem": "https://s2-g1.glbimg.com/KnHVOFbfwaLSTWqaot22LttjpdU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/z/ixAPATRBaNKTmHEDFLUw/angelica-alves-2-.jpg"
-    },
-    {
-      "titulo": "Dois homens são presos com revólveres e munições na orla de Pirapora",
-      "imagem": "https://s2-g1.glbimg.com/aZb8uy2vfxRVmybyTidT1VmKq68=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/l/YkeajlQdCFyrLOt4QIcw/whatsapp-image-2026-08-24-at-15.40.49-1-.jpeg"
-    },
-    {
-      "titulo": "Investigados por ataque a vereador de Assis apagaram registros de câmeras para encobrir provas, diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/4SicOI_58QWaZXUffkv2lSWy6x4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/5/pXRwE8R4WQbMVkqQ1kcg/assis-policia.jpeg"
-    },
-    {
-      "titulo": "Brasileiros pedem nas redes socias que Häagen-Dazs não deixe o páis: 'pelo amor de Deus'",
-      "imagem": "https://s2-g1.glbimg.com/VfxhUVmIjmQqydVTBQO1Ja4MpY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/o/yQQJt6TJS5AnuBRZnldQ/fotojet-19-.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: veja as propostas de Araceli Lemos (Psol) ao governo do PA",
-      "imagem": "https://s2-g1.glbimg.com/0smbMqtNzzZrTVoCCmBdii8-9so=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/F/FjmV6fSLSVybBA1k1Lhw/araceli-lemos.jpg.jpeg"
-    },
-    {
-      "titulo": "Conversão proibida rende 280 autuações em cruzamento da Av. das Amoreiras; veja vídeo",
-      "imagem": "https://s2-g1.glbimg.com/scRB0EPwazxGqOyhDJ1FMLQrcrc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/B/OCoZUaTPSlPbmXBjiVug/1200px-x-800px-21-.jpg"
-    },
-    {
-      "titulo": "Boi recebe carinho de dona ao ser chamado pelo nome, e ela brinca: 'Arrume alguém disponível para você igual o Cacique é para mim'",
-      "imagem": "https://s2-g1.glbimg.com/SQAPeGNUpar-rf5tnUsxp9brnTY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/j/dvEssASpinGDl8BQ6Ing/co-1-.jpg"
-    },
-    {
-      "titulo": "Candidatos ao governo do Paraná se reúnem com lideranças empresariais e políticas",
-      "imagem": "https://s2-g1.glbimg.com/KyF4si2iZIZnb-SJWya9pMjz_aE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/a/I/dH3Tw0Qs64nolNB0hHBQ/ec5929c8-af99-46f4-8bbe-ea55c4a4ab5c.jpg"
-    },
-    {
-      "titulo": "Preso morre após ser encontrado desacordado por outros internos no Ceará",
-      "imagem": "https://s2-g1.glbimg.com/R9tMn64AvKUrbAiypFZujfs0OKA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/W3DK4RQBSy3LuWZkyR0A/presidio-pacatuba.jpg"
-    },
-    {
-      "titulo": "Caminhoneiro morre após colisão entre carretas na Bahia",
-      "imagem": "https://s2-g1.glbimg.com/TS8_RtK5lBbQ_DqWRRg3SoMhi_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/a/2zjEn9R0AOFYZpyDCl5A/foto-no-tamanho-home-13-.png"
-    },
-    {
-      "titulo": "Cliente tenta humilhar empresária goiana após ser cobrada por pagamento: ‘Acha que eu sou trouxa? Acha que eu sou de Goiás?’",
-      "imagem": "https://s2-g1.glbimg.com/bE_DrPq7LW_O0T9zXozPMChgdwo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/J/OJnMqHQsGaOVkFUQDjyg/design-sem-nome-11-.jpg"
-    },
-    {
-      "titulo": "Inova Maciço chega à 4ª edição com foco em startups, tecnologia e soluções para a região",
-      "imagem": "https://s2-g1.glbimg.com/cE-r4sWtTec_hhckxdqoibEBqGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/6/i02g9xRo2pE5QbZkjBJA/divulgacao.png"
-    },
-    {
-      "titulo": "Eleições 2026 no PR: Sergio Moro diz que terá 'relacionamento republicano' com presidente, caso se torne governador e Lula seja reeleito",
-      "imagem": "https://s2-g1.glbimg.com/o04UnNL1jZ9Wh6-da0x4UCpYCs0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/L/B/YtTw4WQhmScXJdhARu5Q/estudio-i-limpo-20230322-1245-frame-102313.jpeg"
-    },
-    {
-      "titulo": "PF terá acesso a informações de ONG ligada à produtora do filme sobre Jair Bolsonaro",
-      "imagem": "https://s2-g1.glbimg.com/A6zIR9mA3Gd5XRdae5jXrKB9iG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/c/bhmsbtRq2rTUs3uF7VeA/fotojet-29-.jpg"
-    },
-    {
-      "titulo": "Sesc Ler Araripina sedia Encontro das juventudes com oficinas de tecnologia e serviços gratuitos",
-      "imagem": "https://s2-g1.glbimg.com/RGBUThc6kMlcZacysU4hob17YPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Z/p/GZzNJcQByjhll6o9Woaw/sesc-ler-araripina-ft-makermidia.jpg"
-    },
-    {
-      "titulo": "Chuva, temperaturas estáveis e alta nebulosidade: confira a previsão para a semana em Divinópolis e região",
-      "imagem": "https://s2-g1.glbimg.com/__OjoqHzFIwu8TbpWmWYOoewsiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/3/t4NVuBRIiKezedS14j4A/nublado.jfif"
-    },
-    {
-      "titulo": "Globo abre inscrições para programa de formação voltado a pessoas com deficiência",
-      "imagem": null
-    },
-    {
-      "titulo": "Tarcísio minimiza ausência em agendas de campanha de Flávio em SP e evita falar em Presidência em 2030",
-      "imagem": "https://s2-g1.glbimg.com/p8lv80fU1xbzK65uR1jcjkVk3R0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/f/DA8vthS4WQMzcMijAbjw/sp2-agenda-tarcisio-20260824-1058-frame-248084.jpeg"
-    },
-    {
-      "titulo": "Caso Arthur: família lamenta cancelamento de remédio de R$ 20 milhões usado em crianças com distrofia muscular",
-      "imagem": "https://s2-g1.glbimg.com/WzsObBhFl1EeUszAeSOWMaNLons=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/j/dF33XZR0G41G8WXpprMg/sor-tn1-240826-frame-47720.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/cOpheAbMMMiUhWs0Cj00ATpAFnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/U/AD2n1AQZ6xtmPMRLbgjw/pms.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-24T20:25:20.626Z"
+  "atualizadoEm": "2026-08-24T20:58:30.901Z"
 }
