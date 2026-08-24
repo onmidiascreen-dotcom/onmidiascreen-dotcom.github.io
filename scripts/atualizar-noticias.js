@@ -30,13 +30,16 @@ async function buscarFonte(chave, url) {
       const bloco = m[1];
       const t = bloco.match(/<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/title>/);
       const img = bloco.match(/<media:content[^>]*url="([^"]+)"/);
-      const link = bloco.match(/<link>([^<]*)<\/link>/);
+      const link = bloco.match(/<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/link>/);
       return t ? { titulo: t[1].trim(), imagem: img ? img[1] : null, link: link ? link[1].trim() : '' } : null;
     })
     .filter(Boolean)
-    // no feed geral do G1, notícia internacional cai na seção /mundo/ do link — outras
-    // fontes não têm esse padrão confirmado, então o filtro só vale pra 'g1' por enquanto.
+    // corta a seção internacional de cada fonte pelo link do item — padrão conferido
+    // em amostra real de cada uma. G1: /mundo/. CNN Brasil: /internacional/. UOL NÃO
+    // tem um padrão de link confiável (notícia estrangeira vem espalhada em vários
+    // subdomínios uol.com.br sem uma seção fixa), então segue sem filtro por enquanto.
     .filter((n) => !(chave === 'g1' && /g1\.globo\.com\/mundo\//.test(n.link)))
+    .filter((n) => !(chave === 'cnn' && /cnnbrasil\.com\.br\/internacional\//.test(n.link)))
     .map(({ titulo, imagem }) => ({ titulo, imagem })) // link só serve pra filtrar, não vai pro JSON salvo
     .slice(0, 30); // guarda mais manchetes: mais variedade girando, inclusive offline
 
