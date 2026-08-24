@@ -30,9 +30,14 @@ async function buscarFonte(chave, url) {
       const bloco = m[1];
       const t = bloco.match(/<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?<\/title>/);
       const img = bloco.match(/<media:content[^>]*url="([^"]+)"/);
-      return t ? { titulo: t[1].trim(), imagem: img ? img[1] : null } : null;
+      const link = bloco.match(/<link>([^<]*)<\/link>/);
+      return t ? { titulo: t[1].trim(), imagem: img ? img[1] : null, link: link ? link[1].trim() : '' } : null;
     })
     .filter(Boolean)
+    // no feed geral do G1, notícia internacional cai na seção /mundo/ do link — outras
+    // fontes não têm esse padrão confirmado, então o filtro só vale pra 'g1' por enquanto.
+    .filter((n) => !(chave === 'g1' && /g1\.globo\.com\/mundo\//.test(n.link)))
+    .map(({ titulo, imagem }) => ({ titulo, imagem })) // link só serve pra filtrar, não vai pro JSON salvo
     .slice(0, 30); // guarda mais manchetes: mais variedade girando, inclusive offline
 
   if (!noticias.length) throw new Error(chave + ': nenhuma noticia extraida');
