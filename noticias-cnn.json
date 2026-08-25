@@ -1,6 +1,94 @@
 {
   "noticias": [
     {
+      "titulo": "Ex-astro do Arsenal, Wilshere reencontra Chelsea como técnico do Luton Town",
+      "imagem": null
+    },
+    {
+      "titulo": "Pais de menino deixado em carro de app são investigados por abandono no PR",
+      "imagem": null
+    },
+    {
+      "titulo": "Arrecadação de julho sobe quase 9% e alcança R$ 289,3 bi",
+      "imagem": null
+    },
+    {
+      "titulo": "Pará declara alerta climático preventivo diante de projeções do El Niño",
+      "imagem": null
+    },
+    {
+      "titulo": "Rio Open terá quadra para quase 10 mil pessoas e outras novidades; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Quaest em SC: Esperidião tem 19% para o Senado; Carlos, 16% e De Toni, 12%",
+      "imagem": null
+    },
+    {
+      "titulo": "CNA defende mais responsabilidade fiscal e fortalecimento da mão de obra",
+      "imagem": null
+    },
+    {
+      "titulo": "Evaldo Macarrão se pronuncia após ser apontado como agressor pela web",
+      "imagem": null
+    },
+    {
+      "titulo": "Cristiano Ronaldo contra Al-Ettifaq; veja quantos gols faltam para milésimo",
+      "imagem": null
+    },
+    {
+      "titulo": "Por que dá vontade de tomar gelado quando a garganta está inflamada? Entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja quais estados brasileiros estão em alerta amarelo para tempestades",
+      "imagem": null
+    },
+    {
+      "titulo": "Quaest: Flávio tem 45% no 1º turno em SC; Lula, 20%",
+      "imagem": null
+    },
+    {
+      "titulo": "CNA lança ferramenta de inteligência artificial para apoiar produtores",
+      "imagem": null
+    },
+    {
+      "titulo": "OpenAI é investigada nos EUA após ataque hacker",
+      "imagem": null
+    },
+    {
+      "titulo": "Janja condena declarações de Renan Santos em debate presidencial",
+      "imagem": null
+    },
+    {
+      "titulo": "Maitê Proença troca casa em Copacabana por terreno no campo com minhocário",
+      "imagem": null
+    },
+    {
+      "titulo": "Idosos de baixa renda terão desconto em passagens sem limite de horário",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Dia D econômico&#8221; dos EUA: Quem ainda está comprando petróleo do Irã?",
+      "imagem": null
+    },
+    {
+      "titulo": "Comentarista defende decisão de João Fonseca no US Open",
+      "imagem": null
+    },
+    {
+      "titulo": "Santos negocia com Arthur Melo apesar de transfer ban da Fifa",
+      "imagem": null
+    },
+    {
+      "titulo": "Justiça barra uso do sobrenome &#8220;Bolsonaro&#8221; por candidatos sem parentesco",
+      "imagem": null
+    },
+    {
+      "titulo": "Tarcísio rebate acusação de interferência em investigação de &#8220;Dark Horse&#8221;",
+      "imagem": null
+    },
+    {
       "titulo": "Folha de louro: entenda truque noturno para deixar o lar perfumado",
       "imagem": null
     },
@@ -31,95 +119,7 @@
     {
       "titulo": "Quaest: Flávio tem 34% no 1º turno no RS; Lula, 28%",
       "imagem": null
-    },
-    {
-      "titulo": "Coordenador da campanha de Lula defende que super-ricos paguem mais imposto",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula destaca mulheres militares e defende recursos para &#8220;preparar o país&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "LeBron James e PGA Tour anunciam torneio de golfe em Akron",
-      "imagem": null
-    },
-    {
-      "titulo": "De convento a morar com idosos: como jovens estão pagando aluguel em NY",
-      "imagem": null
-    },
-    {
-      "titulo": "O que é o Complexo de Israel, &#8220;base de guerra&#8221; do TCP no Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Bayern se mobiliza e toma decisão após mal súbito de Musiala em amistosos",
-      "imagem": null
-    },
-    {
-      "titulo": "RJ: Artefato explosivo é achado perto de estação de trem durante operação",
-      "imagem": null
-    },
-    {
-      "titulo": "Canadá anuncia tarifas retaliatórias de US$ 20 bi em produtos americanos",
-      "imagem": null
-    },
-    {
-      "titulo": "Piloto escreve nome de Lito Sousa no céu em homenagem a influenciador; veja",
-      "imagem": null
-    },
-    {
-      "titulo": "Colar dado para Neymar: o que é o “Círculo de Fogo”, no Centro de SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Bilionários estão determinados a ter times esportivos na carteira; entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest: Braide tem 44% e Brandão, 25% no 1º turno para o governo no MA",
-      "imagem": null
-    },
-    {
-      "titulo": "Auditor fiscal é preso por esquema de fraudes em importações em Fortaleza",
-      "imagem": null
-    },
-    {
-      "titulo": "Como Lito Sousa começou na internet e virou referência em aviação",
-      "imagem": null
-    },
-    {
-      "titulo": "Após a Copa, convocados de Ancelotti encaram perda de espaço e novos rumos",
-      "imagem": null
-    },
-    {
-      "titulo": "Como Lito Sousa ajudou Tatá Werneck a viajar de avião com a filha",
-      "imagem": null
-    },
-    {
-      "titulo": "Febre do Nilo Ocidental: veja locais com maior risco de contágio",
-      "imagem": null
-    },
-    {
-      "titulo": "Schumacher pagou por estreia na F1 sob domínio de Senna",
-      "imagem": null
-    },
-    {
-      "titulo": "Endrick pode voltar a ser emprestado pelo Real Madrid ao Lyon, diz site",
-      "imagem": null
-    },
-    {
-      "titulo": "Rock in Rio: descubra os headliners mais procurados da edição",
-      "imagem": null
-    },
-    {
-      "titulo": "El Shaarawy e Bakayoko são oferecidos ao Corinthians, revela Marcelo Paz",
-      "imagem": null
-    },
-    {
-      "titulo": "Meninos da Vila chegam a 700 gols no ano e viram &#8220;arma&#8221; do Santos de Cuca",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-25T16:54:02.012Z"
+  "atualizadoEm": "2026-08-25T17:28:05.793Z"
 }

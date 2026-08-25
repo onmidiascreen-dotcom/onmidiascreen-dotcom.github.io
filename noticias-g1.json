@@ -1,6 +1,58 @@
 {
   "noticias": [
     {
+      "titulo": "Aumento na conta de luz: na CMM, Âmbar Energia explica reajuste e responde a reclamações",
+      "imagem": "https://s2-g1.glbimg.com/w8W9yKeyCMRUBqgFB-UZpIY83bc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/S/0/BdyGs1RAy40Z9AAG5Orw/uma-lampada-nao-luminosa-paira-no-espaco-da-copia-de-fundo-desfocado-escuro.jpg"
+    },
+    {
+      "titulo": "Tubulação de esgoto do Rio Jundiaí se rompe e interdita faixa da Francisco Ozanam",
+      "imagem": "https://s2-g1.glbimg.com/4e83eTWfsF53ah5Hvzukr3R3t2U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/D/7AnhlaTBuOQjLJAGBSLw/whatsapp-image-2026-08-24-at-17.24.28.jpg"
+    },
+    {
+      "titulo": "Shawn Mendes está produzindo seu novo álbum no Brasil: 'Muitas ideias na cabeça e no coração'",
+      "imagem": "https://s2-g1.glbimg.com/BLDbik--C2m2FEyxBRnPFNZtENc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/8/M/yyAtokQWePIX5VdMg8UA/shawn-mendes-rock-in-rio-2024-3.jpg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
+      "imagem": null
+    },
+    {
+      "titulo": "Filha sabia que mãe tinha plano de matar pai no Paraná com ajuda de amante e não a impediu, diz delegado",
+      "imagem": "https://s2-g1.glbimg.com/fK0hqSTlx33bwRrLLALVAzCpubc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/w/GXTs9jRsS5nex7DzxfEQ/suspeitos5.png"
+    },
+    {
+      "titulo": "Incêndio atinge área de preservação ambiental em Bauru",
+      "imagem": "https://s2-g1.glbimg.com/Aq4zuep0yC7Cy69Nv9JiTF2Q2W0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/O/BKINckScedVHTDRcKuQQ/novo-projeto-2026-08-25t091937.934.png"
+    },
+    {
+      "titulo": "Câmeras flagram lobo-guará e onça-pintada em bebedouros instalados no cerrado do TO",
+      "imagem": "https://s2-g1.glbimg.com/85k2xqKfVfXWj3oxlrdYnXiZr8Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/O/0B5oJOSrytdHaBYwjyOQ/foto-e-montagem-vertical-2026-08-25t122726.603.png"
+    },
+    {
+      "titulo": "Voto em trânsito: Mais de 700 eleitores solicitam votar de forma temporária no AC em 2026",
+      "imagem": "https://s2-g1.glbimg.com/-lY2gaMjS4M1cyDWQvIyxg7Yo4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/6afOSPQVOhvRV5FtY8Rg/urna.jpeg"
+    },
+    {
+      "titulo": "Tarcísio diz que cumprirá decisão do STF para compartilhar documentos de ONG de 'Dark Horse' e nega atraso em investigação sobre o filme em SP",
+      "imagem": "https://s2-g1.glbimg.com/G6nZSx2pqi0mcm1rirXBhjZlu10=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/1/Cjhq7zSbu792vAH58MPA/tarcisio-25-de-agosto.jpeg"
+    },
+    {
+      "titulo": "Bombeiro é condenado por tocar mulher durante viagem de ônibus e está preso por suspeita de repetir crime",
+      "imagem": "https://s2-g1.glbimg.com/WX4OfRkGKgV7oVLgIGvnhw-G-Tk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/P/8mljgBSTa5g9Pxs2HsRw/g1-2026-08-25t140832.365.jpg"
+    },
+    {
+      "titulo": "Arrecadação federal soma R$ 289 bilhões em julho, novo recorde para o mês",
+      "imagem": "https://s2-g1.glbimg.com/90xfJxJFz1Rs9UATOU8fLnFwV2U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/T/V/CXtqkGQpiDP4sUskQmFQ/bau-bomba-antifraude-091025.transfer-frame-552.jpeg"
+    },
+    {
+      "titulo": "Jovem é investigado por assédio a criança de 7 anos e por oferecer dinheiro para cometer abuso no Piauí",
+      "imagem": "https://s2-g1.glbimg.com/cKu_P-j5Yu9-i_L1sA13Cl6o5a4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/z/TxFDt7RQy5SdKWqljLKQ/edicao-imagens-g1-30-.jpg"
+    },
+    {
+      "titulo": "Previsão do tempo aponta alguns dias de chuva após semanas de tempo seco no Sul de Minas",
+      "imagem": "https://s2-g1.glbimg.com/DXMHoHj5iGVN32L9mLiFa7UXxGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/2/GrEYJqQWACzPkNLT2p5g/6159919-44914c682a2a3aa.jpg"
+    },
+    {
       "titulo": "Parte do telhado de escola desaba e deixa seis crianças feridas em Açailândia",
       "imagem": "https://s2-g1.glbimg.com/wYHt39XwhBKLdx68mMnS02niN_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/z/dTHA33S8eM7EkXN0zDZQ/montagens-1920-x-1080-px-2-.png"
     },
@@ -17,7 +69,7 @@
       "imagem": "https://s2-g1.glbimg.com/IdO_Lm8FvNC06gpe_EohE-euAM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/h/DqVpumQPefTpM0nFF8QA/g1-cangalha1.jpg"
     },
     {
-      "titulo": "Morre segunda vítima de acidente na Avenida Jerônimo de Albuquerque após duas semanas internada",
+      "titulo": "Morre segunda vítima de acidente na Av. Jerônimo de Albuquerque; jovem estava internado havia duas semanas",
       "imagem": "https://s2-g1.glbimg.com/oxjnrIaGuJ6KR4_psBUs8-P_jAg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/Q/v7NsGIQUmQAPA60H5McA/montagens-1920-x-1080-px-6-.png"
     },
     {
@@ -67,59 +119,7 @@
     {
       "titulo": "O que pensam entregadores de SP indecisos sobre a eleição? Veja na série 'Voto Pendular', do Jornal da Globo",
       "imagem": "https://s2-g1.glbimg.com/RPZSesHZicXWpjXna6iRJx1O4us=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/5/EGzfK4RBGmu96jpJcjAw/captura-de-tela-2026-08-21-152312.png"
-    },
-    {
-      "titulo": "'Ela gargalhava enquanto eu estava amarrado', diz ex-paciente de médica foragida após condenação por tortura em Ribeirão Preto, SP",
-      "imagem": "https://s2-g1.glbimg.com/9zs4wvPxHYdooR-ZNZ0f7PaIjIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/P/dLTg5FRguNXqhis40Nsw/moldura-padrao-g1.png"
-    },
-    {
-      "titulo": "Localização do celular de conselheira desaparecida em MG aponta para açude, diz família; polícia investiga",
-      "imagem": "https://s2-g1.glbimg.com/un2NRefVr12Dr-b9alG8LHYYzl8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/e/AFr1CyRgifkpzBt5HeVg/montagemconselheira.jpg"
-    },
-    {
-      "titulo": "Porcelanas e louças que podem ter quase 200 anos são encontradas durante duplicação de rodovia no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/1vRA9OIVapBtQJmbKRGAmWRywkg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/a/otNGCcTPC5s0rhBfICEA/sitio1.png"
-    },
-    {
-      "titulo": "Homem é condenado por suposta morte de paciente desaparecido há 19 anos em clínica de MT",
-      "imagem": "https://s2-g1.glbimg.com/lk7_VCZICU3P8MtO0FEjyjtsuno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/J/hJpo7PQliYCAYlgSRJ1g/videos-g1-65-.jpg"
-    },
-    {
-      "titulo": "Servente encontrado morto em cova: crime pode ter sido motivado por desentendimento entre faccionados, diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/xWpScMhmAHSTRR-vYElBy_qTFVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/kJh3y7QqaNdWbQ4kBHaw/edicao-imagens-g1-23-.png"
-    },
-    {
-      "titulo": "Embraer certifica jato que pousa sozinho; modelo é o mais veloz e de maior alcance do mundo",
-      "imagem": "https://s2-g1.glbimg.com/265Eqy6quk3eqLwp4StpxbqB6XQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/M/QJhhTjS7SoeAm4AdVmBw/phenom-300ev-triple-certification-7.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: confira as propostas de JHC ao governo de Alagoas",
-      "imagem": "https://s2-g1.glbimg.com/ZSSvNWoVqMrgxMsXR6mjdRxbfFE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/E/3v7wlHSSWOAsSvPCjXCw/whatsapp-image-2025-01-01-at-14.53.41.jpeg"
-    },
-    {
-      "titulo": "Operação prende onze suspeitos de furtar e abater gado para venda ilegal de carne na Bahia",
-      "imagem": "https://s2-g1.glbimg.com/IeWoCJaW9d4zyHcSrwZqhmjaXp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/A/IB3Xf2SAAzqE9ZHLWLqg/whatsapp-image-2026-08-25-at-10.58.07.jpg"
-    },
-    {
-      "titulo": "Acidente entre moto e carro deixa ferido e causa lentidão na Castelinho em Sorocaba",
-      "imagem": "https://s2-g1.glbimg.com/IeaA8_Pzj8wV4oFtlWZctvBV8zY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/t/s38ExUT4GFhxQF7tn66w/acidente-3-.jpg"
-    },
-    {
-      "titulo": "Entregador que teve pedido furtado de dentro da mochila riu ao saber como ação aconteceu, diz gerente de pizzaria",
-      "imagem": "https://s2-g1.glbimg.com/VNWob9zE1rbI6zQn_nZwAyI7C10=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/k/l90QzQRh2RCM2dSyFv9w/copia-de-molduras-g1-.jpg"
-    },
-    {
-      "titulo": "Assista ao EPTV1",
-      "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
-    },
-    {
-      "titulo": "Auditor do Aeroporto de Fortaleza preso: entenda o esquema de fraude em importação com propina milionária",
-      "imagem": "https://s2-g1.glbimg.com/pNaWPr0ALNdLQ7BNPKOcGan9e5I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/t/FVeUDOQv6ZAnUp3S9pVQ/lancha-apreendida.jpg"
-    },
-    {
-      "titulo": "Setor de fertilizantes pede R$ 2 bilhões ao governo para conter impacto da guerra no Irã",
-      "imagem": "https://s2-g1.glbimg.com/9GO8cgM5xNy70xg4J4YE_CxMOYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/P/8M1rt0QVia0pC7Mi31Ow/foto-especial.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-25T16:54:03.720Z"
+  "atualizadoEm": "2026-08-25T17:28:06.136Z"
 }
