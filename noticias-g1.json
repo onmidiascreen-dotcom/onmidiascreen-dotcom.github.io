@@ -1,6 +1,70 @@
 {
   "noticias": [
     {
+      "titulo": "BYD mostra Mako no Festival Interlagos para enfrentar Fiat Toro e Volkswagen Tukan",
+      "imagem": "https://s2-g1.glbimg.com/eDVYio3N-75UF1lJnlEnc1nZYwA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/k/0XHOdySWqzF4aR3IQPmA/foto-8.png"
+    },
+    {
+      "titulo": "Carro é flagrado na contramão e em alta velocidade durante a madrugada em avenida da Barra da Tijuca",
+      "imagem": "https://s2-g1.glbimg.com/wePqlCeMATwYULyk98PhFDBh7MI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Q/q6v2TnSFSBeFPGg8W5yg/contramao.jpeg"
+    },
+    {
+      "titulo": "Músicas criadas por IA são banidas de paradas de sucesso na Austrália",
+      "imagem": "https://s2-g1.glbimg.com/VopmBdtzmt3qeCbVXq7ret1wMiY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/x/jz9VTWSiKr7W4740UsLA/sgcdesignco-nio8fd-rnge-unsplash.jpg"
+    },
+    {
+      "titulo": "Sistema prisional do AC recebe quase R$ 100 mil para compra de medicamentos",
+      "imagem": "https://s2-g1.glbimg.com/NGLVfUYwKBTCkC4t6y8RgTKWCFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/I/n8RPQeTESndfwQC6C6eg/midia-de-distribuicao-g1-2026-08-24t123014.539.png"
+    },
+    {
+      "titulo": "Centro Cultural João Fona celebra 35 anos com oficinas, exposição e apresentações culturais em Santarém",
+      "imagem": "https://s2-g1.glbimg.com/0ba1f3Y4O9mLQar1zFDf41fGLd4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/n/nN0jCGRay1qgw1chkVNQ/agencia-santarem-2-.jpg"
+    },
+    {
+      "titulo": "Motociclista morre em acidente envolvendo cinco veículos na Dom Pedro I, em Atibaia",
+      "imagem": "https://s2-g1.glbimg.com/NFLSWo-3Vh0mIqsg7roxle0s1yI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/2/0Jj4nARjAuPHftXk7l5w/foto-g1-6-.png"
+    },
+    {
+      "titulo": "Polícia encontra barras de maconha dentro de máquina de lavar roupas em Mantena",
+      "imagem": "https://s2-g1.glbimg.com/Q6UnwmyUKjYWyMzUpbhlndUiXt0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/8/rls5hqQFevowJyJSI9zg/whatsapp-image-2026-08-25-at-07.28.49.jpeg"
+    },
+    {
+      "titulo": "Dia do Feirante: veja onde encontrar feiras livres nesta terça-feira no Vale do Paraíba",
+      "imagem": "https://s2-g1.glbimg.com/btqKXR9Hg_BRaVKFADDPWGAj748=/s.glbimg.com/jo/g1/f/original/2016/11/07/feirante6.jpg"
+    },
+    {
+      "titulo": "Assista ao Boa Noite Espírito Santo",
+      "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
+    },
+    {
+      "titulo": "Capotamento de van deixa condutor ferido na Via Dutra",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia apreende mais de 300 tabletes de skunk enterrados em cova na Zona Norte de Manaus",
+      "imagem": "https://s2-g1.glbimg.com/JvKY551Kb4MuLqddfhkDXVr3_gY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/T/9OH9grT0usuiEU4MCnBw/design-sem-nome-100-.png"
+    },
+    {
+      "titulo": "Homem suspeito de mandar matar o próprio irmão é preso no DF",
+      "imagem": "https://s2-g1.glbimg.com/fwc8UzOJ5vMbNlIAIwkMBf-yQGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/A/zMPBPqSvWsDBBaWUVOqQ/g1-14-.jpg"
+    },
+    {
+      "titulo": "Assista ao Bom Dia Vanguarda ao vivo no g1",
+      "imagem": "https://s2-g1.glbimg.com/eNmYHfknzzliwQJLsNi8qyf2BDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/r/qhMVONTJuDaQtelrYKjA/a64b4644-73da-40c5-b2f0-17b0321381f0.jpg"
+    },
+    {
+      "titulo": "Acusado de jogar mulher do 10º andar solto pela Justiça foi ao velório da vítima e chorou abraçado ao caixão",
+      "imagem": "https://s2-g1.glbimg.com/T5defI5zeFSXrjNYrhbvVUA1h9I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/T/W/t0LZ93Reimky1x582lRw/marido-chora-em-velorio.jpg"
+    },
+    {
+      "titulo": "Bebê encontrada em sacola de lixo no Paraná chegou ao hospital com hipotermia e duas fraturas, mas estado de saúde é estável",
+      "imagem": "https://s2-g1.glbimg.com/K-QhlYbnF5-MWF2YmaGXVFeaIOU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/w/upe5AAQyqdlXsjc1DCMg/fundo-vermelho-2-.png"
+    },
+    {
+      "titulo": "Três mulheres são presas suspeitas de falsificação e venda irregular de medicamentos no PI; diversos itens apreendidos",
+      "imagem": "https://s2-g1.glbimg.com/ZK0wRmflxnFFtQQZvj6qTHNaEhk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/pspTBcTRGIoQgPGSlp3w/edicao-imagens-g1-11-.png"
+    },
+    {
       "titulo": "Ferryboat Baía de São Marcos tem viagens suspensas para manutenção nesta terça-feira em São Luís",
       "imagem": "https://s2-g1.glbimg.com/V9JORnJgaEQ4IIw90CO0qFcurW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/w/hBgaqFQ56TLHrG2VBh5Q/whatsapp-image-2026-08-25-at-07.38.13.jpeg"
     },
@@ -14,7 +78,7 @@
     },
     {
       "titulo": "Família procura advogado desaparecido há três dias na Bahia; polícia faz buscas",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/V73PWcTFGrApRAbz0svSflkH4U0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/S/tBRlbBSiagv52aVvncXg/foto-no-tamanho-home-15-.png"
     },
     {
       "titulo": "TRE-SP abre vagas temporárias para Eleições 2026 com salário de R$ 1,8 mil no interior de SP; veja oportunidades",
@@ -25,7 +89,7 @@
       "imagem": "https://s2-g1.glbimg.com/AsrrHvBGLh7C8MmROLrooWNVrr8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/S/P/4uqAvyTXaHKg6XjpmFxg/casa.jpeg"
     },
     {
-      "titulo": "PF faz operação contra fraudes em importações no Aeroporto de Fortaleza",
+      "titulo": "PF faz operação contra esquema de corrupção e lavagem de dinheiro no Aeroporto de Fortaleza",
       "imagem": "https://s2-g1.glbimg.com/ZDZF1jSSDGcn77W9M5aXg9S8CQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/i/EbxPf9TGaOp1mNFvzPVA/aeroporto.jpg"
     },
     {
@@ -34,7 +98,7 @@
     },
     {
       "titulo": "Polícia Civil investiga fraudes e desvio de verbas públicas em contratos municipais em Sergipe",
-      "imagem": "https://s2-g1.glbimg.com/2wW998G5i_dwSJe7sf6_38tpY_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/j/hk2WHUTQybza23KLWyMg/operacao.jpg"
+      "imagem": "https://s2-g1.glbimg.com/Ih_dZSA81tUjVGSqWdMp_qa7S7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/A/a4htuzSS6rYveZ3VHFPQ/operacao-2.jpg"
     },
     {
       "titulo": "Três animais ameaçados de extinção morrem atropelados em rodovias do interior de SP em dois dias: 'Perda absurda', diz biólogo",
@@ -55,71 +119,7 @@
     {
       "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
       "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Engavetamento entre duas carretas e carro deixa um ferido na Via Dutra, em Barra Mansa",
-      "imagem": "https://s2-g1.glbimg.com/BMqJJvUqEGHX81mjET5FnKpwqM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/m/1Z08MDRN64y9j8BJSAAw/image-18-.jpg"
-    },
-    {
-      "titulo": "Falha de operação atrasa viagens do metrô em BH e Contagem nesta terça-feira",
-      "imagem": "https://s2-g1.glbimg.com/VSnn97RrROddIO8Om7ng0CJEVwU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/VqQXtdTTiHk8o3ay1Mzw/captura-de-tela-2026-08-25-072929.png"
-    },
-    {
-      "titulo": "Homem é preso suspeito de ameaçar e divulgar vídeos íntimos de ex-mulher, na PB",
-      "imagem": "https://s2-g1.glbimg.com/fSPxyKyI0bkTbUv6HXJmk5SHpzU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/t/rorAQxSSa2Bakk7nj8ZQ/prisaosolanea.jpg"
-    },
-    {
-      "titulo": "Cancelamento de remédio de R$ 20 milhões frustra famílias de crianças com distrofia muscular",
-      "imagem": "https://s2-g1.glbimg.com/iN9Ab1tsT4LIuGREIqGgGUXoTec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/B/EVyD2MTMum41LG3JC8Ow/bau-duchenne.jpeg"
-    },
-    {
-      "titulo": "Ponte Torta passará por obras emergenciais no valor de R$ 8,7 milhões em Carmo do Rio Claro",
-      "imagem": "https://s2-g1.glbimg.com/LoDzF9r2jI_rT6zjdtGtMEriq-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/g/MuGzolSIGow7mEwRABWw/ponte-torta3.jpg"
-    },
-    {
-      "titulo": "Caso Yasmin Macêdo: julgamento de acusado pela morte da influenciadora ocorre nesta terça-feira, 25, em Belém",
-      "imagem": "https://s2-g1.glbimg.com/QTnfVH-HZly4MoRTS2CY7Cp9iUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/r/elL1rgQJa4hI6AhtAA5Q/whatsapp-image-2026-08-25-at-07.22.05-1-.jpeg"
-    },
-    {
-      "titulo": "Bom Dia Cidade Piracicaba ao vivo",
-      "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
-    },
-    {
-      "titulo": "Adam Levine e capivaras? Show do Maroon 5 rende lista de 'rolês' em Rio Preto; confira",
-      "imagem": "https://s2-g1.glbimg.com/VhhlP56YsFnK1Kc9KGA96zaBI1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/j/2L0BvPQti55JbaA9XFbQ/14795582-2026-08-24t200504.336.jpg"
-    },
-    {
-      "titulo": "Mulher é morta a tiros dentro de casa em Caxias; polícia procura suspeitos",
-      "imagem": "https://s2-g1.glbimg.com/4tCYjJIN062Z7_8D4DEehgDHVBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/Q/sn5PkPQ5OGlLKe0cCOFw/montagens-1920-x-1080-px-2026-08-25t071932.637.png"
-    },
-    {
-      "titulo": "Motorista de app que recebeu proposta em dinheiro para ouvir história de traição e preferiu pizza estava a R$ 100 de bater a meta",
-      "imagem": "https://s2-g1.glbimg.com/Eh1NMDXBVNc3SOw-OoYgzW4cM9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/0/59Mj6xTC62qcxkUE8dmw/co.jpg"
-    },
-    {
-      "titulo": "Acidente entre carro e moto deixa pessoa ferida em Volta Redonda",
-      "imagem": "https://s2-g1.glbimg.com/tHF6t1yYYUKUCCWphvXusd04Nz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/Z/4gNS6vQbACNe23TlSYng/image-2-1-.png"
-    },
-    {
-      "titulo": "Bom Dia Cidade - Ribeirão e Franca",
-      "imagem": "https://s2-g1.glbimg.com/5Db3pzqHzeCD6vSqEpxOFb9UvEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/v/FMd4ZuT8uJLkmIab6LLw/still0208-00000.jpg"
-    },
-    {
-      "titulo": "DF tem 1º caso de internação involuntária de pessoa em situação de rua",
-      "imagem": "https://s2-g1.glbimg.com/2u4C8T0y2HEZDiW3umUDypvFKQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/3/MPv0BeS3yhICiO1fEu6Q/g1.png"
-    },
-    {
-      "titulo": "Assista ao Bom Dia Cidade Campinas",
-      "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
-    },
-    {
-      "titulo": "ANPD multa TikTok em R$ 153,7 milhões por falhas na proteção de menores",
-      "imagem": "https://s2-g1.glbimg.com/Pf23uYXpJLhv8sUGEqJwPioSdQs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/S/H9AUkxReuGzSUwtXB1kw/f3950a10-08c0-11f1-aafb-b779276533c4.jpg.webp"
     }
   ],
-  "atualizadoEm": "2026-08-25T10:48:39.088Z"
+  "atualizadoEm": "2026-08-25T11:23:06.325Z"
 }
