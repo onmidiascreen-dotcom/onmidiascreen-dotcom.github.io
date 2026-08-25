@@ -1,7 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Real Time Big Data: Juliana Brizola lidera ao Governo do RS, com 38%",
+      "imagem": null
+    },
+    {
+      "titulo": "Paraná Pesquisas: Paes lidera no RJ; Ruas e Garotinho empatam em 2º",
+      "imagem": null
+    },
+    {
+      "titulo": "Após seis meses de guerra, Ormuz tem tráfego mínimo e milhares de marinheiros permanecem bloqueados",
+      "imagem": null
+    },
+    {
+      "titulo": "Ônibus fretado tomba na zona norte de São Paulo e deixa feridos",
+      "imagem": null
+    },
+    {
       "titulo": "Confira os falecimentos de Ivaiporã e região desta terça-feira (25)",
+      "imagem": null
+    },
+    {
+      "titulo": "Confira os falecimentos desta terça-feira (25) em Apucarana e região",
       "imagem": null
     },
     {
@@ -39,27 +59,7 @@
     {
       "titulo": "Neve deixa milhares de desabrigados na Bolívia",
       "imagem": null
-    },
-    {
-      "titulo": "Simepar prevê retorno da chuva e máxima de 23°C em Apucarana",
-      "imagem": null
-    },
-    {
-      "titulo": "Recuperação da Braskem pode afetar fundos, COEs e debêntures",
-      "imagem": null
-    },
-    {
-      "titulo": "Só vi fantasmas duas vezes na vida, e um deles foi o de Guimarães Rosa",
-      "imagem": null
-    },
-    {
-      "titulo": "Tarcísio quer expandir modelo criado na cracolândia para o interior de SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Auditoria do TCU aponta risco de colapso em ponte e atraso em obras de ferrovia na Bahia",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-25T09:41:09.680Z"
+  "atualizadoEm": "2026-08-25T10:06:01.057Z"
 }
