@@ -80,12 +80,13 @@
      deixando o resto da faixa baixinho para não cobrir a propaganda. */
   .newsband{
     position:absolute;left:0;right:0;bottom:0;z-index:1;
-    /* 25/08: tentei tirar o backdrop-filter (pesa na GPU em cima de vídeo), mas sem
-       ele a borda do clip-path diagonal passou a tremer/piscar — o blur escondia
-       isso de graça. Revertido: preferível o custo de GPU conhecido a um bug visual
-       novo às vésperas da instalação. */
-    background:rgba(14,20,28,.52);
-    -webkit-backdrop-filter:blur(4px);backdrop-filter:blur(4px);
+    /* 25/08: sem o backdrop-filter, a borda do clip-path diagonal tremia/piscava —
+       o blur "escondia" isso de graça por forçar essa faixa pra sua própria camada
+       de composição. will-change faz o navegador promover a camada do mesmo jeito,
+       bem mais barato que recalcular um desfoque a cada quadro (não testado no
+       aparelho real ainda — se voltar a tremer, o blur de volta é o plano B). */
+    background:rgba(10,15,22,.72);
+    will-change:clip-path;
     color:#fff;display:flex;flex-direction:column;align-items:flex-start;gap:.9rem;
     padding:.8rem 1.8rem 1.4rem;
     clip-path:polygon(
