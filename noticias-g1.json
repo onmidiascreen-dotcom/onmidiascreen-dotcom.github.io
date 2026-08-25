@@ -1,125 +1,125 @@
 {
   "noticias": [
     {
+      "titulo": "Previsão do tempo hoje para Brasília (DF): dia de sol com algumas nuvens e névoa ao amanhecer; noite com poucas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/2Dr9qO1Df4pLqtJn22xBN5g0Fvs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/p/rRlcE0TlaIgBPNw4S5qQ/previsao-tempo-bras-lia-20260825-030653.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para São Paulo (SP): sol com muitas nuvens de manhã passando a nublado, com possibilidade de garoa, à noite; à noite o tempo ainda não abre",
+      "imagem": "https://s2-g1.glbimg.com/-LXS3FNRzK2Jvjm6wFEkDUX--hw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/d/3ZcgRERbePXCiVUutz9Q/previsao-tempo-s-o-paulo-20260825-030637.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/vrRLKouFCsuQHwxRlrwfwmun7-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/g/qaLs9OTAejBBmuYnvBig/previsao-tempo-s-o-bernardo-do-campo-20260825-030622.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/jwwVSD4zNnWk5U6CAoFriRO9baE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/K/2fDkFJSBA8oBb73Kdm5A/previsao-tempo-santo-andr-20260825-030604.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/EfICP5M_VjGyzGW3gJsOcJIFPjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/9/ZJVSlsSiAkFyhfCBoANg/previsao-tempo-osasco-20260825-030540.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/YaXsW10avNCPLIKJdaCUtQmeHuE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Y/ffsVPaSjGbgzBwNxLhbw/previsao-tempo-guarulhos-20260825-030523.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/2qLGm0yGJS04P-m4VEUpk2oNCW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/g/zl8kF1TzSf9v78SPLBdg/previsao-tempo-s-o-gon-alo-20260825-030506.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): tempo chuvoso durante o dia e à noite",
+      "imagem": "https://s2-g1.glbimg.com/1-7IxE7WfHn5cH-xjj2D6moC5Co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/J/saFcVNTVGX0uhOwKY9yw/previsao-tempo-rio-de-janeiro-20260825-030450.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): tempo nublado com chuva de manhã; à tarde pode garoar, o tempo abre, devagar, à noite",
+      "imagem": "https://s2-g1.glbimg.com/q74V8OkwV0grvWKKVqxI0B-w35M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/O/CzODb8TmKxgBaD2kXfQw/previsao-tempo-nova-igua-u-20260825-030432.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/Y5R5GzX9O1ugBLTzF4H1pzTmbkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/y/pd1z7VSAAUeGIp0zVSAQ/previsao-tempo-niter-i-20260825-030416.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/3yfxMS7o4PE2DFrIsoYN4AH9lqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/i/Vr5mfzRQmyCyIhUIKPMg/previsao-tempo-duque-de-caxias-20260825-030400.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/mvC7txSAZyLc7qAN3KLddPslUKs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/S/gYv2DWQrC50cwC5UKAow/previsao-tempo-sete-lagoas-20260825-030344.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/gK3xbcq1NYIjLxdMG0poOkuy-xc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Z/l0S2fwTiANMnUXA1IHbQ/previsao-tempo-ribeir-o-das-neves-20260825-030328.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Contagem (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/QAZCfJ0IgPeuyxhY8yYbfPY2JxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/x/J3BHdkTBO6sczmvrpKlQ/previsao-tempo-contagem-20260825-030304.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Betim (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+      "imagem": "https://s2-g1.glbimg.com/3TfBV5rozZHeG9J3a7l-fGGNhUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/E/iCkTJ3Rl6TDYFB1wHEZw/previsao-tempo-betim-20260825-030247.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
+      "imagem": "https://s2-g1.glbimg.com/1qCfrjXfNsvN88ZVOA-VdLFNCb4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/H/u8SPtvQIKP6bwoKegCMQ/previsao-tempo-belo-horizonte-20260825-030222.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens e chuva passageira durante o dia; à noite o tempo fica firme",
+      "imagem": "https://s2-g1.glbimg.com/WYSKuzRz03LVX8pyamWAKa-EntE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Z/b4knXcSUAnkOBSAet6sg/previsao-tempo-recife-20260825-030205.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Paulista (PE): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
+      "imagem": "https://s2-g1.glbimg.com/zYVTqCtU3j9FaO7t6LkcP-bFgEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/r/1NRkVaT8uOulv41uu5lw/previsao-tempo-paulista-20260825-030149.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Olinda (PE): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
+      "imagem": "https://s2-g1.glbimg.com/4-L2eMElGF9QiurVLT4VaPrilJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/7/9WoiD2ROyEAk1THEZeEw/previsao-tempo-olinda-20260825-030134.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Jaboatão dos Guararapes (PE): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
+      "imagem": "https://s2-g1.glbimg.com/MyO5yKhxONw5s_943qRe7ql3TAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/R/vL0GapTrGEkavQyedypQ/previsao-tempo-jaboat-o-dos-guararapes-20260825-030119.jpeg"
+    },
+    {
+      "titulo": "Previsão do tempo hoje para Cabo de Santo Agostinho (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
+      "imagem": "https://s2-g1.glbimg.com/qb_PbfEO44QGVreXwquJBcM0UvE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/R/Y2E0pnSAOPdhgccFc0KA/previsao-tempo-cabo-de-santo-agostinho-20260825-030056.jpeg"
+    },
+    {
+      "titulo": "VÍDEO: gado foge de incêndio que atinge fazendas; fogo avança por áreas rurais de três estados",
+      "imagem": "https://s2-g1.glbimg.com/dinAxU-imQRdzlrkRUrrEVNuQ1I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/3/COTQoJSaaiTASLzt1Y8Q/captura-de-tela-2026-08-24-151826.jpg"
+    },
+    {
+      "titulo": "Laje de casa em construção é erguida ilegalmente em torno de fiação pública e imagem viraliza; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/gfMbXKecZ0PN2zH2CTVks67qjYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/2/26qYVQRUaFLAwdmwbQ7A/casa-fiacao.jpg"
+    },
+    {
+      "titulo": "Menina de 8 anos morre após ser infectada por 'ameba comedora de cérebro' nos EUA",
+      "imagem": "https://s2-g1.glbimg.com/VmSiasyDkktLt8nlkR6NQBbEsPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/N/n2fAowSlKU4GnvROpSmQ/fotojet-1-.jpg"
+    },
+    {
+      "titulo": "Desvendado o mistério do 'chifre' do narval, o 'unicórnio do mar'",
+      "imagem": "https://s2-g1.glbimg.com/BVcM4jQqfxs--YFsiJ0ov-qST6M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/E/1LxnZeTrW4xrdJKSgM9g/2026-08-20t144341z-650996713-rc2e2na3gmj9-rtrmadp-3-science-narwhals.jpg"
+    },
+    {
+      "titulo": "'Fechar a torneira': como funcionam os tratamentos experimentais que Lito busca para tentar frear doença rara",
+      "imagem": "https://s2-g1.glbimg.com/JiqK1LEH8tWW3hBVfrKL55ky5Mc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/8/IB2IIWTO60bEWKWltHhQ/lito.png"
+    },
+    {
+      "titulo": "Como o El Niño assustador de 1983 fez o Brasil descobrir o problema há 4 décadas; veja no arquivo do JN",
+      "imagem": "https://s2-g1.glbimg.com/BBSc8rRQu9URtFQf-sTzkCIO8zw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/E/4Zqp1lSJKRplxiEThlUA/acervo-jn-el-nino-83.01-frame-1769.jpeg"
+    },
+    {
+      "titulo": "Dentista agredida por empresário acusa ex-marido de violência sexual dentro do casamento",
+      "imagem": "https://s2-g1.glbimg.com/K3PNgQ-lLMqHuGkQKyUaSu7eTs8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/L/4vWLuWSfy2WYnfVjjK3A/captura-de-tela-2026-08-24-130449.png"
+    },
+    {
       "titulo": "Série do Jornal da Globo fala com trabalhadores autônomos de SP para entender eleitores independentes",
       "imagem": "https://s2-g1.glbimg.com/T-pmn2lwVgzhEkF2HuFuBUyupqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/q/1FGGZUTWKqiWczAaYy4w/260821-info-voto-pendular-sp-01.jpg"
     },
     {
       "titulo": "Pais criticam negligência no combate ao bullying em colégio onde aluno foi esfaqueado em Ribeirão Preto",
       "imagem": "https://s2-g1.glbimg.com/ulW4JD44jlS4v1ExnEtkwx1P5LM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/J/iljJTLTYShR4R1hqnt4w/copia-de-molduras-g1-4-.png"
-    },
-    {
-      "titulo": "Dois anos e 200 testes: como um saco de carvão virou negócio de R$ 1 milhão",
-      "imagem": "https://s2-g1.glbimg.com/V2rfn-kBZCuovLzkCa5Kdt8mrLg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/l/xVDcsOTu6xBdIhWf6MEQ/captura-de-tela-2026-03-02-112908.png"
-    },
-    {
-      "titulo": "Justiça Eleitoral do DF se prepara para fiscalizar uso de IA na disputa de 2026; veja regras",
-      "imagem": "https://s2-g1.glbimg.com/Z74q2p-uee0_kLdB5S5s-zGRAw8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/i/F/dCwAl2ROq1rp7TJkUYkg/acervo-df2-tre-2022-fernanda-frame-517.jpeg"
-    },
-    {
-      "titulo": "MP denuncia médica de UPA por negligência e falsidade ideológica após criança morrer por picada de escorpião",
-      "imagem": "https://s2-g1.glbimg.com/b-z2fHKJhYsL4DH7z-W0BXD8TJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/n/YuAoXuR4Cj39AMpasssQ/design-sem-nome-2-.png"
-    },
-    {
-      "titulo": "Produção de imagens de Nossa Senhora triplica antes da Festa da Padroeira; velas e hóstias têm alta na procura",
-      "imagem": "https://s2-g1.glbimg.com/eZpiIcJtJ9fvLbsLTtIXoDlknD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/X/zhky2GQE29IM0I8Bfmmw/foto-g1-2-.jpg"
-    },
-    {
-      "titulo": "Calçada que cedeu e engoliu carros em Porto Alegre ainda não tem prazo para reconstrução; entenda",
-      "imagem": "https://s2-g1.glbimg.com/EO2QLBzG8WO3z48lIvAN0F-DvQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/L/AZntS6RkWMXXqAi6BBSQ/documento.png"
-    },
-    {
-      "titulo": "Casas Bahia, Braskem e a onda de recuperações judiciais pelo Brasil - O Assunto #1790",
-      "imagem": "https://s2-g1.glbimg.com/kETjWZ1d8MUdGWgMNC9az4DQtvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/h/Bhd8iNTRGiIlBA4Ar9lQ/globo-canal-4-20260818-2000-frame-73638.jpeg"
-    },
-    {
-      "titulo": "Mirante da Lagoa recebe placa contra caça de animais silvestres em Macaé",
-      "imagem": "https://s2-g1.glbimg.com/Uiprm2_RX72cxOL-2T4sTXPN2dk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/0/BVTRUcRliZpb7c2kuBSg/substituicao-foto-2-mirante-da-lagoa.jpeg"
-    },
-    {
-      "titulo": "Comunidade rural de Brejão, em Montes Claros, vai ganhar ponte de concreto",
-      "imagem": "https://s2-g1.glbimg.com/IOrk7ESMbvx4bQzWGBzwoCvFfq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/7/pTaVSJRoq5IkAoilssPg/brejao-jose-pedro.jpeg"
-    },
-    {
-      "titulo": "Pacientes começam a ser atendidos no novo Centro de Imagem",
-      "imagem": "https://s2-g1.glbimg.com/rFvOv-KVXXIdlMkwrV6PuGX0bwQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/P/xYp6gaQwui7CpQABNx0Q/320x180-foto-destaque-horizontal-21-.png"
-    },
-    {
-      "titulo": "'Taxa das blusinhas', fim da 6x1, terras raras: Lula tenta destravar pautas do governo em reunião com Alcolumbre e Motta",
-      "imagem": "https://s2-g1.glbimg.com/0pjXaEb17cRApDvqAKUxKL_2T4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/V/0BZNsxTZmdvBYigNNrXQ/age20250521029.jpg"
-    },
-    {
-      "titulo": "STF faz audiência pública sobre combate a facções criminosas; Lei Antifacção é questionada na Corte",
-      "imagem": "https://s2-g1.glbimg.com/tn02iAqkwRbbfq2GHPhMwn12abk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/m/BBMx9DSwKkTcPnyEKV0Q/globo-canal-4-20260630-2000-frame-78887.jpeg"
-    },
-    {
-      "titulo": "Eclipse lunar 'quase' total vai encobrir a Lua de quinta para sexta; fenômeno poderá ser visto em todo o Brasil",
-      "imagem": "https://s2-g1.glbimg.com/UonwnlYjTCucIwzDHAdxGPgb1eU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/j/E/soKBsaSfubBtxiJUKIgw/whatsapp-image-2024-10-03-at-12.28.13-2-.jpeg"
-    },
-    {
-      "titulo": "Deepfake nas eleições: entenda o que é e por que pode enganar o eleitor",
-      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
-    },
-    {
-      "titulo": "Ronaldo Caiado participa de entrevista da Globo nesta terça-feira; saiba como assistir",
-      "imagem": "https://s2-g1.glbimg.com/JnP6W17dJVgw0loE93-UBw25ngI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/5/D5nOdWSsyAk2LB9KQVuA/copia-de-copia-de-copia-de-padrao-foto-g1-goias-5-.jpg"
-    },
-    {
-      "titulo": "Mega-Sena pode pagar R$ 3,5 milhões nesta terça-feira; g1 transmite ao vivo",
-      "imagem": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
-    },
-    {
-      "titulo": "Policial que matou dupla e disse que confundiu macaco hidráulico com arma vai a júri, 11 anos depois",
-      "imagem": "https://s2-g1.glbimg.com/IufXBURHi3miNkpYoIiK2BIDaiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/8/QNU7y5TGW2TITvTaRyqw/montagem-horizontal-1200px-1-.jpg"
-    },
-    {
-      "titulo": "INSS inicia pagamento de benefícios de agosto; veja calendário",
-      "imagem": "https://s2-g1.glbimg.com/FSrA26gH50mwWjufE3sNAfSVk5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/x/r/SO8y8gRBikdBq34bU8xA/20231102-131516.jpg"
-    },
-    {
-      "titulo": "Free flow: veja o passo a passo para consultar e pagar pedágio eletrônico no app CNH do Brasil",
-      "imagem": "https://s2-g1.glbimg.com/7KXmXPcj7ROX-dPpbDakbLzoLaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/d/GANMKpRdCzsxHCMwZvWQ/cnh-do-brasil.jpg"
-    },
-    {
-      "titulo": "Häagen-Dazs fora do Brasil: por que a marca de sorvetes americana tem nome que parece ser dinamarquês",
-      "imagem": "https://s2-g1.glbimg.com/b5Zxvkoa57c5sLIPTSs7Ad5lHnE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/5/ZnZoDKTBKvJBCtUuDoOg/meow-meow-meow-meow-42-.png"
-    },
-    {
-      "titulo": "Jovem sequestrada pelo ex conta que suspeito afirmava que se ela não fosse dele, não seria de mais ninguém: 'Sempre deixou isso muito claro'",
-      "imagem": "https://s2-g1.glbimg.com/Dvu6uLyVo5s1HNKXciZmHwv0dfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/zDHczzQo67DYBTBUYmSA/padrao-foto-g1-goias-36-.jpg"
-    },
-    {
-      "titulo": "Saída do batalhão, disparos e corpo carbonizado: veja cronologia da morte de soldado na Grande Fortaleza",
-      "imagem": "https://s2-g1.glbimg.com/fur-G7diMrhaNcVPmfUxfCv6LQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/P/BSdnsbThKGTviJpszFkA/carro-e-incendiado-em-fortaleza.jpg"
-    },
-    {
-      "titulo": "Banda Pernambulô mixa percussão e beats na levada do álbum 'Baque irado'",
-      "imagem": "https://s2-g1.glbimg.com/QbsLzpa2U-pyl0JleIAzKENmF_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/h/mBumLCRFSZfoe8Gxuy8A/pernambulo-foto-01.jpg"
-    },
-    {
-      "titulo": "Instrutor de academia nega assédio e diz que mordida em aluna foi 'brincadeira'",
-      "imagem": "https://s2-g1.glbimg.com/i7NoESuv15n75YUmCe_Ml8VXbmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/W/mBGuwhQvSzXPzTAxytkw/professora.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: Veja a agenda dos candidatos ao Governo do RJ na terça-feira",
-      "imagem": "https://s2-g1.glbimg.com/xyba54ksmrcB9mkM6klC2LB_O-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/N/Blk3UETTO9ktPBw1PaBQ/palacio2.jpeg"
-    },
-    {
-      "titulo": "Morte, vandalismo e seis suspeitos presos: veja o que dizem polícia, famílias e torcida após onda de violência pré-BaxVi",
-      "imagem": "https://s2-g1.glbimg.com/HWRPVKbR05uZSAUQi4lY3sE2oLo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/s/Bj8IxsT8Csx7dQhwyUhg/fotos-g1ba-3-.jpg"
-    },
-    {
-      "titulo": "Propostas de presidenciáveis priorizam reação à prevenção da violência contra crianças, diz Unicef",
-      "imagem": "https://s2-g1.glbimg.com/8kcGyYrSyovyvTMpWAzUWUi6qVc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/F/Q/lxe6g8Tniz94TsuYJBKA/fta20230412035.jpg"
-    },
-    {
-      "titulo": "Polícia Científica do Pará faz mutirão de coleta de DNA para identificar pessoas desaparecidas; veja como participar",
-      "imagem": "https://s2-g1.glbimg.com/FjUm-UDzYGmftNlabmfQhj3tId0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/A/t3bHUbTrexiN7ovvcJBg/dados.jpg"
-    },
-    {
-      "titulo": "Febre do Nilo Ocidental: veja o que se sabe dos casos no país; maioria das infecções não causa sintomas",
-      "imagem": "https://s2-g1.glbimg.com/htmstW27DPCOOe1ZB4zxfUfRRbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/D7Ye2HRkisICFW1XPFRQ/culex-quinquefasciatus-female-feeding-16-9.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-25T05:46:21.631Z"
+  "atualizadoEm": "2026-08-25T06:39:28.639Z"
 }

@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "&#8220;One Disney&#8221;: a estratégia de Josh D&#8217;Amaro para unificar o império",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise WW: As relações entre Congresso, governo e STF",
+      "imagem": null
+    },
+    {
       "titulo": "Frio no Sul cede espaço e calor atinge as cinco regiões do Brasil",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Ancine aceita pedido de registro do filme &#8220;Dark Horse&#8221; no Brasil",
       "imagem": null
-    },
-    {
-      "titulo": "Missão da Coreia do Sul visita indústria de nutrição animal em MS",
-      "imagem": null
-    },
-    {
-      "titulo": "Motorista de aplicativo troca R$ 150 por pizza para ouvir desabafo de passageira sobre traição: &#8216;Estava morrendo de fome&#8217;",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-25T05:46:19.873Z"
+  "atualizadoEm": "2026-08-25T06:39:27.539Z"
 }
