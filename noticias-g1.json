@@ -1,12 +1,116 @@
 {
   "noticias": [
     {
+      "titulo": "Mirante da Lagoa recebe placa contra caça de animais silvestres em Macaé",
+      "imagem": "https://s2-g1.glbimg.com/Uiprm2_RX72cxOL-2T4sTXPN2dk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/0/BVTRUcRliZpb7c2kuBSg/substituicao-foto-2-mirante-da-lagoa.jpeg"
+    },
+    {
+      "titulo": "Comunidade rural de Brejão, em Montes Claros, vai ganhar ponte de concreto",
+      "imagem": "https://s2-g1.glbimg.com/IOrk7ESMbvx4bQzWGBzwoCvFfq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/7/pTaVSJRoq5IkAoilssPg/brejao-jose-pedro.jpeg"
+    },
+    {
+      "titulo": "Pacientes começam a ser atendidos no novo Centro de Imagem",
+      "imagem": "https://s2-g1.glbimg.com/rFvOv-KVXXIdlMkwrV6PuGX0bwQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/P/xYp6gaQwui7CpQABNx0Q/320x180-foto-destaque-horizontal-21-.png"
+    },
+    {
+      "titulo": "'Taxa das blusinhas', fim da 6x1, terras raras: Lula tenta destravar pautas do governo em reunião com Alcolumbre e Motta",
+      "imagem": "https://s2-g1.glbimg.com/0pjXaEb17cRApDvqAKUxKL_2T4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/V/0BZNsxTZmdvBYigNNrXQ/age20250521029.jpg"
+    },
+    {
+      "titulo": "STF faz audiência pública sobre combate a facções criminosas; Lei Antifacção é questionada na Corte",
+      "imagem": "https://s2-g1.glbimg.com/tn02iAqkwRbbfq2GHPhMwn12abk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/m/BBMx9DSwKkTcPnyEKV0Q/globo-canal-4-20260630-2000-frame-78887.jpeg"
+    },
+    {
+      "titulo": "Eclipse lunar 'quase' total vai encobrir a Lua de quinta para sexta; fenômeno poderá ser visto em todo o Brasil",
+      "imagem": "https://s2-g1.glbimg.com/UonwnlYjTCucIwzDHAdxGPgb1eU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/j/E/soKBsaSfubBtxiJUKIgw/whatsapp-image-2024-10-03-at-12.28.13-2-.jpeg"
+    },
+    {
+      "titulo": "Deepfake nas eleições: entenda o que é e por que pode enganar o eleitor",
+      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
+    },
+    {
+      "titulo": "Ronaldo Caiado participa de entrevista da Globo nesta terça-feira; saiba como assistir",
+      "imagem": "https://s2-g1.glbimg.com/JnP6W17dJVgw0loE93-UBw25ngI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/5/D5nOdWSsyAk2LB9KQVuA/copia-de-copia-de-copia-de-padrao-foto-g1-goias-5-.jpg"
+    },
+    {
+      "titulo": "Mega-Sena pode pagar R$ 3.5 milhões nesta terça-feira; g1 transmite ao vivo",
+      "imagem": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
+    },
+    {
+      "titulo": "Policial que matou dupla e disse que confundiu macaco hidráulico com arma vai a júri, 11 anos depois",
+      "imagem": "https://s2-g1.glbimg.com/IufXBURHi3miNkpYoIiK2BIDaiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/8/QNU7y5TGW2TITvTaRyqw/montagem-horizontal-1200px-1-.jpg"
+    },
+    {
+      "titulo": "INSS inicia pagamento de benefícios de agosto; veja calendário",
+      "imagem": "https://s2-g1.glbimg.com/FSrA26gH50mwWjufE3sNAfSVk5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/x/r/SO8y8gRBikdBq34bU8xA/20231102-131516.jpg"
+    },
+    {
+      "titulo": "Free flow: veja o passo a passo para consultar e pagar pedágio eletrônico no app CNH do Brasil",
+      "imagem": "https://s2-g1.glbimg.com/7KXmXPcj7ROX-dPpbDakbLzoLaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/d/GANMKpRdCzsxHCMwZvWQ/cnh-do-brasil.jpg"
+    },
+    {
+      "titulo": "Häagen-Dazs fora do Brasil: por que a marca de sorvetes americana tem nome que parece ser dinamarquês",
+      "imagem": "https://s2-g1.glbimg.com/b5Zxvkoa57c5sLIPTSs7Ad5lHnE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/5/ZnZoDKTBKvJBCtUuDoOg/meow-meow-meow-meow-42-.png"
+    },
+    {
+      "titulo": "Jovem sequestrada pelo ex conta que suspeito afirmava que se ela não fosse dele, não seria de mais ninguém: 'Sempre deixou isso muito claro'",
+      "imagem": "https://s2-g1.glbimg.com/Dvu6uLyVo5s1HNKXciZmHwv0dfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/zDHczzQo67DYBTBUYmSA/padrao-foto-g1-goias-36-.jpg"
+    },
+    {
+      "titulo": "Saída do batalhão, disparos e corpo carbonizado: veja cronologia da morte de soldado na Grande Fortaleza",
+      "imagem": "https://s2-g1.glbimg.com/fur-G7diMrhaNcVPmfUxfCv6LQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/P/BSdnsbThKGTviJpszFkA/carro-e-incendiado-em-fortaleza.jpg"
+    },
+    {
+      "titulo": "Banda Pernambulô mixa percussão e beats na levada do álbum 'Baque irado'",
+      "imagem": "https://s2-g1.glbimg.com/QbsLzpa2U-pyl0JleIAzKENmF_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/h/mBumLCRFSZfoe8Gxuy8A/pernambulo-foto-01.jpg"
+    },
+    {
+      "titulo": "Instrutor de academia nega assédio e diz que mordida em aluna foi 'brincadeira'",
+      "imagem": "https://s2-g1.glbimg.com/i7NoESuv15n75YUmCe_Ml8VXbmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/W/mBGuwhQvSzXPzTAxytkw/professora.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: Veja a agenda dos candidatos ao Governo do RJ na terça-feira",
+      "imagem": "https://s2-g1.glbimg.com/xyba54ksmrcB9mkM6klC2LB_O-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/N/Blk3UETTO9ktPBw1PaBQ/palacio2.jpeg"
+    },
+    {
+      "titulo": "Morte, vandalismo e seis suspeitos presos: veja o que dizem polícia, famílias e torcida após onda de violência pré-BaxVi",
+      "imagem": "https://s2-g1.glbimg.com/HWRPVKbR05uZSAUQi4lY3sE2oLo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/s/Bj8IxsT8Csx7dQhwyUhg/fotos-g1ba-3-.jpg"
+    },
+    {
+      "titulo": "Propostas de presidenciáveis priorizam reação à prevenção da violência contra crianças, diz Unicef",
+      "imagem": "https://s2-g1.glbimg.com/8kcGyYrSyovyvTMpWAzUWUi6qVc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/F/Q/lxe6g8Tniz94TsuYJBKA/fta20230412035.jpg"
+    },
+    {
+      "titulo": "Polícia Científica do Pará faz mutirão de coleta de DNA para identificar pessoas desaparecidas; veja como participar",
+      "imagem": "https://s2-g1.glbimg.com/FjUm-UDzYGmftNlabmfQhj3tId0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/A/t3bHUbTrexiN7ovvcJBg/dados.jpg"
+    },
+    {
+      "titulo": "Febre do Nilo Ocidental: veja o que se sabe dos casos no país; maioria das infecções não causa sintomas",
+      "imagem": "https://s2-g1.glbimg.com/htmstW27DPCOOe1ZB4zxfUfRRbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/D7Ye2HRkisICFW1XPFRQ/culex-quinquefasciatus-female-feeding-16-9.jpg"
+    },
+    {
+      "titulo": "Até quando vai o frio no Centro-Sul? Veja previsão do tempo para os próximos dias",
+      "imagem": "https://s2-g1.glbimg.com/mjgfd8WCI0wGLQtNXYgXqbQNLqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/E/4FocryR96NdId0bOdDtA/juiz-de-fora-previsao-do-tempo-ju-netto-2.jpeg"
+    },
+    {
+      "titulo": "Virada no tempo: RS poderá sair de 0°C com geada pela manhã para 25°C à tarde; confira previsão",
+      "imagem": "https://s2-g1.glbimg.com/evU8lu3yTH167VSfTsYKqQE8kS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/W/3IEjXnS0ikYWDSSQ5iew/g1-25-.jpg"
+    },
+    {
+      "titulo": "“3, 2, 1... gravando!”: Pipoca em Cena retoma oficinas de audiovisual em escolas públicas de Manaus nesta quarta",
+      "imagem": "https://s2-g1.glbimg.com/I5YVZkFww4gRlpq8wWqwiskqtEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/q/y3JjLwRS6T0CC59vK0jg/whatsapp-image-2026-08-24-at-16.12.31.jpeg"
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
+    },
+    {
       "titulo": "Tralli e Renata entrevistam Romeu Zema, candidato a presidente pelo Novo",
       "imagem": "https://s2-g1.glbimg.com/OtTS5Cw3xj_7emGdj0eVebzuoNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/6/oaKPOiTwmiOTNTaynLAQ/fta20260819050.jpg"
     },
     {
       "titulo": "Traficantes invadem unidade da Águas do Rio na Pavuna durante fuga de operação policial; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/T4K6Bg5P_E4G2ORm0eOxoH-H4pA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/PHtmkQQvmAZPCZWeANUw/imagem-cortada-2026-08-24t230459.227.jpg"
+      "imagem": "https://s2-g1.glbimg.com/bZgKvAyFOb4psRUrlWmHbSBImII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/2/0ak4PPTNKiR4MosqAgvA/imagem-cortada-2026-08-24t233919.949.jpg"
     },
     {
       "titulo": "Flávio Bolsonaro diz que montará time de ministros competentes e cita Daniella Marques",
@@ -15,111 +119,7 @@
     {
       "titulo": "Filhote de cachorro é resgatado após ficar preso em bueiro de 15 metros em Manaus",
       "imagem": "https://s2-g1.glbimg.com/AhTnudHike92f7-wDdp7pfqxNw8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/B/o2KfaCQQuEVTRVgyTY6A/g1-cachorro-resgate.jpg"
-    },
-    {
-      "titulo": "Abertura da final da Liga Nacional de Rodeio em Barretos tem disputa equilibrada entre touros e peões",
-      "imagem": "https://s2-g1.glbimg.com/PNBfIb7svtFZY2vtzuivfZYWHRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/3/mjBEXxTA6FZZuECOxa7g/daniel-ok.png"
-    },
-    {
-      "titulo": "FOTOS: Abertura da final da Liga Nacional de Rodeio",
-      "imagem": "https://s2-g1.glbimg.com/UeW-p7eiKT-GLDITlC9Evr0E_zU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/6/EwEK36ShWkQF84T1qBhw/dsc-2984.jpg"
-    },
-    {
-      "titulo": "Dnit libera ponte entre Pedro Afonso e Tupirama para veículos leves a partir desta terça-feira (25)",
-      "imagem": "https://s2-g1.glbimg.com/kfnkoDxRnC4_TBZNBRhyLJC0XbM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/t/PGe92URASmwHP92mMUGw/foto-luciano-ribeiro-secom.jpg"
-    },
-    {
-      "titulo": "Procissão luminosa reúne fiéis em noite de fé e devoção à Nossa Senhora Aparecida em Barretos",
-      "imagem": "https://s2-g1.glbimg.com/ahSmiBitoY25y1kHumHjhNJm2TA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/5/OMyE67QUGdZPycjFP7Og/dsc-2893.jpg"
-    },
-    {
-      "titulo": "Zema não garante aumento real do salário mínimo e diz que, 'por ora', não mexeria em idades de aposentadoria",
-      "imagem": "https://s2-g1.glbimg.com/QOkG9b_7KeHO_7q2rZ8Wc9cOXq4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/a/00xjEfR4yr5Lx9SFBvBg/globo-zema-2.jpg"
-    },
-    {
-      "titulo": "FOTOS: Procissão com Nossa Senhora Aparecida na Festa do Peão de Barretos",
-      "imagem": "https://s2-g1.glbimg.com/CpdrOkMRUL0JXu-tPxIUb4kNuH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/b/vSwRnoRAAGb1kevbJVgg/dsc-2877.jpg"
-    },
-    {
-      "titulo": "Familiares e amigos protestam após assassinato de jovem e soltura de suspeito em Belém",
-      "imagem": "https://s2-g1.glbimg.com/yOy3LLPnGKIrarSJllKcrPeYzKY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/C/mZ3sSxS3Gw7XaZj2zVXg/captura-de-tela-2026-08-24-211940.png"
-    },
-    {
-      "titulo": "Flávio Bolsonaro, candidato do PL à Presidência, tem agenda em São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/10SNT41MdAanONVcVHhb38D_bsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/K/DdNZMQRSyY62MqAc0lmA/globo-canal-4-20260824-2000-frame-103538.jpeg"
-    },
-    {
-      "titulo": "Romeu Zema, candidato do Novo à Presidência, faz campanha na Baixada Fluminense",
-      "imagem": "https://s2-g1.glbimg.com/bz2xLmcSbIo04WsWdwSOmPiBUkQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/l/NyUQjmQCO71kqklm21qA/globo-canal-4-20260824-2000-frame-101248.jpeg"
-    },
-    {
-      "titulo": "Ronaldo Caiado, candidato à Presidência pelo PSD, faz campanha em São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/XmaBAZAbO8Napulyrk74gj5caJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/h/edHLs5SmaNtp8wozBYMg/globo-canal-4-20260824-2000-frame-98758.jpeg"
-    },
-    {
-      "titulo": "Crimes eleitorais podem ser denunciados em canal da PF",
-      "imagem": "https://s2-g1.glbimg.com/y2tfIgQqe1tIlZvuQ0id_bYvIeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/C/1quGfISFiz2tBQC2Yh7w/globo-canal-4-20260819-2000-frame-7958.jpeg"
-    },
-    {
-      "titulo": "Veja o que é #FATO e o que é #FAKE na entrevista de Romeu Zema à Globo",
-      "imagem": "https://s2-g1.glbimg.com/sQMSYAUMiKlnFSU-6f3c2oXuN5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/r/Z8BucERTGPTlYUdz4njQ/whatsapp-image-2026-08-24-at-20.53.48.jpeg"
-    },
-    {
-      "titulo": "Renan Santos, candidato do Missão à Presidência, faz campanha em São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/LdCZ_k-pffQFrFYQsY8xRhEUqxg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/x/PcQWDxSUSd6sSgxrqNPw/globo-canal-4-20260824-2000-frame-96878.jpeg"
-    },
-    {
-      "titulo": "Chuva chega a Goiânia após dias de calor intenso; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/Fv8uLEb9JPT3XVO62dCTO5Y3I04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/9/rasWEhRX6xnhFKnJhT8A/g1-2026-08-24t213904.688.jpg"
-    },
-    {
-      "titulo": "O diploma que o mercado está pedindo (e que a faculdade não dá)",
-      "imagem": "https://s2-g1.glbimg.com/eJU5C3yXcVyxyc1qJiTe8p8Uv4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/O/GmjYuxStSSwdPUQsyOGQ/imagem-principal-g1-fundacao-bradesco-festival-led-04-v2.jpg"
-    },
-    {
-      "titulo": "Presidente Lula, candidato à reeleição pelo PT, tem agenda em Brasília",
-      "imagem": "https://s2-g1.glbimg.com/1PrvIVjRmuoVckPn12skgAeK-kA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/x/xs1sDaRFecRvDn2qS5kw/globo-canal-4-20260824-2000-frame-95595.jpeg"
-    },
-    {
-      "titulo": "Candidatos ao governo do Ceará promovem atos de campanha em Fortaleza nesta segunda-feira (24)",
-      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
-    },
-    {
-      "titulo": "TCE-AM julga irregulares contas do SPA Alvorada e manda ex-diretor devolver R$ 778 mil",
-      "imagem": "https://s2-g1.glbimg.com/-lH7Ur5JGcDW9bjQm4uHprlP3jo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/7/XCIBGiRXKuOqYREbGz2A/tce-contas.jpg"
-    },
-    {
-      "titulo": "Sorteio dos grupos da Copa do Mundo feminina será dia 11 de dezembro, no Museu de Arte Moderna, no Rio",
-      "imagem": "https://s2-g1.glbimg.com/jIJ_Qw6z_KPQYFK5EUsVjXHxdI8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/4/akhWbxROOUvBUoUEYTAA/globo-canal-4-20260824-2000-frame-82829.jpeg"
-    },
-    {
-      "titulo": "Morador morre no banheiro de casa em chamas em Três Lagoas",
-      "imagem": "https://s2-g1.glbimg.com/trfeEJxdixk1G6JMk4E9vH5DYj0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/Y/j2eFh4Sl6rhTH58X1YCQ/1200-x-800-3-.jpg"
-    },
-    {
-      "titulo": "'Foca EPronto' inicia ciclo de oficinas com profissionais do Grupo EP para estudantes de jornalismo",
-      "imagem": "https://s2-g1.glbimg.com/BTk02g1sQ-6ogs-XWbFSD-TDiDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/5/0PNjgkSWSauKLE8vBooQ/whatsapp-image-2026-08-24-at-21.27.14.jpeg"
-    },
-    {
-      "titulo": "No Amazonas, TRE começa a enviar urnas que precisam viajar mais de mil quilômetros pelo rio até os locais de votação",
-      "imagem": "https://s2-g1.glbimg.com/wKcwp5aQOwSOzTUptIN3NW9fhkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/C/R9cqTmRwWfsC9ljFkMOg/globo-canal-4-20260824-2000-frame-93046.jpeg"
-    },
-    {
-      "titulo": "Câmara de Campinas aprova aumento da idade mínima para servidor se aposentar e parcelamento de dívida com o Camprev",
-      "imagem": "https://s2-g1.glbimg.com/uKTJuvIpeD-1vUUob9fRWNMqZUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/g/X7hYXsQqiT1GRF5WE28A/55486370554-b5c347f58c-k.jpg"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
-    },
-    {
-      "titulo": "Super Sete hoje: resultado do concurso 890 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/7hhj4Ky1LP-slTq7dWQYmSO-Lh8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/w/65MuGsT2iNbBqmElfVsg/supersete-890-klobq.jpeg"
-    },
-    {
-      "titulo": "Romeu Zema (Novo) é entrevistado na Globo; veja íntegra",
-      "imagem": "https://s2-g1.glbimg.com/0o5maSQxBfDa_PKf4G8BvqKGC7g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/r/tc7xZLS2aGdKpXjBXhyQ/zema-globo.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-25T02:36:37.489Z"
+  "atualizadoEm": "2026-08-25T03:30:12.026Z"
 }

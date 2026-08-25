@@ -1,6 +1,38 @@
 {
   "noticias": [
     {
+      "titulo": "Frio no Sul cede espaço e calor atinge as cinco regiões do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Técnico do Athletico-PR, Odair Hellmann se machuca na comemoração de gol",
+      "imagem": null
+    },
+    {
+      "titulo": "Quaest: Renan Filho e JHC empatam nos dois turnos ao governo de AL",
+      "imagem": null
+    },
+    {
+      "titulo": "Quaest/AL: Lira tem 20%, Renan, 18% e Marina JHC, 15% na corrida ao Senado",
+      "imagem": null
+    },
+    {
+      "titulo": "Eurasia: Relação de Lula com Dino é vista como enfraquecimento do Congresso",
+      "imagem": null
+    },
+    {
+      "titulo": "Rayssa Leal apoia ONGs e escreve carta para meninas: &#8220;Ocupem as pistas&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "São Paulo confirma primeiros casos de Febre do Nilo Ocidental",
+      "imagem": null
+    },
+    {
+      "titulo": "Polícia investiga caso de mulher mantida em cativeiro sob tortura; ex-companheiro pode ter usado soda cáustica em caixa d&#8217;água durante relacionamento",
+      "imagem": null
+    },
+    {
       "titulo": "Gabriel Azevedo defende “regras claras” para explorar terras raras em MG",
       "imagem": null
     },
@@ -87,39 +119,7 @@
     {
       "titulo": "Motorista de aplicativo troca R$ 150 por pizza para ouvir desabafo de passageira sobre traição: &#8216;Estava morrendo de fome&#8217;",
       "imagem": null
-    },
-    {
-      "titulo": "TSE dá dois dias ao MP para reavaliar pendência na candidatura de Caiado",
-      "imagem": null
-    },
-    {
-      "titulo": "Claudia Leitte publica registro raro de três filhos juntos; veja foto",
-      "imagem": null
-    },
-    {
-      "titulo": "Quase na velocidade da luz cientistas recriam um mini Big-Bang colidindo partículas primordiais para criação do Universo",
-      "imagem": null
-    },
-    {
-      "titulo": "São Paulo informa lesão de Calleri após derrota para a Chapecoense",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: Negligência com dados de Juntas Comerciais blinda crime organizado",
-      "imagem": null
-    },
-    {
-      "titulo": "Escada rolante muda de direção e confunde passageiros no metrô do RJ",
-      "imagem": null
-    },
-    {
-      "titulo": "Sheron Menezzes encanta fãs com visual musculoso na academia; veja",
-      "imagem": null
-    },
-    {
-      "titulo": "Santos se manifesta e diz ter identificado torcedor que cuspiu em Reinaldo",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-25T02:36:35.807Z"
+  "atualizadoEm": "2026-08-25T03:30:11.237Z"
 }
