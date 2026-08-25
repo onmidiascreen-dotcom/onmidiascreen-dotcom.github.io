@@ -56,18 +56,6 @@
   "anuncios": [
     {
       "tipo": "video",
-      "tag": "LJ Anuncio 1",
-      "titulo": "Novo anúncio",
-      "texto": "",
-      "rodape": "",
-      "cor": "azul",
-      "predios": [
-        "infinity"
-      ],
-      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1785257932/kiaoxjggj0wxgv7w4tfw.mp4"
-    },
-    {
-      "tipo": "video",
       "tag": "Vale Verde 2 em 1",
       "titulo": "Novo anúncio",
       "texto": "",
