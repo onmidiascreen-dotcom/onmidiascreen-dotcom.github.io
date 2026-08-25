@@ -53,26 +53,5 @@
       "fonteNoticias": "g1"
     }
   ],
-  "anuncios": [
-    {
-      "tipo": "video",
-      "tag": "Vale Verde 2 em 1",
-      "titulo": "Novo anúncio",
-      "texto": "",
-      "rodape": "",
-      "cor": "azul",
-      "predios": [],
-      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1785260558/iekcded0qfkmrl1k4lml.mp4"
-    },
-    {
-      "tipo": "video",
-      "tag": "",
-      "titulo": "Novo anúncio",
-      "texto": "",
-      "rodape": "",
-      "cor": "azul",
-      "predios": [],
-      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1787626502/vl5lzqjulauwiki0zegm.mp4"
-    }
-  ]
+  "anuncios": []
 }
