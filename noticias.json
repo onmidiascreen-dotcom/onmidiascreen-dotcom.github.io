@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Folha de louro: entenda truque noturno para deixar o lar perfumado",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasil e China discutem ampliação de voos diretos e maior cooperação aérea",
+      "imagem": null
+    },
+    {
+      "titulo": "Índice de confiança do consumidor nos EUA recua a 89,4 em agosto",
+      "imagem": null
+    },
+    {
+      "titulo": "Bitcoin ultrapassa US$ 80 mil com desvalorização do dólar",
+      "imagem": null
+    },
+    {
       "titulo": "Mortos ou descansando? Entenda por que famílias tiravam fotos com cadáveres e os deixavam em casa no século XIX",
       "imagem": null
     },
@@ -37,7 +53,7 @@
       "imagem": null
     },
     {
-      "titulo": "Bayern se mobiliza após mal súbito de Musiala em amistosos",
+      "titulo": "Bayern se mobiliza e toma decisão após mal súbito de Musiala em amistosos",
       "imagem": null
     },
     {
@@ -103,23 +119,7 @@
     {
       "titulo": "Meninos da Vila chegam a 700 gols no ano e viram &#8220;arma&#8221; do Santos de Cuca",
       "imagem": null
-    },
-    {
-      "titulo": "Quaest no RN: Lula tem 54% no 1º turno; Flávio Bolsonaro, 20%",
-      "imagem": null
-    },
-    {
-      "titulo": "Vale estima até 50 milhões de toneladas de minério de ferro em Carajás",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest: no Maranhão, Lula tem 58% no 1º turno; Flávio Bolsonaro, 20%",
-      "imagem": null
-    },
-    {
-      "titulo": "Quatro em cada dez mulheres se sentem informadas sobre a vacina contra HPV",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-25T16:07:26.751Z"
+  "atualizadoEm": "2026-08-25T16:54:02.012Z"
 }

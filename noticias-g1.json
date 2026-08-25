@@ -1,6 +1,114 @@
 {
   "noticias": [
     {
+      "titulo": "Parte do telhado de escola desaba e deixa seis crianças feridas em Açailândia",
+      "imagem": "https://s2-g1.glbimg.com/wYHt39XwhBKLdx68mMnS02niN_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/z/dTHA33S8eM7EkXN0zDZQ/montagens-1920-x-1080-px-2-.png"
+    },
+    {
+      "titulo": "Polícia investiga morte de motorista após carreta sair da pista e invadir área de mata no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/hUgEcJXyCm10NSPL3lIAUA-gcUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Q/YGCXJMQrGrWaKa0ZCYIg/whatsapp-image-2026-08-25-at-11.50.55.jpg"
+    },
+    {
+      "titulo": "Dupla suspeita de furtar mais de R$ 2,4 mil em produtos de loja de shopping é presa em Cabo Frio",
+      "imagem": "https://s2-g1.glbimg.com/VHaZezruxfso6ryIhZ7e9ffMix8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/0/Lf12MuRNeD4HqpHdoWNw/furto.jpg"
+    },
+    {
+      "titulo": "Rocinha tem madrugada de rajadas de tiros e foguetório; moradores atribuem ‘festa’ a aniversário de chefe do tráfico",
+      "imagem": "https://s2-g1.glbimg.com/IdO_Lm8FvNC06gpe_EohE-euAM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/h/DqVpumQPefTpM0nFF8QA/g1-cangalha1.jpg"
+    },
+    {
+      "titulo": "Morre segunda vítima de acidente na Avenida Jerônimo de Albuquerque após duas semanas internada",
+      "imagem": "https://s2-g1.glbimg.com/oxjnrIaGuJ6KR4_psBUs8-P_jAg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/Q/v7NsGIQUmQAPA60H5McA/montagens-1920-x-1080-px-6-.png"
+    },
+    {
+      "titulo": "Febre do Nilo Ocidental: Ministério da Saúde investiga caso provável da doença em mulher de 35 anos no PI",
+      "imagem": "https://s2-g1.glbimg.com/htmstW27DPCOOe1ZB4zxfUfRRbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/D7Ye2HRkisICFW1XPFRQ/culex-quinquefasciatus-female-feeding-16-9.jpg"
+    },
+    {
+      "titulo": "Operação mobiliza 50 PMs contra quadrilha em Bom Jardim",
+      "imagem": "https://s2-g1.glbimg.com/uKQIeBxYODifqWCOwaho8FAWbEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/G/elBfoGTeWJiDA39jFeJg/policiais-fazem-cerco-a-criminosos-em-bom-jardim.jpg"
+    },
+    {
+      "titulo": "Como foragidos de MT usavam esconderijo no Complexo do Alemão do RJ para comandar tráfico de drogas",
+      "imagem": "https://s2-g1.glbimg.com/hROkGHL3UqU3dEWIvjswNTnsZqs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/u/6Jju6yQcCngAbSUcLOzg/videos-g1-7-.png"
+    },
+    {
+      "titulo": "AO VIVO: Assista ao JAC1 com Murilo Lima",
+      "imagem": "https://s2-g1.glbimg.com/DZdSpVgucpKlsDxpGsfadWlCcrM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/o/fe43lcSSimCBsd6owcDw/whatsapp-image-2026-01-22-at-11.09.18.jpeg"
+    },
+    {
+      "titulo": "Polícia encontra casa com jacuzzi e academia durante operação no Complexo de Israel",
+      "imagem": "https://s2-g1.glbimg.com/vp2Ns9irV7ZcgRtsKuub8EYbRmI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/y/0bcVMpSP2yfNpC9nXokw/imagem-cortada-27-.jpg"
+    },
+    {
+      "titulo": "Malote com mais de R$ 100 mil de empresa é roubado por dupla em Juazeiro do Norte; vídeo",
+      "imagem": "https://s2-g1.glbimg.com/dM0f_M-YR7Ag4qV0_lc8nkUHnwI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/g/09IiRJTJqZA2RsxUqBhg/malote-5.jpg"
+    },
+    {
+      "titulo": "Grávida de 8 meses perde bebê após acidente de moto, em São José da Mata; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/jlYOOC5LeB121z22iG5N-jTaenc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/d/U/HT01NgQmuw0eHy0Bp94A/isea-campina-grande.jpg"
+    },
+    {
+      "titulo": "Quadrilha é filmada invadindo loja que teve 40 equipamentos furtados no litoral de SP; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/cIOhqCTZ6sqGlIXIC0OL-5fDauI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/I/YLvB7wSXGMfEK1eNOx5g/fotos-materias-2026-08-25t112536.538.jpg"
+    },
+    {
+      "titulo": "Terceira vítima de acidente entre carro e caminhão na BR-116 morre no hospital, em Caratinga",
+      "imagem": "https://s2-g1.glbimg.com/Ex_6bgQGIf8n4hLxR9n6AG_qQFE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/d/89zfLtTeeZHZFGu6E6VA/vitimasfatais-4-.png"
+    },
+    {
+      "titulo": "O que pensam empreendedores de SP indecisos sobre eleição? Veja na série 'Voto Pendular', do Jornal da Globo",
+      "imagem": "https://s2-g1.glbimg.com/s_D5HbMD_nd9KViCtzYRs1gLU1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/0/ZBDvXWQxyBGbbFyhNBIQ/captura-de-tela-2026-08-21-153502.png"
+    },
+    {
+      "titulo": "O que pensam profissionais de beleza de SP que são eleitoras independentes? Veja na série 'Voto Pendular', do Jornal da Globo",
+      "imagem": "https://s2-g1.glbimg.com/ZzoS_MnxgNKMi9Z1NuhcVEZdyAY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/6/Al3gsZQVO44I77EEsvqw/captura-de-tela-2026-08-21-153331.png"
+    },
+    {
+      "titulo": "O que pensam entregadores de SP indecisos sobre a eleição? Veja na série 'Voto Pendular', do Jornal da Globo",
+      "imagem": "https://s2-g1.glbimg.com/RPZSesHZicXWpjXna6iRJx1O4us=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/5/EGzfK4RBGmu96jpJcjAw/captura-de-tela-2026-08-21-152312.png"
+    },
+    {
+      "titulo": "'Ela gargalhava enquanto eu estava amarrado', diz ex-paciente de médica foragida após condenação por tortura em Ribeirão Preto, SP",
+      "imagem": "https://s2-g1.glbimg.com/9zs4wvPxHYdooR-ZNZ0f7PaIjIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/P/dLTg5FRguNXqhis40Nsw/moldura-padrao-g1.png"
+    },
+    {
+      "titulo": "Localização do celular de conselheira desaparecida em MG aponta para açude, diz família; polícia investiga",
+      "imagem": "https://s2-g1.glbimg.com/un2NRefVr12Dr-b9alG8LHYYzl8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/e/AFr1CyRgifkpzBt5HeVg/montagemconselheira.jpg"
+    },
+    {
+      "titulo": "Porcelanas e louças que podem ter quase 200 anos são encontradas durante duplicação de rodovia no Paraná",
+      "imagem": "https://s2-g1.glbimg.com/1vRA9OIVapBtQJmbKRGAmWRywkg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/a/otNGCcTPC5s0rhBfICEA/sitio1.png"
+    },
+    {
+      "titulo": "Homem é condenado por suposta morte de paciente desaparecido há 19 anos em clínica de MT",
+      "imagem": "https://s2-g1.glbimg.com/lk7_VCZICU3P8MtO0FEjyjtsuno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/J/hJpo7PQliYCAYlgSRJ1g/videos-g1-65-.jpg"
+    },
+    {
+      "titulo": "Servente encontrado morto em cova: crime pode ter sido motivado por desentendimento entre faccionados, diz polícia",
+      "imagem": "https://s2-g1.glbimg.com/xWpScMhmAHSTRR-vYElBy_qTFVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/kJh3y7QqaNdWbQ4kBHaw/edicao-imagens-g1-23-.png"
+    },
+    {
+      "titulo": "Embraer certifica jato que pousa sozinho; modelo é o mais veloz e de maior alcance do mundo",
+      "imagem": "https://s2-g1.glbimg.com/265Eqy6quk3eqLwp4StpxbqB6XQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/M/QJhhTjS7SoeAm4AdVmBw/phenom-300ev-triple-certification-7.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: confira as propostas de JHC ao governo de Alagoas",
+      "imagem": "https://s2-g1.glbimg.com/ZSSvNWoVqMrgxMsXR6mjdRxbfFE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/E/3v7wlHSSWOAsSvPCjXCw/whatsapp-image-2025-01-01-at-14.53.41.jpeg"
+    },
+    {
+      "titulo": "Operação prende onze suspeitos de furtar e abater gado para venda ilegal de carne na Bahia",
+      "imagem": "https://s2-g1.glbimg.com/IeWoCJaW9d4zyHcSrwZqhmjaXp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/A/IB3Xf2SAAzqE9ZHLWLqg/whatsapp-image-2026-08-25-at-10.58.07.jpg"
+    },
+    {
+      "titulo": "Acidente entre moto e carro deixa ferido e causa lentidão na Castelinho em Sorocaba",
+      "imagem": "https://s2-g1.glbimg.com/IeaA8_Pzj8wV4oFtlWZctvBV8zY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/t/s38ExUT4GFhxQF7tn66w/acidente-3-.jpg"
+    },
+    {
+      "titulo": "Entregador que teve pedido furtado de dentro da mochila riu ao saber como ação aconteceu, diz gerente de pizzaria",
+      "imagem": "https://s2-g1.glbimg.com/VNWob9zE1rbI6zQn_nZwAyI7C10=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/k/l90QzQRh2RCM2dSyFv9w/copia-de-molduras-g1-.jpg"
+    },
+    {
       "titulo": "Assista ao EPTV1",
       "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
     },
@@ -11,115 +119,7 @@
     {
       "titulo": "Setor de fertilizantes pede R$ 2 bilhões ao governo para conter impacto da guerra no Irã",
       "imagem": "https://s2-g1.glbimg.com/9GO8cgM5xNy70xg4J4YE_CxMOYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/P/8M1rt0QVia0pC7Mi31Ow/foto-especial.jpg"
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Subaé",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Bahia",
-      "imagem": null
-    },
-    {
-      "titulo": "Assista ao Gazeta Meio Dia",
-      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
-    },
-    {
-      "titulo": "Assista ao Gazeta Meio Dia - edição regional",
-      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
-    },
-    {
-      "titulo": "Marquise desaba sobre poste e deixa 54 imóveis sem energia na Zona Norte de Natal",
-      "imagem": "https://s2-g1.glbimg.com/VDTBcjp1EcUeKmqrIks2RXCyolE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/t/jamW3jSBSmSiUlxLUzuA/marquise.jpeg"
-    },
-    {
-      "titulo": "Campanha estimula o diálogo para renegociação de dívidas e retomada do equilíbrio financeiro",
-      "imagem": "https://s2-g1.glbimg.com/XUyo1dK9gdGO_QpVUBQ3gvDapHk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/J/0ZcRiMSs690qd8RsuoCw/foto-fique-em-dia.jpg"
-    },
-    {
-      "titulo": "Eleições 2026 no PR: Requião Filho participa de sessão da Assembleia Legislativa e de encontro na Fiep",
-      "imagem": "https://s2-g1.glbimg.com/NN40IsirdufWEYu_VW8dvS4c5SQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/6/THXAXiQ7KQCdP0gUnBgA/requiao-orlando-kissner-assembleia.jpg"
-    },
-    {
-      "titulo": "Eleições 2026 no PR: Sergio Moro participa de feira e grava horário eleitoral em Curitiba",
-      "imagem": "https://s2-g1.glbimg.com/4I6QAvIir6lEbDYC8oJArKxLOxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/l/I/VTk2KpRzAMajfBL46geA/agf20220315002.jpg"
-    },
-    {
-      "titulo": "Projeto que autoriza parcelamento de dívidas com Camprev é aprovado em 2ª votação e vai à sanção em Campinas",
-      "imagem": "https://s2-g1.glbimg.com/-OqFHWVs6PUJWdi7ABW7k0idPsw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/o/6j0tsVS0WikufgEg0txA/55485213332-c1f78da585-k.jpg"
-    },
-    {
-      "titulo": "Homem desaparece no Rio Solimões após ser arrastado enquanto pescava com tarrafa no AM",
-      "imagem": "https://s2-g1.glbimg.com/bn-WOQqY-oata_5dMQPJLmzDtgI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/A/f58O9pTAGicuVA3qrhjg/imagem-de-expedito-santos-brandao-antes-de-desaparecer-no-rio-solimoes-apos-ser-arrastado-enquanto-pescava-com-tarrafa-foto-reproducao-redes-sociais.jpg"
-    },
-    {
-      "titulo": "Elevador que despencou com mães e crianças em Hortolândia é novo e foi entregue em março",
-      "imagem": "https://s2-g1.glbimg.com/mEcx0KZdZnXzbYiXKMCNrJDg6Lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/0/t7BgchT8enjO4OFSCRJg/capas-belly-43-.png"
-    },
-    {
-      "titulo": "VÍDEO: homem finge ser cliente, ameaça funcionária e rouba hortifrúti em Campinas",
-      "imagem": "https://s2-g1.glbimg.com/3pHrRlLWkIh8YrqusqGFY3VLuXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/b/qw3rBGT4OSd79trzIheQ/assalta-hortifruti.png"
-    },
-    {
-      "titulo": "Caso de jovem sequestrada e acorrentada repercute na imprensa internacional",
-      "imagem": "https://s2-g1.glbimg.com/Dvu6uLyVo5s1HNKXciZmHwv0dfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/zDHczzQo67DYBTBUYmSA/padrao-foto-g1-goias-36-.jpg"
-    },
-    {
-      "titulo": "Homem com faca é preso por tentar arrombar porta de banheiro e assediar jovem em shopping na Serra",
-      "imagem": "https://s2-g1.glbimg.com/1vmxKJggzKEjrReCplrBGioBgpE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/x/5eV7iiSHehpyUyeJfdHw/thumb-videos-g1-75-.jpg"
-    },
-    {
-      "titulo": "'Pitou o dry?': troca de mensagens levou polícia a investigar homem com habeas corpus para cultivar maconha",
-      "imagem": "https://s2-g1.glbimg.com/Up4rXLDiKGHNbxW8298VDGTqgV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/r/GRA04wTzan8p0ucST1LQ/captura-de-tela-2026-08-25-122831.png"
-    },
-    {
-      "titulo": "Cursos gratuitos oferecem formação para jovens em situação de vulnerabilidade no AC; CONFIRA",
-      "imagem": "https://s2-g1.glbimg.com/7KgOqAtOQ0khhL1WtWhLvi3Dxcw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/H/mQ6aNCRUurg0M387HGBQ/midia-de-distribuicao-g1-2026-08-25t100016.841.png"
-    },
-    {
-      "titulo": "Eleições 2026: Altamira recebe mais de 400 urnas em esquema de logística para comunidades isoladas",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem baleado por policial em Salvador conta que suspeito tentou retirá-lo do carro a força: 'apontou a arma e me xingou'",
-      "imagem": "https://s2-g1.glbimg.com/SqOg979zh3-Pfj-Rx68hdqApE3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/7/qM95gOTZq9PuRmxe0B8Q/baleado-paralela-2-.jpg"
-    },
-    {
-      "titulo": "Entenda como funciona o paraquedas que reduziu a velocidade da queda de avião na Grande BH",
-      "imagem": null
-    },
-    {
-      "titulo": "Estado é condenado a indenizar em R$ 100 mil a filha de homem morto por PM dentro de hospital em Presidente Prudente",
-      "imagem": "https://s2-g1.glbimg.com/G6g-_ED3-7w1AReMY0nC5FAtI2g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/g/A/leWn2QSNiGliXiUO5INg/design-sem-nome-1-.png"
-    },
-    {
-      "titulo": "Influenciadora esfaqueia suspeito de abusar da filha dela de 5 anos em Franca, SP",
-      "imagem": "https://s2-g1.glbimg.com/Fq4rYUTD5G1LJqDtQ2ZfqJlV61Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/X/JZKSo9TEGhLIfPYl4xLw/copia-de-molduras-g1-.jpg"
-    },
-    {
-      "titulo": "Imagens mostram momento em que mulher é atropelada por caminhão, em João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/IM5yzz0gFymFQxbTJO-z2U-R8Co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/i/eGhHCgTaS9EuOSJuq4HQ/whatsapp-image-2026-08-06-at-17.20.06.jpeg"
-    },
-    {
-      "titulo": "Denúncia anônima leva policiais a apreender mais de 500 pinos de cocaína em São Pedro da Aldeia",
-      "imagem": "https://s2-g1.glbimg.com/Qjs9WhsSNTz96rr1WWWPexiyzOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/R/xbspPeQui7GRIoC0rJiw/drogas-encontradas-em-sao-pedro.jpg"
-    },
-    {
-      "titulo": "Pinguins e golfinho são encontrados mortos em praias do litoral de SP",
-      "imagem": "https://s2-g1.glbimg.com/Vd-7e-issutoj51jA31TsmylL5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/P/k7vdA2Tq6fRBp5Irps9g/inserir-um-titulo-2026-08-25t114057.376.jpg"
-    },
-    {
-      "titulo": "Após ligação entre Lula e Trump, Brasil e EUA marcam nova reunião na segunda para negociar tarifaço",
-      "imagem": "https://s2-g1.glbimg.com/eCdqshFTi1zC1J58RvSQsbM2Lmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/p/JjTGfpSBiHYgYL6ARwTA/globo-canal-4-20260507-2000-frame-119711.jpeg"
-    },
-    {
-      "titulo": "'Em nenhum momento, ela se preocupou', diz mãe de criança morta por picada de escorpião sobre médica denunciada pelo MP",
-      "imagem": "https://s2-g1.glbimg.com/nV6wwIPBHDtOYzGREhn33_BUC0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/X/nQLQ3BQiOJ1pQL41BBBw/mae-jamily.jpg"
-    },
-    {
-      "titulo": "Polícia indicia médico por homicídio culposo pela morte de juíza após coleta de óvulos",
-      "imagem": "https://s2-g1.glbimg.com/6iKhFBDsyRoE4_Il6QJHz5YF8F4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/R/qmilvtS5CoKyJnc44smA/design-sem-nome-31-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-25T16:07:29.056Z"
+  "atualizadoEm": "2026-08-25T16:54:03.720Z"
 }
