@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Governo regulamenta R$ 13,5 bilhões em crédito para afetados pelo tarifaço",
+      "imagem": null
+    },
+    {
+      "titulo": "Cruzeiro e Atlético-MG se enfrentam na Copa do Brasil para “salvar ano”",
+      "imagem": null
+    },
+    {
       "titulo": "Juan Valdez, a “Starbucks latina”, acelera expansão no Brasil",
       "imagem": null
     },
@@ -111,15 +119,7 @@
     {
       "titulo": "Frio no Sul cede espaço e calor atinge as cinco regiões do Brasil",
       "imagem": null
-    },
-    {
-      "titulo": "Técnico do Athletico-PR, Odair Hellmann se machuca na comemoração de gol",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest: Renan Filho e JHC empatam nos dois turnos ao governo de AL",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-25T08:58:49.545Z"
+  "atualizadoEm": "2026-08-25T09:41:09.720Z"
 }
