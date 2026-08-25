@@ -1,8 +1,88 @@
 {
   "noticias": [
     {
-      "titulo": "Justiça aceita denúncia contra cardiologista por feminicídio da esposa em MS",
+      "titulo": "MPF investiga 'grave deterioração' na saúde em comunidade Yanomami com leishmaniose",
+      "imagem": "https://s2-g1.glbimg.com/KJLpNPoYZIFNVu8wK0y_sA3DlWg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/L/4i3NvyREG8tP67gNaoXA/hospital-surucucu.jpg"
+    },
+    {
+      "titulo": "Vídeo: Van escolar bate em árvore após acidente em cruzamento de São José dos Campos",
+      "imagem": "https://s2-g1.glbimg.com/XJoy7pBLdt43e-CqKsYWN6Kge-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/0/fO7aHYQASp1dpeInMWiQ/foto-g1.jpg"
+    },
+    {
+      "titulo": "Concurso para Prefeitura de Aracati oferta 127 vagas com salários de até R$ 5,4 mil",
+      "imagem": "https://s2-g1.glbimg.com/asCyQvs4Cn_NexJNxJx6ssauot8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/d/7PV5o0TdysVqlTQUWb3g/hand-with-pen-application-form-1-.jpg"
+    },
+    {
+      "titulo": "PM expulsa subtenente que fez post com ‘sorriso’ sobre morte do ativista Charlie Kirk",
+      "imagem": "https://s2-g1.glbimg.com/jBtqZpQl-2jvA0P9SaABcGW_77s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/b/AoeYs9TE2rDO49fL8h5g/afp-20250921-769m28e-v1-midres-uspoliticsshootingkirk.jpg"
+    },
+    {
+      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
+      "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+    },
+    {
+      "titulo": "Biólogo resgata preguiças de atropelamento na BR-101 em Alagoas; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/SwRiRPGu1kYVcUm1jgWFLUNGSkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/V/ndDB5dQ7iJ0WlBFewvpg/whatsapp-image-2026-08-25-at-18.05.11.jpeg"
+    },
+    {
+      "titulo": "Preso suspeito de feminicídio de jovem que foi à casa dele após início de relacionamento em João Pessoa",
+      "imagem": "https://s2-g1.glbimg.com/SJU2go1vkz8p7bhANx8VkTkj9J0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/p/PKESwcTTmYLGtkQoaYgg/morte-alto-do-mateus.avif"
+    },
+    {
+      "titulo": "Motociclista tem pé direito amputado durante colisão com carro no Acre; Veja VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/yOd1aFNWIJwr3XJHnWctFTr5pw8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/H/bBlLtsTsCJwRN2CvI80A/midia-de-distribuicao-g1-12-.png"
+    },
+    {
+      "titulo": "Documentário gravado no Sul do Piauí entra na disputa para representar o Brasil no Oscar 2027",
+      "imagem": "https://s2-g1.glbimg.com/E0IbSojOhiu0GBl81LXArGJLIO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/o/ub0ajTQhmtG0hUQyOUCA/afmt-manuellinha-byelizacapai-1-.jpg"
+    },
+    {
+      "titulo": "Morre jovem atingido por 300 kg de placas de madeira em primeiro dia de trabalho em Campinas",
+      "imagem": "https://s2-g1.glbimg.com/xq3GeLJZHbCCqZJh74ANWk4yrvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/b/dsqasHSuCGcdmUjIYNnA/design-sem-nome-15-.png"
+    },
+    {
+      "titulo": "Guarda-corpo cede e mulher cai de escadaria durante exercício na orla de Santos",
+      "imagem": "https://s2-g1.glbimg.com/_Tl6cQ_L4n7NHqLcM35kkA_gUYg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/4/ZUVVdvTF6KgnqByf1B8Q/inserir-um-titulo-2026-08-25t162742.218.jpg"
+    },
+    {
+      "titulo": "Governo reduz em R$ 5 bilhões previsão de gastos da Previdência para 2027",
       "imagem": null
+    },
+    {
+      "titulo": "Defesa Civil encontra corpo de idoso que desapareceu após sair de casa para ir a sítio em Osvaldo Cruz",
+      "imagem": "https://s2-g1.glbimg.com/mvxULp4cTqnTST8ZiV09v4YlpZ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/v/EjZ3KDS669QnEsIiTcUw/g1-indiana-45-.png"
+    },
+    {
+      "titulo": "Bolsonaro pede ao STF para transferir titularidade de armas apreendidas",
+      "imagem": "https://s2-g1.glbimg.com/l06-9QkEITSR4FYfmhUfu7hLcNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/S/HnL04vQoAvMBDA9MTtMQ/g1-5-.avif"
+    },
+    {
+      "titulo": "Pastor disse estar 'triste' e que seria 'inaceitável' Câmara ter diretor homossexual no interior de SP, aponta MP",
+      "imagem": "https://s2-g1.glbimg.com/slbMozD1hPD8MWdDYcpVaVSg91E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/h/vAw2BSSIi03M8qRqgBIw/pastor-2.jpg"
+    },
+    {
+      "titulo": "Feira de empregos em Curitiba oferece 988 vagas para pessoas com deficiência nesta quarta (26)",
+      "imagem": "https://s2-g1.glbimg.com/tpqfMU5_UqXLaDN-iMB5OXrrIN4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/A/rtRgUPRKaGELCoo7ML8g/edicao-imagens-g1-14-.png"
+    },
+    {
+      "titulo": "TCE suspende licitação da Ceasa Campinas para transformar posto em complexo com lojas e serviços",
+      "imagem": "https://s2-g1.glbimg.com/c_w3OiK7j2FaFMb2Zwb_fG39Mp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/e/mnqSDNQBWf780HmoC73g/1200px-x-900px-1600-x-900-px-3-.jpg"
+    },
+    {
+      "titulo": "Maior obra de alargamento de praia do Brasil é concluída e amplia orla ao longo de 8,8 km; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/XyCk1R8beJqWJCnCoCe4LzOgK2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/H/h3hLMSQ123QNKtHos8bg/whatsapp-image-2026-01-07-at-09.57.18-3-.jpeg"
+    },
+    {
+      "titulo": "Justiça decreta falência da Oi pela segunda vez desde novembro",
+      "imagem": null
+    },
+    {
+      "titulo": "Mutirão em Fortaleza oferece 579 vagas na construção civil nesta quinta-feira (27)",
+      "imagem": "https://s2-g1.glbimg.com/875f1s7ejA7UGBICOG3jUqFeMAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/T/XaB6VcSlCTfaQSVA3qdg/construcao-civil-1-.jpg"
+    },
+    {
+      "titulo": "Justiça aceita denúncia contra cardiologista por feminicídio da esposa em Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/XlHDP4LW6fO677fCCpPiQqaCz5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/J/q5jhSwTB6IBdwJAuF7aw/design-sem-nome-2026-05-19t151428.391.jpg"
     },
     {
       "titulo": "Governo do AM suspende compra de redes e kits dormitório de R$ 184 milhões após suspeita de superfaturamento",
@@ -39,87 +119,7 @@
     {
       "titulo": "Caminhão bate em poste, rompe fiação e provoca incêndio em Teresina",
       "imagem": "https://s2-g1.glbimg.com/PpTnVq-mVElUVlF8ALMjvypACDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/2/j7SfBFTs6BBh6hAASrIA/edicao-imagens-g1-2026-08-25t160354.423.png"
-    },
-    {
-      "titulo": "Suspeito de manter mulher refém e obrigá-la a fazer Pix de R$ 5 mil é preso em Natal",
-      "imagem": "https://s2-g1.glbimg.com/SiWpMQCaAt7khuStW7no3jVvq0c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/1/glIfL7SeO1cD3bP1gfjg/image.png"
-    },
-    {
-      "titulo": "Pais são investigados por abandono intelectual de filhos adolescentes que não iam à escola há 7 anos no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/ojgPkQcDUD8uam_KUyyh8nDO2KQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/d/R/P4NambSli7q3qEB8n3MQ/caps-sao-carlos.jpg"
-    },
-    {
-      "titulo": "Quaest para o Senado em SP: Derrite, 12%, Marina Silva, 12%, Tebet, 11% e André do Prado, 7%",
-      "imagem": "https://s2-g1.glbimg.com/gCZsPbC0RnITZHZJcdmZ4kQ5-Ik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/A/mj7uo6Rra0ySn9XU09wg/design-sem-nome.jpg"
-    },
-    {
-      "titulo": "Suspeito de homicídio em Pio XII é preso em Bela Vista do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/k6sDKpMurNiYT9zx41jHCFxFVi4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/G/kQbm1AQ76SAJaMnsDnrw/montagens-1920-x-1080-px-88-.png"
-    },
-    {
-      "titulo": "COP17: Brasil apresenta meta para recuperar e conservar 367 milhões de hectares até 2030",
-      "imagem": "https://s2-g1.glbimg.com/aNKbwtDUs23by1eKqHjk1j5XU2s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/9/j2viseQgOueIYMLr89RQ/whatsapp-image-2026-08-25-at-07.00.11.jpeg"
-    },
-    {
-      "titulo": "Dono do Baratão da Carne é assaltado e perde R$ 1,4 milhão em bens em Manaus",
-      "imagem": "https://s2-g1.glbimg.com/56V4wvwEFwO8bHBUZHajAeZP0js=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Z/d0mdbUTKKtLsdJiF8llg/edilson-rufino-de-jesus.jpg"
-    },
-    {
-      "titulo": "Quaest em PE: Lula, 54%; Flávio Bolsonaro, 19%; Caiado, 3%; Renan Santos; 2%; Augusto Cury, 1%; Zema, 1%",
-      "imagem": null
-    },
-    {
-      "titulo": "Paraíba do Sul ganha reforço na segurança com unidade do Corpo de Bombeiros",
-      "imagem": "https://s2-g1.glbimg.com/mUydFInT9iZO6jO3i6NIX5x2Ses=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/vEbSzBRje29jykTDGzXA/whatsapp-image-2026-08-25-at-16.31.44.jpeg"
-    },
-    {
-      "titulo": "Homem é morto a tiros por suspeitos em motocicleta na Zona Sul de João Pessoa",
-      "imagem": "https://s2-g1.glbimg.com/CoJIed10-6Z-jblGaNusjrF8WEA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/b/c/1EK7TQS2uAHOl8sAR3HQ/whatsapp-image-2022-04-13-at-16.18.32.jpeg"
-    },
-    {
-      "titulo": "Quaest no DF: Lula, 28%; Flávio Bolsonaro, 26%; Ronaldo Caiado, 13%; Augusto Cury, 3%; Romeu Zema, 3%; Renan Santos, 3%",
-      "imagem": "https://s2-g1.glbimg.com/bvU--arLy6nOtV2EPMAfYPNvZtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/U/RVDFJzQxSdGAXb8Xhpbw/presidencial.png"
-    },
-    {
-      "titulo": "Quaest em MG: Flávio Bolsonaro, 31%; Lula, 30%; Romeu Zema, 7%; Ronaldo Caiado, 3%; Renan Santos, 3%",
-      "imagem": null
-    },
-    {
-      "titulo": "BMW com placa de colecionador vai a leilão por R$ 30 mil em MS; 56 veículos apreendidos também são leiloados",
-      "imagem": "https://s2-g1.glbimg.com/_M3_Jb6sL6fpErGluJh_dJo8Hts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/O/atUsbTRDmLaXqK74GG4w/design-sem-nome-3-.png"
-    },
-    {
-      "titulo": "Quaest em PE: 68% aprovam e 24% desaprovam governo de Raquel Lyra",
-      "imagem": null
-    },
-    {
-      "titulo": "TCU derruba medida cautelar que suspendia o uso do 'dinheiro esquecido' no Desenrola 2.0",
-      "imagem": "https://s2-g1.glbimg.com/_9WUZAxYHI9rVkarrdmrFPd0iNM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/U/FNSzOWSB6bfS4SWhrGPw/globo-canal-4-20260211-2000-frame-2551.avif"
-    },
-    {
-      "titulo": "Quaest no DF: 54% aprovam e 32% desaprovam governo de Celina Leão (PP)",
-      "imagem": "https://s2-g1.glbimg.com/z170OP6OXxe1rxs-Pu6TqYdyltU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/0/2fnywwTImqjSpSb2mYIA/imagem-g1-19-.jpg"
-    },
-    {
-      "titulo": "Quaest em MG: 37% aprovam e 27% desaprovam governo de Mateus Simões",
-      "imagem": "https://s2-g1.glbimg.com/Vl0uZoAhWWeDsCvel6rFAlPpeVc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/T/ewxfO2Sv6Bs66mQ8o9BA/img-7392.jpeg"
-    },
-    {
-      "titulo": "Quaest para o Senado em PE: Marília Arraes, 16%; Humberto Costa, 13%; Mendonça Filho, 9%; Eduardo da Fonte, 6%",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest no RJ: Flávio, 31%; Lula, 29%; Renan, 2%; Caiado, 2%; Zema, 2%; Cury, 1%",
-      "imagem": "https://s2-g1.glbimg.com/0B88bIaoWhKqzJaqa2h0BWaq9RE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/h/4/93BtL4RNKAukRc0vMgGA/52888006738-dbd511ea9d-k.jpg"
-    },
-    {
-      "titulo": "Quaest para o Senado no RJ: Benedita, 10%; Carlos Jordy, 7%; Marcelo Crivella, 6%; Monica Benicio, 5%; Carlos Portinho, 5%",
-      "imagem": "https://s2-g1.glbimg.com/lsrZ3eMiXQoU2Hq8xWXZxi6v7L8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/t/G5dwIDRUGCGlwUfyPBSg/55310885879-ca4abcfc67-k.jpg"
-    },
-    {
-      "titulo": "Quaest para o Senado em MG: Marília, 15%; Viana, 8%; Sávio, 8%; Aro, 6%",
-      "imagem": "https://s2-g1.glbimg.com/THOVCEE5_XFycjvz-HMNKj2A9hY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/T/viU61ISkAs22f1bAmEnw/design-sem-nome-2026-08-18t192856.155.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-25T20:59:24.504Z"
+  "atualizadoEm": "2026-08-25T21:23:25.073Z"
 }

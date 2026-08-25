@@ -1,6 +1,86 @@
 {
   "noticias": [
     {
+      "titulo": "Ferrari prepara homenagem a Schumacher com pintura especial para Monza",
+      "imagem": null
+    },
+    {
+      "titulo": "Marabraz pede recuperação judicial com dívidas de R$ 140 milhões",
+      "imagem": null
+    },
+    {
+      "titulo": "Oceanos batem recorde histórico de temperatura e Super El-Niño deve elevar níveis a &#8216;nunca vistos&#8217;, alerta Copernicus",
+      "imagem": null
+    },
+    {
+      "titulo": "Cacau avança de forma sustentável na Amazônia, segundo Embrapa",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula troca Porto Alegre por Salvador após previsão de chuva no Sul",
+      "imagem": null
+    },
+    {
+      "titulo": "Setor bancário investirá R$ 50,4 bilhões em tecnologia, diz Febraban Tech",
+      "imagem": null
+    },
+    {
+      "titulo": "GWM faz 1º transporte de carga com caminhão a hidrogênio na América Latina",
+      "imagem": null
+    },
+    {
+      "titulo": "Chef premiado revela o segredo da receita para um frango frito perfeito: &#8216;Combinar amido de batata e farinha&#8217;",
+      "imagem": null
+    },
+    {
+      "titulo": "Fabiana Justus mostra fotos inéditas de festa de casamento de luxo; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Alckmin: Quem ganha com o livre comércio é a população",
+      "imagem": null
+    },
+    {
+      "titulo": "Tesouro Direto registra R$ 11,67 bilhões em investimentos no mês de julho",
+      "imagem": null
+    },
+    {
+      "titulo": "Canadá impõe tarifas de até 50% a produtos dos EUA e eleva tensão",
+      "imagem": null
+    },
+    {
+      "titulo": "Wall Street sobe com ações de tecnologia antes de resultados da Nvidia",
+      "imagem": null
+    },
+    {
+      "titulo": "Petróleo fecha em queda de 3% com possível acordo para o Estreito de Ormuz",
+      "imagem": null
+    },
+    {
+      "titulo": "Harry Styles, Jacob Elordi: veja lista de famosos mais bem-vestidos de 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Quaest: Michelle tem 25%; Leila, 17%; e Kokay, 12%, para o Senado no DF",
+      "imagem": null
+    },
+    {
+      "titulo": "Julgamento de PM investigado por morte de jovens no RJ é adiado",
+      "imagem": null
+    },
+    {
+      "titulo": "De volta e juntos, Alcaraz e Serena Williams vencem em estreia no US Open",
+      "imagem": null
+    },
+    {
+      "titulo": "Quaest Senado PE: Marília Arraes tem 16%; Humberto Costa, 13%",
+      "imagem": null
+    },
+    {
+      "titulo": "Ministério pede inclusão de Lito Sousa em estudo experimental nos EUA",
+      "imagem": null
+    },
+    {
       "titulo": "Análise: PT avalia que o impacto de &#8220;caso Lulinha&#8221; já foi incorporado",
       "imagem": null
     },
@@ -39,87 +119,7 @@
     {
       "titulo": "St George inicia licenciamento de projeto de terras raras e nióbio em Araxá",
       "imagem": null
-    },
-    {
-      "titulo": "Spaten Fight Night 3: veja o card completo do evento no Pacaembu",
-      "imagem": null
-    },
-    {
-      "titulo": "Chefe do Instagram testemunha no julgamento sobre vício em redes sociais",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasil e EUA marcam reunião sobre tarifaço para próxima segunda (31)",
-      "imagem": null
-    },
-    {
-      "titulo": "Técnico Luis Enrique detona postura de dois craques do Paris Saint-Germain",
-      "imagem": null
-    },
-    {
-      "titulo": "Champions League: veja os últimos classificados para a fase de liga",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest: Raquel Lyra tem 44% e João Campos, 36% em PE",
-      "imagem": null
-    },
-    {
-      "titulo": "Dolly Parton inspirou o nome de ovelha Dolly em clonagem; entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Times do México e EUA na Libertadores? Veja os possíveis impactos",
-      "imagem": null
-    },
-    {
-      "titulo": "Justiça do Rio de Janeiro decreta falência da Oi",
-      "imagem": null
-    },
-    {
-      "titulo": "Dolly Parton inspirou Miley Cyrus, Whitney, Beyoncé e mais; relembre",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest: Paes tem 37% no 1º turno no RJ; Ruas, 14%",
-      "imagem": null
-    },
-    {
-      "titulo": "Há duas semanas, Dolly Parton convidou fãs para visitar o museu de sua vida",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest: Cleitinho tem 29% em MG; Patrus, 11%; Kalil, 10%; e Simões, 7%",
-      "imagem": null
-    },
-    {
-      "titulo": "Skaf critica avanço da 6&#215;1 durante período eleitoral: &#8220;PEC boca de urna&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest: Celina Leão tem 34%, e Arruda, 20%, no DF",
-      "imagem": null
-    },
-    {
-      "titulo": "Fachin cobra governo sobre providências após invasões em terras indígenas",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest: Tarcísio lidera cenários de 1º e 2º turnos em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Libertadores e Sul-Americana serão paralisadas por conta da Copa Feminina",
-      "imagem": null
-    },
-    {
-      "titulo": "Soja fecha em alta de 1,10% em Chicago com piora na safra dos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Dolly Parton: veja filmes estrelados pela cantora indicada ao Oscar",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-25T20:59:23.090Z"
+  "atualizadoEm": "2026-08-25T21:23:24.640Z"
 }
