@@ -82,11 +82,13 @@
     position:absolute;left:0;right:0;bottom:0;z-index:1;
     /* 25/08: sem o backdrop-filter, a borda do clip-path diagonal tremia/piscava —
        o blur "escondia" isso de graça por forçar essa faixa pra sua própria camada
-       de composição. will-change faz o navegador promover a camada do mesmo jeito,
-       bem mais barato que recalcular um desfoque a cada quadro (não testado no
-       aparelho real ainda — se voltar a tremer, o blur de volta é o plano B). */
+       de composição. will-change resolveu numa tela mas não na outra (aparelhos
+       reagem diferente a essa dica); somado translateZ(0), outro jeito de pedir a
+       mesma camada separada, que alguns navegadores atendem melhor. Se nenhum dos
+       dois resolver na tela que falta, o blur de volta é o plano B. */
     background:rgba(10,15,22,.72);
     will-change:clip-path;
+    transform:translateZ(0);
     color:#fff;display:flex;flex-direction:column;align-items:flex-start;gap:.9rem;
     padding:.8rem 1.8rem 1.4rem;
     clip-path:polygon(
