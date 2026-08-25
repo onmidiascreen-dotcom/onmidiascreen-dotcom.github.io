@@ -40,6 +40,10 @@ async function buscarFonte(chave, url) {
     // subdomínios uol.com.br sem uma seção fixa), então segue sem filtro por enquanto.
     .filter((n) => !(chave === 'g1' && /g1\.globo\.com\/mundo\//.test(n.link)))
     .filter((n) => !(chave === 'cnn' && /cnnbrasil\.com\.br\/internacional\//.test(n.link)))
+    // G1 marca publicidade disfarçada de notícia com /especial-publicitario/ no link
+    // (ex.: "Comprei um móvel usado. Como saber se tem cupim?" — matéria patrocinada
+    // por empresa de dedetização, sem avisar no título).
+    .filter((n) => !(chave === 'g1' && /g1\.globo\.com\/.*\/especial-publicitario\//.test(n.link)))
     // G1 também publica recapitulação de telejornal local como "notícia" (título tipo
     // "VÍDEOS: JL1 de segunda-feira, 24 de agosto de 2026", sem manchete nenhuma por trás).
     // O link varia (/edicao/, /playlist/...) mas o título sempre começa com "VÍDEOS:" no
