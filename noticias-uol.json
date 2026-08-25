@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Fim da 6x1 cria dilema fatal para Flávio Bolsonaro",
+      "imagem": null
+    },
+    {
+      "titulo": "Terça (25) pode ter chuva fraca à tarde e temperatura máxima de 20°C em São Paulo",
+      "imagem": null
+    },
+    {
+      "titulo": "Calor trasnforma dia a dia em comuna símbolo do aquecimento climático na Europa",
+      "imagem": null
+    },
+    {
+      "titulo": "Piloto brasileiro escreve nome de Lito Sousa no céu do Texas",
+      "imagem": null
+    },
+    {
       "titulo": "Promotoria quer explicação da gestão Nunes por contrato de iluminação de R$ 7 bi considerado irregular",
       "imagem": null
     },
@@ -43,23 +59,7 @@
     {
       "titulo": "Governo Lula debate regulamentar acesso a dados e transparência de anúncios de big techs",
       "imagem": null
-    },
-    {
-      "titulo": "Ministério Público denuncia Adilsinho e mais três por morte de advogado",
-      "imagem": null
-    },
-    {
-      "titulo": "Aluguel comercial dispara em 12 meses, enquanto venda de escritórios perde valor real, aponta FipeZap",
-      "imagem": null
-    },
-    {
-      "titulo": "PL que cria selo empresa amiga da segurança é aprovado pela Câmara de Apucarana",
-      "imagem": null
-    },
-    {
-      "titulo": "Resultado da Lotomania concurso 2967 sairá nesta terça-feira (25); saiba mais",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-25T07:29:36.189Z"
+  "atualizadoEm": "2026-08-25T08:10:11.387Z"
 }
