@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Ministério Público denuncia Adilsinho e mais três por morte de advogado",
+      "imagem": null
+    },
+    {
       "titulo": "Aluguel comercial dispara em 12 meses, enquanto venda de escritórios perde valor real, aponta FipeZap",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Avanço dos carros híbridos influencia segmento de caminhões movidos a gás",
       "imagem": null
-    },
-    {
-      "titulo": "Volvo ES90 é sedã elétrico de luxo que tem recursos de utilitários esportivos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-25T05:03:52.666Z"
+  "atualizadoEm": "2026-08-25T05:46:19.315Z"
 }

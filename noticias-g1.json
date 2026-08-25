@@ -1,6 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Série do Jornal da Globo fala com trabalhadores autônomos de SP para entender eleitores independentes",
+      "imagem": "https://s2-g1.glbimg.com/T-pmn2lwVgzhEkF2HuFuBUyupqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/q/1FGGZUTWKqiWczAaYy4w/260821-info-voto-pendular-sp-01.jpg"
+    },
+    {
+      "titulo": "Pais criticam negligência no combate ao bullying em colégio onde aluno foi esfaqueado em Ribeirão Preto",
+      "imagem": "https://s2-g1.glbimg.com/ulW4JD44jlS4v1ExnEtkwx1P5LM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/J/iljJTLTYShR4R1hqnt4w/copia-de-molduras-g1-4-.png"
+    },
+    {
+      "titulo": "Dois anos e 200 testes: como um saco de carvão virou negócio de R$ 1 milhão",
+      "imagem": "https://s2-g1.glbimg.com/V2rfn-kBZCuovLzkCa5Kdt8mrLg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/l/xVDcsOTu6xBdIhWf6MEQ/captura-de-tela-2026-03-02-112908.png"
+    },
+    {
+      "titulo": "Justiça Eleitoral do DF se prepara para fiscalizar uso de IA na disputa de 2026; veja regras",
+      "imagem": "https://s2-g1.glbimg.com/Z74q2p-uee0_kLdB5S5s-zGRAw8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/i/F/dCwAl2ROq1rp7TJkUYkg/acervo-df2-tre-2022-fernanda-frame-517.jpeg"
+    },
+    {
+      "titulo": "MP denuncia médica de UPA por negligência e falsidade ideológica após criança morrer por picada de escorpião",
+      "imagem": "https://s2-g1.glbimg.com/b-z2fHKJhYsL4DH7z-W0BXD8TJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/n/YuAoXuR4Cj39AMpasssQ/design-sem-nome-2-.png"
+    },
+    {
       "titulo": "Produção de imagens de Nossa Senhora triplica antes da Festa da Padroeira; velas e hóstias têm alta na procura",
       "imagem": "https://s2-g1.glbimg.com/eZpiIcJtJ9fvLbsLTtIXoDlknD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/X/zhky2GQE29IM0I8Bfmmw/foto-g1-2-.jpg"
     },
@@ -99,27 +119,7 @@
     {
       "titulo": "Febre do Nilo Ocidental: veja o que se sabe dos casos no país; maioria das infecções não causa sintomas",
       "imagem": "https://s2-g1.glbimg.com/htmstW27DPCOOe1ZB4zxfUfRRbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/D7Ye2HRkisICFW1XPFRQ/culex-quinquefasciatus-female-feeding-16-9.jpg"
-    },
-    {
-      "titulo": "Até quando vai o frio no Centro-Sul? Veja previsão do tempo para os próximos dias",
-      "imagem": "https://s2-g1.glbimg.com/mjgfd8WCI0wGLQtNXYgXqbQNLqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/E/4FocryR96NdId0bOdDtA/juiz-de-fora-previsao-do-tempo-ju-netto-2.jpeg"
-    },
-    {
-      "titulo": "Virada no tempo: RS poderá sair de 0°C com geada pela manhã para 25°C à tarde; confira previsão",
-      "imagem": "https://s2-g1.glbimg.com/evU8lu3yTH167VSfTsYKqQE8kS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/W/3IEjXnS0ikYWDSSQ5iew/g1-25-.jpg"
-    },
-    {
-      "titulo": "“3, 2, 1... gravando!”: Pipoca em Cena retoma oficinas de audiovisual em escolas públicas de Manaus nesta quarta",
-      "imagem": "https://s2-g1.glbimg.com/I5YVZkFww4gRlpq8wWqwiskqtEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/q/y3JjLwRS6T0CC59vK0jg/whatsapp-image-2026-08-24-at-16.12.31.jpeg"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
-    },
-    {
-      "titulo": "Tralli e Renata entrevistam Romeu Zema, candidato a presidente pelo Novo",
-      "imagem": "https://s2-g1.glbimg.com/OtTS5Cw3xj_7emGdj0eVebzuoNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/6/oaKPOiTwmiOTNTaynLAQ/fta20260819050.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-25T05:03:54.913Z"
+  "atualizadoEm": "2026-08-25T05:46:21.631Z"
 }
