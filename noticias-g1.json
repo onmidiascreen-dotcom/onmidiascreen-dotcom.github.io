@@ -1,6 +1,54 @@
 {
   "noticias": [
     {
+      "titulo": "Suspeito confessa assassinato de homem com cinco tiros e é preso no Sul do Piauí",
+      "imagem": "https://s2-g1.glbimg.com/ICBV-WeTR35kVwah9OapPQfpTzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/4/b0BwXNQzihmUNDKISEyg/edicao-imagens-g1-2026-08-25t143239.018.png"
+    },
+    {
+      "titulo": "O que dizem os planos de governo dos candidatos ao executivo de Sergipe",
+      "imagem": "https://s2-g1.glbimg.com/nK8q-Egaf5M5xP21EBITiuiegDc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/4/cbYIDjQjenfqTeB9z7fA/imagem-g1-7-.jpg"
+    },
+    {
+      "titulo": "Câmara de Presidente Prudente aprova projeto para mudar de endereço e ocupar antiga escola municipal",
+      "imagem": "https://s2-g1.glbimg.com/Tw_zytgnGzffLOsruOIm4vveMlk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/o/TwaXT0T0KPnHE7MYWfdw/img-6560-frame-197.jpeg"
+    },
+    {
+      "titulo": "Atriz de 'Quem Ama Cuida' prepara chimarrão pela 1ª vez após visita ao RS e comemora resultado: 'Arrasei, guria'; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/FpA1Lf170O7LUpfluQ-jckKt6Dk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/p/y3uHqNQzaOX30mSDU7wA/g1-2026-08-25t143140.104.jpg"
+    },
+    {
+      "titulo": "Homem é morto a tiros dentro de academia em Santana, na Zona Norte de São José dos Campos, diz PM",
+      "imagem": null
+    },
+    {
+      "titulo": "Funcionário de prefeitura é gravado dirigindo caminhão com o pé no volante e sem as mãos",
+      "imagem": "https://s2-g1.glbimg.com/kqjnYuqqFFkNDQ1uTRzkocHCbZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/9dENpDRKWQgSEcxgY9dw/foto-g1-84-.png"
+    },
+    {
+      "titulo": "VÍDEO: Bióloga encontra família de sauás no quintal e se emociona com filhote",
+      "imagem": "https://s2-g1.glbimg.com/QtXx3t8hfg6ZUGSq6K6RYG1OcJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/d/4gXDWLSKuao0Jc3KrzeA/dsc-0337-enhanced-nr.jpg"
+    },
+    {
+      "titulo": "TRE define propaganda eleitoral no rádio e na TV: confira tempo de candidatos ao governo do MA",
+      "imagem": "https://s2-g1.glbimg.com/eNEBuYh22JcZSlGsjprrsx1gNls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Y/Y/Bp6zWXQbagBgwyiN2EMg/asp20220826016.jpg"
+    },
+    {
+      "titulo": "Resumão diário #2120: Por que o Brasil multou o TikTok e suspendeu lives do Discord? Monomotor cai na Grande BH; piloto aciona paraquedas e sobrevive; Entenda o perigo da deepfake nas eleições e mais",
+      "imagem": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
+    },
+    {
+      "titulo": "Quaest: confira intenção de voto para governo de AL de acordo com gênero, idade, escolaridade, renda, raça, religião e posicionamento político",
+      "imagem": "https://s2-g1.glbimg.com/dkZ6eQRCdm3C6astb72tbMEiuik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/V/K0TkTFRASVH8vp4xSlLA/whatsapp-image-2026-08-24-at-20.10.20.jpeg"
+    },
+    {
+      "titulo": "Festival X-Todas reúne atrações culturais e debates em Itaperuna",
+      "imagem": "https://s2-g1.glbimg.com/cWdleRHAb-HHZCtXqAKDxd5jUa8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/G/EWtqbGTaWyPInc2CDRhA/firjan.png"
+    },
+    {
+      "titulo": "Mulher é morta a tiros dentro de casa, em Pedras de Fogo; polícia investiga feminicídio",
+      "imagem": "https://s2-g1.glbimg.com/ZPkBFVl2F1N-vM61WerJzTzHyfo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/G/9Oa20WQ9SBSSThdf5SGg/feminicidio-em-pedras-de-fogo.jpg"
+    },
+    {
       "titulo": "Aumento na conta de luz: na CMM, Âmbar Energia explica reajuste e responde a reclamações",
       "imagem": "https://s2-g1.glbimg.com/w8W9yKeyCMRUBqgFB-UZpIY83bc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/S/0/BdyGs1RAy40Z9AAG5Orw/uma-lampada-nao-luminosa-paira-no-espaco-da-copia-de-fundo-desfocado-escuro.jpg"
     },
@@ -71,55 +119,7 @@
     {
       "titulo": "Morre segunda vítima de acidente na Av. Jerônimo de Albuquerque; jovem estava internado havia duas semanas",
       "imagem": "https://s2-g1.glbimg.com/oxjnrIaGuJ6KR4_psBUs8-P_jAg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/Q/v7NsGIQUmQAPA60H5McA/montagens-1920-x-1080-px-6-.png"
-    },
-    {
-      "titulo": "Febre do Nilo Ocidental: Ministério da Saúde investiga caso provável da doença em mulher de 35 anos no PI",
-      "imagem": "https://s2-g1.glbimg.com/htmstW27DPCOOe1ZB4zxfUfRRbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/D7Ye2HRkisICFW1XPFRQ/culex-quinquefasciatus-female-feeding-16-9.jpg"
-    },
-    {
-      "titulo": "Operação mobiliza 50 PMs contra quadrilha em Bom Jardim",
-      "imagem": "https://s2-g1.glbimg.com/uKQIeBxYODifqWCOwaho8FAWbEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/G/elBfoGTeWJiDA39jFeJg/policiais-fazem-cerco-a-criminosos-em-bom-jardim.jpg"
-    },
-    {
-      "titulo": "Como foragidos de MT usavam esconderijo no Complexo do Alemão do RJ para comandar tráfico de drogas",
-      "imagem": "https://s2-g1.glbimg.com/hROkGHL3UqU3dEWIvjswNTnsZqs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/u/6Jju6yQcCngAbSUcLOzg/videos-g1-7-.png"
-    },
-    {
-      "titulo": "AO VIVO: Assista ao JAC1 com Murilo Lima",
-      "imagem": "https://s2-g1.glbimg.com/DZdSpVgucpKlsDxpGsfadWlCcrM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/o/fe43lcSSimCBsd6owcDw/whatsapp-image-2026-01-22-at-11.09.18.jpeg"
-    },
-    {
-      "titulo": "Polícia encontra casa com jacuzzi e academia durante operação no Complexo de Israel",
-      "imagem": "https://s2-g1.glbimg.com/vp2Ns9irV7ZcgRtsKuub8EYbRmI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/y/0bcVMpSP2yfNpC9nXokw/imagem-cortada-27-.jpg"
-    },
-    {
-      "titulo": "Malote com mais de R$ 100 mil de empresa é roubado por dupla em Juazeiro do Norte; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/dM0f_M-YR7Ag4qV0_lc8nkUHnwI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/g/09IiRJTJqZA2RsxUqBhg/malote-5.jpg"
-    },
-    {
-      "titulo": "Grávida de 8 meses perde bebê após acidente de moto, em São José da Mata; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/jlYOOC5LeB121z22iG5N-jTaenc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/d/U/HT01NgQmuw0eHy0Bp94A/isea-campina-grande.jpg"
-    },
-    {
-      "titulo": "Quadrilha é filmada invadindo loja que teve 40 equipamentos furtados no litoral de SP; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/cIOhqCTZ6sqGlIXIC0OL-5fDauI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/I/YLvB7wSXGMfEK1eNOx5g/fotos-materias-2026-08-25t112536.538.jpg"
-    },
-    {
-      "titulo": "Terceira vítima de acidente entre carro e caminhão na BR-116 morre no hospital, em Caratinga",
-      "imagem": "https://s2-g1.glbimg.com/Ex_6bgQGIf8n4hLxR9n6AG_qQFE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/d/89zfLtTeeZHZFGu6E6VA/vitimasfatais-4-.png"
-    },
-    {
-      "titulo": "O que pensam empreendedores de SP indecisos sobre eleição? Veja na série 'Voto Pendular', do Jornal da Globo",
-      "imagem": "https://s2-g1.glbimg.com/s_D5HbMD_nd9KViCtzYRs1gLU1g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/0/ZBDvXWQxyBGbbFyhNBIQ/captura-de-tela-2026-08-21-153502.png"
-    },
-    {
-      "titulo": "O que pensam profissionais de beleza de SP que são eleitoras independentes? Veja na série 'Voto Pendular', do Jornal da Globo",
-      "imagem": "https://s2-g1.glbimg.com/ZzoS_MnxgNKMi9Z1NuhcVEZdyAY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/6/Al3gsZQVO44I77EEsvqw/captura-de-tela-2026-08-21-153331.png"
-    },
-    {
-      "titulo": "O que pensam entregadores de SP indecisos sobre a eleição? Veja na série 'Voto Pendular', do Jornal da Globo",
-      "imagem": "https://s2-g1.glbimg.com/RPZSesHZicXWpjXna6iRJx1O4us=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/5/EGzfK4RBGmu96jpJcjAw/captura-de-tela-2026-08-21-152312.png"
     }
   ],
-  "atualizadoEm": "2026-08-25T17:28:06.136Z"
+  "atualizadoEm": "2026-08-25T17:57:04.482Z"
 }
