@@ -1,6 +1,54 @@
 {
   "noticias": [
     {
+      "titulo": "Tralli e Renata entrevistam Romeu Zema, candidato a presidente pelo Novo",
+      "imagem": "https://s2-g1.glbimg.com/OtTS5Cw3xj_7emGdj0eVebzuoNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/6/oaKPOiTwmiOTNTaynLAQ/fta20260819050.jpg"
+    },
+    {
+      "titulo": "Traficantes invadem unidade da Águas do Rio na Pavuna durante fuga de operação policial; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/T4K6Bg5P_E4G2ORm0eOxoH-H4pA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/PHtmkQQvmAZPCZWeANUw/imagem-cortada-2026-08-24t230459.227.jpg"
+    },
+    {
+      "titulo": "Flávio Bolsonaro diz que montará time de ministros competentes e cita Daniella Marques",
+      "imagem": "https://s2-g1.glbimg.com/nEBqH9V8eqRYkFtkjzpUxba8Qtg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/mc1n7LQmeAnjxz7KLzVQ/fta20260824258.jpg"
+    },
+    {
+      "titulo": "Filhote de cachorro é resgatado após ficar preso em bueiro de 15 metros em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/AhTnudHike92f7-wDdp7pfqxNw8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/B/o2KfaCQQuEVTRVgyTY6A/g1-cachorro-resgate.jpg"
+    },
+    {
+      "titulo": "Abertura da final da Liga Nacional de Rodeio em Barretos tem disputa equilibrada entre touros e peões",
+      "imagem": "https://s2-g1.glbimg.com/PNBfIb7svtFZY2vtzuivfZYWHRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/3/mjBEXxTA6FZZuECOxa7g/daniel-ok.png"
+    },
+    {
+      "titulo": "FOTOS: Abertura da final da Liga Nacional de Rodeio",
+      "imagem": "https://s2-g1.glbimg.com/UeW-p7eiKT-GLDITlC9Evr0E_zU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/6/EwEK36ShWkQF84T1qBhw/dsc-2984.jpg"
+    },
+    {
+      "titulo": "Dnit libera ponte entre Pedro Afonso e Tupirama para veículos leves a partir desta terça-feira (25)",
+      "imagem": "https://s2-g1.glbimg.com/kfnkoDxRnC4_TBZNBRhyLJC0XbM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/t/PGe92URASmwHP92mMUGw/foto-luciano-ribeiro-secom.jpg"
+    },
+    {
+      "titulo": "Procissão luminosa reúne fiéis em noite de fé e devoção à Nossa Senhora Aparecida em Barretos",
+      "imagem": "https://s2-g1.glbimg.com/ahSmiBitoY25y1kHumHjhNJm2TA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/5/OMyE67QUGdZPycjFP7Og/dsc-2893.jpg"
+    },
+    {
+      "titulo": "Zema não garante aumento real do salário mínimo e diz que, 'por ora', não mexeria em idades de aposentadoria",
+      "imagem": "https://s2-g1.glbimg.com/QOkG9b_7KeHO_7q2rZ8Wc9cOXq4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/a/00xjEfR4yr5Lx9SFBvBg/globo-zema-2.jpg"
+    },
+    {
+      "titulo": "FOTOS: Procissão com Nossa Senhora Aparecida na Festa do Peão de Barretos",
+      "imagem": "https://s2-g1.glbimg.com/CpdrOkMRUL0JXu-tPxIUb4kNuH4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/b/vSwRnoRAAGb1kevbJVgg/dsc-2877.jpg"
+    },
+    {
+      "titulo": "Familiares e amigos protestam após assassinato de jovem e soltura de suspeito em Belém",
+      "imagem": "https://s2-g1.glbimg.com/yOy3LLPnGKIrarSJllKcrPeYzKY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/C/mZ3sSxS3Gw7XaZj2zVXg/captura-de-tela-2026-08-24-211940.png"
+    },
+    {
+      "titulo": "Flávio Bolsonaro, candidato do PL à Presidência, tem agenda em São Paulo",
+      "imagem": "https://s2-g1.glbimg.com/10SNT41MdAanONVcVHhb38D_bsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/K/DdNZMQRSyY62MqAc0lmA/globo-canal-4-20260824-2000-frame-103538.jpeg"
+    },
+    {
       "titulo": "Romeu Zema, candidato do Novo à Presidência, faz campanha na Baixada Fluminense",
       "imagem": "https://s2-g1.glbimg.com/bz2xLmcSbIo04WsWdwSOmPiBUkQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/l/NyUQjmQCO71kqklm21qA/globo-canal-4-20260824-2000-frame-101248.jpeg"
     },
@@ -29,7 +77,7 @@
       "imagem": "https://s2-g1.glbimg.com/eJU5C3yXcVyxyc1qJiTe8p8Uv4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/O/GmjYuxStSSwdPUQsyOGQ/imagem-principal-g1-fundacao-bradesco-festival-led-04-v2.jpg"
     },
     {
-      "titulo": "Presidente Lula, candidato à reeleição pelo PT, tema agenda em Brasília",
+      "titulo": "Presidente Lula, candidato à reeleição pelo PT, tem agenda em Brasília",
       "imagem": "https://s2-g1.glbimg.com/1PrvIVjRmuoVckPn12skgAeK-kA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/x/xs1sDaRFecRvDn2qS5kw/globo-canal-4-20260824-2000-frame-95595.jpeg"
     },
     {
@@ -39,10 +87,6 @@
     {
       "titulo": "TCE-AM julga irregulares contas do SPA Alvorada e manda ex-diretor devolver R$ 778 mil",
       "imagem": "https://s2-g1.glbimg.com/-lH7Ur5JGcDW9bjQm4uHprlP3jo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/7/XCIBGiRXKuOqYREbGz2A/tce-contas.jpg"
-    },
-    {
-      "titulo": "Tralli e Renata entrevistam Romeu Zema, candidato a presidente pelo Novo",
-      "imagem": "https://s2-g1.glbimg.com/OtTS5Cw3xj_7emGdj0eVebzuoNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/6/oaKPOiTwmiOTNTaynLAQ/fta20260819050.jpg"
     },
     {
       "titulo": "Sorteio dos grupos da Copa do Mundo feminina será dia 11 de dezembro, no Museu de Arte Moderna, no Rio",
@@ -61,7 +105,7 @@
       "imagem": "https://s2-g1.glbimg.com/wKcwp5aQOwSOzTUptIN3NW9fhkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/C/R9cqTmRwWfsC9ljFkMOg/globo-canal-4-20260824-2000-frame-93046.jpeg"
     },
     {
-      "titulo": "Câmara aprova parcelamento de dívida com o Camprev e aumento da idade mínima para servidor se aposentar em Campinas",
+      "titulo": "Câmara de Campinas aprova aumento da idade mínima para servidor se aposentar e parcelamento de dívida com o Camprev",
       "imagem": "https://s2-g1.glbimg.com/uKTJuvIpeD-1vUUob9fRWNMqZUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/g/X7hYXsQqiT1GRF5WE28A/55486370554-b5c347f58c-k.jpg"
     },
     {
@@ -73,53 +117,9 @@
       "imagem": "https://s2-g1.glbimg.com/7hhj4Ky1LP-slTq7dWQYmSO-Lh8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/w/65MuGsT2iNbBqmElfVsg/supersete-890-klobq.jpeg"
     },
     {
-      "titulo": "Romeu Zema (Novo) é entrevistado na Globo; veja trechos",
+      "titulo": "Romeu Zema (Novo) é entrevistado na Globo; veja íntegra",
       "imagem": "https://s2-g1.glbimg.com/0o5maSQxBfDa_PKf4G8BvqKGC7g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/r/tc7xZLS2aGdKpXjBXhyQ/zema-globo.jpg"
-    },
-    {
-      "titulo": "Carro de luxo é atingido por disparos de arma de fogo em avenida de Fortaleza",
-      "imagem": "https://s2-g1.glbimg.com/Juovffzb6E6dn5f2QtvDG026i7M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/q/T3gelXRIATZtUH4QXufw/carro-baleado.jpg"
-    },
-    {
-      "titulo": "Estado americano investiga OpenAI por ataque hacker feito por inteligência artificial",
-      "imagem": "https://s2-g1.glbimg.com/_6ZyiVx0ZFH9B48kgd5dJeReQnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/2QDIvUTmuV4oP2QYlmqg/ap26105015984564.jpg"
-    },
-    {
-      "titulo": "Veja agenda de campanha dos candidatos ao governo do Piauí nesta segunda (24)",
-      "imagem": "https://s2-g1.glbimg.com/-j9k3lEm396y3tGFCr3oJyrvfpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/O/xP8A58ToypqLGnSPAZwQ/capa-govenro-.png"
-    },
-    {
-      "titulo": "INSS deixa de exigir biometria facial para beneficiários obterem empréstimo consignado",
-      "imagem": "https://s2-g1.glbimg.com/wY9SrhDeYYFL9B9h8XrMv0n3bZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/b/uoqMR3QgyTNUAEBBHYfA/globo-canal-4-20260824-2000-frame-77664.jpeg"
-    },
-    {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1280 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/_0_NnRRFsxju3ELcVwYw2Me9fQQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/F/ZB5GMjRRylPGhl5j0gZg/diadesorte-1280-ikcnx.jpeg"
-    },
-    {
-      "titulo": "Pabllo Vittar revela a capa de 'Body type', segundo single do álbum 'Lost in lust'",
-      "imagem": "https://s2-g1.glbimg.com/62pPljVLzV3FXf03TwJIAfVJITQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/s/QGa4HiTRCUzBTQBw8MqQ/pabllovittafoto.jpg"
-    },
-    {
-      "titulo": "Documentário sobre povo Xavante conquista dois prêmios no Festival de Cinema em Gramado",
-      "imagem": "https://s2-g1.glbimg.com/UU7x5wMvGqVDQxnkRgRM-_G94-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/k/KGrBmbQ5OWGGj6e9M8Lg/whatsapp-image-2026-08-24-at-15.32.14.jpeg"
-    },
-    {
-      "titulo": "Resumão diário do JN: Braskem entra com pedido de recuperação extrajudicial; app da CNH passa a exibir passagens de veículos em pedágios eletrônicos",
-      "imagem": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
-    },
-    {
-      "titulo": "Lotofácil hoje: resultado do concurso 3770 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/fje4RcBeHKaBZflNpvIxvuNjFY8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/K/3PGlJFQ9epJueoTATYzw/lotofacil-3770-iiieb.jpeg"
-    },
-    {
-      "titulo": "Quina hoje: resultado do concurso 7100 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/VPJ-x7DSi4SDCwTAQPYn3zXDju8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/H/KA36ffToGYevrHDVBf0g/quina-7100-aoume.jpeg"
-    },
-    {
-      "titulo": "Polícia Civil de SP recebe decisão do STF e tem 5 dias para compartilhar dados de operação que mirou ONG ligada a filme sobre Bolsonaro",
-      "imagem": "https://s2-g1.glbimg.com/A6zIR9mA3Gd5XRdae5jXrKB9iG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/c/bhmsbtRq2rTUs3uF7VeA/fotojet-29-.jpg"
     }
   ],
-  "atualizadoEm": "2026-08-25T01:22:03.690Z"
+  "atualizadoEm": "2026-08-25T02:36:37.489Z"
 }
