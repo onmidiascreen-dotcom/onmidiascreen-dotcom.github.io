@@ -1,6 +1,50 @@
 {
   "noticias": [
     {
+      "titulo": "Amigas criam motogrupo feminino no litoral de SP: 'Lugar de mulher é nas duas rodas'",
+      "imagem": "https://s2-g1.glbimg.com/Jw5BZtmFC7dM1nMj3Y3reMD7Kgs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/R/o3kx65QAKZ9rlNpmcgGw/motogrupo-sereias-2-.jpg"
+    },
+    {
+      "titulo": "Mulher baleada pelo ex fica tetraplégica e decide estudar perícia criminal: 'Última voz da vítima'",
+      "imagem": "https://s2-g1.glbimg.com/uZnXB-aW_f1UGVLb8_EGrrZntmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/V/m8An5oRaWA3e2Gba99kg/gisele-sobrevivente-1-.jpg"
+    },
+    {
+      "titulo": "Homem asfixiado e morto na rua estava em surto pela perda do pai",
+      "imagem": "https://s2-g1.glbimg.com/GUzrwEVd7KRGYF6gbd7P1X8TuQE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/v/qjfRhTTeKABBPX4mNlyg/morto-surto.jpg"
+    },
+    {
+      "titulo": "Torresmo em formato de rocambole é tradição em Juiz de Fora há mais de três décadas",
+      "imagem": "https://s2-g1.glbimg.com/nIfHM5pYubdMSj36TbSQM9wFd44=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/M/AXkEn3TDe29en9qAIdfg/bar-totonho-1.jpg"
+    },
+    {
+      "titulo": "Pintor que transforma fachadas de casas de pessoas carentes se une a grafiteiro para atender pedido de moradora: 'Faz um botão de rosa?'",
+      "imagem": "https://s2-g1.glbimg.com/ocytiBPrPElo9ZRd2Vc2YUHBxI8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/W/35IAakRWCU0brP47MEew/design-sem-nome-2-1-.png"
+    },
+    {
+      "titulo": "Mortes de jogador de futebol e irmã em acidente causam comoção em SP; corpos serão enterrados nesta terça",
+      "imagem": "https://s2-g1.glbimg.com/TBhGvkq1CSaY1VgVEl1iE-PlUZ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/O/4PcIRBTBS7w1Hq8MFnkA/jogador-de-futebol-e-irma-morreram-apos-grave-acidente-em-santa-rita-do-passa-quatro-1-.jpg"
+    },
+    {
+      "titulo": "Diretora que teria obrigado aluno a beber a própria urina em MG pode responder por maus-tratos, aponta MP",
+      "imagem": "https://s2-g1.glbimg.com/ZXd9J6p4WaCrDrPw6Dh9_1B-0rg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/r/5EZ7S7SjOplbt47dvcmQ/caxambu.png"
+    },
+    {
+      "titulo": "Antena de celular ajudou polícia a prender PM por morte de advogado; foragido é investigado por tentar matar Vinicius Drumond",
+      "imagem": "https://s2-g1.glbimg.com/m4CljmT5cG6O_-pqdau1mhHKVoY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/y/PIPQ0ZQ7aue5NBG1z8Fg/imagem-cortada-2026-08-24t172503.990.jpg"
+    },
+    {
+      "titulo": "Cachorrinha batizada de ‘Fênix’ é resgatada com queimaduras de 3º grau após incêndio em Santana",
+      "imagem": "https://s2-g1.glbimg.com/X53Xz5S0RXt1M2kdw5dmkEMjbQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/O/HVNlT1RySrC2kwsY8Lew/whatsapp-image-2026-08-24-at-18.36.09.jpeg"
+    },
+    {
+      "titulo": "‘Gangorra térmica’: Vale do Paraíba terá virada no tempo nesta semana e temperatura máxima pode chegar a 35°C",
+      "imagem": "https://s2-g1.glbimg.com/66BxA1otM3iGTaJqJ0dE_KrGj6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/8/iJ3QABRDqHZ0Cqqo84sA/foto-g1.jpg"
+    },
+    {
+      "titulo": "Veado preto é registrado pela primeira vez no Pantanal; veja flagra",
+      "imagem": "https://s2-g1.glbimg.com/0EwALA0D-F8s6Lq9cI6MGwvP4rQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/Y/bCCXThTvuvEEn7Z4YLAA/veado-pretoo.jpg"
+    },
+    {
       "titulo": "Sósia de Vini Jr. evita polêmicas com Virginia e revela convites para harmonização facial",
       "imagem": "https://s2-g1.glbimg.com/SnuH8i32FVx9emB0DwX_hJXXpTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/f/qAOTZMTUatRjdNJtTAOg/fotos-g1-1920-x-1080-px-2026-08-24t203738.080.png"
     },
@@ -75,51 +119,7 @@
     {
       "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
       "imagem": "https://s2-g1.glbimg.com/jwwVSD4zNnWk5U6CAoFriRO9baE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/K/2fDkFJSBA8oBb73Kdm5A/previsao-tempo-santo-andr-20260825-030604.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/EfICP5M_VjGyzGW3gJsOcJIFPjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/9/ZJVSlsSiAkFyhfCBoANg/previsao-tempo-osasco-20260825-030540.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/YaXsW10avNCPLIKJdaCUtQmeHuE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Y/ffsVPaSjGbgzBwNxLhbw/previsao-tempo-guarulhos-20260825-030523.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/2qLGm0yGJS04P-m4VEUpk2oNCW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/g/zl8kF1TzSf9v78SPLBdg/previsao-tempo-s-o-gon-alo-20260825-030506.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): tempo chuvoso durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/1-7IxE7WfHn5cH-xjj2D6moC5Co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/J/saFcVNTVGX0uhOwKY9yw/previsao-tempo-rio-de-janeiro-20260825-030450.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): tempo nublado com chuva de manhã; à tarde pode garoar, o tempo abre, devagar, à noite",
-      "imagem": "https://s2-g1.glbimg.com/q74V8OkwV0grvWKKVqxI0B-w35M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/O/CzODb8TmKxgBaD2kXfQw/previsao-tempo-nova-igua-u-20260825-030432.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/Y5R5GzX9O1ugBLTzF4H1pzTmbkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/y/pd1z7VSAAUeGIp0zVSAQ/previsao-tempo-niter-i-20260825-030416.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/3yfxMS7o4PE2DFrIsoYN4AH9lqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/i/Vr5mfzRQmyCyIhUIKPMg/previsao-tempo-duque-de-caxias-20260825-030400.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/mvC7txSAZyLc7qAN3KLddPslUKs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/S/gYv2DWQrC50cwC5UKAow/previsao-tempo-sete-lagoas-20260825-030344.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/gK3xbcq1NYIjLxdMG0poOkuy-xc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Z/l0S2fwTiANMnUXA1IHbQ/previsao-tempo-ribeir-o-das-neves-20260825-030328.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Contagem (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/QAZCfJ0IgPeuyxhY8yYbfPY2JxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/x/J3BHdkTBO6sczmvrpKlQ/previsao-tempo-contagem-20260825-030304.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Betim (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/3TfBV5rozZHeG9J3a7l-fGGNhUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/E/iCkTJ3Rl6TDYFB1wHEZw/previsao-tempo-betim-20260825-030247.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-25T08:10:13.274Z"
+  "atualizadoEm": "2026-08-25T08:58:50.233Z"
 }

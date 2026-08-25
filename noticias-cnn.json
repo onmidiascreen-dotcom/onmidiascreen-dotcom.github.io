@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Juan Valdez, a “Starbucks latina”, acelera expansão no Brasil",
+      "imagem": null
+    },
+    {
       "titulo": "Atlético-GO x Botafogo-SP: horário e onde assistir ao jogo da Série B",
       "imagem": null
     },
@@ -53,7 +57,7 @@
       "imagem": null
     },
     {
-      "titulo": "Decisão do STF acaba com emenda indicada por presidente de partido, entenda",
+      "titulo": "Decisão do STF acaba com emenda indicada por presidente de partido; entenda",
       "imagem": null
     },
     {
@@ -115,11 +119,7 @@
     {
       "titulo": "Quaest: Renan Filho e JHC empatam nos dois turnos ao governo de AL",
       "imagem": null
-    },
-    {
-      "titulo": "Quaest/AL: Lira tem 20%, Renan, 18% e Marina JHC, 15% na corrida ao Senado",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-25T08:10:11.821Z"
+  "atualizadoEm": "2026-08-25T08:58:49.545Z"
 }
