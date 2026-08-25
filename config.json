@@ -29,12 +29,12 @@
           "nome": "Elevador 2"
         }
       ],
-      "exibirNoticias": true,
+      "exibirNoticias": false,
       "exibirCuriosidades": false,
       "comunicados": [
         {
           "titulo": "Assembleia geral — 30/08 19h",
-          "texto": "No salão de festas",
+          "texto": "No salão de festas dia de hhuh",
           "segundos": 10
         },
         {
