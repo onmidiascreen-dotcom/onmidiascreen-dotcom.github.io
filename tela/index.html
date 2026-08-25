@@ -818,8 +818,14 @@
   setInterval(atualizarNoticias, 10 * 60 * 1000);    // notícias: a cada 10 min
   setInterval(atualizarCotacoes, 10 * 60 * 1000);    // câmbio: a cada 10 min
   setInterval(atualizarClima, 30 * 60 * 1000);       // clima: a cada 30 min
-  // recarrega a página de madrugada para limpar memória e pegar novidades
-  setInterval(() => { const h = new Date().getHours(); if (h === 4) location.reload() }, 55 * 60 * 1000);
+  // recarrega a página periodicamente pra limpar memória/decodificador de vídeo e
+  // pegar novidades — funciona offline (Service Worker serve tudo do cache). Antes
+  // era só 1x por dia às 4h; numa tela que fica a maior parte do tempo sem internet,
+  // o desgaste (vídeo recarregado a cada exibição) pode se acumular bem antes disso
+  // e travar a página. Recarregar a cada poucas horas reinicia o estado antes que
+  // dê tempo de chegar lá, sem depender de horário de relógio (que pode até
+  // desandar depois de muitos dias offline sem sincronizar).
+  setInterval(() => location.reload(), 4 * 60 * 60 * 1000);
 
   // ---------- a rede voltou: corre atrás do atraso ----------
   // Sem isto a tela só descobre que voltou a ter internet no próximo ciclo (5 min),
