@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "A morte de Parton ocorre pouco mais de um ano após a de seu marido",
+      "imagem": null
+    },
+    {
+      "titulo": "Jogadora da WNBA rebate treinadora e diz que não terá folga antes da Copa",
+      "imagem": null
+    },
+    {
+      "titulo": "Apple apresenta novos Mac Mini e Mac Studio com foco em IA",
+      "imagem": null
+    },
+    {
+      "titulo": "Dolly Parton não deixa herdeiros; relembre explicação da cantora",
+      "imagem": null
+    },
+    {
+      "titulo": "Além da música, Dolly Parton se tornou conhecida por esforços filantrópicos",
+      "imagem": null
+    },
+    {
+      "titulo": "Profert ajuda, mas setor de fertilizantes cobra crédito e apoio à indústria",
+      "imagem": null
+    },
+    {
+      "titulo": "Revelações arqueológicas em basílica submersa nas águas de İznik mostram veneração de mártires da Igreja Católica",
+      "imagem": null
+    },
+    {
+      "titulo": "Açúcar recua 2,15% em Nova York com petróleo e importações da Índia",
+      "imagem": null
+    },
+    {
+      "titulo": "Trump presta homenagem à Dolly Parton: &#8220;Nunca houve ninguém como ela&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Mesmo sem aliado, Flávio declara apoio a JHC na disputa ao governo de AL",
+      "imagem": null
+    },
+    {
+      "titulo": "Durigan: combate à &#8220;pejotização&#8221; é chave para Previdência",
+      "imagem": null
+    },
+    {
+      "titulo": "Anel de detritos de Fomalhaut é intrigante e tem gigante olho moldado por um planeta misterioso",
+      "imagem": null
+    },
+    {
+      "titulo": "Ouro sobe a maior valor desde maio com tensões no Oriente Médio",
+      "imagem": null
+    },
+    {
+      "titulo": "Haddad alerta para risco de Sabesp se tornar &#8220;a Enel das águas&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Dolly Parton: relembre as colaborações musicais de sucesso da cantora",
+      "imagem": null
+    },
+    {
+      "titulo": "Morte de Dolly Parton: veja como será realizado funeral da cantora",
+      "imagem": null
+    },
+    {
+      "titulo": "AGU trava ação contra Mendonça, mas PF mantém pressão e amplia crise",
+      "imagem": null
+    },
+    {
+      "titulo": "Famosos se despedem de Dolly Parton: &#8220;Mundo menos brilhante&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Criança transforma seu próprio andador em balanço e emociona a mãe ao encontrar seu próprio jeito de se divertir em meio às suas limitações físicas",
+      "imagem": null
+    },
+    {
+      "titulo": "Advogado de Lulinha vai a ministro e chefe da PF e reclama de vazamentos",
+      "imagem": null
+    },
+    {
+      "titulo": "Estudo inédito: 1 em 4 ex-jogadores da NFL, mortos entre 2016 e 2021, tinha doença cerebral",
+      "imagem": null
+    },
+    {
       "titulo": "Relembre relação de Dolly Parton com a cantora Miley Cyrus",
       "imagem": null
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Dolly Parton: relembre os maiores hits da cantora que morreu aos 80 anos",
       "imagem": null
-    },
-    {
-      "titulo": "Toto Wolff compara Kimi Antonelli a Ayrton Senna: &#8220;É fascinante&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Dolly Parton: relembre a história da rainha da música country que morreu",
-      "imagem": null
-    },
-    {
-      "titulo": "Andreas recebe mais um jogo de suspensão e desfalca o Palmeiras contra LDU",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Carreata da vitória&#8221;: entenda como a história de um menino de 8 anos comoveu familiares e amigos que desfilaram em carros para comemorar a sua cura do câncer",
-      "imagem": null
-    },
-    {
-      "titulo": "IAs podem aprender comportamentos maliciosos? Estudo aponta que sim",
-      "imagem": null
-    },
-    {
-      "titulo": "Zema diz que territórios estão sob controle do crime: &#8220;Governo cego&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "WhatsApp anuncia novos recursos contra golpes; veja o que muda",
-      "imagem": null
-    },
-    {
-      "titulo": "Ligação de emergência: iPhone agora compartilha câmera ao vivo com 190",
-      "imagem": null
-    },
-    {
-      "titulo": "Lito Sousa: relembre o caso, do diagnóstico raro aos cuidados paliativos",
-      "imagem": null
-    },
-    {
-      "titulo": "Falha na inteligência artificial: quem é culpado quando a IA erra?",
-      "imagem": null
-    },
-    {
-      "titulo": "Dono dos 49ers é preso e acusado de envolvimento com prostituição nos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Morre cantora Dolly Parton aos 80 anos",
-      "imagem": null
-    },
-    {
-      "titulo": "US Open: Djokovic e Sabalenka são eliminados na estreia das duplas mistas",
-      "imagem": null
-    },
-    {
-      "titulo": "Victoria&#8217;s Secret anuncia data de Fashion Show de 2026; saiba detalhes",
-      "imagem": null
-    },
-    {
-      "titulo": "Equilíbrio fiscal é &#8220;palavrão&#8221; para Lula, diz Caiado",
-      "imagem": null
-    },
-    {
-      "titulo": "Norte Saneamento descarta entrar em leilões e prioriza aquisições",
-      "imagem": null
-    },
-    {
-      "titulo": "Web não perdoa atuação de novo goleiro do Palmeiras contra influenciador",
-      "imagem": null
-    },
-    {
-      "titulo": "Nottingham Forest x Leeds: horário e onde assistir à Copa da Liga Inglesa",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávia Alessandra se compara a Fábia em &#8220;Quem Ama Cuida&#8221;: &#8220;Meu oposto&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Setor de fertilizantes pede subsídio de R$ 2 bilhões para enxofre",
-      "imagem": null
-    },
-    {
-      "titulo": "SpaceX vai construir complexo para foguete Starship na Louisiana",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-25T19:17:32.744Z"
+  "atualizadoEm": "2026-08-25T19:54:51.605Z"
 }
