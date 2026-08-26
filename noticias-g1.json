@@ -1,6 +1,62 @@
 {
   "noticias": [
     {
+      "titulo": "Começam inscrições para concurso da PM e Corpo de Bombeiros da BA; salários podem chegar a R$ 9,9 mil",
+      "imagem": "https://s2-g1.glbimg.com/qI7pWdhbbMmv02ateEGdB8ORE84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/A/Getk2LS3OWC9Dt1wr65w/edimilsson-16-.jpg"
+    },
+    {
+      "titulo": "Emprego: veja as vagas disponíveis em Petrolina e Salgueiro",
+      "imagem": "https://s2-g1.glbimg.com/Q6g7Z0Xrn8bcW0DvOIGflJedZhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/1/CtMSsVSSC7cKmRAmnKmQ/trabalho-1-.jpg"
+    },
+    {
+      "titulo": "Gari que devolveu dinheiro e pertences de cantor ganha música em homenagem pelo gesto no Rio",
+      "imagem": "https://s2-g1.glbimg.com/GNFsuYDOhmd3L7gq0zjjjF65g84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/5/0mtsiERryxEcIC0R91CA/rj1-limpo-20260825-1115-frame-186203.jpeg"
+    },
+    {
+      "titulo": "'Coyote vs Acme' traz divertida (e animada) sátira aos filmes de tribunal; g1 já viu",
+      "imagem": "https://s2-g1.glbimg.com/L_bTsj7OGNdxWUCcJ27I7hW8SGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/Z/eyrrwSSwmrUBpQU1aCqA/coyote-vs-acme-foto1.jpg"
+    },
+    {
+      "titulo": "Barraca transparente, poeira e calorão: os perrengues no camping da Festa do Peão de Barretos",
+      "imagem": "https://s2-g1.glbimg.com/CocOXX6dkS4TkwFrEMY8dz_3YQQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/G/l9HGZMQpmQ3nv70dOKAg/dsc02142.jpg"
+    },
+    {
+      "titulo": "Fotógrafo que morreu após tentar separar briga em estádio na Bahia era formado em Cinema e se destacou na área cultural",
+      "imagem": "https://s2-g1.glbimg.com/G6puappll72hWL4bt3Dj2kz2TzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/R/yhjb1GRhW2jOOyeHNB9A/foto-no-tamanho-home-2026-08-25t095458.371.png"
+    },
+    {
+      "titulo": "Conheça a Assembleia de Deus Fonte de Vida, congregação que construiu megatemplo evangélico com tecnologia de estádio no ES",
+      "imagem": "https://s2-g1.glbimg.com/6QwWH9t7fQHKQkHAQYH2kV9iEjs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/9/LXEVRnSRyWGXLSEVkkOA/thumb-fotos-2026-08-25t150143.678.jpg"
+    },
+    {
+      "titulo": "Quaest em MG, 1º turno: veja intenção de voto para governo por sexo, idade, escolaridade, renda, cor, religião e identificação política",
+      "imagem": "https://s2-g1.glbimg.com/51YEYUVNj8oQRu2h8a0WF-CiZbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/57q383RYyDBUhmrLzPqw/2.jpg"
+    },
+    {
+      "titulo": "A vida noturna que revive endereços históricos, mas luta para existir nas ruas de Campo Grande",
+      "imagem": "https://s2-g1.glbimg.com/wEVS2qjwjyoc0XiY0w5WhgBoux4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/X/AUpw0vSpqH0wSEcxq26g/1200-x-800-6-.jpg"
+    },
+    {
+      "titulo": "Quaest para o governo de SP: veja intenção de voto por renda, sexo, idade, escolaridade, cor, religião e posicionamento político",
+      "imagem": "https://s2-g1.glbimg.com/wCDjYSRF3qGPQRsOOV5Fm32Kt54=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/T/Lc9zW7QzysAetKBwHVig/fotojet-2026-08-13t093200.615.jpg"
+    },
+    {
+      "titulo": "Após sofrer dez facadas no Amazonas, pastor diz que perdoa suspeito do ataque",
+      "imagem": "https://s2-g1.glbimg.com/go8eFYpE8zMjawKL7oziPHwhTOc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/B/zluUJPQpO5WuiHwqIqzw/whatsapp-image-2026-08-25-at-20.48.41.jpeg"
+    },
+    {
+      "titulo": "Por que Dolly Parton foi uma das maiores cantoras de todos os tempos e ícone pop da nova geração",
+      "imagem": "https://s2-g1.glbimg.com/bos69UZSx_WY1fMf6uy--aBH1Zs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/1/jERmABTfWVisWotAZAVg/2026-08-25t180418z-1477477592-rc2ow0az9zjw-rtrmadp-3-people-dolly-parton.jpg"
+    },
+    {
+      "titulo": "Sósia de Neymar vira 'empresa' com 15 funcionários e celebra amizade com jogador",
+      "imagem": "https://s2-g1.glbimg.com/KzhO3sX1LzABrR6dfkgwnU50x2A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/B/Ocq6WGRPS7QPprYuZW0Q/fotos-g1-1920-x-1080-px-2026-08-25t210223.691.png"
+    },
+    {
+      "titulo": "'Vi que estava pegando fogo e acionei o paraquedas', diz piloto que sobreviveu a acidente em MG",
+      "imagem": "https://s2-g1.glbimg.com/pyFx49DM0RkX3f_DPrmX1dlPAZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/B/QgpM9RRG6yiS5Sq6Igug/4-46-queda-aviao0019s03.mp4.mp4.png"
+    },
+    {
       "titulo": "Previsão do tempo hoje para Brasília (DF): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
       "imagem": "https://s2-g1.glbimg.com/oj7gQF09hGn-W9RHTWVZvmYyqY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/K/o7qaZaQDao8VpGiU05AQ/previsao-tempo-bras-lia-20260826-030656.jpeg"
     },
@@ -63,63 +119,7 @@
     {
       "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
       "imagem": "https://s2-g1.glbimg.com/6KbyGe8Nr__L6pngEwH4BBqLCW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/E/gAkrtVQrydg0hvRwJhbg/previsao-tempo-belo-horizonte-20260826-030230.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Recife (PE): sol com algumas nuvens; chove rápido durante o dia e à noite",
-      "imagem": "https://s2-g1.glbimg.com/-5J8vClM8XBLfV915J0QuZe90Z0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/g/oPX2YlT6OnDqbR0sXE2w/previsao-tempo-recife-20260826-030214.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Paulista (PE): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/STrqX4wqxuCpAROnvlUaLrIpQss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/7/GmOB3cSTACh26AxxCIdQ/previsao-tempo-paulista-20260826-030149.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Olinda (PE): sol o dia todo; muitas nuvens e pancadas de chuva de manhã e à noite",
-      "imagem": "https://s2-g1.glbimg.com/13blz7pgM51UDDCH2VxwV9Ohb5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/W/utzkY6RF282XvEzdrm7w/previsao-tempo-olinda-20260826-030133.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Jaboatão dos Guararapes (PE): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/opQGxsjTzqX2VZC5N82kj4KJuhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/a/FAyaMeS52c6d3LkfMNsg/previsao-tempo-jaboat-o-dos-guararapes-20260826-030115.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Cabo de Santo Agostinho (PE): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/vpEd5EE_zw9zEB-3YqZgBEsTkIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/1/WgrysTQsGvBQrWXTxzLA/previsao-tempo-cabo-de-santo-agostinho-20260826-030059.jpeg"
-    },
-    {
-      "titulo": "Habeas corpus para cultivo de cannabis: entenda o que a autorização permite e quais são os limites",
-      "imagem": "https://s2-g1.glbimg.com/j3enzc-DZMH42K1ZC_VPfFwYP1A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/6/EoBIAyS7K0djBMwtZZCA/captura-de-tela-2026-08-25-132901.png"
-    },
-    {
-      "titulo": "Malas pelo ar e um italiano barulhento: os segredos de um hotel icônico às margens dos trilhos de Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/kYOt5dvhr3dcNhysupuHgGYywzw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/l/OdaBNrRJK6BKfrG70Mtw/design-sem-nome-4-.png"
-    },
-    {
-      "titulo": "Fóssil de peixe de 254 milhões de anos revela nova espécie em Mato Grosso",
-      "imagem": "https://s2-g1.glbimg.com/RrvIpWgGA_ctBbJ5EKnh_RxU5IE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/E/oN6lOZQXip4XBddtGdwg/blurred-frame.jpg"
-    },
-    {
-      "titulo": "Mais de 290 prédios-caixão serão demolidos no Grande Recife e proprietários vão receber indenização; saiba quais são",
-      "imagem": "https://s2-g1.glbimg.com/qM0N8HdCOxwgOCPHhetHSayiEwE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/F/PaUhEAQxmeHApt6uZtDg/ne1-gcop-terca-frame-202733.jpeg"
-    },
-    {
-      "titulo": "MP e Prefeitura acordam prazo para limpeza de praças e avenidas de Ribeirão Preto após temporal com ventos de 160 km/h",
-      "imagem": "https://s2-g1.glbimg.com/llRKOfVmv5TT68OO2Tj4GHlmpso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/0/YCMiA8SAAqJSqg7VcqfA/vlcsnap-2026-08-25-21h17m47s898.png"
-    },
-    {
-      "titulo": "Jovem que perdeu R$ 500 mil em bets vende café em semáforo para ajudar a superar vício e viraliza: 'Não me sentia vivo assim há tempos'",
-      "imagem": "https://s2-g1.glbimg.com/LeRW1J5IB5cWH61JlvXjGoz1BJM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/h/lgB8nFSGKUyuqj0AgT8Q/gustavo-cafe-lages.jpeg"
-    },
-    {
-      "titulo": "Médica denunciada por morte de criança picada por escorpião era recém-formada; MP aponta negligência e despreparo",
-      "imagem": "https://s2-g1.glbimg.com/0xTnIeSSIGBemQFiXk1Z70UepWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/k/PFClmqT0SpRdPkmzp5lA/1200px-x-800px.png"
-    },
-    {
-      "titulo": "Suspeito de envolvimento em roubo de R$ 1,4 milhão a empresário é detido, mas joias e Pix continuam sumidos",
-      "imagem": "https://s2-g1.glbimg.com/56V4wvwEFwO8bHBUZHajAeZP0js=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Z/d0mdbUTKKtLsdJiF8llg/edilson-rufino-de-jesus.jpg"
-    },
-    {
-      "titulo": "A palavra 'saudade' só existe no português? Saiba o que outras línguas dizem sobre esse sentimento",
-      "imagem": "https://s2-g1.glbimg.com/aOAXZKBgq_0jVaa3g7O1d83pPiM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/P/hBnvmpRDW5Swl8Z9A0tg/whatsapp-image-2025-04-11-at-10.00.46.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-26T06:41:06.694Z"
+  "atualizadoEm": "2026-08-26T07:31:44.948Z"
 }
