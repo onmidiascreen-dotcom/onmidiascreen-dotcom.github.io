@@ -1,11 +1,31 @@
 {
   "noticias": [
     {
-      "titulo": "Ministério da Saúde pede inclusão de Lito em estudo experimental de doença rara nos EUA",
+      "titulo": "Piloto diz que paraquedas o 'ajudou muito' durante queda de monomotor",
+      "imagem": null
+    },
+    {
+      "titulo": "Independiente del Valle vence Tolima e será o adversário do Flamengo nas quartas da Libertadores",
+      "imagem": null
+    },
+    {
+      "titulo": "Cafu sai em defesa de Gianni Infantino e ganha apoio de Roberto Carlos",
+      "imagem": null
+    },
+    {
+      "titulo": "Ministério da Saúde pede inclusão de Lito em estudo experimental de doença rara",
       "imagem": null
     },
     {
       "titulo": "TJ julga ação que pode anular novo zoneamento de SP nesta quarta",
+      "imagem": null
+    },
+    {
+      "titulo": "Uso de redes sociais por menores aumenta na Austrália após proibição",
+      "imagem": null
+    },
+    {
+      "titulo": "Psiquiatra Guilherme Polanczyk explica por que é mais difícil diagnosticar adultos autistas tardiamente",
       "imagem": null
     },
     {
@@ -39,27 +59,7 @@
     {
       "titulo": "Conheça o Koff, festival de cinema coreano grátis que percorre cidades brasileiras",
       "imagem": null
-    },
-    {
-      "titulo": "Editora Ubu celebra dez anos com festival gratuito em São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Casas Bahia pede à Justiça que BB devolva R$ 422 mi e tenta estancar saída de mais recursos",
-      "imagem": null
-    },
-    {
-      "titulo": "C-Level lança série de entrevistas sobre propostas dos presidenciáveis para a economia",
-      "imagem": null
-    },
-    {
-      "titulo": "Rinha de políticos radicais em podcasts gera cortes e engajamento e invade campanhas",
-      "imagem": null
-    },
-    {
-      "titulo": "EUA voltam a bombardear Pacífico após dois meses de trégua e em meio a ofensiva retórica",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-26T02:38:52.946Z"
+  "atualizadoEm": "2026-08-26T03:38:37.980Z"
 }

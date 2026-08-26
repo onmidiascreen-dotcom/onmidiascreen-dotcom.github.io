@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "As duas frentes da guerra comercial de Trump - O Assunto #1791",
+      "imagem": "https://s2-g1.glbimg.com/fY_kgxExcd-HJCgC7uUiWkXcP-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/5/ZFsD37QuC14oojsiSvKg/2026-07-28t225144z-1259173225-rc247harfsbb-rtrmadp-3-usa-trump-tariffs-usmca.jpg"
+    },
+    {
+      "titulo": "O que pensam evangélicos do RJ indecisos nesta eleição? Veja na série 'Voto Pendular', do Jornal da Globo",
+      "imagem": "https://s2-g1.glbimg.com/tBu_gW_H1n0RV1oHzt2gBNzE5Dw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/u/8zr2x4TZKUBBdBAK7xSw/captura-de-tela-2026-08-21-160011.png"
+    },
+    {
+      "titulo": "Como robôs e perfis falsos tentam influenciar as conversas sobre eleições nas redes sociais?",
+      "imagem": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
+    },
+    {
+      "titulo": "Quaest: pesquisa espontânea mostra que 80% dos eleitores de MG estão indecisos sobre voto para governador; 94%, para senador",
+      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
+    },
+    {
+      "titulo": "Vaquinhas eleitorais já superam R$ 8 milhões; dez candidatos concentram metade das doações",
+      "imagem": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+    },
+    {
+      "titulo": "Presidenciáveis defendem cooperação com países vizinhos e uso de tecnologia no combate ao crime nas fronteiras; veja propostas",
+      "imagem": null
+    },
+    {
+      "titulo": "Renan Santos participa de entrevista da Globo nesta quarta-feira; saiba como assistir",
+      "imagem": "https://s2-g1.glbimg.com/heu9NI7Qg1it04YoXjpEI83wLIs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/N/QaQMFiTUyGVh916u3Iwg/haagen-request-1200.jpg"
+    },
+    {
+      "titulo": "Quaest no RJ: intenção de voto para governador por sexo, raça, idade, escolaridade, renda e identificação política",
+      "imagem": "https://s2-g1.glbimg.com/bu_LS-C30vacuQlSBXqprj_cNxk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/B/yaF7BoT5GWp5Cd2XefFQ/260825-grafico-intencao-de-voto-para-governador-1-.jpg"
+    },
+    {
+      "titulo": "Justiça mantém reintegração de 1.900 demitidos da Casas Bahia; veja o que acontece agora",
+      "imagem": "https://s2-g1.glbimg.com/6qTxGAranInbXogDZZwh44mUOoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/y/LAKKFXRvOnX0fqoMzRMA/foto-g1-1-.jpg"
+    },
+    {
+      "titulo": "Quem eram os irmãos Felipe e Beatriz, jogador de futebol e estudante mortos em grave acidente no interior de SP",
+      "imagem": "https://s2-g1.glbimg.com/0ltx_7dcnnPdlnlH8y1-SdLYFF4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/Z/klMBPSSHyWusrP0z09Wg/felipe-e-beatriz-irmaos-mortos-em-acidente-em-santa-rita-do-passa-quatro-1-.jpg"
+    },
+    {
+      "titulo": "Entenda por que o eclipse lunar desta semana não será uma 'Lua de Sangue'",
+      "imagem": "https://s2-g1.glbimg.com/YuOjlQlNUqHdtV2sSLYOOHWamME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/W/d/DA95rKRUAXPbG3xoNVdg/2021-11-19t104615z-1158894803-rc2hxq9efi7y-rtrmadp-3-lunar-eclipse-bloodmoon-new-york.jpg"
+    },
+    {
+      "titulo": "Jovem acorrentada pelo ex conta que tinha ido se encontrar com ele para falar sobre a pensão dos filhos quando foi sequestrada",
+      "imagem": "https://s2-g1.glbimg.com/OV53MRAEq_d6Ynd2DUFzgnGlUuA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/L/rfgeMdSZKoIk6GA4VFew/copia-de-copia-de-copia-de-padrao-foto-g1-goias-3-.jpg"
+    },
+    {
+      "titulo": "Instituto diz que vai ajudar, família cobra medicamento e ministério cita triagem: o que se sabe sobre a busca de Lito por tratamento",
+      "imagem": "https://s2-g1.glbimg.com/zG5BbqmJHR0NZNfpNWrEOXrp-9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/s/wTax7aQPSVcYeGrC1JhA/lito-souza.jpg"
+    },
+    {
+      "titulo": "TikTok leva multa inédita no Brasil: o que causou a decisão? E o que muda? Veja perguntas e respostas",
+      "imagem": null
+    },
+    {
+      "titulo": "Chuva forte avança pelo Sudeste, Sul e Centro-Oeste nesta quarta; veja previsão do tempo",
+      "imagem": "https://s2-g1.glbimg.com/bPa66CxtSBzvh__x7FV_H6jC2QQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/l/OIZXBCSE2dpWFsP0KXMA/fta20260318059.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: Veja a agenda dos candidatos ao Governo do RJ na quarta-feira",
+      "imagem": "https://s2-g1.glbimg.com/_4Bl3P701O1QAJvjpjMYlh__G4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/l/sdmAsgRB2AotWsaf0VVQ/palacio2.jpeg"
+    },
+    {
+      "titulo": "Eleições 2026: presidenciáveis defendem contas em ordem para baixar juro e estimular economia, mas não detalham propostas",
+      "imagem": "https://s2-g1.glbimg.com/m6a1xl7DpQRv_OHe8662ppfU_M0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/T/XofMefQPuxb6AuBATAbA/designer-4-.png"
+    },
+    {
+      "titulo": "Após deixar respirador, piloto de asa-delta volta a ser intubado; homem sofreu queda em acidente no RS",
+      "imagem": "https://s2-g1.glbimg.com/wE8SV_IHoFy5YcQwHsdmJ3IKZng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/B/nmghAWSSqremKlFAw8bQ/g1-6-.jpg"
+    },
+    {
+      "titulo": "Quaest: veja os números da eleição para presidente em 17 estados e no DF",
+      "imagem": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
+    },
+    {
       "titulo": "FOTOS: Trio Parada Dura e Lourenço &amp; Lourival na Festa do Peão de Barretos",
       "imagem": "https://s2-g1.glbimg.com/J5evXwBfTMyFCaKAyMgV0xBPicM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/H/aiWWkjTHKHp9GveuAiCA/dsc-3439.jpg"
     },
@@ -9,7 +85,7 @@
       "imagem": "https://s2-g1.glbimg.com/WgpT4wyFSdzsNVjgpQk4xXEVJ6Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/k/HSAC7kQ3GxYeM6KkjXiQ/furto-na-locadora.jpg"
     },
     {
-      "titulo": "Caso Yasmin Macêdo: Lucas Magalhães, dono de lancha, é condenado a 4 anos e 10 meses em regime semiaberto no Pará",
+      "titulo": "Caso Yasmin Macêdo: Lucas Magalhães é condenado a 4 anos e 10 meses por porte e disparo de arma, e absolvido de homicídio no Pará",
       "imagem": "https://s2-g1.glbimg.com/yBKDTvZqydyllfFD--G1po5YL8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/O/aIQPwUQbqOFqowprTGsg/whatsapp-image-2026-08-25-at-09.51.52.jpeg"
     },
     {
@@ -43,83 +119,7 @@
     {
       "titulo": "Mulher dá tapa no rosto de policial militar durante confusão na Festa do Peão de Barretos",
       "imagem": "https://s2-g1.glbimg.com/1bmPdB6_ox_qKScTsZXw6S06ToA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/h/iAA52dRti9hW4oJnHcAQ/agride-pm.png"
-    },
-    {
-      "titulo": "Panfletagem, caminhadas e promessas para a saúde: candidatos ao governo do Ceará têm mais um dia de agenda na capital",
-      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
-    },
-    {
-      "titulo": "Veja agenda de campanha dos candidatos ao governo de MG nesta terça-feira",
-      "imagem": "https://s2-g1.glbimg.com/51YEYUVNj8oQRu2h8a0WF-CiZbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/57q383RYyDBUhmrLzPqw/2.jpg"
-    },
-    {
-      "titulo": "Adolescentes com 12 e 8 passagens pela polícia tentam se esconder em padaria durante fuga em Cabo Frio",
-      "imagem": "https://s2-g1.glbimg.com/ICA-55_ar4bcEp2d195r9pulCuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/g/Q449OxSHuVZsTUH3YASA/adolescentes-foram-apreendidos-apos-tentarem-se-esconder-em-uma-padaria-em-cabo-frio.png"
-    },
-    {
-      "titulo": "Ronaldo Caiado (PSD) é entrevistado na Globo; veja íntegra",
-      "imagem": "https://s2-g1.glbimg.com/kmlDRPUrctF70aKBRlzd1W0CwF0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/f/LArMvBRSujvMw0bPW9Lw/whatsapp-image-2026-08-25-at-20.56.49.jpeg"
-    },
-    {
-      "titulo": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha em Sergipe",
-      "imagem": "https://s2-g1.glbimg.com/RgGHd24sEZtmequhpmwCLDhZAV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/K/craKfnRo2yVbW5m45lLw/globo-canal-4-20260825-2000-frame-106453.jpeg"
-    },
-    {
-      "titulo": "Augusto Cury, candidato do Avante à Presidência, faz campanha em Minas e São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/KBJhOp1u61B1WklerzJShTJw-J4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/t/SFXiPKRCGUoUB4v4Sykg/globo-canal-4-20260825-2000-frame-103873.jpeg"
-    },
-    {
-      "titulo": "Romeu Zema, candidato à Presidência pelo Novo, faz campanha no Rio de Janeiro",
-      "imagem": "https://s2-g1.glbimg.com/fTP4ME7Msf1G8cEEX4vLv4rxym0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/U/lIgpzCRA6BTqKZL56jeA/globo-canal-4-20260825-2000-frame-101997.jpeg"
-    },
-    {
-      "titulo": "Policial militar suspeito de matar homem na BR-101, na PB, tem prisão mantida após audiência de custódia",
-      "imagem": "https://s2-g1.glbimg.com/kAvumArB-s4NFKwAkYdiJC_roV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/x/Bp9debQwGGPq5F91myAg/perito.jpg"
-    },
-    {
-      "titulo": "Ronaldo Caiado, candidato à Presidência pelo PSD, faz campanha em São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/L1x1WgDbjpsEwBT3N5pPV1veyC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/L/AwDA7pReukodfBXWBGXQ/globo-canal-4-20260825-2000-frame-99982.jpeg"
-    },
-    {
-      "titulo": "Adolescente de 16 anos denuncia assédio sexual na Bahia",
-      "imagem": "https://s2-g1.glbimg.com/33hF2fPRE35Jug23Y-QNh__Ls4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/B/A/MgDvBmTGCd9iXdyIRGVA/istock-1034359770.jpg"
-    },
-    {
-      "titulo": "Renan Santos, candidato do Missão à Presidência, faz campanha em São Paulo",
-      "imagem": "https://s2-g1.glbimg.com/XsfQnFIDT0SH30U5MfZuCTh0MLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/1/kyMeaBSCu9e3VPhdx89A/globo-canal-4-20260825-2000-frame-98018.jpeg"
-    },
-    {
-      "titulo": "Presidente Lula, candidato à reeleição pelo PT, cumpre agenda em Brasília",
-      "imagem": "https://s2-g1.glbimg.com/zKGfslVTkore9PF3XbH7j_4qwBQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/T/4lXQN5RuKM5HihFCur2Q/globo-canal-4-20260825-2000-frame-97260.jpeg"
-    },
-    {
-      "titulo": "Timemania hoje: resultado do concurso 2433 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/LeF00qVvoEvUxjIhZH2MEUhRkxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/A/gtDO2oStup0yudJ2hLoQ/timemania-2433-mxlbx.jpeg"
-    },
-    {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1281 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/hqLwnqkogeTQLy3t68joZRSobgo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/l/L0TnizRXAdJD8OO9gGPg/diadesorte-1281-kvlkn.jpeg"
-    },
-    {
-      "titulo": "Lotofácil hoje: resultado do concurso 3771 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/NWtAcluFsfyG5lUgFYcb5Flanuw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/V/E9DHJrTEWHDSaFxD8eUw/lotofacil-3771-enmee.jpeg"
-    },
-    {
-      "titulo": "Quina hoje: resultado do concurso 7101 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/-Qmb-THlLgIE2v1_igEVHJAQpg8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/E/R8rEQgRxyY2AunZQV67w/quina-7101-ivzsv.jpeg"
-    },
-    {
-      "titulo": "g1 Acre e CBN Rio Branco conquistam 1º lugar no Prêmio Sebrae de Jornalismo 2026",
-      "imagem": "https://s2-g1.glbimg.com/mxDdBKf0wuCG2FrLtEqD0gdunXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/A/tytq0iQnaPQAzQ4mqBcQ/whatsapp-image-2026-08-25-at-18.57.17.jpeg"
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
-    },
-    {
-      "titulo": "Homem é morto a tiros em Seropédica; DHBF investiga",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-26T02:38:54.991Z"
+  "atualizadoEm": "2026-08-26T03:38:39.593Z"
 }
