@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Ônibus escolar cai de ribanceira de 10 metros em SC e fere duas crianças",
+      "imagem": null
+    },
+    {
       "titulo": "Ônibus escolar cai em ribanceira e deixa duas crianças feridas em SC",
       "imagem": null
     },
@@ -55,11 +59,7 @@
     {
       "titulo": "Mega-Sena concurso 3049 acumula para R$ 25 milhões; confira os números",
       "imagem": null
-    },
-    {
-      "titulo": "Casas Bahia pede à Justiça que BB devolva R$ 422 mi e tenta estancar saída de mais recursos",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-26T05:49:23.083Z"
+  "atualizadoEm": "2026-08-26T06:41:03.929Z"
 }
