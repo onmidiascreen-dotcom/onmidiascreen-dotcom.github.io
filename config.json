@@ -62,16 +62,6 @@
       "rodape": "",
       "cor": "azul",
       "predios": [],
-      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1787665746/ov8mdikiyqcxujlklqlz.mp4"
-    },
-    {
-      "tipo": "video",
-      "tag": "",
-      "titulo": "Novo anúncio",
-      "texto": "",
-      "rodape": "",
-      "cor": "azul",
-      "predios": [],
       "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1787665791/sfgq8i2cxolghvvyti1z.mp4"
     },
     {
@@ -85,14 +75,13 @@
       "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1787665803/nwziwgauhodczrf5cafk.mp4"
     },
     {
-      "tipo": "video",
+      "tipo": "imagem",
       "tag": "",
       "titulo": "Novo anúncio",
       "texto": "",
       "rodape": "",
       "cor": "azul",
-      "predios": [],
-      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1787665815/cr5xrs41jamtnzerfumq.mp4"
+      "predios": []
     }
   ]
 }
