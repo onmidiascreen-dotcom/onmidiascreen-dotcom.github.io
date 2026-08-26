@@ -837,11 +837,11 @@
   // e travar a página. Recarregar a cada poucas horas reinicia o estado antes que
   // dê tempo de chegar lá, sem depender de horário de relógio (que pode até
   // desandar depois de muitos dias offline sem sincronizar).
-  // 2h pra bater com o "Auto Reload on Idle" do Fully (mesma ideia, redundante de
-  // propósito): assim a tela fica protegida mesmo se essa configuração do Fully
-  // não estiver ativada num aparelho novo — não depende de ninguém lembrar de
-  // configurar isso manualmente em cada tela instalada.
-  setInterval(() => location.reload(), 2 * 60 * 60 * 1000);
+  // 12 min: prioridade é confiabilidade, não estética — o pisco rápido da recarga
+  // é aceitável pelo benefício de nunca deixar um problema (branco, travado) durar
+  // muito tempo sem ninguém perceber. Roda independente do Fully estar configurado
+  // ou não em cada tela nova.
+  setInterval(() => location.reload(), 12 * 60 * 1000);
 
   // ---------- a rede voltou: corre atrás do atraso ----------
   // Sem isto a tela só descobre que voltou a ter internet no próximo ciclo (5 min),
