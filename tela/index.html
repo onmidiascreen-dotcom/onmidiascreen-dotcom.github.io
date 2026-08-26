@@ -473,7 +473,10 @@
       const p = item.video.play(); if (p && p.catch) p.catch(() => { adTimer = setTimeout(proximoAnuncio, 4000); });
       item.video.ontimeupdate = () => { if (item.video.duration) progress.style.width = (item.video.currentTime / item.video.duration * 100) + '%'; };
       item.video.onended = () => proximoAnuncio();
-      item.video.onerror = () => proximoAnuncio(); // ex.: sem internet e vídeo não cacheado — pula
+      // ex.: sem internet e vídeo não cacheado — pula. Com 1 SÓ anúncio cadastrado,
+      // "pular" volta pro mesmo vídeo, que erra nem, sem parar — sem essa pausa,
+      // esse laço gira rápido demais e trava a aba (branco permanente até religar).
+      item.video.onerror = () => { setTimeout(proximoAnuncio, 4000); };
       adTimer = setTimeout(proximoAnuncio, 90000); // segurança se o vídeo travar
     } else {
       // texto ou imagem: tempo fixo
