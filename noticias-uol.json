@@ -1,6 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "Ônibus escolar cai em ribanceira e deixa duas crianças feridas em SC",
+      "imagem": null
+    },
+    {
+      "titulo": "'A História do Som' e sátira de 'Black Mirror': o que ver na TV e no streaming nesta quarta-feira",
+      "imagem": null
+    },
+    {
       "titulo": "Piloto diz que paraquedas o 'ajudou muito' durante queda de monomotor",
       "imagem": null
     },
@@ -49,17 +57,9 @@
       "imagem": null
     },
     {
-      "titulo": "Gabriel e Daniela foram ao Camboja para trabalhar; ela ficou presa, ele voltou ao Brasil em um caixão",
-      "imagem": null
-    },
-    {
-      "titulo": "O sentido dos números é inato?",
-      "imagem": null
-    },
-    {
-      "titulo": "Conheça o Koff, festival de cinema coreano grátis que percorre cidades brasileiras",
+      "titulo": "Casas Bahia pede à Justiça que BB devolva R$ 422 mi e tenta estancar saída de mais recursos",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-26T04:23:35.809Z"
+  "atualizadoEm": "2026-08-26T05:04:26.121Z"
 }
