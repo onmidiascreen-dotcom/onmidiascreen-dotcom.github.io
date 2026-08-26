@@ -837,11 +837,12 @@
   // e travar a página. Recarregar a cada poucas horas reinicia o estado antes que
   // dê tempo de chegar lá, sem depender de horário de relógio (que pode até
   // desandar depois de muitos dias offline sem sincronizar).
-  // 6 min: prioridade é confiabilidade, não estética — o pisco rápido da recarga
-  // é aceitável pelo benefício de nunca deixar um problema (branco, travado) durar
-  // muito tempo sem ninguém perceber. Roda independente do Fully estar configurado
-  // ou não em cada tela nova.
-  setInterval(() => location.reload(), 6 * 60 * 1000);
+  // 30 min: 6 min chegou perto demais e "Android WebView render process
+  // unresponsive" voltou a aparecer — suspeita forte de que recarregar a página
+  // INTEIRA com tanta frequência interrompe o vídeo no meio da decodificação,
+  // o mesmo tipo de estresse que o load() repetido causava. 30 min ainda protege
+  // bem mais rápido que os 2h originais, sem essa frequência agressiva.
+  setInterval(() => location.reload(), 30 * 60 * 1000);
 
   // ---------- a rede voltou: corre atrás do atraso ----------
   // Sem isto a tela só descobre que voltou a ter internet no próximo ciclo (5 min),
