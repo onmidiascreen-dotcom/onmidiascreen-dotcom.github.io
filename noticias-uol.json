@@ -1,6 +1,10 @@
 {
   "noticias": [
     {
+      "titulo": "Cidade de São Paulo seguirá com dias frios, mas espera calor ao fim da semana",
+      "imagem": null
+    },
+    {
       "titulo": "Ministério Público quer multa diária de R$ 100 mil a Nunes por contrato de iluminação considerado irregular",
       "imagem": null
     },
@@ -9,15 +13,27 @@
       "imagem": null
     },
     {
+      "titulo": "Entenda regras do TSE sobre IA e propaganda eleitoral na internet",
+      "imagem": null
+    },
+    {
+      "titulo": "Meta mandou apagar evidências sobre abuso sexual infantil, diz ex-funcionário",
+      "imagem": null
+    },
+    {
       "titulo": "Centros de detenção nos EUA têm condições deploráveis, diz prefeito preso pelo ICE",
       "imagem": null
     },
     {
-      "titulo": "Anna Maria Maiolino ganha exposição em que usa a arte para radiografar o corpo",
+      "titulo": "Amigos e vizinhos também ajudam a cuidar de idosos, mostram pesquisas nos EUA",
       "imagem": null
     },
     {
-      "titulo": "Entenda regras do TSE sobre IA e propaganda eleitoral na internet",
+      "titulo": "Gamescom começa com grandes lançamentos e trailer de 'GTA 6' no radar",
+      "imagem": null
+    },
+    {
+      "titulo": "Anna Maria Maiolino ganha exposição em que usa a arte para radiografar o corpo",
       "imagem": null
     },
     {
@@ -43,23 +59,7 @@
     {
       "titulo": "Renda fica estável após recorde no governo Lula; alta desde 2022 é de 13%",
       "imagem": null
-    },
-    {
-      "titulo": "Amigos e vizinhos também ajudam a cuidar de idosos, mostram pesquisas nos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Estudo em Porto Alegre mostra que diagnóstico tardio de HIV ocorre mais em heterossexuais casados",
-      "imagem": null
-    },
-    {
-      "titulo": "Gamescom começa com grandes lançamentos e trailer de 'GTA 6' no radar",
-      "imagem": null
-    },
-    {
-      "titulo": "Meta mandou apagar evidências sobre abuso sexual infantil, diz ex-funcionário",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-26T07:31:42.307Z"
+  "atualizadoEm": "2026-08-26T08:23:32.874Z"
 }

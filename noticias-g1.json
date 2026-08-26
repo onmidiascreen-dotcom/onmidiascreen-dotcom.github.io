@@ -1,6 +1,66 @@
 {
   "noticias": [
     {
+      "titulo": "Festa do Peão de Barretos 2026: veja a programação desta quarta-feira, 26 de agosto",
+      "imagem": "https://s2-g1.glbimg.com/QFMN4PBPT_7pW9ktEzIK1wvF6-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/T/540M3WR5uTZB46iJQPig/design-sem-nome.png"
+    },
+    {
+      "titulo": "Eleições 2026: Número de vereadores candidatos a cargos de deputado cresce em São José e Taubaté",
+      "imagem": "https://s2-g1.glbimg.com/wYumRWGprskltbYNBs4B-V-YI-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/B/LT139qReyNGAjXQyrgdg/foto-g1-7-.png"
+    },
+    {
+      "titulo": "Disputa entre traficantes rivais deixa mais de 10 mortos em menos de 20 dias em Duque de Caxias",
+      "imagem": "https://s2-g1.glbimg.com/u3kjl3Fa081kR6Hz3776n5wDcx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/g/4dbk5wT46c3Dnmuww2Zg/imagem-cortada-26-.jpg"
+    },
+    {
+      "titulo": "Golpistas avançam do roubo de senhas para o uso de IA para 'clonar' pessoas no Brasil, revela estudo",
+      "imagem": "https://s2-g1.glbimg.com/lM6OqioqJVJVzKbPn2gnSNWan5E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/X/2EwBlmSbmFlL0dt6Bo6A/thumb-fotos-2026-08-24t123819.635.jpg"
+    },
+    {
+      "titulo": "Morte de professor de Cambridge chama atenção para uso político de alegações de plágio",
+      "imagem": "https://s2-g1.glbimg.com/pijpXggZ3HFCAdNFFHHxZdqoNWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/D/HYwbhzTpCYjOsVmV9Xsg/afp-20260818-c4w48yn-v1-midres-britaineducationcambridgeracism.jpg"
+    },
+    {
+      "titulo": "Como um embrião se implanta no útero?",
+      "imagem": "https://s2-g1.glbimg.com/4GBXE5-BFW5mjuh0F_tiv_gXvf4=/s.glbimg.com/jo/g1/f/original/2011/05/30/fiv1.jpg"
+    },
+    {
+      "titulo": "Quem era Maryna Colucci, mulher trans e conselheira tutelar que teria sido assassinada por PM em MG",
+      "imagem": "https://s2-g1.glbimg.com/b71LVvsuIJ_YStbfEpZQ3rRvLJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/f/jyElMkTRicNhGMcyk4Gg/jacui.png"
+    },
+    {
+      "titulo": "Kombi em chamas desce morro desgovernada e bate em poste em MG; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/QFcx74nAV5oKgcotRBJcTivvTkI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/g/x71Q3eQ0qUxVXykzSNJQ/whatsapp-image-2026-08-25-at-11.36.12.jpeg"
+    },
+    {
+      "titulo": "Das vaias aos palcos do mundo: conheça como a parceria de 50 anos entre Pinduca e Eliana Pittman mudou os rumos do carimbó",
+      "imagem": "https://s2-g1.glbimg.com/JdFuJtJs-Pl8HQr4F6Rl6M58joU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/o/FG0dERRtGdBUxG2uE2OQ/pinduca-e-eliana.png"
+    },
+    {
+      "titulo": "Famosos compartilham histórias sobre como Lito Sousa ajudou a superar o medo de voar: 'Turbulência não derruba avião'",
+      "imagem": "https://s2-g1.glbimg.com/9v3LEJwgTA5aPq59lBsMvIsEkKM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/n/4rJGGESmGlFlavoerlcw/fotojet-2-.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: quem são os candidatos forasteiros de SP?",
+      "imagem": "https://s2-g1.glbimg.com/t-5R_QVOt9Um6bGNQc25dz0mzhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/T/WWAv3QQxAL6yF3r9dvAQ/marina-silva-e-simone-tebet.jpg"
+    },
+    {
+      "titulo": "Aos 8 anos, pequeno campeão do rodeio em carneiros busca o bi em Barretos: 'É da hora competir'",
+      "imagem": "https://s2-g1.glbimg.com/7v1KnCGZDDpcI1CKf9HvpwX0kCg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/4/u86vbgTeu8MnVucVrbTA/vacari-gabriel.jpg"
+    },
+    {
+      "titulo": "El Niño atrasa chuvas no AP e acende alerta para seca e risco de queimadas, aponta Censipam",
+      "imagem": "https://s2-g1.glbimg.com/GwVuOER3TiR1_1sJThLN7NxwbiM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/N/T/30bGOERduAXhDqmsFZvQ/photo1693691597.jpeg"
+    },
+    {
+      "titulo": "Soldado carbonizado: elementos da investigação apontam que marido da PM atirou e ateou fogo no corpo da vítima",
+      "imagem": "https://s2-g1.glbimg.com/2cJGgzOdVH9jQ63r1ZbZ8tJ8PwQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/hLZZ0hTDayAMOKuBcAEg/fotojet-2-.jpg"
+    },
+    {
+      "titulo": "Empregador é condenado a pagar R$ 100 mil em danos morais após resgate de trabalhadores que dividiam comida com animais",
+      "imagem": "https://s2-g1.glbimg.com/2h_KOnxDRvJsR-lnZRc8soEVgds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/b/Uo19egTdOCnjQasW3OFg/design-sem-nome-2026-02-05t185501.575.png"
+    },
+    {
       "titulo": "Começam inscrições para concurso da PM e Corpo de Bombeiros da BA; salários podem chegar a R$ 9,9 mil",
       "imagem": "https://s2-g1.glbimg.com/qI7pWdhbbMmv02ateEGdB8ORE84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/A/Getk2LS3OWC9Dt1wr65w/edimilsson-16-.jpg"
     },
@@ -59,67 +119,7 @@
     {
       "titulo": "Previsão do tempo hoje para Brasília (DF): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
       "imagem": "https://s2-g1.glbimg.com/oj7gQF09hGn-W9RHTWVZvmYyqY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/K/o7qaZaQDao8VpGiU05AQ/previsao-tempo-bras-lia-20260826-030656.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Paulo (SP): céu nublado com possibilidade de garoa de manhã; à tarde o sol aparece, pancadas de chuva à tarde e à noite",
-      "imagem": "https://s2-g1.glbimg.com/uoZpJnqfwp4jK2LPNyC7-ygbcRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/V/Q9amSJRIqS8XBVOvTmqw/previsao-tempo-s-o-paulo-20260826-030631.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Bernardo do Campo (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/y-6u-1b6jVNV3mT39eY64WBEmRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/6/al7cFfSwuXqV6ATWx5hw/previsao-tempo-s-o-bernardo-do-campo-20260826-030614.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Santo André (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/nNl5SOSWSa3CWb-euILE8WcpLSQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/m/iO7PZPSya97vcA8ZjoAA/previsao-tempo-santo-andr-20260826-030559.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens e pancadas de chuva à tarde; muitas nuvens à noite, sem chuva",
-      "imagem": "https://s2-g1.glbimg.com/UGBnxeWxZhigXjqjWWXzviHLI-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/6/C6gArRSIivyEhXOdHA2A/previsao-tempo-osasco-20260826-030534.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Guarulhos (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/cilQi9HV7HMmTBoHXcEXnaOoDws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/F/KH9M8AQ0ihimRsER9oiQ/previsao-tempo-guarulhos-20260826-030518.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/Uv7taE_Jss8U_HvX5biCmMC57oA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/V/YjLcgJT5SVouJlCH4rhg/previsao-tempo-s-o-gon-alo-20260826-030503.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para o Rio de Janeiro (RJ): tempo chuvoso de manhã; aberturas de sol à tarde e pancadas de chuva que vão até a noite",
-      "imagem": "https://s2-g1.glbimg.com/1iXPT3z37zuweCuAI0si1nVXgsI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/7/546HrzQPevneAAyx5HXg/previsao-tempo-rio-de-janeiro-20260826-030446.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "imagem": "https://s2-g1.glbimg.com/ReMOcryThP7PXUnCPGJ_97GeYE0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/g/OrQ3LkTPy5rdCfiBRHAA/previsao-tempo-nova-igua-u-20260826-030430.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Niterói (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/p_j7uhHK2VeY3iYCJ0eTYPEahVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/o/CzZPjfRGAYfXYZ76wHtw/previsao-tempo-niter-i-20260826-030415.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Duque de Caxias (RJ): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "imagem": "https://s2-g1.glbimg.com/LWn55-corLemP0PXY9-v4LBfYOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/q/6RiQs0QhW1pNkAWlcAjg/previsao-tempo-duque-de-caxias-20260826-030359.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-      "imagem": "https://s2-g1.glbimg.com/7w04x0d6p840Eec5KKnu4WIeFaY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/T/1bJOpURz6ulL72GqNrEA/previsao-tempo-sete-lagoas-20260826-030344.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Ribeirão das Neves (MG): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/fsy2Qx5z1RpdTi9J4scgN_CYu-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/h/Pwo1tXTsOmUH3BGpci9w/previsao-tempo-ribeir-o-das-neves-20260826-030321.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Contagem (MG): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/0lmYQlIpiO76QfQdxt5gVUKhdEo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/m/aV1AguSSelF5nx3So9aw/previsao-tempo-contagem-20260826-030304.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Betim (MG): sol, com pancadas de chuva de manhã e muitas nuvens à tarde; à noite, tempo firme",
-      "imagem": "https://s2-g1.glbimg.com/YqUzfUBrashcWNa1F6XUDyWKsxA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/w/BoJMOYR5GenWZ9sBOkBA/previsao-tempo-betim-20260826-030246.jpeg"
-    },
-    {
-      "titulo": "Previsão do tempo hoje para Belo Horizonte (MG): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-      "imagem": "https://s2-g1.glbimg.com/6KbyGe8Nr__L6pngEwH4BBqLCW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/E/gAkrtVQrydg0hvRwJhbg/previsao-tempo-belo-horizonte-20260826-030230.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-26T07:31:44.948Z"
+  "atualizadoEm": "2026-08-26T08:23:34.546Z"
 }
