@@ -1,6 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "Irã afirma que Estreito de Ormuz continua fechado apesar de negociações sobre 'corredor temporário' com Omã",
+      "imagem": null
+    },
+    {
+      "titulo": "Confira os falecimentos de Ivaiporã e região desta quarta-feira (26)",
+      "imagem": null
+    },
+    {
+      "titulo": "Com Lula ou Flávio, mercado mantém ceticismo sobre ajuste fiscal",
+      "imagem": null
+    },
+    {
+      "titulo": "Confira os falecimentos desta quarta-feira (26) em Apucarana",
+      "imagem": null
+    },
+    {
+      "titulo": "Presidente da Bolívia nomeia novo ministro da Economia",
+      "imagem": null
+    },
+    {
+      "titulo": "Signos: confira seu horóscopo desta quarta-feira (26)",
+      "imagem": null
+    },
+    {
+      "titulo": "França presta homenagem a Dolly Parton, ícone americana da música country, morta aos 80 anos",
+      "imagem": null
+    },
+    {
       "titulo": "Apucarana terá quarta-feira nublada e máxima de 23°C; veja a previsão",
       "imagem": null
     },
@@ -10,10 +38,6 @@
     },
     {
       "titulo": "Zema faz campanha contra bets, mas Novo tem posição mais flexível sobre apostas",
-      "imagem": null
-    },
-    {
-      "titulo": "Entenda como a tentativa dos EUA de estrangular a economia do Irã depende da cooperação da China",
       "imagem": null
     },
     {
@@ -29,37 +53,13 @@
       "imagem": null
     },
     {
-      "titulo": "Eclipse lunar parcial poderá ser visto de todo o Brasil nesta quinta (27) e sexta-feira (28)",
-      "imagem": null
-    },
-    {
       "titulo": "Discord é alvo de ações em cinco estados dos EUA, que cobram proteção de crianças e adolescentes",
       "imagem": null
     },
     {
-      "titulo": "A favela que vota: 2026 e o direito de permanecer",
-      "imagem": null
-    },
-    {
-      "titulo": "Netanyahu descarta acordo diplomático com os 'selvagens' que governam o Irã",
-      "imagem": null
-    },
-    {
-      "titulo": "Oposição argentina enviará missão ao Brasil para se descolar de Milei",
-      "imagem": null
-    },
-    {
-      "titulo": "Deus, chapéu de couro e abraço a mãe: como foi 1º ato de Flávio no Nordeste",
-      "imagem": null
-    },
-    {
-      "titulo": "'Crime organizado não pode se infiltrar no PRTB', diz viúva de Levy Fidelix",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula e Flávio mostram o esgotamento dos debates",
+      "titulo": "Eclipse lunar parcial poderá ser visto de todo o Brasil nesta quinta (27) e sexta-feira (28)",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-26T09:10:29.224Z"
+  "atualizadoEm": "2026-08-26T09:56:37.444Z"
 }
