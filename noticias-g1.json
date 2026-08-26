@@ -1,125 +1,125 @@
 {
   "noticias": [
     {
-      "titulo": "Multa de mais de R$ 150 milhões: ANPD afirma que TikTok falhou na proteção de informações de crianças e adolescentes",
-      "imagem": null
+      "titulo": "Veja agenda de campanha dos candidatos ao governo de MG nesta terça-feira",
+      "imagem": "https://s2-g1.glbimg.com/51YEYUVNj8oQRu2h8a0WF-CiZbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/57q383RYyDBUhmrLzPqw/2.jpg"
+    },
+    {
+      "titulo": "Adolescentes com 12 e 8 passagens pela polícia tentam se esconder em padaria durante fuga em Cabo Frio",
+      "imagem": "https://s2-g1.glbimg.com/ICA-55_ar4bcEp2d195r9pulCuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/g/Q449OxSHuVZsTUH3YASA/adolescentes-foram-apreendidos-apos-tentarem-se-esconder-em-uma-padaria-em-cabo-frio.png"
+    },
+    {
+      "titulo": "Tralli e Renata entrevistam Caiado, candidato a presidente pelo PSD",
+      "imagem": "https://s2-g1.glbimg.com/wsQp9vWSRxRjVLlsULWfkH-xxWg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/M/HL9EAwS2qGfbWwtaTMlw/ato20260818005.jpg"
+    },
+    {
+      "titulo": "Ronaldo Caiado (PSD) é entrevistado na Globo; veja trechos",
+      "imagem": "https://s2-g1.glbimg.com/kmlDRPUrctF70aKBRlzd1W0CwF0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/f/LArMvBRSujvMw0bPW9Lw/whatsapp-image-2026-08-25-at-20.56.49.jpeg"
+    },
+    {
+      "titulo": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha em Sergipe",
+      "imagem": "https://s2-g1.glbimg.com/RgGHd24sEZtmequhpmwCLDhZAV4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/K/craKfnRo2yVbW5m45lLw/globo-canal-4-20260825-2000-frame-106453.jpeg"
+    },
+    {
+      "titulo": "Augusto Cury, candidato do Avante à Presidência, faz campanha em Minas e São Paulo",
+      "imagem": "https://s2-g1.glbimg.com/KBJhOp1u61B1WklerzJShTJw-J4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/t/SFXiPKRCGUoUB4v4Sykg/globo-canal-4-20260825-2000-frame-103873.jpeg"
+    },
+    {
+      "titulo": "Romeu Zema, candidato à Presidência pelo Novo, faz campanha no Rio de Janeiro",
+      "imagem": "https://s2-g1.glbimg.com/fTP4ME7Msf1G8cEEX4vLv4rxym0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/U/lIgpzCRA6BTqKZL56jeA/globo-canal-4-20260825-2000-frame-101997.jpeg"
+    },
+    {
+      "titulo": "Policial militar suspeito de matar homem na BR-101, na PB, tem prisão mantida após audiência de custódia",
+      "imagem": "https://s2-g1.glbimg.com/kAvumArB-s4NFKwAkYdiJC_roV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/x/Bp9debQwGGPq5F91myAg/perito.jpg"
+    },
+    {
+      "titulo": "Ronaldo Caiado, candidato à Presidência pelo PSD, faz campanha em São Paulo",
+      "imagem": "https://s2-g1.glbimg.com/L1x1WgDbjpsEwBT3N5pPV1veyC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/L/AwDA7pReukodfBXWBGXQ/globo-canal-4-20260825-2000-frame-99982.jpeg"
+    },
+    {
+      "titulo": "Adolescente de 16 anos denuncia assédio sexual na Bahia",
+      "imagem": "https://s2-g1.glbimg.com/33hF2fPRE35Jug23Y-QNh__Ls4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/B/A/MgDvBmTGCd9iXdyIRGVA/istock-1034359770.jpg"
+    },
+    {
+      "titulo": "Renan Santos, candidato do Missão à Presidência, faz campanha em São Paulo",
+      "imagem": "https://s2-g1.glbimg.com/XsfQnFIDT0SH30U5MfZuCTh0MLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/1/kyMeaBSCu9e3VPhdx89A/globo-canal-4-20260825-2000-frame-98018.jpeg"
+    },
+    {
+      "titulo": "Presidente Lula, candidato à reeleição pelo PT, cumpre agenda em Brasília",
+      "imagem": "https://s2-g1.glbimg.com/zKGfslVTkore9PF3XbH7j_4qwBQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/T/4lXQN5RuKM5HihFCur2Q/globo-canal-4-20260825-2000-frame-97260.jpeg"
+    },
+    {
+      "titulo": "Timemania hoje: resultado do concurso 2433 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/LeF00qVvoEvUxjIhZH2MEUhRkxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/A/gtDO2oStup0yudJ2hLoQ/timemania-2433-mxlbx.jpeg"
+    },
+    {
+      "titulo": "Dia de Sorte hoje: resultado do concurso 1281 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/hqLwnqkogeTQLy3t68joZRSobgo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/l/L0TnizRXAdJD8OO9gGPg/diadesorte-1281-kvlkn.jpeg"
+    },
+    {
+      "titulo": "Lotofácil hoje: resultado do concurso 3771 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/NWtAcluFsfyG5lUgFYcb5Flanuw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/V/E9DHJrTEWHDSaFxD8eUw/lotofacil-3771-enmee.jpeg"
+    },
+    {
+      "titulo": "Quina hoje: resultado do concurso 7101 e números sorteados",
+      "imagem": "https://s2-g1.glbimg.com/-Qmb-THlLgIE2v1_igEVHJAQpg8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/E/R8rEQgRxyY2AunZQV67w/quina-7101-ivzsv.jpeg"
+    },
+    {
+      "titulo": "g1 Acre e CBN Rio Branco conquistam 1º lugar no Prêmio Sebrae de Jornalismo 2026",
+      "imagem": "https://s2-g1.glbimg.com/mxDdBKf0wuCG2FrLtEqD0gdunXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/A/tytq0iQnaPQAzQ4mqBcQ/whatsapp-image-2026-08-25-at-18.57.17.jpeg"
     },
     {
       "titulo": "Resultados das Loterias Caixa",
       "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
     },
     {
-      "titulo": "Jorge Aragão fará o show principal no lançamento do Carnaval Santista de 2027",
-      "imagem": "https://s2-g1.glbimg.com/nhsrxVkQA-bUh-qLjSOc-aP9yHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/f/Jg8ucYQzmwKyuSvibEBg/captura-de-tela-2026-01-19-083104.png"
+      "titulo": "Homem é morto a tiros em Seropédica; DHBF investiga",
+      "imagem": null
     },
     {
-      "titulo": "Empresário é preso suspeito de assediar funcionária em concessionária de veículos",
-      "imagem": "https://s2-g1.glbimg.com/cYGICa_DlgWvS1BNHiKuYEF0ZUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/f/taa8m3QWKrELpE3LpHBg/14795582-2026-08-25t203121.871.jpg"
+      "titulo": "Flávio Bolsonaro, candidato do PL à Presidência, visita Alagoas",
+      "imagem": "https://s2-g1.glbimg.com/kM58Bf3wOJWYKyf4c24jZ9Ejwjs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/j/AFOSzGSrCWUgOwLuQlzg/globo-canal-4-20260825-2000-frame-94271.jpeg"
     },
     {
-      "titulo": "Maria Elisa Costa, filha do urbanista Lucio Costa, morre em Brasília aos 91 anos",
-      "imagem": "https://s2-g1.glbimg.com/AuOF5EYfYxHXWnru5f_6QLhOiFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/5/AiiogUToKLtNeSYBGQzA/whatsapp-image-2026-08-25-at-20.28.08.jpeg"
+      "titulo": "Resumão diário do JN: TikTok é multado em mais de R$ 150 milhões por falha na proteção de informações; morre Dolly Parton, ícone da música country",
+      "imagem": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
     },
     {
-      "titulo": "Professor Túlio Lopes defende construção de hospitais regionais e fortalecimento da saúde pública em MG",
-      "imagem": "https://s2-g1.glbimg.com/LRgzdYcoZ-wAaM_vCojqsV8uyFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/A/0zTAB5ToyqV6wqmtPHmA/0-05-card-13-agenda-tulio-lopes-0043.mxf.png"
+      "titulo": "Suspeito de matar ex-mulher a facadas em Macaé recebe alta do hospital e vai para o presídio",
+      "imagem": "https://s2-g1.glbimg.com/dO8B1lh0QQ5RaJoxbIVw071X0-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/f/E0p2H4Q4O20JwNASHwGw/o-acusado-de-matar-a-ex-tuani-maia-nascimento-de-33-anos-em-macae-foi-levado-para-o-presidio-nesta-terca.png"
     },
     {
-      "titulo": "Mendonça propõe que TSE discuta tese que flexibiliza uso de deepfake nas eleições",
-      "imagem": "https://s2-g1.glbimg.com/If_nKHlKFxb9y1M-KRKHrXKlF24=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/6/wUP7mQTamFljoG2PpDmQ/54747506304-ac65b32330-o.jpg"
+      "titulo": "Dolly Parton, considerada a rainha do country, morre aos 80 anos",
+      "imagem": "https://s2-g1.glbimg.com/pb7BKhGMs_4t61xP8PkTIUnBZIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Z/UKRXp8RzyebDPl0Ew2Fg/globo-canal-4-20260825-2000-frame-82949.jpeg"
     },
     {
-      "titulo": "PM apreende 667 porções de maconha após tiros e fuga em Cabo Frio; um menor foi apreendido",
-      "imagem": "https://s2-g1.glbimg.com/zJtcta-MU4jLZEb_GmONowICnas=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/y/fuRv6lQ26lVyNbAmrsyQ/grande-quantidade-de-maconha-foi-apreendida-em-cabo-frio-apos-acao-da-pm.png"
+      "titulo": "Após cancelar turnê, Xamã lança álbum, 'Flerte', em que canta com Ludmilla, NP Vocal, L7nnon, Amabii e Nomad",
+      "imagem": "https://s2-g1.glbimg.com/YzLLFc21VwG5yzFitfzJmudovsQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/Q/1ADmVaRhekHFNntSggrg/xamaflertecapa.jpg"
     },
     {
-      "titulo": "Polícia Ambiental apreende redes de pesca armadas irregularmente em lago de hidrelétrica em Presidente Epitácio",
-      "imagem": "https://s2-g1.glbimg.com/EpqHGm4E7RBEMAF_z0rii5Jq4Q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/Q/u5e9aXSFanU3HKqhAWhA/edicao-g1-agenda-37-.png"
+      "titulo": "Morre uma das vítimas de explosão que atingiu três casas no interior da Bahia",
+      "imagem": "https://s2-g1.glbimg.com/mZNyZvRCXyetuSOxuyR2FgDXZAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/M/A9RBoBS0yOCbbgBskM0A/morte-vitima-explosao-saj.jpg"
     },
     {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato André Luís ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/Uc5k0IJ1ZV57qYBXPg3BcXiNUpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/T/BnntB4S7eHQMzQF7fXjQ/andre-luis.jpg"
+      "titulo": "Após Fux mudar ata de reunião, MP Eleitoral diz que candidato a vice de Celina Leão está elegível",
+      "imagem": "https://s2-g1.glbimg.com/ss4ATIa9eE7GXwAXryZTjuHbYMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/7/P1Ya0VSmAWRI2wf3fWcg/55294784107-7744081188-6k.jpg"
     },
     {
-      "titulo": "Câmara de Jaú tem conta bancária invadida e sofre fraude financeira",
-      "imagem": "https://s2-g1.glbimg.com/wZbGPbrmo-pMJ9pyLl0lTJB6xU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/SCCEP1SV2hqz12PSLr8A/novo-projeto.png"
+      "titulo": "Incêndio que ameaça o Parque Estadual da Serra Dourada, em Goiás, já dura 4 dias",
+      "imagem": "https://s2-g1.glbimg.com/oIgjaqRoLYMMqPg2CkcWoi-h62Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/P/Cy1ttYSGWfpkA4IKTb4A/globo-canal-4-20260825-2000-frame-72007.jpeg"
     },
     {
-      "titulo": "Tentativa de assalto a farmácia termina com criminoso baleado em Campinas",
-      "imagem": "https://s2-g1.glbimg.com/NTNf8bVQ7oVcVS-JTLBBOeGOaYI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/2/47kUGpQNA61uKQd8i6Ig/whatsapp-image-2026-08-25-at-20.13.58-2-.jpeg"
+      "titulo": "Motorista de ônibus ajuda mulher a fugir de tentativa de atropelamento em Campinas",
+      "imagem": "https://s2-g1.glbimg.com/Ft9B-7gcgMN02Hucotee5EHjs5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/7/AagFTWQvmcuOSIyqTokQ/mulher-tentativa-atropelamento.png"
     },
     {
-      "titulo": "Gustavo Henrique defende ações para revitalizar Centro de Teresina durante caminhada na capital",
-      "imagem": "https://s2-g1.glbimg.com/k0lG2BNa5cnSglT6R3MyXsOyHQI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/1/h43Z0qRvaqQTmVHX4eQQ/edicao-imagens-g1-31-.png"
+      "titulo": "VÍDEO: cobra 'sobe' escada submersa em rio de águas cristalinas em MT",
+      "imagem": "https://s2-g1.glbimg.com/Cv9zrR09nDVwp6PyQEnrBz4gnnE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/R/CvSR8XSLyCS52B0YNKqA/foto-g1-63-.png"
     },
     {
-      "titulo": "Motorista de transporte escolar é multado em R$ 16 mil por agressão a aluno com deficiência em Uberlândia",
-      "imagem": "https://s2-g1.glbimg.com/FtVJWdVi9w5i_ASwSDjs-tEshio=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/f/GNRxadR8mj4wGUH9kb7w/captura-de-tela-2025-10-23-125005.png"
-    },
-    {
-      "titulo": "Em visita ao PI, Ministro da Educação inaugura obras e defende ampliação dos institutos federais",
-      "imagem": "https://s2-g1.glbimg.com/VzAKmGHKAXbvzRMFO_vCyn_JsxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/H/nMT5ECRd6ASzkyLuHf8A/edicao-imagens-g1-55-.png"
-    },
-    {
-      "titulo": "Dona do Instagram sabia de falhas em recursos de segurança para menores, dizem testemunhas em processo nos EUA",
-      "imagem": "https://s2-g1.glbimg.com/G0A2iPvtefGUv7YSUrlTBOq8TvA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/M/T/vEa2b4REAbVVs7pfuwIQ/facebook-instagram-whatsapp.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato Orleans Brandão ao governo do Maranhão",
-      "imagem": "https://s2-g1.glbimg.com/liiehHwHW9ymUcEr1wAHyPfQs-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/v/IqEflNTDqMEFoLTWUPRg/orleans-brandao-25.jpg"
-    },
-    {
-      "titulo": "Quaest no AP: 37% desaprovam e 53% aprovam o governo Clécio Luís",
-      "imagem": "https://s2-g1.glbimg.com/89OXjB3_9Mn6wD7DENpzION0Ubs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/d/dbAyDWSoqIUWNKFqXr3w/aleixo-g1-56-.jpg"
-    },
-    {
-      "titulo": "Mulher é baleada por ex-marido após ele desrespeitar medida protetiva, em Curitiba",
-      "imagem": "https://s2-g1.glbimg.com/-Wg27-hvQqj-KktKLh_Tw-mLUNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/a/ZkTfzqQbWZDAgiY3m9oQ/snapshot-1257.png"
-    },
-    {
-      "titulo": "Jovem está desaparecido há quatro anos no interior de SP: 'Não tenho esperança de encontrá-lo vivo', diz mãe",
-      "imagem": "https://s2-g1.glbimg.com/W38vFoSfkiJbzIBe3VFOZ-y7fn8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/3/sBipUxR2KQABQxiyfLcA/design-sem-nome-22-.jpg"
-    },
-    {
-      "titulo": "Entrevistas, comício e caminhada: veja a agenda de Renan Filho nesta terça-feira",
-      "imagem": "https://s2-g1.glbimg.com/ivEXN7Gy78cNwZW-EdLjeCICJ28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/m/hHLO7KSuCA1GKiVKyABw/captura-de-tela-2026-08-25-200413.png"
-    },
-    {
-      "titulo": "Alexandre Kalil propõe rever previdência de policiais e reduzir déficit de servidores em MG",
-      "imagem": "https://s2-g1.glbimg.com/hdVlEp5kByARlAdc_oibc2y0Ixc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/q/M9XGGSR3GokDU6E6uPyg/6-46-card-20-agenda-kalil-0031.mxf.png"
-    },
-    {
-      "titulo": "Criminosos furtam cabos pela 2ª vez em 11 dias e deixam duas cidades do PI sem água",
-      "imagem": "https://s2-g1.glbimg.com/Mzm1X9MeO46vUg9__CHZDwOSuOc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/s/EJuph8R7iNU0D0B68SEw/torneira-2.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo do Piauí nesta terça (25)",
-      "imagem": "https://s2-g1.glbimg.com/-i4A67wotZwnTTOYosp9mIi2d-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Q/UkqLrnRxC8AP9iRqONIA/edicao-imagens-g1-30-.png"
-    },
-    {
-      "titulo": "Caixa de som com gravação de cachorros latindo gera reclamação de ouvinte, e radialista se diverte em Goiás: ‘Algo inimaginável’",
-      "imagem": "https://s2-g1.glbimg.com/ZT0xaPiPJ0MR550XcSEu5svsiNU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/n/EtBseGTAAzYfBuZG3J1g/padrao-foto-g1-goias-michely-loures-17-.jpg"
-    },
-    {
-      "titulo": "Quaest no TO: 61% aprovam e 21% desaprovam governo de Wanderlei Barbosa",
-      "imagem": "https://s2-g1.glbimg.com/LtvjzysU088UbaiVxZJzx18Ckkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/T/A/u5byNJTxKbcqb8l0uJzw/278820.png"
-    },
-    {
-      "titulo": "Fernando de Noronha cria catálogo com experiências de turismo de natureza",
-      "imagem": "https://s2-g1.glbimg.com/RgrZzqh73JqSbFDuTvA_fho76Nk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/B/TuMxseT8WeAUrlJaX0Nw/jabo-de-junto-foto-cecilia.jpg"
-    },
-    {
-      "titulo": "Briga entre alunas deixa seis feridos em escola estadual no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/TD25g5CZC73XMOcF1GvplhrSbzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/3/3baARsThKYzNTEXx9l6g/escola.jpg"
-    },
-    {
-      "titulo": "Quaest no TO: Lula, 37%; Flávio Bolsonaro, 32%; Ronaldo Caiado, 7%; Renan Santos; 3%",
-      "imagem": "https://s2-g1.glbimg.com/av8FUq21kBW5WvsenXqCNQZHp4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/A/kFE00SSOKWdWB5ERzqyQ/presidentes.png"
-    },
-    {
-      "titulo": "Lotomania hoje: resultado do concurso 2967 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/UrwUGyYJq9mVYWGAjDUJ0OoPg34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/B/r88clQR1AmBDdOCnDABA/lotomania-2967-whtzi.jpeg"
+      "titulo": "Suspeito de matar o próprio pai é preso no interior do Ceará",
+      "imagem": "https://s2-g1.glbimg.com/GhzLV2avmyPYoAaRrPpGdR_7unk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/b/Aoo1TlS5WptuzmVsBWkg/prisao-barbalha.png"
     }
   ],
-  "atualizadoEm": "2026-08-25T23:48:04.442Z"
+  "atualizadoEm": "2026-08-26T01:04:16.406Z"
 }
