@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão nesta quarta-feira (26)",
+      "imagem": "https://s2-g1.glbimg.com/5IzCTdtf88UgAqqFcfbgbZbtGvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/0/eYYAtPTeWwdcdZMLt1SQ/montagens-1920-x-1080-px-2026-08-17t095134.479.png"
+    },
+    {
+      "titulo": "Bom Dia Cidade - Ribeirão e Franca",
+      "imagem": "https://s2-g1.glbimg.com/5Db3pzqHzeCD6vSqEpxOFb9UvEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/v/FMd4ZuT8uJLkmIab6LLw/still0208-00000.jpg"
+    },
+    {
+      "titulo": "Polícia Civil faz operação em cinco estados contra chefes de quadrilha com forte atuação no RS",
+      "imagem": "https://s2-g1.glbimg.com/lVihJoPR013bcldZHtP1wdTc-C8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/I/IvyzQ4TGaZ2xsELtZ9JA/g1-8-.jpg"
+    },
+    {
+      "titulo": "Caminhão com 5 toneladas de farinha quebra, trava trânsito e avenida tem sinalização improvisada com balde e madeira em Piracicaba",
+      "imagem": "https://s2-g1.glbimg.com/489lRdM5LsRw7BtYsIl41_jgmCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/A/NWSZwdSjWkHm73mRWuWQ/caminhao-trava.jpg"
+    },
+    {
+      "titulo": "Alto Tietê tem mais de 4,6 mil vagas de emprego nesta quarta-feira; veja lista",
+      "imagem": "https://s2-g1.glbimg.com/w2UPUq82-nGHCnLdQXdf-TFPfEE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Y/A/3kWnyeQhCLjsAZHl6vSA/carteira-de-trabalho-abr.jpg"
+    },
+    {
+      "titulo": "Assista ao Bom Dia ES",
+      "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "Dino amplia acesso da PF às provas do Dark Horse; investigadores avaliam concentrar apuração no STF",
+      "imagem": "https://s2-g1.glbimg.com/-Kdj5U9jQQUD1OY74x1lpDrnO1k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/m/mNjc0eQkA4cL8LOII7fA/55339452788-a9944508b9-k.jpg"
+    },
+    {
+      "titulo": "MPT processa Uber em R$ 321 milhões por cobrar taxa de motoristas para trabalhar",
+      "imagem": "https://s2-g1.glbimg.com/hyyrlZHUvRAqCnEBuSRuDveBqdc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/hCDNTCTfGzYSA4oBs8IA/appp.jpg"
+    },
+    {
+      "titulo": "Mulher vai cambaleando até vizinha para pedir ajuda no PR: namorado a espancou para impedi-la de sair da casa dele depois de briga",
+      "imagem": "https://s2-g1.glbimg.com/LRrRZbMioocseXx2tj_01qLCxRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/P/YFLwa5TkehFLqBR40hgw/g1-1-.png"
+    },
+    {
+      "titulo": "Acidente entre duas carretas deixa um ferido e complica trânsito na BR-101, em Linhares",
+      "imagem": "https://s2-g1.glbimg.com/cwpjdYxqsnk3MnnN2eZbW2wSM78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/3/25ULHrRp2c0GfsydIA4w/thumb-videos-g1-79-.jpg"
+    },
+    {
+      "titulo": "Passageiros embarcam para Madri dois dias após pouso de emergência em Natal",
+      "imagem": "https://s2-g1.glbimg.com/e9qiPjbI9RCxpSOtGGe2FWsfZxk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/S/wp9JS8QIeCMaqBtlv36w/whatsapp-image-2026-08-24-at-08.05.35-1-.jpeg"
+    },
+    {
+      "titulo": "Escultor é condenado a 87 anos de prisão por matar quatro jovens e ocultar corpos em Arapiraca",
+      "imagem": "https://s2-g1.glbimg.com/jFLwyiRPcsheDUIizn5XYbSEnmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/9/OZUh68SseSaTmSs2s3LA/forum-de-justica-de-arapiraca.jpg"
+    },
+    {
+      "titulo": "Teresina registra menor temperatura do ano, com 17,9°C durante a madrugada",
+      "imagem": "https://s2-g1.glbimg.com/R927pQPJHpFNMZov0GcLySA5vWg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/l/4/HAvB7lSAuOz6cmPT1JJw/whatsapp-image-2021-06-29-at-12.21.06.jpeg"
+    },
+    {
+      "titulo": "Incêndio destrói mais de 1,4 mil hectares na região perto do Parque Estadual da Serra Dourada",
+      "imagem": "https://s2-g1.glbimg.com/K4x874DqGoMPO_l2Plwlxd8bQPE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/Q/nrA2V9TBAlAgP1qAjp4A/g1-foto-4-.jpg"
+    },
+    {
+      "titulo": "Operação contra organização criminosa termina com suspeito preso e dois baleados em Rosário",
+      "imagem": "https://s2-g1.glbimg.com/dQBW0cKKvMkjBYDOv4jfuI5bpYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/f/tu8513RlOzEZBXfaqHjw/montagens-1920-x-1080-px-2026-08-26t080038.924.jpg"
+    },
+    {
+      "titulo": "Bem-Estar #365- Flacidez no rosto e queda de cabelo por emagrecimento rápido: o que fazer?",
+      "imagem": "https://s2-g1.glbimg.com/HHL05yzEHaC1di4rlruXwpDUQbg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/1/x/wJsKAlTgqj53gnrITItQ/captura-de-tela-2024-06-26-084704.png"
+    },
+    {
+      "titulo": "Mega-Sena 3049: 9 apostas do interior de PE acertam números, confira resultado",
+      "imagem": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
+    },
+    {
+      "titulo": "Estudantes da EJA da rede municipal vão receber bolsa presença a partir de setembro",
+      "imagem": "https://s2-g1.glbimg.com/CcSWqXmOMDB9nUzx4gFqImtOtxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Z/BLlMZWQN63zGvHEr4AUw/whatsapp-image-2026-08-26-at-07.48.15-1-.jpeg"
+    },
+    {
+      "titulo": "Ambulâncias, tanques de piche, itens de consultório odontológico: veja itens do leilão da Prefeitura de Divinópolis",
+      "imagem": "https://s2-g1.glbimg.com/qi5ZDBhxi7gRDcFrwUNT3krlXJc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/A/5/AdACOkTw63z8bggDYXNg/prefeitura-de-divinopolis.jpg"
+    },
+    {
+      "titulo": "Motociclista morre em colisão com ônibus na Zona Norte do Rio; cruzamento teve mais de 77 furtos de cabos este ano",
+      "imagem": "https://s2-g1.glbimg.com/ft-L0WN05PtL7UeRZ2glAAPEFR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/H/M6RRyaQ7m9Jgu610cjOQ/bdrj-sinal1.jpeg"
+    },
+    {
       "titulo": "Motociclista fica ferido após carro invadir via preferencial, na Grande João Pessoa; VÍDEO",
       "imagem": "https://s2-g1.glbimg.com/JammrEy9rcQGdH6dzD5u-4Co19o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/s/U49oiFSBSJ7Awh2q1B7w/acidentebayeux.jpg"
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Avenida Gil Martins segue interditada por até 60 dias durante obra de galeria em Teresina",
       "imagem": "https://s2-g1.glbimg.com/d0zAODXdKJsA4aaqGBdxrcgJ1qU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/S/gt4tduRvSEsaVTPdF9bA/edicao-imagens-g1-72-.jpg"
-    },
-    {
-      "titulo": "Assista ao Bom Dia Vanguarda ao vivo no g1",
-      "imagem": "https://s2-g1.glbimg.com/eNmYHfknzzliwQJLsNi8qyf2BDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/r/qhMVONTJuDaQtelrYKjA/a64b4644-73da-40c5-b2f0-17b0321381f0.jpg"
-    },
-    {
-      "titulo": "Homem que matou mulher e guardou corpo na geladeira é preso no ES",
-      "imagem": "https://s2-g1.glbimg.com/7M3C7FCIWa_RIxk-Ak0tYEYkBoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/H/cl73MzQUKdn48GSTBy5Q/thumb-videos-g1-77-.jpg"
-    },
-    {
-      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "imagem": null
-    },
-    {
-      "titulo": "Carreta pega fogo no meio de serra da BR-277 e bloqueia trânsito na rodovia do Paraná",
-      "imagem": "https://s2-g1.glbimg.com/CVH1UiN7S0sSzFQBwyX_THNpLiY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/e/OCd5DyQPmfAPtd2odD9A/g1-2-.png"
-    },
-    {
-      "titulo": "Mulher é suspeita de esfaquear ex-companheiro e colocar fogo em móveis no DF",
-      "imagem": "https://s2-g1.glbimg.com/IfwoDg0YKSuvRgXWpye7h6cuRBI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/t/yIBcWJQ3CorKFPw93OPw/g1-1-.png"
-    },
-    {
-      "titulo": "g1 Paraíba completa 15 anos: relembre coberturas marcantes do período",
-      "imagem": "https://s2-g1.glbimg.com/FvEQFHqhKEuMQPQwdrhYRVDqN1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/m/wXAGQJRnWxLwxWsOcGwg/apresentacao-divertida-jogo-imagem-escondida-padrao-abstrato-e-formas-colorido.jpg"
-    },
-    {
-      "titulo": "Vídeos do g1 e TV Bahia - quarta-feira, 26 de agosto de 2026",
-      "imagem": "https://s2-g1.glbimg.com/cBA08_Th-IBzN-hFxCcGI8UUT9c=/s01.video.glbimg.com/deo/vi/35/21/14902135"
-    },
-    {
-      "titulo": "Bom Dia Cidade Piracicaba ao vivo",
-      "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
-    },
-    {
-      "titulo": "Mega-Sena 3049: 3 apostas do oeste do PA acertam a quadra; prêmio vai a R$ 25 milhões",
-      "imagem": "https://s2-g1.glbimg.com/lfq4Sn9Gzx7L59i6U9TRItx8DFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/2/EK5gX1TOi999VK1DyhBA/whatsapp-image-2026-01-03-at-12.29.30-9-.jpeg"
-    },
-    {
-      "titulo": "Aposta única do Paraná acerta a quina da Mega-Sena e leva prêmio; veja a cidade",
-      "imagem": "https://s2-g1.glbimg.com/6M9Y5KILFeMF2DfgiQDzULJwif0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/P/88hRSbTLeThKZKTaeVPg/captura-de-tela-2026-08-25-210155.png"
-    },
-    {
-      "titulo": "EUA confirmam duas primeiras mortes por sarampo em 2026; doença é evitável com vacina",
-      "imagem": "https://s2-g1.glbimg.com/OFV5J0quoawijHJvnSY3om5jwoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/X/tII8BIQHWkdeDy3jjesQ/adobestock-198035521.jpeg"
-    },
-    {
-      "titulo": "Suspeito de usar licença de plantio de maconha para o tráfico já foi preso por crimes parecidos, diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/8cQkaBjQfUOP3PoyVpRcFeYt9xk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/j/qbpLz2SzudZlHTWe2V8Q/design-sem-nome.png"
-    },
-    {
-      "titulo": "Noiva realiza sonho de chegar a casamento montada em égua, em Goiás",
-      "imagem": "https://s2-g1.glbimg.com/-WqzyCzEl_msjusm9E4D89tLV2w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/9/TJXtauQSm8PM5TuQBIlw/imagens-g1-18-.png"
-    },
-    {
-      "titulo": "Trabalhador e apegado à família: quem era o adolescente que morreu afogado em praia de Palmas",
-      "imagem": "https://s2-g1.glbimg.com/szJkPKb0PxLyV62wUHLpcEEdMDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/7J2OmhREGzqFn0aPFaNw/copia-de-modelo-foto-fundo-borrado-7-.png"
-    },
-    {
-      "titulo": "Com repasse federal de R$ 720 mil por ano, Cerest de Sorocaba acumula queixas de trabalhadores",
-      "imagem": "https://s2-g1.glbimg.com/Dmoe01WADamDUl50_7p7mq08mBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/B/3StsSPShSZAfw9WyoPGQ/centro-de-referencia-do-trabalhador-23.jpg"
-    },
-    {
-      "titulo": "Diário de Noiva: estudante transforma preparativos do casamento em conteúdo de humor e viraliza na web",
-      "imagem": "https://s2-g1.glbimg.com/9GJGauu99ku7_2bBjUNZSGNmzSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/E/2sVltSROyR4wGDWsBh4g/g1-indiana-61-.png"
-    },
-    {
-      "titulo": "Carinho por boi de estimação fez dona continuar sem comer carne vermelha",
-      "imagem": "https://s2-g1.glbimg.com/SQAPeGNUpar-rf5tnUsxp9brnTY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/j/dvEssASpinGDl8BQ6Ing/co-1-.jpg"
-    },
-    {
-      "titulo": "Diagnosticada com câncer de mama na gravidez, mulher escreve livro para a filha: 'Queria contar com minhas palavras'",
-      "imagem": "https://s2-g1.glbimg.com/JbngxNCAHj6ASabTsz8TAWQigmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/H/NKrmuHSfKBv7p8L6ib9w/whatsapp-image-2026-08-25-at-19.32.06.jpeg"
     }
   ],
-  "atualizadoEm": "2026-08-26T11:06:06.272Z"
+  "atualizadoEm": "2026-08-26T11:43:36.732Z"
 }
