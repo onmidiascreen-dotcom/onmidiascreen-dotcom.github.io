@@ -1,6 +1,54 @@
 {
   "noticias": [
     {
+      "titulo": "FOTOS: Trio Parada Dura e Lourenço &amp; Lourival na Festa do Peão de Barretos",
+      "imagem": "https://s2-g1.glbimg.com/J5evXwBfTMyFCaKAyMgV0xBPicM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/H/aiWWkjTHKHp9GveuAiCA/dsc-3439.jpg"
+    },
+    {
+      "titulo": "Quatro pessoas são presas por furto de R$66 mil em locadora de veículos, em Manaus",
+      "imagem": "https://s2-g1.glbimg.com/WgpT4wyFSdzsNVjgpQk4xXEVJ6Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/k/HSAC7kQ3GxYeM6KkjXiQ/furto-na-locadora.jpg"
+    },
+    {
+      "titulo": "Caso Yasmin Macêdo: Lucas Magalhães, dono de lancha, é condenado a 4 anos e 10 meses em regime semiaberto no Pará",
+      "imagem": "https://s2-g1.glbimg.com/yBKDTvZqydyllfFD--G1po5YL8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/O/aIQPwUQbqOFqowprTGsg/whatsapp-image-2026-08-25-at-09.51.52.jpeg"
+    },
+    {
+      "titulo": "Veja o que é #FATO e o que é #FAKE na entrevista de Ronaldo Caiado à Globo",
+      "imagem": "https://s2-g1.glbimg.com/Xe1eOKxmayhW5V6LqXv_dK1H0bw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/z/ugnyAITAufNpAdBGgRjw/whatsapp-image-2026-08-25-at-20.54.56.jpeg"
+    },
+    {
+      "titulo": "Tralli e Renata entrevistam Caiado, candidato a presidente pelo PSD",
+      "imagem": "https://s2-g1.glbimg.com/wsQp9vWSRxRjVLlsULWfkH-xxWg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/M/HL9EAwS2qGfbWwtaTMlw/ato20260818005.jpg"
+    },
+    {
+      "titulo": "Policial federal é condenado a 26 anos por facilitar tráfico no Aeroporto de Manaus e vazar dados da PF a criminosos",
+      "imagem": "https://s2-g1.glbimg.com/UJU93azoCa3YIqLUceYYGC4STHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/FAikJ1Tfqm7x5l67i9TA/g1-pf-aeroporto-manaus.jpg"
+    },
+    {
+      "titulo": "Haddad diz que vai fortalecer agências reguladoras de SP e reduzir indicações políticas",
+      "imagem": "https://s2-g1.glbimg.com/0TtkPTOWjqDXNMaN5GcegL1iOYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/X/xDlyGOQ9GZCXAVVzzbog/067a2619-1-.jpg"
+    },
+    {
+      "titulo": "Estagiário de agência do INSS é preso por envolvimento em fraudes de benefícios; prejuízo foi estimado em R$ 3,5 milhões",
+      "imagem": "https://s2-g1.glbimg.com/woIcBeNnYmcvF9VBkSxMxC4ww-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/6/EnpzftQzGEgXtSdQN0BQ/whatsapp-image-2026-04-09-at-15.48.48.jpg"
+    },
+    {
+      "titulo": "TRE suspende determinação para cassação de mandato de vereador da Bahia em processo por infidelidade partidária",
+      "imagem": "https://s2-g1.glbimg.com/KHsrVjgOs0PAppF-YJKBtKH0WQE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/O/URpAt0SY6hFBjg0RULAA/design-sem-nome-2026-08-14t175943.902.png"
+    },
+    {
+      "titulo": "Caiado pede em entrevista que STF abra sigilos de investigações sobre fraudes no INSS e caso Master",
+      "imagem": "https://s2-g1.glbimg.com/jLvUIfQOnADmOM_SLJK9WkHgWd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/l/2KDMTyRZiOL8ptO4B0hw/whatsapp-image-2026-08-25-at-21.36.30.jpeg"
+    },
+    {
+      "titulo": "Mulher dá tapa no rosto de policial militar durante confusão na Festa do Peão de Barretos",
+      "imagem": "https://s2-g1.glbimg.com/1bmPdB6_ox_qKScTsZXw6S06ToA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/h/iAA52dRti9hW4oJnHcAQ/agride-pm.png"
+    },
+    {
+      "titulo": "Panfletagem, caminhadas e promessas para a saúde: candidatos ao governo do Ceará têm mais um dia de agenda na capital",
+      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
+    },
+    {
       "titulo": "Veja agenda de campanha dos candidatos ao governo de MG nesta terça-feira",
       "imagem": "https://s2-g1.glbimg.com/51YEYUVNj8oQRu2h8a0WF-CiZbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/57q383RYyDBUhmrLzPqw/2.jpg"
     },
@@ -9,11 +57,7 @@
       "imagem": "https://s2-g1.glbimg.com/ICA-55_ar4bcEp2d195r9pulCuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/g/Q449OxSHuVZsTUH3YASA/adolescentes-foram-apreendidos-apos-tentarem-se-esconder-em-uma-padaria-em-cabo-frio.png"
     },
     {
-      "titulo": "Tralli e Renata entrevistam Caiado, candidato a presidente pelo PSD",
-      "imagem": "https://s2-g1.glbimg.com/wsQp9vWSRxRjVLlsULWfkH-xxWg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/M/HL9EAwS2qGfbWwtaTMlw/ato20260818005.jpg"
-    },
-    {
-      "titulo": "Ronaldo Caiado (PSD) é entrevistado na Globo; veja trechos",
+      "titulo": "Ronaldo Caiado (PSD) é entrevistado na Globo; veja íntegra",
       "imagem": "https://s2-g1.glbimg.com/kmlDRPUrctF70aKBRlzd1W0CwF0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/f/LArMvBRSujvMw0bPW9Lw/whatsapp-image-2026-08-25-at-20.56.49.jpeg"
     },
     {
@@ -75,51 +119,7 @@
     {
       "titulo": "Homem é morto a tiros em Seropédica; DHBF investiga",
       "imagem": null
-    },
-    {
-      "titulo": "Flávio Bolsonaro, candidato do PL à Presidência, visita Alagoas",
-      "imagem": "https://s2-g1.glbimg.com/kM58Bf3wOJWYKyf4c24jZ9Ejwjs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/j/AFOSzGSrCWUgOwLuQlzg/globo-canal-4-20260825-2000-frame-94271.jpeg"
-    },
-    {
-      "titulo": "Resumão diário do JN: TikTok é multado em mais de R$ 150 milhões por falha na proteção de informações; morre Dolly Parton, ícone da música country",
-      "imagem": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
-    },
-    {
-      "titulo": "Suspeito de matar ex-mulher a facadas em Macaé recebe alta do hospital e vai para o presídio",
-      "imagem": "https://s2-g1.glbimg.com/dO8B1lh0QQ5RaJoxbIVw071X0-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/f/E0p2H4Q4O20JwNASHwGw/o-acusado-de-matar-a-ex-tuani-maia-nascimento-de-33-anos-em-macae-foi-levado-para-o-presidio-nesta-terca.png"
-    },
-    {
-      "titulo": "Dolly Parton, considerada a rainha do country, morre aos 80 anos",
-      "imagem": "https://s2-g1.glbimg.com/pb7BKhGMs_4t61xP8PkTIUnBZIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Z/UKRXp8RzyebDPl0Ew2Fg/globo-canal-4-20260825-2000-frame-82949.jpeg"
-    },
-    {
-      "titulo": "Após cancelar turnê, Xamã lança álbum, 'Flerte', em que canta com Ludmilla, NP Vocal, L7nnon, Amabii e Nomad",
-      "imagem": "https://s2-g1.glbimg.com/YzLLFc21VwG5yzFitfzJmudovsQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/Q/1ADmVaRhekHFNntSggrg/xamaflertecapa.jpg"
-    },
-    {
-      "titulo": "Morre uma das vítimas de explosão que atingiu três casas no interior da Bahia",
-      "imagem": "https://s2-g1.glbimg.com/mZNyZvRCXyetuSOxuyR2FgDXZAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/M/A9RBoBS0yOCbbgBskM0A/morte-vitima-explosao-saj.jpg"
-    },
-    {
-      "titulo": "Após Fux mudar ata de reunião, MP Eleitoral diz que candidato a vice de Celina Leão está elegível",
-      "imagem": "https://s2-g1.glbimg.com/ss4ATIa9eE7GXwAXryZTjuHbYMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/7/P1Ya0VSmAWRI2wf3fWcg/55294784107-7744081188-6k.jpg"
-    },
-    {
-      "titulo": "Incêndio que ameaça o Parque Estadual da Serra Dourada, em Goiás, já dura 4 dias",
-      "imagem": "https://s2-g1.glbimg.com/oIgjaqRoLYMMqPg2CkcWoi-h62Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/P/Cy1ttYSGWfpkA4IKTb4A/globo-canal-4-20260825-2000-frame-72007.jpeg"
-    },
-    {
-      "titulo": "Motorista de ônibus ajuda mulher a fugir de tentativa de atropelamento em Campinas",
-      "imagem": "https://s2-g1.glbimg.com/Ft9B-7gcgMN02Hucotee5EHjs5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/7/AagFTWQvmcuOSIyqTokQ/mulher-tentativa-atropelamento.png"
-    },
-    {
-      "titulo": "VÍDEO: cobra 'sobe' escada submersa em rio de águas cristalinas em MT",
-      "imagem": "https://s2-g1.glbimg.com/Cv9zrR09nDVwp6PyQEnrBz4gnnE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/R/CvSR8XSLyCS52B0YNKqA/foto-g1-63-.png"
-    },
-    {
-      "titulo": "Suspeito de matar o próprio pai é preso no interior do Ceará",
-      "imagem": "https://s2-g1.glbimg.com/GhzLV2avmyPYoAaRrPpGdR_7unk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/b/Aoo1TlS5WptuzmVsBWkg/prisao-barbalha.png"
     }
   ],
-  "atualizadoEm": "2026-08-26T01:04:16.406Z"
+  "atualizadoEm": "2026-08-26T02:38:54.991Z"
 }
