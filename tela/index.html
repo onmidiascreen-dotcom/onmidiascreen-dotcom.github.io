@@ -243,6 +243,27 @@
     erroJS = 'promessa rejeitada: ' + ((r && r.message) || String(r) || 'desconhecido');
   });
 
+  // ---------- rede de segurança: recarrega a página a cada 30 min ----------
+  // Registrada AQUI, logo no início do script, de propósito — não lá embaixo perto
+  // dos outros setInterval de conteúdo. Se algum código mais abaixo neste arquivo
+  // travar com um erro não tratado, a execução do resto do script para NA HORA
+  // (é assim que JavaScript síncrono funciona) — e qualquer setInterval que ainda
+  // não tivesse sido registrado nunca chegaria a existir. Ficando aqui em cima,
+  // antes de qualquer coisa que possa quebrar, o reload sempre vai estar agendado.
+  // Recarrega a página periodicamente pra limpar memória/decodificador de vídeo e
+  // pegar novidades — funciona offline (Service Worker serve tudo do cache). Antes
+  // era só 1x por dia às 4h; numa tela que fica a maior parte do tempo sem internet,
+  // o desgaste (vídeo recarregado a cada exibição) pode se acumular bem antes disso
+  // e travar a página. 30 min: 6 min chegou perto demais e "Android WebView render
+  // process unresponsive" voltou a aparecer — suspeita forte de que recarregar a
+  // página INTEIRA com tanta frequência interrompe o vídeo no meio da decodificação.
+  // IMPORTANTE — o que isso NÃO cobre: se o processo do WebView já travou de vez
+  // (o tal "render process unresponsive"), o JavaScript da página para de rodar
+  // por completo — inclusive este setInterval. Não existe correção via código pra
+  // esse caso; só um watchdog de FORA da página (Fully Kiosk PLUS → "Restart on
+  // Unresponsiveness") ou reiniciar o aparelho na tomada resolvem de verdade.
+  setInterval(() => location.reload(), 30 * 60 * 1000);
+
   // grava o player na memória da tela (funciona mesmo ligando sem internet)
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('sw.js')
@@ -854,19 +875,9 @@
   setInterval(atualizarNoticias, 10 * 60 * 1000);    // notícias: a cada 10 min
   setInterval(atualizarCotacoes, 10 * 60 * 1000);    // câmbio: a cada 10 min
   setInterval(atualizarClima, 30 * 60 * 1000);       // clima: a cada 30 min
-  // recarrega a página periodicamente pra limpar memória/decodificador de vídeo e
-  // pegar novidades — funciona offline (Service Worker serve tudo do cache). Antes
-  // era só 1x por dia às 4h; numa tela que fica a maior parte do tempo sem internet,
-  // o desgaste (vídeo recarregado a cada exibição) pode se acumular bem antes disso
-  // e travar a página. Recarregar a cada poucas horas reinicia o estado antes que
-  // dê tempo de chegar lá, sem depender de horário de relógio (que pode até
-  // desandar depois de muitos dias offline sem sincronizar).
-  // 30 min: 6 min chegou perto demais e "Android WebView render process
-  // unresponsive" voltou a aparecer — suspeita forte de que recarregar a página
-  // INTEIRA com tanta frequência interrompe o vídeo no meio da decodificação,
-  // o mesmo tipo de estresse que o load() repetido causava. 30 min ainda protege
-  // bem mais rápido que os 2h originais, sem essa frequência agressiva.
-  setInterval(() => location.reload(), 30 * 60 * 1000);
+  // a recarga automática de 30 min mora lá no TOPO do script agora (rede de
+  // segurança) — assim ela já está agendada antes de qualquer código deste
+  // arquivo ter chance de travar tudo com um erro não tratado.
 
   // ---------- a rede voltou: corre atrás do atraso ----------
   // Sem isto a tela só descobre que voltou a ter internet no próximo ciclo (5 min),
