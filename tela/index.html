@@ -432,8 +432,19 @@
         d.className = 'ad img';
         d.innerHTML = '<img alt="">';
         const im = d.querySelector('img');
-        // se a imagem falhar (ex.: offline e não guardada), pula esse anúncio em vez de ficar branco
-        im.onerror = () => { if (d.classList.contains('on')) proximoAnuncio(); };
+        let tentativasImg = 0;
+        // se a imagem falhar (ex.: soluço de rede na hora certa), tenta o MESMO
+        // arquivo de novo até 2x antes de desistir — sem isso o elemento fica
+        // "morto" pro resto da sessão (o <img> nunca refaz a busca sozinho),
+        // mesmo que o arquivo volte a ficar disponível segundos depois.
+        im.onerror = () => {
+          if (tentativasImg < 2) {
+            tentativasImg++;
+            setTimeout(() => { im.src = a.url; }, 4000);
+          } else if (d.classList.contains('on')) {
+            proximoAnuncio();
+          }
+        };
         if (a.url) im.src = a.url;
       } else {
         d.className = 'ad ' + (a.cor || 'azul');
@@ -444,7 +455,7 @@
         d.querySelector('.cta').textContent = a.rodape || '';
       }
       media.insertBefore(d, progress);
-      return { el: d, ad: a, video };
+      return { el: d, ad: a, video, tentativasVideo: 0 };
     });
     clearTimeout(adTimer);
     if (!ads.length) return;
@@ -473,10 +484,23 @@
       const p = item.video.play(); if (p && p.catch) p.catch(() => { adTimer = setTimeout(proximoAnuncio, 4000); });
       item.video.ontimeupdate = () => { if (item.video.duration) progress.style.width = (item.video.currentTime / item.video.duration * 100) + '%'; };
       item.video.onended = () => proximoAnuncio();
-      // ex.: sem internet e vídeo não cacheado — pula. Com 1 SÓ anúncio cadastrado,
-      // "pular" volta pro mesmo vídeo, que erra nem, sem parar — sem essa pausa,
-      // esse laço gira rápido demais e trava a aba (branco permanente até religar).
-      item.video.onerror = () => { setTimeout(proximoAnuncio, 4000); };
+      // sem load() (removido acima), tocar de novo um vídeo que já errou não refaz
+      // a busca do arquivo sozinho — fica "morto" pro resto da sessão mesmo que a
+      // rede volte segundos depois. Tenta recarregar o MESMO arquivo até 2x (com
+      // load(), que é o que reabre a busca) antes de desistir e pular de vez —
+      // diferente do load() em toda exibição normal (isso já causou o processo de
+      // renderização travar), aqui só acontece em erro confirmado, no máximo 2x.
+      item.video.onerror = () => {
+        const it = item;
+        setTimeout(() => {
+          if (it.tentativasVideo < 2) {
+            it.tentativasVideo++;
+            try { it.video.load(); it.video.play().catch(() => {}); } catch (e) {}
+          } else {
+            proximoAnuncio();
+          }
+        }, 4000);
+      };
       adTimer = setTimeout(proximoAnuncio, 90000); // segurança se o vídeo travar
     } else {
       // texto ou imagem: tempo fixo
