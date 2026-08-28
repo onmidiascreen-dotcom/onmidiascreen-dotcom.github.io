@@ -476,7 +476,7 @@
         d.querySelector('.cta').textContent = a.rodape || '';
       }
       media.insertBefore(d, progress);
-      return { el: d, ad: a, video, tentativasVideo: 0 };
+      return { el: d, ad: a, video, tentativasVideo: 0, playPromise: null };
     });
     clearTimeout(adTimer);
     if (!ads.length) return;
@@ -487,7 +487,19 @@
   function mostrarAnuncio() {
     clearTimeout(adTimer);
     const progress = document.getElementById('progress');
-    ads.forEach(x => { x.el.classList.remove('on'); if (x.video) { x.video.onended = null; x.video.ontimeupdate = null; try { x.video.pause(); } catch (e) {} } });
+    // pausar um <video> enquanto o play() dele ainda não resolveu gera uma promessa
+    // rejeitada ("play() request was interrupted by a call to pause()") — sem
+    // tratar isso especificamente aqui, ela sobe como erro não tratado (visto de
+    // verdade no sinal de vida de uma tela real). Se tem play() pendente, espera
+    // ele decidir (e engole a rejeição, que é esperada nesse caso) antes de pausar.
+    ads.forEach(x => {
+      x.el.classList.remove('on');
+      if (x.video) {
+        x.video.onended = null; x.video.ontimeupdate = null;
+        if (x.playPromise) { x.playPromise.then(() => { try { x.video.pause(); } catch (e) {} }).catch(() => {}); }
+        else { try { x.video.pause(); } catch (e) {} }
+      }
+    });
     const item = ads[curAd];
     item.el.classList.add('on');
 
@@ -502,7 +514,8 @@
       // ("Android WebView render process unresponsive", só resolvia tirando da
       // tomada) — bem mais grave que o branco ocasional que o load() evitava.
       try { item.video.currentTime = 0; } catch (e) {}
-      const p = item.video.play(); if (p && p.catch) p.catch(() => { adTimer = setTimeout(proximoAnuncio, 4000); });
+      const p = item.video.play(); item.playPromise = p;
+      if (p && p.catch) p.catch(() => { adTimer = setTimeout(proximoAnuncio, 4000); });
       item.video.ontimeupdate = () => { if (item.video.duration) progress.style.width = (item.video.currentTime / item.video.duration * 100) + '%'; };
       item.video.onended = () => proximoAnuncio();
       // sem load() (removido acima), tocar de novo um vídeo que já errou não refaz
@@ -516,7 +529,7 @@
         setTimeout(() => {
           if (it.tentativasVideo < 2) {
             it.tentativasVideo++;
-            try { it.video.load(); it.video.play().catch(() => {}); } catch (e) {}
+            try { it.video.load(); it.playPromise = it.video.play(); it.playPromise.catch(() => {}); } catch (e) {}
           } else {
             proximoAnuncio();
           }
