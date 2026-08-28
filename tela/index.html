@@ -487,20 +487,30 @@
   function mostrarAnuncio() {
     clearTimeout(adTimer);
     const progress = document.getElementById('progress');
-    // pausar um <video> enquanto o play() dele ainda não resolveu gera uma promessa
-    // rejeitada ("play() request was interrupted by a call to pause()") — sem
-    // tratar isso especificamente aqui, ela sobe como erro não tratado (visto de
-    // verdade no sinal de vida de uma tela real). Se tem play() pendente, espera
-    // ele decidir (e engole a rejeição, que é esperada nesse caso) antes de pausar.
+    // guarda qual é o PRÓXIMO anúncio antes de mexer em qualquer coisa — ele nunca
+    // deve ser pausado no loop de limpeza abaixo. Corrigido em 28/08: o loop pausava
+    // TODOS os anúncios, incluindo este, usando a playPromise de uma exibição
+    // anterior dele (já resolvida há muito tempo). O .then() dessa promise velha
+    // disparava DEPOIS do play() novo já ter sido chamado logo abaixo, abortando
+    // essa promise nova e gerando "play() request was interrupted by a call to
+    // pause()" — o erro visto no sinal de vida. Só acontecia a partir da 2ª
+    // exibição de cada anúncio (a 1ª tem playPromise nula, cai no else, sem risco).
+    const proximo = ads[curAd];
     ads.forEach(x => {
+      if (x === proximo) return; // nunca pausa quem está prestes a tocar
       x.el.classList.remove('on');
       if (x.video) {
         x.video.onended = null; x.video.ontimeupdate = null;
+        // pausar um <video> enquanto o play() dele ainda não resolveu gera uma promessa
+        // rejeitada ("play() request was interrupted by a call to pause()") — sem
+        // tratar isso especificamente aqui, ela sobe como erro não tratado (visto de
+        // verdade no sinal de vida de uma tela real). Se tem play() pendente, espera
+        // ele decidir (e engole a rejeição, que é esperada nesse caso) antes de pausar.
         if (x.playPromise) { x.playPromise.then(() => { try { x.video.pause(); } catch (e) {} }).catch(() => {}); }
         else { try { x.video.pause(); } catch (e) {} }
       }
     });
-    const item = ads[curAd];
+    const item = proximo;
     item.el.classList.add('on');
 
     if (item.video && item.ad.url) {
@@ -515,8 +525,20 @@
       // tomada) — bem mais grave que o branco ocasional que o load() evitava.
       try { item.video.currentTime = 0; } catch (e) {}
       const p = item.video.play(); item.playPromise = p;
-      if (p && p.catch) p.catch(() => { adTimer = setTimeout(proximoAnuncio, 4000); });
-      item.video.ontimeupdate = () => { if (item.video.duration) progress.style.width = (item.video.currentTime / item.video.duration * 100) + '%'; };
+      if (p && p.catch) p.catch((err) => {
+        // registra o motivo real no sinal de vida em vez de engolir o erro em
+        // silêncio — se acontecer uma falha genuína (não a corrida corrigida
+        // acima), agora aparece no painel em vez de só sumir.
+        erroDiagnostico = 'play falhou (' + (item.ad.titulo || item.ad.url || 'anuncio') + '): ' + ((err && (err.name || err.message)) || 'desconhecido');
+        adTimer = setTimeout(proximoAnuncio, 4000);
+      });
+      item.video.ontimeupdate = () => {
+        // tocando de verdade: zera o contador de tentativas de erro deste anúncio,
+        // senão uma falha antiga deixaria ele com menos chances de recuperação
+        // numa falha futura de verdade.
+        item.tentativasVideo = 0;
+        if (item.video.duration) progress.style.width = (item.video.currentTime / item.video.duration * 100) + '%';
+      };
       item.video.onended = () => proximoAnuncio();
       // sem load() (removido acima), tocar de novo um vídeo que já errou não refaz
       // a busca do arquivo sozinho — fica "morto" pro resto da sessão mesmo que a
