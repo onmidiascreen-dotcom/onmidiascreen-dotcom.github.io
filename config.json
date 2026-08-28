@@ -84,6 +84,18 @@
         "infinity"
       ],
       "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1787930531/vs2rnshvbewgxzfcig8r.mp4"
+    },
+    {
+      "tipo": "video",
+      "tag": "",
+      "titulo": "Novo anúncio",
+      "texto": "",
+      "rodape": "",
+      "cor": "azul",
+      "predios": [
+        "infinity"
+      ],
+      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1787931035/o0tsheglivsbbqpuk78o.mp4"
     }
   ]
 }
