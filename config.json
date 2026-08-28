@@ -59,18 +59,6 @@
       "predios": [
         "infinity"
       ],
-      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1787665791/sfgq8i2cxolghvvyti1z.mp4"
-    },
-    {
-      "tipo": "video",
-      "tag": "",
-      "titulo": "Novo anúncio",
-      "texto": "",
-      "rodape": "",
-      "cor": "azul",
-      "predios": [
-        "infinity"
-      ],
       "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1787665803/nwziwgauhodczrf5cafk.mp4"
     },
     {
@@ -84,6 +72,18 @@
         "infinity"
       ],
       "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1787748449/zpekv5bhh18pwj6lj7oh.mp4"
+    },
+    {
+      "tipo": "video",
+      "tag": "",
+      "titulo": "Novo anúncio",
+      "texto": "",
+      "rodape": "",
+      "cor": "azul",
+      "predios": [
+        "infinity"
+      ],
+      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1787930531/vs2rnshvbewgxzfcig8r.mp4"
     }
   ]
 }
