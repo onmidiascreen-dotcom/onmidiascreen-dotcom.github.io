@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "Santos vence e surpreende o Corinthians na Arena com boa atuação de Neymar",
+      "imagem": null
+    },
+    {
+      "titulo": "Multimilionário constrói circuito de corrida particular no Japão que rivaliza com circuitos profissionais",
+      "imagem": null
+    },
+    {
+      "titulo": "Flamengo vence clássico com Botafogo e segue na cola do líder Palmeiras",
+      "imagem": null
+    },
+    {
+      "titulo": "Grêmio x Chapecoense: escalações e onde assistir ao Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Harry Styles faz piada sobre casamento de ex, Taylor Swift",
+      "imagem": null
+    },
+    {
+      "titulo": "Mirassol x Palmeiras: escalações e onde assistir ao jogo do Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Richarlison negocia retorno ao Everton, diz jornal",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8216;Rato-cão&#8217; gigante de 130 milhões de anos vivia no Brasil na Formação Botucatu, descobrem cientistas",
+      "imagem": null
+    },
+    {
+      "titulo": "Ensaios da Anitta divulga datas da turnê 2027; veja calendário",
+      "imagem": null
+    },
+    {
+      "titulo": "Caiado cumpre agenda em SP e defende usar IA para ampliar autonomia de PCDs",
+      "imagem": null
+    },
+    {
+      "titulo": "Virginia Fonseca enfrenta perrengue para tomar banho na casa de Vini Jr.",
+      "imagem": null
+    },
+    {
+      "titulo": "Zema defende ampliação do Seguro Agrícola em agenda com agricultores no RS",
+      "imagem": null
+    },
+    {
+      "titulo": "Granizo do tamanho de bola de golfe perfura carros e gera prejuízo em SC",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Defendo a liberdade do trabalhador&#8221;, diz Flávio em alternativa a 6&#215;1",
+      "imagem": null
+    },
+    {
+      "titulo": "Pai de Nicole Louise desabafa sobre afastamento após ela entrar para igreja",
+      "imagem": null
+    },
+    {
+      "titulo": "Sampaoli é demitido pelo Talleres após uma vitória em sete jogos",
+      "imagem": null
+    },
+    {
+      "titulo": "Diretor da A24 estará em novo filme de &#8220;X-Men&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Grêmio aceita proposta e Gabriel Mec deve se transferir para o Porto",
+      "imagem": null
+    },
+    {
+      "titulo": "Tarifaço de Trump pode atingir eleitorados específicos, avalia especialista",
+      "imagem": null
+    },
+    {
       "titulo": "Defesa Civil emite alerta severo para chuvas em SP",
       "imagem": null
     },
@@ -43,83 +119,7 @@
     {
       "titulo": "Aluna e orientadora morrem e Unicamp cria procedimento inédito para defesa póstuma de tese",
       "imagem": null
-    },
-    {
-      "titulo": "Governo prevê aporte de R$ 6 bilhões do Orçamento de 2027 aos Correios",
-      "imagem": null
-    },
-    {
-      "titulo": "LaLiga: Real Madrid goleia Málaga com assistência de Vini Jr. e segue 100%",
-      "imagem": null
-    },
-    {
-      "titulo": "Reta final do vestibular: por que estudar mais nem sempre ajuda",
-      "imagem": null
-    },
-    {
-      "titulo": "Novo ciclone extratropical se forma no Sul e deve intensificar chuvas",
-      "imagem": null
-    },
-    {
-      "titulo": "Detalhes burocráticos separam Gabriel Martinelli do Al-Hilal",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávio defende texto alternativo ao da PEC que trata do fim da jornada 6&#215;1",
-      "imagem": null
-    },
-    {
-      "titulo": "Alta do diesel desafia logística e empresas buscam saídas",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávio encontra ministro de Bukele e fala em reforma no sistema prisional",
-      "imagem": null
-    },
-    {
-      "titulo": "Com somente R$ 48 na carteira e uma bicicleta com problemas, ex-ajudante de pedreiro viaja pedalando do litoral paulista até a Argentina",
-      "imagem": null
-    },
-    {
-      "titulo": "Athletico-PR e Fluminense empatam em jogo eletrizante de seis gols",
-      "imagem": null
-    },
-    {
-      "titulo": "Reestruturação dos Correios não é suficiente, diz ex-secretário da Fazenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Lisa Kudrow revela única parte de &#8220;Friends&#8221; que se recusa a repetir",
-      "imagem": null
-    },
-    {
-      "titulo": "Novo telescópio da Nasa descobridor de mundos terá campo de visão mais de 100 vezes maior que o Hubble; entenda o que torna ele diferente",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávio defende Ministério da Segurança com atuação em estados e municípios",
-      "imagem": null
-    },
-    {
-      "titulo": "Temporal no Sul: cidades de SC decretam emergência; RS tem 7 feridos",
-      "imagem": null
-    },
-    {
-      "titulo": "Advogado desaparecido há uma semana é encontrado morto em Xique-Xique (BA)",
-      "imagem": null
-    },
-    {
-      "titulo": "Ney Matogrosso e Xuxa: entenda farpas trocadas entre artistas",
-      "imagem": null
-    },
-    {
-      "titulo": "Com Ancelotti de olho, João Pedro marca a favor e contra em jogo do Chelsea",
-      "imagem": null
-    },
-    {
-      "titulo": "Check-in no hotel: confira cuidados simples para verificar segurança e garantir conforto durante hospedagem",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-08-30T18:41:57.892Z"
+  "atualizadoEm": "2026-08-30T21:35:18.855Z"
 }
