@@ -1,6 +1,86 @@
 {
   "noticias": [
     {
+      "titulo": "CNN Money exibe hoje especial sobre recuperação judicial de grandes marcas",
+      "imagem": null
+    },
+    {
+      "titulo": "Rock in Rio: 9 itens proibidos que você não pode levar ao festival",
+      "imagem": null
+    },
+    {
+      "titulo": "Grêmio x Internacional: horário e onde assistir à Copa do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Toulouse x Lille: horário e onde assistir ao jogo da Ligue 1",
+      "imagem": null
+    },
+    {
+      "titulo": "Náutico x Botafogo-SP: horário e onde assistir ao jogo da Série B",
+      "imagem": null
+    },
+    {
+      "titulo": "O grande risco da SpaceX: não há como substituir Elon Musk",
+      "imagem": null
+    },
+    {
+      "titulo": "Apenas 30% dos brasileiros consideram o país seguro para os jovens",
+      "imagem": null
+    },
+    {
+      "titulo": "Cadela é encontrada em montanha de lixo flutuante no Rio Pinheiros",
+      "imagem": null
+    },
+    {
+      "titulo": "Barris com material radioativo estão soltando resíduos no oceano Atlântico",
+      "imagem": null
+    },
+    {
+      "titulo": "UE passa barrar produtos de origem animal do Brasil nesta quinta; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise WW: Ramificações de crise do STF se espalham por Brasília",
+      "imagem": null
+    },
+    {
+      "titulo": "O Grande Debate: Vorcaro pode negociar delação contra a própria PF?",
+      "imagem": null
+    },
+    {
+      "titulo": "Cuca reage à fala de Gabigol sobre volta ao Cruzeiro: &#8220;Surpresa&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Abel faz reflexão e manda recado a Vitor Roque no Palmeiras: &#8220;Sorria mais&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Cuca é direto sobre nova lesão de Neymar no Santos: &#8220;Teremos que nos virar&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Santos 0 x 0 Palmeiras: veja os melhores momentos pela Copa do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Seleção Brasileira confirma dois amistosos para novembro; veja adversários",
+      "imagem": null
+    },
+    {
+      "titulo": "Vitória 0 x 2 Vasco: veja os melhores momentos pela Copa do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Copa do Brasil: Vasco bate Vitória e vai à semifinal pela 3ª edição seguida",
+      "imagem": null
+    },
+    {
+      "titulo": "Palmeiras segura empate com o Santos e está na semifinal da Copa do Brasil",
+      "imagem": null
+    },
+    {
       "titulo": "Arko Advice: Blindagem institucional ao STF pode ruir a qualquer momento",
       "imagem": null
     },
@@ -39,87 +119,7 @@
     {
       "titulo": "Vou cortar R$ 100 bi, sendo metade de emendas impositivas, diz Caiado à CNN",
       "imagem": null
-    },
-    {
-      "titulo": "Waack: Crise institucional no STF se funde com a eleição",
-      "imagem": null
-    },
-    {
-      "titulo": "Toffoli libera campanha digital de Wilson Grassi à Presidência",
-      "imagem": null
-    },
-    {
-      "titulo": "Após “sacrifício”, Everson desfalca Atlético-MG por tempo indeterminado",
-      "imagem": null
-    },
-    {
-      "titulo": "Não vejo como Moraes permanecer no Supremo, diz Caiado à CNN",
-      "imagem": null
-    },
-    {
-      "titulo": "Kassio é incógnita nos cálculos de Mendonça sobre votos no caso Moraes",
-      "imagem": null
-    },
-    {
-      "titulo": "STF derruba PIS/Cofins sobre rendimentos de reservas de seguradoras",
-      "imagem": null
-    },
-    {
-      "titulo": "Caiado à CNN: Democracia pode sofrer golpe se STF não derrubar sigilos",
-      "imagem": null
-    },
-    {
-      "titulo": "Governistas veem oposição atrasar fim da 6&#215;1, mas apostam em apoio à pauta",
-      "imagem": null
-    },
-    {
-      "titulo": "BNDES vence prêmio por painel de financiamentos da Nova Indústria Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Caiado defende à CNN idade mínima de 60 anos para indicados ao STF",
-      "imagem": null
-    },
-    {
-      "titulo": "Terceiro suspeito de homicídio de Daniel Queiroz é detido em Salvador",
-      "imagem": null
-    },
-    {
-      "titulo": "À CNN, Caiado rejeita 6&#215;1 em momento &#8220;eleitoreiro&#8221; e defende 5&#215;2",
-      "imagem": null
-    },
-    {
-      "titulo": "Comex Tech: IA ajuda no crescimento do comércio exterior",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasileirão: com tranquilidade, Flamengo vence Mirassol e cola no Palmeiras",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Nunca vi em campo de guerra policial com câmera&#8221;, diz Caiado à CNN",
-      "imagem": null
-    },
-    {
-      "titulo": "Senado aprova regras para regularização ambiental de propriedades rurais",
-      "imagem": null
-    },
-    {
-      "titulo": "TSE valida seis candidaturas à Presidência, incluindo Lula, Flávio e Zema",
-      "imagem": null
-    },
-    {
-      "titulo": "Conib lança Atlas para combater alta dos casos de antissemitismo no Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: Qual foi o tema tratado entre Vorcaro e juiz assessor de Mendonça?",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;É bom lembrar quem manda&#8221;, diz Bernard após classificação do Atlético-MG",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-09-03T02:46:36.967Z"
+  "atualizadoEm": "2026-09-03T07:43:36.259Z"
 }
