@@ -876,6 +876,7 @@
           +   'código: <code>' + t.tela + '</code> · '
           +   'propagandas: ' + (d.anuncios ?? '—') + ' · comunicados: ' + (d.comunicados ?? '—')
           +   ' · notícias: ' + (d.noticias ?? '—') + ' (geradas ' + notIdade + ')'
+          +   ' · cache: ' + (d.swCache || '—')
           +   (d.online === false ? ' · <b style="color:#e0632c">a tela estava sem internet</b>' : '')
           +   (d.erro ? ' · <b style="color:#d62828">erro: ' + d.erro + '</b>' : '')
           + '</div>'

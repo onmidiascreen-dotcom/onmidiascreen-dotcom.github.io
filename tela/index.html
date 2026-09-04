@@ -871,6 +871,10 @@
   async function mandarSinal() {
     if (!TELA_ID) return; // tela sem código: nada a identificar
     const p = predioAtual();
+    // qual cache do Service Worker está ativo nessa tela agora — dá pra ver no
+    // painel do dono se ela já pegou uma atualização, sem precisar entrar no
+    // Remote Admin do Fully tela por tela.
+    const swCache = await caches.keys().then((ks) => ks.join(',') || null).catch(() => null);
     try {
       const resp = await fetch(PORTEIRO + '/ping', {
         method: 'POST', headers: { 'Content-Type': 'application/json' },
@@ -886,6 +890,7 @@
             sincronizadoEm: ultimaSincronizacao || null,
             ligadaHa: Math.round((Date.now() - abertoEm) / 60000),
             telaTam: window.innerWidth + 'x' + window.innerHeight,
+            swCache: swCache,
             erro: erroJS || erroDiagnostico   // aparece em vermelho no painel do dono; erro de JS prevalece
           }
         })
