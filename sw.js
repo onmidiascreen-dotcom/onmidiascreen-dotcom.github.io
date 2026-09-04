@@ -1,7 +1,7 @@
 // Service Worker: grava o player na memória da tela.
 // A tela liga e abre o player mesmo sem internet; a rede só serve para atualizar.
 // O player mora em /tela/. A landing (raiz), o painel e o síndico NÃO passam por aqui.
-const CACHE = 'onscreen-v8';
+const CACHE = 'onscreen-v9';
 const SHELL = ['/tela/', '/tela/index.html', '/manifest.json'];
 // cada prédio pode ter sua própria fonte de notícias (noticias-g1.json,
 // noticias-uol.json, noticias-cnn.json); /noticias.json continua valendo
@@ -18,7 +18,21 @@ self.addEventListener('message', (e) => {
     // guarda o que está no ar hoje
     for (const u of d.urls) {
       const existe = await c.match(u, { ignoreSearch: true });
-      if (!existe) await c.add(u).catch(() => {});
+      if (existe) continue;
+      // baixa manualmente (em vez de c.add) para poder conferir se o arquivo
+      // veio inteiro antes de guardar. Sem isso, uma queda de rede no meio do
+      // download podia gravar uma cópia cortada — e como ela "existe" no
+      // cache, o player nunca mais tentava baixar de novo, mesmo com a
+      // internet de volta (foi o que travou uma tela a noite inteira em
+      // 03/09, sem gerar erro nenhum no sinal de vida).
+      try {
+        const r = await fetch(u, { cache: 'no-store' });
+        if (!r.ok) continue;
+        const tamanhoEsperado = Number(r.headers.get('content-length') || 0);
+        const blob = await r.clone().blob();
+        if (tamanhoEsperado > 0 && blob.size !== tamanhoEsperado) continue; // veio cortado: não guarda, tenta de novo no próximo ciclo
+        await c.put(u, r);
+      } catch (err) { /* offline: tenta de novo no próximo ciclo */ }
     }
     // e joga fora vídeos/imagens que saíram do conteúdo (senão a memória só cresce).
     // inclui vídeos do Cloudinary (res.cloudinary.com) além das pastas do próprio site.
@@ -75,28 +89,38 @@ self.addEventListener('fetch', (e) => {
   if (e.request.mode === 'navigate') {
     e.respondWith((async () => {
       const salvo = () => caches.match('/tela/index.html').then((c) => c || caches.match('/tela/'));
+      const resposta = (corpo) => new Response(corpo, { status: 200, headers: { 'Content-Type': 'text/html; charset=utf-8' } });
 
-      // uma única busca, sem passar pelo cache do navegador. Ela SEMPRE grava o
-      // resultado — mesmo que o timeout já tenha servido a cópia salva. Assim,
-      // numa rede lenta a proxima abertura ja pega a versao nova.
-      const rede = fetch(e.request.url, { cache: 'no-store' }).then((r) => {
-        if (r && r.ok) {
-          const cp = r.clone();
-          caches.open(CACHE).then((c) => c.put('/tela/index.html', cp));
-        }
-        return r;
-      });
+      // Lê a resposta INTEIRA (cabeçalho + corpo) antes de considerar que a rede
+      // respondeu. Corrigido em 04/09: o prazo de 4s cobria só o começo da
+      // resposta (o cabeçalho). Numa Wi-Fi que cai no meio, o cabeçalho chegava
+      // rápido, a corrida terminava "com sucesso", e o corpo do HTML ficava
+      // pendurado pra sempre — a página velha já tinha morrido (relógio parado),
+      // a nova nunca chegava, e a tela ficava congelada no meio da recarga sem
+      // erro (Auto Reload after Page Error não dispara) e sem processo travado
+      // (Restart on Unresponsiveness não dispara). Nada socorria.
+      const rede = (async () => {
+        const r = await fetch(e.request.url, { cache: 'no-store' });
+        if (!r || !r.ok) throw new Error('HTTP ' + (r && r.status));
+        return await r.text();
+      })();
+
+      // grava SEMPRE o resultado da rede — mesmo que o prazo já tenha servido a
+      // cópia salva. Assim, numa rede lenta a próxima abertura já pega a versão nova.
+      e.waitUntil(rede.then((corpo) => caches.open(CACHE).then((c) => c.put('/tela/index.html', resposta(corpo)))).catch(() => {}));
 
       try {
         // Wi-Fi "conectado mas sem internet" (caso do elevador) trava a busca:
         // depois de 4s desiste e abre da memória. A tela nunca fica esperando.
-        return await Promise.race([
+        const corpo = await Promise.race([
           rede,
           new Promise((_, rej) => setTimeout(() => rej(new Error('rede lenta')), 4000))
         ]);
+        return resposta(corpo);
       } catch (err) {
-        e.waitUntil(rede.catch(() => {})); // deixa a busca terminar e atualizar o cache
-        return (await salvo()) || rede;
+        // sem cópia salva (primeira abertura de todas, sem internet): não tem o
+        // que fazer além de esperar a rede
+        return (await salvo()) || rede.then(resposta);
       }
     })());
     return;
