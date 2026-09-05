@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Como aproveitar o feriado prolongado em casa com atividades divertidas",
+      "imagem": null
+    },
+    {
+      "titulo": "Conheça Joheirry Mola, coroada Miss Mundo 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Fiquei atônito com pedido de nulidade do relatório da PF&#8221;, diz Mello à CNN",
+      "imagem": null
+    },
+    {
+      "titulo": "São Paulo registra chuva forte neste sábado (5); Defesa Civil mantém alerta",
+      "imagem": null
+    },
+    {
+      "titulo": "Marco Aurélio Mello à CNN: “Mendonça procedeu como deveria proceder”",
+      "imagem": null
+    },
+    {
+      "titulo": "Paciente viveu 271 dias com rim suíno em estudo liderado por brasileiro",
+      "imagem": null
+    },
+    {
+      "titulo": "Miss Mundo 2026: Joheirry Mola, da República Dominicana, ganha o concurso",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Pedir nulidade não se coaduna com o direito instrumental&#8221;, diz Mello à CNN",
+      "imagem": null
+    },
+    {
+      "titulo": "Garrafa Pet de cabeça para baixo na pia: para que serve e por que é recomendado",
+      "imagem": null
+    },
+    {
+      "titulo": "Joanna de Assis revela como foi demitida da Globo e projeta futuro",
+      "imagem": null
+    },
+    {
+      "titulo": "À CNN, Mello diz se arrepender de apoiar indicação de Moraes ao STF",
+      "imagem": null
+    },
+    {
+      "titulo": "Cartões avançam na corrida para manter relevância na Era de robôs; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Mello à CNN: &#8220;Precisamos dar uma satisfação à sociedade, que está perplexa&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Para conselheiro, Selic em dois dígitos inviabiliza negócios e pune varejo",
+      "imagem": null
+    },
+    {
+      "titulo": "Streamer acusado de homofobia contra ator de &#8220;Quem Ama Cuida&#8221; se desculpa",
+      "imagem": null
+    },
+    {
+      "titulo": "Haaland garante vitória do Manchester City em dia de estreias no clube",
+      "imagem": null
+    },
+    {
+      "titulo": "Miss Mundo 2026: brasileira é eliminada; relembre trajetória",
+      "imagem": null
+    },
+    {
+      "titulo": "ONS avalia necessidade de acionamento do plano emergencial no feriado",
+      "imagem": null
+    },
+    {
+      "titulo": "Corpo é encontrado em saco de lixo na zona Sul de SP; polícia investiga",
+      "imagem": null
+    },
+    {
+      "titulo": "Arsenal x Chelsea: horário e onde assistir ao jogo da Premier League",
+      "imagem": null
+    },
+    {
+      "titulo": "Fórmula 1: Gasly, da Alpine, conquista pole histórica no GP da Itália",
+      "imagem": null
+    },
+    {
       "titulo": "Quadrilha invade casa de auditor fiscal e faz família refém em SP",
       "imagem": null
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Nova rainha da Grande Rio não quer receber coroa de Virginia, diz equipe",
       "imagem": null
-    },
-    {
-      "titulo": "Governo estima que impacto do Redata pode superar R$ 7 bilhões até 2028",
-      "imagem": null
-    },
-    {
-      "titulo": "Revenge bedtime procrastination: por que você adia o sono — e paga por isso",
-      "imagem": null
-    },
-    {
-      "titulo": "Fundos de special situations buscam oportunidades em dívidas",
-      "imagem": null
-    },
-    {
-      "titulo": "Helicóptero resgata turista após acidente com quadriciclo em Jericoacoara",
-      "imagem": null
-    },
-    {
-      "titulo": "Saiba quanto tempo Neymar deve ficar fora do Santos por lesão",
-      "imagem": null
-    },
-    {
-      "titulo": "Grávida, Sabrina Sato samba com look cheio de pedras em ensaio da Gaviões",
-      "imagem": null
-    },
-    {
-      "titulo": "Carlos Alberto Parreira recebe alta após 80 dias de internação",
-      "imagem": null
-    },
-    {
-      "titulo": "Scooby fala sobre boatos de que ex teria entrado na Justiça cobrando pensão",
-      "imagem": null
-    },
-    {
-      "titulo": "TRE-SE indefere registro da federação PSOL/Rede no estado",
-      "imagem": null
-    },
-    {
-      "titulo": "Everton x Manchester United: horário e onde assistir à Premier League",
-      "imagem": null
-    },
-    {
-      "titulo": "Palmeiras arrecada R$ 375 milhões com vendas e se aproxima da meta do ano",
-      "imagem": null
-    },
-    {
-      "titulo": "Miss Mundo 2026: confira traje da brasileira no concurso",
-      "imagem": null
-    },
-    {
-      "titulo": "Seleção Feminina de Vôlei lança camisas de &#8220;As Meninas Super Poderosas&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Rock In Rio: fonoaudióloga explica como recuperar a voz após o festival",
-      "imagem": null
-    },
-    {
-      "titulo": "Davi Brito e Emilly Garcia: veja detalhes do casamento luxuoso em Salvador",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem passa 15 anos nas ruas, reconstrói a vida e transforma sofrimento em livro",
-      "imagem": null
-    },
-    {
-      "titulo": "Reserva Bawah: ilha paradisíaca na Indonésia onde hóspedes ajudam a salvar tartarugas",
-      "imagem": null
-    },
-    {
-      "titulo": "São Paulo encara o &#8220;melhor Atlético-MG do ano&#8221; para afastar fantasma do Z4",
-      "imagem": null
-    },
-    {
-      "titulo": "Joelho estala ou range ao levantar-se da cadeira: devo me preocupar?",
-      "imagem": null
-    },
-    {
-      "titulo": "Risco fiscal está no foco do &#8220;trade eleitoral&#8221;, diz especialista",
-      "imagem": null
-    },
-    {
-      "titulo": "AP Exata: 77,5% das menções a Moraes nas redes são negativas; 3%, positivas",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-09-05T15:35:15.950Z"
+  "atualizadoEm": "2026-09-05T17:39:05.490Z"
 }
