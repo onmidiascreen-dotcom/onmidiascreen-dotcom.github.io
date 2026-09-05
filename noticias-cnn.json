@@ -1,6 +1,102 @@
 {
   "noticias": [
     {
+      "titulo": "Quadrilha invade casa de auditor fiscal e faz família refém em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Tarcísio prevê contratar TIC Sorocaba-São Paulo em 2027",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasil estreia com goleada na Copa do Mundo Feminina Sub-20",
+      "imagem": null
+    },
+    {
+      "titulo": "Ator de &#8220;Quem Ama cuida&#8221; acusa streamer de homofobia; vídeo viraliza",
+      "imagem": null
+    },
+    {
+      "titulo": "Carlos Alberto Parreira agradece carinho após receber alta: &#8220;Ajudou muito&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Lotofácil da Independência vai sortear R$ 300 milhões; veja como apostar",
+      "imagem": null
+    },
+    {
+      "titulo": "Vestidos de noiva em SP: dona de loja diz ter sofrido golpe de R$ 1 milhão",
+      "imagem": null
+    },
+    {
+      "titulo": "Entenda por que atriz Fernanda Rodrigues transformou fazenda abandonada em produtora de café",
+      "imagem": null
+    },
+    {
+      "titulo": "Nova rainha da Grande Rio não quer receber coroa de Virginia, diz equipe",
+      "imagem": null
+    },
+    {
+      "titulo": "Governo estima que impacto do Redata pode superar R$ 7 bilhões até 2028",
+      "imagem": null
+    },
+    {
+      "titulo": "Revenge bedtime procrastination: por que você adia o sono — e paga por isso",
+      "imagem": null
+    },
+    {
+      "titulo": "Fundos de special situations buscam oportunidades em dívidas",
+      "imagem": null
+    },
+    {
+      "titulo": "Helicóptero resgata turista após acidente com quadriciclo em Jericoacoara",
+      "imagem": null
+    },
+    {
+      "titulo": "Saiba quanto tempo Neymar deve ficar fora do Santos por lesão",
+      "imagem": null
+    },
+    {
+      "titulo": "Grávida, Sabrina Sato samba com look cheio de pedras em ensaio da Gaviões",
+      "imagem": null
+    },
+    {
+      "titulo": "Carlos Alberto Parreira recebe alta após 80 dias de internação",
+      "imagem": null
+    },
+    {
+      "titulo": "Scooby fala sobre boatos de que ex teria entrado na Justiça cobrando pensão",
+      "imagem": null
+    },
+    {
+      "titulo": "TRE-SE indefere registro da federação PSOL/Rede no estado",
+      "imagem": null
+    },
+    {
+      "titulo": "Everton x Manchester United: horário e onde assistir à Premier League",
+      "imagem": null
+    },
+    {
+      "titulo": "Palmeiras arrecada R$ 375 milhões com vendas e se aproxima da meta do ano",
+      "imagem": null
+    },
+    {
+      "titulo": "Miss Mundo 2026: confira traje da brasileira no concurso",
+      "imagem": null
+    },
+    {
+      "titulo": "Seleção Feminina de Vôlei lança camisas de &#8220;As Meninas Super Poderosas&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Rock In Rio: fonoaudióloga explica como recuperar a voz após o festival",
+      "imagem": null
+    },
+    {
+      "titulo": "Davi Brito e Emilly Garcia: veja detalhes do casamento luxuoso em Salvador",
+      "imagem": null
+    },
+    {
       "titulo": "Homem passa 15 anos nas ruas, reconstrói a vida e transforma sofrimento em livro",
       "imagem": null
     },
@@ -23,103 +119,7 @@
     {
       "titulo": "AP Exata: 77,5% das menções a Moraes nas redes são negativas; 3%, positivas",
       "imagem": null
-    },
-    {
-      "titulo": "Para seguir no G4, Fluminense terá que acabar com freguesia contra o Vasco",
-      "imagem": null
-    },
-    {
-      "titulo": "Cursos de tecnologia crescem, mas ainda há déficit de talentos no Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Quanto rende Tesouro Direto? Saiba como calcular e escolher título adequado",
-      "imagem": null
-    },
-    {
-      "titulo": "José Dirceu anuncia fim de tratamento contra linfoma",
-      "imagem": null
-    },
-    {
-      "titulo": "Crise do STF expõe &#8220;padrão preocupante de compadrio&#8221;, diz CEO da AP Exata",
-      "imagem": null
-    },
-    {
-      "titulo": "Como cozinhar milho fresco em apenas um minuto para ter sabor intenso",
-      "imagem": null
-    },
-    {
-      "titulo": "Fiat Coupé: conheça a história do clássico esportivo italiano",
-      "imagem": null
-    },
-    {
-      "titulo": "Conheça raça do novo cão de Taylor Swift e Travis Kelce",
-      "imagem": null
-    },
-    {
-      "titulo": "Embalado com Pedro Emanuel, Vasco agora busca sair do Z4 do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "O Grande Debate: Quem perde mais com crises sucessivas a um mês da eleição?",
-      "imagem": null
-    },
-    {
-      "titulo": "Gato se esconde em vestido de festa e dona se surpreende ao devolver peça em loja",
-      "imagem": null
-    },
-    {
-      "titulo": "Depois do parto, quem cuida da mãe? Kalil e especialistas debatem puerpério",
-      "imagem": null
-    },
-    {
-      "titulo": "Saiba quais foram os 20 veículos mais emplacados no mês de agosto",
-      "imagem": null
-    },
-    {
-      "titulo": "Somos irmãos, mas diferentes: o que a genética diz sobre ancestralidade",
-      "imagem": null
-    },
-    {
-      "titulo": "Liderança de Fachin acaba &#8220;atropelada&#8221; por ministros, diz especialista",
-      "imagem": null
-    },
-    {
-      "titulo": "SC: Idoso morre ao cair em câmara de defumação durante produção de linguiça",
-      "imagem": null
-    },
-    {
-      "titulo": "Esta cidade é um dos polos de IA do mundo — e não é onde você pensa",
-      "imagem": null
-    },
-    {
-      "titulo": "Expointer: &#8220;terroir&#8221; gaúcho e certificação elevam valor da erva-mate",
-      "imagem": null
-    },
-    {
-      "titulo": "Mega-Sena 3054: sorteio deste domingo (6) pode pagar R$ 48 milhões",
-      "imagem": null
-    },
-    {
-      "titulo": "Rock in Rio 2026: veja o line-up e horários dos shows deste sábado (5)",
-      "imagem": null
-    },
-    {
-      "titulo": "Ceará x Sport: horário e onde assistir ao jogo da Série B",
-      "imagem": null
-    },
-    {
-      "titulo": "Uma década de tensões: especialista mapeia rota até crise atual do STF",
-      "imagem": null
-    },
-    {
-      "titulo": "Eleitor já pode consultar seu local de votação; veja como fazer",
-      "imagem": null
-    },
-    {
-      "titulo": "Juventude x Atlético-GO: horário e onde assistir ao jogo da Série B",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-09-05T12:43:49.025Z"
+  "atualizadoEm": "2026-09-05T15:35:15.950Z"
 }
