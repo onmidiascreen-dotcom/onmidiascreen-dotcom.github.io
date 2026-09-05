@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Homem passa 15 anos nas ruas, reconstrói a vida e transforma sofrimento em livro",
+      "imagem": null
+    },
+    {
+      "titulo": "Reserva Bawah: ilha paradisíaca na Indonésia onde hóspedes ajudam a salvar tartarugas",
+      "imagem": null
+    },
+    {
+      "titulo": "São Paulo encara o &#8220;melhor Atlético-MG do ano&#8221; para afastar fantasma do Z4",
+      "imagem": null
+    },
+    {
+      "titulo": "Joelho estala ou range ao levantar-se da cadeira: devo me preocupar?",
+      "imagem": null
+    },
+    {
+      "titulo": "Risco fiscal está no foco do &#8220;trade eleitoral&#8221;, diz especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "AP Exata: 77,5% das menções a Moraes nas redes são negativas; 3%, positivas",
+      "imagem": null
+    },
+    {
+      "titulo": "Para seguir no G4, Fluminense terá que acabar com freguesia contra o Vasco",
+      "imagem": null
+    },
+    {
+      "titulo": "Cursos de tecnologia crescem, mas ainda há déficit de talentos no Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Quanto rende Tesouro Direto? Saiba como calcular e escolher título adequado",
+      "imagem": null
+    },
+    {
+      "titulo": "José Dirceu anuncia fim de tratamento contra linfoma",
+      "imagem": null
+    },
+    {
+      "titulo": "Crise do STF expõe &#8220;padrão preocupante de compadrio&#8221;, diz CEO da AP Exata",
+      "imagem": null
+    },
+    {
+      "titulo": "Como cozinhar milho fresco em apenas um minuto para ter sabor intenso",
+      "imagem": null
+    },
+    {
+      "titulo": "Fiat Coupé: conheça a história do clássico esportivo italiano",
+      "imagem": null
+    },
+    {
+      "titulo": "Conheça raça do novo cão de Taylor Swift e Travis Kelce",
+      "imagem": null
+    },
+    {
+      "titulo": "Embalado com Pedro Emanuel, Vasco agora busca sair do Z4 do Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "O Grande Debate: Quem perde mais com crises sucessivas a um mês da eleição?",
+      "imagem": null
+    },
+    {
+      "titulo": "Gato se esconde em vestido de festa e dona se surpreende ao devolver peça em loja",
+      "imagem": null
+    },
+    {
+      "titulo": "Depois do parto, quem cuida da mãe? Kalil e especialistas debatem puerpério",
+      "imagem": null
+    },
+    {
+      "titulo": "Saiba quais foram os 20 veículos mais emplacados no mês de agosto",
+      "imagem": null
+    },
+    {
+      "titulo": "Somos irmãos, mas diferentes: o que a genética diz sobre ancestralidade",
+      "imagem": null
+    },
+    {
+      "titulo": "Liderança de Fachin acaba &#8220;atropelada&#8221; por ministros, diz especialista",
+      "imagem": null
+    },
+    {
       "titulo": "SC: Idoso morre ao cair em câmara de defumação durante produção de linguiça",
       "imagem": null
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Juventude x Atlético-GO: horário e onde assistir ao jogo da Série B",
       "imagem": null
-    },
-    {
-      "titulo": "Goiás x Fortaleza: horário e onde assistir ao jogo da Série B",
-      "imagem": null
-    },
-    {
-      "titulo": "Governo prevê arrecadar R$22,4 bi com leilão extraordinário do pré-sal",
-      "imagem": null
-    },
-    {
-      "titulo": "Fachin vai comandar processos sobre futuro de dois colegas de STF",
-      "imagem": null
-    },
-    {
-      "titulo": "Governo fecha esforço concentrado sem aprovar principais prioridades",
-      "imagem": null
-    },
-    {
-      "titulo": "Bragantino x Bahia: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "São Paulo x Atlético-MG: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Novorizontino x Avaí: horário e onde assistir ao jogo da Série B",
-      "imagem": null
-    },
-    {
-      "titulo": "Miss Mundo: saiba tudo sobre a 75ª edição que acontece neste sábado (5)",
-      "imagem": null
-    },
-    {
-      "titulo": "Fluminense x Vasco: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem era professora morta após ser diagnosticada com ansiedade no RJ",
-      "imagem": null
-    },
-    {
-      "titulo": "Especialistas apostam em Margem Equatorial como futuro polo do petróleo",
-      "imagem": null
-    },
-    {
-      "titulo": "Depressão na terceira idade: cerca de 15% dos idosos têm transtorno mental",
-      "imagem": null
-    },
-    {
-      "titulo": "As acomodações mais baratas em Paris estão desaparecendo: veja o que está acontecendo com os chamados &#8220;quartos de empregada&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Formalismo jurídico protege o próprio sistema, diz Eduardo Giannetti",
-      "imagem": null
-    },
-    {
-      "titulo": "Athletic Bilbao x Atl. de Madrid: horário e onde assistir ao jogo de LaLiga",
-      "imagem": null
-    },
-    {
-      "titulo": "Brentford x Sunderland: horário e onde assistir ao jogo da Premier League",
-      "imagem": null
-    },
-    {
-      "titulo": "Nottingham Forest x Tottenham: horário e onde assistir à Premier League",
-      "imagem": null
-    },
-    {
-      "titulo": "Newcastle x Bournemouth: horário e onde assistir ao jogo da Premier League",
-      "imagem": null
-    },
-    {
-      "titulo": "Moda do cabelo curto com IA: prática pode ocasionar em processo e multa",
-      "imagem": null
-    },
-    {
-      "titulo": "Manchester City x Coventry City: horário e onde assistir à Premier League",
-      "imagem": null
-    },
-    {
-      "titulo": "Nas redes, rejeição a Moraes supera polarização crescente sobre Mendonça",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-09-05T09:12:12.978Z"
+  "atualizadoEm": "2026-09-05T12:43:49.025Z"
 }
