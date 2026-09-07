@@ -264,6 +264,22 @@
   // Unresponsiveness") ou reiniciar o aparelho na tomada resolvem de verdade.
   setInterval(() => location.reload(), 30 * 60 * 1000);
 
+  // ---------- watchdog de renderização: detecta a tela "viva mas travada" ----------
+  // Achado em 07/09: a infinity-3 ficou ~49 min visualmente travada (16:51-17:40)
+  // antes de um OutOfMemoryError derrubar e reiniciar o processo sozinha. O log
+  // mostrou "Davey!" (frames perdidos) na janela toda — sinal de que o
+  // COMPOSITOR/GPU travou, possivelmente com o JS ainda respondendo por trás
+  // (relógio, sinal de vida). O Restart on Unresponsiveness do Fully testa se o
+  // JS responde; se só o desenho da tela travar, ele pode nunca detectar.
+  // requestAnimationFrame só dispara quando o navegador vai desenhar um frame de
+  // verdade — se parar de disparar, é o compositor preso, mesmo com JS ok.
+  let ultimoFrame = Date.now();
+  function marcarFrame() { ultimoFrame = Date.now(); requestAnimationFrame(marcarFrame); }
+  requestAnimationFrame(marcarFrame);
+  setInterval(() => {
+    if (Date.now() - ultimoFrame > 20000) location.reload(); // 20s sem desenhar nada: recarrega
+  }, 5000);
+
   // grava o player na memória da tela (funciona mesmo ligando sem internet)
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('sw.js')
