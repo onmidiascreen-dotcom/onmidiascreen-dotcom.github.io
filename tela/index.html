@@ -460,11 +460,20 @@
         d.className = 'ad video';
         // disableremoteplayback tira o botão de transmitir (Chromecast) que o Chrome
         // desenha sozinho sobre o vídeo quando enxerga um dispositivo na rede
-        d.innerHTML = '<video muted playsinline preload="auto" disableremoteplayback x-webkit-airplay="deny"></video>';
+        //
+        // preload="none" e SEM src aqui: com muitas propagandas em vídeo (10+),
+        // criar todas já com preload="auto" e src apontado deixa vários
+        // decodificadores de vídeo abertos ao mesmo tempo — foi isso que, com só
+        // 3 vídeos, já gerou erro de textura da GPU no Logcat (07/09) e um
+        // OutOfMemoryError depois de ~49min sob esse estresse (ver comentário do
+        // watchdog de renderização, logo no topo do script). Agora o arquivo só
+        // é carregado quando o anúncio entra na vez dele (ver mostrarAnuncio) e é
+        // descartado assim que sai de cena — só o anúncio da vez fica carregado,
+        // não importa quantos existam no total.
+        d.innerHTML = '<video muted playsinline preload="none" disableremoteplayback x-webkit-airplay="deny"></video>';
         video = d.querySelector('video');
         video.muted = true;
         video.disableRemotePlayback = true;
-        if (a.url) video.src = a.url;
       } else if (formato === 'imagem') {
         d.className = 'ad img';
         d.innerHTML = '<img alt="">';
@@ -517,13 +526,19 @@
       x.el.classList.remove('on');
       if (x.video) {
         x.video.onended = null; x.video.ontimeupdate = null;
+        // libera o arquivo do vídeo que acabou de sair de cena — com preload="none"
+        // (ver renderAnuncios), só o anúncio da vez fica com decodificador aberto;
+        // sem isto, depois de uma rotação completa todos os vídeos acabariam
+        // carregados ao mesmo tempo do mesmo jeito, só que mais devagar.
+        const descarregar = () => { if (x.video.hasAttribute('src')) { try { x.video.removeAttribute('src'); x.video.load(); } catch (e) {} } };
         // pausar um <video> enquanto o play() dele ainda não resolveu gera uma promessa
         // rejeitada ("play() request was interrupted by a call to pause()") — sem
         // tratar isso especificamente aqui, ela sobe como erro não tratado (visto de
         // verdade no sinal de vida de uma tela real). Se tem play() pendente, espera
-        // ele decidir (e engole a rejeição, que é esperada nesse caso) antes de pausar.
-        if (x.playPromise) { x.playPromise.then(() => { try { x.video.pause(); } catch (e) {} }).catch(() => {}); }
-        else { try { x.video.pause(); } catch (e) {} }
+        // ele decidir (e engole a rejeição, que é esperada nesse caso) antes de pausar,
+        // e só descarrega o arquivo depois que a pausa realmente aconteceu.
+        if (x.playPromise) { x.playPromise.then(() => { try { x.video.pause(); } catch (e) {} }).catch(() => {}).finally(descarregar); }
+        else { try { x.video.pause(); } catch (e) {} descarregar(); }
       }
     });
     const item = proximo;
@@ -532,6 +547,11 @@
     if (item.video && item.ad.url) {
       // vídeo: toca do começo, a barra segue o tempo, e passa quando termina
       progress.classList.remove('run'); progress.style.width = '0%';
+      // carrega o arquivo só agora, na primeira vez que ESTE anúncio entra na vez
+      // dele (ver preload="none" em renderAnuncios). Replays seguintes do mesmo
+      // anúncio não mexem no src de novo — só troca quando ele tinha sido
+      // descarregado ao sair de cena (ver "descarregar" acima).
+      if (item.video.getAttribute('src') !== item.ad.url) { item.video.src = item.ad.url; }
       // NOTA: já existiu aqui um item.video.load() antes do currentTime=0, pra
       // "refrescar" o decodificador a cada exibição (evitar vídeo repetido ficar
       // em branco depois de muitos ciclos). Removido em 24/08: suspeita forte de
