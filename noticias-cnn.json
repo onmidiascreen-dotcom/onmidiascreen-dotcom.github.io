@@ -1,6 +1,86 @@
 {
   "noticias": [
     {
+      "titulo": "Chances de título do Flamengo no Brasileirão disparam após tomar liderança",
+      "imagem": null
+    },
+    {
+      "titulo": "Tatuagem de fã e capa com viseira: o que rolou no 3º dia de Rock in Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Rock in Rio 2026: conheça as áreas de luxo do festival de música",
+      "imagem": null
+    },
+    {
+      "titulo": "Memphis critica o Corinthians e faz cobrança: &#8220;Jogar como um time grande&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Neve cobre a Serra Gaúcha em domingo (6) gelado no Sul do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Grand Slams encerram tradição de 150 anos do backhand de uma mão; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "7 lugares do banheiro que acumulam germes e você pode esquecer de limpar",
+      "imagem": null
+    },
+    {
+      "titulo": "Diretor do Palmeiras diz que árbitro cometeu &#8220;erro clássico&#8221; em empate",
+      "imagem": null
+    },
+    {
+      "titulo": "Quadrilha é presa no RJ por roubos de veículos de luxo sob encomenda do CV",
+      "imagem": null
+    },
+    {
+      "titulo": "Torcida do Botafogo protesta contra Marlon Freitas e rasga imagem: &#8220;Judas&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Torcedores do Corinthians fazem cobrança após derrota: &#8220;Time sem vergonha!&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Fabinho Soldado mantém Pezzolano no Inter: &#8220;Acreditamos no projeto&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Estar no Corinthians é se sentir confortável no caos&#8221;, afirma Marcelo Paz",
+      "imagem": null
+    },
+    {
+      "titulo": "Botafogo 0 x 0 Palmeiras: veja os melhores momentos pelo Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Corinthians aposta em marketing para aumentar receitas com Memphis",
+      "imagem": null
+    },
+    {
+      "titulo": "Corinthians é surpreendido pela lanterna Chapecoense e perde no Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula diz que Brasil não será “colônia de ninguém” em pronunciamento",
+      "imagem": null
+    },
+    {
+      "titulo": "Paz aponta pedido de Stabile no Corinthians: “Parecido com o Fortaleza”",
+      "imagem": null
+    },
+    {
+      "titulo": "Marcelo Paz revela bastidores de saída do Fortaleza: &#8220;Não estava saudável&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Por que refrigerante em garrafa de vidro parece ser mais gostoso? A ciência explica",
+      "imagem": null
+    },
+    {
       "titulo": "À CNN, diretor do Corinthians aponta venda de André em janeiro",
       "imagem": null
     },
@@ -39,87 +119,7 @@
     {
       "titulo": "Artur Jorge explica mudanças no Cruzeiro e exalta vitória no Brasileirão",
       "imagem": null
-    },
-    {
-      "titulo": "Rock in Rio 2026: saiba o que rolou no segundo dia de festival",
-      "imagem": null
-    },
-    {
-      "titulo": "Remo 0 x 1 Flamengo: veja os melhores momentos pelo Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Cruzeiro 3 x 1 Athletico-PR: veja os melhores momentos pelo Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Com que frequência você solta gases? Roupa íntima inteligente monitora ação e saúde digestiva dos humanos",
-      "imagem": null
-    },
-    {
-      "titulo": "Alcaraz vence Tommy Paul e vai às quartas de final do US Open",
-      "imagem": null
-    },
-    {
-      "titulo": "População quer educação de qualidade, avalia especialista",
-      "imagem": null
-    },
-    {
-      "titulo": "Corinthians x Chapecoense: escalações e onde assistir ao jogo do Brasileiro",
-      "imagem": null
-    },
-    {
-      "titulo": "Abel Ferreira e Carlo Ancelotti se encontram antes de Botafogo x Palmeiras",
-      "imagem": null
-    },
-    {
-      "titulo": "GFS investe R$ 55 milhões em nova fábrica de aditivos para nutrição animal",
-      "imagem": null
-    },
-    {
-      "titulo": "Com Matheus Pereira protagonista, Cruzeiro vence Athletico-PR no Brasileiro",
-      "imagem": null
-    },
-    {
-      "titulo": "Flamengo supera o Remo e assume liderança provisória do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Santos aproveita apagão do Inter, leva susto, mas vence no Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Virginia e Anitta: entenda polêmica envolvendo Grande Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Cidades de SC registram temperaturas negativas e até neve; veja vídeo",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasileiro vence Emmy por direção geral do show de Bad Bunny",
-      "imagem": null
-    },
-    {
-      "titulo": "Botafogo x Palmeiras: escalações e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Flora Gil posa com nova namorada do viúvo de Rita Lee: “Muito assunto”",
-      "imagem": null
-    },
-    {
-      "titulo": "Associações defendem Messias após relatório apócrifo da PF lançar suspeita",
-      "imagem": null
-    },
-    {
-      "titulo": "Caiado cobra credibilidade do STF e diz que indicará mulheres se eleito",
-      "imagem": null
-    },
-    {
-      "titulo": "Europa lança 1º foguete orbital do continente partindo do solo Ártico",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-09-07T00:20:23.389Z"
+  "atualizadoEm": "2026-09-07T05:00:20.703Z"
 }
