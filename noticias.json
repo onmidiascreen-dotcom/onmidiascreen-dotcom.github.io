@@ -1,39 +1,91 @@
 {
   "noticias": [
     {
-      "titulo": "Documentário sobre Elon Musk usa IA para simular entrevista com declarações polêmicas do bilionário",
+      "titulo": "Trabalhador resgatado em situação análoga à escravidão chegou a receber R$ 300 em chácara no Amapá",
+      "imagem": "https://s2-g1.glbimg.com/kHdzHK2268nolrzEmtcCZJvDm0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/I/CKEPBORpKRAQF0EQU5kA/aleixo-g1-57-.jpg"
+    },
+    {
+      "titulo": "Posto de saúde em BH tem atendimento comprometido pelo 2º dia após furto de fios",
+      "imagem": "https://s2-g1.glbimg.com/c37_9q1YQvSDcwMFJwtesM5WL3E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/c/an8zT6RB6JkACuqQBXDw/centr-de-saude-cachoeirinha.png"
+    },
+    {
+      "titulo": "Suspeitos de envolvimento na morte de adolescente são detidos em Resende",
+      "imagem": "https://s2-g1.glbimg.com/h89dSKvPwhf-CBpRHj9EHEKNNg0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/L/MYxf6JRJGlvpU6pAtm0w/whatsapp-image-2026-09-09-at-10.38.02-1-.jpeg"
+    },
+    {
+      "titulo": "Meta, dona do Facebook, começou a testar suas 'notas da comunidade' na América Latina",
+      "imagem": "https://s2-g1.glbimg.com/8DAia2sM51MfQUUE6C4j7j_Lim0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/R/X5kE8oTrqvZZBZwOYrBA/globo-canal-4-20260826-1600-frame-415943.jpeg"
+    },
+    {
+      "titulo": "Assista ao Gazeta Meio Dia - edição regional",
+      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
+    },
+    {
+      "titulo": "Assista ao Gazeta Meio Dia",
+      "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png"
+    },
+    {
+      "titulo": "Assista ao JAP1 desta quarta-feira (9)",
+      "imagem": "https://s2-g1.glbimg.com/eDNUEKzN-c86zYUidcaUpMGjWDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/j/AwPARVTy2zC8rAMBGEgw/whatsapp-image-2025-12-02-at-11.45.30.jpeg"
+    },
+    {
+      "titulo": "Com rodas de conversa e treino para médicos, Araçatuba reforça ações de saúde mental no Setembro Amarelo",
+      "imagem": "https://s2-g1.glbimg.com/q1tT95kj8a8gkcAxXO78Yv5u128=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/l/ItPn03Q1mrblRaOxubbw/design-sem-nome-15-.png"
+    },
+    {
+      "titulo": "Idoso condenado por estupro é morto a tiros em João Pessoa",
+      "imagem": "https://s2-g1.glbimg.com/43xo4jVeAVL7hETgouu-KzHvVP8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/J/JC7p0bTt2Y104hrVmbcQ/viatura-da-pm-paraiba.jpg"
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
       "imagem": null
     },
     {
-      "titulo": "PF prende em Campo Grande suspeitos de vender eletrônicos do Paraguai e cobrar dívidas com armas",
-      "imagem": "https://s2-g1.glbimg.com/2OenbqeebaxE0L_rD3HvzDvlIUA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/Q/3vxS0dSYqLW97or30zHw/canva-2026-09-09t065208.194.png"
+      "titulo": "Paraná recebe alerta de tempestades, ventos de 85 km/h e chuva acima da média; saiba onde",
+      "imagem": "https://s2-g1.glbimg.com/e8z0_fi92YKhR0pDYpVjoxCltiI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/H/3Szk1mS4yAM6JhekkJ8w/paulo-silveira-padilha.jpg"
     },
     {
-      "titulo": "Assista ao Bom Dia Vanguarda ao vivo no g1",
-      "imagem": "https://s2-g1.glbimg.com/eNmYHfknzzliwQJLsNi8qyf2BDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/r/qhMVONTJuDaQtelrYKjA/a64b4644-73da-40c5-b2f0-17b0321381f0.jpg"
+      "titulo": "Lula pede quebra total de sigilo em investigações do caso Master e cobra transparência",
+      "imagem": "https://s2-g1.glbimg.com/tBB8yTcTX1ZK2aQZ8IeroC4g8Uw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/l/JOUxeUTPypGVPiYOtBTw/55445007049-6f2ad6a548-k.jpg"
     },
     {
-      "titulo": "Manifestação interdita Rodovia Santos Dumont por 40 minutos em Campinas",
-      "imagem": "https://s2-g1.glbimg.com/KDBipRlXeRCEUieNcVoy5itSALY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/b/yBxO5jStOnH1vcFdqwag/divilgacao-divulgacao-reproducaoredes-sociais-reproducaoredes-sociais-1-.jpg"
+      "titulo": "Da aprovação à disputa na Justiça: veja cronologia do caso da professora do RS que passou em concurso mas foi impedida de assumir",
+      "imagem": "https://s2-g1.glbimg.com/y7eijGRBoD3Fyr7e-2AhwpjCoBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/B/2D7XdFQLmgJxAPQJh0LA/g1-4-.jpg"
     },
     {
-      "titulo": "OpenAI diz que resolveu em 88 horas problema matemático em aberto há cerca de 90 anos",
-      "imagem": "https://s2-g1.glbimg.com/ZfKAzrEJwgtN80ljq3Xm_ZKYEVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/7/E9EqvJSQmtpA4O5ba3cg/19bf2440-8770-11f1-b430-afa19a42b819.jpg.webp"
+      "titulo": "Governo destina R$ 6,6 bilhões em subsídios à produção e importação de combustíveis; guerra no Oriente Médio elevou preços",
+      "imagem": null
     },
     {
-      "titulo": "Mulher é encontrada morta em casa em Duque de Caxias; filhos acharam o corpo",
-      "imagem": "https://s2-g1.glbimg.com/edbC9T-KYs-2BgP-wWmF2DTPpS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/E/1usV5RT7CjZB561HRsNQ/feminicidio12.jpeg"
+      "titulo": "Alunos estão sem aulas presenciais desde agosto durante obra em escola de Cabo Frio",
+      "imagem": "https://s2-g1.glbimg.com/pAl9wyrcLvuc_fZaRGOsx0KZZfA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/u/ltiefWTaGBHlCBA3z76w/escola.jpg"
     },
     {
       "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
       "imagem": null
     },
     {
+      "titulo": "Mulher acredita que marido ganhou R$ 50 mil em prêmio, cai em golpe por telefone e tem prejuízo de R$ 29 mil em MG",
+      "imagem": "https://s2-g1.glbimg.com/IsJWLoDe-jk8snNmRYGzytQrN6k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/g/J/IlkHR6SVGdka6wGuvxkQ/whatsapp-image-2024-09-07-at-09.50.12.jpeg"
+    },
+    {
+      "titulo": "Homem é morto a facadas por mulher dentro de bar em Boa Vista",
+      "imagem": "https://s2-g1.glbimg.com/LjkT1PFncqzc55xQMT-xrbOfL14=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/t/rcKb6pT1SmaidabtbWqg/homicidio-ocorreu-em-boa-vista.jpg"
+    },
+    {
       "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
       "imagem": null
     },
     {
+      "titulo": "Corpo de homem é encontrado boiando no Rio Acre, em Rio Branco",
+      "imagem": "https://s2-g1.glbimg.com/uv3lqfa8kmi1yzf5IDU5XAgvCh4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/Y/LFikxWTCGxBwrH5eaQKA/midia-de-distribuicao-g1-2026-09-09t090420.361.png"
+    },
+    {
       "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
+      "imagem": null
+    },
+    {
+      "titulo": "Assista ao Bahia Meio Dia",
       "imagem": null
     },
     {
@@ -41,85 +93,33 @@
       "imagem": null
     },
     {
-      "titulo": "A um número do prêmio principal, aposta do Paraná fatura R$ 34 mil na Mega-Sena; veja cidade",
-      "imagem": "https://s2-g1.glbimg.com/jA_AJtV3bEK-ryBrvYVDHvRDJoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/s/XbYYMASlOrWF4a5Rf9Yg/volantes-loterias-q98a7803-credito-marcelo-brandt-g1.jpg"
+      "titulo": "Assista ao Link Vanguarda ao vivo no g1",
+      "imagem": "https://s2-g1.glbimg.com/-aKNpXu5tkH1IMbZNlTHrGL7GBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/m/0EIsytSK6hz2JpLJ2VsA/texto-do-seu-paragrafo-23-.png"
     },
     {
-      "titulo": "CNI, Fiesp e outras entidades empresariais cobram em manifesto sessão pública e resposta urgente do STF à crise",
-      "imagem": "https://s2-g1.glbimg.com/fyg47X71j-9c40nKRu8whCRTsV8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/X/4APWJaT0ANik5ovIvb4w/50969871752-3ac84c4596-k.jpg"
+      "titulo": "Influenciador César Rincon é alvo de operação da Polícia Civil em rancho em SC",
+      "imagem": "https://s2-g1.glbimg.com/klrcgkZTixMP4lw3Aae9ficq95A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/h/QPyhZgR0aLEoz3psX7fA/rincon-2-.png"
     },
     {
-      "titulo": "Grupo suspeito de tráfico e lavagem de dinheiro é alvo de operação em Cuiabá",
-      "imagem": "https://s2-g1.glbimg.com/QLPomRG4iKL_FX8S6TyLgthToLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/m/hTWMZcSVS8M1R1sWLmwQ/videos-g1-2026-09-09t063045.493.jpg"
+      "titulo": "IFSertãoPE campus Ouricuri abre inscrições para Show de Talentos; prêmios chegam a R$ 300",
+      "imagem": "https://s2-g1.glbimg.com/Josc_Skhb0nqztePXTWjx5bns18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/A/Q/PJCg63QuerV6xKJnNJEw/praca-frei-damiao.jpg"
     },
     {
-      "titulo": "HC da Unicamp reabre UTI com 10 leitos após vazamento em tubulação",
-      "imagem": "https://s2-g1.glbimg.com/yezgYZbr2DkV2husf-NVH-1E3XA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/f/GvBBNDQs6xLuF1YMC0SQ/vlcsnap-2026-03-25-19h30m28s538.png"
+      "titulo": "Chuva causa alagamentos em diversos bairros e deixa cidades do Litoral Norte de SP em alerta",
+      "imagem": "https://s2-g1.glbimg.com/y5_wMYpYbAUgFREcBYKi0l-9LFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/S/WegPPxSdOi0umCyAIcJg/texto-do-seu-paragrafo-2026-09-09t113003.760.png"
     },
     {
-      "titulo": "Polícia prende quarto suspeito de envolvimento em assalto a joalheria em Santarém",
-      "imagem": "https://s2-g1.glbimg.com/zpT6b9xU2ckHFkwEB0SPX62QbpY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/m/cVt728QkaEK2OmnARFSw/whatsapp-image-2026-09-09-at-07.29.27.jpeg"
+      "titulo": "AO VIVO: Assista ao GR1",
+      "imagem": "https://s2-g1.glbimg.com/8ZATWs3Z6cjRJkbSiFb3AWyYVvQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/0/gme7DAQuGMEn0lUvsMqg/whatsapp-image-2026-09-09-at-11.10.18.jpeg"
     },
     {
-      "titulo": "Bom Dia Cidade Piracicaba ao vivo",
-      "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
+      "titulo": "Assista ao Bahia Meio Dia da TV Subaé",
+      "imagem": null
     },
     {
-      "titulo": "Batida entre dois carros e caminhão deixa mulher morta no Rodoanel",
-      "imagem": "https://s2-g1.glbimg.com/GAUx0D6EvtwWPHLVn650uOPFPXc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/q/yvtFVDSAmfBj3CZRXpoQ/imagem-15-.jpg"
-    },
-    {
-      "titulo": "PRF apreende mais de dois mil frascos de tirzepatida em carro na BR-381, na Grande BH",
-      "imagem": "https://s2-g1.glbimg.com/CoHIJcxBhbbL7U9l4sLgwoB4uYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/c/k9XCf9TqewbxEPMb6u7A/0-00-jor-apreende-tg-3-.mxf.png"
-    },
-    {
-      "titulo": "Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão nesta quarta-feira (9)",
-      "imagem": "https://s2-g1.glbimg.com/5IzCTdtf88UgAqqFcfbgbZbtGvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/0/eYYAtPTeWwdcdZMLt1SQ/montagens-1920-x-1080-px-2026-08-17t095134.479.png"
-    },
-    {
-      "titulo": "Paralisação de motoristas afeta linhas de ônibus em Paulínia; prefeitura diz que ato é irregular",
-      "imagem": "https://s2-g1.glbimg.com/V_CDBoxRh-HUKF__gmTcCzAiZkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/N/kSgNuITHOjF9o8duWx8g/screenshot-2.jpg"
-    },
-    {
-      "titulo": "24ª Exposição Brasileira do Cavalo Mangalarga reúne criadores no Sul de Minas",
-      "imagem": "https://s2-g1.glbimg.com/1xQ08P70_w0YM3KMtJYhQ88rZUw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/F/5jA38dQ6KFEa0aGkpAWg/link.jpg"
-    },
-    {
-      "titulo": "Faemg Senar lança em Varginha pesquisa inédita para estimar safra de café em Minas Gerais",
-      "imagem": "https://s2-g1.glbimg.com/tqZB9jzMAkv8XiL4-DTVf524TJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/r/0uCx0BSQGR67vXK6mpkQ/1-2025-11-13t103001.111.png"
-    },
-    {
-      "titulo": "De Dr. Abobrinha a Mário de Andrade: Pascoal da Conceição relembra início da carreira e ministra oficina em Sorocaba",
-      "imagem": "https://s2-g1.glbimg.com/8pl4QeVVeIljRf3D8XcXjMdY6Kk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/G/f0oZrlRxGy2nNzAGzjKQ/modelo-1-2-.png"
-    },
-    {
-      "titulo": "Semana Guiomar Novaes tem Brasil Jazz Sinfônica, Negritude Júnior e 40 atrações gratuitas; veja programação",
-      "imagem": "https://s2-g1.glbimg.com/EVZDgmIfDuyUViPy2Q4bhSS6Uow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/N/PE63YvTS2ryOP8KDGLCQ/20250913-semanaguiomarnovaes-showrenatoteixeira-215.jpg.jpeg"
-    },
-    {
-      "titulo": "André Mendonça recorre a precedentes de Moraes para justificar afastamento na PF",
-      "imagem": "https://s2-g1.glbimg.com/hmQo1ReKrTL1iyEVOqza1B47h40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/g/GEjAiLSii1AaUMysq75A/55502069909-cb045cfb5f-k.jpg"
-    },
-    {
-      "titulo": "Homem é preso por agredir mulher em Barra Mansa",
-      "imagem": "https://s2-g1.glbimg.com/L4sBz-ZWOw4hSVdzyMlUDjtbUdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/c/DblDQgQq25W6WQhuIIqQ/whatsapp-image-2025-07-26-at-11.25.36.jpeg"
-    },
-    {
-      "titulo": "'Do crânio ao mindinho do pé': como funciona a 1ª biblioteca de ossos sintéticos do mundo inaugurada no interior de SP",
-      "imagem": "https://s2-g1.glbimg.com/PLmwSHpJpwoNIBNw7wzcffub-B4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/D/JkJRRqTcO9JdxmmJVUYQ/design-sem-nome-49-.png"
-    },
-    {
-      "titulo": "Duas pessoas morrem em acidente entre moto e carreta na BR-080, no DF",
-      "imagem": "https://s2-g1.glbimg.com/p6UKQV39G8bwOp_yV5Slh88w0_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/A/xFEi18SMKAbWBGqEaGNQ/acidente-br080.jpeg"
-    },
-    {
-      "titulo": "Jovem é presa com grande quantidade de drogas em Volta Redonda",
-      "imagem": "https://s2-g1.glbimg.com/Rg85vClBwm7pN8R_uhNSiXZEahI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/l/vfs490SCWSDEn6FunRCA/whatsapp-image-2026-09-09-at-07.08.00-1-.jpeg"
-    },
-    {
-      "titulo": "Fã empresta jaqueta customizada a Adam Levine em show e ganha autógrafo: 'Um sonho'",
-      "imagem": "https://s2-g1.glbimg.com/HWzEQX22RwB3E9N5Ez93T-MmU6A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/lX4TQtQXKFNIpSr1AwZA/g1-1-.png"
+      "titulo": "Dino diz que juízes devem evitar vídeos que alimentem comícios: 'Recato deve ser ainda maior em tempos eleitorais'",
+      "imagem": "https://s2-g1.glbimg.com/Cd3YlQaCc_vyt8NPkm6mJWuYuts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/y/CKAXGiQHq1EEVCLiVcvA/55506734295-41d4836ff4-c.jpg"
     }
   ],
-  "atualizadoEm": "2026-09-09T10:59:59.804Z"
+  "atualizadoEm": "2026-09-09T15:04:31.596Z"
 }
