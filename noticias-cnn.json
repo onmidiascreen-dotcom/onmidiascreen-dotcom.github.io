@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Crise é consequência da politização do STF, diz especialista à CNN",
+      "imagem": null
+    },
+    {
+      "titulo": "Petróleo se aproxima de US$ 100 com escalada da guerra no Oriente Médio",
+      "imagem": null
+    },
+    {
+      "titulo": "Stuttgart x Viking: horário e onde assistir ao jogo da Champions League",
+      "imagem": null
+    },
+    {
+      "titulo": "Calleri contesta decisões da arbitragem e lamenta a derrota do São Paulo",
+      "imagem": null
+    },
+    {
+      "titulo": "Boca Juniors 1 x 0 São Paulo: os melhores momentos pela Sul-Americana",
+      "imagem": null
+    },
+    {
+      "titulo": "Hulk valoriza boa fase no Fluminense e revela ajuda de diretor do clube",
+      "imagem": null
+    },
+    {
+      "titulo": "São Paulo perde atacante titular por suspensão em jogo da Sul-Americana",
+      "imagem": null
+    },
+    {
+      "titulo": "Hakim Ziyech chega ao Rio e é recebido por torcida do Botafogo",
+      "imagem": null
+    },
+    {
+      "titulo": "Cebolinha veste a camisa do Santos após desembarque em aeroporto",
+      "imagem": null
+    },
+    {
+      "titulo": "São Paulo perde do Boca e larga em desvantagem nas quartas da Sul-Americana",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja o que o São Paulo precisa fazer para avançar na Sul-Americana",
+      "imagem": null
+    },
+    {
+      "titulo": "Léo Jardim celebra postura do Vasco na Sul-Americana: &#8220;Jogamos bola&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Marcão explica preferência por Ganso no time titular do Fluminense",
+      "imagem": null
+    },
+    {
+      "titulo": "À CNN, Douglas Ruas elogia cortes de gastos de Couto no governo do Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Câmeras em policiais não podem ser &#8220;caça às bruxas&#8221;, diz Douglas Ruas à CNN",
+      "imagem": null
+    },
+    {
+      "titulo": "Corvo aprende a beber água sozinho; ave pode ser criada como animal de estimação no Brasil?",
+      "imagem": null
+    },
+    {
+      "titulo": "Morre Jim Geoghan, criador de &#8220;Zack &#038; Cody: Gêmeos em Ação&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasil atropela Venezuela e estreia com vitória no Sul-Americano de Vôlei",
+      "imagem": null
+    },
+    {
+      "titulo": "Waack: Incapaz de agir, STF arrasta Lula na crise",
+      "imagem": null
+    },
+    {
+      "titulo": "Em manifesto liderado pela Fiesp, empresários pedem que STF examine &#8216;fatos&#8217;",
+      "imagem": null
+    },
+    {
+      "titulo": "Poliana é pressionada sobre falta de Leonardo em festa de filho de Virginia",
+      "imagem": null
+    },
+    {
       "titulo": "Independiente Santa Fe 0 x 0 Vasco: os melhores momentos pela Sul-Americana",
       "imagem": null
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Amacia, conserva e dá brilho: a arma secreta para a limpeza de camurça e vidro que você já tem em casa",
       "imagem": null
-    },
-    {
-      "titulo": "Importações de soja e farelo pela UE recuam no início da safra 2026/27",
-      "imagem": null
-    },
-    {
-      "titulo": "Penélope Cruz se emociona ao ter segunda maior ovação do Festival de Veneza",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja o que o Vasco precisa fazer para avançar na Sul-Americana",
-      "imagem": null
-    },
-    {
-      "titulo": "Aquecimento global: planeta pode ultrapassar 1,5 °C até 2030, alerta ONU",
-      "imagem": null
-    },
-    {
-      "titulo": "Fachin dá 72 horas para Mendonça se manifestar sobre afastamento de Andrei",
-      "imagem": null
-    },
-    {
-      "titulo": "Vasco empata com Santa Fe e deixa decisão aberta na Copa Sul-Americana",
-      "imagem": null
-    },
-    {
-      "titulo": "Fluminense larga na frente do Platense por vaga na semi da Libertadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja o que o Fluminense precisa fazer para avançar na Libertadores",
-      "imagem": null
-    },
-    {
-      "titulo": "Diamante no dente: quais os riscos de procedimento de Virginia Fonseca após fazer um &#8216;V&#8217; de Vini Jr.",
-      "imagem": null
-    },
-    {
-      "titulo": "StoneX reduz estimativa de produtividade do milho nos EUA e mantém projeção",
-      "imagem": null
-    },
-    {
-      "titulo": "Diretor diz que Everton Cebolinha &#8220;se excluiu&#8221; do Flamengo: &#8220;Fim de ciclo&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasileiro jogará segunda Champions e vive expectativa por Seleção",
-      "imagem": null
-    },
-    {
-      "titulo": "Esposa de PM não tinha costume de manusear arma do agente, diz testemunha",
-      "imagem": null
-    },
-    {
-      "titulo": "TSE acata ação contra Flávio por suposto abuso de poder econômico",
-      "imagem": null
-    },
-    {
-      "titulo": "Quaest: Lula tem 57% no 2º turno em PE; Flávio, 26%",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem é Danilo Sanfoneiro, namorado de Margareth Serrão, mãe de Virginia",
-      "imagem": null
-    },
-    {
-      "titulo": "CVM multa Daniel Vorcaro em R$ 20 milhões por fraude em fundo imobiliário",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump diz que US$ 50 bi em produtos canadenses perderão acesso aos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "CEO da Oncorp critica intervenção da ANP em contratos de terminais de GNL",
-      "imagem": null
-    },
-    {
-      "titulo": "EUA anunciam taxa adicional de 50% sobre produtos canadenses",
-      "imagem": null
-    },
-    {
-      "titulo": "US Open: Luisa Stefani e Dabrowski batem chinesas e avançam à semifinal",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-09-09T01:07:32.942Z"
+  "atualizadoEm": "2026-09-09T05:58:09.774Z"
 }
