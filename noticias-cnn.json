@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Paulo Angioni, diretor de futebol do Fluminense, morre aos 80 anos",
+      "imagem": null
+    },
+    {
+      "titulo": "Crise no STF adiciona incerteza a um agro que já enfrenta aperto de crédito",
+      "imagem": null
+    },
+    {
+      "titulo": "Suspensão de Abel e salários atrasados: as crises de Palmeiras e São Paulo",
+      "imagem": null
+    },
+    {
+      "titulo": "Ben Shelton chega à primeira final de Grand Slam e mira título histórico",
+      "imagem": null
+    },
+    {
+      "titulo": "Chuva atinge todas as regiões do país neste fim de semana; veja previsão",
+      "imagem": null
+    },
+    {
+      "titulo": "Avenida Brasil 2: por que são produzidos tantos remakes e continuações? Especialistas avaliam fenômeno",
+      "imagem": null
+    },
+    {
+      "titulo": "Demi Lovato no Rock in Rio: confira provável setlist para o show",
+      "imagem": null
+    },
+    {
+      "titulo": "Gravidez de gêmeos: por que saber se bebês dividem a placenta é importante",
+      "imagem": null
+    },
+    {
+      "titulo": "Tem dívidas no Inter? Mutirão tem descontos históricos até 30 de setembro",
+      "imagem": null
+    },
+    {
+      "titulo": "GP da Espanha: Hamilton perde controle da Ferrari, bate e interrompe treino",
+      "imagem": null
+    },
+    {
+      "titulo": "Maroon 5 no Rock in Rio: confira provável setlist para o show",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Tremembé&#8221;: como era o carro que Suzane von Richthofen ganhou dos pais",
+      "imagem": null
+    },
+    {
+      "titulo": "Justiça nega compensação integral por cortes de geração a eólicas e solares",
+      "imagem": null
+    },
+    {
+      "titulo": "De camarins a passagens: gastos de Dark Horse chegaram a R$ 20,9 milhões",
+      "imagem": null
+    },
+    {
+      "titulo": "Redação do Enem 2026: 3 debates da atualidade podem virar tema da prova",
+      "imagem": null
+    },
+    {
+      "titulo": "JBS aposta em Florianópolis para transformar proteínas em novos negócios",
+      "imagem": null
+    },
+    {
+      "titulo": "Setembro Amarelo: cartilha propõe ações contínuas para valorização da vida",
+      "imagem": null
+    },
+    {
+      "titulo": "Eletricista explica como instalar o chuveiro elétrico",
+      "imagem": null
+    },
+    {
+      "titulo": "Dark Horse: Relatório da PF pede esclarecimento sobre fundo nos EUA",
+      "imagem": null
+    },
+    {
+      "titulo": "Desabamento de prédio deixa ao menos dois mortos na zona Leste de SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Existe um segredo científico por trás do &#8220;louro no feijão&#8221;; veja qual é",
+      "imagem": null
+    },
+    {
       "titulo": "Filme brasileiro cotado para o Oscar estreia no Festival de Toronto",
       "imagem": null
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Sydney Sweeney completa 29 anos: relembre todas as polêmicas",
       "imagem": null
-    },
-    {
-      "titulo": "Rybakina x Sabalenka: o que esperar da grande final do US Open",
-      "imagem": null
-    },
-    {
-      "titulo": "Mega-Sena 3057: sorteio deste domingo (13) pode pagar R$ 85 milhões",
-      "imagem": null
-    },
-    {
-      "titulo": "Como a vida de suspeita de tiroteio contra Rihanna se desfez",
-      "imagem": null
-    },
-    {
-      "titulo": "Sunderland x Arsenal: horário e onde assistir ao jogo da Premier League",
-      "imagem": null
-    },
-    {
-      "titulo": "Hortas urbanas da Enel produzem 3 toneladas de alimentos por mês em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "PF mostra conversas de Flávio com Vorcaro sobre recursos para Dark Horse",
-      "imagem": null
-    },
-    {
-      "titulo": "Grassi é o candidato que mais investiu o próprio dinheiro com a campanha",
-      "imagem": null
-    },
-    {
-      "titulo": "Gilmar coloca data de julgamento em xeque ao defender inclusão de Mendonça",
-      "imagem": null
-    },
-    {
-      "titulo": "BofA reduz previsão da Selic a 13,25% no fim do ano após IPCA",
-      "imagem": null
-    },
-    {
-      "titulo": "STF vive troca de acusações e ‘guerra’ de ofícios entre ministros; entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Santos x Cruzeiro: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Grêmio x Vasco: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Para onde vai o dólar? Eleição e Fed colocam câmbio no centro das atenções",
-      "imagem": null
-    },
-    {
-      "titulo": "Chapecoense x Internacional: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Botafogo x Red Bull Bragantino: horário e onde assistir ao Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Maringá x Santa Cruz: horário e onde assistir ao jogo da Série C",
-      "imagem": null
-    },
-    {
-      "titulo": "Botafogo-PB x Floresta: horário e onde assistir ao jogo da Série C",
-      "imagem": null
-    },
-    {
-      "titulo": "Palmeiras x São Paulo: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Atlético-MG x Fluminense: horário e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Strasbourg x Monaco: horário e onde assistir ao jogo da Ligue 1",
-      "imagem": null
-    },
-    {
-      "titulo": "Caçadores da Idade do Gelo chuchavam nozes de areca para dar energia e aliviar dores, muito antes de existir agricultura",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-09-12T09:20:25.263Z"
+  "atualizadoEm": "2026-09-12T12:59:07.750Z"
 }
