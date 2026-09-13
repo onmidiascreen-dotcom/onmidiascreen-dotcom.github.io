@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Rock in Rio: Cobra Coral recebeu pedido emergencial para atuar no festival",
+      "imagem": null
+    },
+    {
+      "titulo": "Torcedores do Grêmio xingam Luís Castro e pedem a volta de Renato Gaúcho",
+      "imagem": null
+    },
+    {
+      "titulo": "Suspeito é preso com 11 fuzis e uma submetralhadora no RJ",
+      "imagem": null
+    },
+    {
+      "titulo": "Donos de construtora de prédio que desabou em SP serão presos, diz Nunes",
+      "imagem": null
+    },
+    {
+      "titulo": "Matías Viña celebra chegada ao Cruzeiro e revela impasse no River Plate",
+      "imagem": null
+    },
+    {
+      "titulo": "Palmeiras 2 x 0 São Paulo: veja os melhores momentos do Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Arnold Schwarzenegger paga US$ 1 por ano para manter objeto de filme",
+      "imagem": null
+    },
+    {
+      "titulo": "Reinier responde Neymar após provocações; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Prédio que desabou na zona Leste de SP já havia sido alvo de ação judicial",
+      "imagem": null
+    },
+    {
+      "titulo": "Luís Castro se irrita e recusa pergunta após derrota do Grêmio para o Vasco",
+      "imagem": null
+    },
+    {
+      "titulo": "Fred fala de situação envolvendo Neymar e projeta decisão contra o Santos",
+      "imagem": null
+    },
+    {
+      "titulo": "Fachin assume relatoria do caso sobre Moraes e Vorcaro",
+      "imagem": null
+    },
+    {
+      "titulo": "Tabu histórico: Palmeiras vence São Paulo em todos os clássicos de 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "J Balvin anuncia retorno ao Brasil em 2027 durante show no Rock in Rio",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: sintonia do Atlético-MG com a torcida será importante",
+      "imagem": null
+    },
+    {
+      "titulo": "Palmeiras vence o São Paulo, dorme na liderança e seca o Flamengo",
+      "imagem": null
+    },
+    {
+      "titulo": "Forte neblina cobre cidade de SP durante queda de temperatura; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Santos x Cruzeiro: escalações e onde assistir ao jogo do Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Mensagens de Vorcaro e ex-BRB revelam negociação de fraude bilionária",
+      "imagem": null
+    },
+    {
+      "titulo": "Top 1: Rybakina conquista primeiro título do US Open ao derrotar Sabalenka",
+      "imagem": null
+    },
+    {
+      "titulo": "Chapecoense 1 x 2 Internacional: veja os melhores momentos do Brasileirão",
+      "imagem": null
+    },
+    {
       "titulo": "STF irá transmitir ao vivo sessão sobre mensagens de Moraes e Vorcaro",
       "imagem": null
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Brasileirão Feminino: São Paulo vence Flamengo e abre vantagem na semifinal",
       "imagem": null
-    },
-    {
-      "titulo": "Palmeiras x São Paulo: Osorio acerta carrinho em Piquerez e é expulso",
-      "imagem": null
-    },
-    {
-      "titulo": "Conheça Tsutomu Yamaguchi, o único homem que sobreviveu a duas bombas atômicas",
-      "imagem": null
-    },
-    {
-      "titulo": "Datafolha: Lula lidera 2º turno com 61% em PE; Flávio tem 30%",
-      "imagem": null
-    },
-    {
-      "titulo": "El Niño: como fenômeno pode colocar em risco a cadeia de frio farmacêutica",
-      "imagem": null
-    },
-    {
-      "titulo": "Internacional vence Chapecoense e ganha fôlego contra o Z4 do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Rayssa Leal constrói patrimônio de R$ 90 milhões com prêmios e patrocínios",
-      "imagem": null
-    },
-    {
-      "titulo": "Cláudia Abreu resgata foto antiga com Malu Mader: &#8220;Sempre com você&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Datafolha: Lula e Flávio empatam tecnicamente no 2º turno em MG",
-      "imagem": null
-    },
-    {
-      "titulo": "Datafolha: Flávio lidera 2º turno no RJ com 49%, Lula tem 41%",
-      "imagem": null
-    },
-    {
-      "titulo": "Datafolha: Em SP, Flávio lidera 2º turno com 47%; Lula, 42%",
-      "imagem": null
-    },
-    {
-      "titulo": "Comissão Arns pede a Fachin análise do STF sobre conduta de ministros",
-      "imagem": null
-    },
-    {
-      "titulo": "Grêmio 1 x 2 Vasco: veja os melhores momentos pelo Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Lisa estreia documentário no Festival Internacional de Cinema de Toronto",
-      "imagem": null
-    },
-    {
-      "titulo": "Veritá: Bruno Bolsonaro e Fernando Máximo lideram corrida ao Senado em RO",
-      "imagem": null
-    },
-    {
-      "titulo": "Atlético-MG 3 x 1 Fluminense: veja os melhores momentos pelo Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Fachin dá 24 horas para PF informar situação de dados do celular de Vorcaro",
-      "imagem": null
-    },
-    {
-      "titulo": "Veritá: Tarcísio tem 55,3% no 1º turno; Haddad, 37,8%",
-      "imagem": null
-    },
-    {
-      "titulo": "Veritá: Flávio registra 57,5% no 1º turno em RO; Lula, 25,3%",
-      "imagem": null
-    },
-    {
-      "titulo": "Com golaço de Bruno Guimarães, Arsenal vence Sunderland na Premier League",
-      "imagem": null
-    },
-    {
-      "titulo": "Datafolha: maioria dos eleitores aponta que crise no STF não muda voto",
-      "imagem": null
-    },
-    {
-      "titulo": "Veritá: Flávio teria 61% contra 26,7% de Lula em eventual 2º turno em RO",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-09-12T22:48:27.469Z"
+  "atualizadoEm": "2026-09-13T00:35:06.421Z"
 }
