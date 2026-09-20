@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Bessent e China devem se reunir por acordo de IA, comércio e minerais",
+      "imagem": null
+    },
+    {
+      "titulo": "CXMT: Nova plataforma de chips de memória entra em produção em massa",
+      "imagem": null
+    },
+    {
+      "titulo": "Ponte Preta x CRB: horário e onde assistir ao jogo da Série B",
+      "imagem": null
+    },
+    {
+      "titulo": "UFC: Birmânes vence brasileiro em revanche e mantém cinturão do peso-mosca",
+      "imagem": null
+    },
+    {
+      "titulo": "UFC 331: Armênio nocauteia brasileiro Maurício Ruffy em luta pelo peso-leve",
+      "imagem": null
+    },
+    {
+      "titulo": "Leverkusen x RB Leipzig: horário e onde assistir ao jogo da Bundesliga",
+      "imagem": null
+    },
+    {
+      "titulo": "Grêmio x Palmeiras: horário e onde assistir ao jogo do Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Atlético de Madrid x Real Madrid: horário e onde assistir ao jogo de LaLiga",
+      "imagem": null
+    },
+    {
+      "titulo": "Após vencer Arnold Ohio, Rayane Fogal mira título do Olympia: “Preparada”",
+      "imagem": null
+    },
+    {
+      "titulo": "Canela em casca pode ser grande aliada para a redução dos gases intestinais e cólicas",
+      "imagem": null
+    },
+    {
+      "titulo": "Em noite de protestos, São Paulo vence Internacional e afunda rival no Z-4",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasileirão: Vasco atropela Coritiba e põe Grêmio na zona de rebaixamento",
+      "imagem": null
+    },
+    {
+      "titulo": "Sardinha enlatada tem metais pesado como o mercúrio? Especialista explica propriedades e segurança no consumo desse alimento",
+      "imagem": null
+    },
+    {
+      "titulo": "Após polêmica, Ed Sheeran pede desculpas e diz estar de &#8220;coração partido&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Quem é Aroldo Félix, candidato ao governo da Bahia",
+      "imagem": null
+    },
+    {
+      "titulo": "Ancelotti convoca Vanderson, lateral do Monaco, para Data Fifa",
+      "imagem": null
+    },
+    {
+      "titulo": "Quem é Filipe Barros, candidato ao Senado pelo Paraná",
+      "imagem": null
+    },
+    {
+      "titulo": "Quem é Dr. Rosinha, candidato ao Senado pelo Paraná",
+      "imagem": null
+    },
+    {
+      "titulo": "Com Luisa Stefeni nas duplas, veja como ficaram as finais do SP Open",
+      "imagem": null
+    },
+    {
+      "titulo": "Quem é Samuel de Mattos, candidato ao governo do Paraná",
+      "imagem": null
+    },
+    {
+      "titulo": "CNN Talks debate estratégias para avanço do saneamento; veja como foi",
+      "imagem": null
+    },
+    {
       "titulo": "Quem é Alexandre Salomão, candidato ao governo do Paraná",
       "imagem": null
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Fed deve subir juros nos EUA novamente neste ano, diz economista",
       "imagem": null
-    },
-    {
-      "titulo": "Quem é Túlio Pfuetzenreiter, candidato ao Senado por Santa Catarina",
-      "imagem": null
-    },
-    {
-      "titulo": "Planetário que está em construção no Paraná permitirá &#8220;pinçar&#8221; Júpiter para perto da Terra em cúpula de projeção 3 vezes maior que tela IMAX",
-      "imagem": null
-    },
-    {
-      "titulo": "Americana vence Miss International Queen 2026; brasileira fica no top 12",
-      "imagem": null
-    },
-    {
-      "titulo": "São Paulo x Internacional: escalações e onde assistir ao jogo do Brasileiro",
-      "imagem": null
-    },
-    {
-      "titulo": "Beleza preventiva: estamos começando a cuidar da pele cedo demais?",
-      "imagem": null
-    },
-    {
-      "titulo": "Raquel mira abastecimento e João Campos promete 13º do Bolsa Família em PE",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem é Lunelli, candidato ao Senado por Santa Catarina",
-      "imagem": null
-    },
-    {
-      "titulo": "Vasco x Coritiba: escalações e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Saúde cardíaca: Especialistas alertam sinais e medidas ao Dr. Kalil",
-      "imagem": null
-    },
-    {
-      "titulo": "Celine Dion sai animada de show em Paris e canta em cima de carro; veja",
-      "imagem": null
-    },
-    {
-      "titulo": "Em estreia de Tite, Botafogo perde para o Mirassol no Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Qual chocolate é mais indicado para quem tem enxaqueca? Entenda o que muda entre as versões",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem é Carol, candidata ao Senado por Santa Catarina",
-      "imagem": null
-    },
-    {
-      "titulo": "São Paulo volta a vencer Flamengo e está na final do Brasileiro Feminino",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem é Marcos Dorval, candidato ao Senado por Santa Catarina",
-      "imagem": null
-    },
-    {
-      "titulo": "Centro Cultural SP terá maratona gratuita de filmes de terror em outubro",
-      "imagem": null
-    },
-    {
-      "titulo": "Time de Lampard conquista vitória histórica na Premier League após 25 anos",
-      "imagem": null
-    },
-    {
-      "titulo": "O Grande Debate: Lula ou Flávio tem mais fôlego para crescer?",
-      "imagem": null
-    },
-    {
-      "titulo": "Casal que usou filha para abusar de crianças é condenado a 400 anos, diz TJ",
-      "imagem": null
-    },
-    {
-      "titulo": "Salah marca hat-trick e comanda goleada do Trabzonspor sobre o Galatasaray",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem é Ralf Zimmer, candidato ao governo de Santa Catarina",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-09-20T01:08:34.778Z"
+  "atualizadoEm": "2026-09-20T06:14:33.714Z"
 }
