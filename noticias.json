@@ -1,7 +1,63 @@
 {
   "noticias": [
     {
-      "titulo": "Semana Nacional de Trânsito reúne serviços gratuitos de saúde, cidadania e mobilidade em Manaus; veja onde",
+      "titulo": "Entre Dois Mundos: por que a IA virou campo de batalha entre EUA e China",
+      "imagem": "https://s2-g1.glbimg.com/hpwXD10wD5MFHQDi-z3vBHwNkwI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/GO1i5xTSuqMxoOgwudAw/videoframe-4402227.png"
+    },
+    {
+      "titulo": "Pedalada, encontros e carreatas: veja como foi o dia dos candidatos ao governo do Ceará",
+      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
+    },
+    {
+      "titulo": "Pacientes com câncer são vítimas de esquema de falsificação de remédios e fraude em licitações",
+      "imagem": "https://s2-g1.glbimg.com/UjN6UxRRLng1lDKYAOQJ-Z8XIDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/l/AzUUOHTBqSbI64sdQBAQ/videoframe-3357461.png"
+    },
+    {
+      "titulo": "Confeiteira viraliza após fazer apelo nas redes sociais e vende todos os bolos em festival de doces",
+      "imagem": "https://s2-g1.glbimg.com/fsmVlZ81_EtnL4fPJHxcnRwR5tk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/m/oK7XGTRu2T5ypkAKbG5w/whatsapp-image-2026-09-20-at-16.49.42.jpeg"
+    },
+    {
+      "titulo": "Parece xampu, mas é cocaína: operação secreta rastreia carga do Brasil até Berlim",
+      "imagem": "https://s2-g1.glbimg.com/5vp9QlZt9JVxOubJoH9L6fv4vzI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/K/Vn2faWR3WmVEDA5gyJKg/videoframe-2230143.png"
+    },
+    {
+      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Piauí neste domingo (20)",
+      "imagem": "https://s2-g1.glbimg.com/AzIwyDuuyHzQTdI6bLiA2lZ0ZnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/7K89A2SPCgPNLUwXkiMg/edicao-imagens-g1-87-.png"
+    },
+    {
+      "titulo": "Namorado de estudante encontrada morta em prédio ainda não foi encontrado; celular da mãe dele é apreendido",
+      "imagem": "https://s2-g1.glbimg.com/UooZ5SzwtW5SmMA8wvxca5UB8vg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/e/eKLYABRBOQX7tk4dfO1w/aluna-e-achada-morta-no-patio-de-predio-do-namorado-2.jpg"
+    },
+    {
+      "titulo": "Santos ganha nova Vila Criativa com cursos, oficinas e atividades esportivas no Estuário",
+      "imagem": "https://s2-g1.glbimg.com/dx7HDt22PTjO3rybSkPOHBrP1sM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/m/0r635vS2WkikDjOHBQqw/vilacriativasantos.jpg"
+    },
+    {
+      "titulo": "Tripulação do Orion comemora quebra de recorde de 19 anos na Refeno",
+      "imagem": "https://s2-g1.glbimg.com/dXnuPXpUmnsE5j-WY2uk8cyuVhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/r/vw6fx2SgieHYwFzo838w/tripulacao-orion-2026.jpg"
+    },
+    {
+      "titulo": "Suspeito de assediar e agredir cunhada e menina de 11 anos fica ferido após vítima se defender com foice no PI",
+      "imagem": "https://s2-g1.glbimg.com/3IyWF-tGZuDcK8Vg2eAWzBEkJds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/d/DgtUihQbA2eIulpExmAw/edicao-imagens-g1-2026-09-20t195026.159.jpg"
+    },
+    {
+      "titulo": "Criança de 3 anos morre com suspeita de choque elétrico em MS",
+      "imagem": "https://s2-g1.glbimg.com/8Fu_Xfm1N2VcUXawTCxISy2U4fs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/W/3CjdDWS2a0sEJkTAbuFQ/canva-2026-08-13t092453.708.png"
+    },
+    {
+      "titulo": "Após 8 dias, bombeiros encontram corpo de homem que havia sido arrastado por correnteza em Jandira",
+      "imagem": "https://s2-g1.glbimg.com/5HqFIhV3J-y_OJ1QZDNdzB1NqJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/O/oTmm0bRe2CKMe0Xzg7Tw/bombeiro-3-.jpg"
+    },
+    {
+      "titulo": "Batida entre carro e picape deixa dois mortos na Rodovia do Açúcar em Elias Fausto",
+      "imagem": "https://s2-g1.glbimg.com/aIdRK86pM6urtw-YImtUnmjBgnc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/y/i/cQh4BXTbqRvVmA59MSZw/image008.jpg"
+    },
+    {
+      "titulo": "Dois homens morrem carbonizados após carro bater em poste, no Crato",
+      "imagem": "https://s2-g1.glbimg.com/3kadLDc8rN1wx0NxZdFJEwwFKsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/7/ts4UywTZA0ffE9Bd9TMQ/acidente-crato.jpg"
+    },
+    {
+      "titulo": "Semana Nacional de Trânsito 2026 reúne serviços gratuitos de saúde, cidadania e mobilidade em Manaus; veja onde",
       "imagem": "https://s2-g1.glbimg.com/A86ygjT21BNMZVZFMMn0TRhrTlA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/3/fM4yYOT9S6f7SK9DEg3g/abertura-da-semana-nacional-do-transito-ocorre-nesta-segunda-feira-em-manaus.jpg"
     },
     {
@@ -63,63 +119,7 @@
     {
       "titulo": "Prefeitura de Itumirim decreta luto após acidente com ônibus que matou romeiros em SP",
       "imagem": "https://s2-g1.glbimg.com/95Q-4yMQ-L5qfSlP2Vd_g8b3RnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/R/b9zVE0RCuGm3jyccXeqg/foto-g1.jpg"
-    },
-    {
-      "titulo": "Multas por embriaguez ao volante crescem 56% em Jundiaí",
-      "imagem": "https://s2-g1.glbimg.com/IZQYtJS9r4eLpbpc-b5ETJh4gls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/c/XSk9CiQp26PxYOidrSbg/whatsapp-image-2026-09-15-at-13.42.51.jpg"
-    },
-    {
-      "titulo": "Mulher morre e homem fica gravemente ferido após acidente de trânsito em Búzios",
-      "imagem": "https://s2-g1.glbimg.com/FDyxaDLkfDYRMSnpCly5eH4wTq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/S/LWPhcHTPuDkuQX1c75zw/1000872482-1-.jpg"
-    },
-    {
-      "titulo": "Prefeitura improvisa iluminação em rodoviária após furto de fios em Pirapozinho",
-      "imagem": "https://s2-g1.glbimg.com/TzSru2Aueo9GFSUanTosWfPR36I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/V/UPnXIWRx2Dv7oYIaDnAw/g1-2026-09-19t150545.878.png"
-    },
-    {
-      "titulo": "Idosa é atropelada enquanto varria calçada de casa e motorista foge sem prestar socorro",
-      "imagem": "https://s2-g1.glbimg.com/21ayYbze2f7HIIlY8A8_Z27pr88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/s/zDJnzvR8ybg0X7In6PAQ/acidente-siqueira-1-.jpg"
-    },
-    {
-      "titulo": "VÍDEO: lancha pega fogo no Lago Paranoá; quatro pessoas estão em estado grave",
-      "imagem": "https://s2-g1.glbimg.com/vSVdOv9hmIEVSof_1BPA638INAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/K/uBNA8XTQGAcNK8FJ9AFQ/3.jpg"
-    },
-    {
-      "titulo": "Bauru abre inscrições para cursos gratuitos de violão nesta segunda-feira",
-      "imagem": "https://s2-g1.glbimg.com/yS3d9sA7VVFlEHosTJhP3j-K-vA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/o/S5YjrcS3yLqopv4681OA/compositor-habilidoso-produzindo-e-gravando-uma-nova-faixa-na-guitarra.jpg"
-    },
-    {
-      "titulo": "Queridinha no lar dos brasileiros: especialista dá dicas de como cuidar de orquídeas em casa",
-      "imagem": "https://s2-g1.glbimg.com/SxmyMpe5BV2ZIOEkYZFp6rqNphg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/3/bsCbQtRz2Hpu2bATSHbQ/orquideas2.jpeg"
-    },
-    {
-      "titulo": "Cheia de rio alaga bairros e arrasta geladeira para fora de imóvel em Itapetininga; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/5VgmuwqKnWp4rxvcGZpQ54yhEFc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/F/frvA2WSumFWi3mbaosDw/whatsapp-image-2026-09-20-at-18.06.25-1-.jpeg"
-    },
-    {
-      "titulo": "Coroação da Rainha: Anitta é recebida com quadra lotada na Grande Rio",
-      "imagem": "https://s2-g1.glbimg.com/gWjWizBjdgCUBj3aM5vuxHqnfHU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/S/GIpZNKSdCO7pgrSLoSvA/whatsapp-image-2026-09-20-at-18.11.14.jpeg"
-    },
-    {
-      "titulo": "Procurado por roubo atinge casal de moto, foge sem prestar socorro e é preso após bater em árvore",
-      "imagem": "https://s2-g1.glbimg.com/tU8Ae3uA2tblKSXIL8w3ZncLW9s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/G/gbGRcTQsAgXJDbr6kLAw/vereador-1-.png"
-    },
-    {
-      "titulo": "Homem é preso suspeito de perseguir ex-companheira em Caroebe, no Sul de Roraima",
-      "imagem": "https://s2-g1.glbimg.com/dvA1ML3KZKTBVBka0sor0eOMG70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/J/PLR8mrTT2sjJu6NAVmtQ/pmcaroebe-.jpg"
-    },
-    {
-      "titulo": "Incêndio destrói depósito de supermercado em Feira de Santana",
-      "imagem": "https://s2-g1.glbimg.com/dyeDBcN5h_2V39SfOsjJVIYVgck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/g/vPPNpKRCaaPixGjOOQgA/incendiomercadofeira-redessociais.png"
-    },
-    {
-      "titulo": "Confusão a bordo: o que muda com as novas regras da Anac",
-      "imagem": "https://s2-g1.glbimg.com/7nLmHXTXxtYQ-J7M1Lais01liK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/b/V/wi6IRuRMaAXklm47gjMQ/ief-grande.jpg"
-    },
-    {
-      "titulo": "Primavera dos Museus reúne cinema, oficinas e exposições em Juiz de Fora e São João del Rei; veja programação",
-      "imagem": "https://s2-g1.glbimg.com/L4rWOjKyTloGCnu-HYRUnKYfS3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/yaq9GdQked7d2wm8KXgw/joao-victor-militani1.jpg"
     }
   ],
-  "atualizadoEm": "2026-09-20T22:35:33.245Z"
+  "atualizadoEm": "2026-09-21T00:29:58.492Z"
 }
