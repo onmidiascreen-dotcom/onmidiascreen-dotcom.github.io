@@ -1,11 +1,115 @@
 {
   "noticias": [
     {
+      "titulo": "Análise: Postagem de Messias sobre precatórios é instrumentalizada",
+      "imagem": null
+    },
+    {
+      "titulo": "Enquete &#8220;A Fazenda 18&#8221;: quem você quer salvar na 1ª Roça?",
+      "imagem": null
+    },
+    {
+      "titulo": "TRE-PR mantém candidatura de Deltan Dallagnol ao Senado",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;A Fazenda 18&#8221;: Darlin vence a Prova do Fazendeiro e define 1ª Roça",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula diz que vídeo de Porchat sobre Master &#8220;merece Oscar&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja como foi o último treino da Seleção antes de pegar a Austrália",
+      "imagem": null
+    },
+    {
+      "titulo": "Jovens relatam ataque homofóbico após festa universitária no RJ",
+      "imagem": null
+    },
+    {
+      "titulo": "Dupla do São Paulo passa por cirurgia no joelho; confira detalhes",
+      "imagem": null
+    },
+    {
+      "titulo": "Praia Clube apresenta time feminino de vôlei para a temporada 2026-27",
+      "imagem": null
+    },
+    {
+      "titulo": "RS entra em alerta para colapso de barragem e inundação de rios",
+      "imagem": null
+    },
+    {
+      "titulo": "Diretor desabafa após saída de Baptista: &#8220;Covardes abandonam o barco&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Queremos eleições livres no Brasil, diz porta-voz dos EUA à CNN Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Governo busca respaldo jurídico por MP com veto a bets e cassinos on-line",
+      "imagem": null
+    },
+    {
+      "titulo": "As 5 dicas mais populares para dormir melhor: especialistas em medicina do sono contam quais são mito, e quais realmente vão transformar suas noites",
+      "imagem": null
+    },
+    {
+      "titulo": "Centro-Sul vai colher safra recorde de 662 milhões de toneladas em 2027/28",
+      "imagem": null
+    },
+    {
+      "titulo": "Filipe Bragança e Ramille terminam namoro após 5 meses",
+      "imagem": null
+    },
+    {
+      "titulo": "Arnaud Denis: por que a eutanásia é proibida no Brasil? Entenda método e a diferença da morte assistida",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Deterioração financeira pesará nos votos",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula volta a criticar Trump: &#8220;Fala como se estivesse ameaçando&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Terei imenso prazer em acabar com bets e regular redes, diz Lula",
+      "imagem": null
+    },
+    {
+      "titulo": "Eleitor desaprova Lula, mas não vê segurança na oposição, diz especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "Governo vê acordo do Escudo das Américas como &#8220;porta&#8221; para militarização",
+      "imagem": null
+    },
+    {
+      "titulo": "Zema acena a Flávio no 2º turno, e Caiado defende união sul-americana",
+      "imagem": null
+    },
+    {
+      "titulo": "IA muda forma como as pessoas escolhem o que comer, sugere nova pesquisa",
+      "imagem": null
+    },
+    {
+      "titulo": "Waack: Eleições aumentam a politização do Supremo",
+      "imagem": null
+    },
+    {
       "titulo": "Alison dos Santos bate novo recorde e leva o ouro nos Jogos Sul-Americanos",
       "imagem": null
     },
     {
       "titulo": "Meta afirma que seu agente de IA pode fazer coisas por você. Eu testei",
+      "imagem": null
+    },
+    {
+      "titulo": "Austrália x Brasil: horário e onde assistir ao amistoso da Seleção",
       "imagem": null
     },
     {
@@ -15,111 +119,7 @@
     {
       "titulo": "Messias usa decisão sobre precatórios do Master para atacar Flávio",
       "imagem": null
-    },
-    {
-      "titulo": "Por que não conseguimos voar? Capas de herói e braços abertos não funcionam: como ensinar limites corporais às crianças por meio da gravidade",
-      "imagem": null
-    },
-    {
-      "titulo": "Cooxupé e JDE Peet’s miram sucessão no café com 700 jovens produtores",
-      "imagem": null
-    },
-    {
-      "titulo": "BC anuncia rolagem de swaps cambiais com vencimento em novembro",
-      "imagem": null
-    },
-    {
-      "titulo": "SoftBank emite US$ 11,1 bi em títulos para financiar a OpenAI",
-      "imagem": null
-    },
-    {
-      "titulo": "Espanha elimina Cazaquistão e avança na Billie Jean King Cup",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Se Jorge Jesus não contar comigo, posso sair hoje&#8221;, diz Cristiano Ronaldo",
-      "imagem": null
-    },
-    {
-      "titulo": "Polícia procura suspeito que matou comerciante em assalto em Osasco",
-      "imagem": null
-    },
-    {
-      "titulo": "Associação pede modernização da logística expressa aos presidenciáveis",
-      "imagem": null
-    },
-    {
-      "titulo": "Oruam tira tornozeleira eletrônica em vídeo após habeas corpus",
-      "imagem": null
-    },
-    {
-      "titulo": "Delcy exalta acordo de petróleo com EUA e cita segurança energética global",
-      "imagem": null
-    },
-    {
-      "titulo": "Após perder Eduardo Baptista, Criciúma anuncia técnico &#8220;por empréstimo&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "SP: Homem é preso por tentativa de feminicídio após filho acionar a PM",
-      "imagem": null
-    },
-    {
-      "titulo": "Combate ao estresse: quando a tensão do dia a dia começa a afetar a saúde?",
-      "imagem": null
-    },
-    {
-      "titulo": "Proud Boys: o que é o grupo que motivou cancelamento de turnê de cantor no Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "FAB localiza &#8216;caixa-preta&#8217; de helicóptero que caiu com Rick em SC",
-      "imagem": null
-    },
-    {
-      "titulo": "Juro alto terá de ser enfrentado pelo próximo governo, diz Mercadante",
-      "imagem": null
-    },
-    {
-      "titulo": "MPSP investiga denúncia de espaço inapto para ursos do Zoo de Sorocaba",
-      "imagem": null
-    },
-    {
-      "titulo": "Flamengo e Jardim são punidos pela Conmebol após jogo com o Del Valle",
-      "imagem": null
-    },
-    {
-      "titulo": "Harry Kane na NFL? Atacante inglês cogita virar kicker no fim da carreira",
-      "imagem": null
-    },
-    {
-      "titulo": "Globo anuncia &#8220;Roque Santeiro&#8221; como próxima novela do Edição Especial",
-      "imagem": null
-    },
-    {
-      "titulo": "Hayley Williams presta homenagem ao ex-marido, Chad Gilbert, após morte",
-      "imagem": null
-    },
-    {
-      "titulo": "Menina de 6 anos resolveu o problema do cubo mágico em 4,27 segundos e estabeleceu novo recorde mundial; veja o vídeo",
-      "imagem": null
-    },
-    {
-      "titulo": "Trump planeja grande recepção para Xi em meio à discussão sobre trégua",
-      "imagem": null
-    },
-    {
-      "titulo": "IA não é sobre tecnologia, é transformação, diz executivo do Google Cloud",
-      "imagem": null
-    },
-    {
-      "titulo": "Celulares e cortes de cabelo: as quatro novas regras de Klopp na Alemanha",
-      "imagem": null
-    },
-    {
-      "titulo": "Vittia aprova R$ 13,25 milhões em juros sobre capital próprio",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-09-24T01:07:35.029Z"
+  "atualizadoEm": "2026-09-24T06:09:59.518Z"
 }
