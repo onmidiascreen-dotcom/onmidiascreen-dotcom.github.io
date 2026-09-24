@@ -166,7 +166,11 @@
   .plan.best{border-color:var(--blue);box-shadow:0 22px 50px rgba(31,122,224,.16)}
   .plan .badge{position:absolute;top:-13px;left:28px;background:var(--blue);color:#fff;font-size:.72rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:5px 12px;border-radius:999px}
   .plan .pt{font-size:1.3rem;font-weight:800;color:var(--ink)}
+  .plan .price{font-size:2.6rem;font-weight:900;color:var(--ink);line-height:1.1;margin-top:.6rem;letter-spacing:-.02em}
+  .plan .price small{font-size:1rem;font-weight:600;color:var(--dim);letter-spacing:0;margin-left:.2rem}
   .plan .pp{color:var(--dim);font-size:.92rem;margin-top:.15rem}
+  .plan.best .pp{color:var(--blue);font-weight:700}
+  .plans-note{text-align:center;color:var(--dim);font-size:.95rem;margin-top:26px}
   .plan ul{list-style:none;margin:20px 0 24px;display:flex;flex-direction:column;gap:11px}
   .plan ul li{display:flex;gap:.6rem;align-items:flex-start;color:var(--ink);font-size:1rem}
   .plan ul li::before{content:"✓";color:var(--blue);font-weight:900;flex:none}
@@ -327,7 +331,7 @@
 <!-- NÚMEROS -->
 <section class="stats">
   <div class="wrap g">
-    <div class="stcard"><div class="n">420</div><div class="l">inserções por dia em cada tela</div></div>
+    <div class="stcard"><div class="n">+280</div><div class="l">exibições da sua marca por dia em cada tela</div></div>
     <div class="stcard"><div class="n">30–40s</div><div class="l">de atenção por viagem</div></div>
     <div class="stcard"><div class="n">100%</div><div class="l">funciona mesmo sem internet</div></div>
     <div class="stcard"><div class="n">Tempo real</div><div class="l">atualização remota do conteúdo</div></div>
@@ -399,7 +403,7 @@
           <div class="spec"><span class="si">🎬</span><div><b>Vídeo MP4</b><span>sem áudio</span></div></div>
           <div class="spec"><span class="si">⏱️</span><div><b>Até 15 segundos</b><span>por anúncio</span></div></div>
           <div class="spec"><span class="si">✍️</span><div><b>Até 200 caracteres</b><span>para melhor leitura</span></div></div>
-          <div class="spec"><span class="si">🔁</span><div><b>420 inserções/dia</b><span>em cada tela</span></div></div>
+          <div class="spec"><span class="si">🔁</span><div><b>+280 exibições/dia</b><span>em cada tela</span></div></div>
         </div>
       </div>
       <div class="device-wrap" style="margin-top:6px">
@@ -416,33 +420,37 @@
   </div>
 </section>
 
-<!-- PLANOS (sem valores) -->
+<!-- PLANOS (preço por prédio: R$ 70 o 1º, R$ 65 cada prédio a mais) -->
 <section class="band" id="planos">
   <div class="wrap reveal">
     <div class="eyebrow">Planos</div>
-    <h2>Escolha o ritmo da sua <span class="blue">presença</span></h2>
-    <p class="lead">Quanto mais tempo no ar, mais barato fica e mais a sua marca é lembrada. Os valores a gente passa na hora, sob medida pra você.</p>
+    <h2>Preço simples, <span class="blue">sem surpresa</span></h2>
+    <p class="lead">Um valor fixo por mês. Quanto mais prédios, mais barato fica cada um.</p>
     <div class="plans">
       <div class="plan">
-        <div class="pt">Mensal</div>
-        <div class="pp">Ideal para campanhas promocionais</div>
-        <ul><li>Mais de 12.000 exibições no mês</li><li>Flexível, mês a mês</li><li>Comece rápido</li></ul>
-        <a class="btn btn-out" href="https://wa.me/5543988741575?text=Quero%20o%20plano%20MENSAL%20da%20OnScreen." target="_blank" rel="noopener">Pedir proposta</a>
-      </div>
-      <div class="plan best">
-        <span class="badge">Mais escolhido</span>
-        <div class="pt">Semestral</div>
-        <div class="pp">6 meses de destaque</div>
-        <ul><li>Destaque com maior frequência</li><li>Mais de 70.000 exibições</li><li>Mais econômico que o mensal</li></ul>
-        <a class="btn btn-blue" href="https://wa.me/5543988741575?text=Quero%20o%20plano%20SEMESTRAL%20da%20OnScreen." target="_blank" rel="noopener">Pedir proposta</a>
+        <div class="pt">1 prédio</div>
+        <div class="price">R$ 70<small>/mês</small></div>
+        <div class="pp">Ideal para começar</div>
+        <ul><li>Mais de 8.000 exibições por mês em cada tela</li><li>Sua marca a cada 5 minutos, 24h por dia</li><li>Troca de anúncio quando quiser</li></ul>
+        <a class="btn btn-out" href="https://wa.me/5543988741575?text=Quero%20o%20plano%20de%201%20pr%C3%A9dio%20da%20OnScreen%20(R%24%2070%2Fm%C3%AAs)." target="_blank" rel="noopener">Quero este plano</a>
       </div>
       <div class="plan">
-        <div class="pt">Anual</div>
-        <div class="pp">12 meses · melhor custo</div>
-        <ul><li>Maior lembrança de marca</li><li>Mais de 160 mil exibições no ano</li><li>Melhor custo por exibição</li></ul>
-        <a class="btn btn-out" href="https://wa.me/5543988741575?text=Quero%20o%20plano%20ANUAL%20da%20OnScreen." target="_blank" rel="noopener">Pedir proposta</a>
+        <div class="pt">2 prédios</div>
+        <div class="price">R$ 135<small>/mês</small></div>
+        <div class="pp">Sai R$ 67,50 por prédio</div>
+        <ul><li>Tudo do plano de 1 prédio</li><li>Sua marca em 2 prédios ao mesmo tempo</li><li>Mais moradores vendo você todo dia</li></ul>
+        <a class="btn btn-out" href="https://wa.me/5543988741575?text=Quero%20o%20plano%20de%202%20pr%C3%A9dios%20da%20OnScreen%20(R%24%20135%2Fm%C3%AAs)." target="_blank" rel="noopener">Quero este plano</a>
+      </div>
+      <div class="plan best">
+        <span class="badge">Mais vantajoso</span>
+        <div class="pt">3 prédios</div>
+        <div class="price">R$ 200<small>/mês</small></div>
+        <div class="pp">Sai R$ 66,67 por prédio</div>
+        <ul><li>Tudo do plano de 1 prédio</li><li>Sua marca em 3 prédios ao mesmo tempo</li><li>Menor preço por prédio</li></ul>
+        <a class="btn btn-blue" href="https://wa.me/5543988741575?text=Quero%20o%20plano%20de%203%20pr%C3%A9dios%20da%20OnScreen%20(R%24%20200%2Fm%C3%AAs)." target="_blank" rel="noopener">Quero este plano</a>
       </div>
     </div>
+    <p class="plans-note">Vagas limitadas: até 20 anunciantes por prédio.</p>
   </div>
 </section>
 
