@@ -170,7 +170,10 @@
   .plan .price small{font-size:1rem;font-weight:600;color:var(--dim);letter-spacing:0;margin-left:.2rem}
   .plan .pp{color:var(--dim);font-size:.92rem;margin-top:.15rem}
   .plan.best .pp{color:var(--blue);font-weight:700}
-  .plans-note{text-align:center;color:var(--dim);font-size:.95rem;margin-top:26px}
+  .plans.solo{grid-template-columns:minmax(0,440px);justify-content:center}
+  .plans-next{max-width:440px;margin:22px auto 0;text-align:center;background:#eaf2fd;color:var(--ink);border-radius:14px;padding:14px 18px;font-size:.98rem}
+  .plans-next b{color:var(--blue)}
+  .plans-note{text-align:center;color:var(--dim);font-size:.95rem;margin-top:18px}
   .plan ul{list-style:none;margin:20px 0 24px;display:flex;flex-direction:column;gap:11px}
   .plan ul li{display:flex;gap:.6rem;align-items:flex-start;color:var(--ink);font-size:1rem}
   .plan ul li::before{content:"✓";color:var(--blue);font-weight:900;flex:none}
@@ -425,31 +428,20 @@
   <div class="wrap reveal">
     <div class="eyebrow">Planos</div>
     <h2>Preço simples, <span class="blue">sem surpresa</span></h2>
-    <p class="lead">Um valor fixo por mês. Quanto mais prédios, mais barato fica cada um.</p>
-    <div class="plans">
-      <div class="plan">
-        <div class="pt">1 prédio</div>
-        <div class="price">R$ 70<small>/mês</small></div>
-        <div class="pp">Ideal para começar</div>
-        <ul><li>Mais de 8.000 exibições por mês em cada tela</li><li>Sua marca a cada 5 minutos, 24h por dia</li><li>Troca de anúncio quando quiser</li></ul>
-        <a class="btn btn-out" href="https://wa.me/5543988741575?text=Quero%20o%20plano%20de%201%20pr%C3%A9dio%20da%20OnScreen%20(R%24%2070%2Fm%C3%AAs)." target="_blank" rel="noopener">Quero este plano</a>
-      </div>
-      <div class="plan">
-        <div class="pt">2 prédios</div>
-        <div class="price">R$ 135<small>/mês</small></div>
-        <div class="pp">Sai R$ 67,50 por prédio</div>
-        <ul><li>Tudo do plano de 1 prédio</li><li>Sua marca em 2 prédios ao mesmo tempo</li><li>Mais moradores vendo você todo dia</li></ul>
-        <a class="btn btn-out" href="https://wa.me/5543988741575?text=Quero%20o%20plano%20de%202%20pr%C3%A9dios%20da%20OnScreen%20(R%24%20135%2Fm%C3%AAs)." target="_blank" rel="noopener">Quero este plano</a>
-      </div>
+    <p class="lead">Um valor fixo por mês, sem letra miúda.</p>
+    <!-- Hoje só há 1 prédio instalado. Quando houver mais, voltar aos 3 cartões
+         (1 = R$ 70, 2 = R$ 135, 3 = R$ 200) — estão no commit ff2d7d1. -->
+    <div class="plans solo">
       <div class="plan best">
-        <span class="badge">Mais vantajoso</span>
-        <div class="pt">3 prédios</div>
-        <div class="price">R$ 200<small>/mês</small></div>
-        <div class="pp">Sai R$ 66,67 por prédio</div>
-        <ul><li>Tudo do plano de 1 prédio</li><li>Sua marca em 3 prédios ao mesmo tempo</li><li>Menor preço por prédio</li></ul>
-        <a class="btn btn-blue" href="https://wa.me/5543988741575?text=Quero%20o%20plano%20de%203%20pr%C3%A9dios%20da%20OnScreen%20(R%24%20200%2Fm%C3%AAs)." target="_blank" rel="noopener">Quero este plano</a>
+        <span class="badge">Vagas abertas</span>
+        <div class="pt">Anuncie no elevador</div>
+        <div class="price">R$ 70<small>/mês</small></div>
+        <div class="pp">por prédio</div>
+        <ul><li>Mais de 8.000 exibições por mês em cada tela</li><li>Sua marca a cada 5 minutos, 24h por dia</li><li>Troca de anúncio quando quiser</li></ul>
+        <a class="btn btn-blue" href="https://wa.me/5543988741575?text=Quero%20anunciar%20na%20OnScreen%20(R%24%2070%2Fm%C3%AAs)." target="_blank" rel="noopener">Quero anunciar</a>
       </div>
     </div>
+    <p class="plans-next">🏢 <b>Mais prédios em breve.</b> Anunciando em mais de um, a partir do 2º cada prédio sai por <b>R$ 65/mês</b>.</p>
     <p class="plans-note">Vagas limitadas: até 20 anunciantes por prédio.</p>
   </div>
 </section>
