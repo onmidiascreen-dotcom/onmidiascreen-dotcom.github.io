@@ -602,7 +602,7 @@
             (a.url ? '<video src="' + a.url + '" muted playsinline style="max-height:150px;border:1px solid var(--line);border-radius:8px" controls></video>' : '<span style="color:var(--ink-dim)">Nenhum vídeo</span>') +
             '<button class="up">Escolher vídeo</button><input type="file" accept="video/*">' +
           '</div>' +
-          '<p style="font-size:.8rem;color:var(--ink-dim);margin-top:8px">Dica: vídeo <b>quadrado 1080 × 1080 px</b> (no Canva: Tamanho personalizado), até 15 segundos, MP4. O som fica desligado na tela.</p>';
+          '<p style="font-size:.8rem;color:var(--ink-dim);margin-top:8px">Dica: vídeo <b>quadrado 1080 × 1080 px</b> (no Canva: Tamanho personalizado), até 12 segundos, MP4. O som fica desligado na tela.</p>';
         const inp = corpo.querySelector('input[type=file]');
         corpo.querySelector('.up').addEventListener('click', () => inp.click());
         inp.addEventListener('change', () => enviarVideo(inp.files[0], 'anuncios', (url) => { if (a.url && a.url !== url) agendarApagar(a.url); a.url = url; desenhar(); marcarMudou(); }));
