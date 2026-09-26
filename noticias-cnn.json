@@ -1,6 +1,106 @@
 {
   "noticias": [
     {
+      "titulo": "Dia Nacional do Surdo: garantia de ensino em Libras e português escrito",
+      "imagem": null
+    },
+    {
+      "titulo": "Lua cheia deste sábado ajuda a localizar Saturno a olho nu",
+      "imagem": null
+    },
+    {
+      "titulo": "Onda de calor começa hoje e tem duração de 5 dias; veja áreas afetadas",
+      "imagem": null
+    },
+    {
+      "titulo": "Prótese de joelho com robô: o que realmente mudou na cirurgia",
+      "imagem": null
+    },
+    {
+      "titulo": "A conversa secreta entre o seu cérebro e o seu intestino",
+      "imagem": null
+    },
+    {
+      "titulo": "Truque com vinagre e saco de lixo remove a poeira do ventilador sem precisar desmontá-lo; saiba como fazer",
+      "imagem": null
+    },
+    {
+      "titulo": "Entenda como a proibição de bets afeta o planejamento do futebol brasileiro",
+      "imagem": null
+    },
+    {
+      "titulo": "Ramon Dino perde título da Classic e fica em terceiro no Mr. Olympia",
+      "imagem": null
+    },
+    {
+      "titulo": "Eduarda Bezerra mantém favoritismo e é bicampeã da Wellness no Mr. Olympia",
+      "imagem": null
+    },
+    {
+      "titulo": "Mr. Olympia: Derek Lunsford e Nick Walker lideram prévias da Open",
+      "imagem": null
+    },
+    {
+      "titulo": "Eslovênia x Escócia: horário e onde assistir ao jogo da Nations League",
+      "imagem": null
+    },
+    {
+      "titulo": "Andrea Shaw vence Women&#8217;s Bodybuilding e é heptacampeã do Mr. Olympia",
+      "imagem": null
+    },
+    {
+      "titulo": "Quaest: Riedel vai a 51% e lidera disputa pelo governo de MS",
+      "imagem": null
+    },
+    {
+      "titulo": "STF condena Eduardo a pagar R$ 80 mil por difamação contra Tabata",
+      "imagem": null
+    },
+    {
+      "titulo": "Mr. Olympia 2026: Keone Pearson domina e conquista tetra na 212",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula fala a empresários sobre conciliar responsabilidade social e fiscal",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasil terá &#8216;biblioteca digital&#8217; de anúncios para frear golpes digitais",
+      "imagem": null
+    },
+    {
+      "titulo": "Mr. Olympia 2026: canadense Lola Montez vence categoria Figure",
+      "imagem": null
+    },
+    {
+      "titulo": "Por que o sorvete dá a sensação de que o cérebro está &#8220;congelando&#8221;? Entenda o que acontece",
+      "imagem": null
+    },
+    {
+      "titulo": "Se vocês tivessem em dúvida entre mim e um gênio, mas não é isso, diz Lula",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja entrevista exclusiva com o presidente do Fluminense sobre fim das bets",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula diz a empresários que eleição não é jogo de truco para blefar",
+      "imagem": null
+    },
+    {
+      "titulo": "Natalia Coelho vence Women&#8217;s Physique e é tri-campeã do Mr. Olympia",
+      "imagem": null
+    },
+    {
+      "titulo": "Quaest: Allysson lidera cenários de 1º e 2º turnos ao governo do RN",
+      "imagem": null
+    },
+    {
+      "titulo": "Presidente do Fluminense calcula prejuízo sem bet: &#8220;Mais de R$ 100 milhões&#8221;",
+      "imagem": null
+    },
+    {
       "titulo": "Quaest: Eduardo Braide tem 46% para o governo do MA; Orleans Brandão, 27%",
       "imagem": null
     },
@@ -13,113 +113,13 @@
       "imagem": null
     },
     {
-      "titulo": "Mr. Olympia 2026: com Ramon Dino no palco, acompanhe ao vivo as finais",
+      "titulo": "Mr. Olympia 2026: veja como foram as finais da competição",
       "imagem": null
     },
     {
       "titulo": "Mr. Olympia: Após prévias, Niall Darwen diz acreditar em título da Classic",
       "imagem": null
-    },
-    {
-      "titulo": "Netflix anuncia novo documentário &#8220;Jão: Memórias Póstumas&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: Bets vão à justiça contra proibição e miram futebol",
-      "imagem": null
-    },
-    {
-      "titulo": "Bets: Sensação de que &#8220;tudo pode acontecer&#8221; afasta investidores, diz ex-BC",
-      "imagem": null
-    },
-    {
-      "titulo": "Presley Gerber tem o corpo cremado e caso continua sob investigação",
-      "imagem": null
-    },
-    {
-      "titulo": "Cachorro esperou dono por mais de 10 anos em estação de trem do Japão; relembre história que inspirou filme com Richard Gere",
-      "imagem": null
-    },
-    {
-      "titulo": "Desenrola Fies 2026 renegocia R$ 7,39 bilhões em dívidas, afirma MEC",
-      "imagem": null
-    },
-    {
-      "titulo": "Stephen Curry: astro da NBA revela doença que afeta sua visão",
-      "imagem": null
-    },
-    {
-      "titulo": "Mr. Olympia: Eduarda Bezerra entra bem e se destaca nas prévias da Wellness",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem é Niall Darwen, um dos adversários de Ramon Dino no Mr. Olympia 2026",
-      "imagem": null
-    },
-    {
-      "titulo": "Entenda como vai funcionar a proibição das bets no Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Espécie rara de tartarugas marinhas tem viajado oceanos e estão sendo avistadas em novas praias",
-      "imagem": null
-    },
-    {
-      "titulo": "Vox Radar: Boato de padroeira tem impacto moderado em campanha de Flávio",
-      "imagem": null
-    },
-    {
-      "titulo": "Suspeito de furto de carro na Vila Mariana é preso pela PM em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Rompimento da barragem é descartado por empresa, apesar de alerta no RS",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula faz piada com Palmeiras ao citar clubes campeões mundiais sem bets",
-      "imagem": null
-    },
-    {
-      "titulo": "MP denuncia sete policiais por agressões no Carnaval de Salvador",
-      "imagem": null
-    },
-    {
-      "titulo": "Cruzeiro avança por Paulinho, mas esbarra em obstáculo e avalia cenário",
-      "imagem": null
-    },
-    {
-      "titulo": "AtlasIntel: Helder lidera corrida ao Senado pelo PA; 2ª vaga é indefinida",
-      "imagem": null
-    },
-    {
-      "titulo": "Cedro obtém licenças para investir R$ 3,5 bi em expansão de mina em Mariana",
-      "imagem": null
-    },
-    {
-      "titulo": "Radar CNN: competição entre IAs derruba preços de modelos avançados",
-      "imagem": null
-    },
-    {
-      "titulo": "SLC Agrícola inicia oferta de CPR-F de R$ 515,5 milhões",
-      "imagem": null
-    },
-    {
-      "titulo": "MBRF conclui emissão de R$ 825 milhões em debêntures",
-      "imagem": null
-    },
-    {
-      "titulo": "AtlasIntel: Hana tem 50,2% no 2º turno ao governo do Pará; Daniel, 45,4%",
-      "imagem": null
-    },
-    {
-      "titulo": "E agora? Grêmio fechou patrocínio com casa de apostas essa semana",
-      "imagem": null
-    },
-    {
-      "titulo": "Grupo Pereira compra 21 lojas do Carrefour e estreia em SP com Comper",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-09-26T01:50:37.609Z"
+  "atualizadoEm": "2026-09-26T07:01:28.865Z"
 }
