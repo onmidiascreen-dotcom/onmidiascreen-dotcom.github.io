@@ -1,6 +1,106 @@
 {
   "noticias": [
     {
+      "titulo": "Crianças são resgatadas e reanimadas após se afogarem em lagoa na Grande BH",
+      "imagem": null
+    },
+    {
+      "titulo": "NFL no RJ: Ricky Martin tenta sambar e apresenta música com Pedro Sampaio",
+      "imagem": null
+    },
+    {
+      "titulo": "São Paulo instala sexta máquina gratuita de PrEP e PEP no Metrô",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio decide participar de debate mesmo sem a presença de Lula",
+      "imagem": null
+    },
+    {
+      "titulo": "Grécia surpreende e vence a Alemanha pela primeira vez na Nations League",
+      "imagem": null
+    },
+    {
+      "titulo": "Portugal vence Noruega pela Nations League e Jorge Jesus segue com 100%",
+      "imagem": null
+    },
+    {
+      "titulo": "Virginia resgata tendência fashion e usa corset de tênis em jogo da NFL",
+      "imagem": null
+    },
+    {
+      "titulo": "Vídeo: homem é baleado após reagir a assalto em Franca, no interior de SP",
+      "imagem": null
+    },
+    {
+      "titulo": "“Amanhã eu começo”: por que tantos planos de mudança de vida surgem antes de dormir?",
+      "imagem": null
+    },
+    {
+      "titulo": "APS firma acordo para encerrar disputa sobre tarifa de acesso a Santos",
+      "imagem": null
+    },
+    {
+      "titulo": "Homem é baleado na cabeça durante tentativa de assalto no Brooklin, em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Jade Picon abre o jogo sobre voltar para o BBB como Veterana: &#8220;Medo&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Tamanho das camas vira motivo de reclamações nos Jogos Asiáticos",
+      "imagem": null
+    },
+    {
+      "titulo": "Dino usurpa competência do TSE para liberar mentira, diz campanha de Flávio",
+      "imagem": null
+    },
+    {
+      "titulo": "Justiça Eleitoral de Alagoas manda restabelecer Instagram de Renan Filho",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula chama fundo eleitoral de “promiscuidade” e defende reforma política",
+      "imagem": null
+    },
+    {
+      "titulo": "Rogério Marinho diz que Dino atropela Justiça Eleitoral para favorecer Lula",
+      "imagem": null
+    },
+    {
+      "titulo": "Virginia, Biancardi e mais famosos vão ao 1º jogo da NFL no RJ; confira",
+      "imagem": null
+    },
+    {
+      "titulo": "Pentacampeão Cafu é homenageado antes do NFL Rio Game",
+      "imagem": null
+    },
+    {
+      "titulo": "Dono do Dallas Cowboys atende fãs antes de jogo da NFL no Maracanã",
+      "imagem": null
+    },
+    {
+      "titulo": "Isabelle Nogueira relata perrengue com vulcão na Itália: &#8220;Grande loucura&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Perdi minha paz&#8221;: o desabafo do goleiro Vozinha após o estrelato na Copa",
+      "imagem": null
+    },
+    {
+      "titulo": "Tênis: Zverev vence e garante Laver Cup ao Time Europa",
+      "imagem": null
+    },
+    {
+      "titulo": "O que considerar na hora de escolher pneus? Veja 6 itens para checar",
+      "imagem": null
+    },
+    {
+      "titulo": "Fatal Model oferta mais de R$ 100 milhões para Corinthians e Flamengo",
+      "imagem": null
+    },
+    {
       "titulo": "A gigantesca Starship da SpaceX finalmente entrará em órbita — e os efeitos poderão ser sísmicos",
       "imagem": null
     },
@@ -19,107 +119,7 @@
     {
       "titulo": "Simone Mendes cai em show após receber abraço de fã mirim; assista",
       "imagem": null
-    },
-    {
-      "titulo": "Holanda vence Sérvia e assume liderança do grupo na Nations League",
-      "imagem": null
-    },
-    {
-      "titulo": "Temporal escurece manhã e locais registram chuva forte no RS; veja previsão",
-      "imagem": null
-    },
-    {
-      "titulo": "Grave acidente em MG deixa um morto e mais quatro pessoas feridas",
-      "imagem": null
-    },
-    {
-      "titulo": "Alemanha x Grécia: escalações e onde assistir ao jogo da Nations League",
-      "imagem": null
-    },
-    {
-      "titulo": "Bill Gates defende &#8220;proteção&#8221; contra IA e diz que autorregulação não basta",
-      "imagem": null
-    },
-    {
-      "titulo": "Avaí demite Allan Aal após derrota para o Criciúma na Série B",
-      "imagem": null
-    },
-    {
-      "titulo": "Japonês caminha pela floresta e se depara com árvores danificadas por ursos; ele tem uma ideia criativa e transforma as cicatrizes em uma verdadeira mina de ouro",
-      "imagem": null
-    },
-    {
-      "titulo": "Toffoli manda retirar Federação PSDB-Cidadania da coligação de Raquel Lyra",
-      "imagem": null
-    },
-    {
-      "titulo": "Fim das bets não se converteu em apoio a Lula, diz AP Exata",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasileiros vão ao desfile da Philipp Plein na Semana de Moda de Milão",
-      "imagem": null
-    },
-    {
-      "titulo": "Noruega x Portugal: escalações e onde assistir ao jogo da Nations League",
-      "imagem": null
-    },
-    {
-      "titulo": "Águas europeias registraram os meses de verão mais quentes desde que os sensores de satélite começaram a fornecer dados; pesca é severamente ameaçada",
-      "imagem": null
-    },
-    {
-      "titulo": "Após 4.300 anos, montanha de 157 metros na Turquia pode revelar paradeiro da Arca de Noé",
-      "imagem": null
-    },
-    {
-      "titulo": "Mr. Olympia 2026 distribui mais de R$ 10 milhões em prêmios; veja valores",
-      "imagem": null
-    },
-    {
-      "titulo": "Shawn Mendes diz que está &#8220;construindo uma vida&#8221; com Bruna Marquezine",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Amadureci muito rápido&#8221;, afirma Lili Reinhart sobre trajetória como atriz",
-      "imagem": null
-    },
-    {
-      "titulo": "CRB x Cuiabá: horário e onde assistir ao jogo da Série B do Brasileiro",
-      "imagem": null
-    },
-    {
-      "titulo": "O que se sabe sobre oficial da Marinha encontrada morta em alojamento de SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Nick Walker: a história por trás do campeão do Mr. Olympia 2026",
-      "imagem": null
-    },
-    {
-      "titulo": "Dino derruba decisão de Mendonça e libera postagem sobre Nossa Senhora",
-      "imagem": null
-    },
-    {
-      "titulo": "Casamento de filho de Moraes fecha ruas em SP e empresário relata conflito",
-      "imagem": null
-    },
-    {
-      "titulo": "Rihanna mostra fotos raras da filha caçula: &#8220;Um ano já passou&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Ancelotti esboça time com Otávio titular no gol da Seleção Brasileira",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Quem Ama Cuida&#8221;: Ademir terá nova paixão por personagem inesperada",
-      "imagem": null
-    },
-    {
-      "titulo": "Avanço da IA exige atenção à forma como ela é utilizada, diz especialista",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-09-27T19:18:49.600Z"
+  "atualizadoEm": "2026-09-27T22:26:02.372Z"
 }
