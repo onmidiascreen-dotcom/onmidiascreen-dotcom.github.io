@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "'Boss do tráfico': como roubo de celular de criminoso ajudou polícia a descobrir rede ligada ao Comando Vermelho",
+      "imagem": "https://s2-g1.glbimg.com/b95fY_1qt-63g9Aa5JQcGraALVc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/l/jT1RJaQ6WMy7b2Em1QCA/boss-laercio.png"
+    },
+    {
+      "titulo": "Centro Cultura Musical é invadido em Campos; câmeras flagram ação e suspeito é preso",
+      "imagem": "https://s2-g1.glbimg.com/wc0jKyhgc5pHcSLmtLXxeVo4EeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/f/zqiJl5TOqipDplyT9Ztw/invasao-escola-de-musica-em-campos-foi-flagrada-por-cameras-de-seguranca-da-instituicao.jpg"
+    },
+    {
+      "titulo": "Candidato a deputado federal é preso por dano ao patrimônio após pintar muro da UnB; VÍDEO mostra discussão",
+      "imagem": "https://s2-g1.glbimg.com/c4BzFGrmFfGYViNfz7mBX0BQmnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/o/1gSFkiSyuzJ373uB5JLQ/imagem-g1-45-.jpg"
+    },
+    {
+      "titulo": "Traficantes usam leilões de cavalo e agenciamento de shows de forró para lavar dinheiro",
+      "imagem": null
+    },
+    {
+      "titulo": "Anel colorido ao redor do Sol chama atenção no interior do Tocantins; entenda o fenômeno",
+      "imagem": "https://s2-g1.glbimg.com/UVUYAYZssLIoppiKq2Jh7uILhTE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/F/Wvy9XfQ4OuJbol1hfkkg/foto-e-montagem-vertical-2026-09-27t200639.801.jpg"
+    },
+    {
+      "titulo": "Fantástico acompanha combate ao ebola, que avança em meio a crise humanitária na República Democrática do Congo",
+      "imagem": "https://s2-g1.glbimg.com/txLEg85Tah_NzmfLb4aoGuIZG_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/6/q4S1bYQjyEBWI5ojeLFw/captura-de-tela-2026-09-27-210004.png"
+    },
+    {
+      "titulo": "Ebola: Sônia Bridi acompanha combate ao vírus na Républica Democrática do Congo",
+      "imagem": "https://s2-g1.glbimg.com/7nLmHXTXxtYQ-J7M1Lais01liK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/b/V/wi6IRuRMaAXklm47gjMQ/ief-grande.jpg"
+    },
+    {
+      "titulo": "Entre Dois Mundos: a diplomacia panda em meio à corrida tecnológica",
+      "imagem": "https://s2-g1.glbimg.com/IfuobKspst_f2oHT4SYruQ4hdAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/z/ykDKy9RlWbNBJi4bHYcA/pandass.jpg"
+    },
+    {
+      "titulo": "Rick: do menino que vendia picolés ao ícone sertanejo",
+      "imagem": null
+    },
+    {
+      "titulo": "Fantástico refaz trajeto até local onde caiu helicóptero em que estava cantor Rick",
+      "imagem": "https://s2-g1.glbimg.com/mM7fq5SRll3UFxVTbL68ZMlehpk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/7/bNGdSiRZG9d1BVAS7r4A/helic.jpg"
+    },
+    {
+      "titulo": "Fogo atinge carrinho de pipoca antes de show do Luan Santana em Goiânia",
+      "imagem": "https://s2-g1.glbimg.com/ejsO649ZZ8djUIOPYdK8PFcA2J8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/4/G1s8IyRkSuSvH6xtkpcw/co-6-.jpg"
+    },
+    {
+      "titulo": "Lula propõe que indicação para ministro do STF não seja feita só pelo presidente e sugere que conselho tome decisão",
+      "imagem": "https://s2-g1.glbimg.com/x_o_ZMMNNnWVLnYgqptNGDQzgtg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/h/YbAtNEQ2OA2uxhUSSZGw/lula.jpg"
+    },
+    {
+      "titulo": "Curta-metragem de universitárias de Santos é selecionado para festival na Colômbia",
+      "imagem": "https://s2-g1.glbimg.com/O6Yrtb7TZmS4IT_OJCmiYXzvTro=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/7/mov7FkRmqLYtBP0SpbKQ/foto-curta-1.jpg"
+    },
+    {
+      "titulo": "Homem morre e outro fica ferido após carro cair de ponte em Borda da Mata, MG",
+      "imagem": "https://s2-g1.glbimg.com/3_I12tPKU1ftwF55TLg-FaoJzq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/2/igJnH0RIC6hqAg69JZYg/carro-cai-rio.jpeg"
+    },
+    {
+      "titulo": "Professor Filemon, escritor e especialista em língua portuguesa, morre aos 67 anos",
+      "imagem": "https://s2-g1.glbimg.com/TaIttUnKY-SyIaTJqnFVCE711m0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/f/duBsA5Q32mqSEiPQpBFA/image.jpg"
+    },
+    {
+      "titulo": "Eleições 2026: Veja como foi o dia dos candidatos ao governo do Ceará no último domingo antes do 1º turno",
+      "imagem": "https://s2-g1.glbimg.com/xNia0hA6PsroRqBSdHth0k770r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/Bv8DsaQfK8VO5QNwQUlg/candidatos-governo-ce-2026.png"
+    },
+    {
+      "titulo": "Ministério pede ao Telegram bloqueio de 43 perfis que divulgam apostas e cassinos virtuais ilegais",
+      "imagem": "https://s2-g1.glbimg.com/IIyHLCt-sRPwBG8Jet_jEEW_1H8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/p/L58ldMTFADaFzlfGyVEw/globo-canal-4-20260925-2000-frame-166811.jpeg"
+    },
+    {
+      "titulo": "Campinas tem 324 moradores registrados como doadores de órgãos; saiba como formalizar intenção",
+      "imagem": "https://s2-g1.glbimg.com/hN5dRScVb82mmUy_-XuPOB4SVJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/I/4MQg9DTlmIvDDCgD4Vdw/design-sem-nome-50-.png"
+    },
+    {
+      "titulo": "Jovem desaparece após salvar namorada de afogamento em praia do litoral do Piauí",
+      "imagem": "https://s2-g1.glbimg.com/fRjdafg58OLKJmUsjq1w54KIMrw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/k/VBsSflSPiJlxrblBrZzw/edicao-imagens-g1-2026-09-27t192305.506.png"
+    },
+    {
       "titulo": "Homem é preso suspeito de manter companheira em cárcere privado, agredi-la e cortar cabelo dela em Jaú",
       "imagem": "https://s2-g1.glbimg.com/Mv1K5FdALLSgHdLyp0Ui44ckKDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/H/EBBfSsTdm4nMcwis85Ww/img-2711-frame-26.jpeg"
     },
@@ -43,83 +119,7 @@
     {
       "titulo": "Concursos e seleções em PE têm mais de 976 vagas e salários de até R$ 15 mil; saiba como se inscrever",
       "imagem": "https://s2-g1.glbimg.com/asCyQvs4Cn_NexJNxJx6ssauot8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/d/7PV5o0TdysVqlTQUWb3g/hand-with-pen-application-form-1-.jpg"
-    },
-    {
-      "titulo": "BH tem dia mais quente de 2026 neste domingo; Defesa Civil alerta para possibilidade de chuva",
-      "imagem": "https://s2-g1.glbimg.com/YbaG8-RzeJAxximW4Uy8P9yu8Gs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/B/h0OB4MRPOVBQlaptN8Sw/0-13-2509mg02-painel-milton.png"
-    },
-    {
-      "titulo": "Novo pronto atendimento de saúde mental registra quase 5 mil atendimentos em 2 meses em Ribeirão Preto, SP",
-      "imagem": "https://s2-g1.glbimg.com/qRJlFAOJHB_Mi5tFGXY1k1b9SQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/T/xIygOrThK5b3UdpErwLA/6.png"
-    },
-    {
-      "titulo": "VÍDEO: elefante Sandro entra em lagoa pela primeira vez no Santuário em MT e demonstra musculatura debilitada",
-      "imagem": "https://s2-g1.glbimg.com/l2Z8O8qI_bN2YZg3j5wqyeMZcf4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/t/gsidKYQaKDJK5WRllz9Q/foto-g1-2026-09-27t173343.371.png"
-    },
-    {
-      "titulo": "Instituto de Fernandin OIG alega perda de recursos após proibição de bets e anuncia paralisação; empresário já depôs à CPI das Bets",
-      "imagem": "https://s2-g1.glbimg.com/VP4uh4IAXzfwFf7lzBGXBcDkDc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/l/KDypxoQA6Jgrn0XgbmEg/edicao-imagens-g1-2026-09-27t182629.978.png"
-    },
-    {
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo da Bahia neste domingo",
-      "imagem": "https://s2-g1.glbimg.com/ZnzWmSmewBBdXPgRy9QeizRnym0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/s/Bc9PjSQ9OK8czYPdWAoQ/agenda.png"
-    },
-    {
-      "titulo": "Eleições 2026: Santos tem mais de 900 páginas autenticadas com promessas e publicações de candidatos",
-      "imagem": "https://s2-g1.glbimg.com/cOPTlAlT6JrfeRgWk1IexEVx77Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/9/mHXikMT0ultoeHJMl8Aw/neymar-2012-26-.jpg"
-    },
-    {
-      "titulo": "Foragido há um ano por perseguir e ameaçar ex-companheira é preso em operação da DDM em Botucatu",
-      "imagem": "https://s2-g1.glbimg.com/iyX_m8XNA73kObSzmUEI_F03wz4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/3/bZuFIBRySArchSCWmBJA/g1-2026-03-14t175848.087.png"
-    },
-    {
-      "titulo": "Incêndio atinge 4 andares de prédio em Teresópolis e assusta moradores: 'Tá desabando tudo, meu Deus!'; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/ARSj-UmRlKuczF94Vmos-WASBMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/X/ipf5UbRMqXin4X8CJmzg/predio-e-atingio-por-incendio-em-pimenteiras-em-teresopolis-no-rj.png"
-    },
-    {
-      "titulo": "Estudante de medicina da Ufac honra pai zelador e segue sonho no curso após luto: ‘Sempre acreditou em mim’",
-      "imagem": "https://s2-g1.glbimg.com/_VJQZgNfpBxw7wzAHLi-7hofqGY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/2/pxEu7ZSoWpxGnjJG89HA/midia-de-distribuicao-g1-2026-09-27t094708.237.png"
-    },
-    {
-      "titulo": "Sespa abre PSS com 150 vagas para contratação temporária no Hospital Regional de Cametá",
-      "imagem": "https://s2-g1.glbimg.com/nbznp85FGdsrY6m-XaX3Q9ct6rs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/g/Xlev99Rfud7nc0EoTQhQ/sespa.jpg"
-    },
-    {
-      "titulo": "Evento sobre migração da UFRR reúne pesquisadores da Noruega, Holanda, Portugal e França",
-      "imagem": "https://s2-g1.glbimg.com/Y3WZrzOfK59RoXVAuRi2BEzApc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/0/7lBZ5OTq2IGs1WDhZ81A/universidade-federal-de-roraima.jpg"
-    },
-    {
-      "titulo": "Porto Alegre suspende wind banners após previsão de chuva forte e ventania",
-      "imagem": "https://s2-g1.glbimg.com/m5oIFVz6b1WjXOQwUqtj7AEQtic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/B/I10pemQzO6FwJ9Jv7Jzg/windbanner.jpg"
-    },
-    {
-      "titulo": "Colisão frontal entre duas carretas deixa dois mortos em rodovia de MS",
-      "imagem": "https://s2-g1.glbimg.com/Sa9kSqKsFGJygBIyQ-yCN9kmKsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/U/XEoK6RRQKr2CQPFAbrfg/para-o-g1-2026-09-27t170827.455.jpg"
-    },
-    {
-      "titulo": "Cafeicultora de Paraguaçu, MG, é eleita Miss Brasil Café 2027",
-      "imagem": "https://s2-g1.glbimg.com/HnyQxEYElEKlvuPzq9UEd9VyxuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/K/kcfjH9RHekTJ6hZHOLLQ/miss1.jpg"
-    },
-    {
-      "titulo": "Prefeito de Manaus dirige, filma e leva filha sem cinto no banco da frente; veja VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/ioXPMwhKN-9a_WQ2gzl5IGRN0DE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/d/FPpqE8RxqcK2qGPxcVsw/prefeito-dirigindo.jpg"
-    },
-    {
-      "titulo": "Veja agenda de campanha dos candidatos ao governo de MG neste domingo",
-      "imagem": "https://s2-g1.glbimg.com/51YEYUVNj8oQRu2h8a0WF-CiZbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/f/57q383RYyDBUhmrLzPqw/2.jpg"
-    },
-    {
-      "titulo": "'CarnaLula': apoiadores de Lula fazem ato em Copacabana",
-      "imagem": "https://s2-g1.glbimg.com/YguUy-n6WoPePK4VixrrFjglrVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/O/9rZukiTXixAebIPJvLbA/ato5.jpeg"
-    },
-    {
-      "titulo": "Homem morre após ser atropelado por motocicleta no Piauí; condutor fugiu",
-      "imagem": "https://s2-g1.glbimg.com/ZnoKZJYaHPUog0iM1e5F5OiTND4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/A/N9u66lTVAYWEjB0reIAA/edicao-imagens-g1-2026-09-27t175200.130.png"
-    },
-    {
-      "titulo": "Flávio Bolsonaro diz que vai ao debate da Globo e desafia Lula a participar do embate antes do 1º turno; vídeo",
-      "imagem": "https://s2-g1.glbimg.com/ZomNKMofv_FinAzrKN8pnnUspfg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/l/3jQP39TkG1avpVzYuyPQ/3d59e658-d23e-45fb-8b64-d8d45dc52684.jpg"
     }
   ],
-  "atualizadoEm": "2026-09-27T22:26:03.877Z"
+  "atualizadoEm": "2026-09-28T01:01:20.339Z"
 }
