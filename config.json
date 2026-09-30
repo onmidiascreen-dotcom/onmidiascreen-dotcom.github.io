@@ -17,10 +17,6 @@
       },
       "telas": [
         {
-          "id": "casa",
-          "nome": "CASA"
-        },
-        {
           "id": "infinity-2",
           "nome": "Elevador 1"
         },
@@ -46,6 +42,25 @@
         }
       ],
       "fonteNoticias": "g1"
+    },
+    {
+      "id": "casa",
+      "nome": "CASA (teste)",
+      "cidade": {
+        "nome": "Arapongas",
+        "lat": -23.42,
+        "lon": -51.42
+      },
+      "exibirNoticias": false,
+      "exibirCuriosidades": false,
+      "fonteNoticias": "g1",
+      "telas": [
+        {
+          "id": "casa",
+          "nome": "Casa"
+        }
+      ],
+      "comunicados": []
     }
   ],
   "anuncios": [
