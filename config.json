@@ -113,6 +113,18 @@
       "cor": "azul",
       "predios": [],
       "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1788964190/rso9yz86zxlx07metneh.mp4"
+    },
+    {
+      "tipo": "video",
+      "tag": "",
+      "titulo": "Novo anúncio",
+      "texto": "",
+      "rodape": "",
+      "cor": "azul",
+      "predios": [
+        "casa"
+      ],
+      "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1790958110/xdpznhskvdvsfiy73rlw.mp4"
     }
   ]
 }
