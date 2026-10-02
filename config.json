@@ -111,7 +111,9 @@
       "texto": "",
       "rodape": "",
       "cor": "azul",
-      "predios": [],
+      "predios": [
+        "infinity"
+      ],
       "url": "https://res.cloudinary.com/tblvjjkt/video/upload/v1788964190/rso9yz86zxlx07metneh.mp4"
     },
     {
