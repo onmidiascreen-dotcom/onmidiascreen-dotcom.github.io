@@ -1,12 +1,88 @@
 {
   "noticias": [
     {
+      "titulo": "Suspeito de participar de assalto que deixou homem ferido morre em confronto com a PM em Macapá",
+      "imagem": "https://s2-g1.glbimg.com/eBvgkBwTLEVjVNVDsDfYWWIxkCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/6/SpPlfFTR25M4a1Sic7Nw/aleixo-g1-39-.jpg"
+    },
+    {
+      "titulo": "Atleta que perdeu movimento após golpe proibido no jiu-jitsu relata rotina de recuperação: 'É um dia de cada vez'",
+      "imagem": "https://s2-g1.glbimg.com/jpKDctCXbVmRQnEEUIdfhxnHp_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/6/wMzkdvQ3i972D0BzBzmQ/kabuto.png"
+    },
+    {
+      "titulo": "Pesquisa inédita encontrou munições compradas pelo Exército em apreensões ligadas ao Comando Vermelho",
+      "imagem": "https://s2-g1.glbimg.com/85wnt3SeG6IGFIfRBofGti53iok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/E/QSOt4dTSar8ryktWLIkw/imagem-1200x800-17-.jpg"
+    },
+    {
+      "titulo": "Homem de 44 anos morre após ser baleado em Santarém; mulher suspeita é detida",
+      "imagem": "https://s2-g1.glbimg.com/DcGf6xti41PHC_G5Fnbs8yo6ju8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/B/wrwyjrSL21iUTMIruCVw/whatsapp-image-2026-10-11-at-20.46.53.jpeg"
+    },
+    {
+      "titulo": "Piloto vítima de queda de avião em MG é sepultado na BA após velório em igreja evangélica",
+      "imagem": "https://s2-g1.glbimg.com/fmdQ5ZGAhLxQGYhVI0fE5F939nU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/V/VtDBs1SRWHq8krnZo0uQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-11t195116.591.jpg"
+    },
+    {
+      "titulo": "Influenciadora e advogado são presos suspeitos de comandar esquema de tráfico internacional de drogas ligado à máfia italiana",
+      "imagem": "https://s2-g1.glbimg.com/LC3DUqOG3hlqNqpOFo_XaiO8sq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/6/QTqBXuTeubayhAGJFabw/captura-de-tela-2026-10-11-210159.png"
+    },
+    {
+      "titulo": "Fantástico mostra com exclusividade o depoimento de tenente-coronel acusado de matar esposa",
+      "imagem": "https://s2-g1.glbimg.com/q8quERAGMDLGUpv_k2sg9Gf-ouQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/x/LtkXMGTZyQlEEA1jwCQg/imagem-1200x800-16-.jpg"
+    },
+    {
+      "titulo": "Comércio da Baixada Santista espera vender 5% mais no Dia das Crianças",
+      "imagem": "https://s2-g1.glbimg.com/Z68MrDQfzSZ5DgP3CxDNkugtspY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/y/B88fRxQFuzw2k06HfwXg/captura-de-tela-2026-05-02-101439.png"
+    },
+    {
+      "titulo": "Policial de folga atira em filho que atacava pai com faca no interior do Ceará",
+      "imagem": "https://s2-g1.glbimg.com/Ix2xwhLzpFJ9XHwv7sfqyiBjMfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/bOArRnRtinlC7cXlvyXg/ataque-crateus.jpg"
+    },
+    {
+      "titulo": "Chuva forte causa alagamentos, queda de árvore e danos em supermercado em Cosmópolis",
+      "imagem": "https://s2-g1.glbimg.com/X3NNfby01CEKEsPkdR18B0ox5WU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/D/jSJr4YSfK5iSVFVleoDQ/chuva-cosmopolis.png"
+    },
+    {
+      "titulo": "Dia de Nossa Senhora Aparecida: confira os horários das missas e procissões em MT",
+      "imagem": "https://s2-g1.glbimg.com/Pu3FeUnMWv4rMMghUuJRbsOBYkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/G/LZXu2ZSsOBrZ3365USoA/nossasenhora1-1-.jpeg"
+    },
+    {
+      "titulo": "Suspeito morre e outro é baleado após policial reagir a assalto no interior do Ceará",
+      "imagem": "https://s2-g1.glbimg.com/qnoKbkVXzI9apvOtXpoIS15djPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/p/jTSZ6DRgCGcevsQuriuA/apreensao-limoeiro.jpg"
+    },
+    {
+      "titulo": "Morre Edson Silva, ator de ‘Laços de Família’ e dublador",
+      "imagem": "https://s2-g1.glbimg.com/Y6Hrcnz5GYR0PEKOoLZEzrQsdkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/8/ikBEBQSzuNcm7wpGqx1w/com-pesar-comunicamos-o-falecimento-do-dublador-edson-silva-para-os-noveleiros-o-heitor-e.jpg"
+    },
+    {
+      "titulo": "Incêndio em subestação de energia elétrica é apagado após três horas de trabalho dos bombeiros; alguns bairros seguem afetados",
+      "imagem": "https://s2-g1.glbimg.com/zgSNvZJswd6LoXY5gpNxcHuC9O8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/n/BecJYtTSKZyM68FSnAlA/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-10-11t151502.225.jpg"
+    },
+    {
+      "titulo": "Homem é preso após matar ex-companheira a facadas durante festa de aniversário do filho em Americana",
+      "imagem": "https://s2-g1.glbimg.com/_TueeJCXKuFE-oQrBMKvaY3W1vI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/p/R/4wGgRASPal2GvYtyteYQ/delegacia-americana.jpg"
+    },
+    {
+      "titulo": "Dia de Nossa Senhora Aparecida: veja a programação nas igrejas do Rio",
+      "imagem": "https://s2-g1.glbimg.com/TZfpl_pAXQtpvXXENW1yQx2HCZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/K/pB1mRLR6Ag54JHBDvU0Q/imagem-cortada-39-.jpg"
+    },
+    {
+      "titulo": "Festival de churrasco tem shows de rock e entrada grátis em Praia Grande",
+      "imagem": "https://s2-g1.glbimg.com/Kjamareflb8Ef6wtM4rx6tZzFdg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/T/fDsdBYSpSUmiLrlOLZ8g/batalha-assadores-1-.jpg"
+    },
+    {
+      "titulo": "Motociclista morre após colidir em muro próximo ao Socorrão II, na Grande São Luís",
+      "imagem": "https://s2-g1.glbimg.com/ITzn4j2OZg33U7zxPFDmUeZur5E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/R/gFtPGiSuGXmRRKCQVh9g/montagens-1920-x-1080-px-1-.png"
+    },
+    {
+      "titulo": "Homem invade quarto da ex e esfaqueia atual companheiro dela enquanto casal dormia em MT",
+      "imagem": "https://s2-g1.glbimg.com/OPxZYuZ2bw3Q6A6s5RFv5iB0MFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/X/2KVq49Q2SSCAXLXUPJdA/amp-porto-alegre.jpg"
+    },
+    {
       "titulo": "Dia das Crianças: confira a programação gratuita na Grande Vitória nesta segunda-feira (12)",
       "imagem": "https://s2-g1.glbimg.com/DCOuaY6G4HQpUqCZl1XpD2xnGn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/F/cQEthMQeC6BuXAKPZLiA/thumb-videos-g1-2026-10-11t190311.010.jpg"
     },
     {
       "titulo": "Em dia de maior movimento, 24 mil romeiros passam pela Via Dutra a caminho de Aparecida neste domingo, diz PRF",
-      "imagem": null
+      "imagem": "https://s2-g1.glbimg.com/lRk0za3K0E4Xj7LF5I6OKZ_Od0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/y/n9eXkaR4GHLS0Kc2i9Lg/foto-g1-91-.png"
     },
     {
       "titulo": "Cidade de SP entra em estado de atenção para alagamentos neste domingo",
@@ -26,15 +102,15 @@
     },
     {
       "titulo": "Vândalos atacam ônibus e moradores assistem violência perplexos em Petrópolis: 'Vão matar o motorista'",
-      "imagem": "https://s2-g1.glbimg.com/UKC4g-2rOIl0FZD6cis5Ler6sJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/B/j7N3bMTbqbAzBVyyIAOA/1001015355-1-.jpg"
+      "imagem": "https://s2-g1.glbimg.com/dmuAZiqKlwqrTWxaNx8ujzpxxOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/B/zdHEKhQlq4gV19NMrCmw/depredacao-de-onibus-diante-de-moradores-e-registrada-no-bairro-carangola-em-petropolis.png"
     },
     {
       "titulo": "Mecânico é preso por estupro de vulnerável de adolescente de 13 anos; mãe também é detida",
       "imagem": "https://s2-g1.glbimg.com/Ify5KPoN-6iO62Pu8lQIpCBmHHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/CATDRkRaOZGUHcJuCzmA/presos-estupro-1-.jpg"
     },
     {
-      "titulo": "Falha na rede de transmissão deixa 95 mil imóveis sem energia em 9 cidades do Sul de Minas",
-      "imagem": "https://s2-g1.glbimg.com/ATAAOk7B2P4-OGwjZNwOY_96BhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/k/hTo7B5RNe958gpbh8aBg/sem-energia.jpg"
+      "titulo": "VÍDEO: Sem energia, barbeiros improvisam atendimento na calçada e usam luz natural para continuar cortes em MG",
+      "imagem": "https://s2-g1.glbimg.com/cpgofpFAOA8-oVgNi-Rn-CcSHdU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/d/N4uyDyROeYR8RabZ3sfQ/passos.png"
     },
     {
       "titulo": "Jovem de Goiás morre em acidente que matou vereador e mulher no MT",
@@ -43,83 +119,7 @@
     {
       "titulo": "Familiares, amigos e colegas se despedem de militares vítimas de acidente aéreo",
       "imagem": "https://s2-g1.glbimg.com/mrOCJTSp5JfDXrfPS9oNMlm409w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/o/i9mB1ZQB62css2pc8HGA/design-sem-nome-2026-10-09t185857.530.jpg"
-    },
-    {
-      "titulo": "Homem é encontrado morto sentado em frente da própria casa em MT",
-      "imagem": "https://s2-g1.glbimg.com/wM8jft_gVy4T3VVCkNCYlcTzqzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/x/AnHtYhTyq9SHhuyoVk2w/design-sem-nome-80-.png"
-    },
-    {
-      "titulo": "Temporal provoca alagamentos em vias e imóveis na região de Campinas",
-      "imagem": "https://s2-g1.glbimg.com/Ow5m_IlwJcP8au6PWMLWlW0gLYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/b/fqihLBRIqJHBEqVfGzMA/alaga-vias-.png"
-    },
-    {
-      "titulo": "Veja oportunidades de trabalho e cursos em Roraima no mês de outubro de 2026",
-      "imagem": "https://s2-g1.glbimg.com/sHdJIKSjEH41JmWvRXcR_K8rhuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/G/AuICD5Smiju7zH4vkGQA/gil-leonardi-imprensamg-img-3025.jpg"
-    },
-    {
-      "titulo": "Lívia Christina e Isabelle Alcântara estreiam como itens oficiais em festa na Cidade Garantido em Parintins",
-      "imagem": "https://s2-g1.glbimg.com/3N7pUrc8FUUvyJVCd1MpiwvFpgs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/l/GAaFwvR4CLVBKBBANg6Q/design-sem-nome-15-.png"
-    },
-    {
-      "titulo": "VÍDEO: motorista bêbado invade pista contrária e causa batida frontal, no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/EoPD-a404upT7rQCvdnWKvMQqk4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/n/TUkespRxyyxfvv9I17cQ/batida4324.png"
-    },
-    {
-      "titulo": "UEA registra mais de 8 mil faltosos nas provas do SIS; Vestibular começa nesta segunda (12) no Amazonas",
-      "imagem": "https://s2-g1.glbimg.com/eCDia9k5ZNUhsKcNJSMvSMDRARA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/H/6oRnq9QL2Dh4NRDgBBYQ/sis-2026.jpg"
-    },
-    {
-      "titulo": "Homem é preso em flagrante por agredir companheira com socos no rosto em Anhembi",
-      "imagem": "https://s2-g1.glbimg.com/sq-o-QeL5go0sJWV1-MPYzM9GvA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/r/1mOZMvQNK2WSu0kuOT7Q/novo-projeto-2026-08-17t125939.674.png"
-    },
-    {
-      "titulo": "Casal morre e bebê fica ferido após batida entre carros na MG-252, em Perdigão",
-      "imagem": "https://s2-g1.glbimg.com/Ac3t7Z9FNVsjHwOK7r4_ce2DMsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/D/TYw9ISRkqQhIG8KmB49g/whatsapp-image-2026-10-11-at-18.11.45.jpeg"
-    },
-    {
-      "titulo": "Caminhada da fé, missas e Festa da Padroeira marcam o Dia de Nossa Senhora Aparecida no interior de SP; veja programação",
-      "imagem": "https://s2-g1.glbimg.com/nY-ClX98vMGlX1JBDaWjRMel95U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/W/MBWVanQK2so1Om1tTDnQ/whatsapp-image-2026-10-11-at-10.54.11.jpeg"
-    },
-    {
-      "titulo": "'Perdi o chão' diz proprietária de casa que foi atingida por caminhonete em Franca, SP",
-      "imagem": "https://s2-g1.glbimg.com/qL-K8dwHIE0au9WKQ3PxCoNrDiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/d/VaNA3QSxGS2jVerz6l0g/molduras-g1-46-.png"
-    },
-    {
-      "titulo": "Programa de educação integral do interior de SP conquista 2º lugar em prêmio nacional; conheça",
-      "imagem": "https://s2-g1.glbimg.com/f134yLmIudhwNS8QF1idPqRWzoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/3/4Fi7X1SSmO9PfwvNzqcg/cidadescola-7-.png"
-    },
-    {
-      "titulo": "Atacarejo abre seleção para 118 vagas de emprego em Itapetininga; confira oportunidades",
-      "imagem": "https://s2-g1.glbimg.com/rmc0lJoT36cLFU34L72aWhkmytA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/H/lMBWAhShybbgHhiotK8w/bee0f02e9bb1d1cfd9128d599b38ba40.webp"
-    },
-    {
-      "titulo": "'Tartaruga-gigante' é encontrada morta em praia do litoral de SP; VÍDEO",
-      "imagem": "https://s2-g1.glbimg.com/-Re-CA37QssNKHU1MBuB5MXvc9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/j/5vkAhgTc6GFLTQ3GpSWg/foto-tartaruga.jpg"
-    },
-    {
-      "titulo": "Menina com paralisia cerebral 'luta' contra o próprio crescimento por cirurgia que contém rigidez muscular",
-      "imagem": "https://s2-g1.glbimg.com/oeZftc0EdKXkvYG7d3WVvH3f_HY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/E/SBBXLKTBqIpPUaYAA0yQ/modelo-1-3-.png"
-    },
-    {
-      "titulo": "Jovem é morto a tiros e Palmas chega a quarta morte em uma semana",
-      "imagem": "https://s2-g1.glbimg.com/ZXs-vp5dYdksB0FYVIGqHEjjbxI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/L/7Adc8GR7eHPKzDgNZ93A/copia-de-modelo-foto-fundo-borrado-3-.png"
-    },
-    {
-      "titulo": "Professora é afastada após suposta agressão contra aluno em escola municipal de São Tomé das Letras",
-      "imagem": "https://s2-g1.glbimg.com/swUgPa_0rjyj3X8bk6uE_uY_Tkk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/Z/o20iRgQNC4oAq0YO1YUw/sao-tome2.png"
-    },
-    {
-      "titulo": "Mendonça proíbe PT de impulsionar vídeo que diz que Flávio Bolsonaro é contra a escala 6x1",
-      "imagem": "https://s2-g1.glbimg.com/NqRwpIl1ZNLL715LlldBen7FnNg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/W/LIW5hHQ4qum7mRAhYX7w/55545366678-be34bcc3dc-k.jpg"
-    },
-    {
-      "titulo": "Bill Gates considera ciberataques o principal risco atual da IA: 'Teremos muitas surpresas desagradáveis'",
-      "imagem": "https://s2-g1.glbimg.com/PKTcxL6ep8b7pdpyzID76yQuO08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/q/3qTnLARZi4iHAiXIvPvw/2026-04-21t210204z-1176317949-rc24cja2ap1g-rtrmadp-3-usa-epstein-gates-foundation.jpg"
-    },
-    {
-      "titulo": "'Mais tatuado do Brasil' conta que fará tratamento contra câncer pelo SUS",
-      "imagem": "https://s2-g1.glbimg.com/C7wCCZDRagcwdz5x8iGDAAS1Gx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/u/SyxBcwS0SO3VCbnaiAjg/g1-8-.png"
     }
   ],
-  "atualizadoEm": "2026-10-11T22:53:47.335Z"
+  "atualizadoEm": "2026-10-12T02:01:45.688Z"
 }
