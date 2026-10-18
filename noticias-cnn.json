@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "&#8220;Vamos recuperar&#8221;, diz Ramon Dino sobre titulo da Classic Physique",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula diz que &#8220;desconhece inteiramente&#8221; acusações de Roberta Luchsinger",
+      "imagem": null
+    },
+    {
+      "titulo": "Baixa visibilidade no Amazonas impacta voos de combate a incêndios",
+      "imagem": null
+    },
+    {
+      "titulo": "Vídeo: caminhão de lixo cai dentro de cratera após asfalto ceder em Osasco",
+      "imagem": null
+    },
+    {
+      "titulo": "Em &#8220;guest posing&#8221;, Ramon Dino volta aos palcos após top 3 no Mr. Olympia",
+      "imagem": null
+    },
+    {
+      "titulo": "Julianne Moore critica violência armada após tiroteio em escola nos EUA",
+      "imagem": null
+    },
+    {
+      "titulo": "Paolla Oliveira beija Iza ao ser coroada rainha de bateria da Imperatriz",
+      "imagem": null
+    },
+    {
+      "titulo": "Palmeiras supera expulsão, vence Athletico-PR e dorme líder do Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Atlético-MG 1 x 0 Coritiba: veja os melhores momentos do Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Na Bahia, reduto petista, Flávio diz que governará para todos se eleito",
+      "imagem": null
+    },
+    {
+      "titulo": "Adolescente britânico de 16 anos fatura 750 mil libras ao ano vendendo toalhas no TikTok Shop",
+      "imagem": null
+    },
+    {
+      "titulo": "Apoiadores fazem ato com Michelle Bolsonaro de apoio a Flávio em Brasília",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula me colocou como &#8220;boi de piranha&#8221;, diz Luchsinger à CNN",
+      "imagem": null
+    },
+    {
+      "titulo": "Luchsinger cita relação de Lulinha com construtora portuguesa",
+      "imagem": null
+    },
+    {
+      "titulo": "PF que vai avaliar se dinheiro a Marcola é ilegal ou imoral, diz Luchsinger",
+      "imagem": null
+    },
+    {
+      "titulo": "Série C: Ferroviária arranca empate com Maringá no primeiro jogo da final",
+      "imagem": null
+    },
+    {
+      "titulo": "Luchsinger diz que Lula precisa perguntar a Lulinha com o que ele trabalha",
+      "imagem": null
+    },
+    {
+      "titulo": "Ações de tecnologia recuam com dúvidas sobre o setor de IA",
+      "imagem": null
+    },
+    {
+      "titulo": "Com time misto, Atlético-MG bate o Coritiba e ganha posições no Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Ministros me pediam ajuda para ter agenda com Lula, diz Luchsinger à CNN",
+      "imagem": null
+    },
+    {
+      "titulo": "Governadores do Sul participam de motociata pró-Flávio em Florianópolis",
+      "imagem": null
+    },
+    {
       "titulo": "&#8220;Manaus pede socorro&#8221;, diz prefeito após cidade continuar tomada por fumaça",
       "imagem": null
     },
@@ -33,93 +117,9 @@
       "imagem": null
     },
     {
-      "titulo": "Antonio Banderas e Nicolas Cage estrelarão 5ª temporada de &#8216;True Detective&#8217;",
-      "imagem": null
-    },
-    {
-      "titulo": "Sandra Bullock celebra 28 anos de ‘Da Magia à Sedução’: “História de amor”",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Pacote de bondades&#8221; exige ajuste no orçamento de 2027, diz especialista",
-      "imagem": null
-    },
-    {
-      "titulo": "Athletico-PR x Palmeiras: escalações e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Como sobreviver ao fim do mundo? Do plantio urbano aos primeiros socorros, confira o guia essencial de sobrevivência",
-      "imagem": null
-    },
-    {
-      "titulo": "Medidas sobre trabalho acabam precarizando o CLT, diz economista",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem é preso após manter mulher e filho como reféns em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Dibu Martínez, do Chelsea, sofre fratura na mandíbula e deve ser operado",
-      "imagem": null
-    },
-    {
-      "titulo": "Edinho reafirma que Lula apoia redução da maioridade para crimes hediondos",
-      "imagem": null
-    },
-    {
-      "titulo": "Roma vence Genoa e mantém invencibilidade no Campeonato Italiano",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: Mercado brasileiro de auto pode aprender com Salão de Paris",
-      "imagem": null
-    },
-    {
-      "titulo": "Clássico do NBB tem local alterado, e Maracanã fica livre para Vasco x Boca",
-      "imagem": null
-    },
-    {
-      "titulo": "Governo pede que ANPD apure se Meta violou o Marco Civil da Internet",
-      "imagem": null
-    },
-    {
-      "titulo": "Luiza Brunet prestigia coroação de Paolla Oliveira na Imperatriz",
-      "imagem": null
-    },
-    {
-      "titulo": "Cachorro invade campo e quase faz gol pelo Vasco; veja lance",
-      "imagem": null
-    },
-    {
-      "titulo": "Atlético-MG x Coritiba: escalações e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Ator Michael Forest, de &#8220;Jornada nas Estrelas&#8221;, morre aos 97 anos",
-      "imagem": null
-    },
-    {
-      "titulo": "Diretor de &#8220;Carrie&#8221; destaca escolha de elenco pouco conhecido: &#8220;Raro&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Datafolha: eleitores de Flávio votam por mudança; de Lula, proteção social",
-      "imagem": null
-    },
-    {
-      "titulo": "Ex-ladrão de arte que já roubou Museu Van Gogh, em Amsterdã, se aposentou da vida do crime e hoje ajuda a recuperar obras",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem é preso após enviar canetas emagrecedoras ilegais pelos Correios",
-      "imagem": null
-    },
-    {
-      "titulo": "Bruna Marquezine admite que só agora tem relação equilibrada com trabalho",
+      "titulo": "Antonio Banderas e Nicolas Cage estrelarão 5ª temporada de &#8220;True Detective&#8221;",
       "imagem": null
     }
   ],
-  "atualizadoEm": "2026-10-17T23:25:35.668Z"
+  "atualizadoEm": "2026-10-18T01:21:53.807Z"
 }
