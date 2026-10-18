@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Mbappé brilha, e Real Madrid goleia Sevilla pelo Campeonato Espanhol",
+      "imagem": null
+    },
+    {
+      "titulo": "Fluminense 1 x 2 Santos: veja os melhores momentos do Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Grêmio 2 x 4 Cruzeiro: veja os melhores momentos do Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Remo x Bragantino: escalações e onde assistir ao jogo do Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "No Egito, Luciana Gimenez visita templo e brinca com nome de faraó",
+      "imagem": null
+    },
+    {
+      "titulo": "Santos aposta em ofensiva, vira contra Flu e vence por 2 a 1 no Maracanã",
+      "imagem": null
+    },
+    {
+      "titulo": "Trens no fundo do oceano? Entenda o destino surpreendente de antigos vagões de Nova York",
+      "imagem": null
+    },
+    {
+      "titulo": "Kaio Jorge marca três, e Cruzeiro vence o Grêmio de virada no Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Paris FC x Rennes: veja melhores momentos de jogo da Ligue 1",
+      "imagem": null
+    },
+    {
+      "titulo": "Entenda por que ICL distorce mensagens de Vorcaro sobre CNN",
+      "imagem": null
+    },
+    {
+      "titulo": "PEC 6&#215;1 é uma medida irresponsável e eleitoreira, diz Abrasel",
+      "imagem": null
+    },
+    {
+      "titulo": "Em livro póstumo, Eric Dane revela que filha o salvou de afogamento",
+      "imagem": null
+    },
+    {
+      "titulo": "Victoria&#8217;s Secret Fashion Show: veja preparação das Angels",
+      "imagem": null
+    },
+    {
+      "titulo": "Bahia x Flamengo: escalações e onde assistir ao Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Remo x Bragantino: horário e onde assistir ao jogo do Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "CPI indica reajuste monetário mais cedo nos EUA, diz economista",
+      "imagem": null
+    },
+    {
+      "titulo": "Governo prevê impacto fiscal em torno de R$ 10 bi com tarifa zero",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Atos de rua dão impulso final às campanhas de Flávio e Lula",
+      "imagem": null
+    },
+    {
+      "titulo": "Menina de 4 anos feita de refém pelo pai é resgatada pelo BOPE em SC",
+      "imagem": null
+    },
+    {
+      "titulo": "Clint Eastwood salvou fazenda de virar condomínio; propriedade agora funciona como hotel com vista para o mar",
+      "imagem": null
+    },
+    {
+      "titulo": "Casos de câncer estão aumentando entre os mais jovens, aponta relatório",
+      "imagem": null
+    },
+    {
       "titulo": "Lauren Pfeiff relata um ano de cirurgia de lipedema: &#8220;Impacto positivo&#8221;",
       "imagem": null
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Governo anuncia novos reforços e medidas contra incêndios no Amazonas",
       "imagem": null
-    },
-    {
-      "titulo": "Origem da pólvora: como a busca pelo elixir da imortalidade na China criou o composto explosivo no século IX",
-      "imagem": null
-    },
-    {
-      "titulo": "Kassio mantém vídeo em que Flávio atribui R$ 7 bi em viagens a Lula e Janja",
-      "imagem": null
-    },
-    {
-      "titulo": "Unicamp 2027: confira os destaques da primeira fase",
-      "imagem": null
-    },
-    {
-      "titulo": "Paris FC x Rennes: veja melhores momentos de jogo da Ligue 1",
-      "imagem": null
-    },
-    {
-      "titulo": "Vox: Lula e Flávio são igualmente rejeitados por 45,3%",
-      "imagem": null
-    },
-    {
-      "titulo": "Vox: 49,2% desaprovam governo Lula; 46,5% aprovam",
-      "imagem": null
-    },
-    {
-      "titulo": "Ato em apoio a Lula reúne manifestantes na Esplanada em Brasília",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Quem Ama Cuida&#8221; não será exibida na sexta-feira (23); saiba o motivo",
-      "imagem": null
-    },
-    {
-      "titulo": "Deborah Secco viaja com a filha para a Disney em pausa na rotina",
-      "imagem": null
-    },
-    {
-      "titulo": "Vox: Lula tem 51% dos votos válidos no 2º turno; Flávio, 49%",
-      "imagem": null
-    },
-    {
-      "titulo": "Queimadas no Amazonas: quais são os riscos de inalar fumaça?",
-      "imagem": null
-    },
-    {
-      "titulo": "Análise: Novas regras do TSE no 2º turno geram insegurança jurídica",
-      "imagem": null
-    },
-    {
-      "titulo": "Domingo de campanha: Flávio fala de vagas no STF; PT lembra mortes na Covid",
-      "imagem": null
-    },
-    {
-      "titulo": "Dulce Maria lamenta morte de Lua Blanco, Roberta em &#8220;Rebelde&#8221; brasileiro",
-      "imagem": null
-    },
-    {
-      "titulo": "Michel Teló aposta no agronegócio com fazenda de 14 mil hectares que também abriga espaço de lazer para a família",
-      "imagem": null
-    },
-    {
-      "titulo": "Fluminense x Santos: escalações e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Grêmio x Cruzeiro: escalações e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Morte de Lua Blanco: além de &#8220;Rebelde&#8221;, relembre outras novelas com a atriz",
-      "imagem": null
-    },
-    {
-      "titulo": "Índices x ações individuais: onde começar a investir?",
-      "imagem": null
-    },
-    {
-      "titulo": "Monaco perde para Lorient e chance de liderar a Ligue 1",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja tabela da Ligue 1 após vitória do Paris FC contra o Rennes",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-10-18T20:01:32.585Z"
+  "atualizadoEm": "2026-10-18T22:24:41.888Z"
 }
