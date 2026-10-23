@@ -1,7 +1,103 @@
 {
   "noticias": [
     {
-      "titulo": "Impasses bilionários aguardam definição presidencial",
+      "titulo": "Cosméticos podem ter relação com câncer de mama? Especialistas explicam",
+      "imagem": null
+    },
+    {
+      "titulo": "Filhote de onça vítima de ataque de cães retorna à natureza em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio e Lula afinam estratégias para o último duelo na TV antes das urnas",
+      "imagem": null
+    },
+    {
+      "titulo": "Vacina contra câncer reduz risco de morte ou recorrência de melanoma em 42%",
+      "imagem": null
+    },
+    {
+      "titulo": "Pressa pode levar TSE a decidir sem base sobre redes, diz especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "Datafolha: Veja como Flávio e Lula pontuam por renda, gênero e religião",
+      "imagem": null
+    },
+    {
+      "titulo": "Jardim aponta &#8220;pecados&#8221; do Flamengo e explica a demora nas alterações",
+      "imagem": null
+    },
+    {
+      "titulo": "Estudiantes x Palmeiras: times já decidiram a Libertadores no Centenario",
+      "imagem": null
+    },
+    {
+      "titulo": "Flamengo 0 (2) x (3) 0 Estudiantes: veja os melhores momentos e pênaltis",
+      "imagem": null
+    },
+    {
+      "titulo": "Veja quanto o Flamengo ganhou em premiação na Copa Libertadores 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Bruno Henrique mostra abatimento após queda do Flamengo: &#8220;Difícil falar&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "PM acha 17º corpo em SP com mesmo modus operandi; autoridades negam relação",
+      "imagem": null
+    },
+    {
+      "titulo": "Palmeiras x Estudiantes na final da Libertadores: veja data e local",
+      "imagem": null
+    },
+    {
+      "titulo": "Vox: 48,1% desaprovam governo Lula; 46,9% aprovam",
+      "imagem": null
+    },
+    {
+      "titulo": "Vox: 47,1% rejeitam voto em Flávio; 44,8%, em Lula",
+      "imagem": null
+    },
+    {
+      "titulo": "Vox: Lula tem 50,6% dos votos válidos no 2º turno; Flávio, 49,4%",
+      "imagem": null
+    },
+    {
+      "titulo": "Libertadores: Flamengo x Estudiantes bate recorde de público no Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Posso votar em outra zona ou em outra escola? Entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Muslera brilha nos pênaltis, e Estudiantes elimina Flamengo da Libertadores",
+      "imagem": null
+    },
+    {
+      "titulo": "Cruzeiro bate Olimpia e garante liderança do grupo na Libertadores feminina",
+      "imagem": null
+    },
+    {
+      "titulo": "Justiça rejeita prisão de vice-presidente do Corinthians",
+      "imagem": null
+    },
+    {
+      "titulo": "O que acontece se Flávio Bolsonaro e Lula empatarem nas urnas, no 2º turno?",
+      "imagem": null
+    },
+    {
+      "titulo": "Flamengo vira sobre Fluminense e vai à semifinal da Copa do Brasil Feminina",
+      "imagem": null
+    },
+    {
+      "titulo": "Com quais documentos posso votar? Veja o que levar para a urna",
+      "imagem": null
+    },
+    {
+      "titulo": "Malévola detalha prisão no Egito e denuncia transfobia: &#8220;Me senti um lixo&#8221;",
       "imagem": null
     },
     {
@@ -23,103 +119,7 @@
     {
       "titulo": "PRF prende homem com 130 ampolas de anabolizantes e emagrecedores no RS",
       "imagem": null
-    },
-    {
-      "titulo": "Waack: A maldição do incumbente aperta o cerco a Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Pesquisa da FMUSP encontra fentanil em 32% dos usuários de drogas de São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja quem Ronaldo Caiado apoia no 2º turno entre Flávio e Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja quem Augusto Cury apoia no 2º turno entre Flávio e Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Duelo dos sigilos&#8221;: Lula pede que TSE atue como intermediador &#8220;imparcial&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem era Manuel Otto, influenciador que morreu durante transmissão ao vivo",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Minha Melhor Amiga&#8221; se torna a maior bilheteria do Brasil pós-pandemia",
-      "imagem": null
-    },
-    {
-      "titulo": "É obrigatório votar no 2º turno? Veja as regras eleitorais",
-      "imagem": null
-    },
-    {
-      "titulo": "Mais de 70 pessoas &#8216;pegaram&#8217; sarna em escola do interior de SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Bianca Andrade troca mansão de R$ 18 milhões por casa de R$ 9 milhões em SP, mas mudança tem motivo especial",
-      "imagem": null
-    },
-    {
-      "titulo": "Pitbull anuncia turnê pela América do Sul com passagem pelo Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Policiais prendem dupla e apreendem 883 tabletes de maconha em SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja quem Renan Santos apoia no 2º turno entre Flávio e Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Tesouro dos EUA suspende restrições a investimentos ligados à Venezuela",
-      "imagem": null
-    },
-    {
-      "titulo": "Leonardo falta a aniversário de Maria Flor e Poliana esclarece motivo",
-      "imagem": null
-    },
-    {
-      "titulo": "KPGM: Presença de mulheres nos conselhos chega a 17%",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8216;Caixa-preta&#8217; de helicóptero que matou Rick não salvou conversas do voo",
-      "imagem": null
-    },
-    {
-      "titulo": "Polícias do Rio recebem primeiros fuzis antidrones contra o crime",
-      "imagem": null
-    },
-    {
-      "titulo": "Título antecipado da F1? Antonelli diz que quer se divertir no GP dos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Setor imobiliário investe em IA para captar clientes e otimizar vendas",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula pede ao TSE retirada do “Exército do Lula” de registro da campanha",
-      "imagem": null
-    },
-    {
-      "titulo": "Você confere o celular várias vezes antes de sair de casa? Entenda o que a psicologia explica sobre esse hábito",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem fica ferido após ser baleado em frente a shopping na Zona Oeste de SP",
-      "imagem": null
-    },
-    {
-      "titulo": "Newcastle pode pressionar preço do frango no Brasil em 2027, diz Itaú BBA",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-10-23T01:57:54.395Z"
+  "atualizadoEm": "2026-10-23T07:11:38.439Z"
 }
