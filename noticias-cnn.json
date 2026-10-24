@@ -1,6 +1,82 @@
 {
   "noticias": [
     {
+      "titulo": "Veja como funciona transporte intermunicipal gratuito no 2º turno",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula encerra campanha com atos no Rio de Janeiro e em São Paulo",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio escolhe Belo Horizonte e Rio para encerrar atos de campanha",
+      "imagem": null
+    },
+    {
+      "titulo": "Sexo depois dos 40 e 50: o desejo diminuiu ou apenas mudou?",
+      "imagem": null
+    },
+    {
+      "titulo": "TSE registra mudança em 360 seções eleitorais antes do 2º turno",
+      "imagem": null
+    },
+    {
+      "titulo": "Por que eleições podem afetar amizades e relações? Psicanalista explica",
+      "imagem": null
+    },
+    {
+      "titulo": "Mega-Sena 3074: sorteio deste sábado (24) pode pagar R$ 230 milhões",
+      "imagem": null
+    },
+    {
+      "titulo": "Globo separou convidados de Flávio e Lula para evitar embates",
+      "imagem": null
+    },
+    {
+      "titulo": "Chelsea x Tottenham: horário e onde assistir ao jogo da Premier League",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;Dá um Google&#8221; e &#8220;9 dedos&#8221;: veja frases marcantes do debate Flávio x Lula",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio x Lula: 4º bloco é marcado por Richarlison, Lulinha, e Vorcaro",
+      "imagem": null
+    },
+    {
+      "titulo": "Arsenal x Everton: horário e onde assistir ao jogo da Premier League",
+      "imagem": null
+    },
+    {
+      "titulo": "TSE determina que Nikolas e Marçal evitem conteúdos eleitorais até 2º turno",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio e Lula: 3º bloco tem embate sobre facções criminosas e endividamento",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Sendo Flávio ou Lula, eleito não terá lua de mel",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio critica gastos para Lula &#8220;se reeleger&#8221;; petista defende Desenrola",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula relembra caso Ana Clara e Flávio diz querer saber autor do disparo",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio x Lula: direitos de resposta e dívida pública marcam 2º bloco",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio ganha direito de resposta após ser chamado de &#8220;miliciano&#8221;",
+      "imagem": null
+    },
+    {
       "titulo": "Flávio cita &#8220;9 dedos&#8221;, Lula cobra retratação e senador pede desculpas",
       "imagem": null
     },
@@ -37,89 +113,13 @@
       "imagem": null
     },
     {
-      "titulo": "Lula defende valor do mínimo; Flávio fala em reajuste acima da inflação",
+      "titulo": "Lula e Flávio defendem reajuste do salário mínimo acima da inflação",
       "imagem": null
     },
     {
       "titulo": "Cruzeiro leva sustos, mas bate o Remo e se consolida no G4 do Brasileirão",
       "imagem": null
-    },
-    {
-      "titulo": "Flávio chega com governadores a debate; Lula leva mãe de menina Ana Clara",
-      "imagem": null
-    },
-    {
-      "titulo": "Ministério da Agricultura acompanha embarque de carne do Nordeste à China",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávio aponta milhares de obras paradas; Lula, que fez maior investimento",
-      "imagem": null
-    },
-    {
-      "titulo": "Brasil anuncia abertura de mercado de produtos do agro a seis países",
-      "imagem": null
-    },
-    {
-      "titulo": "Piloto ateia fogo em avião e foge após perseguição da FAB em MT",
-      "imagem": null
-    },
-    {
-      "titulo": "Prime Video anuncia Marina Ruy Barbosa e Marco Pigos em série nacional",
-      "imagem": null
-    },
-    {
-      "titulo": "Gabigol comenta chance de jogar no Boca Juniors: &#8220;Teve uma conversa&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "O segredo de Westminster: por que um monge medieval foi parar em um sarcófago romano?",
-      "imagem": null
-    },
-    {
-      "titulo": "Vídeo flagra homens jogando corpo atrás de muro; PMSP nota modus operandi",
-      "imagem": null
-    },
-    {
-      "titulo": "TSE se reúne com plataformas digitais às vésperas do segundo turno",
-      "imagem": null
-    },
-    {
-      "titulo": "Doria declara voto em Flávio Bolsonaro; Amoêdo escolhe Lula no 2º turno",
-      "imagem": null
-    },
-    {
-      "titulo": "Tapetão? Flamengo tenta anular jogo contra o Estudiantes, diz jornalista",
-      "imagem": null
-    },
-    {
-      "titulo": "Fundação PHP tem apenas um funcionário integral, diz diretor",
-      "imagem": null
-    },
-    {
-      "titulo": "Meta diz que &#8220;Exército do Lula&#8221; não viola políticas da empresa",
-      "imagem": null
-    },
-    {
-      "titulo": "TSE manda remover áudio falso sobre mesários do canal &#8220;Tropa do Flávio&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Nubank anuncia saída de diretor de tecnologia Eric Young",
-      "imagem": null
-    },
-    {
-      "titulo": "Sócios do Vasco aprovam venda de 90% da SAF a grupo de Marcos Lamacchia",
-      "imagem": null
-    },
-    {
-      "titulo": "Esposa de Lito Sousa define o que fará com objetos pessoais dele; saiba",
-      "imagem": null
-    },
-    {
-      "titulo": "Flávio e Lula fazem último debate presidencial do 2° turno",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-10-24T01:58:42.739Z"
+  "atualizadoEm": "2026-10-24T07:04:45.766Z"
 }
