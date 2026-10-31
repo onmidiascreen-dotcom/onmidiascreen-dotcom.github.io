@@ -1,6 +1,110 @@
 {
   "noticias": [
     {
+      "titulo": "Marinha inaugura novo navio para proteção de plataformas de petróleo e gás",
+      "imagem": null
+    },
+    {
+      "titulo": "Seedorf celebra 1ª vitória no Corinthians: &#8220;Vamos respirar, senão morremos&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasileirão tem distância de apenas 3 pontos do 11º para a zona da degola",
+      "imagem": null
+    },
+    {
+      "titulo": "Rio de Janeiro registra 74 casos de Mpox em dois meses",
+      "imagem": null
+    },
+    {
+      "titulo": "Bidu e Kaio César desabafam após a vitória do Corinthians: &#8220;Time merece&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Câncer de mama: estudo aponta vantagem da reconstrução com tecido próprio",
+      "imagem": null
+    },
+    {
+      "titulo": "Corinthians 2 x 0 Mirassol: veja os melhores momentos pelo Brasileirão",
+      "imagem": null
+    },
+    {
+      "titulo": "Brasileirão: Corinthians perde Matheuzinho para clássico contra São Paulo",
+      "imagem": null
+    },
+    {
+      "titulo": "Corinthians aproveita expulsão, vence Mirassol, respira, mas segue no Z4",
+      "imagem": null
+    },
+    {
+      "titulo": "Levante x Atlético de Madrid: horário e onde assistir ao jogo de La Liga",
+      "imagem": null
+    },
+    {
+      "titulo": "Namorada de motorista de Porsche é multada durante julgamento em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "CNI aponta piora nas condições financeiras das pequenas indústrias",
+      "imagem": null
+    },
+    {
+      "titulo": "Jorginho Mello se distancia de Flávio e diz respeitar resultado das urnas",
+      "imagem": null
+    },
+    {
+      "titulo": "Especialistas apontam cuidados com lentes de contato para Halloween",
+      "imagem": null
+    },
+    {
+      "titulo": "Fitch muda perspectiva do rating da França para negativa",
+      "imagem": null
+    },
+    {
+      "titulo": "Cantareira segue em alerta de &#8216;atenção&#8217; para risco de escassez hídrica",
+      "imagem": null
+    },
+    {
+      "titulo": "Cuello evolui em recuperação e pode reforçar o Atlético-MG contra o Grêmio",
+      "imagem": null
+    },
+    {
+      "titulo": "Britânico passa por cirurgia de 16 horas em Londres e descobre que médicos deixaram parte de seu crânio cair no chão da sala de operação",
+      "imagem": null
+    },
+    {
+      "titulo": "Ninguém é responsável pela minha saída do Brasil, diz Flávio",
+      "imagem": null
+    },
+    {
+      "titulo": "Professores temporários já representam 58% do total de profissionais em SP",
+      "imagem": null
+    },
+    {
+      "titulo": "Flávio diz que indicará Rogério Marinho para presidência do Senado",
+      "imagem": null
+    },
+    {
+      "titulo": "Fã de Poltergeist compra a casa que serviu de cenário para o filme e abre o imóvel para hospedagem de admiradores da obra",
+      "imagem": null
+    },
+    {
+      "titulo": "Corinthians x Mirassol: veja a expulsão de Bruno Santos no início do jogo",
+      "imagem": null
+    },
+    {
+      "titulo": "Enem 2026: CNN Brasil terá cobertura multiplataforma com correção ao vivo",
+      "imagem": null
+    },
+    {
+      "titulo": "Estados Unidos confirmam primeiro caso de mosca-bicheira no Arizona",
+      "imagem": null
+    },
+    {
+      "titulo": "Oncoclínicas diz que obteve adesão necessária de credores para recuperação",
+      "imagem": null
+    },
+    {
       "titulo": "Em plena noite de Halloween, soviéticos tiraram o corpo de Stalin do mausoléu de Moscou após história sobre o &#8216;fantasma&#8217; de Lênin",
       "imagem": null
     },
@@ -15,111 +119,7 @@
     {
       "titulo": "Small Caps caem 32,79% e registram maior queda semanal da história",
       "imagem": null
-    },
-    {
-      "titulo": "Raízen avança na reestruturação e terá duas empresas com novos comandos",
-      "imagem": null
-    },
-    {
-      "titulo": "Veja momento que motorista de Porsche admite ter bebido",
-      "imagem": null
-    },
-    {
-      "titulo": "BTS e Rage Against The Machine recusam convite para Coachella, diz site",
-      "imagem": null
-    },
-    {
-      "titulo": "Entorno de Lula se divide entre Pacheco e Messias para vaga no STF",
-      "imagem": null
-    },
-    {
-      "titulo": "Microscópio que analisa partículas cinco mil vezes menores que um fio de cabelo será utilizado em faculdade de SP a partir de 2027",
-      "imagem": null
-    },
-    {
-      "titulo": "Pai que arremessou filho de 5 anos de ponte vai a julgamento no RS",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Exército de Lula&#8221; inspira canais de esquerda em eleições estrangeiras",
-      "imagem": null
-    },
-    {
-      "titulo": "Bola de Ouro: em baixa, Vini Jr. fica fora do top 10 de 90% dos votantes",
-      "imagem": null
-    },
-    {
-      "titulo": "Atlético-MG tenta levar Ronaldinho a final, mas agenda atrapalha; entenda",
-      "imagem": null
-    },
-    {
-      "titulo": "Ex-BBBs Renata Saldanha e Maike anunciam gravidez do 1º filho",
-      "imagem": null
-    },
-    {
-      "titulo": "Corinthians x Mirassol: escalações e onde assistir ao jogo do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Castelo de 800 anos é descoberto por arqueólogos sob as paredes de prédio universitário",
-      "imagem": null
-    },
-    {
-      "titulo": "Conhecimento sobre IA no Brasil cresce de forma desigual, diz pesquisa",
-      "imagem": null
-    },
-    {
-      "titulo": "Zagueiro do Cruzeiro se lesiona, passa por procedimento e só volta em 2027",
-      "imagem": null
-    },
-    {
-      "titulo": "Finados 2026 terá programação gratuita em São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Ibovespa tem 5ª maior queda semanal desde o Plano Real",
-      "imagem": null
-    },
-    {
-      "titulo": "Quem é RM? Conheça o líder do BTS que tem itens expostos em museu",
-      "imagem": null
-    },
-    {
-      "titulo": "Alcolumbre pauta PEC da Segurança para sessão de terça-feira (3) no Senado",
-      "imagem": null
-    },
-    {
-      "titulo": "Após PSD, federação União-PP vai abrir conversas com Lula",
-      "imagem": null
-    },
-    {
-      "titulo": "Kane ganhou Bola de Ouro com 28 pontos de diferença para o segundo colocado",
-      "imagem": null
-    },
-    {
-      "titulo": "Cleber Machado votou em Messi para Bola de Ouro; veja top 10 do jornalista",
-      "imagem": null
-    },
-    {
-      "titulo": "Surpresa de Ancelotti, Alisson Santana brilha com dois golaços no Shakhtar",
-      "imagem": null
-    },
-    {
-      "titulo": "Lula cita Deus 12 vezes após vitória em 2026; recorde segue sendo 2022",
-      "imagem": null
-    },
-    {
-      "titulo": "Fiesp: atividade industrial recua no 3º tri e produção deve cair 0,4%",
-      "imagem": null
-    },
-    {
-      "titulo": "Google vai implementar anúncios nas respostas de IA no Brasil",
-      "imagem": null
-    },
-    {
-      "titulo": "Priscila Fantin, estrela de &#8216;Alma Gêmea&#8217;, construiu uma pequena Mykonos em mansão de 457 m² cercada por natureza",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-10-30T23:56:13.181Z"
+  "atualizadoEm": "2026-10-31T04:14:13.131Z"
 }
