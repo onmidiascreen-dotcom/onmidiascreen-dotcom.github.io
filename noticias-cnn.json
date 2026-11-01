@@ -1,125 +1,125 @@
 {
   "noticias": [
     {
+      "titulo": "Como pagar em moeda local no exterior sem taxa de conversão dupla",
+      "imagem": null
+    },
+    {
+      "titulo": "Euller relembra finais por Vasco e Palmeiras e aponta favorito na semifinal",
+      "imagem": null
+    },
+    {
+      "titulo": "Nasdaq tem pior mês em mais de um ano com temores sobre IA",
+      "imagem": null
+    },
+    {
+      "titulo": "Ídolo do Vasco, Mauro Galvão recorda históricas finais com Palmeiras",
+      "imagem": null
+    },
+    {
+      "titulo": "Fuvest 2027: 1ª fase acontece neste domingo para 106 mil candidatos",
+      "imagem": null
+    },
+    {
+      "titulo": "Grêmio enfrenta dilema para desafiar Atlético-MG na semi da Copa do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Cuiabá x São Bernardo: horário e onde assistir ao jogo da Série B",
+      "imagem": null
+    },
+    {
+      "titulo": "IA nos dispositivos: conheça 7 aparelhos que usam inteligência artificial",
+      "imagem": null
+    },
+    {
+      "titulo": "Grêmio x Atlético-MG: horário e onde assistir ao jogo da Copa do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Palmeiras x Vasco: horário e onde assistir ao jogo da Copa do Brasil",
+      "imagem": null
+    },
+    {
+      "titulo": "Mercado revisa PIB para baixo e já vê inflação até 6% em 2027",
+      "imagem": null
+    },
+    {
+      "titulo": "Novembro Azul: câncer de próstata é o segundo tipo mais comum em homens",
+      "imagem": null
+    },
+    {
+      "titulo": "Estreias de novembro: o que chega aos cinemas e streamings este mês",
+      "imagem": null
+    },
+    {
+      "titulo": "Álcool faz bem à saúde? Por que a ideia de proteção merece cuidado",
+      "imagem": null
+    },
+    {
+      "titulo": "Gastos com candidaturas ultrapassaram R$ 11 bilhões nas eleições de 2026",
+      "imagem": null
+    },
+    {
+      "titulo": "Congresso analisa inelegibilidade por violência contra mulher há 11 anos",
+      "imagem": null
+    },
+    {
+      "titulo": "Lyon x Angers: situação na tabela da Ligue 1 e o que está em jogo",
+      "imagem": null
+    },
+    {
+      "titulo": "Lula retomará agenda internacional com ida a cúpulas do Mercosul, COP e G20",
+      "imagem": null
+    },
+    {
+      "titulo": "Após derrota de Flávio, revisão no STF vira principal aposta para Bolsonaro",
+      "imagem": null
+    },
+    {
+      "titulo": "Paris FC x Monaco: horário e onde assistir ao jogo do Campeonato Francês",
+      "imagem": null
+    },
+    {
+      "titulo": "Rubens Barbosa: Brasil precisa de visão estratégica de longo prazo",
+      "imagem": null
+    },
+    {
+      "titulo": "Binance retoma saques após recuperar 95% de US$ 6,3 bi roubados em ataque",
+      "imagem": null
+    },
+    {
+      "titulo": "Novorizontino x Operário-PR: horário e onde assistir ao jogo da Série B",
+      "imagem": null
+    },
+    {
+      "titulo": "Lazio x Cagliari: horário e onde assistir ao jogo da Serie A",
+      "imagem": null
+    },
+    {
+      "titulo": "Liverpool x Arsenal: horário e onde assistir ao jogo da Premier League",
+      "imagem": null
+    },
+    {
+      "titulo": "Cruzeiro campeão da Libertadores feminina; veja o ranking de títulos",
+      "imagem": null
+    },
+    {
+      "titulo": "Cruzeiro leva prêmio milionário com título da Libertadores feminina; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Cruzeiro bate Corinthians nos pênaltis e conquista a Libertadores feminina",
+      "imagem": null
+    },
+    {
       "titulo": "Calvície e transplante capilar: por que os homens são mais afetados e os fios podem voltar a cair após a cirurgia?",
       "imagem": null
     },
     {
       "titulo": "Racing Santander x Real Madrid: horário e onde assistir ao jogo de La Liga",
       "imagem": null
-    },
-    {
-      "titulo": "Hamilton conquista 1ª pole com a Ferrari, cita Schumacher e se emociona",
-      "imagem": null
-    },
-    {
-      "titulo": "Cientistas afirmam que teoria sobre a origem da vida pode estar errada; nova simulações contradizem &#8216;bombardeio&#8217; de cometas",
-      "imagem": null
-    },
-    {
-      "titulo": "Malu Mader e Tony Bellotto prestigiam peça no Rio e posam com filho caçula",
-      "imagem": null
-    },
-    {
-      "titulo": "Casa de Militão é assaltada durante jogo; prejuízo supera R$ 2 milhões",
-      "imagem": null
-    },
-    {
-      "titulo": "Amazonas tem queda de quase 40% nos focos de queimadas em outubro, diz Inpe",
-      "imagem": null
-    },
-    {
-      "titulo": "Homem morre após queda de prédio em SP durante trabalho de limpeza",
-      "imagem": null
-    },
-    {
-      "titulo": "Hamilton faz a pole no GP do México de Fórmula 1; Antonelli larga em quarto",
-      "imagem": null
-    },
-    {
-      "titulo": "A cor da parede do quarto pode afetar seu sono? O que dizem o Feng Shui e a cromoterapia",
-      "imagem": null
-    },
-    {
-      "titulo": "Bombeiros combatem fogo em fábrica de óleo em SP; PM é acionada para apoio",
-      "imagem": null
-    },
-    {
-      "titulo": "&#8220;Klara e o Sol&#8221;: diretor comenta baixo desempenho de filme com Jenna Ortega",
-      "imagem": null
-    },
-    {
-      "titulo": "Dormir mal aumenta o risco cardiovascular? Entenda com Dr. Kalil",
-      "imagem": null
-    },
-    {
-      "titulo": "Raphinha e Yamal dão novo show, e Barcelona atropela o Alavés em La Liga",
-      "imagem": null
-    },
-    {
-      "titulo": "Em meio a boatos de affair, Ana Castela e Jon Vlogs combinam vestidos em NY",
-      "imagem": null
-    },
-    {
-      "titulo": "Em noite de homenagem a Kaká, Milan vence clássico contra Inter na Serie A",
-      "imagem": null
-    },
-    {
-      "titulo": "Qual a origem do tabuleiro Ouija, que supostamente contata espíritos e faz sucesso em histórias de filmes de terror",
-      "imagem": null
-    },
-    {
-      "titulo": "Coritiba 2 x 0 Vitória: veja os melhores momentos pelo Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Alunos de medicina são expulsos por ataques contra bolsistas no Paraná",
-      "imagem": null
-    },
-    {
-      "titulo": "Vinicius Medeiros se lança como candidato à presidência do São Paulo",
-      "imagem": null
-    },
-    {
-      "titulo": "Luiza Possi detona comemoração de Halloween: &#8220;Típico de Satanás&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "De Minaur surpreende Zverev e vai enfrentar Alcaraz na decisão em Viena",
-      "imagem": null
-    },
-    {
-      "titulo": "Ultraleve cai durante passeio e deixa duas pessoas feridas no Pará",
-      "imagem": null
-    },
-    {
-      "titulo": "PGR endossa decisão de Moraes que quebrou sigilo de jornalista do Maranhão",
-      "imagem": null
-    },
-    {
-      "titulo": "Investigada por golpe de R$ 1,32 milhão contra investidores no Pará é presa",
-      "imagem": null
-    },
-    {
-      "titulo": "Deep Purple adia shows após vocalista Ian Gillan sofrer &#8220;emergência médica&#8221;",
-      "imagem": null
-    },
-    {
-      "titulo": "Apps de namoro estão em crise? Entenda possíveis causas",
-      "imagem": null
-    },
-    {
-      "titulo": "Coritiba encerra jejum, bate Vitória e abre distância do Z4 do Brasileirão",
-      "imagem": null
-    },
-    {
-      "titulo": "Mercado busca novo patamar de preços na Bolsa, avalia estrategista",
-      "imagem": null
-    },
-    {
-      "titulo": "Xuxa resgata vídeo ao celebrar que será avó: &#8220;Meu desejo de ser Vovuxa&#8221;",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-11-01T01:48:24.479Z"
+  "atualizadoEm": "2026-11-01T08:38:53.856Z"
 }
