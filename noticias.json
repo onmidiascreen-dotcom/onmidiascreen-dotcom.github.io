@@ -1,6 +1,78 @@
 {
   "noticias": [
     {
+      "titulo": "Pitty no palco do Fantástico: veja a entrevista e as músicas",
+      "imagem": "https://s2-g1.glbimg.com/DMhI4-9pihRW8QqpDs6YCFqvQ2I=/s01.video.glbimg.com/deo/vi/37/06/15150637"
+    },
+    {
+      "titulo": "Ex-coronel uruguaio é preso no RS por crimes na ditadura",
+      "imagem": "https://s2-g1.glbimg.com/h8DVH1zaaLbc3s-L0f-Ydtqr2nU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/4/KurskIRFK0Jna8K50IAA/fotos-g1-1920-x-1080-px-2026-11-01t223001.996.png"
+    },
+    {
+      "titulo": "'Exército do Lula': Janones fala sobre canal com 10 milhões de pessoas e descarta ministério",
+      "imagem": "https://s2-g1.glbimg.com/wEIx8aavucIVe7LdB2fW8n479MI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/R/5DPB8TS4e0K9aIVy31mw/captura-de-tela-2026-11-01-213241.png"
+    },
+    {
+      "titulo": "Três entradas na Argentina em 40 minutos: os bastidores da fuga de Flávio Bolsonaro do Brasil",
+      "imagem": "https://s2-g1.glbimg.com/iDWKFg5i9-tr4uqHfxcLI06B0qA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/S/wPbDP6RJisTpsflN9Zbw/fotos-g1-1920-x-1080-px-2026-11-01t213447.955.png"
+    },
+    {
+      "titulo": "Mensagens ocultas em petições tentam direcionar decisões judiciais com IA e chegam até ao STF",
+      "imagem": "https://s2-g1.glbimg.com/wJ497SgBZgvcpZi8Z7CtH2EVcSM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/Q/uIGfrEQmKFrAbsilHyHg/videoframe-2364543.png"
+    },
+    {
+      "titulo": "Homem mais alto do Brasil volta a andar após ter pernas amputadas e receber próteses sob medida",
+      "imagem": "https://s2-g1.glbimg.com/kxWfvVhrdJHXlUcypAyQyayOlLs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/V/uk3oDTSY2eJ0HxvpN7zQ/captura-de-tela-2026-11-01-211605.png"
+    },
+    {
+      "titulo": "Suspeito de tráfico invade casa e é encontrado abraçado a criança durante fuga da PM em BH",
+      "imagem": "https://s2-g1.glbimg.com/j0Bqq13Wz_0liwxErtVTdai5igw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/A/BECFhqQWmRMs398gHK9g/pmmg-viatura-1-.jpg"
+    },
+    {
+      "titulo": "Ônibus doado à prefeitura no TO foi lançado por R$ 130 milhões em cadastro municipal, diz MP",
+      "imagem": "https://s2-g1.glbimg.com/UcuVU6l9FuVn0y1WN1FQYf-HpsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/p/r/nhCNlwS7miJa3HKkNQpg/eitaaaaaprefs.jpeg"
+    },
+    {
+      "titulo": "Empresas oferecem vagas de emprego em Goiás",
+      "imagem": "https://s2-g1.glbimg.com/S_BB6BFboWsxtfpcXtMd9XK8Zbs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/p/5BX3wqTXe0o9FxOBf5gg/remedios.jpg"
+    },
+    {
+      "titulo": "Tráfico internacional de ovos de aves nativas do Brasil movimentou R$ 90 milhões, diz PF",
+      "imagem": "https://s2-g1.glbimg.com/7OJB1-dfOh89Eu6HLfVea_rEJT8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/t/8T7dbJQOuocVGs3vgWSA/fotos-g1-1920-x-1080-px-2026-11-01t205550.358.png"
+    },
+    {
+      "titulo": "Homem tem orelha dilacerada por mordida durante agressão em Contagem; suspeitos são presos",
+      "imagem": "https://s2-g1.glbimg.com/_xQDa3f7ZmQ6p6-aLz7ugwpM7l0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/P/s6vcFDQIanuBFQAbubDQ/captura-de-tela-2026-07-18-081814.png"
+    },
+    {
+      "titulo": "'É perigoso acontecer de novo': acidentes com traves de futebol expõem falhas de segurança em espaços esportivos no Brasil",
+      "imagem": "https://s2-g1.glbimg.com/we1j2YwoW5PoMjCRLOhYz4CDeSQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/X/2I7mnZQ1akVJ6uBce6yA/videoframe-5253860.png"
+    },
+    {
+      "titulo": "Homem é preso por tentativa de homicídio após atacar vítima com golpes de machado em Nova Iguaçu",
+      "imagem": null
+    },
+    {
+      "titulo": "Julgamento expõe contradições de condenado por matar motorista de aplicativo em acidente com Porsche",
+      "imagem": "https://s2-g1.glbimg.com/RNtzCQDLfxhSYDRnsn2M-yeJS9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/w/xw1hpnQdWidCdqxOSh9A/captura-de-tela-2026-11-01-203345.png"
+    },
+    {
+      "titulo": "Gabriel O Pensador lança álbum ao vivo gravado há um ano em show no Rio com Ben Jor, Jota.Pê, Mano Brown e Rael",
+      "imagem": "https://s2-g1.glbimg.com/0zwbk3SqSUod8c-TO9Zzthr57ak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/j/xJbFSaTiiwFSexVA0jEQ/gabrielcapa.jpg"
+    },
+    {
+      "titulo": "Servidor é flagrado espiando mulheres em banheiro de unidade de saúde no PI",
+      "imagem": "https://s2-g1.glbimg.com/w9hXHyP2I0YvNGYoSSrT_nq5b5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/B/FxJNFuS2aIdsEa3FehAA/edicao-imagens-g1-7-.jpg"
+    },
+    {
+      "titulo": "Homem morre após ser baleado em rua no litoral de SP; polícia investiga",
+      "imagem": "https://s2-g1.glbimg.com/Jkbzm6mc0Kfq2oKpEsEpKKjL8cQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/q/K/3EKhP5RcO0IEZODqcdDA/delegacia-sao-vicente.jfif"
+    },
+    {
+      "titulo": "Fuvest 2027 cobra interpretação, repertório e conexão entre diferentes áreas do conhecimento, avaliam professores",
+      "imagem": "https://s2-g1.glbimg.com/vrfuRcOFu8UUiTGt5lFr-EmmDK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Q/dvyEmsSCa8J4OLNbBviw/ap26040061141559.jpg"
+    },
+    {
       "titulo": "Homem procurado pela Justiça se entrega à Guarda Municipal durante evento na Savassi, em BH",
       "imagem": "https://s2-g1.glbimg.com/-3TM5ftgL3BCvox2hKP1TmAAocc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/r/1rrNkTRgAkx2bkOjA0nA/guarda-municipal-prende.jpg"
     },
@@ -47,79 +119,7 @@
     {
       "titulo": "Fuvest 2027: estudantes apontam vocabulário complexo e dificuldade em exatas na 1ª fase em São Carlos",
       "imagem": "https://s2-g1.glbimg.com/sJqSu9Xq4X6HzB_LbFjrdtvjMfY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/G/GLn0w1QXupMZ65k2ingQ/1793568513337305-1-.jpg"
-    },
-    {
-      "titulo": "Nadador é atropelado por embarcação no Canal de Bertioga e fica ferido; condutor fugiu",
-      "imagem": "https://s2-g1.glbimg.com/9IhXcUYzqjour3xTN4b8SxW_b8E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/a/yCOQZAQ1y4UCz5wtw9DA/canal-de-bertioga-sp.jpg"
-    },
-    {
-      "titulo": "Vídeo: Homem é morto com facada no tórax após briga em bar em Taboão da Serra; suspeito é preso",
-      "imagem": "https://s2-g1.glbimg.com/oOA37wwQaRqQVt4CV69P3_vnSHk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/A/NqVgX3SxyWevGSoJeGhw/autor-e-vitima-crime-taboao.jpg"
-    },
-    {
-      "titulo": "Empresários chineses avaliam investimento de R$ 1,5 bilhão com geração de 4 mil empregos em Sorocaba",
-      "imagem": "https://s2-g1.glbimg.com/qHkAzsmEjYDE2wR3wE1s6cX7Xkk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/n/TB69IlQP2POYozPBMJAQ/dsc00377.jpg"
-    },
-    {
-      "titulo": "VÍDEO: temporal de granizo deixa quintais cobertos de branco, cidade sem luz e causa estragos em casas e escolas no Paraná",
-      "imagem": "https://s2-g1.glbimg.com/D3Zdzl63nSoi0iliC4vB3c9Uk_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/U/dStujVS6uBD8nJZkvVKw/g1-10-.png"
-    },
-    {
-      "titulo": "Fuvest 2027: cursinho aponta erro em questão de matemática",
-      "imagem": "https://s2-g1.glbimg.com/DKX03fp3nfcwOA088Q1YxHjkjcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/C/GAOmGSQO64myNnWCgdVg/whatsapp-image-2026-11-01-at-12.33.50.jpeg"
-    },
-    {
-      "titulo": "PAT de Itapetininga tem 266 vagas de emprego disponíveis a partir de terça-feira; veja oportunidades",
-      "imagem": "https://s2-g1.glbimg.com/D0pT2oXOi4VjaiRl_D91jUMYUDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/J/j1iUOQTaamuVLKV0Vpcw/image-9-.jpg"
-    },
-    {
-      "titulo": "Dragagem no Rio Solimões é alvo de apuração após moradores relatarem desmoronamentos e óleo na água",
-      "imagem": "https://s2-g1.glbimg.com/bieHylt6PMKA-uwmGWoWTSR_fjw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/r/J01b08SEyfvB8vDalz5A/dragagem-no-rio-solimoes-e-alvo-de-apuracao-apos-moradores-relatarem-desmoronamentos-e-oleo-na-agua-foto-divulgacao-dpe-am.jpeg"
-    },
-    {
-      "titulo": "Mudanças nos horários e trajetos de 19 linhas de ônibus entram em vigor em Taubaté; confira as alterações",
-      "imagem": "https://s2-g1.glbimg.com/dMQT557rtNvGvF4nR9qzABl5CCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/3/dIcB6xSBeGCzOFWgOBIg/texto-do-seu-paragrafo-2026-10-21t141457.230.png"
-    },
-    {
-      "titulo": "Homem é preso por tráfico de drogas em mercado no PI; sobrinho dele se apresenta e também acaba preso",
-      "imagem": "https://s2-g1.glbimg.com/2sW7GzC6kWCQPnkr-npl9dRR2Xo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/4/wB1G1vQ7CoEXOERGylrg/edicao-imagens-g1-6-.jpg"
-    },
-    {
-      "titulo": "Suspeito é preso por tentativa de homicídio após espancar homem em frente a supermercado",
-      "imagem": "https://s2-g1.glbimg.com/hU7owohA99D65QHYAxwfbfm5mVA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/x/h35PVHTnSao6AMdSwa7g/whatsapp-image-2026-07-02-at-17.05.31.jpeg"
-    },
-    {
-      "titulo": "Gás de cozinha fica mais caro na Bahia a partir deste domingo; reajuste pode elevar preço do botijão em até R$ 15",
-      "imagem": "https://s2-g1.glbimg.com/NKDkUcfltRizPlWis3YIT0gipaY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/k/Vdc4YVRWqymPT9fJY8yQ/2.png"
-    },
-    {
-      "titulo": "Quem era o jovem encontrado morto em estado de decomposição às margens da TO-336",
-      "imagem": "https://s2-g1.glbimg.com/h_1HBZ9KVAI9QUEjK_vHPWJZ6jQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/T/IO3nsfQ7iYMpBeLuUG0A/foto-e-montagem-vertical-2026-10-31t111015.338.jpg"
-    },
-    {
-      "titulo": "VÍDEO: Rio no Pantanal fica com água avermelhada após barcaça carregada de minério afundar em MS",
-      "imagem": "https://s2-g1.glbimg.com/i4ciD1K8Oe9et45qFZOVQ3EQpEo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/B/HaGBWhS86SAw63QIeVSg/para-o-g1-2026-11-01t173735.779.jpg"
-    },
-    {
-      "titulo": "Pastilhas de cloro para evitar proliferação do Aedes aegypti em climatizadores são distribuídas em MG",
-      "imagem": "https://s2-g1.glbimg.com/rXluzpFbtlmZWKUQpPJJS8BpLEs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/M/yoBWdgQ3AfBpHD68dvCg/imagens-para-materia-2-.jpg"
-    },
-    {
-      "titulo": "Fuvest 2027 registra menor índice de abstenção da história: 6,4% faltaram à 1ª fase; candidatos relatam atraso por trem e casos de vômito",
-      "imagem": "https://s2-g1.glbimg.com/xACOm3x-lQsv_vieEamq_KPYuqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/q/B23LzQRvuI6xBBvTrwCQ/dsc-1841.jpg"
-    },
-    {
-      "titulo": "Congado e Folia de Reis: Associação Mártir Filomena recebe título do Ministério da Cultura",
-      "imagem": "https://s2-g1.glbimg.com/s2FMocLgVxmwd0e4BxG7aHj1ocQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/0/HDs8IUTtO4BZXKySf3AA/foto-pra-capa-1-.jpg"
-    },
-    {
-      "titulo": "Homem é preso com skank e cocaína em casa na zona Oeste de Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/B-12Wolz5-Mb9yRBauLIhQxz2Dc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/g/2ZSX0pTz26PI5yfNm9ug/drogas-apreendidas-pela-pmrr.jpg"
-    },
-    {
-      "titulo": "Confins confirma primeiro caso de mpox; Minas Gerais registra 33 casos da doença em 2026",
-      "imagem": "https://s2-g1.glbimg.com/TRcEGTX1Pu4Ps0SL94JLl2LZ8U8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/b/g/xUBTMHSZGeqMEByBkH3A/confins.jpeg"
     }
   ],
-  "atualizadoEm": "2026-11-01T23:19:48.051Z"
+  "atualizadoEm": "2026-11-02T02:39:36.956Z"
 }
