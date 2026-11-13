@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Brasil x Peru: horário e onde assistir ao amistoso da Seleção sub-20",
+      "imagem": null
+    },
+    {
+      "titulo": "Argentina x Uruguai: horário e onde assistir ao amistoso na Data Fifa",
+      "imagem": null
+    },
+    {
+      "titulo": "Projeto de ajuste fiscal pode bancar compensação do seguro rural em 2027",
+      "imagem": null
+    },
+    {
+      "titulo": "Minerva reduz estoques em R$ 397,5 milhões no terceiro trimestre",
+      "imagem": null
+    },
+    {
+      "titulo": "Caso Nvidia pode ganhar força no Congresso americano, diz especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "Tosse e falta de ar frequentes podem indicar asma ou pneumonia; entenda",
+      "imagem": null
+    },
+    {
+      "titulo": "Não haverá um grande ajuste fiscal de uma só vez, diz especialista",
+      "imagem": null
+    },
+    {
+      "titulo": "Ataques hackers podem gerar prejuízo de R$ 2,9 trilhões ao Brasil em 3 anos",
+      "imagem": null
+    },
+    {
+      "titulo": "U2 revela músicas tocadas no 1º show da banda em escola: &#8220;Tive que ceder&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Holanda x Grécia: horário e onde assistir ao jogo da Nations League",
+      "imagem": null
+    },
+    {
+      "titulo": "Sérvia x Alemanha: horário e onde assistir ao jogo da Nations League",
+      "imagem": null
+    },
+    {
+      "titulo": "Senado deixa para concluir votação do ajuste fiscal na próxima semana",
+      "imagem": null
+    },
+    {
+      "titulo": "Instabilidade da Microsoft afeta inteligência e polícia da Austrália",
+      "imagem": null
+    },
+    {
+      "titulo": "Falha na Microsoft mantém Outlook e serviços instáveis nesta sexta-feira",
+      "imagem": null
+    },
+    {
+      "titulo": "Grammy Latino: Anitta perde Álbum do Ano para Rosalía",
+      "imagem": null
+    },
+    {
+      "titulo": "&#8220;A Fazenda 18&#8221;: Murilo Dias é eliminado com 32,63% dos votos",
+      "imagem": null
+    },
+    {
+      "titulo": "Galisteu explica &#8220;ausência&#8221; de Mayk Leão em &#8220;A Fazenda&#8221;: &#8220;Ansiedade&#8221;",
+      "imagem": null
+    },
+    {
+      "titulo": "Após gafe polêmica, Pegula vai encarar Andreeva na semifinal do WTA Finals",
+      "imagem": null
+    },
+    {
+      "titulo": "Anitta ganha 1º Grammy Latino da carreira; confira",
+      "imagem": null
+    },
+    {
+      "titulo": "Anitta escolhe look branco com transparências para Grammy Latino; veja",
+      "imagem": null
+    },
+    {
+      "titulo": "Casos graves de Covid-19 dão sinal de crescimento no Brasil, aponta Fiocruz",
+      "imagem": null
+    },
+    {
       "titulo": "Como votaram os senadores na análise do texto-base do PLP do ajuste fiscal",
       "imagem": null
     },
@@ -17,7 +101,7 @@
       "imagem": null
     },
     {
-      "titulo": "Waack: Dólar sobe e conta da demora de Lula fica mais cara",
+      "titulo": "Waack: Dólar sobe, e conta da demora de Lula fica mais cara",
       "imagem": null
     },
     {
@@ -35,91 +119,7 @@
     {
       "titulo": "Muro de cemitério, em Mogi das Cruzes, desaba após chuva",
       "imagem": null
-    },
-    {
-      "titulo": "Cacique Raoni apresenta evolução clínica, mas segue sem previsão de alta",
-      "imagem": null
-    },
-    {
-      "titulo": "Caixa tem lucro de R$ 3,5 bilhões no 3° tri, queda de 7,4%",
-      "imagem": null
-    },
-    {
-      "titulo": "Tesouro identifica acesso indevido a 30 mil cadastros e 4 mil chaves Pix",
-      "imagem": null
-    },
-    {
-      "titulo": "Especialistas analisam impactos de obras de casos criminais no público",
-      "imagem": null
-    },
-    {
-      "titulo": "Vorcaro pede que Gilmar analise decisão de Fachin sobre manter caso Master",
-      "imagem": null
-    },
-    {
-      "titulo": "Cerebras eleva projeção de receita, mesmo com prejuízo maior",
-      "imagem": null
-    },
-    {
-      "titulo": "Navio que transportou Marilyn Monroe e Walt Disney é afundado de propósito após décadas de história; entenda o motivo",
-      "imagem": null
-    },
-    {
-      "titulo": "Arborização de cafezais combate mudanças climáticas, diz especialista",
-      "imagem": null
-    },
-    {
-      "titulo": "Marisa Lojas registrou prejuízo líquido de R$ 52,9 milhões no 3° tri",
-      "imagem": null
-    },
-    {
-      "titulo": "Agricultura regenerativa fortalece produção de cafés especiais",
-      "imagem": null
-    },
-    {
-      "titulo": "Ponte Preta perde para Operário e tem pior campanha da história da Série B",
-      "imagem": null
-    },
-    {
-      "titulo": "Com Kassab, Ministério das Cidades entra nas articulações do PSD",
-      "imagem": null
-    },
-    {
-      "titulo": "BB diz que não responsabiliza agronegócio por queda nos resultado",
-      "imagem": null
-    },
-    {
-      "titulo": "Senado aprova texto-base do ajuste fiscal com limite a cortes do Executivo",
-      "imagem": null
-    },
-    {
-      "titulo": "Mega-Sena 3085: loteria acumula e pode pagar R$ 27 milhões no domingo (15)",
-      "imagem": null
-    },
-    {
-      "titulo": "Regra para evitar pautas-bomba tem amplo apoio no STF",
-      "imagem": null
-    },
-    {
-      "titulo": "Cemig tem lucro de R$ 1,7 bilhão no 3° trimestre",
-      "imagem": null
-    },
-    {
-      "titulo": "TRE-RJ altera composição da Alerj e PSDB ganha vaga do PL",
-      "imagem": null
-    },
-    {
-      "titulo": "Braskem tem prejuízo líquido de R$ 1,1 bilhão no 3º trimestre",
-      "imagem": null
-    },
-    {
-      "titulo": "Justiça condena médico que divulgou que mamografia aumenta casos de câncer",
-      "imagem": null
-    },
-    {
-      "titulo": "Sem consenso, PL decide por voto secreto sobre reeleição de Hugo Motta",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-11-13T01:39:15.643Z"
+  "atualizadoEm": "2026-11-13T08:45:29.635Z"
 }
