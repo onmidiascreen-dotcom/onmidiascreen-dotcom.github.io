@@ -43,6 +43,10 @@
         {
           "imagem": "comunicados/1790799078095-Aviso_Garagens.png",
           "segundos": 30
+        },
+        {
+          "imagem": "comunicados/1794600936532-cartaz_infinity_residence_integral_1080x720.png",
+          "segundos": 120
         }
       ],
       "fonteNoticias": "g1"
