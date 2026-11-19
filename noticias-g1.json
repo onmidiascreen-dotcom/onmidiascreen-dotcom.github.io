@@ -1,125 +1,125 @@
 {
   "noticias": [
     {
-      "titulo": "Sarna humana chega a 7 cidades, fecha mais uma creche e soma pelo menos 126 casos confirmados em MS",
+      "titulo": "Prefeitura de São José da Lagoa Tapada, na PB, abre processo seletivo com 68 vagas",
+      "imagem": "https://s2-g1.glbimg.com/F_VD1uOABJ1JUB-evjEP1Udy89c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/h/iLi7IwTyu4dXUHCqxNfA/imagem-ilustrativa-para-concurso-foto-divulgacao.jpg"
+    },
+    {
+      "titulo": "Inscrições para o CFO 2027 do Corpo de Bombeiros da Paraíba começam nesta quinta (19)",
+      "imagem": "https://s2-g1.glbimg.com/9LPo3SZ7Um3OdUxMBU11ZpkYAmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/s/xm2CeCQ2eFhiF0KTGHmA/whatsapp-image-2026-11-18-at-15.49.24.jpeg"
+    },
+    {
+      "titulo": "Mãe e padrasto são condenados por morte de menina de 3 anos agredida na Grande SP",
+      "imagem": "https://s2-g1.glbimg.com/fgGRZps9CLC-T4KBR1D6EFPGn6s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/t/S34Sc8REupqfwzY2PT9A/fotojet-29-.jpg"
+    },
+    {
+      "titulo": "Marina JHC no Senado: entenda a disputa judicial em torno da candidatura",
+      "imagem": "https://s2-g1.glbimg.com/8MAONeDi228nUPGl8u5Ne9vtCmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/E/PkelpNSAKM3V5qSwZCZw/capasmatriasdoportal20230518t101551.493-1000x509.png"
+    },
+    {
+      "titulo": "MP-SP denuncia empresário por matar namorada advogada e enteado de 6 anos por asfixia",
+      "imagem": "https://s2-g1.glbimg.com/bvvjH7xjy-zmihxpANrccV8g73Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/W/JPnbR0Q5yi7aLL8ZuA4g/fotojet-2026-11-05t085449.036.jpg"
+    },
+    {
+      "titulo": "Assista ao Bom Dia ES",
+      "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif"
+    },
+    {
+      "titulo": "AO VIVO: assista à programação da NSC TV",
+      "imagem": "https://s2-g1.glbimg.com/LV8Ln60Du7uzifT1-jB3z6u7-cM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/o/M6F8CDS2eEzJGxF6ErNA/saveclip.app-472234052-18475914292037302-998144417829418425-n.jpg"
+    },
+    {
+      "titulo": "Festival Mungunzá, Rodeo e Luiz Caldas: veja agenda cultural do fim de semana em Natal",
+      "imagem": "https://s2-g1.glbimg.com/rIlIos6Zo9BaZeXSyGnPCMIHrfo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/Y/KczxjkTWOk4AjDOVOv9g/whatsapp-image-2026-10-05-at-09.54.50.jpeg"
+    },
+    {
+      "titulo": "Mãe que perdeu filha com câncer no colo do útero alerta para importância de exames no AC: 'Quanto mais cedo, melhor'",
+      "imagem": "https://s2-g1.glbimg.com/0Q0RtBeUsFUM3FQOXGpT2k2CF-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/w/p976BvRDuC4UKiEWQdBw/midia-de-distribuicao-g1-24-.png"
+    },
+    {
+      "titulo": "Veja o que abre e o que fecha no AC no feriado prolongado de Tratado de Petrópolis e Consciência Negra",
+      "imagem": "https://s2-g1.glbimg.com/85YBGIdLRF9jfgKSkN91vBe5Hyk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/y/c/9e6AxrRYmjWXAOwejb1A/especial-consciencia-negra-frame-6986.jpeg"
+    },
+    {
+      "titulo": "Mais de 13 mil trabalhadores no Amapá ainda não sacaram o Abono Salarial 2026; veja como fazer",
+      "imagem": "https://s2-g1.glbimg.com/Zek3filyicTe8K-YgVAf4fLXSaY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/p/SD32xKTOKf3iONNmCCCw/videoframe-3418741.png"
+    },
+    {
+      "titulo": "Radares e fiscalização de avanço de sinal serão instalados em 5 pontos de Divinópolis; veja onde",
+      "imagem": "https://s2-g1.glbimg.com/z5svJKkGABTJxx2iZJAFlD0bvAo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/y/6/wJCkuKQTuFOorCDLjhBA/whatsapp-image-2024-09-02-at-17.40.34.jpeg"
+    },
+    {
+      "titulo": "Assista ao Jornal da Manhã",
       "imagem": null
     },
     {
-      "titulo": "Bicampeã olímpica de vôlei, Paula Pequeno posa pela primeira vez com as duas medalhas após ter a de Pequim roubada: 'Dia especial'",
-      "imagem": "https://s2-g1.glbimg.com/2WniZS34AY0w_I2PogHP8y6ERWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/N/plH7gVQV24BATQ1TlYhw/globo-canal-4-20261118-2000-frame-150642.jpeg"
+      "titulo": "Gil de graça em Niterói, eventos da Semana da Consciência Negra, Honk! Rio: o que fazer no Rio",
+      "imagem": "https://s2-g1.glbimg.com/lvjSty3QzHhXefJpy-B6aRrDi78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/E/2yh3W2TOqjq5XHadT9aQ/gilberto-gil-foto-ricardo-stuckert-1-.jpg"
     },
     {
-      "titulo": "Homem faz vídeo com facas e motosserra para ameaçar ex-namorada e tenta invadir trabalho",
-      "imagem": "https://s2-g1.glbimg.com/QsRAGr0z0wXRWCXImWLM7sgkEPc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/RhETzgSaWIzZ0YS4L3Lw/area-1-23-.png"
+      "titulo": "Menina chora ao receber máscara de cabelo ao invés de iPhone no litoral de SP; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/6Zu4fu8jDxFhCgLqszGPS3zd7vE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/H/3NYLljTdmHPPCvj81xwg/iphone-1-.jpg"
     },
     {
-      "titulo": "Proposta de ajuste fiscal do governo volta a repercutir no mercado financeiro",
-      "imagem": "https://s2-g1.glbimg.com/AWBUm0mcBeGzrDSumvrYVNUuoS0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/S/zM3g3fTYuPRLe4W2xn8A/globo-canal-4-20261118-2000-frame-98079.jpeg"
+      "titulo": "Aluna tem Provão Paulista cancelado após publicar caderno de respostas no TikTok",
+      "imagem": "https://s2-g1.glbimg.com/_tPdMXZms1rkuTVznTWr-6YbVNo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/c/jANxlZSBmm1wtXBm8IOg/provao-paulista.jpg"
     },
     {
-      "titulo": "Resultados das Loterias Caixa",
-      "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
+      "titulo": "Homem é filmado por vizinhos agredindo o próprio cachorro com criança no colo; VÍDEO",
+      "imagem": "https://s2-g1.glbimg.com/aEfLYsEyUa8_62ECt1Amnk7ILbY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/X/cV8acaRRu7B06vLlxpxw/maus-tratos.jpg"
     },
     {
-      "titulo": "Agefis apreende 156 quilos de alimentos irregulares em supermercado de Fortaleza",
-      "imagem": "https://s2-g1.glbimg.com/r8yVi4jRKAJOuuG7mYn6DiAc8RI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/M/INVHhfSl2K0OMIAQKrBg/agefis-fiscalizacao.jpg"
+      "titulo": "Após agredir vizinha com água quente e paneladas, mulher debocha do ataque e divulga vídeo nas redes",
+      "imagem": "https://s2-g1.glbimg.com/dSMgJZgqFrTaG0TNxO8YX5aqvy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/x/aHpzO7QXa5m5BvUIuWuA/jl-midia-9-.png"
     },
     {
-      "titulo": "+Milionária hoje: resultado do concurso 408 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/WyHWbfE5KfX-Ogla7ZAT1Hn4sr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Z/Ab5m0dQAiAsK5GWU9kuQ/maismilionaria-408-infzt.jpeg"
+      "titulo": "Como imagem sacra que desapareceu há mais de 40 anos foi encontrada e voltou a altar de igreja histórica em MG",
+      "imagem": "https://s2-g1.glbimg.com/w4b_x2C21G8yo9-D7iRVc0zXnpU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/n/csYYdmRjOEgbU8ao4nBA/imagem-nossa-senhora-mp.jpg"
     },
     {
-      "titulo": "Super Sete hoje: resultado do concurso 924 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/uN8lM0XE_G7JCmwjkZzKMu11yjI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/V/nfrCrFSkulRGSTBiykAg/volantes-super-sete.jpg"
+      "titulo": "Servidor é demitido por trabalhar ao mesmo tempo nas prefeituras de Uberlândia e Capinópolis",
+      "imagem": "https://s2-g1.glbimg.com/-lVDY5-zX1DZcReIUoxugdLt4mI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/R/Ae6XzATaqRVBWrEpA3jA/image-2025-05-03t170255.124.png"
     },
     {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1351 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/l46o3SXNcrGQUDUrNYadOTTo4VY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/E/T0q0nKTE2TxkQ9rIZn6g/diadesorte-1351-eqqke.jpeg"
+      "titulo": "Fábrica é condenada por dar uniforme usado e largo a funcionário em MG",
+      "imagem": "https://s2-g1.glbimg.com/XkcZ0stS42OyOWZo5jos41ZRZog=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/m/R/f5PC47Q6OIRkevhcbDoA/fachada-tribunal-regional-do-trabalho-minas-gerais-trt-mg-3a-regiao.jpeg"
     },
     {
-      "titulo": "Lotomania hoje: resultado do concurso 3001 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/g7bi8qHI2hdXsWbgF3IR9oGNgqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/k/KsBkpCQxW0S4iS6KX3Zw/lotomania-3001-cxvja.jpeg"
+      "titulo": "Seca causada pelo El Niño deixa moradores de Boa Vista sem água: 'Acordo às 3h30 para tomar banho'",
+      "imagem": "https://s2-g1.glbimg.com/cbAtlhZjH95f6GzHvUSFjewAK9U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/1/ATJsxYTOAnpg1PTcXWIA/falta-de-agua-jardim-primavera.jpeg"
     },
     {
-      "titulo": "Foragido após prisão em força-tarefa de ataques com oito mortos em Porto Alegre se entrega à polícia",
-      "imagem": "https://s2-g1.glbimg.com/RF6oFT-Z2Zwi_lUfv7VWrESWfOY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/l/xtAb3dSVCRePsTICGkKQ/g1-43-.jpg"
+      "titulo": "É #FAKE que MP do 'imposto do pecado' aumentará em 30% carga tributária sobre carros em 2027",
+      "imagem": "https://s2-g1.glbimg.com/Yrfm3vngaVt64ljSpDVo7Kkc_d8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/N/Z8WKs8TvCBmA8JHTghcg/abre-materia-fof-72-.png"
     },
     {
-      "titulo": "Dupla Sena hoje: resultado do concurso 3034 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/uviRoxBX-4_p7oF6Pk4PZu8S33w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/6/GyKlX1T2axvgDrAAMHGg/duplasena-3034-cibep.jpeg"
+      "titulo": "Paraná fica em alerta de tempestades no feriado; veja a previsão do tempo",
+      "imagem": "https://s2-g1.glbimg.com/y644pjrdibCn6rOhURD5iMWczuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/5/EB0SZzQuet27r7b2R74w/chuva.jpg"
     },
     {
-      "titulo": "Lotofácil 3833: seis apostas de MT acertam 14 números e ganham R$ 2 mil",
-      "imagem": "https://s2-g1.glbimg.com/bx77Bvf7OUj0LB_0AVRAt8Nhcvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/k/XjWWbsSw2eKWY4E5RBsA/edicao-imagens-g1-11-.png"
+      "titulo": "Empresa que esperou fim do expediente para levar funcionário com sintomas de AVC ao hospital tinha ambulância própria",
+      "imagem": "https://s2-g1.glbimg.com/w96SFJaKTumeXOIBVQh-y5Hs-E8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/d/ioSwihSaOPSY9OjKmAgg/trt-mg.jpg"
     },
     {
-      "titulo": "Resumão diário do JN: Encontro histórico reúne os líderes das três principais potências mundiais; Senado aprova proposta do governo de ajuste fiscal",
-      "imagem": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
+      "titulo": "Solidão, ansiedade e sensibilidade: os desafios de superdotados na preparação para o vestibular",
+      "imagem": "https://s2-g1.glbimg.com/Vb9pY9lULl9MVbh8-pBBy3Rwhx4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/K/ATjJtASemVp7yAnFLsFw/design-sem-nome.png"
     },
     {
-      "titulo": "Senado concluiu votação das medidas do governo para o ajuste das contas públicas; texto segue para a Câmara",
-      "imagem": "https://s2-g1.glbimg.com/MlXmRcikp73mjULKApiYKMcJDd4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/e/1bRhOnRVG5eDkAjJlMMQ/globo-canal-4-20261118-2000-frame-90642.jpeg"
+      "titulo": "O disco de ouro com mensagens para extraterrestres levado pela sonda Voyager 1 (e como eles poderão decifrá-lo)",
+      "imagem": "https://s2-g1.glbimg.com/mY-mPJNsIWoaBht0HPx2dTMNmbE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/A/hijAKPRMyX6BWGxbe5Ew/fotojet-28-.jpg"
     },
     {
-      "titulo": "Lotofácil hoje: resultado do concurso 3833 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/X4V_UHhLNO7Go0QRnyL80L-RvDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/p/vo2BbrTpycitYwUDwRkQ/lotofacil-3833-rjsub.jpeg"
+      "titulo": "Vídeos mostram PMs conversando com tatuadora e ex entrando de carro em mata onde jovem foi encontrada morta em SP",
+      "imagem": "https://s2-g1.glbimg.com/Knr7whTnDM8SjBKWClJROdM9xc0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/A/7N0J1JRlqBrMHMKJvQ3w/montagem-horizontal-1200px-54-.jpg"
     },
     {
-      "titulo": "Quina hoje: resultado do concurso 7171 e números sorteados",
-      "imagem": "https://s2-g1.glbimg.com/d4OnwjisXEcuycxreb7NagEKmow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/C/czN25wTSCNibmRcvjYbA/quina-7171-pgcct.jpeg"
+      "titulo": "Tocantins registra 4,5 milhões de raios em 2026; especialistas alertam para cuidados dentro e fora de casa",
+      "imagem": "https://s2-g1.glbimg.com/qlYnEI2_QQmRKwesB5c7Fy1qG3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/i/U/ydBb1ySkAC6j4A0bngvg/whatsapp-image-2024-01-10-at-17.29.10.jpeg"
     },
     {
-      "titulo": "Motorista avança sinal vermelho e atinge idoso de bicicleta e casal de motociclista em Boa Vista",
-      "imagem": "https://s2-g1.glbimg.com/1pDjeWi1LMEqifb-5EJukyv2gWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/M/NR1V87QjSh5o8VJWJjSw/acidente-mecejana.jpg"
-    },
-    {
-      "titulo": "Equipes passam por quarentena antes de atender indígenas isolados no MA, diz Ministério da Saúde",
-      "imagem": "https://s2-g1.glbimg.com/dCdb2CijB4rL6YuqLbUCex1B4t8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/g/Ty8fzvS2yAjsGJaghc0g/design-sem-nome-65-.png"
-    },
-    {
-      "titulo": "EUA anunciam acordo de nova parceria militar com a Venezuela",
-      "imagem": "https://s2-g1.glbimg.com/6RNWpKZyhhmlLFaRW9I9_SM_iKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/U/sC32HvSIOrRgBJ5nsntg/globo-canal-4-20261118-2000-frame-87278.jpeg"
-    },
-    {
-      "titulo": "Registros de embriaguez ao volante sobem 6,25% no Sul do RJ",
-      "imagem": "https://s2-g1.glbimg.com/C1NWR7PPuyTT9lG1P_CF7XtxD8U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/L/hEJmIATHGkEMPrdbgtBg/whatsapp-image-2026-11-17-at-18.30.26-1-.jpeg"
-    },
-    {
-      "titulo": "Homem se passa por policial, invade casa e executa morador com tiro na cabeça em Campo Grande",
-      "imagem": "https://s2-g1.glbimg.com/ovHj1Z5bnhcQNxPl-u4DL4WYlJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/q/CgyJIzSr2uaE7Vb8hJmw/design-sem-nome-91-.jpg"
-    },
-    {
-      "titulo": "Justiça decide afastar prefeito de Aparecida e secretário dos cargos por 90 dias em ação de improbidade",
-      "imagem": "https://s2-g1.glbimg.com/-Q4s_hxog_9a3AmEcs2uFcAfrqY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/q/9vFUKCS7KwhIXNBgIPuQ/foto-g1.jpg"
-    },
-    {
-      "titulo": "Husky Pandora é devolvida para tutora em Cravinhos, SP, após impasse com ONG",
-      "imagem": "https://s2-g1.glbimg.com/WO4znJ1-gcsIoV-Kyak99UG4DcA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/e/yDuGdURoifs3xboezeDA/design-sem-nome-24-.jpg"
-    },
-    {
-      "titulo": "MP denuncia, por homicídio e tentativa de feminicídio, PM que abriu fogo contra amigos e matou jovem em van no DF",
-      "imagem": "https://s2-g1.glbimg.com/fQSSPMAmLlTu0Mr8Z62KCaprdVQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/e/PZnax8TsGdAej5VZCvOA/fotojet-9-.jpg"
-    },
-    {
-      "titulo": "Encontro em Shenzhen acende preocupação sobre risco do retorno de divisão do mundo em esferas de influência; entenda",
-      "imagem": "https://s2-g1.glbimg.com/2yJsbVTaaZVu53tCkDvwCKH2xlc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/j/1XewlzRz6M8J6bzwoQvg/globo-canal-4-20261118-2000-frame-80126.jpeg"
-    },
-    {
-      "titulo": "Homem barrado no Enem sonha em passar no exame há 10 anos após superar perda dos pais, situação de rua e alcoolismo: 'Nunca desisti'",
-      "imagem": "https://s2-g1.glbimg.com/uAlG1jHeUmF6MYcHRXQ_yLGJuso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/D/oy6BDkREWCtAAmofK7MQ/morador-de-campos-tenta-passar-no-enem-ha-10-anos-apos-superar-a-morte-dos-pais-viver-em-situacao-de-rua-o-alcoolismo.png"
-    },
-    {
-      "titulo": "Mãe e filha são resgatadas de cárcere privado após mulher ser agredida por companheiro, diz polícia",
-      "imagem": "https://s2-g1.glbimg.com/VdbtBpwPSCW2927RPLzisvAHwiI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Y/pqKMrzQTe5FWftCBXzwA/g1-2026-11-18t204810.494.jpg"
-    },
-    {
-      "titulo": "Disputa pelo domínio da IA vai determinar o país mais poderoso do século 21",
-      "imagem": "https://s2-g1.glbimg.com/7mn8wWAGYthiJyHttx1MZ45e5ok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/n/9lfRDdSuqeTn4krrecWw/globo-canal-4-20261118-2000-frame-72570.jpeg"
-    },
-    {
-      "titulo": "Teatro Zanzalá completa 1 ano com espetáculos de graça em Cubatão, SP",
-      "imagem": "https://s2-g1.glbimg.com/VJOY0D5P-L5dF8QKMeEb6YVbvFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/L/ImYA3PSQijn2oag7RXMg/g1-36-.jpg"
+      "titulo": "Vencedor do Grammy Latino, Amaro Freitas celebra a Amazônia e a música brasileira em show no Theatro da Paz",
+      "imagem": "https://s2-g1.glbimg.com/ox1ssH9c-RfoqZx_KKW4oSGpu9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/1/hu2gbBQHmCPNF1PQmJQw/best-amaro-freitas3913-1-1-micaelhocherman-baixa.jpg"
     }
   ],
-  "atualizadoEm": "2026-11-19T01:29:34.285Z"
+  "atualizadoEm": "2026-11-19T09:23:10.787Z"
 }
