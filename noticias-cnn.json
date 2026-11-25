@@ -1,6 +1,90 @@
 {
   "noticias": [
     {
+      "titulo": "Indústria pode absorver metade da produção brasileira de batata até 2030",
+      "imagem": null
+    },
+    {
+      "titulo": "PL das baterias pode aumentar conta de luz em R$ 6,2 bi, diz entidade",
+      "imagem": null
+    },
+    {
+      "titulo": "Mercosul tenta lançar acordo comercial com Coreia do Sul em cúpula",
+      "imagem": null
+    },
+    {
+      "titulo": "Como seria um imposto sobre a riqueza na era dos bilionários da IA?",
+      "imagem": null
+    },
+    {
+      "titulo": "Revisão de supersalários pode poupar R$ 5 bi por ano, mas efeito é incerto",
+      "imagem": null
+    },
+    {
+      "titulo": "Adeus aos seios volumosos? entenda porque mulheres estão reduzindo próteses",
+      "imagem": null
+    },
+    {
+      "titulo": "Câmara e partidos promovem &#8220;ambientação&#8221; para eleitos em Brasília",
+      "imagem": null
+    },
+    {
+      "titulo": "Gasto obrigatório é principal problema para Lula, diz Ana Paula Vescovi",
+      "imagem": null
+    },
+    {
+      "titulo": "Logo após atingir um marco histórico, a Voyager 1 pode estar em apuros tenebrosos; retornando apenas um &#8220;sinal portador&#8221; vazio",
+      "imagem": null
+    },
+    {
+      "titulo": "Equipe econômica aguarda Lula para avançar com PEC do ajuste fiscal",
+      "imagem": null
+    },
+    {
+      "titulo": "Miss Universo 2026: Jennifer Barreto, de Porto Rico, vence concurso",
+      "imagem": null
+    },
+    {
+      "titulo": "Governo piora projeções, mas libera R$ 3,4 bi com gastos fora da meta",
+      "imagem": null
+    },
+    {
+      "titulo": "Minerais críticos: a demanda não é digital, é humana",
+      "imagem": null
+    },
+    {
+      "titulo": "Haddad sinaliza a Lula disposição de não integrar equipe ministerial",
+      "imagem": null
+    },
+    {
+      "titulo": "Sinais emitidos por comércio afetavam pousos no Aeroporto de Guarulhos",
+      "imagem": null
+    },
+    {
+      "titulo": "Alckmin seria boa sinalização de Lula ao mercado, avalia economista",
+      "imagem": null
+    },
+    {
+      "titulo": "Operação da PF bloqueia R$ 53 milhões e afasta vereadores no PA",
+      "imagem": null
+    },
+    {
+      "titulo": "Análise: Projeto fiscal de Lula alivia, mas não resolve",
+      "imagem": null
+    },
+    {
+      "titulo": "VR e VA: Justiça suspende decisão que dispensava adoção das novas regras",
+      "imagem": null
+    },
+    {
+      "titulo": "Fachin autoriza pai de Vorcaro a deixar prisão para fazer exames",
+      "imagem": null
+    },
+    {
+      "titulo": "Em carta, PT diz que urnas valem mais que poder econômico e ignora fiscal",
+      "imagem": null
+    },
+    {
       "titulo": "Polícia prende suspeitos de sequestrar e matar comerciante em SP",
       "imagem": null
     },
@@ -35,91 +119,7 @@
     {
       "titulo": "Hope: nasce a nova ararinha-azul do Zoológico de São Paulo",
       "imagem": null
-    },
-    {
-      "titulo": "Preços da Petrobras seguem adequados, mas avaliamos ajustes, diz diretora",
-      "imagem": null
-    },
-    {
-      "titulo": "Braskem desaba 14% na bolsa após acordo com credores",
-      "imagem": null
-    },
-    {
-      "titulo": "Libertadores: final esgota ingressos e deve movimentar R$ 430 milhões",
-      "imagem": null
-    },
-    {
-      "titulo": "CropLife espera regulamentação de bioinsumos ainda em 2026",
-      "imagem": null
-    },
-    {
-      "titulo": "São Paulo deve começar vacinação contra Mpox nesta quarta-feira (25)",
-      "imagem": null
-    },
-    {
-      "titulo": "NBA lança plataforma no Brasil que pode levar fãs aos jogos da liga nos EUA",
-      "imagem": null
-    },
-    {
-      "titulo": "Justiça dá 72 horas para 99Food comprovar fim de cláusulas de banimento",
-      "imagem": null
-    },
-    {
-      "titulo": "Como vence AEK Atenas e segue na cola de gigantes europeus na Champions",
-      "imagem": null
-    },
-    {
-      "titulo": "Alerj propõe ajustar salário de governador para R$ 36 mil",
-      "imagem": null
-    },
-    {
-      "titulo": "Com gol contra &#8220;relâmpago&#8221;, Porto vence Feyenoord pela Champions",
-      "imagem": null
-    },
-    {
-      "titulo": "CNI move nova ação no STF contra os atos que regulamentam o fim da 6&#215;1",
-      "imagem": null
-    },
-    {
-      "titulo": "PF investiga empresário preso em Portugal por envio de cocaína à Europa",
-      "imagem": null
-    },
-    {
-      "titulo": "Magda: Petrobras já não é empresa de petróleo e gás, mas de energia",
-      "imagem": null
-    },
-    {
-      "titulo": "Rebelião em presídio de Tremembé deixa cinco detentos feridos",
-      "imagem": null
-    },
-    {
-      "titulo": "Aos 83 anos, ele enfrentou uma tempestade avassaladora por um fiel — e pagou com a própria vida",
-      "imagem": null
-    },
-    {
-      "titulo": "Vini marca, Real Madrid goleia PSV e vira líder provisório da Champions",
-      "imagem": null
-    },
-    {
-      "titulo": "Manchester City tropeça contra o Napoli na Champions League",
-      "imagem": null
-    },
-    {
-      "titulo": "Congresso vai atuar em defesa de Van Hattem em ação no STF, diz Alcolumbre",
-      "imagem": null
-    },
-    {
-      "titulo": "Condenado há 9 meses pela morte de Marielle, major é demitido da PM do Rio",
-      "imagem": null
-    },
-    {
-      "titulo": "Fala de Trump sobre Filipinas não preocupa, diz André de Paula",
-      "imagem": null
-    },
-    {
-      "titulo": "Arsenal perde chances e empata contra o Borussia Dortmund pela Champions",
-      "imagem": null
     }
   ],
-  "atualizadoEm": "2026-11-25T00:41:46.720Z"
+  "atualizadoEm": "2026-11-25T09:11:48.249Z"
 }
